@@ -1,28 +1,23 @@
-name: Refresh data
+name: Refresh World Cup data and media
 
-# Keeps the DEPLOYED site's news + stats fresh without any machine of yours
-# being on. Hourly it regenerates data/news.json + data/stats.json, commits the
-# change (so the repo stays in sync), then runs `wrangler deploy` to publish —
-# because this site is a Cloudflare Workers static-assets deploy, NOT a Pages
-# git-integration, so a plain git push does NOT update the live site.
+# Refreshes news, stats, match-specific FIFA videos, player media and venue
+# photography. Changed overlays are committed and then published to the
+# Cloudflare Workers static-assets deployment.
 #
-# ONE-TIME SETUP (required before the deploy step does anything):
-#   Add two repo secrets under Settings → Secrets and variables → Actions:
-#     CLOUDFLARE_API_TOKEN   — a token with "Edit Cloudflare Workers" permission
-#     CLOUDFLARE_ACCOUNT_ID  — your Cloudflare account id
-#   Until they exist, the job still refreshes + commits data; it just skips the
-#   publish step (so the run stays green).
+# Required repository secrets for publishing:
+#   CLOUDFLARE_API_TOKEN — token with Edit Cloudflare Workers permission
+#   CLOUDFLARE_ACCOUNT_ID — the Cloudflare account id
 
 on:
   schedule:
-    - cron: '23 * * * *'   # hourly at :23 UTC (off the top-of-hour congestion)
-  workflow_dispatch: {}      # lets you run it on demand from the Actions tab
+    - cron: '17 * * * *'
+  workflow_dispatch: {}
 
 permissions:
-  contents: write            # allow the job to push the data commit
+  contents: write
 
 concurrency:
-  group: refresh-data
+  group: knockout-circle-data-refresh
   cancel-in-progress: false
 
 jobs:
@@ -33,36 +28,36 @@ jobs:
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'   # updater uses global fetch + ESM; wrangler needs Node 18+
+          node-version: 22
 
-      - name: Regenerate data files
-        continue-on-error: true   # a hiccup in one source shouldn't block the other's update
+      - name: Check FIFA videos, player media and venue photography
+        continue-on-error: true
         run: node scripts/update-data.mjs
 
-      - name: Commit & push if data changed
+      - name: Commit and push refreshed overlays
         id: commit
         run: |
-          if [ -n "$(git status --porcelain data/)" ]; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/
-            git commit -m "chore(data): hourly refresh of news & stats"
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Pushed refreshed data."
-          else
+          if git diff --quiet -- data; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No data changes this run."
+            echo "No media changes found."
+            exit 0
           fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "chore(data): refresh World Cup data and media"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Publish to Cloudflare Workers
-        # only when data actually changed AND the deploy secret is configured
         if: ${{ steps.commit.outputs.changed == 'true' && env.CLOUDFLARE_API_TOKEN != '' }}
         run: npx --yes wrangler deploy
 
       - name: Note if deploy was skipped
         if: ${{ steps.commit.outputs.changed == 'true' && env.CLOUDFLARE_API_TOKEN == '' }}
-        run: echo "::warning::Data was refreshed & committed, but CLOUDFLARE_API_TOKEN is not set, so the LIVE site was not updated. Add the repo secrets to enable publishing."
+        run: echo "::warning::Data was refreshed and committed, but CLOUDFLARE_API_TOKEN is not configured, so the live site was not published."

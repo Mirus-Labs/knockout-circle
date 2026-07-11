@@ -177,12 +177,18 @@
     const D = window.KC_DATA;
     const get = async (path) => {
       try {
-        const r = await fetch(path, { cache: 'no-cache' });
+        const separator = path.includes('?') ? '&' : '?';
+        const r = await fetch(`${path}${separator}refresh=${Date.now()}`, { cache: 'no-store' });
         return r.ok ? await r.json() : null;
       } catch (e) { return null; }
     };
-    const [news, stats] = await Promise.all([get('data/news.json'), get('data/stats.json')]);
+    const [news, stats, highlights, playerImages, stadiumImages] = await Promise.all([
+      get('data/news.json'), get('data/stats.json'), get('data/highlights.json'), get('data/player-images.json'), get('data/stadium-images.json'),
+    ]);
     if (news && Array.isArray(news.news) && news.news.length) D.NEWS = news.news;
+    if (highlights && highlights.matches && typeof highlights.matches === 'object') D.HIGHLIGHTS = highlights.matches;
+    if (playerImages && playerImages.players && typeof playerImages.players === 'object') D.PLAYER_IMAGES = playerImages.players;
+    if (stadiumImages && stadiumImages.stadiums && typeof stadiumImages.stadiums === 'object') D.STADIUM_IMAGES = stadiumImages.stadiums;
     // only merge real leader tables when the bracket itself is real, never into the authored demo
     if (D.REAL && stats && stats.tabs) {
       const EXTRA_TABS = [['assists', 'Assists'], ['yellow', 'Yellow Cards'], ['red', 'Red Cards']];
@@ -222,7 +228,11 @@
     }
     try { await applyOverlays(); }
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
-    for (const src of ['js/tournament.js?v=5', 'js/app.js?v=8', 'js/fx.js?v=7', 'js/zoom.js?v=3', 'js/live.js?v=2']) {
+    const detailPage = document.body.dataset.page === 'match';
+    const scripts = detailPage
+      ? ['js/tournament.js?v=5', 'js/match-page.js?v=7']
+      : ['js/tournament.js?v=5', 'js/app.js?v=8', 'js/fx.js?v=8', 'js/zoom.js?v=5', 'js/live.js?v=2'];
+    for (const src of scripts) {
       await loadScript(src);
     }
   })();

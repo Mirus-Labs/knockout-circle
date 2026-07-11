@@ -1,0 +1,43 @@
+{
+ "updated": "2026-07-11T05:14:51.466Z",
+ "refreshed": "2026-07-11T05:13:56.220Z",
+ "source": "Wikipedia / Wikimedia Commons",
+ "stadiums": {
+  "Boston (Foxborough)": {
+   "name": "Boston Stadium · Gillette Stadium",
+   "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gillette%20Stadium%20panorama.jpg?width=2200",
+   "page": "https://commons.wikimedia.org/wiki/File:Gillette_Stadium_panorama.jpg",
+   "attribution": "Wikimedia Commons · Kenneth C. Zirkel"
+  },
+  "Atlanta": {
+   "name": "Mercedes-Benz Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mercedes_Benz_Stadium_time_lapse_capture_2017-08-13.jpg",
+   "page": "https://en.wikipedia.org/wiki/Mercedes-Benz_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Los Angeles (Inglewood)": {
+   "name": "SoFi Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SoFi_Stadium_2023.jpg/3840px-SoFi_Stadium_2023.jpg",
+   "page": "https://en.wikipedia.org/wiki/SoFi_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "New York (East Rutherford)": {
+   "name": "MetLife Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Metlife_stadium_%28Aerial_view%29.jpg",
+   "page": "https://en.wikipedia.org/wiki/MetLife_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Dallas (Arlington)": {
+   "name": "AT&T Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/3840px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg",
+   "page": "https://en.wikipedia.org/wiki/AT%26T_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Philadelphia": {
+   "name": "Lincoln Financial Field",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lincoln_Financial_Field_%28Aerial_view%29.jpg",
+   "page": "https://en.wikipedia.org/wiki/Lincoln_Financial_Field",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  }
+ }
+}

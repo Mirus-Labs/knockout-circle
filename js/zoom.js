@@ -306,7 +306,10 @@
       <div class="ms-round">${ROUNDS[ri].name}</div>
       ${UI.matchFaceHTML(key, idx)}
       ${pens ? `<div class="ms-pens">${pens}</div>` : ''}
-      ${when ? `<div class="ms-when">${when}</div>` : ''}`;
+      ${when ? `<div class="ms-when">${when}</div>` : ''}
+      <a class="ms-details-link" href="match.html?round=${encodeURIComponent(key)}&match=${idx}" data-cursor>
+        <span>View match details</span><span aria-hidden="true">↗</span>
+      </a>`;
     msCard.querySelectorAll('.mm-team[data-team]').forEach((btn) => {
       if (btn.dataset.team) btn.addEventListener('click', () => UI.openTeam(btn.dataset.team));
     });
@@ -389,7 +392,13 @@
   /* ---------- input ---------- */
   function onWheel(ev) {
     if (!active()) return;
-    if (Z.level === 2 && ev.target && ev.target.closest && ev.target.closest('.ms-stats')) return; // panel scrolls natively
+    // The match takeover is a locked state. Its stats panel scrolls natively and
+    // only the explicit Back / View details controls may leave the state.
+    if (Z.level === 2) {
+      if (ev.target && ev.target.closest && ev.target.closest('.ms-stats')) return;
+      ev.preventDefault();
+      return;
+    }
     ev.preventDefault();
     const now = performance.now();
     if (Z.animating || now < coolUntil) return;
@@ -416,6 +425,7 @@
 
   window.addEventListener('keydown', (ev) => {
     if (ev.key !== 'Escape' || Z.level === 0 || !active()) return;
+    if (Z.level === 2) return;
     const overlay = document.getElementById('overlay');
     if (overlay && !overlay.hidden) return; // the modal's own Escape handler wins this round
     stepOut();

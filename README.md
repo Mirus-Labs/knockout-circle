@@ -20,7 +20,7 @@ js/
   live.js             # live tie state
   fx.js               # background / motion effects
 data/                 # news.json, stats.json overlays (refreshed by the updater)
-scripts/update-data.mjs  # pulls headlines (Google News RSS) + stat leaders (ESPN)
+scripts/update-data.mjs  # refreshes news, stats, FIFA videos, player and stadium media
 ```
 
 ## Run locally
@@ -34,8 +34,14 @@ npx serve .        # or: python3 -m http.server
 ## Refresh data overlays
 
 ```bash
-node scripts/update-data.mjs   # writes data/news.json + data/stats.json
+node scripts/update-data.mjs   # writes all JSON overlays in data/
 ```
+
+The GitHub Actions workflow in `.github/workflows/update-data.yml` checks hourly
+for match-specific videos in FIFA's official YouTube playlist. Player and venue
+photography, plus player-specific videos from FIFA's official channel, are
+rechecked weekly. When an overlay changes, the workflow commits it to the current
+branch so a Git-connected deployment can publish the update.
 
 ## Deploy
 
