@@ -72,7 +72,7 @@
     ta && {num:'10', tag:`PLAYER TO WATCH · ${a}`, n:ta.st, meta:`${ta.f} ${ta.n}`, stat:`The creative reference point · coached by ${ta.co}`, hue:42},
     tb && {num:'10', tag:`PLAYER TO WATCH · ${b}`, n:tb.st, meta:`${tb.f} ${tb.n}`, stat:`The player this tie can turn on · coached by ${tb.co}`, hue:210},
   ].filter(Boolean);
-  const playerLayers = players.map((p,i)=>{const photo=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-layer" data-player-layer="${i}" style="--h:${p.hue}${photo?`;--player-photo:url('${photo.url}')`:''}"><span>${p.num}</span>${photo?`<a href="${photo.fifaUrl||photo.page}" target="_blank" rel="noopener">${photo.fifaUrl?'View on FIFA ↗':'Photo source ↗'}</a>`:''}</div>`;}).join('');
+  const playerLayers = players.map((p,i)=>{const photo=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-layer" data-player-layer="${i}" data-player-name="${p.n}" style="--h:${p.hue}"><span>${p.num}</span>${photo&&photo.url?`<a href="${photo.fifaUrl||photo.page}" target="_blank" rel="noopener">${photo.fifaUrl?'View on FIFA ↗':'Photo source ↗'}</a>`:''}</div>`;}).join('');
   const playerTexts = players.map((p,i)=>{const media=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-copy" data-player-copy="${i}"><span>${p.tag}</span><h2>${p.n}</h2><strong>${p.meta}</strong><p>${p.stat}</p>${media&&media.youtubeUrl?`<a class="im-player-video" href="${media.youtubeUrl}" target="_blank" rel="noopener">Watch official FIFA player video ↗</a>`:''}</div>`;}).join('');
   const playerDots = players.map((p,i)=>`<button data-player-dot="${i}" aria-label="Show ${p.n}"></button>`).join('');
 
@@ -88,7 +88,7 @@
   const stake = key === 'final' ? 'The World Cup' : (next && next.oppLabel ? next.oppLabel : `A place in the ${D.ROUNDS[ri+1].name}`);
   document.title = `${name(ta)} vs ${name(tb)} — Knockout Immersive`;
   root.innerHTML = `
-    <section class="im-hero"${stadium ? ` style="--stadium-photo:url('${stadium.url}')"` : ''}>
+    <section class="im-hero">
       <div class="im-hero-top"><a href="index.html#circle">FIFA WORLD CUP 2026 · ${round.name.toUpperCase()} · TIE ${idx+1}</a><span class="im-live ${st}"><i></i>${status}</span></div>
       <div class="im-hero-center">
         <div class="im-hero-score" data-hero-score><span>${scoreA}</span>:<span>${scoreB}</span></div>
@@ -114,6 +114,14 @@
       <span>WHAT’S AT STAKE</span><h2>Winner claims</h2><h3>${stake}</h3><p>${key === 'final' ? 'One match from immortality.' : `The road continues through the ${D.ROUNDS[ri+1].name} — then the final.`}</p>
       <a href="index.html#circle">‹ BACK TO THE BRACKET</a>
     </section>`;
+
+  // Assign remote media through the CSSOM so punctuation in Wikimedia URLs
+  // cannot break an inline style declaration.
+  if (stadium?.url) root.querySelector('.im-hero')?.style.setProperty('--stadium-photo', `url(${JSON.stringify(stadium.url)})`);
+  root.querySelectorAll('[data-player-name]').forEach((layer) => {
+    const photo = (D.PLAYER_IMAGES || {})[layer.dataset.playerName];
+    if (photo?.url) layer.style.setProperty('--player-photo', `url(${JSON.stringify(photo.url)})`);
+  });
 
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const fine = matchMedia('(pointer:fine)').matches;
@@ -163,7 +171,7 @@
     pill.innerHTML = liveN
       ? `<span class="dot-live"></span><span class="lbl">${liveN} LIVE</span>`
       : todayN
-        ? `<span class="dot-live"></span><span class="lbl">${todayN} TODAY</span>`
+        ? `<span class="lbl">${todayN} TODAY</span>`
         : `<span class="lbl">${next ? `NEXT ${fmtDate(nextDate)}` : 'TOURNAMENT OVER'}</span>`;
   };
   updateNavPill();

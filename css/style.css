@@ -870,6 +870,18 @@ html[data-theme="light"] .overlay { background: rgba(46, 36, 16, .45); }
 .outcome .oc-title.dim { color: var(--t-soft); }
 .outcome .oc-desc { font: 500 12px/1.4 var(--font-body); color: var(--t-mute); }
 .mm-advanced { margin-top: 12px; font: 600 13px var(--font-body); color: var(--accent); }
+.mm-story-link {
+  display: flex; align-items: center; justify-content: center; gap: 14px;
+  width: min(100%, 280px); margin: 24px auto 0; padding: 13px 20px;
+  border-radius: 99px;
+  background: linear-gradient(120deg, var(--accent-2), var(--accent));
+  color: var(--btn-gold-text); text-decoration: none; text-transform: uppercase;
+  font: 700 11px var(--font-display); letter-spacing: .14em;
+  box-shadow: 0 10px 30px rgba(var(--glow), .2);
+  transition: transform .25s var(--ease-out), box-shadow .25s;
+}
+.mm-story-link:hover { transform: translateY(-2px); box-shadow: 0 15px 40px rgba(var(--glow), .38); }
+.mm-story-link:focus-visible { outline: 2px solid var(--t-strong); outline-offset: 3px; }
 
 /* team modal */
 .tm-head {
@@ -1045,7 +1057,17 @@ footer {
 }
 
 @media (max-width: 640px) {
-  .nav-word { display: none; }
+  .nav-brand .nav-word {
+    display: block;
+    font-size: 11px;
+    letter-spacing: .22em;
+    white-space: nowrap;
+  }
+  .foot-brand .nav-word {
+    display: block;
+    font-size: 14px;
+    letter-spacing: .28em;
+  }
   .nav-live span.lbl { display: none; }
   .bracket-stage { display: none; }
   .mbracket { display: block; }
@@ -1054,6 +1076,8 @@ footer {
   .hero-live { flex-direction: column; }
   .mm-digits { font-size: 34px; }
   .mm-team .flag { font-size: 34px; }
+  .mm-wrap { padding: 24px 18px 20px; }
+  .mm-story-link { width: 100%; min-height: 48px; margin-top: 20px; }
   .tm-flag { font-size: 46px; }
   .tm-name { font-size: 22px; }
   .path-row .pr-round { width: 76px; font-size: 9px; }

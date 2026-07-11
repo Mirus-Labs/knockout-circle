@@ -1,14 +1,68 @@
 {
- "updated": "2026-07-11T05:14:48.822Z",
+ "updated": "2026-07-11T06:44:25.856Z",
  "news": [
+  {
+   "cat": "AL JAZEERA",
+   "title": "Watch World Cup: France ends Morocco’s run, cruises into semifinals",
+   "iso": "2026-07-11T06:41:37.000Z",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HckVaY1h0QnBSQUNPYjlLQ3ViUmNhSHVVd2oyMTUxWVNIdjZIczlUQV8tY0UxN1FEMDhsOXYxN29Yek1qejNycWZoWHhrOUVIQktyYVp0WDVKdFBTM0hjaU9POHdtM2VORnktR0hiMXRjSW1URWgzLXpLa1RaZ9IBgwFBVV95cUxQWkNubDgybmpPdmpDSmh1SjYyZDlLX0d0Wlp6ZVFkOEZhVjE5Skc4NFFMYlhUMU5fVzZLcEtMU0EtYVpmd3RZQmJWNWM2UDhVRi1IZ2FHTExZNkJoTGpOUlNnNXM2Z1FYSEZWNzc1U1hFeW9mYkNzZ2EycFh0RzJBQWpEbw?oc=5",
+   "lede": "Watch World Cup: France ends Morocco’s run, cruises into semifinals &nbsp;&nbsp; Al Jazeera",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’",
+   "iso": "2026-07-11T05:37:30.000Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTBPSlRBeEZsWERUT2llemZwUF9jQUNaWHF4ZDNUTE03NHc5R0lJUzgyaG1CN3hSSk1VVnVXcnB0akw2YmNsYlBOQjh0ejZnT2k2Um90Z2szS2Q3QVI4TFpQYm8zSXZoSDBWQ0dVVnhBRDJ2WEthUlFjeDZKWmgtdXBLTGNwQzh3U3lub3RCQWdIZFU0OFFKb2hWNV9tbmcyMTQ3VnVjcDJOc1ZhUWE4Z1lsQUnSAboBQVVfeXFMUGxhTE5XcjNKQTZfcG1UQnlPaEJjUjBGajM3VWRiWXhyZU5rci1IbmdqNmRpZmo1N0RWLXhOU1A2S0Q0T01JOUtoVllreVhyTEJCMXZJd1R6TWtaS2lWU2JjandFQXVqTENmYWxpYXNLWV84SWM1VjhRell5azZZRkhHX0pIMms4NjBqNE1nRDh3Zm9JWTZqVE0xSk9kS2JZalBhSDQ2OE9EYnAyYi1kTWxQZlpVeWtqRzB3?oc=5",
+   "lede": "Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’ &nbsp;&nbsp; Al Jazeera",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "UEFA.COM",
+   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
+   "iso": "2026-07-11T05:20:58.000Z",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2JMTXRPVmREV09GaEdtaGRTS1pVbXlKZ3hyb2lzWUE1QnEyNVh4REc0ZUFCeVY0UXVVb2ZTVnlzNExOSmJsd1VmaHF4ekJ4RHJBc3h6UkxVMllZekl3UjZGakVtUDZxbGFzWmxHdnU2OUdHcldtX2pMU3YyMzQwdm80djczWTdKVzVmb1kyOFdJdzZfYlVEa0pBUGpfeHdMM2hleVlPamp4UDk4Q1U2SDZ3ajYxX3pMMWVFZ3RKNkNTbVlNWDVZYXBWcnFkUzhVYnplV1BwNkl4d28?oc=5",
+   "lede": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results &nbsp;&nbsp; UEFA.com",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC",
+   "title": "England set for open-air Miami heat - but do Norway hold the edge?",
+   "iso": "2026-07-11T05:08:35.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNDlnMXFwbWR6RWs0S0R0NjBkTDQ2bHdZM3JmUjF6TDliNUlpaTlHMUNPc1liQXlaeG1pRENRM2k0UGx4UGlTQWNHdk5DZEt1MXJiNE5aaHhFUGlrNmtTQTA5YTR2cy1qM0E?oc=5",
+   "lede": "England set for open-air Miami heat - but do Norway hold the edge? &nbsp;&nbsp; BBC",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "The most expensive World Cup 2026 tickets ranked: World Cup Final, $30,000+ tickets, Argentina and more",
+   "iso": "2026-07-11T05:06:16.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkJYelFabE1oZU9BcVB2UGJXRkI5ZGFNTWJsOUw0c1RjY3dKQThHVl9ORThLV29yOU9iU1I3Z0I5SGVRTjhlUVVNdF9faW9kdUlEOHNYRC1pNXFEcnUzdTYwUTJqa3VvSlVpVXJjS0YxZG9EQjJtWU80SzdjRmM5enpIaU9Wem4y?oc=5",
+   "lede": "The most expensive World Cup 2026 tickets ranked: World Cup Final, $30,000+ tickets, Argentina and more &nbsp;&nbsp; Goal.com",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Who has most goals in World Cup history? Lionel Messi in top spot, but Kylian Mbappé close behind",
+   "iso": "2026-07-11T05:00:41.000Z",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObHJKa21vQ0JkTi1MTGtlYlczYTkzOV9zbmI0T2JDdGt3UHJrMmRpMVRrVXRBZHFWcU1QcGhBTzFhNV9LWExnVXJpNm9rbU1SVFc0cjZjb2h6eGFpbTNocWlJa2xhdFZGYkZpaDZkdURMckNPRVBISWpWSUVyYmFETGtzTU9mWmRTc0lVNlJzTGVLTER2VDN3TTgteVVNYjh1S3FkNnhfSkVkOGpqYzRCOVY5R3kzY2JFTmxHTlhJNjRtVS10eUNreWdJc0otT3pyTFExOTJIRjBDVDlHNmNtMU9XbHA?oc=5",
+   "lede": "Who has most goals in World Cup history? Lionel Messi in top spot, but Kylian Mbappé close behind &nbsp;&nbsp; Yahoo Sports",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "World Cup star Erling Haaland was born in Leeds, how close was he to playing for England?",
    "iso": "2026-07-11T04:15:26.000Z",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnN5SDFEVTlqWFJYNExGZXdiNzNvakxEc3BzbE5taTVMLUlKQzVtdW5fbU9BYjJoQUotUEV3RnpDTUNpeDNtTjJsaEJocTU2dVVmVm9fT1FRNk05RDFscXRfR2xHeWRkbkNib0RZaU00aFpuR2JoU0xHRGdnMm03bEFuTllpb3BQaE5uYzRpLXZIU3VORG5N?oc=5",
    "lede": "World Cup star Erling Haaland was born in Leeds, how close was he to playing for England? &nbsp;&nbsp; The New York Times",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -16,60 +70,6 @@
    "iso": "2026-07-11T04:15:18.000Z",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3Y2c2FsbjFEcUpLaDZHbWlnUGpoY1NscDJTU1hhVC1fNlp4UzdZenV4eE1rUDQ1NHZqX0JraXJmUm04QmNqVE16dXgtRkRwZ0hKZWh0emJ0dnhJcW9ZekhqTG1QVktmd0JCR25JSHR4VS1zZzYzMHl5bXBXTEdTVW5ENmxqWHZPY3ZBSnlBNS0tWjFDX0Fhdw?oc=5",
    "lede": "Lionel Messi has spent 64% of this World Cup walking — but he is always ready to pounce &nbsp;&nbsp; The New York Times",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Is Yamal right to be confident about knocking France out of the World Cup? Day 30 recap",
-   "iso": "2026-07-11T04:15:14.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTE5yVUFaMTNPNkFqX0RGaDdVR2M5amx1TFJCbVlMN3U3ZG10YnNBYjBYbWxDLWRtQURhWlFnSU9JTU1ZRXE1TlZ2bUotNXNxVVVDTEFWYjhhMEdkeXFkV21DTXdoTFJMdUIySUZmc3NwQTdSYnJ1bHRJTlYzMHJEWXlOSE5Wd1d4?oc=5",
-   "lede": "Is Yamal right to be confident about knocking France out of the World Cup? Day 30 recap &nbsp;&nbsp; The New York Times",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "World Cup predictions, quarter-finals: Norway vs England, and Argentina vs Switzerland",
-   "iso": "2026-07-11T04:13:03.000Z",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPODVvWkRodU5DY3BUbkVyYnFZWEtlVC1ld2dsdTB0c1BicHZURGVLajdsSXN5THVYeWZtRnd5cUpkenZ5clRzODladjgxUDJfenVfOHdCWm1KQU9NbVVQUVZiejhBekZjTndralpNVzE2dVBVY0VHdHgwcXczR0djcmhKb0RxRXlZel9oNzNKeE40bmhGczM0ZnFFdjI5RlJoTElmbFBNdFFieTRjc3BhSA?oc=5",
-   "lede": "World Cup predictions, quarter-finals: Norway vs England, and Argentina vs Switzerland &nbsp;&nbsp; The New York Times",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Mikel Merino is most effective super sub in World Cup knockouts – this is why",
-   "iso": "2026-07-11T04:10:22.000Z",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmNJV2tqdENCVGFtQV9pRlFFM2JNaHBYb3BDenQ2VGtuZWQ4ZHFWbGdtTW9mNEdXQmR1RV80Rm1DWlIxUjlXMFp3SWp2NEZZT3NCeE9jMlpPUGlCYTdLc1BqOEJjWjdpTkdvODFCYTVGT21GdFVIdHVwUy1pcDByNHlSZEIxSnAxbHdOeg?oc=5",
-   "lede": "Mikel Merino is most effective super sub in World Cup knockouts – this is why &nbsp;&nbsp; The New York Times",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Norway vs England mega-preview: Predictions, form guide, key players and more",
-   "iso": "2026-07-11T04:09:57.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXJtUEpHUjJ2aEN3OGx5Z2JPUlVBcjBWRmFHdm9pMFZnVWVhUmVWdmR1R0NzRUFnNkM5cHROLUo4VnlWLXlDd0dGVzJTaF9QYmt4WDRDVE9Md3RKcDVoUHJWREFsdGwyd3RPNUtoNVp1ekthYzNPWThJS1lxVTNTSVp5Sy1VZVgzLV9EUy15dnFfbnNBeDlsU1BWbzFyNkxsQ29yQkFYc1FDOHM?oc=5",
-   "lede": "Norway vs England mega-preview: Predictions, form guide, key players and more &nbsp;&nbsp; The New York Times",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How Martin Odegaard inspired Norway to their greatest World Cup campaign",
-   "iso": "2026-07-11T04:09:43.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZjdLazgzeHBJY2VfZWNZQzYtS25qQmJQWUlTMmxjVFdXNlk5MXI0SlNVM1ZoUjJ4dWlKRkxYQVBJdEx3QnZiZmxwYTR3X0VaVjN5bGM0Yk9KM3I1ZFozaVFPMjZyRWhzZDJBUGhfVklrS0tzcE1ad3gzbUIxcWlvbzB2clNSU1dmNVA4ZzNlekVmajRmZUw0RkxGVXdzWVBLWFlJ?oc=5",
-   "lede": "How Martin Odegaard inspired Norway to their greatest World Cup campaign &nbsp;&nbsp; The New York Times",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Argentina vs Switzerland mega-preview: Predictions, form guide, key players and more",
-   "iso": "2026-07-11T04:08:59.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSU5JcW5mcF9hQ3M5UWtjS0VoVXpDaUlkbTBXVm9zWUM2alZRbXUyc1l5YTA0aWdEWUFMZ1FSZ1JNRVlGQWVtTGJuYW5zUHpicDZFcVVmQWZSLU5kSVhQRkMycjFGcUNDR2VlZUl3Z2tWTkpCMDBKcllaWnBKaDB6cWRGQUVkaWJhZjVMVXJackNMMkgxaUM2X0hDV0FXSU9OSVlVX2JaMC1PZw?oc=5",
-   "lede": "Argentina vs Switzerland mega-preview: Predictions, form guide, key players and more &nbsp;&nbsp; The New York Times",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }

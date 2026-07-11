@@ -11,6 +11,12 @@
   "observability": {
     "enabled": true
   },
+  // Wrangler runs this immediately before `deploy`, so every deployment ships
+  // freshly requested overlays instead of whatever happened to be in git.
+  // The updater detects `wrangler dev` and skips network work there.
+  "build": {
+    "command": "node scripts/update-data.mjs --deploy"
+  },
   "assets": {
     "directory": "."
   }

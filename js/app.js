@@ -37,6 +37,13 @@
     const mins = Math.max(1, Math.round((Date.now() - new Date(n.iso)) / 60000));
     return mins < 60 ? mins + 'm' : mins < 1440 ? Math.round(mins / 60) + 'h' : Math.round(mins / 1440) + 'd';
   };
+  const updatedTime = (iso) => {
+    if (!iso || Number.isNaN(Date.parse(iso))) return 'Update unavailable';
+    const mins = Math.max(0, Math.floor((Date.now() - Date.parse(iso)) / 60000));
+    if (mins < 1) return 'Updated just now';
+    if (mins < 60) return `Updated ${mins}m ago`;
+    return `Updated ${Math.floor(mins / 60)}h ago`;
+  };
 
   const $ = (s, c) => (c || document).querySelector(s);
   const el = (tag, cls, html) => {
@@ -415,6 +422,9 @@
       ${matchFaceHTML(key, idx)}
       ${REAL ? realDetail(key, idx) : fakeStats(key, idx, st)}
       ${outcomesHTML(key, idx)}
+      <a class="mm-story-link" href="match.html?round=${encodeURIComponent(key)}&match=${idx}">
+        <span>View match detail</span><span aria-hidden="true">→</span>
+      </a>
     </div>`);
 
     modalCard.querySelectorAll('.mm-team[data-team]').forEach(btn => {
@@ -506,7 +516,7 @@
     const fl = (c) => c ? TEAMS[c].f : '❔';
     const nm = (c) => c ? TEAMS[c].n : 'To be decided';
     const card = el('button', 'live-card', `
-      <div class="lc-top">${isToday ? '<span class="dot-live"></span>TODAY' : 'UP NEXT'} · ${rd}<span class="lc-min">${fmtDate(M.date)}</span></div>
+      <div class="lc-top">${isToday ? 'TODAY' : 'UP NEXT'} · ${rd}<span class="lc-min">${fmtDate(M.date)}</span></div>
       <div class="lc-row">
         <span class="flags">${fl(a)}</span>
         <span class="lc-score">VS</span>
@@ -610,6 +620,16 @@
   /* ================= NEWS ================= */
   function buildNews() {
     const wrap = $('#newsList');
+    const freshness = $('#newsPanel .updated');
+    const renderFreshness = () => {
+      if (!freshness) return;
+      freshness.innerHTML = `<span class="dot-live" style="width:6px;height:6px"></span>${updatedTime(D.OVERLAY_UPDATED && D.OVERLAY_UPDATED.news)}`;
+      freshness.title = D.OVERLAY_UPDATED?.news
+        ? `News feed fetched ${new Date(D.OVERLAY_UPDATED.news).toLocaleString()}`
+        : 'The news overlay could not be loaded';
+    };
+    renderFreshness();
+    setInterval(renderFreshness, 60000);
     D.NEWS.forEach((n, i) => {
       const hue = (seed, j) => `hsl(${(seed * 53 + j * 90) % 360} 48% 48%)`;
       const hue2 = (seed, j) => `hsl(${(seed * 53 + j * 90 + 50) % 360} 48% 32%)`;
@@ -777,7 +797,7 @@
     const body = (a && b) ? `
       <div class="mtie-body"><div><div class="inner">
         ${inner}
-        <button class="mtie-more" data-open-match>Full match details</button>
+        <a class="mtie-more" href="match.html?round=${encodeURIComponent(key)}&match=${idx}">Full match story · images &amp; video</a>
       </div></div></div>` : '';
 
     const card = el('article', 'mtie' + (st === 'live' ? ' is-live' : ''), `
@@ -798,8 +818,8 @@
       const open = card.classList.toggle('open');
       head.setAttribute('aria-expanded', open);
     });
-    const more = card.querySelector('[data-open-match]');
-    if (more) more.addEventListener('click', (ev) => { ev.stopPropagation(); openMatch(key, idx); });
+    const more = card.querySelector('.mtie-more');
+    if (more) more.addEventListener('click', (ev) => ev.stopPropagation());
     return card;
   }
 
@@ -885,7 +905,7 @@
     pill.innerHTML = liveN
       ? `<span class="dot-live"></span><span class="lbl">${liveN} LIVE</span>`
       : todayN
-        ? `<span class="dot-live"></span><span class="lbl">${todayN} TODAY</span>`
+        ? `<span class="lbl">${todayN} TODAY</span>`
         : `<span class="lbl">${next ? 'NEXT ' + fmtDate(KICKOFF(next.key, next.idx).date).toUpperCase() : 'TOURNAMENT OVER'}</span>`;
   }
 

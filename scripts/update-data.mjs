@@ -20,6 +20,14 @@ const OUT = join(ROOT, 'data');
 const UA = { 'User-Agent': 'KnockoutCircle/1.0 (+static site data updater)' };
 
 const log = (...a) => console.log(new Date().toISOString(), '-', ...a);
+const deployRefresh = process.argv.includes('--deploy');
+
+// A Wrangler custom build runs for both `dev` and `deploy`. Keep local startup
+// fast and deterministic; only a real deployment should call remote sources.
+if (deployRefresh && process.env.WRANGLER_COMMAND && process.env.WRANGLER_COMMAND !== 'deploy') {
+  log(`data refresh skipped for wrangler ${process.env.WRANGLER_COMMAND}`);
+  process.exit(0);
+}
 
 /* ---------------- news: Google News RSS ---------------- */
 const NEWS_EMOJI = ['⚽', '🏆', '🏟️', '🔥', '🌎', '🎯', '📣', '🧤'];
@@ -30,6 +38,18 @@ const unescapeXml = (s) => s
   .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"')
   .replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, '&');
 const stripTags = (s) => unescapeXml(s).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+const pause = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+async function fetchJsonWithRetry(url, attempts = 3) {
+  for (let attempt = 0; attempt < attempts; attempt++) {
+    try {
+      const response = await fetch(url, { headers: UA });
+      if (response.ok) return await response.json();
+      if (response.status < 429 && response.status < 500) return null;
+    } catch { /* retry transient network failures */ }
+    if (attempt + 1 < attempts) await pause(350 * (attempt + 1));
+  }
+  return null;
+}
 
 async function updateNews() {
   const url = 'https://news.google.com/rss/search?q=%22world%20cup%22%20football%20when:2d&hl=en-US&gl=US&ceid=US:en';
@@ -259,8 +279,12 @@ async function updatePlayerImages() {
   try { previous = JSON.parse(await readFile(join(OUT, 'player-images.json'), 'utf8')); } catch { /* first run */ }
   const players = { ...(previous.players || {}) };
   const refreshDue = !previous.refreshed || Date.now() - Date.parse(previous.refreshed) > 7 * 864e5;
-  const missing = [...new Set(stars)].filter((name) => refreshDue || !players[name]);
-  const CHUNK = 6;
+  // A player entry may contain a video but no photograph. Treat that as
+  // unresolved media instead of incorrectly skipping it for a week.
+  const missing = [...new Set(stars)].filter((name) => refreshDue || !players[name]?.url);
+  // Wikimedia rate-limits bursty CI clients. Smaller batches make it much more
+  // likely that a single deployment fills every missing player photo.
+  const CHUNK = 3;
   for (let i = 0; i < missing.length; i += CHUNK) {
     await Promise.all(missing.slice(i, i + CHUNK).map(async (name) => {
       const api = new URL('https://en.wikipedia.org/w/api.php');
@@ -274,8 +298,7 @@ async function updatePlayerImages() {
       api.searchParams.set('format', 'json');
       api.searchParams.set('origin', '*');
       try {
-        const res = await fetch(api, { headers: UA });
-        const json = res.ok ? await res.json() : null;
+        const json = await fetchJsonWithRetry(api);
         const page = json && json.query && Object.values(json.query.pages || {})[0];
         if (page && page.thumbnail && page.thumbnail.source) players[name] = { ...players[name],
           url: page.thumbnail.source,
@@ -295,8 +318,7 @@ async function updatePlayerImages() {
           commons.searchParams.set('inprop', 'url');
           commons.searchParams.set('format', 'json');
           commons.searchParams.set('origin', '*');
-          const cr = await fetch(commons, { headers: UA });
-          const cj = cr.ok ? await cr.json() : null;
+          const cj = await fetchJsonWithRetry(commons);
           const cp = cj && cj.query && Object.values(cj.query.pages || {})[0];
           const image = cp && cp.imageinfo && cp.imageinfo[0];
           if (image && (image.thumburl || image.url)) players[name] = { ...players[name],
@@ -313,8 +335,9 @@ async function updatePlayerImages() {
   await writeFile(join(OUT, 'player-images.json'), JSON.stringify({
     updated: new Date().toISOString(), refreshed: refreshDue ? new Date().toISOString() : previous.refreshed, source: 'Wikipedia / Wikimedia Commons', players,
   }, null, 1));
+  const photos = Object.values(players).filter((player) => player.url).length;
   const videos = Object.values(players).filter((player) => player.youtubeId).length;
-  log(`player-images.json written (${Object.keys(players).length}/${stars.length} key players resolved; ${videos} FIFA videos)`);
+  log(`player-images.json written (${photos}/${stars.length} key-player photos; ${videos} FIFA videos)`);
 }
 
 /* ---------------- venue photography: Wikimedia Commons ---------------- */
@@ -371,8 +394,36 @@ async function updateStadiumImages() {
     }
   } catch { /* unresolved venues continue through the Commons fallback */ }
 
-  const unresolved = missing.filter(([ground]) => !stadiums[ground]);
-  const CHUNK = 4;
+  // Some venue articles redirect to a title that does not exactly equal our
+  // display name, so the batched exact-title pass above cannot associate them.
+  // Resolve those one by one through Wikipedia search before trying Commons.
+  let unresolved = missing.filter(([ground]) => !stadiums[ground]);
+  for (const [ground, venue] of unresolved) {
+    try {
+      const wiki = new URL('https://en.wikipedia.org/w/api.php');
+      wiki.searchParams.set('action', 'query');
+      wiki.searchParams.set('generator', 'search');
+      wiki.searchParams.set('gsrsearch', `${venue} stadium`);
+      wiki.searchParams.set('gsrlimit', '1');
+      wiki.searchParams.set('prop', 'pageimages|info');
+      wiki.searchParams.set('piprop', 'thumbnail');
+      wiki.searchParams.set('pithumbsize', '2200');
+      wiki.searchParams.set('inprop', 'url');
+      wiki.searchParams.set('format', 'json');
+      wiki.searchParams.set('origin', '*');
+      const json = await fetchJsonWithRetry(wiki);
+      const page = json && json.query && Object.values(json.query.pages || {})[0];
+      if (page?.thumbnail?.source) stadiums[ground] = {
+        name: venue,
+        url: page.thumbnail.source,
+        page: page.fullurl || `https://en.wikipedia.org/?curid=${page.pageid}`,
+        attribution: 'Wikipedia / Wikimedia Commons',
+      };
+    } catch { /* continue to Commons */ }
+  }
+
+  unresolved = missing.filter(([ground]) => !stadiums[ground]);
+  const CHUNK = 2;
   for (let i = 0; i < unresolved.length; i += CHUNK) {
     await Promise.all(unresolved.slice(i, i + CHUNK).map(async ([ground, venue]) => {
       try {
@@ -388,8 +439,7 @@ async function updateStadiumImages() {
         api.searchParams.set('inprop', 'url');
         api.searchParams.set('format', 'json');
         api.searchParams.set('origin', '*');
-        const res = await fetch(api, { headers: UA });
-        const json = res.ok ? await res.json() : null;
+        const json = await fetchJsonWithRetry(api);
         const page = json && json.query && Object.values(json.query.pages || {})[0];
         const image = page && page.imageinfo && page.imageinfo[0];
         if (!image || !(image.thumburl || image.url)) return;
@@ -433,4 +483,8 @@ if (!highlightsOnly) {
   catch (err) { failures++; console.error('stadium image update failed:', err.message); }
 }
 
-process.exit(failures ? 1 : 0);
+// During a deployment, publish every successful refresh and retain the
+// last-known-good JSON for a source that is temporarily unavailable. Scheduled
+// refreshes still return non-zero so GitHub Actions visibly reports the fault.
+if (deployRefresh && failures) log(`${failures} source refresh(es) failed; deploying preserved last-known-good data for those sources`);
+process.exit(failures && !deployRefresh ? 1 : 0);

@@ -37,11 +37,13 @@ npx serve .        # or: python3 -m http.server
 node scripts/update-data.mjs   # writes all JSON overlays in data/
 ```
 
-The GitHub Actions workflow in `.github/workflows/update-data.yml` checks hourly
+The GitHub Actions workflow in `.github/workflows/update-data.yml` checks twice hourly
 for match-specific videos in FIFA's official YouTube playlist. Player and venue
 photography, plus player-specific videos from FIFA's official channel, are
 rechecked weekly. When an overlay changes, the workflow commits it to the current
-branch so a Git-connected deployment can publish the update.
+branch so a Git-connected deployment can publish the update. A Wrangler custom
+build also runs the updater immediately before every production deploy, so a
+manual or Git-connected redeploy cannot ship stale checked-in overlays.
 
 ## Deploy
 

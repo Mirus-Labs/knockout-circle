@@ -10,7 +10,9 @@ name: Refresh World Cup data and media
 
 on:
   schedule:
-    - cron: '17 * * * *'
+    # Twice hourly keeps normal GitHub scheduler delays comfortably below the
+    # two-hour freshness target.
+    - cron: '17,47 * * * *'
   workflow_dispatch: {}
 
 permissions:

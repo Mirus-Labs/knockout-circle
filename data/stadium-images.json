@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T05:14:51.466Z",
+ "updated": "2026-07-11T06:44:28.882Z",
  "refreshed": "2026-07-11T05:13:56.220Z",
  "source": "Wikipedia / Wikimedia Commons",
  "stadiums": {
@@ -37,6 +37,66 @@
    "name": "Lincoln Financial Field",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lincoln_Financial_Field_%28Aerial_view%29.jpg",
    "page": "https://en.wikipedia.org/wiki/Lincoln_Financial_Field",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Miami": {
+   "name": "Hard Rock Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hard_Rock_Stadium_for_Super_Bowl_LIV_%2849606710103%29.jpg/3840px-Hard_Rock_Stadium_for_Super_Bowl_LIV_%2849606710103%29.jpg",
+   "page": "https://en.wikipedia.org/wiki/Hard_Rock_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Kansas City": {
+   "name": "Arrowhead Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg/3840px-Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg",
+   "page": "https://en.wikipedia.org/wiki/Arrowhead_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Houston": {
+   "name": "NRG Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nrg_stadium.jpg",
+   "page": "https://en.wikipedia.org/wiki/NRG_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Seattle": {
+   "name": "Lumen Field",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg/3840px-2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg",
+   "page": "https://en.wikipedia.org/wiki/Lumen_Field",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "San Francisco (Santa Clara)": {
+   "name": "Levi's Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Levi%27s_Stadium_in_February_2016_prior_to_Super_Bowl_50_%2824398261729%29.jpg/3840px-Levi%27s_Stadium_in_February_2016_prior_to_Super_Bowl_50_%2824398261729%29.jpg",
+   "page": "https://en.wikipedia.org/wiki/Levi%27s_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Toronto": {
+   "name": "BMO Field",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toronto_BMO_Field_in_2024.jpg/3840px-Toronto_BMO_Field_in_2024.jpg",
+   "page": "https://en.wikipedia.org/wiki/BMO_Field",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Vancouver": {
+   "name": "BC Place",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BC_Place_2015_Women%27s_FIFA_World_Cup.jpg/3840px-BC_Place_2015_Women%27s_FIFA_World_Cup.jpg",
+   "page": "https://en.wikipedia.org/wiki/BC_Place",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Mexico City": {
+   "name": "Estadio Azteca",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg/3840px-Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg",
+   "page": "https://en.wikipedia.org/wiki/Estadio_Azteca",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Guadalajara": {
+   "name": "Estadio Akron",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg/3840px-Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg",
+   "page": "https://en.wikipedia.org/wiki/Estadio_Akron",
+   "attribution": "Wikipedia / Wikimedia Commons"
+  },
+  "Monterrey": {
+   "name": "Estadio BBVA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mexico_Guadalupe_Monterrey_Estadio_BBVA_Bancomer_fifa_world_cup_2026_6.JPG",
+   "page": "https://en.wikipedia.org/wiki/Estadio_BBVA",
    "attribution": "Wikipedia / Wikimedia Commons"
   }
  }

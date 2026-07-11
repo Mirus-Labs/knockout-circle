@@ -189,6 +189,13 @@
     if (highlights && highlights.matches && typeof highlights.matches === 'object') D.HIGHLIGHTS = highlights.matches;
     if (playerImages && playerImages.players && typeof playerImages.players === 'object') D.PLAYER_IMAGES = playerImages.players;
     if (stadiumImages && stadiumImages.stadiums && typeof stadiumImages.stadiums === 'object') D.STADIUM_IMAGES = stadiumImages.stadiums;
+    D.OVERLAY_UPDATED = {
+      news: news && news.updated,
+      stats: stats && stats.updated,
+      highlights: highlights && highlights.updated,
+      players: playerImages && playerImages.updated,
+      stadiums: stadiumImages && stadiumImages.updated,
+    };
     // only merge real leader tables when the bracket itself is real, never into the authored demo
     if (D.REAL && stats && stats.tabs) {
       const EXTRA_TABS = [['assists', 'Assists'], ['yellow', 'Yellow Cards'], ['red', 'Red Cards']];
@@ -230,8 +237,8 @@
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
     const detailPage = document.body.dataset.page === 'match';
     const scripts = detailPage
-      ? ['js/tournament.js?v=5', 'js/match-page.js?v=7']
-      : ['js/tournament.js?v=5', 'js/app.js?v=8', 'js/fx.js?v=8', 'js/zoom.js?v=5', 'js/live.js?v=2'];
+      ? ['js/tournament.js?v=5', 'js/match-page.js?v=8']
+      : ['js/tournament.js?v=5', 'js/app.js?v=9', 'js/fx.js?v=8', 'js/zoom.js?v=5', 'js/live.js?v=2'];
     for (const src of scripts) {
       await loadScript(src);
     }
