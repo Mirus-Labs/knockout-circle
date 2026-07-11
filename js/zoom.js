@@ -37,6 +37,7 @@
 
   const Z = { level: 0, focus: null, game: null, returnFocus: null, animating: false };
   let acc = 0, lastWheel = 0, coolUntil = 0;
+  let activeTL = null; // the running enter/leave timeline — killed when interrupted
 
   const active = () => finePointer.matches && window.innerWidth > 640;
   const dur = (x) => (reduced.matches ? 0 : x);
@@ -132,6 +133,8 @@
     if (f) bracket.dataset.focus = focusId(f);
     else delete bracket.dataset.focus;
     stageEl.classList.toggle('is-zoomed', Z.level > 0);
+    stageEl.classList.toggle('is-staged', Z.level === 2);
+    document.body.classList.toggle('kc-staged', Z.level === 2); // quiets the gold dust
     syncControls();
   }
 
@@ -214,13 +217,14 @@
     setFocus(Z.focus || Z.returnFocus); // keep the circle dimmed sensibly beneath the takeover
     buildMatchStage(key, idx, false);
 
+    if (activeTL) activeTL.kill();
     Z.animating = true;
     const gf = gameFrame(key, idx);
     const push = from === 0 ? .7 : .55;
     matchStage.hidden = false;
     const digits = msCard.querySelector('.mm-digits');
-    const tl = gsap.timeline({
-      onComplete: () => { Z.animating = false; cam.style.visibility = 'hidden'; },
+    const tl = activeTL = gsap.timeline({
+      onComplete: () => { Z.animating = false; activeTL = null; cam.style.visibility = 'hidden'; },
     });
     tl.to(cam, {
       xPercent: (0.5 - gf.s * gf.fx) * 100,
@@ -232,23 +236,28 @@
       overwrite: 'auto',
     }, 0)
       .to(cam, { opacity: 0, duration: dur(.25) }, Math.max(0, dur(push) - dur(.25)))
+      // fromTo on the CONTAINERS — a previous leave parks them at opacity 0, and
+      // only a container-level "from" reset guarantees the panel is visible again
       .fromTo(msCard, { y: 24, opacity: 0 }, { y: 0, opacity: 1, duration: dur(.5), ease: 'expo.out' }, dur(push) * .6)
-      .fromTo(msStats.children, { y: 18, opacity: 0 }, { y: 0, opacity: 1, duration: dur(.45), ease: 'expo.out', stagger: dur(.04) }, dur(push) * .65);
+      .fromTo(msStats, { y: 24, opacity: 0 }, { y: 0, opacity: 1, duration: dur(.5), ease: 'expo.out' }, dur(push) * .68);
     if (digits) {
       tl.fromTo(digits, { scale: .55, y: -18, opacity: 0 }, { scale: 1, y: 0, opacity: 1, duration: dur(.6), ease: 'expo.out' }, dur(push) * .55);
     }
     msBack.focus({ preventScroll: true });
   }
 
-  /* exit the match stage → L1 focus (or L0 when focus is null) */
+  /* exit the match stage → L1 focus (or L0 when focus is null); interrupts any entrance */
   function leaveStage(focus) {
+    if (activeTL) activeTL.kill();
     const returnChip = Z.game && UI.chipEls[Z.game.key + '-' + Z.game.idx];
     Z.game = null;
     Z.animating = true;
-    const tl = gsap.timeline({
+    const tl = activeTL = gsap.timeline({
       onComplete: () => {
         matchStage.hidden = true;
+        gsap.set([msCard, msStats], { clearProps: 'transform,opacity' });
         Z.animating = false;
+        activeTL = null;
         if (returnChip) returnChip.focus({ preventScroll: true });
       },
     });
@@ -336,16 +345,23 @@
     buildMatchStage(Z.game.key, Z.game.idx, true);
   }
 
-  /* ---------- round pills + reset ---------- */
+  /* ---------- round pills + reset + interaction hint ---------- */
   function buildControls() {
     if (!controls) return;
-    controls.innerHTML = ROUNDS.map((r) =>
+    // the hint is a standing caption at the overview; CSS tucks it away while zoomed
+    const hint = `<div class="zc-hint" id="zcHint">
+        <svg class="zc-mouse" viewBox="0 0 12 18" width="11" height="17" aria-hidden="true">
+          <rect x="1" y="1" width="10" height="16" rx="5" fill="none" stroke="currentColor" stroke-width="1.4"/>
+          <line class="zc-wheel" x1="6" y1="4.5" x2="6" y2="7.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+        <span>Scroll the circle to dive in &middot; click any game for the full story</span>
+      </div>`;
+    controls.innerHTML = hint + `<div class="zc-row">` + ROUNDS.map((r) =>
       `<button class="zc-pill" data-round="${r.key}" data-cursor aria-pressed="false" aria-label="Focus the ${r.name}">${r.short}</button>`
-    ).join('') + `<button class="zc-reset" data-cursor hidden>&#10554; Overview</button>`;
+    ).join('') + `<button class="zc-reset" data-cursor hidden>&#10554; Overview</button></div>`;
     controls.hidden = !active();
     controls.querySelectorAll('.zc-pill').forEach((b) => {
       b.addEventListener('click', () => {
-        if (Z.animating) return;
         const key = b.dataset.round;
         const same = Z.level === 1 && Z.focus && Z.focus.type === 'round' && Z.focus.key === key;
         if (same) { toL0(); return; }
@@ -354,7 +370,6 @@
       });
     });
     controls.querySelector('.zc-reset').addEventListener('click', () => {
-      if (Z.animating) return;
       if (Z.level === 2) leaveStage(null);
       else toL0();
     });
@@ -397,13 +412,13 @@
     if (focusId(t) !== focusId(Z.focus)) toL1(t);
   });
 
-  msBack.addEventListener('click', () => { if (!Z.animating) leaveStage(Z.returnFocus); });
+  msBack.addEventListener('click', () => leaveStage(Z.returnFocus));
 
   window.addEventListener('keydown', (ev) => {
     if (ev.key !== 'Escape' || Z.level === 0 || !active()) return;
     const overlay = document.getElementById('overlay');
     if (overlay && !overlay.hidden) return; // the modal's own Escape handler wins this round
-    if (!Z.animating) stepOut();
+    stepOut();
   });
 
   let rsT = null;
@@ -437,9 +452,9 @@
     get animating() { return Z.animating; },
     active,
     flyToGame(key, idx) {
-      if (!active() || Z.animating) { UI.openMatch(key, idx); return; }
+      if (!active()) { UI.openMatch(key, idx); return; }
       if (Z.level === 2 && Z.game && Z.game.key === key && Z.game.idx === idx) return;
-      toL2(key, idx);
+      toL2(key, idx); // interrupts any running transition (toL2 kills activeTL)
     },
   };
 })();

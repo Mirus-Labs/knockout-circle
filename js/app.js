@@ -17,9 +17,19 @@
   const goalLine = (list) => list.map(g =>
     `${g.name} ${g.minute}′${g.penalty ? ' (p)' : ''}${g.owngoal ? ' (og)' : ''}`).join(' · ');
   // the viewer's LOCAL calendar date — toISOString() is UTC and flips "today" too early in the evening
-  const localToday = () => {
+  const localDay = (offset) => {
     const d = new Date();
+    if (offset) d.setDate(d.getDate() + offset);
     return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  };
+  const localToday = () => localDay(0);
+  // TODAY / TOMORROW / "JUL 14" for an upcoming tie; SOON when the schedule has no date (authored mode)
+  const whenLabel = (key, idx) => {
+    const date = KICKOFF(key, idx).date;
+    if (!date) return 'SOON';
+    if (date === localDay(0)) return 'TODAY';
+    if (date === localDay(1)) return 'TOMORROW';
+    return fmtDate(date).toUpperCase();
   };
   // news items from data/news.json carry an ISO timestamp; authored ones a "19m" string
   const newsTime = (n) => {
@@ -186,7 +196,7 @@
     const sc = KC.scoreOf(key, idx);
     const st = KC.statusOf(key, idx);
     const nm = (c) => c ? `${TEAMS[c].f} ${c}` : '—';
-    const stLabel = st === 'live' ? `LIVE · ${sc.min}′` : st === 'finished' ? (sc.pens ? 'FULL TIME · PENS' : 'FULL TIME') : 'KICK-OFF SOON';
+    const stLabel = st === 'live' ? `LIVE · ${sc.min}′` : st === 'finished' ? (sc.pens ? 'FULL TIME · PENS' : 'FULL TIME') : `KICK-OFF · ${whenLabel(key, idx)}`;
     let mid;
     if (REAL) {
       const R = RESULT(key, idx), M = KICKOFF(key, idx);
@@ -393,7 +403,7 @@
 
   /* desktop zoom flies into the game; everywhere else keeps the modal */
   function openTie(key, idx) {
-    if (window.KC_ZOOM && KC_ZOOM.active() && !KC_ZOOM.animating) { KC_ZOOM.flyToGame(key, idx); return; }
+    if (window.KC_ZOOM && KC_ZOOM.active()) { KC_ZOOM.flyToGame(key, idx); return; }
     openMatch(key, idx);
   }
 
@@ -488,36 +498,42 @@
   }
 
   /* ================= HERO LIVE CARDS ================= */
-  function buildHeroLive() {
-    const wrap = $('#heroLive');
+  function upNextCard(key, idx) {
+    const a = KC.resolveSlot(key, idx, 0), b = KC.resolveSlot(key, idx, 1);
+    const M = KICKOFF(key, idx);
+    const isToday = M.date === localToday();
+    const rd = ROUNDS[KC.roundIdx(key)].name.toUpperCase();
+    const fl = (c) => c ? TEAMS[c].f : '❔';
+    const nm = (c) => c ? TEAMS[c].n : 'To be decided';
+    const card = el('button', 'live-card', `
+      <div class="lc-top">${isToday ? '<span class="dot-live"></span>TODAY' : 'UP NEXT'} · ${rd}<span class="lc-min">${fmtDate(M.date)}</span></div>
+      <div class="lc-row">
+        <span class="flags">${fl(a)}</span>
+        <span class="lc-score">VS</span>
+        <span class="flags">${fl(b)}</span>
+      </div>
+      <div class="lc-row lc-names">
+        <span>${nm(a)}</span><span>${nm(b)}</span>
+      </div>`);
+    card.dataset.cursor = '';
+    card.addEventListener('click', () => openMatch(key, idx));
+    return card;
+  }
+
+  /* live tie first, otherwise the next scheduled tie */
+  function liveOrNextCards(wrap) {
     wrap.innerHTML = '';
     if (REAL) {
-      const today = localToday();
       (D.UPNEXT || []).slice(0, 2).forEach(({ key, idx }) => {
-        if (KC.LIVE[key + '-' + idx]) { wrap.appendChild(liveCard(key + '-' + idx)); return; }
-        const a = KC.resolveSlot(key, idx, 0), b = KC.resolveSlot(key, idx, 1);
-        const M = KICKOFF(key, idx);
-        const isToday = M.date === today;
-        const rd = ROUNDS[KC.roundIdx(key)].name.toUpperCase();
-        const fl = (c) => c ? TEAMS[c].f : '❔';
-        const nm = (c) => c ? TEAMS[c].n : 'To be decided';
-        const card = el('button', 'live-card', `
-          <div class="lc-top">${isToday ? '<span class="dot-live"></span>TODAY' : 'UP NEXT'} · ${rd}<span class="lc-min">${fmtDate(M.date)}</span></div>
-          <div class="lc-row">
-            <span class="flags">${fl(a)}</span>
-            <span class="lc-score">VS</span>
-            <span class="flags">${fl(b)}</span>
-          </div>
-          <div class="lc-row lc-names">
-            <span>${nm(a)}</span><span>${nm(b)}</span>
-          </div>`);
-        card.dataset.cursor = '';
-        card.addEventListener('click', () => openMatch(key, idx));
-        wrap.appendChild(card);
+        wrap.appendChild(KC.LIVE[key + '-' + idx] ? liveCard(key + '-' + idx) : upNextCard(key, idx));
       });
       return;
     }
-    Object.keys(KC.LIVE).forEach(lk => wrap.appendChild(liveCard(lk)));
+    Object.keys(KC.LIVE).slice(0, 2).forEach(lk => wrap.appendChild(liveCard(lk)));
+  }
+
+  function buildHeroLive() {
+    liveOrNextCards($('#heroLive'));
   }
 
   function liveCard(lk) {
@@ -542,12 +558,11 @@
     return card;
   }
 
-  /* up to two live ties pinned beside the circle (desktop only — hidden by CSS below 1280px) */
+  /* up to two current/upcoming ties pinned beside the circle (desktop only — hidden by CSS below 1280px) */
   function buildCircleLive() {
     const wrap = $('#circleLive');
     if (!wrap) return;
-    wrap.innerHTML = '';
-    Object.keys(KC.LIVE).slice(0, 2).forEach(lk => wrap.appendChild(liveCard(lk)));
+    liveOrNextCards(wrap);
   }
 
   /* ================= TICKER ================= */
@@ -726,7 +741,7 @@
       ? `<span class="mstatus live" data-live-key="${key}-${idx}"><span class="dot-live"></span>LIVE <span data-live-min>${sc.min}′</span></span>`
       : st === 'finished'
         ? `<span class="mstatus">FT${sc.pens ? ' · P' : ''}</span>`
-        : `<span class="mstatus soon">SOON</span>`;
+        : `<span class="mstatus soon">${whenLabel(key, idx)}</span>`;
 
     const teamRow = (code, slot, goals) => {
       const tbd = !code;
@@ -891,17 +906,24 @@
     });
     document.querySelectorAll('#wires .wire').forEach(w => {
       const k = w.dataset.wire;
-      let adv = false;
+      let adv = false, next = false;
       const t = /^t(\d+)$/.exec(k);
       const r = /^(r32|r16|qf|sf)(\d+)$/.exec(k);
       if (t) {
-        adv = KC.winnerOf('r32', Math.floor(+t[1] / 2)) === ORDER[+t[1]];
+        const mi = Math.floor(+t[1] / 2);
+        adv = KC.winnerOf('r32', mi) === ORDER[+t[1]];
+        next = !adv && KC.statusOf('r32', mi) === 'upcoming';
       } else if (r) {
         const ri = KC.roundIdx(r[1]), kk = +r[2];
         const cw = KC.winnerOf(r[1], kk);
-        adv = !!cw && cw === KC.winnerOf(ROUNDS[ri + 1].key, Math.floor(kk / 2));
+        const pk = ROUNDS[ri + 1].key, pi = Math.floor(kk / 2);
+        adv = !!cw && cw === KC.winnerOf(pk, pi);
+        next = !adv && KC.statusOf(r[1], kk) !== 'upcoming' && KC.statusOf(pk, pi) === 'upcoming';
       }
       w.classList.toggle('adv', adv);
+      w.classList.toggle('next', next);
+      // wires that just became 'next' must shed the draw-in's inline dash so the CSS dashes show
+      if (next && w.style.strokeDasharray) { w.style.strokeDasharray = ''; w.style.strokeDashoffset = ''; }
     });
     buildHeroLive();
     buildCircleLive();

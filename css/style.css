@@ -58,7 +58,7 @@ html[data-theme="dark"] {
   --orbit-bg: rgba(0, 0, 0, .42);
   --track: rgba(255, 255, 255, .1);
   --track-rest: rgba(255, 255, 255, .2);
-  --grain-opacity: .05;
+  --bg-scrim: rgba(3, 2, 2, .4);
 }
 
 /* ---------- light: matchday paper ---------- */
@@ -107,7 +107,7 @@ html[data-theme="light"] {
   --orbit-bg: rgba(30, 22, 8, .07);
   --track: rgba(30, 22, 8, .1);
   --track-rest: rgba(30, 22, 8, .18);
-  --grain-opacity: .045;
+  --bg-scrim: rgba(238, 229, 208, .12);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -139,18 +139,13 @@ button { font-family: inherit; }
   pointer-events: none;
 }
 
-.grain {
-  position: fixed; inset: -50%; z-index: 90; pointer-events: none;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 240 240' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  opacity: var(--grain-opacity);
-  animation: grain-shift 900ms steps(4) infinite;
-}
-@keyframes grain-shift {
-  0% { transform: translate(0, 0); }
-  25% { transform: translate(-2%, 3%); }
-  50% { transform: translate(3%, -2%); }
-  75% { transform: translate(-3%, -3%); }
-  100% { transform: translate(2%, 2%); }
+/* a soft veil over the particle animation — dark glass in dark mode, paper in light */
+.bg-scrim {
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background: var(--bg-scrim);
+  -webkit-backdrop-filter: blur(1px);
+  backdrop-filter: blur(1px);
+  transition: background .4s;
 }
 
 .vignette {
@@ -1067,7 +1062,7 @@ footer {
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .grain, .orbit-a, .orbit-b, .core-glow, .ticker-track { animation: none !important; }
+  .orbit-a, .orbit-b, .core-glow, .ticker-track { animation: none !important; }
   .badge.state-live .coin { animation: none; }
   * { transition-duration: .01ms !important; }
 }
@@ -1082,6 +1077,26 @@ footer {
 .circle-live { transition: opacity .35s var(--ease-out); }
 .bracket-stage.is-zoomed .circle-live { opacity: 0; pointer-events: none; }
 .bracket-stage.is-zoomed .tip { display: none !important; }
+
+/* soft edge fade instead of a hard crop while zoomed — vertical fade on the stage,
+   horizontal fade on the square; nested masks intersect, no mask-composite needed.
+   The stage mask lifts during the match takeover so the panels stay crisp. */
+.bracket-stage.is-zoomed:not(.is-staged) {
+  -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 7%, #000 93%, transparent 100%);
+  mask-image: linear-gradient(180deg, transparent 0, #000 7%, #000 93%, transparent 100%);
+  -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%; mask-size: 100% 100%;
+}
+.bracket-stage.is-zoomed .bracket {
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 7%, #000 93%, transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 7%, #000 93%, transparent 100%);
+  -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%; mask-size: 100% 100%;
+}
+
+/* quiet the gold dust while a match takeover is open */
+#bg3d { transition: opacity .6s; }
+body.kc-staged #bg3d { opacity: .28; }
 
 /* focus dimming — membership rides data-* attributes because the live poller
    rewrites chip/badge classNames wholesale (see js/app.js kc:live handler) */
@@ -1100,13 +1115,44 @@ footer {
   pointer-events: none;
 }
 
-/* round pills + overview reset, in flow just under the circle */
+/* round pills + overview reset + first-run hint, in flow just under the circle */
 .circle-controls {
-  display: flex; justify-content: center; align-items: center;
-  gap: 9px; flex-wrap: wrap;
-  margin-top: 22px;
+  display: flex; flex-direction: column; align-items: center;
+  gap: 13px;
+  margin-top: 32px;
 }
 .circle-controls[hidden] { display: none; }
+.zc-row { display: flex; justify-content: center; align-items: center; gap: 9px; flex-wrap: wrap; }
+.zc-hint {
+  display: inline-flex; align-items: center; gap: 9px;
+  max-height: 40px; overflow: hidden;
+  font: 600 12px var(--font-body); letter-spacing: .02em; color: var(--t-mute);
+  background: var(--glass);
+  /* border: 1px solid rgba(var(--glow), .38); */
+  border-radius: 24px; padding: 8px 16px;
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  box-shadow: 0 0 8px rgba(var(--glow), .12);
+  transition: opacity .5s var(--ease-out), max-height .5s var(--ease-out),
+    padding .5s var(--ease-out), margin .5s var(--ease-out);
+}
+.zc-hint .zc-mouse { color: var(--accent); flex: 0 0 auto; }
+/* the hint is a standing caption at the overview; it tucks away while zoomed */
+.bracket-stage.is-zoomed + .circle-controls .zc-hint {
+  opacity: 0; max-height: 0;
+  padding-top: 0; padding-bottom: 0; margin-bottom: -13px;
+  pointer-events: none; animation: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .zc-hint { animation: zc-bob 3.2s ease-in-out infinite; }
+  .zc-hint .zc-wheel { animation: zc-wheel 1.7s ease-in-out infinite; }
+}
+@keyframes zc-bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+@keyframes zc-wheel {
+  0% { transform: translateY(0); opacity: 1; }
+  65% { transform: translateY(4px); opacity: 0; }
+  66% { transform: translateY(-2px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
 .zc-pill {
   cursor: pointer; border: none; border-radius: 99px;
   font: 700 12px var(--font-display); letter-spacing: .1em;
@@ -1125,6 +1171,20 @@ footer {
 }
 .zc-reset:hover { border-color: var(--accent); color: var(--accent); }
 .zc-reset[hidden] { display: none; }
+
+/* design credit under the circle */
+.circle-credit {
+  margin-top: 20px; text-align: start;
+  /* margin-top: 20px; text-align: center; */
+  font: 500 12px var(--font-body); letter-spacing: .05em;
+  color: var(--t-faint);
+}
+.circle-credit a {
+  color: var(--t-soft); text-decoration: none;
+  border-bottom: 1px solid rgba(var(--glow), .45);
+  transition: color .2s, border-color .2s;
+}
+.circle-credit a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* the takeover: game on the left, stats on the right */
 .match-stage {
@@ -1151,6 +1211,7 @@ footer {
   padding: clamp(18px, 3vw, 34px);
 }
 .ms-card .mm-face { margin-bottom: 0; }
+.ms-card .mm-round { display: none; } /* the ms-round header already names the round */
 .ms-card .mm-digits { font-size: clamp(46px, 6vw, 76px); }
 .ms-card .mm-team .flag { font-size: clamp(44px, 5vw, 62px); }
 .ms-card .mm-team .name { font-size: 17px; }

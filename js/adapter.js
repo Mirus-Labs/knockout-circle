@@ -222,7 +222,7 @@
     }
     try { await applyOverlays(); }
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
-    for (const src of ['js/tournament.js?v=5', 'js/app.js?v=7', 'js/fx.js?v=7', 'js/zoom.js?v=1', 'js/live.js?v=2']) {
+    for (const src of ['js/tournament.js?v=5', 'js/app.js?v=8', 'js/fx.js?v=7', 'js/zoom.js?v=3', 'js/live.js?v=2']) {
       await loadScript(src);
     }
   })();
