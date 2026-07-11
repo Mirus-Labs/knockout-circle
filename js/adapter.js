@@ -237,7 +237,7 @@
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
     const detailPage = document.body.dataset.page === 'match';
     await loadScript('js/tournament.js?v=5');
-    if (D.REAL) {
+    if (window.KC_DATA.REAL) {
       await loadScript('js/live.js?v=3');
       await Promise.race([
         window.KC_LIVE?.ready || Promise.resolve(),
