@@ -236,11 +236,17 @@
     try { await applyOverlays(); }
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
     const detailPage = document.body.dataset.page === 'match';
-    const scripts = detailPage
-      ? ['js/tournament.js?v=5', 'js/match-page.js?v=10']
-      : ['js/tournament.js?v=5', 'js/app.js?v=11', 'js/fx.js?v=8', 'js/zoom.js?v=5', 'js/live.js?v=2'];
-    for (const src of scripts) {
-      await loadScript(src);
+    await loadScript('js/tournament.js?v=5');
+    if (D.REAL) {
+      await loadScript('js/live.js?v=3');
+      await Promise.race([
+        window.KC_LIVE?.ready || Promise.resolve(),
+        new Promise((resolve) => setTimeout(resolve, FEED_TIMEOUT)),
+      ]);
     }
+    const scripts = detailPage
+      ? ['js/match-page.js?v=11']
+      : ['js/app.js?v=11', 'js/fx.js?v=8', 'js/zoom.js?v=5'];
+    for (const src of scripts) await loadScript(src);
   })();
 })();

@@ -93,7 +93,7 @@
       <div class="im-hero-center">
         <div class="im-hero-score" data-hero-score><span>${scoreA}</span>:<span>${scoreB}</span></div>
         <div class="im-hero-teams"><strong>${flag(ta)} ${name(ta)}</strong><span>VS</span><strong>${name(tb)} ${flag(tb)}</strong></div>
-        <p>${when}${st==='live' ? ` · ${sc.min}th minute — scroll to replay` : ''}</p>
+        <p data-match-meta>${when}${st==='live' ? ` · ${sc.min}th minute — scroll to replay` : ''}</p>
       </div>
       ${stadium ? `<a class="im-stadium-credit" href="${stadium.page}" target="_blank" rel="noopener">Photo source ↗</a>` : ''}
       <div class="scroll-cue" aria-hidden="true">
@@ -183,6 +183,24 @@
         : `<span class="lbl">${next ? `NEXT ${fmtDate(nextDate)}` : 'TOURNAMENT OVER'}</span>`;
   };
   updateNavPill();
+
+  // Minute-only changes update in place. A goal or status transition reloads
+  // the story once so its timeline, score, statistics and stakes stay coherent.
+  addEventListener('kc:live', () => {
+    updateNavPill();
+    const nextStatus = KC.statusOf(key, idx);
+    const nextScore = KC.scoreOf(key, idx);
+    if (nextStatus !== st || nextScore.a !== sc.a || nextScore.b !== sc.b) {
+      location.reload();
+      return;
+    }
+    if (nextStatus === 'live') {
+      const pill = q('.im-live');
+      const matchMeta = q('[data-match-meta]');
+      if (pill) pill.innerHTML = `<i></i>LIVE ${nextScore.min}’`;
+      if (matchMeta) matchMeta.textContent = `${when} · ${nextScore.min}th minute — scroll to replay`;
+    }
+  });
 
   if (window.gsap && window.ScrollTrigger) {
     gsap.registerPlugin(ScrollTrigger);

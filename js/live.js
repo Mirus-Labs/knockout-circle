@@ -1,4 +1,5 @@
-/* Knockout Circle — in-match live scores via ESPN's public scoreboard (no key, CORS-open).
+/* Knockout Circle — in-match live scores via the centralized Cloudflare collector.
+   The Worker polls ESPN once for the whole site; browsers only read /api/live.
    Polls every 60s, but only inside kickoff windows derived from the schedule; idle otherwise.
    Also applies just-finished (FT) results hours before the daily openfootball update.
    Runs only in real-data mode (see adapter.js). */
@@ -6,7 +7,7 @@
   const D = window.KC_DATA;
   if (!D || !D.REAL) return;
 
-  const ESPN = 'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard';
+  const LIVE_API = '/api/live';
   const POLL_MS = 60 * 1000;          // during a kickoff window
   const IDLE_MS = 15 * 60 * 1000;     // outside any window (cheap safety net)
   const WINDOW_BEFORE = 10 * 60 * 1000;
@@ -69,8 +70,9 @@
   function applyEvent(e) {
     const comp = e.competitions && e.competitions[0];
     if (!comp) return { live: null, changed: false };
-    const home = comp.competitors.find((c) => c.homeAway === 'home');
-    const away = comp.competitors.find((c) => c.homeAway === 'away');
+    const home = comp.competitors && comp.competitors.find((c) => c.homeAway === 'home');
+    const away = comp.competitors && comp.competitors.find((c) => c.homeAway === 'away');
+    if (!home?.team || !away?.team) return { live: null, changed: false };
     const hc = toCode(home.team.displayName), ac = toCode(away.team.displayName);
     if (!hc || !ac) return { live: null, changed: false };
     const tie = tieFor(hc, ac);
@@ -118,9 +120,10 @@
     let changed = false;
     const alive = new Set();
     try {
-      const res = await fetch(ESPN);
-      if (!res.ok) throw new Error('ESPN HTTP ' + res.status);
+      const res = await fetch(LIVE_API, { cache: 'no-store' });
+      if (!res.ok) throw new Error('live API HTTP ' + res.status);
       const data = await res.json();
+      if (data.stale || !Array.isArray(data.events)) return;
       (data.events || []).forEach((e) => {
         const r = applyEvent(e);
         if (r.live) alive.add(r.live);
@@ -141,6 +144,7 @@
     if (active) poll();
     setTimeout(loop, active ? POLL_MS : IDLE_MS);
   }
-  poll();
+  const ready = poll();
+  window.KC_LIVE = { ready, poll };
   setTimeout(loop, POLL_MS);
 })();

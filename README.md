@@ -7,6 +7,10 @@ stats and tournament leaders — rendered from real WC2026 data.
 A zero-build static site: plain HTML, CSS and vanilla ES modules, with an
 optional Node data updater for news and stat overlays.
 
+Live scores are centralized in the Cloudflare Worker: a once-per-minute Cron
+Trigger asks one Durable Object to refresh the scoreboard during match windows,
+and every browser reads the shared last-known-good snapshot from `/api/live`.
+
 ## Structure
 
 ```
@@ -52,6 +56,11 @@ Configured for Cloudflare Workers static assets (`wrangler.jsonc`):
 ```bash
 npx wrangler deploy
 ```
+
+The first deployment creates the `LiveState` Durable Object and installs the
+once-per-minute Cron Trigger declared in `wrangler.jsonc`. Static overlays still
+use the scheduled GitHub Actions workflow; live scores do not require commits or
+site redeployments.
 
 ---
 

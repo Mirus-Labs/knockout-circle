@@ -9,3 +9,5 @@ wrangler.toml
 scratch_wc.json
 .claude
 scripts
+worker
+tests
