@@ -2,6 +2,10 @@
 node_modules
 .git
 .gitignore
+.github
+.wrangler
+.dev.vars*
+.env*
 .assetsignore
 wrangler.jsonc
 wrangler.toml

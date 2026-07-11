@@ -78,7 +78,7 @@ async function updateNews() {
   });
 
   // pirate-stream spam that games Google News: "LIVE@STREAMs FREE", fullwidth-unicode titles, etc.
-  const JUNK = /live\s*[-@ .]*stream|stream.{0,12}free|free.{0,12}stream|watch\s+online|\[\[|\]\]|[！-～]|@s\b/i;
+  const JUNK = /live\s*[-@ .]*stream|live.{0,16}\bfree\b|\bfree.{0,16}live|stream.{0,12}free|free.{0,12}stream|watch\s+online|\[\[|\]\]|[！-～]|@s\b/i;
 
   // newest first, drop spam and dupes by title, keep 8, decorate for the card layout
   const seen = new Set();
