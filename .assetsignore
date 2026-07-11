@@ -1,0 +1,11 @@
+# Files Cloudflare Workers static-assets should NOT upload.
+node_modules
+.git
+.gitignore
+.assetsignore
+wrangler.jsonc
+wrangler.toml
+*.log
+scratch_wc.json
+.claude
+scripts

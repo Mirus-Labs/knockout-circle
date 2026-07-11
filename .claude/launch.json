@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "knockout-circle",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4181"],
+      "port": 4181
+    },
+    {
+      "name": "knockout-circle-verify",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "4182"],
+      "port": 4182
+    }
+  ]
+}

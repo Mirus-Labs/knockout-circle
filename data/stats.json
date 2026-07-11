@@ -1,0 +1,217 @@
+{
+ "updated": "2026-07-11T02:01:19.174Z",
+ "source": "ESPN",
+ "tabs": {
+  "assists": [
+   {
+    "name": "Michael Olise",
+    "team": "France",
+    "val": 5
+   },
+   {
+    "name": "Brahim Díaz",
+    "team": "Morocco",
+    "val": 4
+   },
+   {
+    "name": "Bruno Guimarães",
+    "team": "Brazil",
+    "val": 4
+   },
+   {
+    "name": "Kylian Mbappé",
+    "team": "France",
+    "val": 3
+   },
+   {
+    "name": "Roberto Alvarado",
+    "team": "Mexico",
+    "val": 3
+   },
+   {
+    "name": "Bukayo Saka",
+    "team": "England",
+    "val": 3
+   },
+   {
+    "name": "Andreas Schjelderup",
+    "team": "Norway",
+    "val": 3
+   },
+   {
+    "name": "Florian Wirtz",
+    "team": "Germany",
+    "val": 3
+   },
+   {
+    "name": "Alexander Isak",
+    "team": "Sweden",
+    "val": 3
+   },
+   {
+    "name": "Martin Ødegaard",
+    "team": "Norway",
+    "val": 3
+   },
+   {
+    "name": "Achraf Hakimi",
+    "team": "Morocco",
+    "val": 2
+   },
+   {
+    "name": "Ousmane Dembélé",
+    "team": "France",
+    "val": 2
+   },
+   {
+    "name": "Marc Cucurella",
+    "team": "Spain",
+    "val": 2
+   },
+   {
+    "name": "Leandro Trossard",
+    "team": "Belgium",
+    "val": 2
+   }
+  ],
+  "yellow": [
+   {
+    "name": "Issa Diop",
+    "team": "Morocco",
+    "val": 3
+   },
+   {
+    "name": "Granit Xhaka",
+    "team": "Switzerland",
+    "val": 2
+   },
+   {
+    "name": "Yasser Ibrahim",
+    "team": "Egypt",
+    "val": 2
+   },
+   {
+    "name": "Renato Veiga",
+    "team": "Portugal",
+    "val": 2
+   },
+   {
+    "name": "Marawan Attia",
+    "team": "Egypt",
+    "val": 2
+   },
+   {
+    "name": "Danilo",
+    "team": "Brazil",
+    "val": 2
+   },
+   {
+    "name": "Casemiro",
+    "team": "Brazil",
+    "val": 2
+   },
+   {
+    "name": "Luc de Fougerolles",
+    "team": "Canada",
+    "val": 2
+   },
+   {
+    "name": "Matías Galarza",
+    "team": "Paraguay",
+    "val": 2
+   },
+   {
+    "name": "Ivan Perisic",
+    "team": "Croatia",
+    "val": 2
+   },
+   {
+    "name": "Mohanad Lashin",
+    "team": "Egypt",
+    "val": 2
+   },
+   {
+    "name": "Declan Rice",
+    "team": "England",
+    "val": 2
+   },
+   {
+    "name": "Stefan Posch",
+    "team": "Austria",
+    "val": 2
+   },
+   {
+    "name": "Diego Gómez",
+    "team": "Paraguay",
+    "val": 2
+   }
+  ],
+  "red": [
+   {
+    "name": "Piero Hincapié",
+    "team": "Ecuador",
+    "val": 1
+   },
+   {
+    "name": "César Montes",
+    "team": "Mexico",
+    "val": 1
+   },
+   {
+    "name": "Folarin Balogun",
+    "team": "United States",
+    "val": 1
+   },
+   {
+    "name": "Miguel Almirón",
+    "team": "Paraguay",
+    "val": 1
+   },
+   {
+    "name": "Tarik Muharemovic",
+    "team": "Bosnia-Herzegovina",
+    "val": 1
+   },
+   {
+    "name": "Nathan Ngoy",
+    "team": "Belgium",
+    "val": 1
+   },
+   {
+    "name": "Sphephelo Sithole",
+    "team": "South Africa",
+    "val": 1
+   },
+   {
+    "name": "Agustín Canobbio",
+    "team": "Uruguay",
+    "val": 1
+   },
+   {
+    "name": "Assim Madibo",
+    "team": "Qatar",
+    "val": 1
+   },
+   {
+    "name": "Homam Ahmed",
+    "team": "Qatar",
+    "val": 1
+   },
+   {
+    "name": "Jarell Quansah",
+    "team": "England",
+    "val": 1
+   },
+   {
+    "name": "Rebin Sulaka",
+    "team": "Iraq",
+    "val": 1
+   },
+   {
+    "name": "Themba Zwane",
+    "team": "South Africa",
+    "val": 1
+   }
+  ]
+ }
+}

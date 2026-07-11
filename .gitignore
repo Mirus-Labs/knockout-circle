@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# deps
+node_modules
+
+# wrangler
+.wrangler
+.dev.vars*
+
+# local Claude config
+.claude/settings.local.json
+
+# scratch / working files
+scratch_wc.json

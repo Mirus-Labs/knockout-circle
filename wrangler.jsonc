@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Cloudflare Workers static-assets config for the no-build static site.
+  // The whole repo root is served as-is (.assetsignore keeps node_modules,
+  // .git and the wrangler config itself from being uploaded).
+  "name": "knockout-circle",
+  "compatibility_date": "2026-07-10",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  }
+}

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<script>try{var m=localStorage.getItem('kc-mode');if(m==='light'||m==='dark')document.documentElement.dataset.theme=m;}catch(e){}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Knockout Circle — Road to the Final · FIFA World Cup 2026 Tracker</title>
+<meta name="description" content="48 nations, 12 groups, one circle. An interactive tracker for the FIFA World Cup 2026 — the group stage, the 32-team knockout bracket, live ties, match stats and tournament leaders.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏆</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Oswald:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=7">
+</head>
+<body>
+
+<!-- loader -->
+<div id="loader" aria-hidden="true">
+  <div class="loader-emblem">
+    <svg class="loader-ring" viewBox="0 0 108 108">
+      <circle cx="54" cy="54" r="50"></circle>
+    </svg>
+    <div class="loader-cup">🏆</div>
+  </div>
+  <div class="loader-word">Knockout&nbsp;Circle</div>
+  <div class="loader-count" id="loaderCount">00</div>
+</div>
+
+<!-- atmosphere -->
+<canvas id="bg3d" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+<div class="grain" aria-hidden="true"></div>
+
+<!-- custom cursor -->
+<div class="cursor-dot" aria-hidden="true"></div>
+<div class="cursor-ring" aria-hidden="true"></div>
+
+<!-- nav -->
+<nav class="site-nav" id="siteNav" aria-label="Site">
+  <a class="nav-brand" href="#hero" data-cursor>
+    <span class="nav-word">Knockout&nbsp;<em>Circle</em></span>
+  </a>
+  <div class="nav-right">
+    <span class="nav-live"><span class="dot-live"></span><span class="lbl">2 LIVE</span></span>
+    <div class="nav-links">
+      <a class="nav-link" id="navGroups" href="#groups" data-cursor>Group Stage</a>
+      <a class="nav-link" href="#circle" data-cursor>Enter the Circle</a>
+      <a class="nav-link" href="#pulse" data-cursor>Match Pulse</a>
+    </div>
+    <button class="mode-toggle" id="modeToggle" data-cursor aria-label="Switch between dark and light mode">
+      <span class="icon-sun" aria-hidden="true">☀</span>
+      <span class="icon-moon" aria-hidden="true">☾</span>
+    </button>
+  </div>
+</nav>
+
+<main>
+  <!-- ============ HERO ============ -->
+  <section id="hero">
+    <div class="hero-inner">
+      <div class="hero-eyebrow-row will-reveal" data-reveal>
+        <span class="eyebrow">FIFA World Cup 2026 · Knockout Tracker</span>
+      </div>
+
+      <h1 class="hero-title" aria-label="Road to the Final">
+        <span class="line"><span>Road&nbsp;to</span></span>
+        <span class="line outline"><span>the&nbsp;Final</span></span>
+      </h1>
+
+      <div class="hero-sub">
+        <p class="hero-copy will-reveal" data-reveal>
+          <strong>Forty-eight nations. Fight for the cup.</strong> Twelve groups narrow the
+          field to the last 32, and every knockout tie orbits the trophy.
+          Hover for live numbers, open a match to see what each result unlocks,
+          tap a crest to trace a team's road.
+        </p>
+        <div class="hero-actions will-reveal" data-reveal>
+          <a class="btn btn-gold" href="#circle" data-cursor data-magnetic>Enter the circle ↓</a>
+          <a class="btn btn-ghost" href="#pulse" data-cursor data-magnetic>Match pulse</a>
+        </div>
+      </div>
+
+      <div class="hero-stats will-reveal" data-reveal>
+        <div class="hstat"><div class="hstat-num" data-count="48">0</div><div class="hstat-label">Nations</div></div>
+        <div class="hstat"><div class="hstat-num" data-count="12">0</div><div class="hstat-label">Groups</div></div>
+        <div class="hstat"><div class="hstat-num"><em data-count="1">0</em></div><div class="hstat-label">Trophy</div></div>
+      </div>
+
+      <div class="hero-live will-reveal" id="heroLive" data-reveal><!-- live cards injected --></div>
+    </div>
+
+    <div class="scroll-cue" aria-hidden="true">
+      <span>Scroll</span>
+      <span class="cue-line"></span>
+    </div>
+
+    <div class="ticker" aria-label="Latest results">
+      <div class="ticker-track" id="tickerTrack"></div>
+    </div>
+  </section>
+
+  <!-- ============ GROUP STAGE ============ -->
+  <section id="groups" class="block">
+    <div class="block-inner">
+      <div class="block-head">
+        <div>
+          <div class="block-kicker"><span class="eyebrow">48 nations · 12 groups</span></div>
+          <h2 class="block-title">The <em>Group Stage</em></h2>
+        </div>
+        <p class="block-note">
+          Twelve groups of four. The top two of every group plus the eight best
+          third-placed sides — 32 in all — advance to the Round of 32 and enter the circle.
+        </p>
+      </div>
+
+      <div class="groups-legend" aria-hidden="true">
+        <span class="glg-item"><span class="glg-swatch adv"></span>Advanced to the last 32</span>
+        <span class="glg-item"><span class="glg-swatch"></span>Eliminated in the group stage</span>
+      </div>
+
+      <div class="groups-grid" id="groupsGrid"><!-- group cards injected --></div>
+    </div>
+  </section>
+
+  <!-- ============ THE CIRCLE ============ -->
+  <section id="circle" class="block">
+    <div class="block-inner">
+      <div class="block-head">
+        <div>
+          <div class="block-kicker"><span class="eyebrow">The bracket, bent into orbit</span></div>
+          <h2 class="block-title">The <em>Circle</em></h2>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:14px;align-items:flex-end">
+          <div class="legend" aria-label="Legend">
+            <span class="legend-item"><span class="legend-dot l-live"></span>Live</span>
+            <span class="legend-item"><span class="legend-dot l-adv"></span>Advanced</span>
+            <span class="legend-item"><span class="legend-dot l-out"></span>Eliminated</span>
+            <span class="legend-item"><span class="legend-dot l-up"></span>Upcoming</span>
+          </div>
+          <!-- <p class="block-note">Outer ring — the last 32. Each round falls inward until only the cup remains.</p> -->
+        </div>
+      </div>
+
+      <div class="mbracket" id="mobileBracket"><!-- mobile round-by-round list injected --></div>
+
+      <div class="bracket-stage">
+        <div class="circle-live" id="circleLive" aria-label="Live matches"><!-- live cards injected (desktop only) --></div>
+        <div class="bracket" id="bracket">
+          <div class="bracket-cam" id="bracketCam">
+            <div class="orbit orbit-a" aria-hidden="true"></div>
+            <div class="orbit orbit-b" aria-hidden="true"></div>
+            <div class="core-glow" aria-hidden="true"></div>
+            <svg class="wires" id="wires" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" aria-hidden="true"></svg>
+            <!-- badges / chips / final injected -->
+          </div>
+          <div class="tip" id="tip" hidden></div>
+        </div>
+        <div class="match-stage" id="matchStage" hidden role="region" aria-label="Match detail">
+          <button class="ms-back" id="msBack" data-cursor>&larr; Back to the circle</button>
+          <div class="ms-card panel" id="msCard"></div>
+          <div class="ms-stats panel kc-scroll" id="msStats"></div>
+        </div>
+      </div>
+      <div class="circle-controls" id="circleControls" aria-label="Zoom the circle" hidden><!-- round pills + reset injected by js/zoom.js --></div>
+    </div>
+  </section>
+
+  <!-- ============ PULSE ============ -->
+  <section id="pulse" class="block" style="padding-top:0">
+    <div class="block-inner">
+      <div class="block-head">
+        <div>
+          <div class="block-kicker"><span class="eyebrow">Numbers &amp; News</span></div>
+          <h2 class="block-title">Match <em>Pulse</em></h2>
+          <!-- <p class="block-note" style="margin-top: 16;">Tournament leaders on the left, the conversation on the right — both refreshed as the rounds fall.</p> -->
+        </div>
+      </div>
+
+      <div class="pulse-grid">
+        <div class="panel panel-stats" id="statsPanel">
+          <div class="panel-head">
+            <div class="panel-kicker">Tournament Leaders</div>
+            <div class="stat-tabs kc-scroll" id="statTabs" role="tablist"></div>
+          </div>
+          <div class="stat-rows" id="statRows"></div>
+        </div>
+
+        <div class="panel panel-news" id="newsPanel">
+          <div class="panel-head" style="padding-bottom:6px">
+            <div class="panel-kicker">Latest News
+              <span class="updated"><span class="dot-live" style="width:6px;height:6px"></span>Updated live</span>
+            </div>
+          </div>
+          <div class="news-list" id="newsList"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="foot-brand">
+    <span class="nav-word">Knockout&nbsp;<em>Circle</em></span>
+  </div>
+  <div>
+    <p class="foot-note">
+      <em>Road to the Final</em> — an interactive knockout tracker for the FIFA World Cup 2026.
+      Bracket, scores and scorers refresh daily from the public-domain
+      <a href="https://github.com/openfootball/worldcup.json" style="color:inherit">openfootball</a> dataset;
+      team profiles and stories are editorial.
+    </p>
+    <a class="foot-note-too" target="_blank" href="https://miruslabs.io">
+      <span>Built by &nbsp;<em style="color: var(--accent-2);">Mirus Labs ↗</em></span>
+    </a>
+  </div>
+</footer>
+
+<!-- modal -->
+<div class="overlay" id="overlay" hidden role="dialog" aria-modal="true">
+  <div class="modal-card kc-scroll" id="modalCard" style="position:relative"></div>
+</div>
+
+<!-- toast -->
+<div class="toast" id="toast" role="status"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/three@0.147.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="js/feed.js?v=2"></script>
+<script src="js/data.js?v=4"></script>
+<script src="js/adapter.js?v=3"></script>
+<!-- tournament.js, app.js and fx.js are loaded by adapter.js once live data resolves -->
+
+</body>
+</html>
