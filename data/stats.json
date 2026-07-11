@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T06:44:26.226Z",
+ "updated": "2026-07-11T09:00:43.035Z",
  "source": "ESPN",
  "tabs": {
   "assists": [
@@ -59,11 +59,6 @@
     "val": 2
    },
    {
-    "name": "Ousmane Dembélé",
-    "team": "France",
-    "val": 2
-   },
-   {
     "name": "Marc Cucurella",
     "team": "Spain",
     "val": 2
@@ -71,6 +66,11 @@
    {
     "name": "Leandro Trossard",
     "team": "Belgium",
+    "val": 2
+   },
+   {
+    "name": "Ousmane Dembélé",
+    "team": "France",
     "val": 2
    }
   ],
@@ -153,6 +153,11 @@
     "val": 1
    },
    {
+    "name": "Nathan Ngoy",
+    "team": "Belgium",
+    "val": 1
+   },
+   {
     "name": "César Montes",
     "team": "Mexico",
     "val": 1
@@ -170,11 +175,6 @@
    {
     "name": "Tarik Muharemovic",
     "team": "Bosnia-Herzegovina",
-    "val": 1
-   },
-   {
-    "name": "Nathan Ngoy",
-    "team": "Belgium",
     "val": 1
    },
    {
