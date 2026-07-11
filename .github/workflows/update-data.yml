@@ -1,9 +1,17 @@
 name: Refresh data
 
-# Runs the data updater in the cloud so the DEPLOYED site's news + stats stay
-# fresh without any machine of yours being on. Each run regenerates
-# data/news.json + data/stats.json, and if anything changed, commits & pushes —
-# which triggers the Cloudflare Pages rebuild that publishes the new files.
+# Keeps the DEPLOYED site's news + stats fresh without any machine of yours
+# being on. Hourly it regenerates data/news.json + data/stats.json, commits the
+# change (so the repo stays in sync), then runs `wrangler deploy` to publish —
+# because this site is a Cloudflare Workers static-assets deploy, NOT a Pages
+# git-integration, so a plain git push does NOT update the live site.
+#
+# ONE-TIME SETUP (required before the deploy step does anything):
+#   Add two repo secrets under Settings → Secrets and variables → Actions:
+#     CLOUDFLARE_API_TOKEN   — a token with "Edit Cloudflare Workers" permission
+#     CLOUDFLARE_ACCOUNT_ID  — your Cloudflare account id
+#   Until they exist, the job still refreshes + commits data; it just skips the
+#   publish step (so the run stays green).
 
 on:
   schedule:
@@ -20,18 +28,22 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'   # script uses global fetch + ESM; no npm install needed
+          node-version: '20'   # updater uses global fetch + ESM; wrangler needs Node 18+
 
       - name: Regenerate data files
         continue-on-error: true   # a hiccup in one source shouldn't block the other's update
         run: node scripts/update-data.mjs
 
       - name: Commit & push if data changed
+        id: commit
         run: |
           if [ -n "$(git status --porcelain data/)" ]; then
             git config user.name  "github-actions[bot]"
@@ -39,7 +51,18 @@ jobs:
             git add data/
             git commit -m "chore(data): hourly refresh of news & stats"
             git push
-            echo "Pushed refreshed data — Cloudflare Pages will redeploy."
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Pushed refreshed data."
           else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No data changes this run."
           fi
+
+      - name: Publish to Cloudflare Workers
+        # only when data actually changed AND the deploy secret is configured
+        if: ${{ steps.commit.outputs.changed == 'true' && env.CLOUDFLARE_API_TOKEN != '' }}
+        run: npx --yes wrangler deploy
+
+      - name: Note if deploy was skipped
+        if: ${{ steps.commit.outputs.changed == 'true' && env.CLOUDFLARE_API_TOKEN == '' }}
+        run: echo "::warning::Data was refreshed & committed, but CLOUDFLARE_API_TOKEN is not set, so the LIVE site was not updated. Add the repo secrets to enable publishing."
