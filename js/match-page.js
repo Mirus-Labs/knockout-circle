@@ -104,7 +104,15 @@
 
     <section class="im-replay" id="replay"><div class="im-replay-inner">
       <div class="im-timeline"><div class="im-label"><strong>MATCH TIMELINE</strong></div><div class="im-clock">0’</div><div class="im-events"><i class="im-event-line"></i>${eventRows}</div></div>
-      <div class="im-numbers"><div class="im-label"><strong>THE NUMBERS</strong></div>${statRows}</div>
+      <div class="im-numbers">
+        <div class="im-label"><strong>THE NUMBERS</strong></div>
+        <div class="im-stat-teams" aria-label="Statistics compare ${name(ta)} on the left with ${name(tb)} on the right">
+          <span><b>${flag(ta)} ${name(ta)}</b></span>
+          <i>VS</i>
+          <span><b>${name(tb)} ${flag(tb)}</b></span>
+        </div>
+        ${statRows}
+      </div>
     </div></section>
     ${video}
     <section class="im-players"><div class="im-player-stage">

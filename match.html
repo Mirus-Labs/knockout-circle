@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Oswald:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=18">
+  <link rel="stylesheet" href="css/style.css?v=21">
 </head>
 <body class="immersive-page" data-page="match">
   <div class="im-progress" id="imProgress" aria-hidden="true"></div>
@@ -27,12 +27,21 @@
         <a class="nav-link" href="index.html#circle" data-cursor>Enter the Circle</a>
         <a class="nav-link" href="index.html#pulse" data-cursor>Match Pulse</a>
       </div>
+      <button class="nav-menu-toggle" type="button" aria-label="Open navigation menu" aria-controls="mobileNav" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
       <button class="mode-toggle" id="modeToggle" data-cursor aria-label="Switch between dark and light mode">
         <span class="icon-sun" aria-hidden="true">☀</span>
         <span class="icon-moon" aria-hidden="true">☾</span>
       </button>
     </div>
+    <div class="mobile-nav" id="mobileNav" aria-hidden="true">
+      <a href="index.html#groups">Group Stage</a>
+      <a href="index.html#circle">Enter the Circle</a>
+      <a href="index.html#pulse">Match Pulse</a>
+    </div>
   </nav>
+  <script src="js/nav.js?v=1"></script>
   <main id="matchPage" class="match-page-main" aria-live="polite">
     <div class="match-loading">
       <span class="dot-live"></span>
@@ -50,6 +59,6 @@
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
   <script src="js/feed.js?v=2"></script>
   <script src="js/data.js?v=4"></script>
-  <script src="js/adapter.js?v=11"></script>
+  <script src="js/adapter.js?v=12"></script>
 </body>
 </html>
