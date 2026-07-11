@@ -16,6 +16,14 @@
     'Czechia': 'Czech Republic', 'Bosnia and Herzegovina': 'Bosnia & Herzegovina',
     'IR Iran': 'Iran', 'United States': 'USA', 'United States of America': 'USA',
   };
+  const VENUE_TIME_ZONES = {
+    Atlanta:'America/New_York', Boston:'America/New_York', 'Boston (Foxborough)':'America/New_York', Miami:'America/New_York',
+    'New York':'America/New_York', 'New York (East Rutherford)':'America/New_York', Philadelphia:'America/New_York', Toronto:'America/Toronto',
+    Dallas:'America/Chicago', 'Dallas (Arlington)':'America/Chicago', Houston:'America/Chicago', 'Kansas City':'America/Chicago',
+    'Los Angeles':'America/Los_Angeles', 'Los Angeles (Inglewood)':'America/Los_Angeles', Seattle:'America/Los_Angeles',
+    'San Francisco':'America/Los_Angeles', 'San Francisco (Santa Clara)':'America/Los_Angeles', Vancouver:'America/Vancouver',
+    'Mexico City':'America/Mexico_City', Guadalajara:'America/Mexico_City', Monterrey:'America/Monterrey',
+  };
   const flagOfName = (name) => {
     const D = window.KC_DATA;
     const n = NAME_ALIAS[name] || name;
@@ -90,7 +98,10 @@
       tiers[key].forEach((m, i) => {
         const id = key + '-' + i;
         keyOfNum[m.num] = { key, idx: i };
-        META[id] = { date: m.date, time: m.time, ground: m.ground };
+        META[id] = {
+          date: m.date, time: m.time, ground: m.ground, num: m.num, source: 'openfootball',
+          venueTimeZone: VENUE_TIME_ZONES[m.ground] || null,
+        };
         const line = lineOf(m);
         STATUS[id] = line ? 'finished' : 'upcoming';
         const w = winnerName(m);
@@ -182,19 +193,21 @@
         return r.ok ? await r.json() : null;
       } catch (e) { return null; }
     };
-    const [news, stats, highlights, playerImages, stadiumImages] = await Promise.all([
-      get('data/news.json'), get('data/stats.json'), get('data/highlights.json'), get('data/player-images.json'), get('data/stadium-images.json'),
+    const [news, stats, highlights, playerImages, stadiumImages, matchReports] = await Promise.all([
+      get('data/news.json'), get('data/stats.json'), get('data/highlights.json'), get('data/player-images.json'), get('data/stadium-images.json'), get('data/match-reports.json'),
     ]);
     if (news && Array.isArray(news.news) && news.news.length) D.NEWS = news.news;
     if (highlights && highlights.matches && typeof highlights.matches === 'object') D.HIGHLIGHTS = highlights.matches;
     if (playerImages && playerImages.players && typeof playerImages.players === 'object') D.PLAYER_IMAGES = playerImages.players;
     if (stadiumImages && stadiumImages.stadiums && typeof stadiumImages.stadiums === 'object') D.STADIUM_IMAGES = stadiumImages.stadiums;
+    if (matchReports && matchReports.matches && typeof matchReports.matches === 'object') D.MATCH_REPORTS = matchReports.matches;
     D.OVERLAY_UPDATED = {
       news: news && news.updated,
       stats: stats && stats.updated,
       highlights: highlights && highlights.updated,
       players: playerImages && playerImages.updated,
       stadiums: stadiumImages && stadiumImages.updated,
+      matchReports: matchReports && matchReports.updated,
     };
     // only merge real leader tables when the bracket itself is real, never into the authored demo
     if (D.REAL && stats && stats.tabs) {
@@ -236,16 +249,20 @@
     try { await applyOverlays(); }
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
     const detailPage = document.body.dataset.page === 'match';
+    if (detailPage) {
+      try { window.KC_MATCH_FACTS = await import('./match-facts.mjs?v=1'); }
+      catch (err) { console.warn('KC match facts unavailable.', err); }
+    }
     await loadScript('js/tournament.js?v=5');
     if (window.KC_DATA.REAL) {
-      await loadScript('js/live.js?v=3');
+      await loadScript('js/live.js?v=4');
       await Promise.race([
         window.KC_LIVE?.ready || Promise.resolve(),
         new Promise((resolve) => setTimeout(resolve, FEED_TIMEOUT)),
       ]);
     }
     const scripts = detailPage
-      ? ['js/match-page.js?v=11']
+      ? ['js/match-page.js?v=13']
       : ['js/app.js?v=11', 'js/fx.js?v=8', 'js/zoom.js?v=5'];
     for (const src of scripts) await loadScript(src);
   })();

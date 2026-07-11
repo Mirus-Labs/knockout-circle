@@ -14,6 +14,8 @@
 import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { discoverReportLinks, extractPdfText, parseReportText } from './match-report.mjs';
+import { matchesPlayerVideo } from './player-media.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data');
@@ -253,7 +255,6 @@ async function findFifaPlayerVideo(name) {
   if (!page.ok) return null;
   const html = await page.text();
   const ids = [...new Set([...html.matchAll(/"videoId":"([A-Za-z0-9_-]{11})"/g)].map((m) => m[1]))].slice(0, 8);
-  const surname = fold(name.split(/\s+/).at(-1).replace(/[^\p{L}]/gu, ''));
   for (const youtubeId of ids) {
     try {
       const oembed = new URL('https://www.youtube.com/oembed');
@@ -261,10 +262,18 @@ async function findFifaPlayerVideo(name) {
       oembed.searchParams.set('format', 'json');
       const res = await fetch(oembed, { headers: UA });
       const item = res.ok ? await res.json() : null;
-      if (item && item.author_name === 'FIFA' && fold(item.title).includes(surname)) return {
+      const exactPlayer = matchesPlayerVideo({ name, title:item?.title, authorName:item?.author_name });
+      const embed = exactPlayer ? await fetch(`https://www.youtube.com/embed/${youtubeId}`, { headers: UA }) : null;
+      const embedHtml = embed?.ok ? await embed.text() : '';
+      const embedAllowed = embed?.ok && !/"playabilityStatus"\s*:\s*\{\s*"status"\s*:\s*"(?:ERROR|UNPLAYABLE|LOGIN_REQUIRED)"/i.test(embedHtml);
+      if (item && item.author_name === 'FIFA' && exactPlayer && embedAllowed) return {
         videoTitle: item.title,
         youtubeId,
         youtubeUrl: `https://www.youtube.com/watch?v=${youtubeId}`,
+        videoChannel: 'FIFA',
+        videoVerified: true,
+        videoCheckedAt: new Date().toISOString(),
+        videoVerifierVersion: 2,
       };
     } catch { /* try the next official result */ }
   }
@@ -278,57 +287,67 @@ async function updatePlayerImages() {
   let previous = { players: {} };
   try { previous = JSON.parse(await readFile(join(OUT, 'player-images.json'), 'utf8')); } catch { /* first run */ }
   const players = { ...(previous.players || {}) };
+  for (const name of [...new Set(stars)]) {
+    if (!players[name]) players[name] = {};
+    players[name] = {
+      ...players[name],
+      playerId: players[name].playerId || fold(name).replace(/[^a-z0-9]+/g, '-'),
+      portraitSource: players[name].portraitSource || (players[name].attribution?.includes('Wikimedia') ? 'Wikimedia' : null),
+      portraitType: players[name].portraitType || (players[name].portraitCurated ? 'official-portrait' : 'editorial'),
+      focalPoint: players[name].focalPoint || '50% 20%',
+      portraitCheckedAt: players[name].portraitCheckedAt || previous.refreshed || previous.updated || null,
+    };
+  }
   const refreshDue = !previous.refreshed || Date.now() - Date.parse(previous.refreshed) > 7 * 864e5;
   // A player entry may contain a video but no photograph. Treat that as
   // unresolved media instead of incorrectly skipping it for a week.
-  const missing = [...new Set(stars)].filter((name) => refreshDue || !players[name]?.url);
+  const missing = [...new Set(stars)].filter((name) => refreshDue || !players[name]?.url || players[name]?.videoVerifierVersion !== 2);
   // Wikimedia rate-limits bursty CI clients. Smaller batches make it much more
   // likely that a single deployment fills every missing player photo.
   const CHUNK = 3;
   for (let i = 0; i < missing.length; i += CHUNK) {
     await Promise.all(missing.slice(i, i + CHUNK).map(async (name) => {
-      const api = new URL('https://en.wikipedia.org/w/api.php');
-      api.searchParams.set('action', 'query');
-      api.searchParams.set('generator', 'search');
-      api.searchParams.set('gsrsearch', `${name} footballer`);
-      api.searchParams.set('gsrlimit', '1');
-      api.searchParams.set('prop', 'pageimages');
-      api.searchParams.set('piprop', 'thumbnail');
-      api.searchParams.set('pithumbsize', '1400');
-      api.searchParams.set('format', 'json');
-      api.searchParams.set('origin', '*');
       try {
-        const json = await fetchJsonWithRetry(api);
-        const page = json && json.query && Object.values(json.query.pages || {})[0];
-        if (page && page.thumbnail && page.thumbnail.source) players[name] = { ...players[name],
-          url: page.thumbnail.source,
-          page: `https://en.wikipedia.org/?curid=${page.pageid}`,
-          attribution: 'Wikipedia / Wikimedia Commons',
-        };
-        if (!players[name]?.url) {
-          const commons = new URL('https://commons.wikimedia.org/w/api.php');
-          commons.searchParams.set('action', 'query');
-          commons.searchParams.set('generator', 'search');
-          commons.searchParams.set('gsrsearch', `${name} footballer`);
-          commons.searchParams.set('gsrnamespace', '6');
-          commons.searchParams.set('gsrlimit', '1');
-          commons.searchParams.set('prop', 'imageinfo|info');
-          commons.searchParams.set('iiprop', 'url');
-          commons.searchParams.set('iiurlwidth', '1400');
-          commons.searchParams.set('inprop', 'url');
-          commons.searchParams.set('format', 'json');
-          commons.searchParams.set('origin', '*');
-          const cj = await fetchJsonWithRetry(commons);
-          const cp = cj && cj.query && Object.values(cj.query.pages || {})[0];
-          const image = cp && cp.imageinfo && cp.imageinfo[0];
-          if (image && (image.thumburl || image.url)) players[name] = { ...players[name],
-            url: image.thumburl || image.url,
-            page: cp.fullurl || `https://commons.wikimedia.org/?curid=${cp.pageid}`,
-            attribution: 'Wikimedia Commons',
+        if (!players[name]?.url || (refreshDue && !players[name]?.portraitCurated)) {
+          const api = new URL('https://en.wikipedia.org/w/api.php');
+          api.searchParams.set('action', 'query');
+          api.searchParams.set('generator', 'search');
+          api.searchParams.set('gsrsearch', `${name} footballer`);
+          api.searchParams.set('gsrlimit', '1');
+          api.searchParams.set('prop', 'pageimages');
+          api.searchParams.set('piprop', 'thumbnail');
+          api.searchParams.set('pithumbsize', '1400');
+          api.searchParams.set('format', 'json');
+          api.searchParams.set('origin', '*');
+          const json = await fetchJsonWithRetry(api);
+          const page = json && json.query && Object.values(json.query.pages || {})[0];
+          if (page && page.thumbnail && page.thumbnail.source && !players[name]?.portraitCurated) players[name] = { ...players[name],
+            url: page.thumbnail.source, page: `https://en.wikipedia.org/?curid=${page.pageid}`,
+            attribution: 'Wikipedia / Wikimedia Commons', portraitSource: 'Wikimedia',
+            portraitType: 'editorial', portraitCheckedAt: new Date().toISOString(),
           };
+          if (!players[name]?.url) {
+            const commons = new URL('https://commons.wikimedia.org/w/api.php');
+            commons.searchParams.set('action', 'query'); commons.searchParams.set('generator', 'search');
+            commons.searchParams.set('gsrsearch', `${name} footballer`); commons.searchParams.set('gsrnamespace', '6');
+            commons.searchParams.set('gsrlimit', '1'); commons.searchParams.set('prop', 'imageinfo|info');
+            commons.searchParams.set('iiprop', 'url'); commons.searchParams.set('iiurlwidth', '1400');
+            commons.searchParams.set('inprop', 'url'); commons.searchParams.set('format', 'json'); commons.searchParams.set('origin', '*');
+            const cj = await fetchJsonWithRetry(commons);
+            const cp = cj && cj.query && Object.values(cj.query.pages || {})[0];
+            const image = cp && cp.imageinfo && cp.imageinfo[0];
+            if (image && (image.thumburl || image.url) && !players[name]?.portraitCurated) players[name] = { ...players[name],
+              url: image.thumburl || image.url, page: cp.fullurl || `https://commons.wikimedia.org/?curid=${cp.pageid}`,
+              attribution: 'Wikimedia Commons', portraitSource: 'Wikimedia', portraitType: 'editorial', portraitCheckedAt: new Date().toISOString(),
+            };
+          }
         }
         const video = await findFifaPlayerVideo(name);
-        if (video) players[name] = { ...players[name], ...video };
+        players[name] = {
+          ...players[name],
+          videoCheckedAt: new Date().toISOString(),
+          ...(video || { videoVerified: false, videoVerifierVersion: 2 }),
+        };
       } catch { /* preserve the visual fallback for this player */ }
     }));
   }
@@ -338,6 +357,53 @@ async function updatePlayerImages() {
   const photos = Object.values(players).filter((player) => player.url).length;
   const videos = Object.values(players).filter((player) => player.youtubeId).length;
   log(`player-images.json written (${photos}/${stars.length} key-player photos; ${videos} FIFA videos)`);
+}
+
+/* ---------------- FIFA post-match reports: selected facts only ---------------- */
+const FIFA_REPORT_HUB = 'https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php';
+
+async function updateMatchReports() {
+  let previous = { matches: {} };
+  try { previous = JSON.parse(await readFile(join(OUT, 'match-reports.json'), 'utf8')); } catch { /* first run */ }
+  const matches = { ...(previous.matches || {}) };
+  const hub = await fetch(FIFA_REPORT_HUB, { headers: UA });
+  if (!hub.ok) throw new Error(`FIFA report hub HTTP ${hub.status}`);
+  const hubHtml = await hub.text();
+  const hubPages = [FIFA_REPORT_HUB];
+  for (const item of hubHtml.matchAll(/href=["']([^"']*match-report-hub[^"']*)["']/gi)) {
+    const url = new URL(item[1], FIFA_REPORT_HUB).href;
+    if (!hubPages.includes(url)) hubPages.push(url);
+  }
+  const reportLinks = [];
+  for (const url of hubPages.slice(0, 4)) {
+    const response = url === FIFA_REPORT_HUB ? null : await fetch(url, { headers: UA });
+    const html = url === FIFA_REPORT_HUB ? hubHtml : response?.ok ? await response.text() : '';
+    reportLinks.push(...discoverReportLinks(html, url));
+  }
+  const unique = [...new Map(reportLinks.map((item) => [item.matchNumber, item])).values()];
+  if (!unique.length) throw new Error('FIFA report hub contained no report links');
+
+  for (const item of unique) {
+    const old = matches[item.matchNumber];
+    if (old?.reportUrl === item.reportUrl && old?.teamStats && old?.parserVersion === 4) continue;
+    try {
+      const response = await fetch(item.reportUrl, { headers: UA });
+      if (!response.ok) throw new Error(`report HTTP ${response.status}`);
+      const text = await extractPdfText(await response.arrayBuffer());
+      const parsed = parseReportText(text, item.reportUrl);
+      if (!parsed || parsed.matchNumber !== item.matchNumber) throw new Error('report identity did not validate');
+      matches[item.matchNumber] = { ...parsed, updatedAt: new Date().toISOString() };
+    } catch (error) {
+      matches[item.matchNumber] = {
+        ...(old || {}), matchNumber: item.matchNumber, reportUrl: item.reportUrl,
+        source: 'FIFA Training Centre', parseError: error.message,
+      };
+    }
+  }
+  await writeFile(join(OUT, 'match-reports.json'), JSON.stringify({
+    updated: new Date().toISOString(), source: 'FIFA Training Centre', sourceUrl: FIFA_REPORT_HUB, matches,
+  }, null, 1));
+  log(`match-reports.json written (${Object.keys(matches).length} official reports)`);
 }
 
 /* ---------------- venue photography: Wikimedia Commons ---------------- */
@@ -463,8 +529,20 @@ async function updateStadiumImages() {
 await mkdir(OUT, { recursive: true });
 let failures = 0;
 const highlightsOnly = process.argv.includes('--highlights-only');
+const reportsOnly = process.argv.includes('--reports-only');
+const playersOnly = process.argv.includes('--players-only');
 
-if (!highlightsOnly) {
+if (reportsOnly) {
+  try { await updateMatchReports(); }
+  catch (err) { failures++; console.error('match report update failed:', err.message); }
+}
+
+if (playersOnly) {
+  try { await updatePlayerImages(); }
+  catch (err) { failures++; console.error('player image update failed:', err.message); }
+}
+
+if (!reportsOnly && !playersOnly && !highlightsOnly) {
   try { await updateNews(); }
   catch (err) { failures++; console.error('news update failed:', err.message); }
 
@@ -472,15 +550,18 @@ if (!highlightsOnly) {
   catch (err) { failures++; console.error('stats update failed:', err.message); }
 }
 
-try { await updateHighlights(); }
+if (!reportsOnly && !playersOnly) try { await updateHighlights(); }
 catch (err) { failures++; console.error('highlights update failed:', err.message); }
 
-if (!highlightsOnly) {
+if (!reportsOnly && !playersOnly && !highlightsOnly) {
   try { await updatePlayerImages(); }
   catch (err) { failures++; console.error('player image update failed:', err.message); }
 
   try { await updateStadiumImages(); }
   catch (err) { failures++; console.error('stadium image update failed:', err.message); }
+
+  try { await updateMatchReports(); }
+  catch (err) { failures++; console.error('match report update failed:', err.message); }
 }
 
 // During a deployment, publish every successful refresh and retain the

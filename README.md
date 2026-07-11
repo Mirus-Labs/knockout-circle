@@ -19,12 +19,13 @@ css/style.css         # all styling
 js/
   app.js              # boot + view orchestration
   data.js             # tournament data model
+  match-facts.mjs     # normalized match facts and local-time formatting
   feed.js / adapter.js# live WC2026 data feed → app model
   tournament.js       # group stage + knockout bracket
   live.js             # live tie state
   fx.js               # background / motion effects
-data/                 # news.json, stats.json overlays (refreshed by the updater)
-scripts/update-data.mjs  # refreshes news, stats, FIFA videos, player and stadium media
+data/                 # news, stats, verified media and FIFA report overlays
+scripts/update-data.mjs  # refreshes news, stats, reports, videos, player and stadium media
 ```
 
 ## Run locally
@@ -44,7 +45,8 @@ node scripts/update-data.mjs   # writes all JSON overlays in data/
 The GitHub Actions workflow in `.github/workflows/update-data.yml` checks twice hourly
 for match-specific videos in FIFA's official YouTube playlist. Player and venue
 photography, plus player-specific videos from FIFA's official channel, are
-rechecked weekly. When an overlay changes, the workflow commits it to the current
+rechecked weekly. Completed matches are enriched from FIFA Training Centre
+post-match reports. When an overlay changes, the workflow commits it to the current
 branch so a Git-connected deployment can publish the update. A Wrangler custom
 build also runs the updater immediately before every production deploy, so a
 manual or Git-connected redeploy cannot ship stale checked-in overlays.

@@ -2,6 +2,7 @@
 (() => {
   const KC = window.KC;
   const D = window.KC_DATA;
+  const MF = window.KC_MATCH_FACTS;
   const root = document.getElementById('matchPage');
   if (!KC || !D || !root) return;
 
@@ -26,9 +27,15 @@
   const name = (t) => t ? t.n : 'To be decided';
   const flag = (t) => t ? t.f : '❔';
   const scoreA = sc.a == null ? '–' : sc.a, scoreB = sc.b == null ? '–' : sc.b;
-  const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  const date = meta.date ? (() => { const [,m,d] = meta.date.split('-'); return `${MONTHS[+m-1]} ${+d}`; })() : '';
-  const when = [meta.ground, date, meta.time].filter(Boolean).join(' · ') || 'Venue and kick-off to be confirmed';
+  const report = meta.num != null ? (D.MATCH_REPORTS || {})[meta.num] || null : null;
+  const facts = MF?.buildMatchFacts({ meta, status:st, score:{...sc, penScore:result?.penScore}, source:source || {}, report, liveHealth:D.LIVE_HEALTH }) || {
+    status:st, events:[], teamStats:source?.teamStats || null, reportUrl:report?.reportUrl || null,
+  };
+  const localWhen = MF?.localKickoff({...meta, kickoffUtc:facts.kickoffUtc}) || {};
+  const when = localWhen.local || [meta.date, meta.time].filter(Boolean).join(' · ') || 'Kick-off to be confirmed';
+  const whenHtml = localWhen.iso
+    ? `<time datetime="${localWhen.iso}">${when}</time><span>YOUR TIME${localWhen.timeZone ? ` · ${localWhen.timeZone}` : ''}</span>${localWhen.venue ? `<small>${localWhen.venue} · venue time</small>` : ''}`
+    : `<span>${when}</span>`;
   const status = st === 'live' ? `LIVE ${sc.min}’` : st === 'finished' ? 'FULL TIME' : 'UPCOMING';
   const maxMinute = st === 'live' ? sc.min : st === 'finished' ? 90 : 0;
   const matchup = [name(ta), name(tb)].sort().join('|');
@@ -39,42 +46,71 @@
   const embedTitle = highlight && (highlight.embedTitle || highlight.title);
   const stadium = (D.STADIUM_IMAGES || {})[meta.ground];
 
-  const events = source ? [
-    ...(source.goalsA || []).map(g => ({...g, code:a, icon:'⚽'})),
-    ...(source.goalsB || []).map(g => ({...g, code:b, icon:'⚽'})),
-  ].sort((x,y)=>(parseInt(x.minute,10)||0)-(parseInt(y.minute,10)||0)) : [];
+  const iconOf = (type) => type === 'goal' ? '⚽' : type === 'substitution' ? '↔' : type === 'red-card' ? '🟥' : '🟨';
+  const normalizedEvents = (facts.events || []).map((event) => ({
+    ...event, code:event.side === 'home' ? a : event.side === 'away' ? b : event.code,
+    name:event.player || event.name || event.detail || 'Match event', icon:iconOf(event.type || 'goal'),
+  }));
+  const events = (normalizedEvents.length ? normalizedEvents : source ? [
+    ...(source.goalsA || []).map(g => ({...g, code:a, icon:'⚽',type:'goal'})),
+    ...(source.goalsB || []).map(g => ({...g, code:b, icon:'⚽',type:'goal'})),
+  ] : []).sort((x,y)=>(parseInt(x.minute,10)||0)-(parseInt(y.minute,10)||0));
   const eventRows = events.length ? events.map(e => `<div class="im-event" data-minute="${parseInt(e.minute,10)||0}">
-    <span>${e.minute}’</span><i>${e.icon}</i><strong>${e.name}${e.penalty?' (pen)':''}${e.owngoal?' (og)':''}</strong><b>${e.code && T[e.code] ? T[e.code].f : '⚽'}</b>
+    <span>${e.minute}’</span><i>${e.icon}</i><strong>${e.name}${e.penalty?' (pen)':''}${e.owngoal?' (og)':''}${e.detail&&e.detail!==e.name?`<small>${e.detail}</small>`:''}</strong><b>${e.code && T[e.code] ? T[e.code].f : '⚽'}</b>
   </div>`).join('') : `<p class="im-empty">${st === 'upcoming' ? 'The timeline begins at kick-off.' : 'No goals recorded in this match.'}</p>`;
 
-  const stats = (() => {
-    if (!D.REAL) {
-      const s = KC.matchStats(key, idx);
-      return [
-        {label:'POSSESSION %', va:s.possA, vb:s.possB, pct:s.possA},
-        {label:'SHOTS', va:s.shotsA, vb:s.shotsB, pct:s.shotsA/(s.shotsA+s.shotsB)*100},
-        {label:'EXPECTED GOALS', va:s.xgA, vb:s.xgB, pct:+s.xgA/(+s.xgA + +s.xgB)*100},
-      ];
-    }
-    const wins = (t) => t ? t.fm.filter(x=>x==='W').length : 0;
-    return [
-      {label:'GOALS', va:sc.a == null ? 0 : sc.a, vb:sc.b == null ? 0 : sc.b, pct:(+sc.a||0)/((+sc.a||0)+(+sc.b||0)||1)*100},
-      {label:'FIFA RANK', va:ta ? ta.rk : 0, vb:tb ? tb.rk : 0, pct:ta && tb ? tb.rk/(ta.rk+tb.rk)*100 : 50},
-      {label:'WINS · LAST FIVE', va:wins(ta), vb:wins(tb), pct:wins(ta)/(wins(ta)+wins(tb)||1)*100},
-    ];
-  })();
-  const statRows = stats.map(s => `<div class="im-stat">
-    <div><strong data-target="${s.va}">0</strong><span>${s.label}</span><strong data-target="${s.vb}">0</strong></div>
+  const actualStats = facts.teamStats;
+  const statConfig = [
+    ['possession','POSSESSION %'], ['attempts','ATTEMPTS · ON TARGET'],
+    ['xg','EXPECTED GOALS'], ['passCompletion','PASS COMPLETION %'], ['cards','CARDS'],
+  ];
+  const stats = actualStats ? statConfig.map(([field,label]) => {
+    const va=actualStats.a?.[field], vb=actualStats.b?.[field];
+    if (va == null || vb == null) return null;
+    const total=(+va||0)+(+vb||0);
+    return {
+      label,va:field==='attempts'?`${va} (${actualStats.a?.onTarget ?? '–'})`:va,
+      vb:field==='attempts'?`${vb} (${actualStats.b?.onTarget ?? '–'})`:vb,
+      rawA:va,rawB:vb,pct:total ? (+va/total)*100 : 50,numeric:field!=='attempts',
+    };
+  }).filter(Boolean).slice(0,5) : [];
+  const statRows = stats.length ? stats.map(s => `<div class="im-stat">
+    <div><strong ${s.numeric?`data-target="${s.va}"`:''}>${s.numeric?'0':s.va}</strong><span>${s.label}</span><strong ${s.numeric?`data-target="${s.vb}"`:''}>${s.numeric?'0':s.vb}</strong></div>
     <div class="im-stat-track"><i data-width="${Math.max(0,Math.min(100,s.pct))}"></i></div>
-  </div>`).join('');
+  </div>`).join('') : `<p class="im-empty im-stats-empty">Verified match statistics will appear here when available.</p>`;
 
+  const contributionFor = (playerName) => {
+    const goals = events.filter((event) => event.type === 'goal' && event.name === playerName).length;
+    return goals ? `${goals} goal${goals === 1 ? '' : 's'} in this match` : null;
+  };
+  const foldName = (value) => String(value || '').normalize('NFD').replace(/\p{Diacritic}/gu,'').replace(/[^\p{L}\p{N}]/gu,'').toLowerCase();
+  const verifiedPlayer = (playerName, side) => (facts.lineups?.[side] || []).find((player) => foldName(player.name) === foldName(playerName));
+  const playerA = ta ? verifiedPlayer(ta.st, 'a') : null;
+  const playerB = tb ? verifiedPlayer(tb.st, 'b') : null;
   const players = [
-    ta && {num:'10', tag:`PLAYER TO WATCH · ${a}`, n:ta.st, meta:`${ta.f} ${ta.n}`, stat:`The creative reference point · coached by ${ta.co}`, hue:42},
-    tb && {num:'10', tag:`PLAYER TO WATCH · ${b}`, n:tb.st, meta:`${tb.f} ${tb.n}`, stat:`The player this tie can turn on · coached by ${tb.co}`, hue:210},
+    ta && {num:playerA?.number || '', tag:`PLAYER TO WATCH · ${a}`, n:ta.st, meta:`${ta.f} ${ta.n}${playerA?.position?` · ${playerA.position}`:''}`, stat:contributionFor(ta.st) || 'Featured player', hue:42, team:a},
+    tb && {num:playerB?.number || '', tag:`PLAYER TO WATCH · ${b}`, n:tb.st, meta:`${tb.f} ${tb.n}${playerB?.position?` · ${playerB.position}`:''}`, stat:contributionFor(tb.st) || 'Featured player', hue:210, team:b},
   ].filter(Boolean);
-  const playerLayers = players.map((p,i)=>{const photo=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-layer" data-player-layer="${i}" data-player-name="${p.n}" style="--h:${p.hue}"><span>${p.num}</span>${photo&&photo.url?`<a href="${photo.fifaUrl||photo.page}" target="_blank" rel="noopener">${photo.fifaUrl?'View on FIFA ↗':'Photo source ↗'}</a>`:''}</div>`;}).join('');
-  const playerTexts = players.map((p,i)=>{const media=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-copy" data-player-copy="${i}"><span>${p.tag}</span><h2>${p.n}</h2><strong>${p.meta}</strong><p>${p.stat}</p>${media&&media.youtubeUrl?`<a class="im-player-video" href="${media.youtubeUrl}" target="_blank" rel="noopener">Watch official FIFA player video ↗</a>`:''}</div>`;}).join('');
+  const playerLayers = players.map((p,i)=>{const photo=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-layer" data-player-layer="${i}" data-player-name="${p.n}" style="--h:${p.hue}"><span>${photo?.shirtNumber || p.num}</span>${photo&&photo.url?`<a href="${photo.fifaUrl||photo.page}" target="_blank" rel="noopener">${photo.fifaUrl?'View on FIFA ↗':'Photo source ↗'}</a>`:''}</div>`;}).join('');
+  const playerTexts = players.map((p,i)=>`<div class="im-player-copy" data-player-copy="${i}"><span>${p.tag}</span><h2>${p.n}</h2><strong>${p.meta}</strong><p>${p.stat}</p><button class="im-player-video" type="button" data-player-profile="${i}">View profile</button></div>`).join('');
   const playerDots = players.map((p,i)=>`<button data-player-dot="${i}" aria-label="Show ${p.n}"></button>`).join('');
+
+  const lineupTeams = [
+    {team:ta, code:a, formation:facts.formations?.[0], rows:facts.lineups?.a || []},
+    {team:tb, code:b, formation:facts.formations?.[1], rows:facts.lineups?.b || []},
+  ];
+  const lineupMarkup = lineupTeams.map((side,index)=>`<section class="im-lineup-team ${index===0?'active':''}" data-lineup-team="${index}">
+    <div class="im-lineup-team-head"><h3>${flag(side.team)} ${name(side.team)}</h3>${side.formation?`<span>${side.formation}</span>`:''}</div>
+    ${side.rows.length ? `<ol>${side.rows.map(player=>`<li><b>${player.number || '–'}</b><span>${player.name}</span><small>${player.position || ''}${player.substitution ? ` · ${player.substitution}` : ''}</small></li>`).join('')}</ol>` : `<p>Verified player-by-player line-ups are not available from the current source yet.</p>`}
+  </section>`).join('');
+
+  const profileMarkup = players.map((player,index)=>{const media=(D.PLAYER_IMAGES||{})[player.n]||{};const videoOk=media.videoVerified===true&&media.youtubeId;return `<article class="im-profile-card" data-profile-card="${index}" hidden>
+    <div class="im-profile-portrait" data-profile-photo="${player.n}"></div>
+    <div class="im-profile-copy"><span>${player.tag}</span><h2>${player.n}</h2><strong>${player.meta}</strong><p>${player.stat}</p>
+      ${videoOk?`<div class="im-profile-video"><iframe data-src="https://www.youtube-nocookie.com/embed/${media.youtubeId}?rel=0" title="${media.videoTitle || `${player.n} official video`}" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`:`<p class="im-media-unavailable">Official player video unavailable.</p>`}
+      ${media.page?`<a href="${media.fifaUrl||media.page}" target="_blank" rel="noopener">Portrait source ↗</a>`:''}
+    </div>
+  </article>`;}).join('');
 
   const video = highlight && embedId ? `<section class="im-video-section" aria-labelledby="highlight-title">
     <div class="im-video-head"><span>OFFICIAL MATCH VIDEO</span><h2 id="highlight-title">Watch the highlights</h2></div>
@@ -86,6 +122,7 @@
 
   const next = key === 'final' ? null : KC.nextInfo(key, idx);
   const stake = key === 'final' ? 'The World Cup' : (next && next.oppLabel ? next.oppLabel : `A place in the ${D.ROUNDS[ri+1].name}`);
+  const deciding = st === 'finished' ? MF?.decidingFact(facts.teamStats) : null;
   document.title = `${name(ta)} vs ${name(tb)} — Knockout Immersive`;
   root.innerHTML = `
     <section class="im-hero">
@@ -93,7 +130,8 @@
       <div class="im-hero-center">
         <div class="im-hero-score" data-hero-score><span>${scoreA}</span>:<span>${scoreB}</span></div>
         <div class="im-hero-teams"><strong>${flag(ta)} ${name(ta)}</strong><span>VS</span><strong>${name(tb)} ${flag(tb)}</strong></div>
-        <p data-match-meta>${when}${st==='live' ? ` · ${sc.min}th minute — scroll to replay` : ''}</p>
+        <p class="im-match-time" data-match-meta>${whenHtml}${st==='live' ? `<em>${sc.min}th minute · scroll to replay</em>` : ''}</p>
+        ${facts.stale?`<p class="im-stale" role="status">Live feed delayed · showing the last verified update</p>`:''}
       </div>
       ${stadium ? `<a class="im-stadium-credit" href="${stadium.page}" target="_blank" rel="noopener">Photo source ↗</a>` : ''}
       <div class="scroll-cue" aria-hidden="true">
@@ -112,23 +150,48 @@
           <span><b>${name(tb)} ${flag(tb)}</b></span>
         </div>
         ${statRows}
+        ${deciding?`<aside class="im-decision"><span>WHAT DECIDED IT</span><p>${deciding}</p></aside>`:''}
       </div>
     </div></section>
     ${video}
     <section class="im-players"><div class="im-player-stage">
       ${playerLayers}${playerTexts}<div class="im-player-label">KEY PLAYERS</div><div class="im-player-dots">${playerDots}</div>
     </div></section>
+    <section class="im-lineup-invite" aria-labelledby="lineup-invite-title">
+      <span>TEAM SHEETS</span><h2 id="lineup-invite-title">Explore the line-ups</h2><p>Formations and verified squad details, kept separate from the match story.</p>
+      <button type="button" data-open-lineups>Explore line-ups</button>
+      ${facts.reportUrl?`<a href="${facts.reportUrl}" target="_blank" rel="noopener">Open the official FIFA report ↗</a>`:''}
+    </section>
     <section class="im-stakes">
       <span>WHAT’S AT STAKE</span><h2>Winner claims</h2><h3>${stake}</h3><p>${key === 'final' ? 'One match from immortality.' : `The road continues through the ${D.ROUNDS[ri+1].name} — then the final.`}</p>
       <a href="index.html#circle">‹ BACK TO THE BRACKET</a>
-    </section>`;
+    </section>
+    <div class="im-dialog" data-profile-dialog role="dialog" aria-modal="true" aria-labelledby="profile-dialog-title" hidden>
+      <div class="im-dialog-shell"><div class="im-dialog-head"><span id="profile-dialog-title">KEY PLAYER PROFILE</span><button type="button" data-close-dialog aria-label="Close player profile">Close ×</button></div>${profileMarkup}</div>
+    </div>
+    <div class="im-dialog" data-lineup-dialog role="dialog" aria-modal="true" aria-labelledby="lineup-dialog-title" hidden>
+      <div class="im-dialog-shell im-lineup-shell"><div class="im-dialog-head"><span id="lineup-dialog-title">LINE-UPS & FORMATIONS</span><button type="button" data-close-dialog aria-label="Close line-ups">Close ×</button></div>
+        <div class="im-lineup-tabs" role="tablist"><button type="button" class="active" data-lineup-tab="0">${name(ta)}</button><button type="button" data-lineup-tab="1">${name(tb)}</button></div>
+        <div class="im-pitch" aria-hidden="true"><span></span><i></i><b></b></div><div class="im-lineup-grid">${lineupMarkup}</div>
+      </div>
+    </div>`;
 
   // Assign remote media through the CSSOM so punctuation in Wikimedia URLs
   // cannot break an inline style declaration.
   if (stadium?.url) root.querySelector('.im-hero')?.style.setProperty('--stadium-photo', `url(${JSON.stringify(stadium.url)})`);
   root.querySelectorAll('[data-player-name]').forEach((layer) => {
     const photo = (D.PLAYER_IMAGES || {})[layer.dataset.playerName];
-    if (photo?.url) layer.style.setProperty('--player-photo', `url(${JSON.stringify(photo.url)})`);
+    if (photo?.url) {
+      layer.style.setProperty('--player-photo', `url(${JSON.stringify(photo.url)})`);
+      layer.style.setProperty('--player-focus', photo.focalPoint || '50% 20%');
+    }
+  });
+  root.querySelectorAll('[data-profile-photo]').forEach((portrait) => {
+    const photo = (D.PLAYER_IMAGES || {})[portrait.dataset.profilePhoto];
+    if (photo?.url) {
+      portrait.style.setProperty('--profile-photo', `url(${JSON.stringify(photo.url)})`);
+      portrait.style.setProperty('--profile-focus', photo.focalPoint || '50% 20%');
+    }
   });
 
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -148,6 +211,53 @@
   };
   qa('[data-player-dot]').forEach((e,i)=>e.addEventListener('click',()=>setPlayer(i)));
   setPlayer(0);
+
+  let returnFocus = null;
+  const closeDialog = (dialog) => {
+    if (!dialog || dialog.hidden) return;
+    dialog.hidden = true;
+    dialog.querySelectorAll('iframe').forEach((frame) => frame.removeAttribute('src'));
+    document.body.classList.remove('im-dialog-open');
+    returnFocus?.focus();
+    returnFocus = null;
+  };
+  const openDialog = (dialog, trigger) => {
+    if (!dialog) return;
+    returnFocus = trigger;
+    dialog.hidden = false;
+    document.body.classList.add('im-dialog-open');
+    dialog.querySelector('[data-close-dialog]')?.focus();
+  };
+  qa('[data-player-profile]').forEach((button) => button.addEventListener('click', () => {
+    const index = +button.dataset.playerProfile;
+    const dialog = q('[data-profile-dialog]');
+    qa('[data-profile-card]').forEach((card, cardIndex) => { card.hidden = cardIndex !== index; });
+    const frame = dialog?.querySelector(`[data-profile-card="${index}"] iframe[data-src]`);
+    if (frame) frame.src = frame.dataset.src;
+    openDialog(dialog, button);
+  }));
+  const lineupTrigger = q('[data-open-lineups]');
+  lineupTrigger?.addEventListener('click', () => openDialog(q('[data-lineup-dialog]'), lineupTrigger));
+  qa('[data-close-dialog]').forEach((button) => button.addEventListener('click', () => closeDialog(button.closest('.im-dialog'))));
+  qa('.im-dialog').forEach((dialog) => dialog.addEventListener('click', (event) => {
+    if (event.target === dialog) closeDialog(dialog);
+  }));
+  qa('[data-lineup-tab]').forEach((button) => button.addEventListener('click', () => {
+    const index = +button.dataset.lineupTab;
+    qa('[data-lineup-tab]').forEach((tab, tabIndex) => tab.classList.toggle('active', tabIndex === index));
+    qa('[data-lineup-team]').forEach((team, teamIndex) => team.classList.toggle('active', teamIndex === index));
+  }));
+  document.addEventListener('keydown', (event) => {
+    const dialog = qa('.im-dialog').find((item) => !item.hidden);
+    if (!dialog) return;
+    if (event.key === 'Escape') { closeDialog(dialog); return; }
+    if (event.key !== 'Tab') return;
+    const focusable = qa('a[href],button:not([disabled]),iframe,[tabindex]:not([tabindex="-1"])').filter((node) => dialog.contains(node) && !node.closest('[hidden]'));
+    if (!focusable.length) return;
+    const first = focusable[0], last = focusable[focusable.length - 1];
+    if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+    else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+  });
 
   const nav = document.getElementById('siteNav');
   addEventListener('scroll',()=>nav.classList.toggle('scrolled',scrollY>30),{passive:true});
@@ -198,7 +308,7 @@
       const pill = q('.im-live');
       const matchMeta = q('[data-match-meta]');
       if (pill) pill.innerHTML = `<i></i>LIVE ${nextScore.min}’`;
-      if (matchMeta) matchMeta.textContent = `${when} · ${nextScore.min}th minute — scroll to replay`;
+      if (matchMeta) matchMeta.innerHTML = `${whenHtml}<em>${nextScore.min}th minute · scroll to replay</em>`;
     }
   });
 

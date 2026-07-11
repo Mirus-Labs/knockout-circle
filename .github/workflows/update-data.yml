@@ -1,7 +1,7 @@
 name: Refresh World Cup data and media
 
-# Refreshes news, stats, match-specific FIFA videos, player media and venue
-# photography. Changed overlays are committed and then published to the
+# Refreshes news, stats, FIFA reports, match-specific videos, player media and
+# venue photography. Changed overlays are committed and then published to the
 # Cloudflare Workers static-assets deployment.
 #
 # Required repository secrets for publishing:
@@ -36,8 +36,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
 
-      - name: Check FIFA videos, player media and venue photography
+      - name: Install updater dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Check FIFA reports, videos, player media and venue photography
         continue-on-error: true
         run: node scripts/update-data.mjs
 

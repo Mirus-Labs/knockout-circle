@@ -50,19 +50,74 @@
     }) || null;
   };
 
-  // scoring plays → the site's goal-list shape, split per side
-  const goalsFrom = (comp, homeId) => {
-    const out = { home: [], away: [] };
+  const statValue = (competitor, names) => {
+    const wanted = names.map((name) => name.toLowerCase());
+    const stat = (competitor?.statistics || []).find((item) => {
+      const keys = [item.name, item.label, item.displayName, item.shortDisplayName].filter(Boolean).map((value) => String(value).toLowerCase());
+      return keys.some((key) => wanted.includes(key));
+    });
+    if (!stat) return null;
+    const raw = stat.value ?? stat.displayValue;
+    if (raw == null) return null;
+    const parsed = Number(String(raw).replace(/[^\d.-]/g, ''));
+    return Number.isFinite(parsed) ? parsed : null;
+  };
+
+  const statsFrom = (home, away) => {
+    const side = (team) => ({
+      possession: statValue(team, ['possessionpct', 'possession', 'possession %']),
+      attempts: statValue(team, ['totalshots', 'shots', 'total shots']),
+      onTarget: statValue(team, ['shotsontarget', 'shots on target']),
+      xg: statValue(team, ['expectedgoals', 'expected goals', 'xg']),
+      passCompletion: statValue(team, ['passpercentage', 'pass completion', 'pass accuracy']),
+      cards: (() => {
+        const yellow = statValue(team, ['yellowcards', 'yellow cards']) || 0;
+        const red = statValue(team, ['redcards', 'red cards']) || 0;
+        return yellow + red || null;
+      })(),
+    });
+    return { home: side(home), away: side(away) };
+  };
+
+  const lineupFrom = (competitor) => {
+    const roster = competitor?.roster?.entries || competitor?.roster || [];
+    if (!Array.isArray(roster)) return [];
+    return roster.map((entry) => {
+      const athlete = entry.athlete || entry;
+      return {
+        name: athlete.displayName || athlete.fullName || athlete.name,
+        number: athlete.jersey || entry.jersey || null,
+        position: athlete.position?.abbreviation || athlete.position?.name || entry.position?.abbreviation || '',
+        starter: entry.starter !== false,
+      };
+    }).filter((player) => player.name);
+  };
+
+  // ESPN details → normalized event timeline plus legacy goal lists.
+  const eventsFrom = (comp, homeId) => {
+    const out = { home: [], away: [], events: [] };
     (comp.details || []).forEach((d) => {
       const txt = (d.type && d.type.text || '').toLowerCase();
-      if (!d.scoringPlay && !txt.includes('goal')) return;
-      const g = {
-        name: (d.athletesInvolved && d.athletesInvolved[0] && d.athletesInvolved[0].displayName) || 'Goal',
-        minute: (d.clock && d.clock.displayValue || '').replace(/'$/, ''),
+      const isGoal = d.scoringPlay || txt.includes('goal');
+      const isCard = txt.includes('card') || txt.includes('yellow') || txt.includes('red');
+      const isSub = txt.includes('substitution');
+      if (!isGoal && !isCard && !isSub) return;
+      const homeSide = String(d.team && d.team.id) === String(homeId);
+      const clock = (d.clock && d.clock.displayValue || '').replace(/'$/, '');
+      const player = (d.athletesInvolved && d.athletesInvolved[0] && d.athletesInvolved[0].displayName) || (isSub ? 'Substitution' : isCard ? 'Card' : 'Goal');
+      const event = {
+        minute: clock,
+        type: isGoal ? 'goal' : isSub ? 'substitution' : txt.includes('red') ? 'red-card' : 'yellow-card',
+        side: homeSide ? 'home' : 'away',
+        player,
+        detail: d.text || d.shortText || '',
       };
+      out.events.push(event);
+      if (!isGoal) return;
+      const g = { name: player, minute: clock };
       if (txt.includes('penalty')) g.penalty = true;
       if (txt.includes('own')) g.owngoal = true;
-      (String(d.team && d.team.id) === String(homeId) ? out.home : out.away).push(g);
+      (homeSide ? out.home : out.away).push(g);
     });
     return out;
   };
@@ -87,11 +142,22 @@
     if (state === 'in') {
       const [a, b] = orient(hs, as);
       const min = parseInt(e.status.displayClock, 10) || 0;
-      const g = goalsFrom(comp, home.team.id);
+      const g = eventsFrom(comp, home.team.id);
       const [goalsA, goalsB] = orient(g.home, g.away);
+      const stats = statsFrom(home, away);
+      const [statsA, statsB] = orient(stats.home, stats.away);
+      const [lineupA, lineupB] = orient(lineupFrom(home), lineupFrom(away));
+      const [formationA, formationB] = orient(home.formation || null, away.formation || null);
+      const events = g.events.map((event) => ({ ...event, side: slotA === hc ? event.side : event.side === 'home' ? 'away' : 'home' }));
       const prev = D.LIVE[tie.id];
       const changed = !prev || prev.a !== a || prev.b !== b || prev.min !== min;
-      D.LIVE[tie.id] = { a, b, min, goalsA, goalsB }; // goal lists power the zoomed timeline mid-match
+      D.LIVE[tie.id] = {
+        a, b, min, goalsA, goalsB, events, teamStats: { a: statsA, b: statsB },
+        lineups: lineupA.length || lineupB.length ? { a:lineupA, b:lineupB } : null,
+        formations: formationA || formationB ? [formationA, formationB] : null,
+        periodLabel: e.status?.type?.shortDetail || e.status?.type?.detail || 'Live',
+        source: 'ESPN', updatedAt: D.LIVE_HEALTH?.fetchedAt || null,
+      };
       return { live: tie.id, changed };
     }
 
@@ -104,9 +170,21 @@
       if (!wc) return { live: null, changed: false }; // can't model it — wait for openfootball
 
       const [a, b] = orient(hs, as);
-      const g = goalsFrom(comp, home.team.id);
+      const g = eventsFrom(comp, home.team.id);
       const [goalsA, goalsB] = orient(g.home, g.away);
-      D.RESULTS[tie.id] = { a, b, pens, w: wc, goalsA, goalsB };
+      const stats = statsFrom(home, away);
+      const [statsA, statsB] = orient(stats.home, stats.away);
+      const [lineupA, lineupB] = orient(lineupFrom(home), lineupFrom(away));
+      const [formationA, formationB] = orient(home.formation || null, away.formation || null);
+      const events = g.events.map((event) => ({ ...event, side: slotA === hc ? event.side : event.side === 'home' ? 'away' : 'home' }));
+      D.RESULTS[tie.id] = {
+        a, b, pens, penScore: pens ? orient(hp, ap) : null, w: wc, goalsA, goalsB, events,
+        teamStats: { a: statsA, b: statsB },
+        lineups: lineupA.length || lineupB.length ? { a:lineupA, b:lineupB } : null,
+        formations: formationA || formationB ? [formationA, formationB] : null,
+        periodLabel: 'Full time', source: 'ESPN',
+        updatedAt: D.LIVE_HEALTH?.fetchedAt || null,
+      };
       D.STATUS[tie.id] = 'finished';
       D.PICK[tie.id] = wc;
       D.UPNEXT = (D.UPNEXT || []).filter((u) => u.key + '-' + u.idx !== tie.id);
@@ -123,7 +201,11 @@
       const res = await fetch(LIVE_API, { cache: 'no-store' });
       if (!res.ok) throw new Error('live API HTTP ' + res.status);
       const data = await res.json();
-      if (data.stale || !Array.isArray(data.events)) return;
+      D.LIVE_HEALTH = { stale: !!data.stale, fetchedAt: data.fetchedAt || null, lastError: data.lastError || null };
+      if (data.stale || !Array.isArray(data.events)) {
+        window.dispatchEvent(new CustomEvent('kc:live-health'));
+        return;
+      }
       (data.events || []).forEach((e) => {
         const r = applyEvent(e);
         if (r.live) alive.add(r.live);
