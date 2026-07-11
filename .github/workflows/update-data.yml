@@ -1,0 +1,45 @@
+name: Refresh data
+
+# Runs the data updater in the cloud so the DEPLOYED site's news + stats stay
+# fresh without any machine of yours being on. Each run regenerates
+# data/news.json + data/stats.json, and if anything changed, commits & pushes —
+# which triggers the Cloudflare Pages rebuild that publishes the new files.
+
+on:
+  schedule:
+    - cron: '23 * * * *'   # hourly at :23 UTC (off the top-of-hour congestion)
+  workflow_dispatch: {}      # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write            # allow the job to push the data commit
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'   # script uses global fetch + ESM; no npm install needed
+
+      - name: Regenerate data files
+        continue-on-error: true   # a hiccup in one source shouldn't block the other's update
+        run: node scripts/update-data.mjs
+
+      - name: Commit & push if data changed
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/
+            git commit -m "chore(data): hourly refresh of news & stats"
+            git push
+            echo "Pushed refreshed data — Cloudflare Pages will redeploy."
+          else
+            echo "No data changes this run."
+          fi
