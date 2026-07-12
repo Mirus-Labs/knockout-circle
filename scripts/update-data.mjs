@@ -22,6 +22,7 @@ import { fileURLToPath } from 'node:url';
 import { discoverReportLinks, extractPdfText, parseReportText } from './match-report.mjs';
 import { FIFA_LIVE_API, WORLD_CUP_2026, liveLineupWindow, parseLiveLineups } from './live-lineups.mjs';
 import { matchesPlayerVideo } from './player-media.mjs';
+import { enrichNewsArticles } from './news-images.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data');
@@ -72,6 +73,7 @@ async function updateNews() {
     };
     const rawTitle = stripTags(tag('title'));
     const source = stripTags(tag('source'));
+    const sourceUrl = unescapeXml(it.match(/<source[^>]*\burl=["']([^"']+)["']/i)?.[1] || '');
     // Google News titles end in " - Source"; trim it when it matches the source tag
     const title = source && rawTitle.endsWith(' - ' + source)
       ? rawTitle.slice(0, -(' - ' + source).length)
@@ -80,6 +82,7 @@ async function updateNews() {
       title,
       link: unescapeXml(tag('link')),
       source: source || 'Google News',
+      sourceUrl,
       iso: new Date(tag('pubDate')).toISOString(),
       lede: stripTags(tag('description')).slice(0, 220),
     };
@@ -100,13 +103,15 @@ async function updateNews() {
       iso: n.iso,
       link: n.link,
       lede: n.lede && n.lede !== n.title ? n.lede : '',
+      sourceUrl: n.sourceUrl,
       emoji: NEWS_EMOJI[i % NEWS_EMOJI.length],
       bg: NEWS_BG[i % NEWS_BG.length],
     }));
 
   if (!news.length) throw new Error('news RSS parsed to zero items');
-  await writeFile(join(OUT, 'news.json'), JSON.stringify({ updated: new Date().toISOString(), news }, null, 1));
-  log(`news.json written (${news.length} headlines, latest: "${news[0].title}")`);
+  const enriched = await enrichNewsArticles(news);
+  await writeFile(join(OUT, 'news.json'), JSON.stringify({ updated: new Date().toISOString(), news: enriched }, null, 1));
+  log(`news.json written (${enriched.length} headlines, ${enriched.filter((item) => item.image).length} images, latest: "${enriched[0].title}")`);
 }
 
 /* ---------------- stats: ESPN season leaders (true leaderboards) ---------------- */
@@ -592,6 +597,13 @@ const highlightsOnly = process.argv.includes('--highlights-only');
 const reportsOnly = process.argv.includes('--reports-only');
 const playersOnly = process.argv.includes('--players-only');
 const lineupsOnly = process.argv.includes('--lineups-only');
+const newsOnly = process.argv.includes('--news-only');
+
+if (newsOnly) {
+  try { await updateNews(); }
+  catch (err) { failures++; console.error('news update failed:', err.message); }
+  process.exit(failures ? 1 : 0);
+}
 
 if (lineupsOnly) {
   try { await updateLineupsOnly(); }

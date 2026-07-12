@@ -6,6 +6,7 @@
     "test": "node --test"
   },
   "dependencies": {
+    "google-news-url-decoder": "1.2.2",
     "pdfjs-dist": "5.4.530"
   }
 }

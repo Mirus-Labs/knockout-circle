@@ -75,6 +75,15 @@
     if (mins < 60) return `Updated ${mins}m ago`;
     return `Updated ${Math.floor(mins / 60)}h ago`;
   };
+  const attr = (value) => String(value || '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+  const newsImage = (n, className) => n.image
+    ? `<img class="${className}" src="${attr(n.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">`
+    : '';
+  const bindNewsImageFallback = (root) => {
+    root.querySelectorAll('.news-thumb-image, .nm-image').forEach((image) => {
+      image.addEventListener('error', () => image.remove(), { once: true });
+    });
+  };
 
   const $ = (s, c) => (c || document).querySelector(s);
   const el = (tag, cls, html) => {
@@ -529,7 +538,9 @@
   function openNews(i) {
     const n = D.NEWS[i];
     openModal(`
-      <div class="nm-banner" style="background:linear-gradient(135deg,${n.bg},#0b0b0d)">${n.emoji}</div>
+      <div class="nm-banner" style="background:linear-gradient(135deg,${n.bg},#0b0b0d)">
+        <span class="nm-fallback">${n.emoji}</span>${newsImage(n, 'nm-image')}
+      </div>
       <div class="nm-body">
         <div class="nm-cat">${n.cat} · ${newsTime(n)} ago</div>
         <h2 class="nm-title">${n.title}</h2>
@@ -538,6 +549,7 @@
           ? `<a href="${n.link}" target="_blank" rel="noopener" style="color:inherit">Read the full story ↗</a>`
           : `<span>💬 ${n.posts} posts</span><span>·</span><span>Developing story</span>`}</div>
       </div>`);
+    bindNewsImageFallback(modalCard);
   }
 
   /* ================= HERO LIVE CARDS ================= */
@@ -675,7 +687,10 @@
             ${newsTime(n)} ago${n.posts ? ` · ${n.posts} posts` : ''}
           </span>
         </span>
-        <span class="news-thumb" style="background:linear-gradient(135deg,${n.bg},#0b0b0d)">${n.emoji}</span>`);
+        <span class="news-thumb" style="background:linear-gradient(135deg,${n.bg},#0b0b0d)">
+          <span class="news-thumb-fallback">${n.emoji}</span>${newsImage(n, 'news-thumb-image')}
+        </span>`);
+      bindNewsImageFallback(card);
       card.dataset.cursor = '';
       card.addEventListener('click', () => openNews(i));
       wrap.appendChild(card);

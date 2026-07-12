@@ -34,6 +34,7 @@ js/
 data/                 # JSON overlays (see "Data sources" below)
 scripts/
   update-data.mjs     # main updater: news, stats, reports, videos, player & stadium media
+  news-images.mjs     # publisher URL resolution and article-image metadata
   match-report.mjs    # parses FIFA Training Centre post-match report PDFs
   live-lineups.mjs    # announced XIs from FIFA's live match API (pre-match & in-play)
   player-media.mjs    # matches player-specific highlight videos
@@ -51,7 +52,7 @@ Everything is real WC2026 data. Different surfaces pull from different providers
 | Live scores (in-match) | `/api/live` (worker) | [ESPN scoreboard API](https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard) |
 | Tournament leaders / stat tabs | `data/stats.json` | ESPN core API (`sports.core.api.espn.com` leaders) |
 | Player & team display names | `data/espn-names.json` | ESPN (name cache for the leaders feed) |
-| News | `data/news.json` | Google News RSS |
+| News | `data/news.json` | Google News RSS, publisher Open Graph images |
 | Per-player stats & radar | `data/player-stats.json` | FIFA Enhanced Football Intelligence metrics via the public [fifaphy](https://fifaphy.vercel.app) dataset — radar axes are **derived** per-90 position-cohort percentiles, not an official FIFA rating |
 | Official post-match reports | `data/match-reports.json` | [FIFA Training Centre](https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php) match-report PDFs |
 | Line-ups before & during a match | `data/match-reports.json` | FIFA live match API (`api.fifa.com/api/v3/live/football/…`) — announced XIs land ~1h before kick-off (`--lineups-only` polls just these); the Training Centre PDF replaces the entry as the source of record once published |
@@ -71,11 +72,13 @@ npx serve .        # or: python3 -m http.server
 
 ```bash
 node scripts/update-data.mjs   # news, stats, reports, videos, player & stadium media
+node scripts/update-data.mjs --news-only # fast headline + publisher-image refresh
 node scripts/player-stats.mjs  # rebuild data/player-stats.json (run separately, as needed)
 ```
 
-The GitHub Actions workflow in `.github/workflows/update-data.yml` runs the main
-updater twice hourly. News and stats refresh every run; match videos and official
+The lightweight `.github/workflows/update-news.yml` workflow refreshes headlines
+and publisher images every 15 minutes. The full updater still runs twice hourly;
+news and stats refresh every full run, while match videos and official
 post-match reports are rechecked each run for in-window matches, and player/venue
 photography is rechecked weekly.
 When an overlay changes, the workflow commits it so a Git-connected deployment can
@@ -96,7 +99,9 @@ npx wrangler deploy
 The first deployment creates the `LiveState` Durable Object and installs the
 once-per-minute Cron Trigger declared in `wrangler.jsonc`. Static overlays still
 use the scheduled GitHub Actions workflow; live scores do not require commits or
-site redeployments.
+site redeployments. The Worker serves `data/news.json` from the latest `main`
+commit (with the deployed asset as a fallback), so headline updates do not wait
+for a complete static-assets deployment.
 
 ---
 

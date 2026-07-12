@@ -1,0 +1,46 @@
+name: Refresh World Cup news
+
+on:
+  schedule:
+    # Keep headlines current without waiting for the slower media refresh job.
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Share the full updater's lock so both workflows always push from the latest main.
+concurrency:
+  group: knockout-circle-data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install updater dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Fetch headlines and publisher images
+        run: node scripts/update-data.mjs --news-only
+
+      - name: Commit and push refreshed news
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No news changes found."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "chore(data): refresh World Cup news"
+          git push

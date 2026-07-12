@@ -4,6 +4,7 @@
 
 const ESPN_SCOREBOARD = 'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard';
 const OPENFOOTBALL_SCHEDULE = 'https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json';
+const NEWS_OVERLAY = 'https://raw.githubusercontent.com/Mirus-Labs/knockout-circle/main/data/news.json';
 const USER_AGENT = 'KnockoutCircle/1.0 (+https://github.com/Mirus-Labs/knockout-circle)';
 const SNAPSHOT_KEY = 'snapshot';
 const SCHEDULE_KEY = 'schedule';
@@ -55,6 +56,30 @@ function retryAfter(response, now) {
 
 function singleton(env) {
   return env.LIVE_STATE.get(env.LIVE_STATE.idFromName('world-cup-2026'));
+}
+
+export async function latestNews(request, env, fetchImpl = fetch) {
+  try {
+    const response = await fetchImpl(NEWS_OVERLAY, {
+      headers: { 'user-agent': USER_AGENT, accept: 'application/json' },
+      signal: AbortSignal.timeout(6000),
+      cf: { cacheTtl: 60, cacheEverything: true },
+    });
+    if (!response.ok) throw new Error(`news overlay HTTP ${response.status}`);
+    const data = await response.json();
+    if (!data?.updated || !Array.isArray(data.news) || !data.news.length) {
+      throw new Error('news overlay was malformed');
+    }
+    return json(data, {
+      headers: {
+        'cache-control': 'public, max-age=60, stale-while-revalidate=300',
+        'x-news-source': 'github-main',
+      },
+    });
+  } catch (error) {
+    console.warn('Latest news overlay unavailable:', error.message);
+    return env.ASSETS.fetch(request);
+  }
 }
 
 export class LiveState {
@@ -182,6 +207,9 @@ export class LiveState {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if (url.pathname === '/data/news.json' && request.method === 'GET') {
+      return latestNews(request, env);
+    }
     if (url.pathname === '/api/live' && request.method === 'GET') {
       const response = await singleton(env).fetch('https://live.internal/snapshot');
       return new Response(response.body, response);

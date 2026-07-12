@@ -1,77 +1,85 @@
 {
- "updated": "2026-07-12T19:56:03.386Z",
+ "updated": "2026-07-12T20:19:54.596Z",
  "news": [
+  {
+   "cat": "DAZN",
+   "title": "Who makes the best XI from the World Cup's quarter-final stage?",
+   "iso": "2026-07-12T20:00:19.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/fifa-world-cup-26-best-xi-quarterfinal-messi-mbappe-bellingham/psgg6vcfkntk1mghq8z1pgo68",
+   "lede": "Who makes the best XI from the World Cup's quarter-final stage? &nbsp;&nbsp; DAZN",
+   "emoji": "⚽",
+   "bg": "#1d6f42",
+   "image": "https://images.daznservices.com/di/library/DAZN_News/38/18/12b2a1plnzujk1a6f7w89w3iuiimagehero16x9_12b2a1plnzujk1a6f7w89w3iui_IMAGE_HERO_16x9_src.png?t=1522394543"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
-   "iso": "2026-07-12T19:51:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHhFRUIzRUNMWHpkN25UN1FVR3AwVVhSLWxHdHZKNExHUjluWWU3R1RaR0NQbkc4Q2ZaV29ZQk5RQzhYX241aHBVX3duTmVJMU1DcmhSRlRVQ2owclR4MTZfSzhmZkxMZG9MeXJMX05ZLWo3V01aQi1QOUxBNjBDVXNtYkZ5cnpfdTZmOS1Mb0RTbF93aldHNXJOSUtsTDZTUjBqVHFMakFpSFZrZGVValZR?oc=5",
+   "iso": "2026-07-12T19:53:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
    "lede": "England on collision course with Messi and Argentina in World Cup semi-final grudge match &nbsp;&nbsp; The Guardian",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b",
+   "image": "https://i.guim.co.uk/img/media/c817d50a550c927ce38c8f224d950b0dcb4ce876/387_0_3980_3185/master/3980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9024b2163db3f6bf7fe7851af7c9c7e0"
   },
   {
    "cat": "AL JAZEERA",
    "title": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage",
    "iso": "2026-07-12T19:35:39.000Z",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGo3TkRzUFktRm9HTjVHZU0ySUNNQW1RekxFNE85aTNYX2wtMWRvb0pyMFNNQTQ4MVRjbWZzWWx3S2lkZnhUdFVBY21fQXQ1VXFjOFk3VWx1dFRhZ0V3YkJMZkdxTjhQcUY2eWFRWGZHV29USHA3WENKZTlWMEc5YmtmZkpQNjdIc3dvWlVsNWo5TGg2TGNrSGFVekdOMzdHcDdxQ0ZyV3J4UU1iY28ycHY0ZDhuMjFnVUttWDFxSQ?oc=5",
+   "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal",
    "lede": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage &nbsp;&nbsp; Al Jazeera",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/GettyImages-52952754-1755679888.jpg?resize=1200%2C675"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
+   "iso": "2026-07-12T19:28:26.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13561909/world-cup-2026-argentina-xx-switzerland",
+   "lede": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England &nbsp;&nbsp; Sky Sports",
+   "emoji": "🔥",
+   "bg": "#7a2424",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-julian-alvarez-argentina_7295649.jpg?20260712045203"
   },
   {
    "cat": "BBC",
    "title": "Gianni Infantino opens door to 64-team World Cup",
    "iso": "2026-07-12T19:09:37.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9STk9kX0VlVzVSV3B2TzAtekJ0OS1PWTNibWpTY3pzdjNDb183YXVqY2RYQkJoWVJmc09Rbi10NTVzRkdoR0Z0YzJZaXd6ZHd2anVVSVZyRlVmZTlyTHIyeUtJMlBjWHpkUkE?oc=5",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o",
    "lede": "Gianni Infantino opens door to 64-team World Cup &nbsp;&nbsp; BBC",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle",
+   "iso": "2026-07-12T18:58:45.000Z",
+   "link": "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle",
+   "lede": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle &nbsp;&nbsp; Sky Sports",
+   "emoji": "🎯",
+   "bg": "#0c5c2e",
+   "image": "https://e0.365dm.com/26/06/1600x900/skysports-messi-mbappe-haaland_7280812.png?20260623114420"
   },
   {
    "cat": "YAHOO SPORTS",
    "title": "World Cup schedule, results: England and Argentina get into semifinals via late heroics",
    "iso": "2026-07-12T18:51:44.000Z",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU0RVckFGazBlUUNaYjJGNTM1RFltb29MdHl5SGRLbTB3SF9TY0VSVGpCeHpQRm1OZWlYazhqN2pIenVqN1hjNjVCbHhoRlVtTzM3R3R5XzB3Q3NPVlY3eWNHSEdlLVFXSElVdHFqRzlPcS1qRE5aUm5jNUNONUtMb0tobXlJY2lPU2ZoYnptWEtSbjI4Mmc0eGF6dG9oZHdsR1ZtNHJkajRISGYtSHFQcTVXYVFKeVdicWVpRFlVbnZuVTloazBiSWlfTWZhVGlRSjljM3JDNjhLakFuZk5z?oc=5",
+   "link": "https://sports.yahoo.com/soccer/article/2026-fifa-world-cup-daily-schedule-every-match-date-kickoff-time-and-venue-for-all-48-teams-234515087.html",
    "lede": "World Cup schedule, results: England and Argentina get into semifinals via late heroics &nbsp;&nbsp; Yahoo Sports",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b",
+   "image": "https://s.yimg.com/ny/api/res/1.2/_lI2fyI8kbcGK3TRH_kspQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cool-england-071126_3223.jpg"
   },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals",
    "iso": "2026-07-12T18:28:40.000Z",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObmFYNEt5WlRfc3JsbUN3dmFqa1dXVWJkZEZBSHZLNGtRMnRjZXQxTXgwYUpSbXZVajdtYVptbVhuS0hISUlHOEJyMXc3dUhQX3dnMlAyU2tOV0FNWDNZR016dm41djlxSkxvWnRJMHUxRHV3cnNNeWVyMXEyX0RpR2UxRnVQbjJ3S2tFSWdDRmlmLXNFR2hFT2VNRW85aDB6bmc3Q1VBcFZoSUxOR1htS3lSblNSWFBheTlEeFNFczNHRWU2OG95LWw3SDdjSzUzcG9yMm9oT3dobXBNS196NjhVOVE5cmRxcWVRanJrMUg5djQ?oc=5",
+   "link": "https://www.skysports.com/football/news/33694/13561325/world-cup-2026-norway-1-2-england-aet-jude-bellingham-the-hero-again-as-three-lions-advance-to-semi-finals",
    "lede": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals &nbsp;&nbsp; Sky Sports",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Scaloni plays down Argentina and England history: ‘A football game and that is all’",
-   "iso": "2026-07-12T18:23:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkE4aWpJTGFIMmo1QXdwcTIxUmFWd1J1cXJ2QkhLTjlHRTlTbTAtakI2YVZ0UG1XRWw0VWJDTGtCTWtTRl9DM1VnR0JQbVFGRkVFUFR6ekZpWFV4aWFxS05ZMnRzWHptZnRwVEFxWUJhZ2NKSE1EQ1lMQjhZdU1uTGUta2o2X08zc2dBVmZHRmFDMzhuanNNdWZVNE1hM2g2RVI2Z09ONA?oc=5",
-   "lede": "Scaloni plays down Argentina and England history: ‘A football game and that is all’ &nbsp;&nbsp; The Guardian",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
-   "iso": "2026-07-12T18:23:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXJXT3V3UkxodUxrWXZ0MDctZXVPRzVfdTVGMTk3c2JGNjdFS3RUYklTQ1E0Y3pzVUQtUWx6QlFVaU9OcGQzVXBfaENNdHNyd25VYW1LekR4a3Q3d0sydGZ2bUE2bGJiMXA0aFA3b2FhQnd0dkVWVi1kU210WmlxQnlGYjZxOUZJWVNYcUxtOFR2Q1lPdVRUdHItVlRXX2Jx?oc=5",
-   "lede": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer &nbsp;&nbsp; The Guardian",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "UEFA.COM",
-   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
-   "iso": "2026-07-12T18:22:07.000Z",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUpNVURDQk9zTXVhLVlJUmlJU1FiNmh1TmZlZkxwb2RPMXdmSDZCSlVBRWtGWVItdlN4Vm9fSUFPX2JUY1pFQVJZZDVoMERDWkxBZ3hZcW9KMGlNM0RWLXlNbUR6WjMwaWxqbFRPYnBhVVhocHdIOFUtUGc2QTVYUzllNDFuNlRkbmp1TXdlLWRDNUx3WjZlSHM2VTlOdDd1aWhpbFdCZzQ3bjVySVBIM19qN2UxaHIxSFIyVjd3c3RBRVMyWldYNE5pMUd6ZzgyOFk3ZTNUSQ?oc=5",
-   "lede": "France at the World Cup 2026: Squad, fixtures, group and history &nbsp;&nbsp; UEFA.com",
    "emoji": "🧤",
-   "bg": "#2f5d2a"
+   "bg": "#2f5d2a",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-norway-jude-bellingham_7295597.jpg?20260712001346"
   }
  ]
 }
