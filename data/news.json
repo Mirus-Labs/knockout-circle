@@ -1,14 +1,63 @@
 {
- "updated": "2026-07-12T22:27:26.712Z",
+ "updated": "2026-07-12T23:11:40.064Z",
  "news": [
+  {
+   "cat": "NORTHEAST TIMES",
+   "title": "England’s World Cup run captivates fans ahead of semifinal",
+   "iso": "2026-07-12T23:00:00.000Z",
+   "link": "https://northeasttimes.com/2026/07/12/england-s-world-cup-run-captivates-fans-ahead-of-semifinal/",
+   "lede": "England’s World Cup run captivates fans ahead of semifinal &nbsp;&nbsp; Northeast Times",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
+   "iso": "2026-07-12T22:29:16.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13561909/world-cup-2026-argentina-xx-switzerland",
+   "lede": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England &nbsp;&nbsp; Sky Sports",
+   "emoji": "🏆",
+   "bg": "#3a2d6b",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-julian-alvarez-argentina_7295649.jpg?20260712045203"
+  },
+  {
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-12T22:18:14.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+   "lede": "France at the World Cup 2026: Squad, fixtures, group and history &nbsp;&nbsp; UEFA.com",
+   "emoji": "🏟️",
+   "bg": "#7a5b16",
+   "image": "https://editorial.uefa.com/resources/02a7-211193438171-4425f300fed7-1000/fbl-wc-2026-match97-fra-mar.jpeg"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle",
+   "iso": "2026-07-12T21:59:02.000Z",
+   "link": "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle",
+   "lede": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle &nbsp;&nbsp; Sky Sports",
+   "emoji": "🔥",
+   "bg": "#7a2424",
+   "image": "https://e0.365dm.com/26/06/1600x900/skysports-messi-mbappe-haaland_7280812.png?20260623114420"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "2026 FIFA World Cup - Watch and Stream Live Matches",
+   "iso": "2026-07-12T21:56:51.000Z",
+   "link": "https://www.foxsports.com/soccer/fifa-world-cup",
+   "lede": "2026 FIFA World Cup - Watch and Stream Live Matches &nbsp;&nbsp; FOX Sports",
+   "emoji": "🌎",
+   "bg": "#1f4b7a",
+   "image": "https://b.fssta.com/uploads/application/fscom/SiteShareImage.vresize.1200.630.high.0.png"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "President Trump Faces Backlash for World Cup Trophy Decision",
    "iso": "2026-07-12T21:46:08.000Z",
    "link": "https://sports.yahoo.com/articles/president-trump-faces-backlash-world-183818095.html",
    "lede": "President Trump Faces Backlash for World Cup Trophy Decision &nbsp;&nbsp; Yahoo Sports",
-   "emoji": "⚽",
-   "bg": "#1d6f42",
+   "emoji": "🎯",
+   "bg": "#0c5c2e",
    "image": "https://s.yimg.com/ny/api/res/1.2/c6D_GFtFdVbm7OXOLF1bUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/the_spun_articles_751/336ca4e8227c7007df75ae852aef1164"
   },
   {
@@ -17,8 +66,8 @@
    "iso": "2026-07-12T21:45:00.000Z",
    "link": "https://www.bavarianfootballworks.com/question-of-the-day/229632/after-another-shaky-var-day-at-the-world-cup-on-saturday-have-you-lost-faith-in-the-system",
    "lede": "After another shaky VAR day at the World Cup on Saturday, have you lost faith in the system? &nbsp;&nbsp; Bavarian Football Works",
-   "emoji": "🏆",
-   "bg": "#3a2d6b",
+   "emoji": "📣",
+   "bg": "#5b2d6b",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285106674.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
   },
   {
@@ -27,59 +76,9 @@
    "iso": "2026-07-12T21:36:00.000Z",
    "link": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
    "lede": "Former Spanish PM accused of racism in remarks about French football team &nbsp;&nbsp; The Guardian",
-   "emoji": "🏟️",
-   "bg": "#7a5b16",
-   "image": "https://i.guim.co.uk/img/media/22c50184e3df5265ffcd5e38826eed3bd83fa59e/8_462_4951_3959/master/4951.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ca5f6da0f000556650ec6544ff2165"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals",
-   "iso": "2026-07-12T21:28:50.000Z",
-   "link": "https://www.skysports.com/football/news/33694/13561325/world-cup-2026-norway-1-2-england-aet-jude-bellingham-the-hero-again-as-three-lions-advance-to-semi-finals",
-   "lede": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals &nbsp;&nbsp; Sky Sports",
-   "emoji": "🔥",
-   "bg": "#7a2424",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-norway-jude-bellingham_7295597.jpg?20260712001346"
-  },
-  {
-   "cat": "UEFA.COM",
-   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
-   "iso": "2026-07-12T21:25:48.000Z",
-   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
-   "lede": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results &nbsp;&nbsp; UEFA.com",
-   "emoji": "🌎",
-   "bg": "#1f4b7a",
-   "image": "https://editorial.uefa.com/resources/02a7-2115cfc47644-5b50f05fb766-1000/norway_v_england_quarter_final_-_fifa_world_cup_2026.jpeg"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the semi-finals and route to final",
-   "iso": "2026-07-12T21:14:16.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final",
-   "lede": "World Cup 2026 bracket and knockout fixtures - who's facing who in the semi-finals and route to final &nbsp;&nbsp; Sky Sports",
-   "emoji": "🎯",
-   "bg": "#0c5c2e",
-   "image": "https://e0.365dm.com/26/06/1600x900/skysports-world-cup-2026-bracket_7280764.jpg?20260623105714"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England",
-   "iso": "2026-07-12T20:59:59.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
-   "lede": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England &nbsp;&nbsp; Sky Sports",
-   "emoji": "📣",
-   "bg": "#5b2d6b",
-   "image": "https://e0.365dm.com/25/12/1600x900/skysports-world-cup-trophy_7105535.jpg?20251209123529"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Watch World Cup: England beat Norway to set up semifinal against Argentina",
-   "iso": "2026-07-12T20:56:20.000Z",
-   "link": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights",
-   "lede": "Watch World Cup: England beat Norway to set up semifinal against Argentina &nbsp;&nbsp; Al Jazeera",
    "emoji": "🧤",
    "bg": "#2f5d2a",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260711__B9XL2YT__v1__HighRes__FblWc2026Match99NorEng-1783844964.jpg?resize=1920%2C1440"
+   "image": "https://i.guim.co.uk/img/media/22c50184e3df5265ffcd5e38826eed3bd83fa59e/8_462_4951_3959/master/4951.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ca5f6da0f000556650ec6544ff2165"
   }
  ]
 }
