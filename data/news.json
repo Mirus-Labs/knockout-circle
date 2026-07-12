@@ -1,14 +1,54 @@
 {
- "updated": "2026-07-12T20:19:54.596Z",
+ "updated": "2026-07-12T21:08:26.810Z",
  "news": [
+  {
+   "cat": "AL JAZEERA",
+   "title": "Watch World Cup: England beat Norway to set up semifinal against Argentina",
+   "iso": "2026-07-12T20:56:20.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights",
+   "lede": "Watch World Cup: England beat Norway to set up semifinal against Argentina &nbsp;&nbsp; Al Jazeera",
+   "emoji": "⚽",
+   "bg": "#1d6f42",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260711__B9XL2YT__v1__HighRes__FblWc2026Match99NorEng-1783844964.jpg?resize=1920%2C1440"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse",
+   "iso": "2026-07-12T20:53:37.000Z",
+   "link": "https://www.foxsports.com/stories/soccer/world-cup-college-football-france-ohio-state-spain-georgia-england-texas-argentina-alabama",
+   "lede": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse &nbsp;&nbsp; FOX Sports",
+   "emoji": "🏆",
+   "bg": "#3a2d6b",
+   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-78.jpg?ve=1&tl=1"
+  },
+  {
+   "cat": "BEIN SPORTS",
+   "title": "Official: Paolo Maldini Begins a New Era in Italian Football",
+   "iso": "2026-07-12T20:26:15.000Z",
+   "link": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/official-paolo-maldini-begins-a-new-era-in-italian-football-2026-07-12",
+   "lede": "Official: Paolo Maldini Begins a New Era in Italian Football &nbsp;&nbsp; beIN SPORTS",
+   "emoji": "🏟️",
+   "bg": "#7a5b16",
+   "image": "https://prod-media.beinsports.com/image/1783883863530_89cefdef-b3bc-46f2-b6ae-e9784273f771.1080.png"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
+   "iso": "2026-07-12T20:13:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/12/england-djed-spence-john-stones-defence-world-cup-norway",
+   "lede": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg &nbsp;&nbsp; The Guardian",
+   "emoji": "🔥",
+   "bg": "#7a2424",
+   "image": "https://i.guim.co.uk/img/media/240b4ff365cecc22225cd05208736a8c45099032/254_0_2532_2027/master/2532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4449bf745e6794cbcdeb6565ca5c6dda"
+  },
   {
    "cat": "DAZN",
    "title": "Who makes the best XI from the World Cup's quarter-final stage?",
    "iso": "2026-07-12T20:00:19.000Z",
    "link": "https://www.dazn.com/en-GB/news/football/fifa-world-cup-26-best-xi-quarterfinal-messi-mbappe-bellingham/psgg6vcfkntk1mghq8z1pgo68",
    "lede": "Who makes the best XI from the World Cup's quarter-final stage? &nbsp;&nbsp; DAZN",
-   "emoji": "⚽",
-   "bg": "#1d6f42",
+   "emoji": "🌎",
+   "bg": "#1f4b7a",
    "image": "https://images.daznservices.com/di/library/DAZN_News/38/18/12b2a1plnzujk1a6f7w89w3iuiimagehero16x9_12b2a1plnzujk1a6f7w89w3iui_IMAGE_HERO_16x9_src.png?t=1522394543"
   },
   {
@@ -17,9 +57,19 @@
    "iso": "2026-07-12T19:53:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
    "lede": "England on collision course with Messi and Argentina in World Cup semi-final grudge match &nbsp;&nbsp; The Guardian",
-   "emoji": "🏆",
-   "bg": "#3a2d6b",
+   "emoji": "🎯",
+   "bg": "#0c5c2e",
    "image": "https://i.guim.co.uk/img/media/c817d50a550c927ce38c8f224d950b0dcb4ce876/387_0_3980_3185/master/3980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9024b2163db3f6bf7fe7851af7c9c7e0"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+   "iso": "2026-07-12T19:40:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
+   "lede": "World Cup 2026 power rankings: who leads the pack as semi-finals loom? &nbsp;&nbsp; The Guardian",
+   "emoji": "📣",
+   "bg": "#5b2d6b",
+   "image": "https://i.guim.co.uk/img/media/cad40fd925036bee11f5c793e023d34127ee67d8/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f0c105e59dc70a33902cbbd0fb7b2c"
   },
   {
    "cat": "AL JAZEERA",
@@ -27,59 +77,9 @@
    "iso": "2026-07-12T19:35:39.000Z",
    "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal",
    "lede": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage &nbsp;&nbsp; Al Jazeera",
-   "emoji": "🏟️",
-   "bg": "#7a5b16",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/GettyImages-52952754-1755679888.jpg?resize=1200%2C675"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
-   "iso": "2026-07-12T19:28:26.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13561909/world-cup-2026-argentina-xx-switzerland",
-   "lede": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England &nbsp;&nbsp; Sky Sports",
-   "emoji": "🔥",
-   "bg": "#7a2424",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-julian-alvarez-argentina_7295649.jpg?20260712045203"
-  },
-  {
-   "cat": "BBC",
-   "title": "Gianni Infantino opens door to 64-team World Cup",
-   "iso": "2026-07-12T19:09:37.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o",
-   "lede": "Gianni Infantino opens door to 64-team World Cup &nbsp;&nbsp; BBC",
-   "emoji": "🌎",
-   "bg": "#1f4b7a",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/451c/live/d63516a0-7e21-11f1-a1b8-3d436696a874.jpg"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle",
-   "iso": "2026-07-12T18:58:45.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle",
-   "lede": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle &nbsp;&nbsp; Sky Sports",
-   "emoji": "🎯",
-   "bg": "#0c5c2e",
-   "image": "https://e0.365dm.com/26/06/1600x900/skysports-messi-mbappe-haaland_7280812.png?20260623114420"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup schedule, results: England and Argentina get into semifinals via late heroics",
-   "iso": "2026-07-12T18:51:44.000Z",
-   "link": "https://sports.yahoo.com/soccer/article/2026-fifa-world-cup-daily-schedule-every-match-date-kickoff-time-and-venue-for-all-48-teams-234515087.html",
-   "lede": "World Cup schedule, results: England and Argentina get into semifinals via late heroics &nbsp;&nbsp; Yahoo Sports",
-   "emoji": "📣",
-   "bg": "#5b2d6b",
-   "image": "https://s.yimg.com/ny/api/res/1.2/_lI2fyI8kbcGK3TRH_kspQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cool-england-071126_3223.jpg"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals",
-   "iso": "2026-07-12T18:28:40.000Z",
-   "link": "https://www.skysports.com/football/news/33694/13561325/world-cup-2026-norway-1-2-england-aet-jude-bellingham-the-hero-again-as-three-lions-advance-to-semi-finals",
-   "lede": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals &nbsp;&nbsp; Sky Sports",
    "emoji": "🧤",
    "bg": "#2f5d2a",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-norway-jude-bellingham_7295597.jpg?20260712001346"
+   "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/GettyImages-52952754-1755679888.jpg?resize=1200%2C675"
   }
  ]
 }
