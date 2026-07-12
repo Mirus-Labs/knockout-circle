@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T21:08:26.810Z",
+ "updated": "2026-07-12T21:27:30.482Z",
  "news": [
   {
    "cat": "AL JAZEERA",
@@ -22,14 +22,34 @@
    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-78.jpg?ve=1&tl=1"
   },
   {
-   "cat": "BEIN SPORTS",
-   "title": "Official: Paolo Maldini Begins a New Era in Italian Football",
-   "iso": "2026-07-12T20:26:15.000Z",
-   "link": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/official-paolo-maldini-begins-a-new-era-in-italian-football-2026-07-12",
-   "lede": "Official: Paolo Maldini Begins a New Era in Italian Football &nbsp;&nbsp; beIN SPORTS",
+   "cat": "ESPN",
+   "title": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup",
+   "iso": "2026-07-12T20:45:00.000Z",
+   "link": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
+   "lede": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup &nbsp;&nbsp; ESPN",
    "emoji": "🏟️",
    "bg": "#7a5b16",
-   "image": "https://prod-media.beinsports.com/image/1783883863530_89cefdef-b3bc-46f2-b6ae-e9784273f771.1080.png"
+   "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688428_1296x729_16%2D9.jpg"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+   "iso": "2026-07-12T20:38:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
+   "lede": "England on collision course with Messi and Argentina in World Cup semi-final grudge match &nbsp;&nbsp; The Guardian",
+   "emoji": "🔥",
+   "bg": "#7a2424",
+   "image": "https://i.guim.co.uk/img/media/c817d50a550c927ce38c8f224d950b0dcb4ce876/387_0_3980_3185/master/3980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9024b2163db3f6bf7fe7851af7c9c7e0"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
+   "iso": "2026-07-12T20:13:53.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team",
+   "lede": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team &nbsp;&nbsp; Al Jazeera",
+   "emoji": "🌎",
+   "bg": "#1f4b7a",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2018-06-01T110337Z_166464584_RC11AC9DAE40_RTRMADP_3_SPAIN-POLITICS-1783885222.jpg?resize=1920%2C1440"
   },
   {
    "cat": "THE GUARDIAN",
@@ -37,29 +57,19 @@
    "iso": "2026-07-12T20:13:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/12/england-djed-spence-john-stones-defence-world-cup-norway",
    "lede": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg &nbsp;&nbsp; The Guardian",
-   "emoji": "🔥",
-   "bg": "#7a2424",
+   "emoji": "🎯",
+   "bg": "#0c5c2e",
    "image": "https://i.guim.co.uk/img/media/240b4ff365cecc22225cd05208736a8c45099032/254_0_2532_2027/master/2532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4449bf745e6794cbcdeb6565ca5c6dda"
   },
   {
-   "cat": "DAZN",
-   "title": "Who makes the best XI from the World Cup's quarter-final stage?",
-   "iso": "2026-07-12T20:00:19.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/fifa-world-cup-26-best-xi-quarterfinal-messi-mbappe-bellingham/psgg6vcfkntk1mghq8z1pgo68",
-   "lede": "Who makes the best XI from the World Cup's quarter-final stage? &nbsp;&nbsp; DAZN",
-   "emoji": "🌎",
-   "bg": "#1f4b7a",
-   "image": "https://images.daznservices.com/di/library/DAZN_News/38/18/12b2a1plnzujk1a6f7w89w3iuiimagehero16x9_12b2a1plnzujk1a6f7w89w3iui_IMAGE_HERO_16x9_src.png?t=1522394543"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
-   "iso": "2026-07-12T19:53:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
-   "lede": "England on collision course with Messi and Argentina in World Cup semi-final grudge match &nbsp;&nbsp; The Guardian",
-   "emoji": "🎯",
-   "bg": "#0c5c2e",
-   "image": "https://i.guim.co.uk/img/media/c817d50a550c927ce38c8f224d950b0dcb4ce876/387_0_3980_3185/master/3980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9024b2163db3f6bf7fe7851af7c9c7e0"
+   "cat": "ESPN",
+   "title": "World Cup 2026: Which teams have been eliminated?",
+   "iso": "2026-07-12T19:56:42.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
+   "lede": "World Cup 2026: Which teams have been eliminated? &nbsp;&nbsp; ESPN",
+   "emoji": "📣",
+   "bg": "#5b2d6b",
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685550_1296x729_16%2D9.jpg"
   },
   {
    "cat": "THE GUARDIAN",
@@ -67,19 +77,9 @@
    "iso": "2026-07-12T19:40:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
    "lede": "World Cup 2026 power rankings: who leads the pack as semi-finals loom? &nbsp;&nbsp; The Guardian",
-   "emoji": "📣",
-   "bg": "#5b2d6b",
-   "image": "https://i.guim.co.uk/img/media/cad40fd925036bee11f5c793e023d34127ee67d8/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f0c105e59dc70a33902cbbd0fb7b2c"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage",
-   "iso": "2026-07-12T19:35:39.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal",
-   "lede": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage &nbsp;&nbsp; Al Jazeera",
    "emoji": "🧤",
    "bg": "#2f5d2a",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/GettyImages-52952754-1755679888.jpg?resize=1200%2C675"
+   "image": "https://i.guim.co.uk/img/media/cad40fd925036bee11f5c793e023d34127ee67d8/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f0c105e59dc70a33902cbbd0fb7b2c"
   }
  ]
 }
