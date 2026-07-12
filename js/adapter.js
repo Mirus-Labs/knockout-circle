@@ -252,10 +252,9 @@
     try { await applyOverlays(); }
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
     const detailPage = document.body.dataset.page === 'match';
-    if (detailPage) {
-      try { window.KC_MATCH_FACTS = await import('./match-facts.mjs?v=2'); }
-      catch (err) { console.warn('KC match facts unavailable.', err); }
-    }
+    // kickoff-time conversion lives in match-facts; every page renders kick-offs, so load it everywhere
+    try { window.KC_MATCH_FACTS = await import('./match-facts.mjs?v=2'); }
+    catch (err) { console.warn('KC match facts unavailable.', err); }
     await loadScript('js/tournament.js?v=5');
     if (window.KC_DATA.REAL) {
       await loadScript('js/live.js?v=4');
@@ -265,8 +264,8 @@
       ]);
     }
     const scripts = detailPage
-      ? ['js/match-page.js?v=16']
-      : ['js/app.js?v=11', 'js/fx.js?v=8', 'js/zoom.js?v=5'];
+      ? ['js/match-page.js?v=17']
+      : ['js/app.js?v=12', 'js/fx.js?v=8', 'js/zoom.js?v=6'];
     for (const src of scripts) await loadScript(src);
   })();
 })();

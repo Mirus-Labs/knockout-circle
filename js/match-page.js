@@ -372,20 +372,32 @@
     const pad = value => String(value).padStart(2, '0');
     const now = new Date();
     const today = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
-    const liveN = Object.keys(D.LIVE || {}).length;
-    const todayN = (D.UPNEXT || []).filter(item => ((D.META || {})[`${item.key}-${item.idx}`] || {}).date === today).length;
-    const next = (D.UPNEXT || [])[0];
-    const nextDate = next && ((D.META || {})[`${next.key}-${next.idx}`] || {}).date;
-    const fmtDate = iso => {
-      if (!iso) return '';
-      const [, month, day] = iso.split('-');
-      return `${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][+month - 1]} ${+day}`.toUpperCase();
+    // kick-off meta holds venue-local time; convert to the viewer's zone before comparing/labelling
+    const kickoffMs = M => {
+      const iso = M && (M.kickoffUtc || (MF && MF.kickoffIso ? MF.kickoffIso(M) : null));
+      const ms = iso ? Date.parse(iso) : NaN;
+      return Number.isNaN(ms) ? null : ms;
     };
+    const localDayOf = M => {
+      const ms = kickoffMs(M);
+      if (ms == null) return (M && M.date) || '';
+      const d = new Date(ms);
+      return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+    };
+    const fmtDate = M => {
+      const ms = kickoffMs(M);
+      if (ms == null) return '';
+      return new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric' }).format(new Date(ms)).toUpperCase();
+    };
+    const liveN = Object.keys(D.LIVE || {}).length;
+    const todayN = (D.UPNEXT || []).filter(item => localDayOf((D.META || {})[`${item.key}-${item.idx}`] || {}) === today).length;
+    const next = (D.UPNEXT || [])[0];
+    const nextMeta = next && ((D.META || {})[`${next.key}-${next.idx}`] || {});
     pill.innerHTML = liveN
       ? `<span class="dot-live"></span><span class="lbl">${liveN} LIVE</span>`
       : todayN
         ? `<span class="lbl">${todayN} TODAY</span>`
-        : `<span class="lbl">${next ? `NEXT ${fmtDate(nextDate)}` : 'TOURNAMENT OVER'}</span>`;
+        : `<span class="lbl">${next ? `NEXT ${fmtDate(nextMeta)}` : 'TOURNAMENT OVER'}</span>`;
   };
   updateNavPill();
 

@@ -744,7 +744,7 @@ html[data-theme="light"] .mtab.active { color: #fff8e6; }
 .mtie-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .35s var(--ease-out); }
 .mtie.open .mtie-body { grid-template-rows: 1fr; }
 .mtie-body > div { overflow: hidden; }
-.mtie-body .inner { padding-top: 14px; }
+.mtie-body .inner { padding: 14px 0 12px; }
 .mbar { margin-bottom: 11px; }
 .mbar-nums {
   display: flex; justify-content: space-between; align-items: baseline;
@@ -755,7 +755,7 @@ html[data-theme="light"] .mtab.active { color: #fff8e6; }
 .mbar-fill { background: linear-gradient(90deg, var(--accent), var(--accent-2)); }
 .mbar-rest { flex: 1; background: var(--track-rest); }
 .mtie-more {
-  margin-top: 4px; cursor: pointer;
+  margin-top: 16px; cursor: pointer;
   font: 700 11px var(--font-display); letter-spacing: .14em; text-transform: uppercase;
   background: none; border: 1px solid var(--btn-line); border-radius: 99px;
   color: var(--t-body); padding: 9px 16px;
@@ -1111,6 +1111,8 @@ footer {
   .tip { display: none !important; }
   .legend { display: none; }
   .hero-live { flex-direction: column; }
+  #hero { padding-bottom: 96px; }
+  .ticker { padding: 13px 0; }
   .mm-digits { font-size: 34px; }
   .mm-team .flag { font-size: 34px; }
   .mm-wrap { padding: 24px 18px 20px; }

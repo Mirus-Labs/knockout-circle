@@ -6,6 +6,7 @@
 
   /* real-data mode: scores/bracket come from the daily feed (see adapter.js) */
   const REAL = !!D.REAL;
+  const MF = window.KC_MATCH_FACTS;
   const RESULT = (key, idx) => (D.RESULTS || {})[key + '-' + idx];
   const KICKOFF = (key, idx) => (D.META || {})[key + '-' + idx] || {};
   const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -13,6 +14,35 @@
     if (!iso) return '';
     const [, m, d] = iso.split('-');
     return MONTHS[+m - 1] + ' ' + (+d);
+  };
+  // kick-off meta stores venue-local time (e.g. "15:00 UTC-4"); the UI below shows it in the VIEWER's zone.
+  const kickoffMs = (M) => {
+    if (!M) return null;
+    const iso = M.kickoffUtc || (MF && MF.kickoffIso ? MF.kickoffIso(M) : null);
+    const ms = iso ? Date.parse(iso) : NaN;
+    return Number.isNaN(ms) ? null : ms;
+  };
+  // viewer-local calendar day of kick-off (YYYY-MM-DD), for TODAY/TOMORROW comparisons
+  const localDayOf = (M) => {
+    const ms = kickoffMs(M);
+    if (ms == null) return (M && M.date) || '';
+    const d = new Date(ms);
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  };
+  // "Jul 14" in the viewer's zone (falls back to the raw venue date if conversion is unavailable)
+  const localDateLabel = (M) => {
+    const ms = kickoffMs(M);
+    if (ms == null) return fmtDate(M && M.date);
+    try { return new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric' }).format(new Date(ms)); }
+    catch { return fmtDate(M && M.date); }
+  };
+  // "3:00 PM EDT" in the viewer's zone; '' when the schedule has no wall-clock time
+  const localTimeLabel = (M) => {
+    if (!M || !M.time) return '';
+    const ms = kickoffMs(M);
+    if (ms == null) return M.time;
+    try { return new Intl.DateTimeFormat('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZoneName: 'short' }).format(new Date(ms)); }
+    catch { return M.time; }
   };
   const goalLine = (list) => list.map(g =>
     `${g.name} ${g.minute}′${g.penalty ? ' (p)' : ''}${g.owngoal ? ' (og)' : ''}`).join(' · ');
@@ -25,11 +55,12 @@
   const localToday = () => localDay(0);
   // TODAY / TOMORROW / "JUL 14" for an upcoming tie; SOON when the schedule has no date (authored mode)
   const whenLabel = (key, idx) => {
-    const date = KICKOFF(key, idx).date;
-    if (!date) return 'SOON';
-    if (date === localDay(0)) return 'TODAY';
-    if (date === localDay(1)) return 'TOMORROW';
-    return fmtDate(date).toUpperCase();
+    const M = KICKOFF(key, idx);
+    if (!M.date) return 'SOON';
+    const day = localDayOf(M);
+    if (day === localDay(0)) return 'TODAY';
+    if (day === localDay(1)) return 'TOMORROW';
+    return localDateLabel(M).toUpperCase();
   };
   // news items from data/news.json carry an ISO timestamp; authored ones a "19m" string
   const newsTime = (n) => {
@@ -212,9 +243,10 @@
         mid = `<div style="font-size:11px;line-height:1.55;opacity:.85;margin:6px 0 2px">
             ${rows.length ? rows.map(r => `⚽ ${r}`).join('<br>') : (R.pens ? 'Goalless — decided on penalties' : 'No goals')}
           </div>
-          <div style="font-size:10px;opacity:.55">${fmtDate(M.date)}${M.ground ? ' · ' + M.ground : ''}</div>`;
+          <div style="font-size:10px;opacity:.55">${localDateLabel(M)}${M.ground ? ' · ' + M.ground : ''}</div>`;
       } else {
-        mid = `<div style="font-size:11px;opacity:.85;margin:8px 0 2px">Kick-off ${fmtDate(M.date)}${M.time ? ' · ' + M.time : ''}</div>
+        const t = localTimeLabel(M);
+        mid = `<div style="font-size:11px;opacity:.85;margin:8px 0 2px">Kick-off ${localDateLabel(M)}${t ? ' · ' + t : ''}</div>
           <div style="font-size:10px;opacity:.55">${M.ground || ''}</div>`;
       }
     } else {
@@ -293,7 +325,8 @@
 
   function realDetail(key, idx) {
     const R = RESULT(key, idx), M = KICKOFF(key, idx);
-    const when = `${fmtDate(M.date)}${M.time ? ' · ' + M.time : ''}${M.ground ? ' · ' + M.ground : ''}`;
+    const t = localTimeLabel(M);
+    const when = `${localDateLabel(M)}${t ? ' · ' + t : ''}${M.ground ? ' · ' + M.ground : ''}`;
     if (!R) {
       return `<div class="mm-sec">KICK-OFF</div>
         <div style="font-size:14px;margin:4px 0 2px">${when}</div>`;
@@ -511,12 +544,12 @@
   function upNextCard(key, idx) {
     const a = KC.resolveSlot(key, idx, 0), b = KC.resolveSlot(key, idx, 1);
     const M = KICKOFF(key, idx);
-    const isToday = M.date === localToday();
+    const isToday = localDayOf(M) === localToday();
     const rd = ROUNDS[KC.roundIdx(key)].name.toUpperCase();
     const fl = (c) => c ? TEAMS[c].f : '❔';
     const nm = (c) => c ? TEAMS[c].n : 'To be decided';
     const card = el('button', 'live-card', `
-      <div class="lc-top">${isToday ? 'TODAY' : 'UP NEXT'} · ${rd}<span class="lc-min">${fmtDate(M.date)}</span></div>
+      <div class="lc-top">${isToday ? 'TODAY' : 'UP NEXT'} · ${rd}<span class="lc-min">${localDateLabel(M)}</span></div>
       <div class="lc-row">
         <span class="flags">${fl(a)}</span>
         <span class="lc-score">VS</span>
@@ -786,7 +819,8 @@
           + mBar('Expected goals', S.xgA, S.xgB, false);
       }
       const R = RESULT(key, idx), M = KICKOFF(key, idx);
-      const when = `<div style="font-size:11px;opacity:.6;margin-bottom:6px">${fmtDate(M.date)}${M.time ? ' · ' + M.time : ''}${M.ground ? ' · ' + M.ground : ''}</div>`;
+      const t = localTimeLabel(M);
+      const when = `<div style="font-size:11px;opacity:.6;margin-bottom:6px">${localDateLabel(M)}${t ? ' · ' + t : ''}${M.ground ? ' · ' + M.ground : ''}</div>`;
       if (!R) return when;
       const rows = [goalLine(R.goalsA), goalLine(R.goalsB)].filter(Boolean);
       return `<div style="font-size:12px;line-height:1.7;margin-bottom:6px">
@@ -797,7 +831,7 @@
     const body = (a && b) ? `
       <div class="mtie-body"><div><div class="inner">
         ${inner}
-        <a class="mtie-more" href="match.html?round=${encodeURIComponent(key)}&match=${idx}">Full match story · images &amp; video</a>
+        <a class="mtie-more" href="match.html?round=${encodeURIComponent(key)}&match=${idx}">Full match details</a>
       </div></div></div>` : '';
 
     const card = el('article', 'mtie' + (st === 'live' ? ' is-live' : ''), `
@@ -900,13 +934,13 @@
     if (!pill) return;
     const liveN = Object.keys(KC.LIVE).length;
     const today = localToday();
-    const todayN = (D.UPNEXT || []).filter(u => KICKOFF(u.key, u.idx).date === today).length;
+    const todayN = (D.UPNEXT || []).filter(u => localDayOf(KICKOFF(u.key, u.idx)) === today).length;
     const next = (D.UPNEXT || [])[0];
     pill.innerHTML = liveN
       ? `<span class="dot-live"></span><span class="lbl">${liveN} LIVE</span>`
       : todayN
         ? `<span class="lbl">${todayN} TODAY</span>`
-        : `<span class="lbl">${next ? 'NEXT ' + fmtDate(KICKOFF(next.key, next.idx).date).toUpperCase() : 'TOURNAMENT OVER'}</span>`;
+        : `<span class="lbl">${next ? 'NEXT ' + localDateLabel(KICKOFF(next.key, next.idx)).toUpperCase() : 'TOURNAMENT OVER'}</span>`;
   }
 
   /* ================= LIVE REFRESH ================= */
@@ -954,7 +988,7 @@
 
   /* ================= SHARED UI SURFACE (consumed by js/zoom.js) ================= */
   window.KC_UI = {
-    openMatch, openTeam, hideTip, chipEls, badgeEls, fmtDate,
+    openMatch, openTeam, hideTip, chipEls, badgeEls, fmtDate, localDateLabel, localTimeLabel,
     matchFaceHTML, realDetail, fakeStats, outcomesHTML, goalTimelineHTML, teamFactsHTML,
     isReal: REAL,
   };
