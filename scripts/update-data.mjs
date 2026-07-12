@@ -22,7 +22,7 @@ import { fileURLToPath } from 'node:url';
 import { discoverReportLinks, extractPdfText, parseReportText } from './match-report.mjs';
 import { FIFA_LIVE_API, WORLD_CUP_2026, liveLineupWindow, parseLiveLineups } from './live-lineups.mjs';
 import { matchesPlayerVideo } from './player-media.mjs';
-import { enrichNewsArticles } from './news-images.mjs';
+import { enrichNewsArticles, summarySentenceCount } from './news-images.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data');
@@ -91,27 +91,33 @@ async function updateNews() {
   // pirate-stream spam that games Google News: "LIVE@STREAMs FREE", fullwidth-unicode titles, etc.
   const JUNK = /live\s*[-@ .]*stream|live.{0,16}\bfree\b|\bfree.{0,16}live|stream.{0,12}free|free.{0,12}stream|watch\s+online|\[\[|\]\]|[！-～]|@s\b/i;
 
-  // newest first, drop spam and dupes by title, keep 8, decorate for the card layout
+  // Newest first, drop spam and dupes by title. Enrich a wider pool so the
+  // final eight can favor articles that expose a useful 3–4 sentence excerpt.
   const seen = new Set();
-  const news = items
+  const candidates = items
     .sort((a, b) => (a.iso < b.iso ? 1 : -1))
     .filter((n) => n.title && !JUNK.test(n.title) && !JUNK.test(n.source) && !seen.has(n.title) && seen.add(n.title))
-    .slice(0, 8)
-    .map((n, i) => ({
+    .slice(0, 16)
+    .map((n) => ({
       cat: n.source.toUpperCase(),
       title: n.title,
       iso: n.iso,
       link: n.link,
       lede: n.lede && n.lede !== n.title ? n.lede : '',
       sourceUrl: n.sourceUrl,
-      emoji: NEWS_EMOJI[i % NEWS_EMOJI.length],
-      bg: NEWS_BG[i % NEWS_BG.length],
     }));
 
-  if (!news.length) throw new Error('news RSS parsed to zero items');
-  const enriched = await enrichNewsArticles(news);
+  if (!candidates.length) throw new Error('news RSS parsed to zero items');
+  const enrichedCandidates = await enrichNewsArticles(candidates);
+  const detailed = enrichedCandidates.filter((item) => summarySentenceCount(item.lede) >= 3);
+  const short = enrichedCandidates.filter((item) => summarySentenceCount(item.lede) < 3);
+  const enriched = [...detailed, ...short].slice(0, 8).map((item, i) => ({
+    ...item,
+    emoji: NEWS_EMOJI[i % NEWS_EMOJI.length],
+    bg: NEWS_BG[i % NEWS_BG.length],
+  }));
   await writeFile(join(OUT, 'news.json'), JSON.stringify({ updated: new Date().toISOString(), news: enriched }, null, 1));
-  log(`news.json written (${enriched.length} headlines, ${enriched.filter((item) => item.image).length} images, latest: "${enriched[0].title}")`);
+  log(`news.json written (${enriched.length} headlines, ${enriched.filter((item) => item.image).length} images, ${enriched.filter((item) => summarySentenceCount(item.lede) >= 3).length} detailed excerpts, latest: "${enriched[0].title}")`);
 }
 
 /* ---------------- stats: ESPN season leaders (true leaderboards) ---------------- */

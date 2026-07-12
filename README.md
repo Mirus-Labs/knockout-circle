@@ -52,7 +52,7 @@ Everything is real WC2026 data. Different surfaces pull from different providers
 | Live scores (in-match) | `/api/live` (worker) | [ESPN scoreboard API](https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard) |
 | Tournament leaders / stat tabs | `data/stats.json` | ESPN core API (`sports.core.api.espn.com` leaders) |
 | Player & team display names | `data/espn-names.json` | ESPN (name cache for the leaders feed) |
-| News | `data/news.json` | Google News RSS, publisher Open Graph images |
+| News | `data/news.json` | Google News RSS, publisher images and 3–4 sentence excerpts |
 | Per-player stats & radar | `data/player-stats.json` | FIFA Enhanced Football Intelligence metrics via the public [fifaphy](https://fifaphy.vercel.app) dataset — radar axes are **derived** per-90 position-cohort percentiles, not an official FIFA rating |
 | Official post-match reports | `data/match-reports.json` | [FIFA Training Centre](https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php) match-report PDFs |
 | Line-ups before & during a match | `data/match-reports.json` | FIFA live match API (`api.fifa.com/api/v3/live/football/…`) — announced XIs land ~1h before kick-off (`--lineups-only` polls just these); the Training Centre PDF replaces the entry as the source of record once published |
