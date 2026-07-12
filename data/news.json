@@ -1,14 +1,59 @@
 {
- "updated": "2026-07-12T18:41:15.513Z",
+ "updated": "2026-07-12T19:56:03.386Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+   "iso": "2026-07-12T19:51:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHhFRUIzRUNMWHpkN25UN1FVR3AwVVhSLWxHdHZKNExHUjluWWU3R1RaR0NQbkc4Q2ZaV29ZQk5RQzhYX241aHBVX3duTmVJMU1DcmhSRlRVQ2owclR4MTZfSzhmZkxMZG9MeXJMX05ZLWo3V01aQi1QOUxBNjBDVXNtYkZ5cnpfdTZmOS1Mb0RTbF93aldHNXJOSUtsTDZTUjBqVHFMakFpSFZrZGVValZR?oc=5",
+   "lede": "England on collision course with Messi and Argentina in World Cup semi-final grudge match &nbsp;&nbsp; The Guardian",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage",
+   "iso": "2026-07-12T19:35:39.000Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGo3TkRzUFktRm9HTjVHZU0ySUNNQW1RekxFNE85aTNYX2wtMWRvb0pyMFNNQTQ4MVRjbWZzWWx3S2lkZnhUdFVBY21fQXQ1VXFjOFk3VWx1dFRhZ0V3YkJMZkdxTjhQcUY2eWFRWGZHV29USHA3WENKZTlWMEc5YmtmZkpQNjdIc3dvWlVsNWo5TGg2TGNrSGFVekdOMzdHcDdxQ0ZyV3J4UU1iY28ycHY0ZDhuMjFnVUttWDFxSQ?oc=5",
+   "lede": "World Cup England vs Argentina: Historic rivalry renewed on biggest stage &nbsp;&nbsp; Al Jazeera",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "Gianni Infantino opens door to 64-team World Cup",
+   "iso": "2026-07-12T19:09:37.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9STk9kX0VlVzVSV3B2TzAtekJ0OS1PWTNibWpTY3pzdjNDb183YXVqY2RYQkJoWVJmc09Rbi10NTVzRkdoR0Z0YzJZaXd6ZHd2anVVSVZyRlVmZTlyTHIyeUtJMlBjWHpkUkE?oc=5",
+   "lede": "Gianni Infantino opens door to 64-team World Cup &nbsp;&nbsp; BBC",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "World Cup schedule, results: England and Argentina get into semifinals via late heroics",
+   "iso": "2026-07-12T18:51:44.000Z",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU0RVckFGazBlUUNaYjJGNTM1RFltb29MdHl5SGRLbTB3SF9TY0VSVGpCeHpQRm1OZWlYazhqN2pIenVqN1hjNjVCbHhoRlVtTzM3R3R5XzB3Q3NPVlY3eWNHSEdlLVFXSElVdHFqRzlPcS1qRE5aUm5jNUNONUtMb0tobXlJY2lPU2ZoYnptWEtSbjI4Mmc0eGF6dG9oZHdsR1ZtNHJkajRISGYtSHFQcTVXYVFKeVdicWVpRFlVbnZuVTloazBiSWlfTWZhVGlRSjljM3JDNjhLakFuZk5z?oc=5",
+   "lede": "World Cup schedule, results: England and Argentina get into semifinals via late heroics &nbsp;&nbsp; Yahoo Sports",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals",
    "iso": "2026-07-12T18:28:40.000Z",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObmFYNEt5WlRfc3JsbUN3dmFqa1dXVWJkZEZBSHZLNGtRMnRjZXQxTXgwYUpSbXZVajdtYVptbVhuS0hISUlHOEJyMXc3dUhQX3dnMlAyU2tOV0FNWDNZR016dm41djlxSkxvWnRJMHUxRHV3cnNNeWVyMXEyX0RpR2UxRnVQbjJ3S2tFSWdDRmlmLXNFR2hFT2VNRW85aDB6bmc3Q1VBcFZoSUxOR1htS3lSblNSWFBheTlEeFNFczNHRWU2OG95LWw3SDdjSzUzcG9yMm9oT3dobXBNS196NjhVOVE5cmRxcWVRanJrMUg5djQ?oc=5",
    "lede": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals &nbsp;&nbsp; Sky Sports",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Scaloni plays down Argentina and England history: ‘A football game and that is all’",
+   "iso": "2026-07-12T18:23:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkE4aWpJTGFIMmo1QXdwcTIxUmFWd1J1cXJ2QkhLTjlHRTlTbTAtakI2YVZ0UG1XRWw0VWJDTGtCTWtTRl9DM1VnR0JQbVFGRkVFUFR6ekZpWFV4aWFxS05ZMnRzWHptZnRwVEFxWUJhZ2NKSE1EQ1lMQjhZdU1uTGUta2o2X08zc2dBVmZHRmFDMzhuanNNdWZVNE1hM2g2RVI2Z09ONA?oc=5",
+   "lede": "Scaloni plays down Argentina and England history: ‘A football game and that is all’ &nbsp;&nbsp; The Guardian",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -16,60 +61,15 @@
    "iso": "2026-07-12T18:23:00.000Z",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXJXT3V3UkxodUxrWXZ0MDctZXVPRzVfdTVGMTk3c2JGNjdFS3RUYklTQ1E0Y3pzVUQtUWx6QlFVaU9OcGQzVXBfaENNdHNyd25VYW1LekR4a3Q3d0sydGZ2bUE2bGJiMXA0aFA3b2FhQnd0dkVWVi1kU210WmlxQnlGYjZxOUZJWVNYcUxtOFR2Q1lPdVRUdHItVlRXX2Jx?oc=5",
    "lede": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer &nbsp;&nbsp; The Guardian",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Watch World Cup: England beat Norway to set up semifinal against Argentina",
-   "iso": "2026-07-12T18:19:25.000Z",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aY1lwQ1YtbUhBYWZtLWhjc3AtU0ZFMXZ4QlpsZ2h6RHNFMG13eGRVZnNqaC1TV2xpZExvSjBobGRrOXRXakhxamZMS2NZRktadWN4UGZVcHpMS0hVV3lSbU1yenlyRDBlVHduM0M1SHBlWTlGUmNnNC0tLWowd9IBgwFBVV95cUxPUUhxU3c2VThHblJ3STZWcDBlUmNIQlE0aUxUVjNKYVNCdlo1Y3RhekVLU1JsU1JYdlpyZHhnXzNKX2xITGFoazN6VmY5dWptY0cxYktFSXBDUHFWUTJ2RVpFR09TT1pUb29OMkhYN2V0SE9oejgyT29zTEhCSlN3VjJGVQ?oc=5",
-   "lede": "Watch World Cup: England beat Norway to set up semifinal against Argentina &nbsp;&nbsp; Al Jazeera",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BLEACHER REPORT",
-   "title": "FIFA World Cup 2030 Bracket Expansion Addressed by Gianni Infantino amid Success of 2026 Tournament",
-   "iso": "2026-07-12T18:00:58.000Z",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVR0cnZzWkt1VWw3MmVlNldPQXRuejFVbm9UcEttemxZOEdWMGRBcm9tbHl6MUR6NnYwYkVYWG50bTJDRHNwYmJRaHlvRy1mcHRZMEwzNDNXS01WNUVoVlpjZlJQeGpwdUhpOU0tMlhDNlY4VGN5U1BDT19UWExuLVRoZEZ6eUp1bjNvZ0owNkh0Zl9BTjVNYUNHa3JzNnZ1ZTZ4dHRaYzNlWEJ3dHVDblVOb0pkV1JHRTBzR1REM0FTN3BITk9SOTZiOXliOXg2YnZnVA?oc=5",
-   "lede": "FIFA World Cup 2030 Bracket Expansion Addressed by Gianni Infantino amid Success of 2026 Tournament &nbsp;&nbsp; Bleacher Report",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "England have ‘another level’ to reach at World Cup, Harry Kane says",
-   "iso": "2026-07-12T18:00:56.000Z",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3MtOE5CSEZaMWxJdE9yZEhWTTNKSk83RGkzbWVOUDdZN3BuQ1RuLVd4ejNLRU84WmpWcWpxc1c2YUJKVGlFQkZoRlVETGFKZ3ZHV0pYeWNvdnNuQ0RxVjZOSVhvRzRkVXl5RUczZEtfaHo0VkhRVjVuVE8tOVJXakFJdE55ZnN0Mnd0WTNta2hMdmVtR2dn?oc=5",
-   "lede": "England have ‘another level’ to reach at World Cup, Harry Kane says &nbsp;&nbsp; The New York Times",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
-   "iso": "2026-07-12T17:49:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNXeERVOWlKMnk4WEJ0clpNUF9KRURuOXZ6ZDhvdm5iUlF3TVhPdy1tVXdqMFZqd2R2MUhxX0J5QnhzVVFRcWJZc21QMldHRXZUeTltTkNPd1ZpZHN6WWJzbVVqYkZEYVNyVnpleHk2cGFXZ3N2bUNRb1VkMEYwLWtjdTNCbUhPd0ViUDMxVUUxLUdJUV9rRldmMTFyYUFaVjhVWmxmamM?oc=5",
-   "lede": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg &nbsp;&nbsp; The Guardian",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Former Spanish PM accused of racism in remarks about French football team",
-   "iso": "2026-07-12T17:40:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNampTTU4yeXN2UEZvdE04QV9maDFNT1JiX2xFM0RJMjF3VklyZVNZcmJyeDlUcElFQWN4X0hITS0zZzYwTzNNVnlRbzVYNWJQWlEzUEg2MHhQZWhhaktSN0huVWJDbjEzUVRJRmk0cUQ5VkV0R3oxMUNVazZlYTNwWUxkOUdRb3JqLUNUS3V3Y1dPNDBBYUZXN3RRUmFBWFNzYWRrNzZvSXhlWHBxSWpkZmNuNVY?oc=5",
-   "lede": "Former Spanish PM accused of racism in remarks about French football team &nbsp;&nbsp; The Guardian",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ESPN",
-   "title": "World Cup 2026 today as it happened: news and updates after England, Argentina edge into semifinal via extra time - July 12",
-   "iso": "2026-07-12T17:36:07.000Z",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWFFQzVQU2lvb0htSUFBdm5uNHZyWG9KT1BFSzdTSXZJSXJXY3FybEJ2NjQwaEI4U2VIMUQ0UHNMS2RNZEJ5bENmVEJhWkphajk1MjByTkJ1cmNfOUR2cUNkV0Y4dmFKMVlPWndIRlNCQnNPZ2lObEtodzZFNkdURHpzSTduUzJpYXM5Rjh0X1M4V1RyTXZheFpLTTZIcFpZc0w3Q05idG80LS1Fc3pMenRlbTYyRnVMN2FSaDBSMl90aUJzbF9UbXBiX0FQZlBFTDVRekpSS3V3WGU2NC1QWFg4R0EwNkQtZ2lEZk4zZWo?oc=5",
-   "lede": "World Cup 2026 today as it happened: news and updates after England, Argentina edge into semifinal via extra time - July 12 &nbsp;&nbsp; ESPN",
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-12T18:22:07.000Z",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUpNVURDQk9zTXVhLVlJUmlJU1FiNmh1TmZlZkxwb2RPMXdmSDZCSlVBRWtGWVItdlN4Vm9fSUFPX2JUY1pFQVJZZDVoMERDWkxBZ3hZcW9KMGlNM0RWLXlNbUR6WjMwaWxqbFRPYnBhVVhocHdIOFUtUGc2QTVYUzllNDFuNlRkbmp1TXdlLWRDNUx3WjZlSHM2VTlOdDd1aWhpbFdCZzQ3bjVySVBIM19qN2UxaHIxSFIyVjd3c3RBRVMyWldYNE5pMUd6ZzgyOFk3ZTNUSQ?oc=5",
+   "lede": "France at the World Cup 2026: Squad, fixtures, group and history &nbsp;&nbsp; UEFA.com",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
