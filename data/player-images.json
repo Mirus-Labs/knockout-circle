@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T00:13:29.320Z",
+ "updated": "2026-07-12T03:31:35.734Z",
  "refreshed": "2026-07-11T05:13:55.707Z",
  "source": "Wikipedia / Wikimedia Commons",
  "players": {
@@ -7,7 +7,15 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=64180169",
    "attribution": "Wikipedia / Wikimedia Commons",
-   "fifaUrl": "https://www.fifa.com/en/articles/jamal-musiala-improvement-germany-bayern-munich"
+   "fifaUrl": "https://www.fifa.com/en/articles/jamal-musiala-improvement-germany-bayern-munich",
+   "playerId": "jamal-musiala",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:26.168Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "Miguel Almirón": {
    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Miguel%20Almir%C3%B3n%201.jpg?width=1400",
@@ -16,7 +24,16 @@
    "fifaUrl": "https://www.fifa.com/en/articles/miguel-almiron-paraguay-interview",
    "videoTitle": "Team Feature: Paraguay | Miguel Almirón on Paraguay's World Cup Unity",
    "youtubeId": "R9x7zofYcLM",
-   "youtubeUrl": "https://www.youtube.com/watch?v=R9x7zofYcLM"
+   "youtubeUrl": "https://www.youtube.com/watch?v=R9x7zofYcLM",
+   "playerId": "miguel-almiron",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:34.971Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Vinícius Jr.": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/1920px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
@@ -24,7 +41,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "Vinicius Jr Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™",
    "youtubeId": "zKPmHQwyOtU",
-   "youtubeUrl": "https://www.youtube.com/watch?v=zKPmHQwyOtU"
+   "youtubeUrl": "https://www.youtube.com/watch?v=zKPmHQwyOtU",
+   "playerId": "vinicius-jr-",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:25.288Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Lamine Yamal": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lamine_Yamal_a_Xina_%282025%29.png",
@@ -32,7 +58,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "Lamine Yamal inches away from scoring against Belgium! 🤯#FIFAWorldCupOnYT",
    "youtubeId": "ADwK3kDx_Fs",
-   "youtubeUrl": "https://www.youtube.com/watch?v=ADwK3kDx_Fs"
+   "youtubeUrl": "https://www.youtube.com/watch?v=ADwK3kDx_Fs",
+   "playerId": "lamine-yamal",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:25.956Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Federico Valverde": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Federico_Valverde_2021_%28cropped%29.jpg",
@@ -40,7 +75,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "Federico Valverde almost wins it for Uruguay as late shot hits the post #ShortsFIFAWorldCup",
    "youtubeId": "_v-UcIpCPRg",
-   "youtubeUrl": "https://www.youtube.com/watch?v=_v-UcIpCPRg"
+   "youtubeUrl": "https://www.youtube.com/watch?v=_v-UcIpCPRg",
+   "playerId": "federico-valverde",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:27.472Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Luka Modrić": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ofrenda_de_la_Liga_y_la_Champions-57-L.Mill%C3%A1n_%2852109310843%29_%28Luka_Modri%C4%87%29.jpg",
@@ -48,7 +92,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "Amazing Luka Modric goal!",
    "youtubeId": "JKuuyylTZDI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=JKuuyylTZDI"
+   "youtubeUrl": "https://www.youtube.com/watch?v=JKuuyylTZDI",
+   "playerId": "luka-modric",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:27.494Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Virgil van Dijk": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
@@ -56,7 +109,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "Virgil van Dijk Goal | Netherlands 2-2 Japan | FIFA World Cup 2026™",
    "youtubeId": "DOZOSNqnTII",
-   "youtubeUrl": "https://www.youtube.com/watch?v=DOZOSNqnTII"
+   "youtubeUrl": "https://www.youtube.com/watch?v=DOZOSNqnTII",
+   "playerId": "virgil-van-dijk",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:26.751Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Cristiano Ronaldo": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg/1920px-Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg",
@@ -64,7 +126,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "🗣️ \"It's about passion\", Cristiano Ronaldo. 🇵🇹 #FIFAWorldCupOnYT",
    "youtubeId": "9nEBxpU08iI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=9nEBxpU08iI"
+   "youtubeUrl": "https://www.youtube.com/watch?v=9nEBxpU08iI",
+   "playerId": "cristiano-ronaldo",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:26.782Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Lionel Messi": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg/1920px-Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg",
@@ -72,7 +143,16 @@
    "attribution": "Wikipedia / Wikimedia Commons",
    "videoTitle": "Lionel Messi Goal | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
    "youtubeId": "QsQjNQLU6bQ",
-   "youtubeUrl": "https://www.youtube.com/watch?v=QsQjNQLU6bQ"
+   "youtubeUrl": "https://www.youtube.com/watch?v=QsQjNQLU6bQ",
+   "playerId": "lionel-messi",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:25.343Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Kylian Mbappé": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kylian_Mbapp%C3%A9_World_Cup_Trophy.jpg",
@@ -80,7 +160,16 @@
    "attribution": "Wikimedia Commons",
    "videoTitle": "Kylian Mbappe Goal | France 2-0 Morocco | FIFA World Cup 2026™",
    "youtubeId": "3LrNmNWyAn0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=3LrNmNWyAn0"
+   "youtubeUrl": "https://www.youtube.com/watch?v=3LrNmNWyAn0",
+   "playerId": "kylian-mbappe",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:25.269Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Jude Bellingham": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190551-2_%28cropped%29.jpg",
@@ -88,12 +177,29 @@
    "attribution": "Wikimedia Commons",
    "videoTitle": "Jude Bellingham Goal | Mexico 2-3 England | FIFA World Cup 2026™",
    "youtubeId": "S3XlsULsi-Q",
-   "youtubeUrl": "https://www.youtube.com/watch?v=S3XlsULsi-Q"
+   "youtubeUrl": "https://www.youtube.com/watch?v=S3XlsULsi-Q",
+   "playerId": "jude-bellingham",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:26.067Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Nicolò Barella": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nicol%C3%B2_Barella_in_2021_%28cropped_2%29.jpg",
    "page": "https://en.wikipedia.org/?curid=46926514",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "nicolo-barella",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:27.051Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "Kevin De Bruyne": {
    "videoTitle": "Kevin De Bruyne Goal | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
@@ -101,15 +207,33 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=vA45mmp9PzM",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/1920px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=19570009",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "kevin-de-bruyne",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:26.737Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Christian Pulisic": {
-   "videoTitle": "Pulisic scores the winner for USA!",
-   "youtubeId": "jnuRRzl_XZU",
-   "youtubeUrl": "https://www.youtube.com/watch?v=jnuRRzl_XZU",
+   "videoTitle": "Christian Pulisic's Goal v IR Iran | 2022 FIFA World Cup",
+   "youtubeId": "HPg5hthnQ5E",
+   "youtubeUrl": "https://www.youtube.com/watch?v=HPg5hthnQ5E",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg/1920px-Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-73_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=49209934",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "christian-pulisic",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:28.293Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Sadio Mané": {
    "videoTitle": "Team Feature: Senegal | Sadio Mané: What It Takes to Achieve Your World Cup Dream",
@@ -117,31 +241,67 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=cXH7F1wFbUQ",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg/1920px-Sadio_Mane_France_v_Senegal_16_June_2026-450.jpg",
    "page": "https://en.wikipedia.org/?curid=34758489",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "sadio-mane",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:29.179Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Raúl Jiménez": {
-   "videoTitle": "Raúl Jiménez Goal | Mexico 2-0 Ecuador | FIFA World Cup 2026™",
-   "youtubeId": "X2A3t5iVzU8",
-   "youtubeUrl": "https://www.youtube.com/watch?v=X2A3t5iVzU8",
+   "videoTitle": "Raúl Jiménez goal | Mexico 2-0 South Africa | FIFA World Cup 2026™",
+   "youtubeId": "yYQpRBcO7tA",
+   "youtubeUrl": "https://www.youtube.com/watch?v=yYQpRBcO7tA",
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ra%C3%BAl_Jim%C3%A9nez.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Ra%C3%BAl_Jim%C3%A9nez.jpg",
-   "attribution": "Wikimedia Commons"
+   "attribution": "Wikimedia Commons",
+   "playerId": "raul-jimenez",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:28.067Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Achraf Hakimi": {
-   "videoTitle": "Messi and Hakimi swap shirts",
-   "youtubeId": "tLaM4WVAPOI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=tLaM4WVAPOI",
+   "videoTitle": "That feeling when Achraf Hakimi sent Morocco to the Quarter-Finals for the first time!",
+   "youtubeId": "ghSA4jVmwTM",
+   "youtubeUrl": "https://www.youtube.com/watch?v=ghSA4jVmwTM",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg/1920px-Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg",
    "page": "https://en.wikipedia.org/?curid=52004386",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "achraf-hakimi",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:29.643Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Son Heung-min": {
-   "videoTitle": "Son Heungmin Goal | FIFA Puskas Award 2020 Winner",
-   "youtubeId": "2SATljljXCY",
-   "youtubeUrl": "https://www.youtube.com/watch?v=2SATljljXCY",
+   "videoTitle": "Son Heung-min's Long-Range Goal v Mexico | 2018 FIFA World Cup",
+   "youtubeId": "njc90ODIbLc",
+   "youtubeUrl": "https://www.youtube.com/watch?v=njc90ODIbLc",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=29152920",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "son-heung-min",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:29.380Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Takefusa Kubo": {
    "videoTitle": "Stars of the Future: Yuya Kubo",
@@ -149,15 +309,32 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=A2pNgvFtasA",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Takefusa_Kubo_2019.png",
    "page": "https://en.wikipedia.org/?curid=52475014",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "takefusa-kubo",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:28.469Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "Moisés Caicedo": {
-   "videoTitle": "Team Feature: Ecuador | Caicedo and Hincapié Determined To Improve On 2022 World Cup Heartbreak",
-   "youtubeId": "QxLh8DlCM8o",
-   "youtubeUrl": "https://www.youtube.com/watch?v=QxLh8DlCM8o",
+   "videoTitle": "Ecuador On Playing Germany | Sebastián Beccacece & Moises Caicedo Take Questions",
+   "youtubeId": "h8nsOT5MuxU",
+   "youtubeUrl": "https://www.youtube.com/watch?v=h8nsOT5MuxU",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_%28cropped%29.jpg/1920px-Moises_Caicedo_Ecuador_v_Germany_25_June_2026-051_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=65162701",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "moises-caicedo",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:30.983Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Granit Xhaka": {
    "videoTitle": "Switzerland On Playing Argentina | Murat Yakin & Granit Xhaka Take Questions",
@@ -165,7 +342,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=-mupWoOHvGw",
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Granit_Xhaka_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=28626100",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "granit-xhaka",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:30.298Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Luis Díaz": {
    "videoTitle": "Luis Diaz Goal | Uzbekistan 1-3 Colombia | FIFA World Cup 2026™",
@@ -173,7 +359,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=ERb0Qsvxd6E",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_%282026-01-06_Testspiel%29_40_%28Luiz_D%C3%ADaz%29.jpg",
    "page": "https://en.wikipedia.org/?curid=54377392",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "luis-diaz",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:30.262Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Alphonso Davies": {
    "videoTitle": "Alphonso Davies Scores Canada's First FIFA World Cup Goal",
@@ -181,7 +376,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=zCUGgdWQhRU",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alphonso_Davies_Canada_v_Qatar_18_June_2026-007_%28cropped%29.jpg/1920px-Alphonso_Davies_Canada_v_Qatar_18_June_2026-007_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=49538223",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "alphonso-davies",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:30.993Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Alexander Isak": {
    "videoTitle": "Alexander Isak Goal | Sweden 5-1 Tunisia | FIFA World Cup 2026™",
@@ -189,7 +393,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=n-3Rtcbwjew",
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Alexander_Isak_-_Sweden_-_Greece21_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=50076385",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "alexander-isak",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:31.520Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Mohammed Kudus": {
    "videoTitle": "Mohammed Kudus | West Ham United v Freiburg | FIFA Puskas Award 2024 Nominee",
@@ -197,23 +410,50 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=3BQw5d3eYz4",
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mohammed_Kudus_of_West_Ham_United.jpeg",
    "page": "https://en.wikipedia.org/?curid=58636859",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "mohammed-kudus",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:31.766Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Victor Osimhen": {
-   "videoTitle": "You could tell that Victor Osimhen was going to be a star 🤩",
-   "youtubeId": "qcfxKdqQ6gw",
-   "youtubeUrl": "https://www.youtube.com/watch?v=qcfxKdqQ6gw",
+   "videoTitle": "Every Victor Osimhen Goal | 2015 FIFA U-17 World Cup",
+   "youtubeId": "g86ePCZe7a4",
+   "youtubeUrl": "https://www.youtube.com/watch?v=g86ePCZe7a4",
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Victor-osimhen-nigeria-2024-3-4.jpg",
    "page": "https://en.wikipedia.org/?curid=54003367",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "victor-osimhen",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:32.512Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Robert Lewandowski": {
-   "videoTitle": "Lewandowski gets his goal! | Poland v Saudi Arabia | FIFA World Cup Qatar 2022",
-   "youtubeId": "WsJBO9mG7Vw",
-   "youtubeUrl": "https://www.youtube.com/watch?v=WsJBO9mG7Vw",
+   "videoTitle": "Robert Lewandowski  (Poland) - Match 15 Preview - 2018 FIFA World Cup™",
+   "youtubeId": "J7ZmyQjSHyU",
+   "youtubeUrl": "https://www.youtube.com/watch?v=J7ZmyQjSHyU",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg/1920px-2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=13362678",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "robert-lewandowski",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:31.845Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Erling Haaland": {
    "videoTitle": "Your Goal of the Round of 16 goes to Erling Haaland.",
@@ -221,7 +461,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=FhcVzJnsCT4",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/1920px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
    "page": "https://en.wikipedia.org/?curid=54333646",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "erling-haaland",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:32.532Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Ryan Mendes": {
    "videoTitle": "Cabo Verde On Playing Spain | Pedro Leitão Brito & Ryan Mendes Take Questions",
@@ -229,7 +478,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=B7k1bXh8yu0",
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ryan_Mendes_Fifa_World_Cup_2026_Cabo_Verde_vs_Saudia_Arabia.jpg",
    "page": "https://en.wikipedia.org/?curid=24910987",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "ryan-mendes",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:34.229Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "David Alaba": {
    "videoTitle": "Austria On Playing Spain | Ralf Rangnick & David Alaba Take Questions",
@@ -237,7 +495,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=wg5H20vs3wI",
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_David_Alaba_850_1632.jpg",
    "page": "https://en.wikipedia.org/?curid=24053598",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "david-alaba",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:34.260Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Edin Džeko": {
    "videoTitle": "Team Feature: Bosnia and Herzegovina | Legendary Striker Edin Dzeko Aims To Do His Country Proud",
@@ -245,7 +512,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=CVly5PzQFhg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=6926377",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "edin-dzeko",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:34.301Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Riyad Mahrez": {
    "videoTitle": "Team Feature: Algeria | The Legacy of Riyad Mahrez",
@@ -253,7 +529,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=qsr7Y8njiTM",
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mahrez_2021.jpg",
    "page": "https://en.wikipedia.org/?curid=41586458",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "riyad-mahrez",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:33.580Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Yoane Wissa": {
    "videoTitle": "Yoane Wissa Goal | Portugal 1-1 Congo DR | FIFA World Cup 2026™",
@@ -261,7 +546,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=rDd6gMmqYko",
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/CAN_2023RD_Congo_2-1_Guin%C3%A9e_9939_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=52748696",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "yoane-wissa",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:34.967Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Ronwen Williams": {
    "videoTitle": "Ronwen Williams Save | South Africa 0-1 Canada",
@@ -269,7 +563,16 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=kRvTQeJ8LRA",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ronwen_Williams_AFCON2025Q_35.jpg/1920px-Ronwen_Williams_AFCON2025Q_35.jpg",
    "page": "https://en.wikipedia.org/?curid=32789999",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "ronwen-williams",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:35.734Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Mohamed Salah": {
    "videoTitle": "Mohamed Salah Goal | New Zealand 1-3 Egypt | FIFA World Cup 2026™",
@@ -277,32 +580,81 @@
    "youtubeUrl": "https://www.youtube.com/watch?v=q0HWiseLQQo",
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
    "page": "https://en.wikipedia.org/?curid=35440786",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "mohamed-salah",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:35.050Z",
+   "videoChannel": "FIFA",
+   "videoVerified": true,
+   "videoVerifierVersion": 2
   },
   "Jackson Irvine": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jackson_Irvine_Australia_v_USA_19_June_2026-118.jpg/1920px-Jackson_Irvine_Australia_v_USA_19_June_2026-118.jpg",
    "page": "https://en.wikipedia.org/?curid=36892038",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "jackson-irvine",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:30.662Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "Dušan Vlahović": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Incontro_con_le_squadre_finaliste_della_Coppa_Italia_di_calcio_Frecciarossa_Atalanta_-_Juventus_05_%28Du%C5%A1an_Vlahovi%C4%87%29.jpg",
    "page": "https://en.wikipedia.org/?curid=49503072",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "dusan-vlahovic",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:33.163Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "André Onana": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Andr%C3%A9_Onana.jpg/1920px-Andr%C3%A9_Onana.jpg",
    "page": "https://en.wikipedia.org/?curid=44961665",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "andre-onana",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:32.901Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "Sébastien Haller": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/S%C3%A9bastien_Haller_2.jpg",
    "page": "https://en.wikipedia.org/?curid=36561068",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "sebastien-haller",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:33.441Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   },
   "Rasmus Højlund": {
    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rasmus_H%C3%B8jlund_with_a_fan.jpg",
    "page": "https://en.wikipedia.org/?curid=65683140",
-   "attribution": "Wikipedia / Wikimedia Commons"
+   "attribution": "Wikipedia / Wikimedia Commons",
+   "playerId": "rasmus-h-jlund",
+   "portraitSource": "Wikimedia",
+   "portraitType": "editorial",
+   "focalPoint": "50% 20%",
+   "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
+   "videoCheckedAt": "2026-07-12T03:31:29.978Z",
+   "videoVerified": false,
+   "videoVerifierVersion": 2
   }
  }
 }
