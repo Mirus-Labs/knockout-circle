@@ -1,14 +1,59 @@
 {
- "updated": "2026-07-12T16:37:59.313Z",
+ "updated": "2026-07-12T17:44:50.240Z",
  "news": [
   {
-   "cat": "FOX SPORTS",
-   "title": "England-Argentina Is A Rivalry Rooted In Ghosts, Thorns, And Legends",
-   "iso": "2026-07-12T16:33:22.000Z",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDFYYmJYeFd1VGY0SnZsN2YwU1NhRVRJRng0ZDBhYm5oQm05N2JRdjY5ei13VWV6Ym1QVnp3a1pvaE53OUlrdGluRVJ0cHA2V1lUX1pJQ1lTb3hFV2JiZmFSd2NnUk00OFljaHpYRVhKNVBEZzBhclFBeFdQSlh6VmJ0Vjg5aE9CazdzLXNWWGVaVC0wNmZjX2k0R2bSAZwBQVVfeXFMTXRyV3lKU196X1V5S3JoanJseFVnVUF1a1hpejA1eDJTdk9SZWtlcDIyYTdTbEdQSUpvWjR5UWczRWFZY2NtWlVZclkwV3hxOWpqb1dxUHdYdE9xUDc0MDdvM1EySWhlU1cyVDgtb0t6Vm43OXU0V0Y0NU14X0ZWMW11RlotUzVUMFJ1YlB1VTNPOFNGckZmVkJPUGlt?oc=5",
-   "lede": "England-Argentina Is A Rivalry Rooted In Ghosts, Thorns, And Legends &nbsp;&nbsp; FOX Sports",
+   "cat": "THE GUARDIAN",
+   "title": "Former Spanish PM accused of racism in remarks about French football team",
+   "iso": "2026-07-12T17:39:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNampTTU4yeXN2UEZvdE04QV9maDFNT1JiX2xFM0RJMjF3VklyZVNZcmJyeDlUcElFQWN4X0hITS0zZzYwTzNNVnlRbzVYNWJQWlEzUEg2MHhQZWhhaktSN0huVWJDbjEzUVRJRmk0cUQ5VkV0R3oxMUNVazZlYTNwWUxkOUdRb3JqLUNUS3V3Y1dPNDBBYUZXN3RRUmFBWFNzYWRrNzZvSXhlWHBxSWpkZmNuNVY?oc=5",
+   "lede": "Former Spanish PM accused of racism in remarks about French football team &nbsp;&nbsp; The Guardian",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "ESPN",
+   "title": "World Cup 2026 today as it happened: news and updates after England, Argentina edge into semifinal via extra time - July 12",
+   "iso": "2026-07-12T17:36:07.000Z",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWFFQzVQU2lvb0htSUFBdm5uNHZyWG9KT1BFSzdTSXZJSXJXY3FybEJ2NjQwaEI4U2VIMUQ0UHNMS2RNZEJ5bENmVEJhWkphajk1MjByTkJ1cmNfOUR2cUNkV0Y4dmFKMVlPWndIRlNCQnNPZ2lObEtodzZFNkdURHpzSTduUzJpYXM5Rjh0X1M4V1RyTXZheFpLTTZIcFpZc0w3Q05idG80LS1Fc3pMenRlbTYyRnVMN2FSaDBSMl90aUJzbF9UbXBiX0FQZlBFTDVRekpSS3V3WGU2NC1QWFg4R0EwNkQtZ2lEZk4zZWo?oc=5",
+   "lede": "World Cup 2026 today as it happened: news and updates after England, Argentina edge into semifinal via extra time - July 12 &nbsp;&nbsp; ESPN",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley",
+   "iso": "2026-07-12T17:02:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1dLb2RJSE5rWDFtOUM5dnBieWJCQVBEcG1IeWloRk1zaHpCRjVHbENhOU5EdXpsbXhvMDZWa0NzT0hCWFJ6em1JcUNkSkhFRXhxU1dUdGdnMTNIbkZFTkM1WmhBY2ZUNUh4aTRKS1V0YTJLbEpiMFc0VGlWUE40NmhkMkR4dkc3dl9Ic2NmUUdocDB2ZzNXTGFxMzRtbzV1S3I1UUNSMzY3VDhGMElGY2NuOWc4OUVyMlFabXNNSmw?oc=5",
+   "lede": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley &nbsp;&nbsp; The Guardian",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "HITC.COM",
+   "title": "Every football legend Jude Bellingham has now scored more World Cup goals than",
+   "iso": "2026-07-12T16:48:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmF2UTB1aDJvMVUxVEVtcTJiQUN0d2RxdDI1TmVCTldqQ0FodEQwQ2ZWQlFISmlCc1ozbU1iRkJzVmludThpUklfMUhNZTN3NF9FemVabGtRcG5qWklfYTJrX1kwVHhEQjh1UnI4MG9lek11VUwwWDVESlJmOWhTbUhyUFlxdmNQd3dBc0s0NmRvWEM5c014SW5vWE1Hd2t1UWc?oc=5",
+   "lede": "Every football legend Jude Bellingham has now scored more World Cup goals than &nbsp;&nbsp; hitc.com",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
+   "iso": "2026-07-12T16:39:00.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNXeERVOWlKMnk4WEJ0clpNUF9KRURuOXZ6ZDhvdm5iUlF3TVhPdy1tVXdqMFZqd2R2MUhxX0J5QnhzVVFRcWJZc21QMldHRXZUeTltTkNPd1ZpZHN6WWJzbVVqYkZEYVNyVnpleHk2cGFXZ3N2bUNRb1VkMEYwLWtjdTNCbUhPd0ViUDMxVUUxLUdJUV9rRldmMTFyYUFaVjhVWmxmamM?oc=5",
+   "lede": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg &nbsp;&nbsp; The Guardian",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "England-Argentina Is A Rivalry Rooted In Ghosts, Thorns And Legends",
+   "iso": "2026-07-12T16:33:22.000Z",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDFYYmJYeFd1VGY0SnZsN2YwU1NhRVRJRng0ZDBhYm5oQm05N2JRdjY5ei13VWV6Ym1QVnp3a1pvaE53OUlrdGluRVJ0cHA2V1lUX1pJQ1lTb3hFV2JiZmFSd2NnUk00OFljaHpYRVhKNVBEZzBhclFBeFdQSlh6VmJ0Vjg5aE9CazdzLXNWWGVaVC0wNmZjX2k0R2bSAZwBQVVfeXFMTXRyV3lKU196X1V5S3JoanJseFVnVUF1a1hpejA1eDJTdk9SZWtlcDIyYTdTbEdQSUpvWjR5UWczRWFZY2NtWlVZclkwV3hxOWpqb1dxUHdYdE9xUDc0MDdvM1EySWhlU1cyVDgtb0t6Vm43OXU0V0Y0NU14X0ZWMW11RlotUzVUMFJ1YlB1VTNPOFNGckZmVkJPUGlt?oc=5",
+   "lede": "England-Argentina Is A Rivalry Rooted In Ghosts, Thorns And Legends &nbsp;&nbsp; FOX Sports",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DAZN",
@@ -16,8 +61,8 @@
    "iso": "2026-07-12T16:30:00.000Z",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0p6N3E2RXRUV2todHdmM080clQxSk9DQ1VtbXNiM2kyOXpvWldNZ24wZ05KQXIwdUFwT01sUUFpUDFwTndZRzg4Q1M4U0d4c0hyb0YwYk52TFQ3YWxPSDVHN2pkOU53Q2V3aEJhcVdXNVpzT0JRZVV3N0l5LXh6UlZ0cEVlSU1BbkF5RHZKZVRtVy1xNFlzV2VfRC1FbF9qbF9RNHBCbTR5Zjd6eTkzZmtRNVMzRF8xek4xQXR2eWlOVGM?oc=5",
    "lede": "Can 'one guy less' Noni Madueke turn England fortunes at FIFA World Cup? &nbsp;&nbsp; DAZN",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "SKY SPORTS",
@@ -25,51 +70,6 @@
    "iso": "2026-07-12T16:28:15.000Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5",
    "lede": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England &nbsp;&nbsp; Sky Sports",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
-   "iso": "2026-07-12T16:14:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDNXeERVOWlKMnk4WEJ0clpNUF9KRURuOXZ6ZDhvdm5iUlF3TVhPdy1tVXdqMFZqd2R2MUhxX0J5QnhzVVFRcWJZc21QMldHRXZUeTltTkNPd1ZpZHN6WWJzbVVqYkZEYVNyVnpleHk2cGFXZ3N2bUNRb1VkMEYwLWtjdTNCbUhPd0ViUDMxVUUxLUdJUV9rRldmMTFyYUFaVjhVWmxmamM?oc=5",
-   "lede": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg &nbsp;&nbsp; The Guardian",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
-   "iso": "2026-07-12T16:01:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlRuaURudjZMN1JZV2VZSWlSVFNLUS0ycThYLXpFM19oSmYwWmtQVVRNczhzUS0zN2Nla3gwMnBrRFFHdzRLV0lmaUN3bGlGX0hfSVRObEMwV05fclVkckd2aVN6U3NJZTVKY3NOb3dFSm1jdWVuQzFGeHZwUlZWeFp6WVRycTlGYk43S19hY3A0OTZfbHdqMFhZdFZlVmZpOWFlQTd6MlJDbDRfWUE?oc=5",
-   "lede": "World Cup 2026 power rankings: who leads the pack as semi-finals loom? &nbsp;&nbsp; The Guardian",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Scaloni plays down Argentina and England history: ‘A football game and that is all’",
-   "iso": "2026-07-12T15:54:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkE4aWpJTGFIMmo1QXdwcTIxUmFWd1J1cXJ2QkhLTjlHRTlTbTAtakI2YVZ0UG1XRWw0VWJDTGtCTWtTRl9DM1VnR0JQbVFGRkVFUFR6ekZpWFV4aWFxS05ZMnRzWHptZnRwVEFxWUJhZ2NKSE1EQ1lMQjhZdU1uTGUta2o2X08zc2dBVmZHRmFDMzhuanNNdWZVNE1hM2g2RVI2Z09ONA?oc=5",
-   "lede": "Scaloni plays down Argentina and England history: ‘A football game and that is all’ &nbsp;&nbsp; The Guardian",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley",
-   "iso": "2026-07-12T15:51:00.000Z",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1dLb2RJSE5rWDFtOUM5dnBieWJCQVBEcG1IeWloRk1zaHpCRjVHbENhOU5EdXpsbXhvMDZWa0NzT0hCWFJ6em1JcUNkSkhFRXhxU1dUdGdnMTNIbkZFTkM1WmhBY2ZUNUh4aTRKS1V0YTJLbEpiMFc0VGlWUE40NmhkMkR4dkc3dl9Ic2NmUUdocDB2ZzNXTGFxMzRtbzV1S3I1UUNSMzY3VDhGMElGY2NuOWc4OUVyMlFabXNNSmw?oc=5",
-   "lede": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley &nbsp;&nbsp; The Guardian",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE CONVERSATION",
-   "title": "World Cup 2026: how are posts on diversity and inclusion being received on social media?",
-   "iso": "2026-07-12T15:46:58.000Z",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObldwS1NEVDNqZmE2SmFCeEJSMG91ck92V3BINXRuZ01IYjY2U0VtaURfcy1idUJwWmlROUpPcVZUQkFTa082Z1pvLUF1MXpKZkozZjdqS0JDX3pacnZUVG1FOHdLMWlWdVpxNFpvQ3lfQWdjODI3QUdLZlpJRTMyaE9LdDUyeGQweWVoQWhEMkViWDVQS3d5alhxNUNlZUlNNC1RNWFuLW5uM0JEX2w4YW5lSmFvZWlXUjU5azRR?oc=5",
-   "lede": "World Cup 2026: how are posts on diversity and inclusion being received on social media? &nbsp;&nbsp; The Conversation",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
