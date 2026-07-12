@@ -1,14 +1,54 @@
 {
- "updated": "2026-07-12T21:27:30.482Z",
+ "updated": "2026-07-12T22:10:24.040Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "President Trump Faces Backlash for World Cup Trophy Decision",
+   "iso": "2026-07-12T21:46:08.000Z",
+   "link": "https://sports.yahoo.com/articles/president-trump-faces-backlash-world-183818095.html",
+   "lede": "President Trump Faces Backlash for World Cup Trophy Decision &nbsp;&nbsp; Yahoo Sports",
+   "emoji": "⚽",
+   "bg": "#1d6f42",
+   "image": "https://s.yimg.com/ny/api/res/1.2/c6D_GFtFdVbm7OXOLF1bUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/the_spun_articles_751/336ca4e8227c7007df75ae852aef1164"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "After another shaky VAR day at the World Cup on Saturday, have you lost faith in the system?",
+   "iso": "2026-07-12T21:45:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/question-of-the-day/229632/after-another-shaky-var-day-at-the-world-cup-on-saturday-have-you-lost-faith-in-the-system",
+   "lede": "After another shaky VAR day at the World Cup on Saturday, have you lost faith in the system? &nbsp;&nbsp; Bavarian Football Works",
+   "emoji": "🏆",
+   "bg": "#3a2d6b",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285106674.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Former Spanish PM accused of racism in remarks about French football team",
+   "iso": "2026-07-12T21:36:00.000Z",
+   "link": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
+   "lede": "Former Spanish PM accused of racism in remarks about French football team &nbsp;&nbsp; The Guardian",
+   "emoji": "🏟️",
+   "bg": "#7a5b16",
+   "image": "https://i.guim.co.uk/img/media/22c50184e3df5265ffcd5e38826eed3bd83fa59e/8_462_4951_3959/master/4951.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ca5f6da0f000556650ec6544ff2165"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals",
+   "iso": "2026-07-12T21:28:50.000Z",
+   "link": "https://www.skysports.com/football/news/33694/13561325/world-cup-2026-norway-1-2-england-aet-jude-bellingham-the-hero-again-as-three-lions-advance-to-semi-finals",
+   "lede": "World Cup 2026: Norway 1-2 England (AET) - Jude Bellingham the hero again as Three Lions advance to semi-finals &nbsp;&nbsp; Sky Sports",
+   "emoji": "🔥",
+   "bg": "#7a2424",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-norway-jude-bellingham_7295597.jpg?20260712001346"
+  },
   {
    "cat": "AL JAZEERA",
    "title": "Watch World Cup: England beat Norway to set up semifinal against Argentina",
    "iso": "2026-07-12T20:56:20.000Z",
    "link": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights",
    "lede": "Watch World Cup: England beat Norway to set up semifinal against Argentina &nbsp;&nbsp; Al Jazeera",
-   "emoji": "⚽",
-   "bg": "#1d6f42",
+   "emoji": "🌎",
+   "bg": "#1f4b7a",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260711__B9XL2YT__v1__HighRes__FblWc2026Match99NorEng-1783844964.jpg?resize=1920%2C1440"
   },
   {
@@ -17,8 +57,8 @@
    "iso": "2026-07-12T20:53:37.000Z",
    "link": "https://www.foxsports.com/stories/soccer/world-cup-college-football-france-ohio-state-spain-georgia-england-texas-argentina-alabama",
    "lede": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse &nbsp;&nbsp; FOX Sports",
-   "emoji": "🏆",
-   "bg": "#3a2d6b",
+   "emoji": "🎯",
+   "bg": "#0c5c2e",
    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-78.jpg?ve=1&tl=1"
   },
   {
@@ -27,59 +67,18 @@
    "iso": "2026-07-12T20:45:00.000Z",
    "link": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
    "lede": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup &nbsp;&nbsp; ESPN",
-   "emoji": "🏟️",
-   "bg": "#7a5b16",
-   "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688428_1296x729_16%2D9.jpg"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
-   "iso": "2026-07-12T20:38:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
-   "lede": "England on collision course with Messi and Argentina in World Cup semi-final grudge match &nbsp;&nbsp; The Guardian",
-   "emoji": "🔥",
-   "bg": "#7a2424",
-   "image": "https://i.guim.co.uk/img/media/c817d50a550c927ce38c8f224d950b0dcb4ce876/387_0_3980_3185/master/3980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9024b2163db3f6bf7fe7851af7c9c7e0"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
-   "iso": "2026-07-12T20:13:53.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/12/spain-ex-pm-criticised-for-xenophobic-remark-on-french-world-cup-team",
-   "lede": "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team &nbsp;&nbsp; Al Jazeera",
-   "emoji": "🌎",
-   "bg": "#1f4b7a",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2018-06-01T110337Z_166464584_RC11AC9DAE40_RTRMADP_3_SPAIN-POLITICS-1783885222.jpg?resize=1920%2C1440"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
-   "iso": "2026-07-12T20:13:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/12/england-djed-spence-john-stones-defence-world-cup-norway",
-   "lede": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg &nbsp;&nbsp; The Guardian",
-   "emoji": "🎯",
-   "bg": "#0c5c2e",
-   "image": "https://i.guim.co.uk/img/media/240b4ff365cecc22225cd05208736a8c45099032/254_0_2532_2027/master/2532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4449bf745e6794cbcdeb6565ca5c6dda"
-  },
-  {
-   "cat": "ESPN",
-   "title": "World Cup 2026: Which teams have been eliminated?",
-   "iso": "2026-07-12T19:56:42.000Z",
-   "link": "https://www.espn.co.uk/football/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
-   "lede": "World Cup 2026: Which teams have been eliminated? &nbsp;&nbsp; ESPN",
    "emoji": "📣",
-   "bg": "#5b2d6b",
-   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685550_1296x729_16%2D9.jpg"
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
-   "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
-   "iso": "2026-07-12T19:40:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
-   "lede": "World Cup 2026 power rankings: who leads the pack as semi-finals loom? &nbsp;&nbsp; The Guardian",
+   "title": "Scaloni plays down Argentina and England history: ‘A football game and that is all’",
+   "iso": "2026-07-12T20:42:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-lionel-scaloni-england-semi-final",
+   "lede": "Scaloni plays down Argentina and England history: ‘A football game and that is all’ &nbsp;&nbsp; The Guardian",
    "emoji": "🧤",
    "bg": "#2f5d2a",
-   "image": "https://i.guim.co.uk/img/media/cad40fd925036bee11f5c793e023d34127ee67d8/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f0c105e59dc70a33902cbbd0fb7b2c"
+   "image": "https://i.guim.co.uk/img/media/806c112ae832eeedd5c5437d256c6253a42f0586/214_0_2355_1884/master/2355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81e3a2e3360699f7f2e283274f5a0b0f"
   }
  ]
 }
