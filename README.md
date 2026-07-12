@@ -35,6 +35,7 @@ data/                 # JSON overlays (see "Data sources" below)
 scripts/
   update-data.mjs     # main updater: news, stats, reports, videos, player & stadium media
   match-report.mjs    # parses FIFA Training Centre post-match report PDFs
+  live-lineups.mjs    # announced XIs from FIFA's live match API (pre-match & in-play)
   player-media.mjs    # matches player-specific highlight videos
   player-stats.mjs    # standalone: builds per-player FIFA-style stats → player-stats.json
 worker/index.mjs      # Cloudflare Worker: /api/live, cron scoreboard refresh, static assets
@@ -53,6 +54,7 @@ Everything is real WC2026 data. Different surfaces pull from different providers
 | News | `data/news.json` | Google News RSS |
 | Per-player stats & radar | `data/player-stats.json` | FIFA Enhanced Football Intelligence metrics via the public [fifaphy](https://fifaphy.vercel.app) dataset — radar axes are **derived** per-90 position-cohort percentiles, not an official FIFA rating |
 | Official post-match reports | `data/match-reports.json` | [FIFA Training Centre](https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php) match-report PDFs |
+| Line-ups before & during a match | `data/match-reports.json` | FIFA live match API (`api.fifa.com/api/v3/live/football/…`) — announced XIs land ~1h before kick-off (`--lineups-only` polls just these); the Training Centre PDF replaces the entry as the source of record once published |
 | Match & player highlight videos | `data/highlights.json` | FIFA's official YouTube playlist and channel, with a community-channel fallback for player clips |
 | Player photography | `data/player-images.json` | Wikipedia / Wikimedia Commons |
 | Stadium photography | `data/stadium-images.json` | Wikipedia / Wikimedia Commons |

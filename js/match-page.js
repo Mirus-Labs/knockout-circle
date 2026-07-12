@@ -34,7 +34,7 @@
   const localWhen = MF?.localKickoff({...meta, kickoffUtc:facts.kickoffUtc}) || {};
   const when = localWhen.local || [meta.date, meta.time].filter(Boolean).join(' · ') || 'Kick-off to be confirmed';
   const whenHtml = localWhen.iso
-    ? `<time datetime="${localWhen.iso}">${when}</time><span>YOUR TIME${localWhen.timeZone ? ` · ${localWhen.timeZone}` : ''}</span>`
+    ? `<time datetime="${localWhen.iso}">${when}</time>${localWhen.timeZone}`
     : `<span>${when}</span>`;
   const status = st === 'live' ? `LIVE ${sc.min}’` : st === 'finished' ? 'FULL TIME' : 'UPCOMING';
   const maxMinute = st === 'live' ? sc.min : st === 'finished' ? 90 : 0;

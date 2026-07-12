@@ -10,11 +10,17 @@
 
    Usage:  node scripts/update-data.mjs
    Scheduled hourly by ~/Library/LaunchAgents/com.knockoutcircle.update.plist
+
+   data/match-reports.json blends two FIFA lineup sources: announced XIs from
+   the live match API (about an hour before kick-off, --lineups-only polls
+   just those) and the post-match Training Centre PDF, which replaces the
+   live entry as the source of record once published.
 */
 import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { discoverReportLinks, extractPdfText, parseReportText } from './match-report.mjs';
+import { FIFA_LIVE_API, WORLD_CUP_2026, liveLineupWindow, parseLiveLineups } from './live-lineups.mjs';
 import { matchesPlayerVideo } from './player-media.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -362,6 +368,36 @@ async function updatePlayerImages() {
 /* ---------------- FIFA post-match reports: selected facts only ---------------- */
 const FIFA_REPORT_HUB = 'https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php';
 
+/* Team sheets from FIFA's live API for matches whose official PDF does not
+   exist yet — announced XIs appear here about an hour before kick-off. The
+   post-match PDF remains the source of record and replaces these entries. */
+async function updateLiveLineups(matches) {
+  const { from, to } = liveLineupWindow();
+  const { competition, season } = WORLD_CUP_2026;
+  const calendar = await fetchJsonWithRetry(
+    `${FIFA_LIVE_API}/calendar/matches?idCompetition=${competition}&idSeason=${season}&from=${from}&to=${to}&language=en&count=20`,
+  );
+  let written = 0;
+  for (const fixture of calendar?.Results || []) {
+    const matchNumber = Number(fixture.MatchNumber);
+    if (!matchNumber || !fixture.IdStage || !fixture.IdMatch) continue;
+    if (matches[matchNumber]?.lineups) continue; // XI is fixed once announced; PDF entries stay authoritative
+    const live = await fetchJsonWithRetry(
+      `${FIFA_LIVE_API}/live/football/${competition}/${season}/${fixture.IdStage}/${fixture.IdMatch}?language=en`,
+    );
+    const parsed = parseLiveLineups(live);
+    if (!parsed || parsed.matchNumber !== matchNumber) continue;
+    const old = matches[matchNumber] || {};
+    matches[matchNumber] = {
+      ...old, ...parsed,
+      formations: parsed.formations || old.formations || null,
+      updatedAt: new Date().toISOString(),
+    };
+    written++;
+  }
+  return written;
+}
+
 async function updateMatchReports() {
   let previous = { matches: {} };
   try { previous = JSON.parse(await readFile(join(OUT, 'match-reports.json'), 'utf8')); } catch { /* first run */ }
@@ -392,7 +428,14 @@ async function updateMatchReports() {
       const text = await extractPdfText(await response.arrayBuffer());
       const parsed = parseReportText(text, item.reportUrl);
       if (!parsed || parsed.matchNumber !== item.matchNumber) throw new Error('report identity did not validate');
-      matches[item.matchNumber] = { ...parsed, updatedAt: new Date().toISOString() };
+      matches[item.matchNumber] = {
+        ...parsed,
+        // The official PDF wins, but a live-feed team sheet outlives a PDF
+        // whose lineup table failed to extract.
+        lineups: parsed.lineups || old?.lineups || null,
+        formations: parsed.formations || old?.formations || null,
+        updatedAt: new Date().toISOString(),
+      };
     } catch (error) {
       matches[item.matchNumber] = {
         ...(old || {}), matchNumber: item.matchNumber, reportUrl: item.reportUrl,
@@ -400,10 +443,27 @@ async function updateMatchReports() {
       };
     }
   }
+  let liveSheets = 0;
+  try { liveSheets = await updateLiveLineups(matches); }
+  catch (error) { log('live lineup refresh skipped:', error.message); }
   await writeFile(join(OUT, 'match-reports.json'), JSON.stringify({
     updated: new Date().toISOString(), source: 'FIFA Training Centre', sourceUrl: FIFA_REPORT_HUB, matches,
   }, null, 1));
-  log(`match-reports.json written (${Object.keys(matches).length} official reports)`);
+  log(`match-reports.json written (${Object.keys(matches).length} official reports, ${liveSheets} live team sheets added)`);
+}
+
+/* A fast refresh for schedulers polling around kick-off: two or three FIFA
+   API calls, no PDF hub crawl, and no write when nothing new appeared. */
+async function updateLineupsOnly() {
+  let previous = { matches: {} };
+  try { previous = JSON.parse(await readFile(join(OUT, 'match-reports.json'), 'utf8')); } catch { /* first run */ }
+  const matches = { ...(previous.matches || {}) };
+  const liveSheets = await updateLiveLineups(matches);
+  if (!liveSheets) { log('lineups: no newly announced team sheets'); return; }
+  await writeFile(join(OUT, 'match-reports.json'), JSON.stringify({
+    ...previous, updated: new Date().toISOString(), matches,
+  }, null, 1));
+  log(`match-reports.json written (${liveSheets} live team sheets added)`);
 }
 
 /* ---------------- venue photography: Wikimedia Commons ---------------- */
@@ -531,6 +591,13 @@ let failures = 0;
 const highlightsOnly = process.argv.includes('--highlights-only');
 const reportsOnly = process.argv.includes('--reports-only');
 const playersOnly = process.argv.includes('--players-only');
+const lineupsOnly = process.argv.includes('--lineups-only');
+
+if (lineupsOnly) {
+  try { await updateLineupsOnly(); }
+  catch (err) { failures++; console.error('live lineup update failed:', err.message); }
+  process.exit(failures ? 1 : 0);
+}
 
 if (reportsOnly) {
   try { await updateMatchReports(); }
