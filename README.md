@@ -7,6 +7,10 @@ stats and tournament leaders — rendered from real WC2026 data.
 A zero-build static site: plain HTML, CSS and vanilla ES modules, with an
 optional Node data updater for news and stat overlays.
 
+Live scores are centralized in the Cloudflare Worker: a once-per-minute Cron
+Trigger asks one Durable Object to refresh the scoreboard during match windows,
+and every browser reads the shared last-known-good snapshot from `/api/live`.
+
 ## Structure
 
 ```
@@ -15,12 +19,13 @@ css/style.css         # all styling
 js/
   app.js              # boot + view orchestration
   data.js             # tournament data model
+  match-facts.mjs     # normalized match facts and local-time formatting
   feed.js / adapter.js# live WC2026 data feed → app model
   tournament.js       # group stage + knockout bracket
   live.js             # live tie state
   fx.js               # background / motion effects
-data/                 # news.json, stats.json overlays (refreshed by the updater)
-scripts/update-data.mjs  # refreshes news, stats, FIFA videos, player and stadium media
+data/                 # news, stats, verified media and FIFA report overlays
+scripts/update-data.mjs  # refreshes news, stats, reports, videos, player and stadium media
 ```
 
 ## Run locally
@@ -40,7 +45,8 @@ node scripts/update-data.mjs   # writes all JSON overlays in data/
 The GitHub Actions workflow in `.github/workflows/update-data.yml` checks twice hourly
 for match-specific videos in FIFA's official YouTube playlist. Player and venue
 photography, plus player-specific videos from FIFA's official channel, are
-rechecked weekly. When an overlay changes, the workflow commits it to the current
+rechecked weekly. Completed matches are enriched from FIFA Training Centre
+post-match reports. When an overlay changes, the workflow commits it to the current
 branch so a Git-connected deployment can publish the update. A Wrangler custom
 build also runs the updater immediately before every production deploy, so a
 manual or Git-connected redeploy cannot ship stale checked-in overlays.
@@ -52,6 +58,11 @@ Configured for Cloudflare Workers static assets (`wrangler.jsonc`):
 ```bash
 npx wrangler deploy
 ```
+
+The first deployment creates the `LiveState` Durable Object and installs the
+once-per-minute Cron Trigger declared in `wrangler.jsonc`. Static overlays still
+use the scheduled GitHub Actions workflow; live scores do not require commits or
+site redeployments.
 
 ---
 

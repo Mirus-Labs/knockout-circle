@@ -2,6 +2,10 @@
 node_modules
 .git
 .gitignore
+.github
+.wrangler
+.dev.vars*
+.env*
 .assetsignore
 wrangler.jsonc
 wrangler.toml
@@ -9,3 +13,5 @@ wrangler.toml
 scratch_wc.json
 .claude
 scripts
+worker
+tests

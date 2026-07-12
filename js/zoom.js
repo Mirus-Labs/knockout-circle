@@ -298,7 +298,7 @@
     const ri = KC.roundIdx(key);
     const real = !!D.REAL;
 
-    const when = [UI.fmtDate(M.date), M.time, M.ground].filter(Boolean).join(' · ');
+    const when = [UI.localDateLabel(M), UI.localTimeLabel(M), M.ground].filter(Boolean).join(' · ');
     const pens = sc.pens
       ? (R && Array.isArray(R.penScore) ? `${R.penScore[0]}–${R.penScore[1]} on penalties` : 'Decided on penalties')
       : '';

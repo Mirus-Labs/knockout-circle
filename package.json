@@ -1,0 +1,11 @@
+{
+  "name": "knockout-circle",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "pdfjs-dist": "5.4.530"
+  }
+}
