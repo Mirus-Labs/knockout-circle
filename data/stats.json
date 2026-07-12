@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T06:48:15.366Z",
+ "updated": "2026-07-12T09:19:11.728Z",
  "source": "ESPN",
  "tabs": {
   "assists": [
@@ -14,6 +14,11 @@
     "val": 4
    },
    {
+    "name": "Martin Ødegaard",
+    "team": "Norway",
+    "val": 4
+   },
+   {
     "name": "Bruno Guimarães",
     "team": "Brazil",
     "val": 4
@@ -21,11 +26,6 @@
    {
     "name": "Kylian Mbappé",
     "team": "France",
-    "val": 3
-   },
-   {
-    "name": "Roberto Alvarado",
-    "team": "Mexico",
     "val": 3
    },
    {
@@ -39,6 +39,16 @@
     "val": 3
    },
    {
+    "name": "Roberto Alvarado",
+    "team": "Mexico",
+    "val": 3
+   },
+   {
+    "name": "Anthony Gordon",
+    "team": "England",
+    "val": 3
+   },
+   {
     "name": "Florian Wirtz",
     "team": "Germany",
     "val": 3
@@ -46,11 +56,6 @@
    {
     "name": "Alexander Isak",
     "team": "Sweden",
-    "val": 3
-   },
-   {
-    "name": "Martin Ødegaard",
-    "team": "Norway",
     "val": 3
    },
    {
@@ -64,13 +69,8 @@
     "val": 2
    },
    {
-    "name": "Leandro Trossard",
-    "team": "Belgium",
-    "val": 2
-   },
-   {
-    "name": "Ousmane Dembélé",
-    "team": "France",
+    "name": "Lionel Messi",
+    "team": "Argentina",
     "val": 2
    }
   ],
@@ -106,6 +106,11 @@
     "val": 2
    },
    {
+    "name": "Declan Rice",
+    "team": "England",
+    "val": 2
+   },
+   {
     "name": "Casemiro",
     "team": "Brazil",
     "val": 2
@@ -121,6 +126,11 @@
     "val": 2
    },
    {
+    "name": "Denis Zakaria",
+    "team": "Switzerland",
+    "val": 2
+   },
+   {
     "name": "Ivan Perisic",
     "team": "Croatia",
     "val": 2
@@ -131,22 +141,17 @@
     "val": 2
    },
    {
-    "name": "Declan Rice",
-    "team": "England",
-    "val": 2
-   },
-   {
     "name": "Stefan Posch",
     "team": "Austria",
-    "val": 2
-   },
-   {
-    "name": "Diego Gómez",
-    "team": "Paraguay",
     "val": 2
    }
   ],
   "red": [
+   {
+    "name": "Breel Embolo",
+    "team": "Switzerland",
+    "val": 1
+   },
    {
     "name": "Piero Hincapié",
     "team": "Ecuador",
