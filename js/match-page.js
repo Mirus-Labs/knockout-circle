@@ -34,7 +34,7 @@
   const localWhen = MF?.localKickoff({...meta, kickoffUtc:facts.kickoffUtc}) || {};
   const when = localWhen.local || [meta.date, meta.time].filter(Boolean).join(' · ') || 'Kick-off to be confirmed';
   const whenHtml = localWhen.iso
-    ? `<time datetime="${localWhen.iso}">${when}</time><span>YOUR TIME${localWhen.timeZone ? ` · ${localWhen.timeZone}` : ''}</span>${localWhen.venue ? `<small>${localWhen.venue} · venue time</small>` : ''}`
+    ? `<time datetime="${localWhen.iso}">${when}</time><span>YOUR TIME${localWhen.timeZone ? ` · ${localWhen.timeZone}` : ''}</span>`
     : `<span>${when}</span>`;
   const status = st === 'live' ? `LIVE ${sc.min}’` : st === 'finished' ? 'FULL TIME' : 'UPCOMING';
   const maxMinute = st === 'live' ? sc.min : st === 'finished' ? 90 : 0;
@@ -79,8 +79,9 @@
     <div class="im-stat-track"><i data-width="${Math.max(0,Math.min(100,s.pct))}"></i></div>
   </div>`).join('') : `<p class="im-empty im-stats-empty">Verified match statistics will appear here when available.</p>`;
 
+  const goalCount = (playerName) => events.filter((event) => event.type === 'goal' && event.name === playerName).length;
   const contributionFor = (playerName) => {
-    const goals = events.filter((event) => event.type === 'goal' && event.name === playerName).length;
+    const goals = goalCount(playerName);
     return goals ? `${goals} goal${goals === 1 ? '' : 's'} in this match` : null;
   };
   const foldName = (value) => String(value || '').normalize('NFD').replace(/\p{Diacritic}/gu,'').replace(/[^\p{L}\p{N}]/gu,'').toLowerCase();
@@ -88,11 +89,11 @@
   const playerA = ta ? verifiedPlayer(ta.st, 'a') : null;
   const playerB = tb ? verifiedPlayer(tb.st, 'b') : null;
   const players = [
-    ta && {num:playerA?.number || '', tag:`PLAYER TO WATCH · ${a}`, n:ta.st, meta:`${ta.f} ${ta.n}${playerA?.position?` · ${playerA.position}`:''}`, stat:contributionFor(ta.st) || 'Featured player', hue:42, team:a},
-    tb && {num:playerB?.number || '', tag:`PLAYER TO WATCH · ${b}`, n:tb.st, meta:`${tb.f} ${tb.n}${playerB?.position?` · ${playerB.position}`:''}`, stat:contributionFor(tb.st) || 'Featured player', hue:210, team:b},
+    ta && {side:'a', inXI:!!playerA, num:playerA?.number || '', position:playerA?.position || '', tag:`PLAYER TO WATCH · ${a}`, n:ta.st, teamName:ta.n, flag:ta.f, meta:`${ta.f} ${ta.n}${playerA?.position?` · ${playerA.position}`:''}`, goals:goalCount(ta.st), stat:contributionFor(ta.st) || 'Featured player', hue:42, team:a},
+    tb && {side:'b', inXI:!!playerB, num:playerB?.number || '', position:playerB?.position || '', tag:`PLAYER TO WATCH · ${b}`, n:tb.st, teamName:tb.n, flag:tb.f, meta:`${tb.f} ${tb.n}${playerB?.position?` · ${playerB.position}`:''}`, goals:goalCount(tb.st), stat:contributionFor(tb.st) || 'Featured player', hue:210, team:b},
   ].filter(Boolean);
   const playerLayers = players.map((p,i)=>{const photo=(D.PLAYER_IMAGES||{})[p.n];return `<div class="im-player-layer" data-player-layer="${i}" data-player-name="${p.n}" style="--h:${p.hue}"><span>${photo?.shirtNumber || p.num}</span>${photo&&photo.url?`<a href="${photo.fifaUrl||photo.page}" target="_blank" rel="noopener">${photo.fifaUrl?'View on FIFA ↗':'Photo source ↗'}</a>`:''}</div>`;}).join('');
-  const playerTexts = players.map((p,i)=>`<div class="im-player-copy" data-player-copy="${i}"><span>${p.tag}</span><h2>${p.n}</h2><strong>${p.meta}</strong><p>${p.stat}</p><button class="im-player-video" type="button" data-player-profile="${i}">View profile</button></div>`).join('');
+  const playerTexts = players.map((p,i)=>`<div class="im-player-copy" data-player-copy="${i}"><span>${p.tag}</span><h2>${p.n}</h2><strong>${p.meta}</strong><p>${p.stat}</p><button class="im-player-video" type="button" data-player-profile="${i}">Full profile ↗</button></div>`).join('');
   const playerDots = players.map((p,i)=>`<button data-player-dot="${i}" aria-label="Show ${p.n}"></button>`).join('');
 
   const lineupTeams = [
@@ -104,12 +105,38 @@
     ${side.rows.length ? `<ol>${side.rows.map(player=>`<li><b>${player.number || '–'}</b><span>${player.name}</span><small>${player.position || ''}${player.substitution ? ` · ${player.substitution}` : ''}</small></li>`).join('')}</ol>` : `<p>Verified player-by-player line-ups are not available from the current source yet.</p>`}
   </section>`).join('');
 
-  const profileMarkup = players.map((player,index)=>{const media=(D.PLAYER_IMAGES||{})[player.n]||{};const videoOk=media.videoVerified===true&&media.youtubeId;return `<article class="im-profile-card" data-profile-card="${index}" hidden>
-    <div class="im-profile-portrait" data-profile-photo="${player.n}"></div>
-    <div class="im-profile-copy"><span>${player.tag}</span><h2>${player.n}</h2><strong>${player.meta}</strong><p>${player.stat}</p>
-      ${videoOk?`<div class="im-profile-video"><iframe data-src="https://www.youtube-nocookie.com/embed/${media.youtubeId}?rel=0" title="${media.videoTitle || `${player.n} official video`}" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`:`<p class="im-media-unavailable">Official player video unavailable.</p>`}
-      ${media.page?`<a href="${media.fifaUrl||media.page}" target="_blank" rel="noopener">Portrait source ↗</a>`:''}
-    </div>
+  const bar = (label,value,pct) => `<div class="im-profile-stat"><div class="im-profile-stat-top"><span>${label}</span><b>${value}</b></div><div class="im-profile-stat-track"><i style="width:${Math.max(0,Math.min(100,pct))}%"></i></div></div>`;
+  const plain = (label,value) => `<div class="im-profile-stat im-profile-stat--plain"><span>${label}</span><b>${value}</b></div>`;
+  const teamStatBlock = (player) => {
+    const s = facts.teamStats?.[player.side];
+    const rows = [];
+    if (s) {
+      if (s.possession != null) rows.push(bar('Possession', `${s.possession}%`, +s.possession));
+      if (s.attempts != null) rows.push(plain(s.onTarget != null ? 'Shots (on target)' : 'Shots', s.onTarget != null ? `${s.attempts} (${s.onTarget})` : `${s.attempts}`));
+      if (s.xg != null) rows.push(plain('Expected goals (xG)', s.xg));
+      if (s.passCompletion != null) rows.push(bar('Pass completion', `${s.passCompletion}%`, +s.passCompletion));
+      if (s.cards != null) rows.push(plain('Cards', s.cards));
+    }
+    if (!rows.length) return `<p class="im-profile-note">Team match statistics appear once this match is under way.</p>`;
+    return `<div class="im-profile-stats"><div class="im-profile-stats-head"><span>${player.flag} ${player.teamName} · team in this match</span></div>${rows.join('')}</div>`;
+  };
+  const profileMarkup = players.map((player,index)=>{
+    const media=(D.PLAYER_IMAGES||{})[player.n]||{};
+    const videoOk=media.videoVerified===true&&media.youtubeId;
+    const shirt=media.shirtNumber || player.num || '–';
+    return `<article class="im-profile-card" data-profile-card="${index}" hidden>
+    <div class="im-profile-portrait" data-profile-photo="${player.n}">${shirt!=='–'?`<b class="im-profile-shirt">${shirt}</b>`:''}</div>
+    <div class="im-profile-copy"><div class="im-profile-copy-inner">
+      <span class="im-profile-tag">${player.tag}</span><h2>${player.n}</h2><strong class="im-profile-role">${player.meta}</strong>
+      ${player.inXI ? `<div class="im-profile-headline">
+        <div><b>${shirt}</b><span>Shirt</span></div>
+        <div><b>${player.position||'–'}</b><span>Position</span></div>
+        <div><b>${player.goals}</b><span>Goal${player.goals===1?'':'s'} · this match</span></div>
+      </div>` : `<p class="im-profile-note">Not listed in the verified starting XI for this match.</p>`}
+      ${teamStatBlock(player)}
+      ${videoOk?`<div class="im-profile-video"><iframe data-src="https://www.youtube-nocookie.com/embed/${media.youtubeId}?rel=0" title="${media.videoTitle || `${player.n} official video`}" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`:`<p class="im-profile-note">Official player video unavailable.</p>`}
+      ${media.page?`<a class="im-profile-source" href="${media.fifaUrl||media.page}" target="_blank" rel="noopener">Portrait source ↗</a>`:''}
+    </div></div>
   </article>`;}).join('');
 
   const video = highlight && embedId ? `<section class="im-video-section" aria-labelledby="highlight-title">
@@ -140,6 +167,17 @@
       </div>
     </section>
 
+    <section class="im-players"><div class="im-player-stage">
+      ${playerLayers}${playerTexts}<div class="im-player-label">KEY PLAYERS</div><div class="im-player-dots">${playerDots}</div>
+    </div></section>
+
+    <section class="im-lineups" aria-labelledby="lineups-title">
+      <div class="im-lineups-head"><span>TEAM SHEETS</span><h2 id="lineups-title">Line-ups &amp; formations</h2>${facts.reportUrl?`<a class="im-lineups-report" href="${facts.reportUrl}" target="_blank" rel="noopener">Open the official FIFA report ↗</a>`:''}</div>
+      <div class="im-lineup-tabs" role="tablist"><button type="button" class="active" data-lineup-tab="0">${name(ta)}</button><button type="button" data-lineup-tab="1">${name(tb)}</button></div>
+      <div class="im-pitch" aria-hidden="true"><span></span><i></i><b></b></div>
+      <div class="im-lineup-grid">${lineupMarkup}</div>
+    </section>
+
     <section class="im-replay" id="replay"><div class="im-replay-inner">
       <div class="im-timeline"><div class="im-label"><strong>MATCH TIMELINE</strong></div><div class="im-clock">0’</div><div class="im-events"><i class="im-event-line"></i>${eventRows}</div></div>
       <div class="im-numbers">
@@ -154,26 +192,12 @@
       </div>
     </div></section>
     ${video}
-    <section class="im-players"><div class="im-player-stage">
-      ${playerLayers}${playerTexts}<div class="im-player-label">KEY PLAYERS</div><div class="im-player-dots">${playerDots}</div>
-    </div></section>
-    <section class="im-lineup-invite" aria-labelledby="lineup-invite-title">
-      <span>TEAM SHEETS</span><h2 id="lineup-invite-title">Explore the line-ups</h2><p>Formations and verified squad details, kept separate from the match story.</p>
-      <button type="button" data-open-lineups>Explore line-ups</button>
-      ${facts.reportUrl?`<a href="${facts.reportUrl}" target="_blank" rel="noopener">Open the official FIFA report ↗</a>`:''}
-    </section>
     <section class="im-stakes">
       <span>WHAT’S AT STAKE</span><h2>Winner claims</h2><h3>${stake}</h3><p>${key === 'final' ? 'One match from immortality.' : `The road continues through the ${D.ROUNDS[ri+1].name} — then the final.`}</p>
       <a href="index.html#circle">‹ BACK TO THE BRACKET</a>
     </section>
     <div class="im-dialog" data-profile-dialog role="dialog" aria-modal="true" aria-labelledby="profile-dialog-title" hidden>
       <div class="im-dialog-shell"><div class="im-dialog-head"><span id="profile-dialog-title">KEY PLAYER PROFILE</span><button type="button" data-close-dialog aria-label="Close player profile">Close ×</button></div>${profileMarkup}</div>
-    </div>
-    <div class="im-dialog" data-lineup-dialog role="dialog" aria-modal="true" aria-labelledby="lineup-dialog-title" hidden>
-      <div class="im-dialog-shell im-lineup-shell"><div class="im-dialog-head"><span id="lineup-dialog-title">LINE-UPS & FORMATIONS</span><button type="button" data-close-dialog aria-label="Close line-ups">Close ×</button></div>
-        <div class="im-lineup-tabs" role="tablist"><button type="button" class="active" data-lineup-tab="0">${name(ta)}</button><button type="button" data-lineup-tab="1">${name(tb)}</button></div>
-        <div class="im-pitch" aria-hidden="true"><span></span><i></i><b></b></div><div class="im-lineup-grid">${lineupMarkup}</div>
-      </div>
     </div>`;
 
   // Assign remote media through the CSSOM so punctuation in Wikimedia URLs
@@ -236,8 +260,6 @@
     if (frame) frame.src = frame.dataset.src;
     openDialog(dialog, button);
   }));
-  const lineupTrigger = q('[data-open-lineups]');
-  lineupTrigger?.addEventListener('click', () => openDialog(q('[data-lineup-dialog]'), lineupTrigger));
   qa('[data-close-dialog]').forEach((button) => button.addEventListener('click', () => closeDialog(button.closest('.im-dialog'))));
   qa('.im-dialog').forEach((dialog) => dialog.addEventListener('click', (event) => {
     if (event.target === dialog) closeDialog(dialog);

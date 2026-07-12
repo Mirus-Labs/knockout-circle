@@ -25,12 +25,12 @@ export function localKickoff(meta = {}, options = {}) {
     try {
       return new Intl.DateTimeFormat(locale, {
         timeZone: zone, weekday: 'short', month: 'short', day: 'numeric',
-        hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+        hour: 'numeric', minute: '2-digit', hour12: true, timeZoneName: 'short',
       }).format(date);
     } catch {
       return new Intl.DateTimeFormat(locale, {
         timeZone: 'UTC', weekday: 'short', month: 'short', day: 'numeric',
-        hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+        hour: 'numeric', minute: '2-digit', hour12: true, timeZoneName: 'short',
       }).format(date);
     }
   };

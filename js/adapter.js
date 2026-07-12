@@ -250,7 +250,7 @@
     catch (err) { console.warn('KC adapter: overlays skipped.', err); }
     const detailPage = document.body.dataset.page === 'match';
     if (detailPage) {
-      try { window.KC_MATCH_FACTS = await import('./match-facts.mjs?v=1'); }
+      try { window.KC_MATCH_FACTS = await import('./match-facts.mjs?v=2'); }
       catch (err) { console.warn('KC match facts unavailable.', err); }
     }
     await loadScript('js/tournament.js?v=5');
@@ -262,7 +262,7 @@
       ]);
     }
     const scripts = detailPage
-      ? ['js/match-page.js?v=13']
+      ? ['js/match-page.js?v=14']
       : ['js/app.js?v=11', 'js/fx.js?v=8', 'js/zoom.js?v=5'];
     for (const src of scripts) await loadScript(src);
   })();
