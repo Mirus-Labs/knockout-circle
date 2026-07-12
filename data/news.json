@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T22:10:24.040Z",
+ "updated": "2026-07-12T22:27:26.712Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -42,43 +42,44 @@
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-norway-jude-bellingham_7295597.jpg?20260712001346"
   },
   {
+   "cat": "UEFA.COM",
+   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
+   "iso": "2026-07-12T21:25:48.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
+   "lede": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results &nbsp;&nbsp; UEFA.com",
+   "emoji": "🌎",
+   "bg": "#1f4b7a",
+   "image": "https://editorial.uefa.com/resources/02a7-2115cfc47644-5b50f05fb766-1000/norway_v_england_quarter_final_-_fifa_world_cup_2026.jpeg"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 bracket and knockout fixtures - who's facing who in the semi-finals and route to final",
+   "iso": "2026-07-12T21:14:16.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final",
+   "lede": "World Cup 2026 bracket and knockout fixtures - who's facing who in the semi-finals and route to final &nbsp;&nbsp; Sky Sports",
+   "emoji": "🎯",
+   "bg": "#0c5c2e",
+   "image": "https://e0.365dm.com/26/06/1600x900/skysports-world-cup-2026-bracket_7280764.jpg?20260623105714"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England",
+   "iso": "2026-07-12T20:59:59.000Z",
+   "link": "https://www.skysports.com/football/news/12098/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
+   "lede": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England &nbsp;&nbsp; Sky Sports",
+   "emoji": "📣",
+   "bg": "#5b2d6b",
+   "image": "https://e0.365dm.com/25/12/1600x900/skysports-world-cup-trophy_7105535.jpg?20251209123529"
+  },
+  {
    "cat": "AL JAZEERA",
    "title": "Watch World Cup: England beat Norway to set up semifinal against Argentina",
    "iso": "2026-07-12T20:56:20.000Z",
    "link": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights",
    "lede": "Watch World Cup: England beat Norway to set up semifinal against Argentina &nbsp;&nbsp; Al Jazeera",
-   "emoji": "🌎",
-   "bg": "#1f4b7a",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260711__B9XL2YT__v1__HighRes__FblWc2026Match99NorEng-1783844964.jpg?resize=1920%2C1440"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse",
-   "iso": "2026-07-12T20:53:37.000Z",
-   "link": "https://www.foxsports.com/stories/soccer/world-cup-college-football-france-ohio-state-spain-georgia-england-texas-argentina-alabama",
-   "lede": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse &nbsp;&nbsp; FOX Sports",
-   "emoji": "🎯",
-   "bg": "#0c5c2e",
-   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/artboard-1-78.jpg?ve=1&tl=1"
-  },
-  {
-   "cat": "ESPN",
-   "title": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup",
-   "iso": "2026-07-12T20:45:00.000Z",
-   "link": "https://www.espn.com/soccer/story/_/id/49345374/gianni-infantino-fifa-examine-64-team-world-cup-expansion",
-   "lede": "Gianni Infantino says FIFA will examine possibility of 64-team World Cup &nbsp;&nbsp; ESPN",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Scaloni plays down Argentina and England history: ‘A football game and that is all’",
-   "iso": "2026-07-12T20:42:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-lionel-scaloni-england-semi-final",
-   "lede": "Scaloni plays down Argentina and England history: ‘A football game and that is all’ &nbsp;&nbsp; The Guardian",
    "emoji": "🧤",
    "bg": "#2f5d2a",
-   "image": "https://i.guim.co.uk/img/media/806c112ae832eeedd5c5437d256c6253a42f0586/214_0_2355_1884/master/2355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81e3a2e3360699f7f2e283274f5a0b0f"
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260711__B9XL2YT__v1__HighRes__FblWc2026Match99NorEng-1783844964.jpg?resize=1920%2C1440"
   }
  ]
 }
