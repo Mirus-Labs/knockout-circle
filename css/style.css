@@ -1496,9 +1496,8 @@ body.kc-staged #bg3d { opacity: .28; }
 .im-stadium-credit:hover { color:#F6DD9A; }
 
 .im-replay { background:#080706; }
-.im-replay-inner { min-height:100svh;display:flex;justify-content:center;align-items:flex-start;padding:clamp(60px,8vw,110px) clamp(18px,6vw,80px); }
-.im-timeline { flex:1 1 auto;width:100%;max-width:680px; }
-.im-numbers { flex:1 1 340px;max-width:620px; }
+.im-replay-inner { display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:clamp(28px,5vw,72px);padding:clamp(60px,8vw,110px) clamp(18px,6vw,80px); }
+.im-timeline,.im-numbers { flex:1 1 340px;max-width:620px; }
 .im-label { display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap; }
 .im-label strong { font:700 13px var(--font-display);letter-spacing:.26em;color:#9a8f73; }
 .im-label span { font:500 clamp(12px,1.4vw,14px) var(--font-body);color:#8d8472; }

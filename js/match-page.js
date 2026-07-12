@@ -59,6 +59,25 @@
     <span>${e.minute}’</span><i>${e.icon}</i><strong>${e.name}${e.penalty?' (pen)':''}${e.owngoal?' (og)':''}${e.detail&&e.detail!==e.name?`<small>${e.detail}</small>`:''}</strong><b>${e.code && T[e.code] ? T[e.code].f : '⚽'}</b>
   </div>`).join('') : `<p class="im-empty">${st === 'upcoming' ? 'The timeline begins at kick-off.' : 'No goals recorded in this match.'}</p>`;
 
+  const actualStats = facts.teamStats;
+  const statConfig = [
+    ['possession','POSSESSION %'], ['attempts','ATTEMPTS · ON TARGET'],
+    ['xg','EXPECTED GOALS'], ['passCompletion','PASS COMPLETION %'], ['cards','CARDS'],
+  ];
+  const stats = actualStats ? statConfig.map(([field,label]) => {
+    const va=actualStats.a?.[field], vb=actualStats.b?.[field];
+    if (va == null || vb == null) return null;
+    const total=(+va||0)+(+vb||0);
+    return {
+      label,va:field==='attempts'?`${va} (${actualStats.a?.onTarget ?? '–'})`:va,
+      vb:field==='attempts'?`${vb} (${actualStats.b?.onTarget ?? '–'})`:vb,
+      pct:total ? (+va/total)*100 : 50,
+    };
+  }).filter(Boolean).slice(0,5) : [];
+  const statRows = stats.length ? stats.map(s => `<div class="im-stat">
+    <div><strong>${s.va}</strong><span>${s.label}</span><strong>${s.vb}</strong></div>
+    <div class="im-stat-track"><i style="width:${Math.max(0,Math.min(100,s.pct))}%"></i></div>
+  </div>`).join('') : `<p class="im-empty im-stats-empty">Verified match statistics will appear here when available.</p>`;
 
   const goalCount = (playerName) => events.filter((event) => event.type === 'goal' && event.name === playerName).length;
   const contributionFor = (playerName) => {
@@ -192,6 +211,7 @@
 
   const next = key === 'final' ? null : KC.nextInfo(key, idx);
   const stake = key === 'final' ? 'The World Cup' : (next && next.oppLabel ? next.oppLabel : `A place in the ${D.ROUNDS[ri+1].name}`);
+  const deciding = st === 'finished' ? MF?.decidingFact(facts.teamStats) : null;
   document.title = `${name(ta)} vs ${name(tb)} — Knockout Immersive`;
   root.innerHTML = `
     <section class="im-hero">
@@ -220,7 +240,17 @@
     </section>
 
     <section class="im-replay" id="replay"><div class="im-replay-inner">
-      <div class="im-timeline"><div class="im-label"><strong>MATCH TIMELINE</strong></div><div class="im-clock">0’</div><div class="im-events"><i class="im-event-line"></i>${eventRows}</div></div>
+      <div class="im-timeline"><div class="im-label"><strong>MATCH TIMELINE</strong></div><div class="im-clock">${maxMinute}’</div><div class="im-events"><i class="im-event-line"></i>${eventRows}</div></div>
+      <div class="im-numbers">
+        <div class="im-label"><strong>THE NUMBERS</strong></div>
+        <div class="im-stat-teams" aria-label="Statistics compare ${name(ta)} on the left with ${name(tb)} on the right">
+          <span><b>${flag(ta)} ${name(ta)}</b></span>
+          <i>VS</i>
+          <span><b>${name(tb)} ${flag(tb)}</b></span>
+        </div>
+        ${statRows}
+        ${deciding?`<aside class="im-decision"><span>WHAT DECIDED IT</span><p>${deciding}</p></aside>`:''}
+      </div>
     </div></section>
 
     <section class="im-players"><div class="im-player-stage">
@@ -383,23 +413,13 @@
     else gsap.set('.im-hero-top > *, .im-hero-center > *',{clearProps:'all',opacity:1});
     if (!reduced && fine) addEventListener('mousemove',e=>gsap.to('[data-hero-score]',{x:(e.clientX/innerWidth-.5)*26,y:(e.clientY/innerHeight-.5)*14,duration:.6}),{passive:true});
     gsap.to('#imProgress',{scaleX:1,ease:'none',scrollTrigger:{start:0,end:'max',scrub:.3}});
-    const replay=gsap.timeline({scrollTrigger:{trigger:'.im-replay',start:'top top',end:'+=1500',scrub:.4,pin:!reduced}});
-    const clock={v:0};
-    const eventEls=qa('.im-event');
-    replay.to(clock,{v:maxMinute,duration:1,ease:'none',onUpdate:()=>{
-      const minute=Math.round(clock.v);q('.im-clock').textContent=minute+'’';
-      eventEls.forEach(e=>e.classList.toggle('active',+e.dataset.minute<=minute));
-    }},0).to('.im-event-line',{scaleY:1,duration:1,ease:'none'},0);
-    qa('.im-stat').forEach(row=>{
-      const bar=row.querySelector('i'); gsap.to(bar,{width:bar.dataset.width+'%',duration:1.2,ease:'power3.out',scrollTrigger:{trigger:row,start:'top 82%'}});
-      row.querySelectorAll('[data-target]').forEach(el=>{const raw=el.dataset.target,to=+raw,o={v:0};gsap.to(o,{v:to,duration:1.2,scrollTrigger:{trigger:row,start:'top 82%'},onUpdate:()=>el.textContent=raw.includes('.')?o.v.toFixed(2):Math.round(o.v)});});
-    });
     if (!reduced) gsap.from('.im-player-label, .im-player-dots',{y:30,opacity:0,duration:.7,ease:'power3.out',scrollTrigger:{trigger:'.im-players',start:'top 74%'}});
     gsap.from('.im-stakes > *:not(footer)',{y:70,opacity:0,stagger:.1,duration:.9,ease:'power3.out',scrollTrigger:{trigger:'.im-stakes',start:'top 72%'}});
     ScrollTrigger.refresh();
   } else {
     q('#imProgress').style.display='none';
-    qa('.im-stat i').forEach(e=>e.style.width=e.dataset.width+'%');
-    qa('[data-target]').forEach(e=>e.textContent=e.dataset.target);
   }
+  // Match timeline + numbers are shown in full, without any scroll scrubbing.
+  qa('.im-event').forEach(e=>e.classList.add('active'));
+  const eline=q('.im-event-line'); if (eline) eline.style.transform='scaleY(1)';
 })();

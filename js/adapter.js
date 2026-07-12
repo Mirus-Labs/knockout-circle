@@ -265,7 +265,7 @@
       ]);
     }
     const scripts = detailPage
-      ? ['js/match-page.js?v=15']
+      ? ['js/match-page.js?v=16']
       : ['js/app.js?v=11', 'js/fx.js?v=8', 'js/zoom.js?v=5'];
     for (const src of scripts) await loadScript(src);
   })();
