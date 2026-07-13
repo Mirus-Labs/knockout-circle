@@ -1,15 +1,55 @@
 {
- "updated": "2026-07-13T10:44:23.480Z",
+ "updated": "2026-07-13T11:39:36.687Z",
  "news": [
+  {
+   "cat": "DAZN",
+   "title": "Argentina kick off England mind games with 'special request' for semi-final",
+   "iso": "2026-07-13T11:10:00.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/fifa-world-cup-2026-england-argentina-semi-final-special-request-away-shirt-maradona/1pu7aoidpdfjm14lizxtoyn41o",
+   "lede": "Just four teams remain in the World Cup, with the semi-finals taking place on Tuesday and Wednesday. The second of these matches will come from the Atlanta Stadium, where rivals England and Argentina will meet in a match which has been 21 years in the making. This fixture will finally see Lionel Messi face England for the first, and more than likely only time in his international career. The match is already bringing back memories of past World Cup encounters at the 1986, 1998 and 2002 editions of the tournament, with Argentina winning two of them.",
+   "image": "https://images.daznservices.com/di/library/DAZN_News/9f/96/argentina-messi-celebrating-against-jordan22062026_1uh6q2t25i92a1ukxby4yjvl4z.jpg?t=1562887807",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: France, Spain, England & Argentina statistical analysis",
+   "iso": "2026-07-13T11:05:25.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cx2k9qj2nyvo",
+   "lede": "Will Kylian Mbappe make his third World Cup final for France? With Argentina, England, France and Spain just two games from glory, we compare how the four semi-finalists have performed so far to get an idea of who could lift the World Cup this weekend. While all the teams have played six games, Argentina have played an hour of football more than France and Spain thanks to games going to extra time (and England half an hour more), so we've taken playing time into account to get the true picture of the statistics. Although reigning champions Argentina have scored the most goals (17), two-time World Cup winners France have been the best side going forward overall as they've averaged the most goals, joint-most shots and highest Expected Goals per 90 minutes.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9070/live/35b6c750-7e3a-11f1-9abb-e3440c15eda8.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "ESPN",
+   "title": "World Cup 2026 today: Live updates, latest news as heavyweights prep for semifinals - July 13",
+   "iso": "2026-07-13T11:03:45.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/49348219/world-cup-2026-today-blog-13-07-2026-live-updates-news-fixtures-schedule-results-spain-france-england-argentina",
+   "lede": "We're entering the final week of the World Cup, and as the four remaining teams prepare for their semifinals, you can follow all the latest news throughout the day right here, with ESPN. Only Spain, France, England and Argentina remain ahead of Tuesday and Wednesday's semifinals. All four will play two more matches each -- whether their second matches will be the final or the third-place playoff remains to be seen. Spain at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups.",
+   "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0701%2Fr1682586_1296x729_16%2D9.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
-   "iso": "2026-07-13T10:32:25.000Z",
+   "iso": "2026-07-13T10:52:20.000Z",
    "link": "https://www.skysports.com/football/news/11095/13561909/world-cup-2026-argentina-xx-switzerland",
    "lede": "Julian Alvarez scored an extra-time stunner as Argentina beat 10-man Switzerland 3-1 and set up a mouth-watering World Cup semi-final clash with England. Lionel Messi and Co will face the Three Lions in Atlanta on Wednesday at 8pm UK time, with a place in the final against either France or Spain on the line. It will be the first competitive meeting between the nations in 24 years. Alexis Mac Allister was twice left unmarked at a corner - and the second time he punished them, by guiding in a header in after being picked out by Messi.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-julian-alvarez-argentina_7295649.jpg?20260712045203",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "World Cup 2026 TV schedule: How to watch every knockout game live in the UK",
+   "iso": "2026-07-13T10:10:58.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup-2026-tv-schedule-bbc-itv-knockouts-b3013140.html",
+   "lede": "The last-32 matches are all free-to-air on the BBC and ITV. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/07/01/10/2283367115..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "HINDUSTAN TIMES",
@@ -18,66 +58,26 @@
    "link": "https://www.hindustantimes.com/sports/football/how-fifa-world-cup-2026-is-fuelling-indias-growing-football-obsession-101783876371978.html",
    "lede": "The FIFA World Cup 2026 is reaching the business end, and the semi-finals are upon us. Throughout the 48-team tournament, one has seen massive fan frenzy in India, and the question remains: How long will it take for India to make it to the tournament? The national team might be struggling, but one cannot deny that the sport has a huge market in India, and the viewership numbers are proof.",
    "image": "https://www.hindustantimes.com/ht-img/img/2026/07/12/550x309/SOCCER-WORLDCUP-ESP--30_1783876706417_1783876718800_19a86e51-09ca-4449-a136-4797af7cf6f7.JPG",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Which team are you backing to win the World Cup?",
-   "iso": "2026-07-13T10:00:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/229964/question-of-the-day-if-you-had-to-pick-one-which-team-are-you-backing-to-win-the-world-cup-france-spain-england-or-argentina",
-   "lede": "Leave your soul at the door, it is about to get dirty in here. The 2026 World Cup is down to its final four, and it is difficult to remember a semifinal field this loaded with talent. France, Spain, England, and Argentina have all navigated a grueling tournament to reach this point, and each has a legitimate case for lifting the trophy. That brings us to today’s question: If you had to pick one, which team are you backing to win the World Cup—France, Spain, England, or Argentina?",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285125773.jpg?quality=90&strip=all&crop=0%2C10.738532832929%2C100%2C78.522934334142&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup semi-final predictions: Chris Sutton predicts France v Spain and England v Argentina",
-   "iso": "2026-07-13T09:55:54.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro",
-   "lede": "We are down to the final four but which of the teams left in the 2026 World Cup will make it to the final at MetLife Stadium, near New York City, on Sunday? \"The semi-final between France and Spain should be the final based on what I've seen,\" said BBC Sport football expert Chris Sutton. \"Spain are the best footballing side in terms of the way they play and control games, while France have the firepower and the flair. \"In the other half of the draw, England have not been anywhere near their best.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "ESPN",
-   "title": "World Cup 2026 today: Live updates, latest news as heavyweights prep for semifinals - July 13",
-   "iso": "2026-07-13T09:34:31.000Z",
-   "link": "https://www.espn.co.uk/football/story/_/id/49348219/world-cup-2026-today-blog-13-07-2026-live-updates-news-fixtures-schedule-results-spain-france-england-argentina",
-   "lede": "We're entering the final week of the World Cup, and as the four remaining teams prepare for their semifinals, you can follow all the latest news throughout the day right here, with ESPN. Only Spain, France, England and Argentina remain ahead of Tuesday and Wednesday's semifinals. All four will play two more matches each -- whether their second matches will be the final or the third-place playoff remains to be seen. Spain at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups.",
-   "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688576_1296x729_16%2D9.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SOUTH CHINA MORNING POST",
-   "title": "Fan Zhendong set for commentating debut during World Cup final on Chinese site",
-   "iso": "2026-07-13T09:29:01.000Z",
-   "link": "https://www.scmp.com/sport/football/article/3360380/fan-zhendong-set-commentating-debut-during-fifa-world-cup-final-chinese-site",
-   "lede": "Table tennis superstar Fan Zhendong is expected to make his debut as a Fifa World Cup commentator after news emerged online that the Olympic champion would make a guest appearance during the final on Monday. On Sunday night, Chinese football commentator Zhan Jun revealed that he and fellow pundit Zhang Lu would be providing commentary on the World Cup final on Chinese music platform Migu alongside Fan and professional footballer Wu Lei. Zhan had since deleted the post and said specific arrangements were still pending an official announcement from the platform. Still, the internet exploded over the news, which became a trending topic on Weibo overnight, with fans even calling Fan’s presence the “biggest highlight” of the tournament.",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/13/70d2d056-c8ba-4d80-91b2-143c1e4e5580_16811a8e.jpg?itok=Gnf4K0pd&v=1783934940",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "UEFA.COM",
-   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
-   "iso": "2026-07-13T09:10:40.000Z",
-   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
-   "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 4-2 vs Croatia (Dallas) Tuesday 23 June: D 0-0 vs Ghana (Boston) Saturday 27 June: W 2-0 vs Panama (New York) Wednesday 1 July (R32): W 2-1 vs DR Congo (Atlanta) Monday 6 July (R16): W 3-2 vs Mexico (Mexico City) Saturday 11 July (QF): W 2-1 aet vs Norway (Miami) Wednesday 15 July (SF): vs Argentina (Atlanta, 21:00).",
-   "image": "https://editorial.uefa.com/resources/02a7-2115cfc47644-5b50f05fb766-1000/norway_v_england_quarter_final_-_fifa_world_cup_2026.jpeg",
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 Golden Boot race: Lionel Messi, Kylian Mbappe, Harry Kane and Jude Bellingham in epic battle",
+   "iso": "2026-07-13T10:04:35.000Z",
+   "link": "https://www.skysports.com/football/news/12098/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle",
+   "lede": "Jude Bellingham has entered the race for the World Cup Golden Boot after striking twice against Norway to send England into the semi-finals. Kylian Mbappe and Lionel Messi lead the way on eight World Cup goals this summer. Knocked-out Erling Haaland scored seven, while Harry Kane and Bellingham lead the chase behind with six apiece. The superstars are delivering on the biggest stage of them all and are setting a blistering pace in the race to be the tournament's top goalscorer in the USA, Canada and Mexico.",
+   "image": "https://e0.365dm.com/26/06/1600x900/skysports-messi-mbappe-haaland_7280812.png?20260623114420",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England",
-   "iso": "2026-07-13T09:06:01.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
-   "lede": "Here's your day-by-day breakdown of the 48-team, 37-day World Cup, which has entered the knockout stages ahead of the final on July 19. All the kick-offs for the 2026 World Cup are listed in UK time. Plot who will lift the trophy...",
-   "image": "https://e0.365dm.com/25/12/1600x900/skysports-world-cup-trophy_7105535.jpg?20251209123529",
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-13T10:02:57.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time and will have an eye on the gold medals at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I ahead of Norway, Senegal and Iraq to reach the knockout phase. They then beat Sweden in the round of 32, Paraguay in the last 16 and Morocco in the quarter-finals.",
+   "image": "https://editorial.uefa.com/resources/02a7-211193438171-4425f300fed7-1000/fbl-wc-2026-match97-fra-mar.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
