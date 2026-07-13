@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T22:14:20.615Z",
+ "updated": "2026-07-13T23:16:32.790Z",
  "source": "FIFA YouTube",
  "sourceUrl": "https://www.youtube.com/playlist?list=PLBRLtDhTHh5o",
  "matches": {
@@ -8,23 +8,28 @@
    "youtubeId": "zZxxDbLxEi4",
    "youtubeUrl": "https://www.youtube.com/watch?v=zZxxDbLxEi4"
   },
-  "England|Norway": {
-   "title": "Highlights | Norway 1-2 England | FIFA World Cup 2026™",
-   "youtubeId": "PnFUiq8m9os",
-   "youtubeUrl": "https://www.youtube.com/watch?v=PnFUiq8m9os",
-   "embedYoutubeId": "bJDOZzqT4pw",
-   "embedTitle": "England 2-1 Norway | Full Match Highlights & All Goals | International Friendly 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=bJDOZzqT4pw",
+  "Colombia|Switzerland": {
+   "title": "Highlights | Switzerland (4)0-0(3) Colombia",
+   "youtubeId": "pZ1Fh5Dnk3U",
+   "youtubeUrl": "https://www.youtube.com/watch?v=pZ1Fh5Dnk3U"
+  },
+  "Belgium|USA": {
+   "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™",
+   "youtubeId": "b5HCJV5DFnw",
+   "youtubeUrl": "https://www.youtube.com/watch?v=b5HCJV5DFnw",
+   "embedYoutubeId": "maI8O3Kbh5Y",
+   "embedTitle": "USA 1-4 Belgium | Extended Highlights & All Goals | Belgium DOMINATES USA",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=maI8O3Kbh5Y",
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "France|Morocco": {
-   "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
-   "youtubeId": "Lfo49ZbV4WU",
-   "youtubeUrl": "https://www.youtube.com/watch?v=Lfo49ZbV4WU",
-   "embedYoutubeId": "PUqSQ1gGWAY",
-   "embedTitle": "FRANCE 2-0 MOROCCO Highlights & All Goals | France Reach World Cup 2026 Semi-Finals",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=PUqSQ1gGWAY",
+  "Argentina|Egypt": {
+   "title": "Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™",
+   "youtubeId": "-LHb5yN-OzI",
+   "youtubeUrl": "https://www.youtube.com/watch?v=-LHb5yN-OzI",
+   "embedYoutubeId": "BE_ErCFdKW4",
+   "embedTitle": "Argentina 3-2 Egypt | Full Match Highlights & All Goals | FIFA World Cup 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=BE_ErCFdKW4",
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
@@ -48,28 +53,23 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "Argentina|Egypt": {
-   "title": "Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™",
-   "youtubeId": "-LHb5yN-OzI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=-LHb5yN-OzI",
-   "embedYoutubeId": "BE_ErCFdKW4",
-   "embedTitle": "Argentina 3-2 Egypt | Full Match Highlights & All Goals | FIFA World Cup 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=BE_ErCFdKW4",
+  "England|Norway": {
+   "title": "Highlights | Norway 1-2 England | FIFA World Cup 2026™",
+   "youtubeId": "PnFUiq8m9os",
+   "youtubeUrl": "https://www.youtube.com/watch?v=PnFUiq8m9os",
+   "embedYoutubeId": "bJDOZzqT4pw",
+   "embedTitle": "England 2-1 Norway | Full Match Highlights & All Goals | International Friendly 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=bJDOZzqT4pw",
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "Colombia|Switzerland": {
-   "title": "Highlights | Switzerland (4)0-0(3) Colombia",
-   "youtubeId": "pZ1Fh5Dnk3U",
-   "youtubeUrl": "https://www.youtube.com/watch?v=pZ1Fh5Dnk3U"
-  },
-  "Belgium|USA": {
-   "title": "Highlights | USA 1-4 Belgium | FIFA World Cup 2026™",
-   "youtubeId": "b5HCJV5DFnw",
-   "youtubeUrl": "https://www.youtube.com/watch?v=b5HCJV5DFnw",
-   "embedYoutubeId": "maI8O3Kbh5Y",
-   "embedTitle": "USA 1-4 Belgium | Extended Highlights & All Goals | Belgium DOMINATES USA",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=maI8O3Kbh5Y",
+  "France|Morocco": {
+   "title": "Highlights | France 2-0 Morocco | FIFA World Cup 2026™",
+   "youtubeId": "Lfo49ZbV4WU",
+   "youtubeUrl": "https://www.youtube.com/watch?v=Lfo49ZbV4WU",
+   "embedYoutubeId": "PUqSQ1gGWAY",
+   "embedTitle": "FRANCE 2-0 MOROCCO Highlights & All Goals | France Reach World Cup 2026 Semi-Finals",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=PUqSQ1gGWAY",
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
@@ -83,10 +83,45 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
+  "Brazil|Norway": {
+   "title": "Highlights | Brazil 1-2 Norway | FIFA World Cup 2026™",
+   "youtubeId": "42ovN5rW79U",
+   "youtubeUrl": "https://www.youtube.com/watch?v=42ovN5rW79U",
+   "embedYoutubeId": "JL8XytG4LYc",
+   "embedTitle": "Brazil 1-2 Norway | Full Match Highlights & All Goals | FIFA World Cup 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=JL8XytG4LYc",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  },
+  "Australia|Egypt": {
+   "title": "Highlights | Australia (2)1-1(4) Egypt | FIFA World Cup 2026™",
+   "youtubeId": "olBx2GK7kZI",
+   "youtubeUrl": "https://www.youtube.com/watch?v=olBx2GK7kZI"
+  },
+  "France|Paraguay": {
+   "title": "Highlights | Paraguay 0-1 France | FIFA World Cup 2026™",
+   "youtubeId": "4HZCeb88uSI",
+   "youtubeUrl": "https://www.youtube.com/watch?v=4HZCeb88uSI",
+   "embedYoutubeId": "LkG4zKvLV2c",
+   "embedTitle": "Paraguay 0-1 France | Extended Highlights & All Goals | FIFA World Cup 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=LkG4zKvLV2c",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  },
   "Colombia|Ghana": {
    "title": "Highlights | Colombia 1-0 Ghana | FIFA World Cup 2026™",
    "youtubeId": "I43WUQJFfCw",
    "youtubeUrl": "https://www.youtube.com/watch?v=I43WUQJFfCw"
+  },
+  "Argentina|Cape Verde": {
+   "title": "Highlights | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
+   "youtubeId": "hzvEZ2Vxb94",
+   "youtubeUrl": "https://www.youtube.com/watch?v=hzvEZ2Vxb94",
+   "embedYoutubeId": "3LwvDNFXBsQ",
+   "embedTitle": "Argentina 3-2 Cape Verde | Highlights & All Goals | Thrilling Victory",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=3LwvDNFXBsQ",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
   "Algeria|Switzerland": {
    "title": "Highlights | Switzerland 2-0 Algeria | FIFA World Cup 2026™",
@@ -103,55 +138,20 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "Brazil|Norway": {
-   "title": "Highlights | Brazil 1-2 Norway | FIFA World Cup 2026™",
-   "youtubeId": "42ovN5rW79U",
-   "youtubeUrl": "https://www.youtube.com/watch?v=42ovN5rW79U",
-   "embedYoutubeId": "JL8XytG4LYc",
-   "embedTitle": "Brazil 1-2 Norway | Full Match Highlights & All Goals | FIFA World Cup 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=JL8XytG4LYc",
+  "Morocco|Netherlands": {
+   "title": "Highlights | Netherlands (2)1-1(3) Morocco | FIFA World Cup 2026™",
+   "youtubeId": "vdnhUnGHwco",
+   "youtubeUrl": "https://www.youtube.com/watch?v=vdnhUnGHwco",
+   "embedYoutubeId": "N9cYKxcX1UY",
+   "embedTitle": "NETHERLANDS 1 (2)–1 (3) MOROCCO | Morocco Win on Penalties! Full Match Highlights & Penalty Shootout",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=N9cYKxcX1UY",
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "France|Paraguay": {
-   "title": "Highlights | Paraguay 0-1 France | FIFA World Cup 2026™",
-   "youtubeId": "4HZCeb88uSI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=4HZCeb88uSI",
-   "embedYoutubeId": "LkG4zKvLV2c",
-   "embedTitle": "Paraguay 0-1 France | Extended Highlights & All Goals | FIFA World Cup 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=LkG4zKvLV2c",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
-  "Argentina|Cape Verde": {
-   "title": "Highlights | Argentina 3-2 Cabo Verde | FIFA World Cup 2026™",
-   "youtubeId": "hzvEZ2Vxb94",
-   "youtubeUrl": "https://www.youtube.com/watch?v=hzvEZ2Vxb94",
-   "embedYoutubeId": "3LwvDNFXBsQ",
-   "embedTitle": "Argentina 3-2 Cape Verde | Highlights & All Goals | Thrilling Victory",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=3LwvDNFXBsQ",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
-  "Australia|Egypt": {
-   "title": "Highlights | Australia (2)1-1(4) Egypt | FIFA World Cup 2026™",
-   "youtubeId": "olBx2GK7kZI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=olBx2GK7kZI"
-  },
-  "Bosnia And Herzegovina|USA": {
-   "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
-   "youtubeId": "SGQpzA9qcwk",
-   "youtubeUrl": "https://www.youtube.com/watch?v=SGQpzA9qcwk"
-  },
-  "Ecuador|Mexico": {
-   "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
-   "youtubeId": "t-miz8tN7Qw",
-   "youtubeUrl": "https://www.youtube.com/watch?v=t-miz8tN7Qw"
-  },
-  "Belgium|Senegal": {
-   "title": "Highlights | Belgium 3-2 Senegal | FIFA World Cup 2026™",
-   "youtubeId": "PsPQkfngzV8",
-   "youtubeUrl": "https://www.youtube.com/watch?v=PsPQkfngzV8"
+  "Austria|Spain": {
+   "title": "Highlights | Spain 3-0 Austria | FIFA World Cup 2026™",
+   "youtubeId": "p_j4aMfNQyI",
+   "youtubeUrl": "https://www.youtube.com/watch?v=p_j4aMfNQyI"
   },
   "France|Sweden": {
    "title": "Highlights | France 3-0 Sweden | FIFA World Cup 2026™",
@@ -163,65 +163,30 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "Morocco|Netherlands": {
-   "title": "Highlights | Netherlands (2)1-1(3) Morocco | FIFA World Cup 2026™",
-   "youtubeId": "vdnhUnGHwco",
-   "youtubeUrl": "https://www.youtube.com/watch?v=vdnhUnGHwco",
-   "embedYoutubeId": "N9cYKxcX1UY",
-   "embedTitle": "NETHERLANDS 1 (2)–1 (3) MOROCCO | Morocco Win on Penalties! Full Match Highlights & Penalty Shootout",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=N9cYKxcX1UY",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  "Ivory Coast|Norway": {
+   "title": "Highlights | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
+   "youtubeId": "ATzmoebQMj0",
+   "youtubeUrl": "https://www.youtube.com/watch?v=ATzmoebQMj0"
+  },
+  "Ecuador|Mexico": {
+   "title": "Highlights | Mexico 2-0 Ecuador |FIFA World Cup 2026™",
+   "youtubeId": "t-miz8tN7Qw",
+   "youtubeUrl": "https://www.youtube.com/watch?v=t-miz8tN7Qw"
+  },
+  "Belgium|Senegal": {
+   "title": "Highlights | Belgium 3-2 Senegal | FIFA World Cup 2026™",
+   "youtubeId": "PsPQkfngzV8",
+   "youtubeUrl": "https://www.youtube.com/watch?v=PsPQkfngzV8"
   },
   "Croatia|Portugal": {
    "title": "Highlights | Portugal 2-1 Croatia | FIFA World Cup 2026™",
    "youtubeId": "jxU1VT5YXXE",
    "youtubeUrl": "https://www.youtube.com/watch?v=jxU1VT5YXXE"
   },
-  "Ivory Coast|Norway": {
-   "title": "Highlights | Cote d'Ivoire 1-2 Norway | FIFA World Cup 2026™",
-   "youtubeId": "ATzmoebQMj0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=ATzmoebQMj0"
-  },
-  "Austria|Spain": {
-   "title": "Highlights | Spain 3-0 Austria | FIFA World Cup 2026™",
-   "youtubeId": "p_j4aMfNQyI",
-   "youtubeUrl": "https://www.youtube.com/watch?v=p_j4aMfNQyI"
-  },
-  "Germany|Paraguay": {
-   "title": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™",
-   "youtubeId": "Gw6vNwAvkTs",
-   "youtubeUrl": "https://www.youtube.com/watch?v=Gw6vNwAvkTs",
-   "embedYoutubeId": "ur_NvOBEYzA",
-   "embedTitle": "Germany 1 (3)–1 (4) Paraguay | Full Match Highlights & Penalty Shootout | FIFA World Cup 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=ur_NvOBEYzA",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
-  "Brazil|Japan": {
-   "title": "Highlights | Brazil 2-1 Japan | FIFA World Cup 2026™",
-   "youtubeId": "Fd_KYjbmws4",
-   "youtubeUrl": "https://www.youtube.com/watch?v=Fd_KYjbmws4",
-   "embedYoutubeId": "s8uwbCQhVwY",
-   "embedTitle": "Brazil 2-1 Japan | Full Match Highlights & Winning Goals",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=s8uwbCQhVwY",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
-  "Colombia|Portugal": {
-   "title": "Highlights | Colombia 0-0 Portugal | FIFA World Cup 2026™",
-   "youtubeId": "QhI0dUq1FKY",
-   "youtubeUrl": "https://www.youtube.com/watch?v=QhI0dUq1FKY"
-  },
-  "Algeria|Austria": {
-   "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™",
-   "youtubeId": "5Mvh0mqY8ik",
-   "youtubeUrl": "https://www.youtube.com/watch?v=5Mvh0mqY8ik"
-  },
-  "Croatia|Ghana": {
-   "title": "Highlights | Croatia 2-1 Ghana | FIFA World Cup 2026™",
-   "youtubeId": "D1wfxmJhA04",
-   "youtubeUrl": "https://www.youtube.com/watch?v=D1wfxmJhA04"
+  "Bosnia And Herzegovina|USA": {
+   "title": "Highlights | USA 2-0 Bosnia And Herzegovina | FIFA World Cup 2026™",
+   "youtubeId": "SGQpzA9qcwk",
+   "youtubeUrl": "https://www.youtube.com/watch?v=SGQpzA9qcwk"
   },
   "Canada|South Africa": {
    "title": "Highlights | South Africa 0-1 Canada | FIFA World Cup 2026™",
@@ -233,6 +198,41 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
+  "Germany|Paraguay": {
+   "title": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™",
+   "youtubeId": "Gw6vNwAvkTs",
+   "youtubeUrl": "https://www.youtube.com/watch?v=Gw6vNwAvkTs",
+   "embedYoutubeId": "ur_NvOBEYzA",
+   "embedTitle": "Germany 1 (3)–1 (4) Paraguay | Full Match Highlights & Penalty Shootout | FIFA World Cup 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=ur_NvOBEYzA",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  },
+  "Algeria|Austria": {
+   "title": "Highlights | Algeria 3-3 Austria | FIFA World Cup 2026™",
+   "youtubeId": "5Mvh0mqY8ik",
+   "youtubeUrl": "https://www.youtube.com/watch?v=5Mvh0mqY8ik"
+  },
+  "Colombia|Portugal": {
+   "title": "Highlights | Colombia 0-0 Portugal | FIFA World Cup 2026™",
+   "youtubeId": "QhI0dUq1FKY",
+   "youtubeUrl": "https://www.youtube.com/watch?v=QhI0dUq1FKY"
+  },
+  "Brazil|Japan": {
+   "title": "Highlights | Brazil 2-1 Japan | FIFA World Cup 2026™",
+   "youtubeId": "Fd_KYjbmws4",
+   "youtubeUrl": "https://www.youtube.com/watch?v=Fd_KYjbmws4",
+   "embedYoutubeId": "s8uwbCQhVwY",
+   "embedTitle": "Brazil 2-1 Japan | Full Match Highlights & Winning Goals",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=s8uwbCQhVwY",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  },
+  "Croatia|Ghana": {
+   "title": "Highlights | Croatia 2-1 Ghana | FIFA World Cup 2026™",
+   "youtubeId": "D1wfxmJhA04",
+   "youtubeUrl": "https://www.youtube.com/watch?v=D1wfxmJhA04"
+  },
   "Argentina|Jordan": {
    "title": "Highlights | Jordan 1-3 Argentina | FIFA World Cup 2026™",
    "youtubeId": "M6mpXtMm93M",
@@ -242,46 +242,6 @@
    "title": "Highlights | Congo DR 3-1 Uzbekistan | FIFA World Cup 2026™",
    "youtubeId": "_effg5dZWZc",
    "youtubeUrl": "https://www.youtube.com/watch?v=_effg5dZWZc"
-  },
-  "England|Panama": {
-   "title": "Highlights | Panama 0-2 England | FIFA World Cup 2026™",
-   "youtubeId": "FHcXnueraKc",
-   "youtubeUrl": "https://www.youtube.com/watch?v=FHcXnueraKc",
-   "embedYoutubeId": "RAKRjey4vtQ",
-   "embedTitle": "England 2-0 Panama | Full Match Highlights & All Goals | FIFA World Cup 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=RAKRjey4vtQ",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
-  "Belgium|New Zealand": {
-   "title": "Highlights | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
-   "youtubeId": "zpWO1X2yFjY",
-   "youtubeUrl": "https://www.youtube.com/watch?v=zpWO1X2yFjY"
-  },
-  "Spain|Uruguay": {
-   "title": "Highlights | Uruguay 0-1 Spain | FIFA World Cup 2026™",
-   "youtubeId": "Petu_ouNzr4",
-   "youtubeUrl": "https://www.youtube.com/watch?v=Petu_ouNzr4",
-   "embedYoutubeId": "ZtORpQHR3_g",
-   "embedTitle": "URUGUAY 0-1 SPAIN | Spain's DRAMATIC Late Winner! Full Match Highlights & All Goals ",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=ZtORpQHR3_g",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
-  "Turkey|USA": {
-   "title": "Highlights | Türkiye 3-2 USA | FIFA World Cup 2026™",
-   "youtubeId": "XnDs5rgXgFM",
-   "youtubeUrl": "https://www.youtube.com/watch?v=XnDs5rgXgFM"
-  },
-  "Iraq|Senegal": {
-   "title": "Highlights |  Senegal 5-0 Iraq | FIFA World Cup 2026™",
-   "youtubeId": "6N2BzwoMrCw",
-   "youtubeUrl": "https://www.youtube.com/watch?v=6N2BzwoMrCw"
-  },
-  "Cape Verde|Saudi Arabia": {
-   "title": "Highlights | Cabo Verde 0-0 Saudi Arabia | FIFA World Cup 2026™",
-   "youtubeId": "JE0dqNUIOg4",
-   "youtubeUrl": "https://www.youtube.com/watch?v=JE0dqNUIOg4"
   },
   "France|Norway": {
    "title": "Highlights | Norway 1-4 France | FIFA World Cup 2026™",
@@ -293,10 +253,55 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
+  "Cape Verde|Saudi Arabia": {
+   "title": "Highlights | Cabo Verde 0-0 Saudi Arabia | FIFA World Cup 2026™",
+   "youtubeId": "JE0dqNUIOg4",
+   "youtubeUrl": "https://www.youtube.com/watch?v=JE0dqNUIOg4"
+  },
+  "Belgium|New Zealand": {
+   "title": "Highlights | New Zealand 1-5 Belgium | FIFA World Cup 2026™",
+   "youtubeId": "zpWO1X2yFjY",
+   "youtubeUrl": "https://www.youtube.com/watch?v=zpWO1X2yFjY"
+  },
+  "England|Panama": {
+   "title": "Highlights | Panama 0-2 England | FIFA World Cup 2026™",
+   "youtubeId": "FHcXnueraKc",
+   "youtubeUrl": "https://www.youtube.com/watch?v=FHcXnueraKc",
+   "embedYoutubeId": "RAKRjey4vtQ",
+   "embedTitle": "England 2-0 Panama | Full Match Highlights & All Goals | FIFA World Cup 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=RAKRjey4vtQ",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  },
+  "Spain|Uruguay": {
+   "title": "Highlights | Uruguay 0-1 Spain | FIFA World Cup 2026™",
+   "youtubeId": "Petu_ouNzr4",
+   "youtubeUrl": "https://www.youtube.com/watch?v=Petu_ouNzr4",
+   "embedYoutubeId": "ZtORpQHR3_g",
+   "embedTitle": "URUGUAY 0-1 SPAIN | Spain's DRAMATIC Late Winner! Full Match Highlights & All Goals ",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=ZtORpQHR3_g",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
+  },
+  "Iraq|Senegal": {
+   "title": "Highlights |  Senegal 5-0 Iraq | FIFA World Cup 2026™",
+   "youtubeId": "6N2BzwoMrCw",
+   "youtubeUrl": "https://www.youtube.com/watch?v=6N2BzwoMrCw"
+  },
   "Egypt|Iran": {
    "title": "Highlights | Egypt 1-1 IR Iran | FIFA World Cup 2026™",
    "youtubeId": "EeLUP57yMn4",
    "youtubeUrl": "https://www.youtube.com/watch?v=EeLUP57yMn4"
+  },
+  "Turkey|USA": {
+   "title": "Highlights | Türkiye 3-2 USA | FIFA World Cup 2026™",
+   "youtubeId": "XnDs5rgXgFM",
+   "youtubeUrl": "https://www.youtube.com/watch?v=XnDs5rgXgFM"
+  },
+  "Czechia|Mexico": {
+   "title": "Highlights | Czechia 0-3 Mexico | FIFA World Cup 2026™",
+   "youtubeId": "h9wH7diGNC0",
+   "youtubeUrl": "https://www.youtube.com/watch?v=h9wH7diGNC0"
   },
   "Japan|Sweden": {
    "title": "Highlights | Japan 1-1 Sweden | FIFA World Cup 2026™",
@@ -313,20 +318,25 @@
    "youtubeId": "wZVzHTl__ck",
    "youtubeUrl": "https://www.youtube.com/watch?v=wZVzHTl__ck"
   },
-  "South Africa|South Korea": {
-   "title": "Highlights | South Africa 1-0 Korea Republic | FIFA World Cup 2026™",
-   "youtubeId": "cZoaEEYtKhE",
-   "youtubeUrl": "https://www.youtube.com/watch?v=cZoaEEYtKhE"
+  "Netherlands|Tunisia": {
+   "title": "Highlights | Tunisia 1-3 Netherlands | FIFA World Cup 2026™",
+   "youtubeId": "oHYtLWbrwUo",
+   "youtubeUrl": "https://www.youtube.com/watch?v=oHYtLWbrwUo"
   },
   "Haiti|Morocco": {
    "title": "Highlights | Morocco 4-2 Haiti | FIFA World Cup 2026™",
    "youtubeId": "ZU2ssk6Bmg8",
    "youtubeUrl": "https://www.youtube.com/watch?v=ZU2ssk6Bmg8"
   },
-  "Czechia|Mexico": {
-   "title": "Highlights | Czechia 0-3 Mexico | FIFA World Cup 2026™",
-   "youtubeId": "h9wH7diGNC0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=h9wH7diGNC0"
+  "South Africa|South Korea": {
+   "title": "Highlights | South Africa 1-0 Korea Republic | FIFA World Cup 2026™",
+   "youtubeId": "cZoaEEYtKhE",
+   "youtubeUrl": "https://www.youtube.com/watch?v=cZoaEEYtKhE"
+  },
+  "Curacao|Ivory Coast": {
+   "title": "Highlights | Curacao 0-2 Cote d'Ivoire | FIFA World Cup 2026™",
+   "youtubeId": "vDLtuaCoIb0",
+   "youtubeUrl": "https://www.youtube.com/watch?v=vDLtuaCoIb0"
   },
   "Ecuador|Germany": {
    "title": "Highlights | Ecuador 2-1 Germany | FIFA World Cup 2026™",
@@ -338,50 +348,15 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
-  "Curacao|Ivory Coast": {
-   "title": "Highlights | Curacao 0-2 Cote d'Ivoire | FIFA World Cup 2026™",
-   "youtubeId": "vDLtuaCoIb0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=vDLtuaCoIb0"
-  },
-  "Netherlands|Tunisia": {
-   "title": "Highlights | Tunisia 1-3 Netherlands | FIFA World Cup 2026™",
-   "youtubeId": "oHYtLWbrwUo",
-   "youtubeUrl": "https://www.youtube.com/watch?v=oHYtLWbrwUo"
-  },
-  "Colombia|Congo DR": {
-   "title": "Highlights | Colombia 1-0 Congo DR | FIFA World Cup 2026™",
-   "youtubeId": "JTGXHmxlXHc",
-   "youtubeUrl": "https://www.youtube.com/watch?v=JTGXHmxlXHc"
-  },
-  "England|Ghana": {
-   "title": "Highlights | England 0-0 Ghana | FIFA World Cup 2026™",
-   "youtubeId": "Qe-fptt6wXs",
-   "youtubeUrl": "https://www.youtube.com/watch?v=Qe-fptt6wXs"
-  },
-  "Brazil|Scotland": {
-   "title": "Highlights | Scotland 0-3 Brazil | FIFA World Cup 2026™",
-   "youtubeId": "oj5LlMvV0qk",
-   "youtubeUrl": "https://www.youtube.com/watch?v=oj5LlMvV0qk",
-   "embedYoutubeId": "DOUoLLr9nNQ",
-   "embedTitle": "Brazil 3-0 Scotland  |Highlights & All Goals | FIFA World Cup 2026",
-   "embedYoutubeUrl": "https://www.youtube.com/watch?v=DOUoLLr9nNQ",
-   "embedChannel": "Raoul karismo",
-   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
-  },
   "Portugal|Uzbekistan": {
    "title": "Highlights | Portugal 5-0 Uzbekistan | FIFA World Cup 2026™",
    "youtubeId": "kwbH2dm1AXo",
    "youtubeUrl": "https://www.youtube.com/watch?v=kwbH2dm1AXo"
   },
-  "Algeria|Jordan": {
-   "title": "Highlights | Jordan 1-2 Algeria | FIFA World Cup 2026™",
-   "youtubeId": "Ydxmm_-PUo0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=Ydxmm_-PUo0"
-  },
-  "Bosnia and Herzegovina|Qatar": {
-   "title": "Highlights | Bosnia and Herzegovina 3-1 Qatar",
-   "youtubeId": "-E4Mtblw9es",
-   "youtubeUrl": "https://www.youtube.com/watch?v=-E4Mtblw9es"
+  "Colombia|Congo DR": {
+   "title": "Highlights | Colombia 1-0 Congo DR | FIFA World Cup 2026™",
+   "youtubeId": "JTGXHmxlXHc",
+   "youtubeUrl": "https://www.youtube.com/watch?v=JTGXHmxlXHc"
   },
   "Canada|Switzerland": {
    "title": "Highlights | Switzerland 2-1 Canada | FIFA World Cup 2026™",
@@ -393,10 +368,30 @@
    "youtubeId": "Y5PJGL-8qyM",
    "youtubeUrl": "https://www.youtube.com/watch?v=Y5PJGL-8qyM"
   },
-  "Norway|Senegal": {
-   "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
-   "youtubeId": "nlghqbCqbe0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=nlghqbCqbe0"
+  "England|Ghana": {
+   "title": "Highlights | England 0-0 Ghana | FIFA World Cup 2026™",
+   "youtubeId": "Qe-fptt6wXs",
+   "youtubeUrl": "https://www.youtube.com/watch?v=Qe-fptt6wXs"
+  },
+  "Bosnia and Herzegovina|Qatar": {
+   "title": "Highlights | Bosnia and Herzegovina 3-1 Qatar",
+   "youtubeId": "-E4Mtblw9es",
+   "youtubeUrl": "https://www.youtube.com/watch?v=-E4Mtblw9es"
+  },
+  "Algeria|Jordan": {
+   "title": "Highlights | Jordan 1-2 Algeria | FIFA World Cup 2026™",
+   "youtubeId": "Ydxmm_-PUo0",
+   "youtubeUrl": "https://www.youtube.com/watch?v=Ydxmm_-PUo0"
+  },
+  "Brazil|Scotland": {
+   "title": "Highlights | Scotland 0-3 Brazil | FIFA World Cup 2026™",
+   "youtubeId": "oj5LlMvV0qk",
+   "youtubeUrl": "https://www.youtube.com/watch?v=oj5LlMvV0qk",
+   "embedYoutubeId": "DOUoLLr9nNQ",
+   "embedTitle": "Brazil 3-0 Scotland  |Highlights & All Goals | FIFA World Cup 2026",
+   "embedYoutubeUrl": "https://www.youtube.com/watch?v=DOUoLLr9nNQ",
+   "embedChannel": "Raoul karismo",
+   "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
   "Argentina|Austria": {
    "title": "Highlights | Argentina 2-0 Austria | FIFA World Cup 2026™",
@@ -408,25 +403,30 @@
    "embedChannel": "Raoul karismo",
    "embedChannelUrl": "https://www.youtube.com/@Raoulkarismo"
   },
+  "Norway|Senegal": {
+   "title": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™",
+   "youtubeId": "nlghqbCqbe0",
+   "youtubeUrl": "https://www.youtube.com/watch?v=nlghqbCqbe0"
+  },
+  "Curacao|Ecuador": {
+   "title": "Highlights | Ecuador 0-0 Curacao | FIFA World Cup 2026™",
+   "youtubeId": "nYoSztBShPE",
+   "youtubeUrl": "https://www.youtube.com/watch?v=nYoSztBShPE"
+  },
   "Saudi Arabia|Spain": {
    "title": "Highlights | Spain 4-0 Saudi Arabia | FIFA World Cup 2026™",
    "youtubeId": "j0BQN0nJ7mM",
    "youtubeUrl": "https://www.youtube.com/watch?v=j0BQN0nJ7mM"
-  },
-  "Belgium|Iran": {
-   "title": "Highlights | Belgium 0-0 IR Iran | FIFA World Cup 2026™",
-   "youtubeId": "4zYJyJY57i8",
-   "youtubeUrl": "https://www.youtube.com/watch?v=4zYJyJY57i8"
   },
   "Cape Verde|Uruguay": {
    "title": "Highlights | Uruguay 2-2 Cabo Verde | FIFA World Cup 2026™",
    "youtubeId": "eh20EVuWFFI",
    "youtubeUrl": "https://www.youtube.com/watch?v=eh20EVuWFFI"
   },
-  "Curacao|Ecuador": {
-   "title": "Highlights | Ecuador 0-0 Curacao | FIFA World Cup 2026™",
-   "youtubeId": "nYoSztBShPE",
-   "youtubeUrl": "https://www.youtube.com/watch?v=nYoSztBShPE"
+  "Belgium|Iran": {
+   "title": "Highlights | Belgium 0-0 IR Iran | FIFA World Cup 2026™",
+   "youtubeId": "4zYJyJY57i8",
+   "youtubeUrl": "https://www.youtube.com/watch?v=4zYJyJY57i8"
   },
   "Egypt|New Zealand": {
    "title": "Highlights | New Zealand 1-3 Egypt | FIFA World Cup 2026™",
@@ -438,6 +438,11 @@
    "youtubeId": "XejscwNpvLU",
    "youtubeUrl": "https://www.youtube.com/watch?v=XejscwNpvLU"
   },
+  "Australia|USA": {
+   "title": "Highlights | USA 2-0 Australia | FIFA World Cup 2026™",
+   "youtubeId": "tXxvgvgMiRg",
+   "youtubeUrl": "https://www.youtube.com/watch?v=tXxvgvgMiRg"
+  },
   "Brazil|Haiti": {
    "title": "Highlights | Brazil 3-0 Haiti | FIFA World Cup 2026™",
    "youtubeId": "lz3_atghfmY",
@@ -448,15 +453,10 @@
    "youtubeId": "tm1PRvtp1PM",
    "youtubeUrl": "https://www.youtube.com/watch?v=tm1PRvtp1PM"
   },
-  "Australia|USA": {
-   "title": "Highlights | USA 2-0 Australia | FIFA World Cup 2026™",
-   "youtubeId": "tXxvgvgMiRg",
-   "youtubeUrl": "https://www.youtube.com/watch?v=tXxvgvgMiRg"
-  },
-  "Morocco|Scotland": {
-   "title": "Highlights | Scotland 0-1 Morocco | FIFA World Cup 2026™",
-   "youtubeId": "ACKeXJdm5us",
-   "youtubeUrl": "https://www.youtube.com/watch?v=ACKeXJdm5us"
+  "Canada|Qatar": {
+   "title": "Highlights | Canada 6-0 Qatar | FIFA World Cup 2026™",
+   "youtubeId": "HTR0DIvBYlg",
+   "youtubeUrl": "https://www.youtube.com/watch?v=HTR0DIvBYlg"
   },
   "Mexico|South Korea": {
    "title": "Highlights | Mexico 1-0 Korea Republic | FIFA World Cup 2026™",
@@ -473,15 +473,35 @@
    "youtubeId": "atWtyemTWQ0",
    "youtubeUrl": "https://www.youtube.com/watch?v=atWtyemTWQ0"
   },
-  "Canada|Qatar": {
-   "title": "Highlights | Canada 6-0 Qatar | FIFA World Cup 2026™",
-   "youtubeId": "HTR0DIvBYlg",
-   "youtubeUrl": "https://www.youtube.com/watch?v=HTR0DIvBYlg"
+  "Morocco|Scotland": {
+   "title": "Highlights | Scotland 0-1 Morocco | FIFA World Cup 2026™",
+   "youtubeId": "ACKeXJdm5us",
+   "youtubeUrl": "https://www.youtube.com/watch?v=ACKeXJdm5us"
   },
-  "Algeria|Argentina": {
-   "title": "Highlights | Argentina 3-0 Algeria | FIFA World Cup 2026™",
-   "youtubeId": "JH_WRKTCPK4",
-   "youtubeUrl": "https://www.youtube.com/watch?v=JH_WRKTCPK4"
+  "Ghana|Panama": {
+   "title": "Highlights | Ghana 1-0 Panama | FIFA World Cup 2026™",
+   "youtubeId": "gy8h5JJ2b_E",
+   "youtubeUrl": "https://www.youtube.com/watch?v=gy8h5JJ2b_E"
+  },
+  "Croatia|England": {
+   "title": "Highlights | England 4-2 Croatia | FIFA World Cup 2026™",
+   "youtubeId": "ynqGWHJPkuQ",
+   "youtubeUrl": "https://www.youtube.com/watch?v=ynqGWHJPkuQ"
+  },
+  "Austria|Jordan": {
+   "title": "Highlights | Austria 3-1 Jordan | FIFA World Cup 2026™",
+   "youtubeId": "pU-mPZcuENY",
+   "youtubeUrl": "https://www.youtube.com/watch?v=pU-mPZcuENY"
+  },
+  "Congo DR|Portugal": {
+   "title": "Highlights | Portugal 1-1 Congo DR | FIFA World Cup 2026™",
+   "youtubeId": "fJrctBM0poE",
+   "youtubeUrl": "https://www.youtube.com/watch?v=fJrctBM0poE"
+  },
+  "Czechia|South Africa": {
+   "title": "Highlights | Czechia 1-1 South Africa | FIFA World Cup 2026™",
+   "youtubeId": "C_2Lx8Wg1kg",
+   "youtubeUrl": "https://www.youtube.com/watch?v=C_2Lx8Wg1kg"
   },
   "Bosnia and Herzegovina|Switzerland": {
    "title": "Highlights | Switzerland 4-1 Bosnia and Herzegovina | FIFA World Cup 2026™",
@@ -493,30 +513,10 @@
    "youtubeId": "cjsFUxVHAX0",
    "youtubeUrl": "https://www.youtube.com/watch?v=cjsFUxVHAX0"
   },
-  "Ghana|Panama": {
-   "title": "Highlights | Ghana 1-0 Panama | FIFA World Cup 2026™",
-   "youtubeId": "gy8h5JJ2b_E",
-   "youtubeUrl": "https://www.youtube.com/watch?v=gy8h5JJ2b_E"
-  },
-  "Czechia|South Africa": {
-   "title": "Highlights | Czechia 1-1 South Africa | FIFA World Cup 2026™",
-   "youtubeId": "C_2Lx8Wg1kg",
-   "youtubeUrl": "https://www.youtube.com/watch?v=C_2Lx8Wg1kg"
-  },
-  "Croatia|England": {
-   "title": "Highlights | England 4-2 Croatia | FIFA World Cup 2026™",
-   "youtubeId": "ynqGWHJPkuQ",
-   "youtubeUrl": "https://www.youtube.com/watch?v=ynqGWHJPkuQ"
-  },
-  "Congo DR|Portugal": {
-   "title": "Highlights | Portugal 1-1 Congo DR | FIFA World Cup 2026™",
-   "youtubeId": "fJrctBM0poE",
-   "youtubeUrl": "https://www.youtube.com/watch?v=fJrctBM0poE"
-  },
-  "Austria|Jordan": {
-   "title": "Highlights | Austria 3-1 Jordan | FIFA World Cup 2026™",
-   "youtubeId": "pU-mPZcuENY",
-   "youtubeUrl": "https://www.youtube.com/watch?v=pU-mPZcuENY"
+  "Algeria|Argentina": {
+   "title": "Highlights | Argentina 3-0 Algeria | FIFA World Cup 2026™",
+   "youtubeId": "JH_WRKTCPK4",
+   "youtubeUrl": "https://www.youtube.com/watch?v=JH_WRKTCPK4"
   },
   "Saudi Arabia|Uruguay": {
    "title": "Highlights | Saudi Arabia 1-1 Uruguay | FIFA World Cup 2026™",
@@ -528,15 +528,15 @@
    "youtubeId": "i8sD2Aea9_M",
    "youtubeUrl": "https://www.youtube.com/watch?v=i8sD2Aea9_M"
   },
+  "Iran|New Zealand": {
+   "title": "Highlights | IR Iran 2-2 New Zealand | FIFA World Cup 2026™",
+   "youtubeId": "memCfdob60w",
+   "youtubeUrl": "https://www.youtube.com/watch?v=memCfdob60w"
+  },
   "France|Senegal": {
    "title": "Highlights | France 3-1 Senegal | FIFA World Cup 2026™",
    "youtubeId": "n3JDGlOwMJ4",
    "youtubeUrl": "https://www.youtube.com/watch?v=n3JDGlOwMJ4"
-  },
-  "Iraq|Norway": {
-   "title": "Highlights | Iraq 1-4 Norway | FIFA World Cup 2026™",
-   "youtubeId": "UzSswKnmpgk",
-   "youtubeUrl": "https://www.youtube.com/watch?v=UzSswKnmpgk"
   },
   "Ecuador|Ivory Coast": {
    "title": "Highlights | Côte d'Ivoire 1-0 Ecuador | FIFA World Cup 2026™",
@@ -553,25 +553,30 @@
    "youtubeId": "W9Z4ER9oX0k",
    "youtubeUrl": "https://www.youtube.com/watch?v=W9Z4ER9oX0k"
   },
-  "Iran|New Zealand": {
-   "title": "Highlights | IR Iran 2-2 New Zealand | FIFA World Cup 2026™",
-   "youtubeId": "memCfdob60w",
-   "youtubeUrl": "https://www.youtube.com/watch?v=memCfdob60w"
+  "Iraq|Norway": {
+   "title": "Highlights | Iraq 1-4 Norway | FIFA World Cup 2026™",
+   "youtubeId": "UzSswKnmpgk",
+   "youtubeUrl": "https://www.youtube.com/watch?v=UzSswKnmpgk"
   },
-  "Haiti|Scotland": {
-   "title": "Highlights | Haiti 0-1 Scotland | FIFA World Cup 2026™",
-   "youtubeId": "TcCufmPCsu4",
-   "youtubeUrl": "https://www.youtube.com/watch?v=TcCufmPCsu4"
+  "Brazil|Morocco": {
+   "title": "Highlights | Brazil 1-1 Morocco | FIFA World Cup 2026™",
+   "youtubeId": "ECnK7UzAjIs",
+   "youtubeUrl": "https://www.youtube.com/watch?v=ECnK7UzAjIs"
   },
   "Curacao|Germany": {
    "title": "Highlights | Germany 7-1 Curacao | FIFA World Cup 2026™",
    "youtubeId": "B6-Z5ul2ccQ",
    "youtubeUrl": "https://www.youtube.com/watch?v=B6-Z5ul2ccQ"
   },
-  "Japan|Netherlands": {
-   "title": "Highlights | Netherlands 2-2 Japan | FIFA World Cup 2026™",
-   "youtubeId": "r8SvHZxALQs",
-   "youtubeUrl": "https://www.youtube.com/watch?v=r8SvHZxALQs"
+  "Qatar|Switzerland": {
+   "title": "Highlights | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
+   "youtubeId": "KVz43-eddIQ",
+   "youtubeUrl": "https://www.youtube.com/watch?v=KVz43-eddIQ"
+  },
+  "Haiti|Scotland": {
+   "title": "Highlights | Haiti 0-1 Scotland | FIFA World Cup 2026™",
+   "youtubeId": "TcCufmPCsu4",
+   "youtubeUrl": "https://www.youtube.com/watch?v=TcCufmPCsu4"
   },
   "Australia|Turkey": {
    "title": "Highlights | Australia 2-0 Türkiye | FIFA World Cup 2026™",
@@ -583,15 +588,10 @@
    "youtubeId": "w-_rY5morQY",
    "youtubeUrl": "https://www.youtube.com/watch?v=w-_rY5morQY"
   },
-  "Qatar|Switzerland": {
-   "title": "Highlights | Qatar 1-1 Switzerland | FIFA World Cup 2026™",
-   "youtubeId": "KVz43-eddIQ",
-   "youtubeUrl": "https://www.youtube.com/watch?v=KVz43-eddIQ"
-  },
-  "Brazil|Morocco": {
-   "title": "Highlights | Brazil 1-1 Morocco | FIFA World Cup 2026™",
-   "youtubeId": "ECnK7UzAjIs",
-   "youtubeUrl": "https://www.youtube.com/watch?v=ECnK7UzAjIs"
+  "Japan|Netherlands": {
+   "title": "Highlights | Netherlands 2-2 Japan | FIFA World Cup 2026™",
+   "youtubeId": "r8SvHZxALQs",
+   "youtubeUrl": "https://www.youtube.com/watch?v=r8SvHZxALQs"
   },
   "Paraguay|USA": {
    "title": "Highlights | USA 4-1 Paraguay | FIFA World Cup 2026™",

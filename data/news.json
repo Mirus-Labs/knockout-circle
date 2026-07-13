@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T23:15:34.212Z",
+ "updated": "2026-07-13T23:16:30.923Z",
  "news": [
   {
    "cat": "CRYPTO BRIEFING",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-13T21:23:58.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time and will have an eye on the gold medals at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I ahead of Norway, Senegal and Iraq to reach the knockout phase. They then beat Sweden in the round of 32, Paraguay in the last 16 and Morocco in the quarter-finals.",
+   "image": "https://editorial.uefa.com/resources/02a7-211193438171-4425f300fed7-1000/fbl-wc-2026-match97-fra-mar.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "‘Knocking you out was a huge joy’: reliving the dramas of England v Argentina in 1998 and 2002",
    "iso": "2026-07-13T21:21:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/13/knocking-you-out-was-a-huge-joy-reliving-the-dramas-of-england-v-argentina-in-1998-and-2002",
    "lede": "How Diego Simeone, Michael Owen and Glenn Hoddle remember the two classic World Cup matches between historical rivals. In all the acrimony, the wars, the deep history going back to the British invasions of 1806 and 1807, the Hand of God and the boot of Beckham, there is also an acknowledgment from those closest to the struggle that England and Argentina make perfect footballing sparring partners. Described as the only trans-continental derby, a rivalry hewn in politics and history as well as football folklore, most Argentinian footballers’ eyes light up when talk turns to England. Take Diego Simeone, now the belligerent Atlético Madrid coach, but once the arch nemesis of David Beckham, the man who feigned collapsing to the ground when a foolish flick caught him at the 1998 World Cup, thereby altering the trajectory of that game through Beckham’s red card.",
    "image": "https://i.guim.co.uk/img/media/71849608a154f4685034829ebac32f1142377fd2/545_45_2593_2075/master/2593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=908681d07da632d38c872716df7816f2",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SKY SPORTS",
@@ -58,26 +68,16 @@
    "link": "https://www.skysports.com/football/news/12098/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
    "lede": "As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up for the ages. Perhaps this was the inevitable outcome when the draw was seeded in a way that made it impossible for the top-rated nations to meet one another before this stage. But let's not dig into politics.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-france-spain_7296674.jpg?20260713144457",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "ESPN",
-   "title": "World Cup 2026 today as it happened: Updates and news as heavyweights prep for semifinals - July 13",
-   "iso": "2026-07-13T21:00:00.000Z",
-   "link": "https://africa.espn.com/football/story/_/id/49348219/world-cup-2026-today-blog-13-07-2026-live-updates-news-fixtures-schedule-results-spain-france-england-argentina",
-   "lede": "We're entering the final week of the World Cup, and as the four remaining teams prepare for their semifinals, you go back through all the news of the day right here with ESPN. Only Spain, France, England and Argentina remain ahead of Tuesday and Wednesday's semifinals. All four will play two more matches each -- whether their second matches will be the final or the third-place playoff remains to be seen. Spain at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups.",
-   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688566_1296x729_16%2D9.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Spain, France, Argentina and England beware: Demons haunt the World Cup semi-finals",
-   "iso": "2026-07-13T20:54:00.000Z",
-   "link": "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain",
-   "lede": "The World Cup spotlight causes single games to live longer in the memory than any other. The remaining teams at this tournament face defining moments. World Cup games mean more. England have only ever played 80 games in the finals, which is to say, not much more than two Premier League seasons in the 76 years since they first entered.",
-   "image": "https://i.guim.co.uk/img/media/7c22759204ae430e3549225ef3d778fdb8127335/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4de41a9724795ac2851a0b4f2ae82bf8",
+   "cat": "THE DAILY STAR",
+   "title": "11 dead over the World Cup: The real problem is not football",
+   "iso": "2026-07-13T21:16:59.000Z",
+   "link": "https://www.thedailystar.net/opinion/views/news/11-dead-over-the-world-cup-the-real-problem-not-football-4222306",
+   "lede": "On the night when Argentina played Egypt last week, 38-year-old auto-rickshaw driver Shariful Islam was watching the match at a roadside tea stall in Cumilla as Lionel Messi missed a penalty. He turned to a young man standing nearby, an Argentina supporter, and made a jibe about it—something to the effect that even the man’s father could not have scored that goal. Within minutes, Shariful was being beaten. When he tried to take shelter in a nearby mess, he was beaten again.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
