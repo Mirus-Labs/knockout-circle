@@ -1,6 +1,56 @@
 {
- "updated": "2026-07-13T18:22:42.765Z",
+ "updated": "2026-07-13T19:52:55.075Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "World Cup final prep! In Argentina, voodoo dolls with meal deals",
+   "iso": "2026-07-13T19:03:00.000Z",
+   "link": "https://sports.yahoo.com/articles/world-cup-final-prep-argentina-190300392.html",
+   "lede": "Argentina is a football-crazy nation. That is once again on full display at this World Cup. The fan support at the venues and in the stadium is gigantic. Sometimes, though, the love and passion for football goes beyond the boundaries of good taste.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/DiQ6NabZzNoa7FVjJ8hXjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/8f045cbffea5550f8212e5665bd52a1b",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Kerim Alajbegovic: Atalanta prepare offer for World Cup hero",
+   "iso": "2026-07-13T18:45:00.000Z",
+   "link": "https://sports.yahoo.com/articles/kerim-alajbegovic-atalanta-prepare-offer-184500402.html",
+   "lede": "Kerim Alajbegovic made an impact for Bosnia at the FIFA World Cup and he is increasingly likely to end up in Serie A, with Atalanta keen. Alfredo Pedulla has reported updates about the teenager, who has rejoined Bayer Leverkusen. Atalanta have come out in the open to move for the attacker. Milan advisor Zlatan Ibrahimovic has been keen on him but the Rossoneri haven’t stepped forward on their own as a club.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/kJuEJ.087jU7U0CmO4Q5Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/get_italian_football_news_article_917/78cc6234d456536186303e48ba9a5f6d",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Spain, France, Argentina and England beware: Demons haunt the World Cup semi-finals",
+   "iso": "2026-07-13T18:40:00.000Z",
+   "link": "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain",
+   "lede": "The World Cup spotlight causes single games to live longer in the memory than any other. The remaining teams at this tournament face defining moments. World Cup games mean more. England have only ever played 80 games in the finals, which is to say, not much more than two Premier League seasons in the 76 years since they first entered.",
+   "image": "https://i.guim.co.uk/img/media/7c22759204ae430e3549225ef3d778fdb8127335/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4de41a9724795ac2851a0b4f2ae82bf8",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "The most expensive World Cup 2026 tickets ranked: World Cup Final, $30,000+ tickets, Argentina and more",
+   "iso": "2026-07-13T18:36:39.000Z",
+   "link": "https://www.goal.com/en/news/most-expensive-world-cup-tickets/blt40665381e2b4c304",
+   "lede": "These are the whoppers on the World Cup ticket market right now, going as high as $30,000. The FIFA World Cup has officially returned to North America for the first time since USA '94. Thirty years ago, despite soccer's lower profile in the region, that tournament shattered attendance metrics to become one of the most commercially successful iterations in history. Now, the newly expanded 48-team tournament is deep into its high-stakes knockout stages.",
+   "image": "https://assets.goal.com/images/v3/blt18c56d6c78146b2e/crop/MM5DIOBQGA5DENZQGA5G433XMU5DCORQ/GettyImages-1451936359.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames",
+   "iso": "2026-07-13T18:19:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/13/world-cup-2026-scouting-report-the-lowdown-on-england-semi-final-opponents-argentina",
+   "lede": "Defending champions will pose a threat with Messi’s genius, but their lack of width and energy in the midfield offers encouragement for Thomas Tuchel. Switzerland knew how to deal with Lionel Messi. They congested the centre of the pitch and made it impossible for him to find angles for threaded passes or rapier finishes. One of Messi’s trademark moves, when the tempo has slowed, is to go through the gears with a quick bounce pass off one of his teammates near the edge of the area.",
+   "image": "https://i.guim.co.uk/img/media/ab69c223ac919150a1996a01663617e1337abae2/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91084c4658349b31bdbcd23ddbf8d2c6",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE DAILY STAR",
    "title": "11 dead over the World Cup: The real problem is not football",
@@ -8,8 +58,8 @@
    "link": "https://www.thedailystar.net/opinion/views/news/11-dead-over-the-world-cup-the-real-problem-not-football-4222306",
    "lede": "On the night when Argentina played Egypt last week, 38-year-old auto-rickshaw driver Shariful Islam was watching the match at a roadside tea stall in Cumilla as Lionel Messi missed a penalty. He turned to a young man standing nearby, an Argentina supporter, and made a jibe about it—something to the effect that even the man’s father could not have scored that goal. Within minutes, Shariful was being beaten. When he tried to take shelter in a nearby mess, he was beaten again.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE AMERICAN BAZAAR",
@@ -18,66 +68,16 @@
    "link": "https://americanbazaaronline.com/2026/07/13/argentina-egypt-world-cup-controversy-continues-484498/",
    "lede": "Days after Argentina’s dramatic 3-2 comeback victory over Egypt in the 2026 FIFA World Cup Round of 16, the fallout from one of the tournament’s most controversial matches continues with FIFA defending its officiating while Egypt’s football federation maintains its formal complaint. The July 7 encounter has sparked widespread debate over several key refereeing decisions that Egypt argues influenced the outcome of the match. Egypt coach Hossam Hassan and several players criticized the officiating after being left in disbelief as Argentina scored three unanswered goals in the final 13 minutes to complete one of the biggest comebacks in FIFA World Cup history. The most contentious incident came after Egypt, leading 1-0, appeared to double its advantage.",
    "image": "https://americanbazaaronline.com/wp-content/uploads/2026/07/Argentina-Egypt-World-Cup-controversy.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "NBC 5 DALLAS-FORT WORTH",
-   "title": "Meet the referees for the France-Spain 2026 World Cup Semifinal at Dallas Stadium",
-   "iso": "2026-07-13T17:42:46.000Z",
-   "link": "https://www.nbcdfw.com/world-cup/meet-the-referees-for-the-france-spain-2026-fifa-world-cup-semifinal-at-dallas-stadium/4048623/",
-   "lede": "Soccer Football – FIFA World Cup 2026 – Round of 16 – Switzerland v Colombia – BC Place, Vancouver, Canada – July 7, 2026 Referee Ivan Barton blows his whistle REUTERS/Lee Smith. The 2026 FIFA World Cup wraps up at Dallas Stadium on Tuesday at 2 p.m. when France plays Spain in the first Semifinal. The winner is headed to New York for the final. The loser will play in Miami on Saturday for third place.",
-   "image": "https://media.nbcdfw.com/2026/07/2026-07-07T211546Z_1126883491_UP1EM771N29FI_RTRMADP_3_SOCCER-WORLDCUP-SWI-COL.jpg?quality=85&strip=all&resize=1200%2C675",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE-SUN.COM",
-   "title": "NFL stadium used to stage World Cup begins dramatic overhaul back to football as fans say 'welcome back old friend'",
-   "iso": "2026-07-13T17:18:50.000Z",
-   "link": "https://www.the-sun.com/sport/16684760/nfl-levis-stadium-world-cup-overhaul-football/",
-   "lede": "AN NFL stadium used at the 2026 World Cup has begun a dramatic overhaul. Fans have welcomed the changes as the NFL stadium prepares for the football season. The World Cup is officially over at Levi’s Stadium. Footage of a sheet covering a Levi’s logo outside the stadium being removed has been shared on social media.",
-   "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/JB_NFL-STADIUM_OFF-PLATFORM-copy.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Spain, France, Argentina and England beware: Demons haunt the World Cup semi-finals",
-   "iso": "2026-07-13T17:06:00.000Z",
-   "link": "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain",
-   "lede": "The World Cup spotlight causes single games to live longer in the memory than any other. The remaining teams at this tournament face defining moments. World Cup games mean more. England have only ever played 79 games in the finals, which is to say, not much more than two Premier League seasons in the 76 years since they first entered.",
-   "image": "https://i.guim.co.uk/img/media/7c22759204ae430e3549225ef3d778fdb8127335/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4de41a9724795ac2851a0b4f2ae82bf8",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames",
-   "iso": "2026-07-13T17:06:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/13/world-cup-2026-scouting-report-the-lowdown-on-england-semi-final-opponents-argentina",
-   "lede": "Defending champions will pose a threat with Messi’s genius, but their lack of width and energy in the midfield offers encouragement for Thomas Tuchel. Switzerland knew how to deal with Lionel Messi. They congested the centre of the pitch and made it impossible for him to find angles for threaded passes or rapier finishes. One of Messi’s trademark moves, when the tempo has slowed, is to go through the gears with a quick bounce pass off one of his teammates near the edge of the area.",
-   "image": "https://i.guim.co.uk/img/media/ab69c223ac919150a1996a01663617e1337abae2/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91084c4658349b31bdbcd23ddbf8d2c6",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SPORTS ILLUSTRATED",
-   "title": "International Soccer Powerhouse Compared to Ohio State in 2026 World Cup Race",
-   "iso": "2026-07-13T17:00:01.000Z",
-   "link": "https://www.si.com/fannation/college/cfb-hq/news/international-soccer-powerhouse-compared-ohio-state-2026-world-cup-race-georgia-alabama-texas-france-argentina-england-spain",
-   "lede": "The 2026 World Cup semifinals arrived with a bit of history. France, Argentina, Spain and England, the top four teams in FIFA's rankings, all survived the expanded 48-team field, marking the only time in the tournament's 96-year history that the rankings and the final four have matched exactly. Fox Sports analyst Laken Litman used the occasion to translate the World Cup bracket into college football terms, pairing each semifinalist with a College Football Playoff regular. Her comparison linked No.",
-   "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4500,h_2531/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/college_football_hq/01kxe0rdq6awpr8sqm04.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "France vs Spain: World Cup semi-final preview - Lamine Yamal and Rodri hold keys to stopping Kylian Mbappe's Les Bleus storming to final",
-   "iso": "2026-07-13T16:51:13.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
-   "lede": "As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up for the ages. Perhaps this was the inevitable outcome when the draw was seeded in a way that made it impossible for the top-rated nations to meet one another before this stage. But let's not dig into politics.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-france-spain_7296674.jpg?20260713144457",
+   "cat": "UEFA.COM",
+   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
+   "iso": "2026-07-13T17:56:26.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
+   "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 4-2 vs Croatia (Dallas) Tuesday 23 June: D 0-0 vs Ghana (Boston) Saturday 27 June: W 2-0 vs Panama (New York) Wednesday 1 July (R32): W 2-1 vs DR Congo (Atlanta) Monday 6 July (R16): W 3-2 vs Mexico (Mexico City) Saturday 11 July (QF): W 2-1 aet vs Norway (Miami) Wednesday 15 July (SF): vs Argentina (Atlanta, 21:00).",
+   "image": "https://editorial.uefa.com/resources/02a7-2115cfc47644-5b50f05fb766-1000/norway_v_england_quarter_final_-_fifa_world_cup_2026.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
