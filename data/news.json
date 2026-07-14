@@ -1,6 +1,36 @@
 {
- "updated": "2026-07-14T21:08:38.909Z",
+ "updated": "2026-07-14T21:41:04.147Z",
  "news": [
+  {
+   "cat": "NZ HERALD",
+   "title": "Spain reach World Cup final after masterclass against France",
+   "iso": "2026-07-14T21:11:30.000Z",
+   "link": "https://www.nzherald.co.nz/sport/football/football-world-cup/france-v-spain-live-updates-from-the-fifa-world-cup-semi-final-in-dallas/PX3D23KFLZED5BE2LZS6EG6GQM/",
+   "lede": "Spain are through to their second-ever World Cup final after a footballing masterclass in their 2-0 win over pre-tournament favourites France in Dallas. There was plenty of hype heading into the match between the two European powerhouses, but France failed to show up, as Spain’s defence shut down their elite attackers, including Kylian Mbappe. Mikel Oyarzabal opened the scoring with an emphatic penalty in the first half before Pedro Porro doubled their lead in the second half. There were plenty of nerves from both sides in the opening exchanges, and it wasn’t until the 22nd minute that Spain broke the deadlock when referee Ivan Barton pointed to the penalty spot after a reckless challenge by France left-back Lucas Digne on Spain winger Lamine Yamal.",
+   "image": "https://www.nzherald.co.nz/resizer/v2/6QIIWOYC7FEFNM7MCZ3MMNDN4M.jpg?auth=d9cc3a103953ba06716c313238de307d95e8b264082549360d7cab1c69fd3ea3&width=1200&height=675&quality=70&focal=2841%2C800&smart=false",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: France v Spain player ratings for World Cup semi-final",
+   "iso": "2026-07-14T21:10:54.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c1dydqedp73o",
+   "lede": "Spain will appear in their second World Cup final after ending France's dreams in Dallas. Spain dominated France in Dallas to win 2-0 and reach their first World Cup final since 2010, and will face either England or Argentina in New Jersey on Sunday. BBC Sport's Neil Johnston assesses how the players performed on Tuesday - and you can see how readers rated them at the bottom of the page too. Mike Maignan: Guessed the right way for Mikel Oyarzabal's penalty but beaten for pace and power.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fbee/live/fe91b8c0-7fbf-11f1-b890-9bba15144891.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Match Awards Spain’s triumphant 2-0 win over France in World Cup semifinals",
+   "iso": "2026-07-14T21:10:33.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/230653/match-awards-spain-s-triumphant-2-0-win-over-france-in-world-cup-semifinals-mbappe-olise-dembele-oyarzabal-porro",
+   "lede": "Well that didn’t go as expected. The legendary France side boasting Michael Olisé, Ousmane Dembelé, and Kylian Mbappé was silenced after being held to a clean sheet in a game that lacked any real bite from the attacking trio. Early on, it felt as though France would come back in a big way during the second half, but it was never to be. Losing team jersey swap: Nobody While it always feels harsh giving this award to no one, there was simply no one that warranted a jersey swap.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285482806.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "Is France out of World Cup after Spain loss? Why it's not done yet",
@@ -8,8 +38,8 @@
    "link": "https://sports.yahoo.com/articles/france-world-cup-spain-loss-210014448.html",
    "lede": "France's dream of a World Cup championship falls just short. Les Bleus will not be heading back to the World Cup final after losing to Spain in the semifinals on Tuesday, July 14. Spain scored early in the first half and again in the second half as France was shut out for the first time in the tournament. The loss denies France the chance to be in the title match for the third consecutive tournament as it was trying to win it all for the third time, and first since 2018.",
    "image": "https://s.yimg.com/ny/api/res/1.2/504E4kBMXE.Q3SGdEia1Dg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/41c78b5590cd6288f13749147394dfc5",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -18,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/buy-spain-world-cup-finals-210004142.html",
    "lede": "Editor's note: Follow for live updates on France vs. Spain's stifling defense proved too much for France in the World Cup semifinals. La Roja are headed back to the World Cup Finals for the second time in the country's history, defeating France 2-0 on Tuesday afternoon. Mikel Oyarzabal notched the game's first goal via a penalty kick at the 22-minute mark, with Pedro Porro's impressive goal at the 58th minute proving to be the dagger.",
    "image": "https://s.yimg.com/ny/api/res/1.2/u93Ktx6lKhMZJ7QUY2SxPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/7d047f6bdcead941faab4360e0900f60",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,18 +58,18 @@
    "link": "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura",
    "lede": "The Messi arc reaches a decisive point in Atlanta – passage to a third final or an exit to test the limits of Argentina’s love for their unassuming athlete-genius. Wednesday night, Atlanta Stadium, 101 games down, three left to play, and finally it makes sense. Bring on The Countdown, that moment just before kick-off in every one of those quietly fascinating World Cup matches where suddenly the world’s most excited man is bellowing over the PA system in a state of outraged, crowing transport, like the last voice you’ll ever hear before the American century explodes in a ball of inanity, fried chicken and porn. …” the world’s most excited man shouts, prelude to some cautious rolling possession, maybe an early back-pass, and an agreeable reminder that the game itself will not be stage managed.",
    "image": "https://i.guim.co.uk/img/media/9ddfbd069690b758a76e37f909ab2e1f0f694b82/0_6_2490_1992/master/2490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=265dedb1f4adfbab475eace197e8e58e",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
    "title": "Police step up security in Atlanta before England v Argentina World Cup semi-final",
    "iso": "2026-07-14T20:33:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/14/police-step-up-security-in-atlanta-before-england-v-argentina-world-cup-semi-final",
-   "lede": "Extra officers deployed by Atlanta police department. England fans’ behaviour ‘exemplary’ in Miami. Police have stepped up security across Atlanta as the city prepares to host England’s World Cup semi-final against Argentina. The Atlanta police department said extra officers and resources had already been deployed around the city before Wednesday’s match, with increased patrols planned around the Atlanta Stadium as well as “entertainment districts and other high-traffic areas”.",
+   "lede": "1,600 officers to be deployed by Atlanta police department. Banners with ‘provocative’ messages not allowed. Police have stepped up security across Atlanta as the city prepares to host England’s World Cup semi-final against Argentina. The Atlanta police department said extra officers and resources had already been deployed around the city before Wednesday’s match, with increased patrols planned around the Atlanta Stadium as well as “entertainment districts and other high-traffic areas”.",
    "image": "https://i.guim.co.uk/img/media/7bdd2574bf27bef39662b75b31f2915cae365360/397_640_3393_2714/master/3393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29a61773b003c026aafba8e856e57d84",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,36 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-2026-rivalry",
    "lede": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach Lionel Scaloni calling for the focus to be on football, not the Falklands. After confirmation that match 102, one of the World Cup semi-finals, would be England v Argentina, the 1982 Falklands/Malvinas conflict was mentioned at Lionel Scaloni’s press conference. “No, no, no,” the Argentina head coach tut-tutted emphatically. “This is just a football match.",
    "image": "https://i.guim.co.uk/img/media/58e2346e4502577ec5d17dd7765735093721517d/446_254_2092_1673/master/2092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1002d4027e071d3be9b5b8d738eaf963",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Why is there a new ball in the semi-finals?",
-   "iso": "2026-07-14T20:21:34.000Z",
-   "link": "https://www.bbc.com/sport/articles/c3wyw7pjv6qo",
-   "lede": "Fifa has introduced a new ball for the last four games of the World Cup. The gold and black Trionda Final ball will be used during the two semi-finals - France v Spain and England v Argentina, the third-place play off and Sunday's World final. On 6 July, Adidas and Fifa announced it would replace the Trionda Official Match ball, which adopted the colours of the host countries of red, blue, green and white and was used for the first 100 games of the tournament. The name 'Trionda' can be translated from Spanish as 'three waves' and represents the three host countries.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/377d/live/05ef0710-7fc2-11f1-bee8-53ce494e1abc.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "France vs Spain Live Today Could End One Nation’s World Cup Dream",
-   "iso": "2026-07-14T20:10:36.000Z",
-   "link": "https://sports.yahoo.com/articles/france-vs-spain-live-today-201036984.html",
-   "lede": "France vs Spain live today will decide who reaches the 2026 FIFA World Cup Final. The semi-final takes place on Tuesday, July 14, 2026, at Dallas Stadium in Arlington, Texas. Kickoff is scheduled for 8:00 PM BST, 3:00 PM EDT, and 2:00 PM local time. France enters the match with the tournament’s best attack, having scored 16 goals in six matches.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/h.ke6HjVyJxoxFUkay.qAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/heavy_214/0de190a1dc8feeed720669449b627adc",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Close encounters: England have to crack Argentina’s ability to prevent close-range shots",
-   "iso": "2026-07-14T20:03:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-close-range-shots",
-   "lede": "Argentina’s underlying defensive process has been stronger than the outcomes so England must make potent use of their set pieces. Argentina’s defence has not always looked befitting of World Cup champions this summer. Cape Verde, Egypt and Jordan have collectively scored five goals against them, with their only clean sheets coming against Algeria and Austria. The ease with which relative minnows have broken the backline of Lionel Scaloni’s side should offer ample encouragement to Jude Bellingham and Harry Kane.",
-   "image": "https://i.guim.co.uk/img/media/7ac211f09324e221eb655498d89e38a8ef125996/1105_0_3121_2498/master/3121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8d4813e1947372f4be3afe87e04b152",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
