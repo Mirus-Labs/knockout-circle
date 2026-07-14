@@ -1,9 +1,9 @@
 {
- "updated": "2026-07-14T00:11:48.783Z",
+ "updated": "2026-07-14T00:54:19.566Z",
  "news": [
   {
    "cat": "SOUTH CHINA MORNING POST",
-   "title": "Fifa World Cup semi-finals: 4 previous champions, a bitter rivalry, race for Golden Boot",
+   "title": "Fifa World Cup semis: 4 previous champions, a bitter rivalry, race for Golden Boot",
    "iso": "2026-07-14T00:00:17.000Z",
    "link": "https://www.scmp.com/sport/football/article/3360418/fifa-world-cup-semi-finals-4-previous-champions-bitter-rivalry-race-golden-boot",
    "lede": "It is a World Cup semi-final line-up for the ages: four previous champions and the four top-ranking teams in the world. Five of the six top scorers, one GOAT and one of the most bitter rivalries in football. Argentina, Spain, France and England went into the tournament as the top four in Fifa’s rankings and are two wins away from being crowned champions of the world again. France will play Spain in Arlington, Texas, on Tuesday (Wednesday 3am, Hong Kong time) and England will face Argentina in Atlanta on Wednesday (Thursday 3am).",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "THE GUARDIAN",
+   "title": "Declan Rice winning fitness battle to start for England against Argentina",
+   "iso": "2026-07-13T23:43:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/13/england-declan-rice-winning-fitness-battle-argentina-world-cup",
+   "lede": "Rice expected to overcome illness for semi-final. Jordan Pickford: ‘We can’t focus solely on Messi’. Declan Rice is set to overcome illness and retain his place for England’s World Cup semi-final against Argentina on Wednesday. The Arsenal midfielder was substituted at half-time of England’s win over Norway in the quarter-final, with Thomas Tuchel revealing that he had spent most of the previous three days in bed due to illness.",
+   "image": "https://i.guim.co.uk/img/media/f2b66f057d378ade53e49dbe943fccf6096eeb5a/0_12_3788_3031/master/3788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce4ea855847945afd2c55e526cfcd484",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "HAPPY MAG",
    "title": "Argentina vs England is officially the World Cup’s most expensive semi-final -",
    "iso": "2026-07-13T23:42:52.000Z",
    "link": "https://happymag.tv/argentina-vs-england-is-officially-the-world-cups-most-expensive-semi-final/",
    "lede": "Argentina vs England is officially the most expensive semi-final of the 2026 FIFA World Cup on the secondary ticket market, with the cheapest seats currently going for around US$2,841. For that kind of money, you could buy a MacBook Pro and still have a bit left over. It is also more than double the get-in price for France vs Spain, despite that game featuring two of the highest-ranked teams in world football. Over the past three days, Argentina vs England ticket prices have jumped 34 per cent, briefly hitting US$2,966 before cooling off slightly.",
    "image": "https://happymag.tv/wp-content/uploads/2026/07/fifa-front-row.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -28,8 +38,8 @@
    "link": "https://www.bavarianfootballworks.com/road-to-the-cup/230316/winners-and-losers-of-the-fifa-world-cup-quarterfinals",
    "lede": "After one of the most exciting tournaments in recent memory, things have gotten a bit more predictable over the last week or so. With the top four FIFA World Cup Ranking teams now all advanced to the semifinals, only the best of the best remain. Based on these results, there are a few clear winners and losers of the round. Winners FIFA There is a reason that FIFA introduced a new rule that allocated the top four ranked teams into opposite corners of the World Cup knockout stage.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285106674.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SANTA MARIA TIMES",
@@ -38,8 +48,8 @@
    "link": "https://santamariatimes.com/ap/sports/neither-france-nor-spain-has-trailed-at-this-years-world-cup-but-only-one-can/article_92a19b6e-fe9b-43c6-885c-9c01a9d84183.html",
    "lede": "ARLINGTON, Texas — Kylian Mbappé and France haven’t trailed at all at this year's World Cup. Neither has Spain with teenage sensation Lamine Yamal and clutch goal-scoring substitute Mikel Merino. Only one of those teams can make it to the final. France and Spain are both playing at their 17th World Cup, but have met only once previously on soccer’s biggest stage.",
    "image": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/8/0b/80b32e32-68e8-423e-8cbb-a7f698d8811d/6a5572b83e870.image.jpg?crop=1024%2C538%2C0%2C72",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "UEFA.COM",
@@ -48,18 +58,18 @@
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
    "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 4-2 vs Croatia (Dallas) Tuesday 23 June: D 0-0 vs Ghana (Boston) Saturday 27 June: W 2-0 vs Panama (New York) Wednesday 1 July (R32): W 2-1 vs DR Congo (Atlanta) Monday 6 July (R16): W 3-2 vs Mexico (Mexico City) Saturday 11 July (QF): W 2-1 aet vs Norway (Miami) Wednesday 15 July (SF): vs Argentina (Atlanta, 21:00).",
    "image": "https://editorial.uefa.com/resources/02a7-2115cfc47644-5b50f05fb766-1000/norway_v_england_quarter_final_-_fifa_world_cup_2026.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Neymar Hints at 2030 World Cup Return Days After Announcing Brazil Retirement",
-   "iso": "2026-07-13T22:45:57.000Z",
-   "link": "https://sports.yahoo.com/articles/neymar-hints-2030-world-cup-191314723.html",
-   "lede": "Brazil was eliminated in the Round of 16 of the 2026 World Cup, and what followed upset many fans. Neymar Jr. announced that his time with the Brazilian national team is over following Brazil's exit from the World Cup. Neymar played two games in the 2026 World Cup, where he scored a penalty against Norway in the Round of 16. After the game, Neymar told media, \"I tried.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/nGn_EjBDXeYUBTJ2zPoh3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/athlon_sports_articles_610/bcc941fa17f89fc37ceee55c322ca0ed",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-13T22:44:14.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time and will have an eye on the gold medals at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I ahead of Norway, Senegal and Iraq to reach the knockout phase. They then beat Sweden in the round of 32, Paraguay in the last 16 and Morocco in the quarter-finals.",
+   "image": "https://editorial.uefa.com/resources/02a7-211193438171-4425f300fed7-1000/fbl-wc-2026-match97-fra-mar.jpeg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "GOAL.COM",
@@ -68,16 +78,6 @@
    "link": "https://www.goal.com/en/news/most-expensive-world-cup-tickets/blt40665381e2b4c304",
    "lede": "These are the whoppers on the World Cup ticket market right now, going as high as $30,000. The FIFA World Cup has officially returned to North America for the first time since USA '94. Thirty years ago, despite soccer's lower profile in the region, that tournament shattered attendance metrics to become one of the most commercially successful iterations in history. Now, the newly expanded 48-team tournament is deep into its high-stakes knockout stages.",
    "image": "https://assets.goal.com/images/v3/blt18c56d6c78146b2e/crop/MM5DIOBQGA5DENZQGA5G433XMU5DCORQ/GettyImages-1451936359.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BBC",
-   "title": "England to make late call on Rice for World Cup semi-final",
-   "iso": "2026-07-13T21:30:05.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/ce8m996g9g1o",
-   "lede": "Declan Rice was withdrawn at half-time during England's quarter-final win against Norway. England will make a late decision on whether Declan Rice is fit to start the World Cup semi-final against Argentina. But there remains optimism the Arsenal midfielder can shake off the effects of an illness to play on Wednesday. Rice, who suffered with a sickness bug in the lead-up to Saturday's quarter-final victory over Norway in Miami, was substituted at half-time.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f306/live/3f85fdc0-7ef1-11f1-83a7-0959f8cc10cc.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
