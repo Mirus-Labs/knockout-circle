@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T19:57:28.200Z",
+ "updated": "2026-07-14T20:32:54.794Z",
  "news": [
   {
    "cat": "WISCONSIN MUSLIM JOURNAL",
@@ -12,12 +12,12 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE-SUN.COM",
-   "title": "Fifa tell fans to arrive staggering FOUR HOURS early for World Cup final",
-   "iso": "2026-07-14T19:30:00.000Z",
-   "link": "https://www.the-sun.com/sport/16691342/fifa-world-cup-final-closing-ceremony-halftime-show/",
-   "lede": "WORLD Cup final supporters have been told to arrive FOUR HOURS before kick-off on Sunday. The New York-New Jersey Stadium will stage the biggest game in world football on July 19. And America is ready to put on a show that goes against all normal rules in the sport. Fifa released a statement on Tuesday about Sunday’s final in East Rutherford, New Jersey.",
-   "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/2026-quarter-final-match-norway-1095002436_3c4c37.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "cat": "THE TELEGRAPH",
+   "title": "Fifa to break rules with 30 minute half-time show at World Cup final",
+   "iso": "2026-07-14T19:40:00.000Z",
+   "link": "https://www.telegraph.co.uk/football/2026/07/14/half-time-show-world-cup-final-30-minutes-fifa-shakira/",
+   "lede": "BBC and ITV bracing for long interval to accommodate performances by Madonna, Shakira and BTS at New Jersey’s MetLife Stadium. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent. Before joining the Telegraph in 2013, Ben spent more than eight years at the Press Association, including as a football and rugby reporter.",
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/07/14/TELEMMGLPICT000489888211_17840569509410_trans_NvBQzQNjv4Bqy66hu0TpIy4d7oO0NBM5NTQnC5DCw90YHLKHXFlQeAE.jpeg?impolicy=OG-Standard",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "YAHOO SPORTS",
+   "title": "Bastille Day moment of silence held before France vs. Spain World Cup semifinal",
+   "iso": "2026-07-14T19:20:54.000Z",
+   "link": "https://sports.yahoo.com/articles/bastille-day-moment-silence-held-192054345.html",
+   "lede": "ARLINGTON, Texas — A moment of silence was held before France-Spain in the World Cup semifinals Tuesday, July 14, for the 10th anniversary of the Bastille Day terror attack in France in 2016. The second-deadliest attack in the country's history killed 86 people and injured 458 others in Nice, France. The act was claimed by the Islamic State. REQUIRED READING: France vs Spain LIVE: World Cup blockbuster score, lineups and how to watch.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/ElCcD.rXMqUwYgQGzuMEhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/d49277ce32b729282a98ad9ce5b55980",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE MIRROR",
    "title": "World Cup final half-time show to last HALF AN HOUR as FIFA ignore rules",
    "iso": "2026-07-14T19:02:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/world-cup-final-show-fifa-37431359",
    "lede": "The half-time interval for the World Cup final is now expected to be a whopping 30 minutes long. FIFA introduced a Super Bowl half-time show style event that will take place at the break of play. The likes of Justin Bieber and Shakira are set to be among the names performing in the glitzy show. The BBC and ITV were initially not going to broadcast the show , instead choosing to focus on the highlights and analysis from the opening 45 minutes of the clash at the MetLife Stadium in New York.",
    "image": "https://i2-prod.mirror.co.uk/article37431390.ece/ALTERNATES/s1200d/0_Norway-v-England-2026-FIFA-World-Cup-Quarter-Final.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -48,8 +58,8 @@
    "link": "https://sports.yahoo.com/articles/fifa-unusual-world-cup-change-184500444.html",
    "lede": "We’re at the business end of the 2026 FIFA World Cup, down to just four teams competing for soccer’s biggest prize. For the rest of the games left to play, FIFA have made a surprising decision to change the ball being used. In the early goings, the Trionda ball in use was a hot topic of conversation. Goalkeepers were struggling to read the flight of the ball, and it resulted in some cracking long-range efforts which — in normal circumstances — might have been saved.",
    "image": "https://s.yimg.com/ny/api/res/1.2/oaW9lAym6TBR14wfK7QMyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/hitc_articles_832/8525ef8eb552032e0823cd38b17e9f76",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,16 +68,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/14/world-cup-and-ballon-dor-england-harry-kane",
    "lede": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performances. Five days to win the Ballon d’Or. The way to do it: outshine Lionel Messi in Atlanta, then see off Kylian Mbappé or Lamine Yamal on Sunday. For Harry Kane, nothing will come without a fight.",
    "image": "https://i.guim.co.uk/img/media/5e11e22458cbf251404f632434f4ce77c1f05c28/694_768_3716_2973/master/3716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4874fd8d0663fcd65595beb679395631",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "NZ HERALD",
-   "title": "France and Spain square off for a place in Fifa World Cup final",
-   "iso": "2026-07-14T18:30:39.000Z",
-   "link": "https://www.nzherald.co.nz/sport/football/football-world-cup/france-v-spain-live-updates-from-the-fifa-world-cup-semi-final-in-dallas/PX3D23KFLZED5BE2LZS6EG6GQM/",
-   "lede": "Follow the action as France and Spain square off for a place in the Fifa World Cup final. Go all in to unlock every Fifa World Cup 2026 match with a TVNZ+ Event Pass. England face Argentina in Atlanta for their first clash in 21 years.",
-   "image": "https://www.nzherald.co.nz/resizer/v2/6QIIWOYC7FEFNM7MCZ3MMNDN4M.jpg?auth=d9cc3a103953ba06716c313238de307d95e8b264082549360d7cab1c69fd3ea3&width=1200&height=675&quality=70&focal=2841%2C800&smart=false",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
