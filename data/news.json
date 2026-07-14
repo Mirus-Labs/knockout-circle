@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T18:41:13.725Z",
+ "updated": "2026-07-14T18:49:12.792Z",
  "news": [
   {
    "cat": "FOX 5 ATLANTA",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "UEFA.COM",
-   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
-   "iso": "2026-07-14T17:23:42.000Z",
-   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
-   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time and will have an eye on the gold medals at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I ahead of Norway, Senegal and Iraq to reach the knockout phase. They then beat Sweden in the round of 32, Paraguay in the last 16 and Morocco in the quarter-finals.",
-   "image": "https://editorial.uefa.com/resources/02a7-211193438171-4425f300fed7-1000/fbl-wc-2026-match97-fra-mar.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "‘For Diego’: spectre of Maradona looms over Argentina ahead of England clash",
    "iso": "2026-07-14T17:16:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup",
    "lede": "The image of the national icon has been ever present through this World Cup, in banners and songs and memory. It adds a fresh layer to Wednesday’s semi-final. Not two minutes after his side’s dramatic, extra-time quarter-final victory over Switzerland on Saturday, the Argentina head coach, Lionel Scaloni, was already getting asked about the semi-final. Looming on the horizon was a match against bitter rivals England.",
    "image": "https://i.guim.co.uk/img/media/be988f09e9a1ab8403cc8a59209a087533ca7365/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08609b99618a461641be85594da1a984",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,26 +48,36 @@
    "link": "https://sports.yahoo.com/articles/world-cup-predictions-expert-picks-165737150.html",
    "lede": "The 2026 World Cup semifinals feature two matches soccer fans dreamed about before the tournament began. Spain and and Argentina vs. England pits four powerhouses against one another, with the game's biggest stars on the field together to decide the winner of soccer's most important trophy. The final step before the World Cup ends, begins on Tuesday, July 14 when France and Spain meet in Arlington, Texas, with a spotlight on France's Kylian Mbappe and Spain's Lamine Yamal as they renew their La Liga rivalry on a grand stage.",
    "image": "https://s.yimg.com/ny/api/res/1.2/COqg_jQMnswWRi7cglD_Dg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDY7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9c067470cf567bb7bd3e466889903450",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Close encounters: England have to crack Argentina’s ability to prevent close-range shots",
+   "iso": "2026-07-14T16:52:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-close-range-shots",
+   "lede": "Argentina’s underlying defensive process has been stronger than the outcomes so England must make potent use of their set pieces. Argentina’s defence has not always looked befitting of World Cup champions this summer. Cape Verde, Egypt and Jordan have collectively scored five goals against them, with their only clean sheets coming against Algeria and Austria. The ease with which relative minnows have broken the backline of Lionel Scaloni’s side should offer ample encouragement to Jude Bellingham and Harry Kane.",
+   "image": "https://i.guim.co.uk/img/media/7ac211f09324e221eb655498d89e38a8ef125996/1105_0_3121_2498/master/3121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8d4813e1947372f4be3afe87e04b152",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BILLBOARD",
-   "title": "How Oasis’ ‘Wonderwall’ Became the Unofficial Anthem for England’s Epic World Cup Run",
-   "iso": "2026-07-14T16:57:03.000Z",
-   "link": "https://www.billboard.com/music/rock/oasis-wonderwall-team-england-world-cup-anthem-1236293831/",
-   "lede": "The England men’s football team didn’t commission an official anthem for this year’s FIFA World Cup, but perhaps the answer was staring them in the face all along. After every match in the Three Lions’ current unbeaten run in the tournament, the team have lined up in front of their traveling supporters and been serenaded with one of the most popular rock songs in history: Oasis’ 1995 classic “Wonderwall.” The song has since experienced a remarkable uptick in streams and sales; at the time of writing, the song is up to No. 2 on the Spotify’s top 50 global chart, trailing only Shakira and Burna Boy’s “Dai Dai,” an official anthem for the tournament. It has leapt 20 places week-on-week on the U.K.’s Official Singles Chart and could go even further and best its previous best of No.",
-   "image": "https://www.billboard.com/wp-content/uploads/2026/07/england-world-cup-2026-wonderwall-billboard-1800.jpg?w=1024",
+   "cat": "YAHOO SPORTS",
+   "title": "One thing you're looking forward to when club football returns",
+   "iso": "2026-07-14T16:50:23.000Z",
+   "link": "https://sports.yahoo.com/articles/one-thing-youre-looking-forward-165023458.html",
+   "lede": "The World Cup is doing a fantastic job of filling the Premier League void, but there is nothing quite like club football. As the tournament in North America heads towards its climax, there is a Sunderland fanbase waiting for the 2026-27 season with anticipation. So, it has got us thinking: what are you looking forward to most about club football resuming?",
+   "image": "https://s.yimg.com/ny/api/res/1.2/kPurdY.kv_jAaAwX2muqGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/4a99d9ae806af36ce51cecfc7a874405",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup semifinals start Tuesday, July 14. What you need to know",
-   "iso": "2026-07-14T16:52:29.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-semifinals-start-tuesday-165229862.html",
-   "lede": "The FIFA Men's World Cup is down to four semifinalists, each nation grasping to reach the final that crowns soccer's world champion on Sunday, July 19. France and Spain battle it out on Tuesday, July 14, starting at 3 p.m. England and Argentina go at it beginning at 3 p.m., Wednesday, July 15. Everything you need to know: FIFA Men's World Cup 2026 coverage from USA TODAY.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/8xzmKd3cVgQbcMEQdCzZ3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/lohud-the-journal-news/61e135542ae0919dfa673b1bafa7141f",
+   "cat": "THE GUARDIAN",
+   "title": "Lionel Messi’s first meeting with England will be a contest of will and aura",
+   "iso": "2026-07-14T16:48:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura",
+   "lede": "The Messi arc reaches a decisive point in Atlanta – passage to a third final or an exit to test the limits of Argentina’s love for their unassuming athlete-genius. Wednesday night, Atlanta Stadium, 101 games down, three left to play, and finally it makes sense. Bring on The Countdown, that moment just before kick-off in every one of those quietly fascinating World Cup matches where suddenly the world’s most excited man is bellowing over the PA system in a state of outraged, crowing transport, like the last voice you’ll ever hear before the American century explodes in a ball of inanity, fried chicken and porn. …” the world’s most excited man shouts, prelude to some cautious rolling possession, maybe an early back-pass, and an agreeable reminder that the game itself will not be stage managed.",
+   "image": "https://i.guim.co.uk/img/media/9ddfbd069690b758a76e37f909ab2e1f0f694b82/0_6_2490_1992/master/2490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=265dedb1f4adfbab475eace197e8e58e",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
