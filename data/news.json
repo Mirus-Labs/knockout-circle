@@ -1,6 +1,36 @@
 {
- "updated": "2026-07-14T23:14:26.094Z",
+ "updated": "2026-07-14T23:36:51.337Z",
  "news": [
+  {
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-14T22:35:54.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time but will have to settle for either third or fourth place at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I ahead of Norway, Senegal and Iraq to reach the knockout phase. They then beat Sweden in the round of 32, Paraguay in the last 16 and Morocco in the quarter-finals, but were defeated by Spain in the semi-finals.",
+   "image": "https://editorial.uefa.com/resources/02a7-211ae5231d3c-9e6dbcb87855-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "ESPN.IN",
+   "title": "World Cup 2026: Which teams have been eliminated?",
+   "iso": "2026-07-14T22:24:23.000Z",
+   "link": "https://www.espn.in/football/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
+   "lede": "The biggest World Cup in history featuring 48 teams is shrinking fast as the tournament really hits its stride. While some nations begin preparations for the round of 16, others are packing their bags after their tournament exit. So which sides have been condemned to elimination and how did their World Cup hopes come to a heartbreaking end? - 2026 FIFA World Cup match schedule: Fixtures, results, features.",
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685550_1296x729_16%2D9.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "2026 World Cup Title Odds: Spain Favored After Upset Win Over France",
+   "iso": "2026-07-14T22:07:00.000Z",
+   "link": "https://www.foxsports.com/stories/soccer/world-cup-2026-champion-odds",
+   "lede": "The favorite is favored no more. Spain, in dominant fashion, took down mighty France in the first World Cup semifinal on Tuesday 2-0, and now, La Roja sits atop the championship oddsboard. Spain is on a 37-game unbeaten streak, the longest in team history (28-9-0, W-D-L), last losing 1-0 to Colombia in March 2024. It has now tied Italy (2018 to 2021) for the longest unbeaten streak in international football.",
+   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/pedro-714.jpg?ve=1&tl=1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Close encounters: England have to crack Argentina’s ability to prevent close-range shots",
@@ -8,8 +38,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-close-range-shots",
    "lede": "Argentina’s underlying defensive process has been stronger than the outcomes so England must make potent use of their set pieces. Argentina’s defence has not always looked befitting of World Cup champions this summer. Cape Verde, Egypt and Jordan have collectively scored five goals against them, with their only clean sheets coming against Algeria and Austria. The ease with which relative minnows have broken the backline of Lionel Scaloni’s side should offer ample encouragement to Jude Bellingham and Harry Kane.",
    "image": "https://i.guim.co.uk/img/media/7ac211f09324e221eb655498d89e38a8ef125996/1105_0_3121_2498/master/3121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8d4813e1947372f4be3afe87e04b152",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BBC",
@@ -18,8 +48,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo",
    "lede": "The half-time show for last year's Club World Cup final took place on a stage constructed in the top tier of the New York New Jersey Stadium. The half-time break in Sunday's World Cup final is expected to last between 20 and 25 minutes. An 11-minute Super Bowl-style show, co-headlined by Madonna, Shakira and K-pop boy band BTS, will take place during the interval at New York New Jersey Stadium. While sources within World Cup organisers Fifa suggest the break will be around 20 minutes, it is understood that one option is for the normal 15-minute half-time break and then the planned 11-minute show.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/87e7/live/ef389790-7fce-11f1-b100-ede08f115ddf.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +58,8 @@
    "link": "https://sports.yahoo.com/soccer/article/world-cup-goal-leaders-golden-boot-lionel-messi-erling-haaland-kylian-mbappe-ousmane-dembele-010143798.html",
    "lede": "The stars have been out throughout the 2026 World Cup. There are a handful of them among the final four teams. We've been tracking the race for the Golden Boot, the award that's given to the World Cup's top goal scorer. Assists are used as a tiebreaker if two or more players have the same goal total.",
    "image": "https://s.yimg.com/ny/api/res/1.2/vApfCF5yZVnOXBw5L_nasA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/1cb317b8-5841-45e2-85d4-6626bce8a643",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,45 +68,15 @@
    "link": "https://www.theguardian.com/football/2026/jul/14/lionel-messis-first-meeting-with-england-will-be-a-contest-of-will-and-aura",
    "lede": "The Messi arc reaches a decisive point in Atlanta – passage to a third final or an exit to test the limits of Argentina’s love for their unassuming athlete-genius. Wednesday night, Atlanta Stadium, 101 games down, three left to play, and finally it makes sense. Bring on The Countdown, that moment just before kick-off in every one of those quietly fascinating World Cup matches where suddenly the world’s most excited man is bellowing over the PA system in a state of outraged, crowing transport, like the last voice you’ll ever hear before the American century explodes in a ball of inanity, fried chicken and porn. …” the world’s most excited man shouts, prelude to some cautious rolling possession, maybe an early back-pass, and an agreeable reminder that the game itself will not be stage managed.",
    "image": "https://i.guim.co.uk/img/media/9ddfbd069690b758a76e37f909ab2e1f0f694b82/0_6_2490_1992/master/2490.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=265dedb1f4adfbab475eace197e8e58e",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Football Extra: Readers' World Cup memorabilia",
-   "iso": "2026-07-14T21:27:47.000Z",
-   "link": "https://sports.yahoo.com/articles/football-extra-readers-world-cup-212747717.html",
-   "lede": "Meet 60 year old World Cup Willy. In 1966 I lived near Wembley Stadium and went to many games there including the final. He's definitely showing his age (as am I!), but I'm hoping he'll continue to bring England luck from his current home in Wilmington NC, USA. my programmes and some of the tickets from WC '66.",
-   "image": "https://s.yimg.com/os/en/bbc_us_articles_995/29655474433b00b48197b40c37c0109d",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LE MONDE.FR",
-   "title": "Spain stun France to reach World Cup 2026 final",
-   "iso": "2026-07-14T21:25:17.000Z",
-   "link": "https://www.lemonde.fr/en/sports/article/2026/07/14/spain-stun-france-to-reach-world-cup-2026-final_6755473_9.html",
-   "lede": "Spain stunned tournament favorites France 2-0 to reach the World Cup final on Tuesday, July 14, producing a tactical masterpiece to shatter Les Bleus' dreams of winning the title for the third time. A first-half penalty from Mikel Oyarzabal and a 58th-minute Pedro Porro goal sealed an utterly clinical victory for the European champions at the AT&T Stadium in Arlington, Texas. Spain, World Cup winners in 2010, will now face either Argentina or England in Sunday's final in New Jersey. \"We started almost four years ago with an idea and we've been faithful to that idea and it's brought us here,\" said Spain coach Luis de la Fuente, hailing his team.",
-   "image": "https://img.lemde.fr/2026/07/14/0/0/5250/3500/1440/960/60/0/c9b42f1_ftp-1-yjw74ayxc0l3-0de0838795fe416dbc136173c65fd394-2-d877ac28a502460ab91fc8f21279dce3.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "REUTERS",
-   "title": "Deschamps' golden France era to end after another heartbreak, but legacy intact",
-   "iso": "2026-07-14T23:05:24.000Z",
-   "link": "https://www.reuters.com/sports/soccer/deschamps-golden-france-era-end-after-another-heartbreak-legacy-intact-2026-07-14/",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Is it Spain’s tournament to lose? Re-ranking the World Cup teams with three games left",
-   "iso": "2026-07-14T22:42:02.000Z",
-   "link": "https://www.nytimes.com/athletic/7329359/2026/07/14/world-cup-2026-48-teams-ranked/",
-   "lede": "Spain are through to the final after beating France on Tuesday.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/14183003/GettyImages-2286119962-1-scaled-e1784068227732.jpg?width=1200&height=630&fit=cover",
+   "cat": "FACEBOOK.COM",
+   "title": "From The Athletic FC: Spain defeated France, the 2018 World Cup winner, 2-0, to make their second final. France entered the tournament as favourites, but Spain never allowed them to click into gear as they secured a deserved victory. https://nyti.ms/4piZFJ0",
+   "iso": "2026-07-14T23:22:19.000Z",
+   "link": "https://www.facebook.com/nytimes/photos/from-the-athletic-fc-spain-defeated-france-the-2018-world-cup-winner-2-0-to-make/1429255582390234/",
+   "lede": "From The Athletic FC: Spain defeated France, the 2018 World Cup winner, 2-0, to make their second final. France entered the tournament as favourites, but Spain never allowed them to click into gear as they secured a dese",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
