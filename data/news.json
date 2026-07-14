@@ -1,15 +1,55 @@
 {
- "updated": "2026-07-14T17:36:12.001Z",
+ "updated": "2026-07-14T18:41:13.725Z",
  "news": [
   {
-   "cat": "HEAVY.COM",
-   "title": "France vs Spain Live Today Could End One Nation’s World Cup Dream",
-   "iso": "2026-07-14T17:10:36.000Z",
-   "link": "https://heavy.com/sports/soccer/world-cup/france-vs-spain-live-today-could-end-one-nations-world-cup-dream/",
-   "lede": "France vs Spain live today will decide who reaches the 2026 FIFA World Cup Final. The semi-final takes place on Tuesday, July 14, 2026, at Dallas Stadium in Arlington, Texas. Kickoff is scheduled for 8:00 PM BST, 3:00 PM EDT, and 2:00 PM local time. France enters the match with the tournament’s best attack, having scored 16 goals in six matches.",
-   "image": "https://heavy.com/wp-content/uploads/2026/07/GettyImages-2285194347.jpg?quality=65&strip=all",
+   "cat": "FOX 5 ATLANTA",
+   "title": "Argentina vs. England: A semifinal about more than football",
+   "iso": "2026-07-14T18:25:33.000Z",
+   "link": "https://www.fox5atlanta.com/news/why-argentina-vs-england-world-cup-semifinal-is-about-more-than-soccer",
+   "lede": "This combination of file photos created on July 12, 2026, shows Argentina's forward #10 Lionel Messi in Arlington on June 27, 2026 (L),ja and England's forward #09 Harry Kane in Arlington on June 17, 2026. England and Argentina will meet in a 2026 Wo. ATLANTA - A fierce and deeply rooted football rivalry will reignite in Atlanta on Wednesday as Argentina and England face off at Atlanta Stadium with a spot in the World Cup final on the line. Argentina advanced to the semifinal round by defeating Switzerland 3-1 in extra time, a victory that followed hard-fought wins against Egypt and Cabo Verde earlier in the tournament.",
+   "image": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/07/1200/630/gettyimages-2285295782-scaled.jpg?ve=1&tl=1",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "How to watch France vs. Spain World Cup semifinal with Sling",
+   "iso": "2026-07-14T17:27:26.000Z",
+   "link": "https://sports.yahoo.com/articles/watch-france-vs-spain-world-172726622.html",
+   "lede": "Kylian Mbappé has been unstoppable for France at the 2026 World Cup. These photos capture some of his greatest moments on the pitch. Mbappe runs with the ball past Iraq's midfielder Zaid Ismael during the 2026 World Cup Group I football match between France and Iraq in Philadelphia on June 22, 2026. Editor's note: Follow France vs.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/5846a.v.0C89D0hXUn2gEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/4f1589d0a1c573b096be5a25f7321479",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "PCMAG",
+   "title": "How to Watch the 2026 FIFA World Cup Semifinal Live Without Cable (and Even for Free)",
+   "iso": "2026-07-14T17:25:21.000Z",
+   "link": "https://www.pcmag.com/how-to/how-to-watch-2026-fifa-world-cup-game-live-for-free-semifinals-july-14",
+   "lede": "And then there were four. We've officially entered the 2026 World Cup semifinals, and we'll see two nail-biting matches this week to decide who will compete in the final on Sunday. What started as a massive worldwide competition between 48 countries has been narrowed down to France, Spain, England, and Argentina. Today's semifinal game is between heavyweights, France and Spain .",
+   "image": "https://i.pcmag.com/imagery/articles/00PzMn9vVXyJzg0k3aVPIg3-2.fit_lim.size_1200x630.v1765421107.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "UEFA.COM",
+   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-14T17:23:42.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time and will have an eye on the gold medals at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I ahead of Norway, Senegal and Iraq to reach the knockout phase. They then beat Sweden in the round of 32, Paraguay in the last 16 and Morocco in the quarter-finals.",
+   "image": "https://editorial.uefa.com/resources/02a7-211193438171-4425f300fed7-1000/fbl-wc-2026-match97-fra-mar.jpeg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘For Diego’: spectre of Maradona looms over Argentina ahead of England clash",
+   "iso": "2026-07-14T17:16:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup",
+   "lede": "The image of the national icon has been ever present through this World Cup, in banners and songs and memory. It adds a fresh layer to Wednesday’s semi-final. Not two minutes after his side’s dramatic, extra-time quarter-final victory over Switzerland on Saturday, the Argentina head coach, Lionel Scaloni, was already getting asked about the semi-final. Looming on the horizon was a match against bitter rivals England.",
+   "image": "https://i.guim.co.uk/img/media/be988f09e9a1ab8403cc8a59209a087533ca7365/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08609b99618a461641be85594da1a984",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -18,66 +58,26 @@
    "link": "https://sports.yahoo.com/articles/world-cup-predictions-expert-picks-165737150.html",
    "lede": "The 2026 World Cup semifinals feature two matches soccer fans dreamed about before the tournament began. Spain and and Argentina vs. England pits four powerhouses against one another, with the game's biggest stars on the field together to decide the winner of soccer's most important trophy. The final step before the World Cup ends, begins on Tuesday, July 14 when France and Spain meet in Arlington, Texas, with a spotlight on France's Kylian Mbappe and Spain's Lamine Yamal as they renew their La Liga rivalry on a grand stage.",
    "image": "https://s.yimg.com/ny/api/res/1.2/COqg_jQMnswWRi7cglD_Dg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDY7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9c067470cf567bb7bd3e466889903450",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "One thing you're looking forward to when club football returns",
-   "iso": "2026-07-14T16:50:23.000Z",
-   "link": "https://sports.yahoo.com/articles/one-thing-youre-looking-forward-165023458.html",
-   "lede": "The World Cup is doing a fantastic job of filling the Premier League void, but there is nothing quite like club football. As the tournament in North America heads towards its climax, there is a Sunderland fanbase waiting for the 2026-27 season with anticipation. So, it has got us thinking: what are you looking forward to most about club football resuming?",
-   "image": "https://s.yimg.com/ny/api/res/1.2/kPurdY.kv_jAaAwX2muqGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/4a99d9ae806af36ce51cecfc7a874405",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BITCOIN FOUNDATION",
-   "title": "What Is W26 Crypto? The World Cup 2026 Memecoin Bringing Football Fans On-Chain",
-   "iso": "2026-07-14T16:35:08.000Z",
-   "link": "https://bitcoinfoundation.org/news/altcoins/what-is-w26-crypto-the-world-cup-2026-memecoin-bringing-football-fans-on-chain/",
-   "lede": "W26 is a community-driven Solana memecoin built around the 2026 FIFA World Cup, allowing football fans to engage in on-chain memes, tournament speculation, social interaction, and trading. It is not an official product of FIFA, so it promises no voting rights, merchandise, or team ownership. This W26 review discusses the coin’s mechanics, tokenomics, price drivers, risks, and ways to acquire it. A unique blend of sports fandom and speculative trading makes W26 appealing to crypto enthusiasts who would not have otherwise engaged with either.",
-   "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/W261.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Close encounters: England have to crack Argentina’s ability to prevent close-range shots",
-   "iso": "2026-07-14T16:34:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-close-range-shots",
-   "lede": "Argentina’s underlying defensive process has been stronger than the outcomes so England must make potent use of their set pieces. Argentina’s defence has not always looked befitting of World Cup champions this summer. Cape Verde, Egypt and Jordan have collectively scored five goals against them, with their only clean sheets coming against Algeria and Austria. The ease with which relative minnows have broken the backline of Lionel Scaloni’s side should offer ample encouragement to Jude Bellingham and Harry Kane.",
-   "image": "https://i.guim.co.uk/img/media/7ac211f09324e221eb655498d89e38a8ef125996/1105_0_3121_2498/master/3121.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8d4813e1947372f4be3afe87e04b152",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "War, antics and vitriol – the England v Argentina rivalry is real but now it is only about football",
-   "iso": "2026-07-14T16:27:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-2026-rivalry",
-   "lede": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina head coach Lionel Scaloni calling for the focus to be on football, not the Falklands. After confirmation that match 102, one of the World Cup semi-finals, would be England v Argentina, the 1982 Falklands/Malvinas conflict was mentioned at Lionel Scaloni’s press conference. “No, no, no,” the Argentina head coach tut-tutted emphatically. “This is just a football match.",
-   "image": "https://i.guim.co.uk/img/media/58e2346e4502577ec5d17dd7765735093721517d/446_254_2092_1673/master/2092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1002d4027e071d3be9b5b8d738eaf963",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "GOAL.COM",
-   "title": "The most expensive World Cup 2026 tickets ranked: World Cup Final, $30,000+ tickets, Argentina and more",
-   "iso": "2026-07-14T16:24:31.000Z",
-   "link": "https://www.goal.com/en/news/most-expensive-world-cup-tickets/blt40665381e2b4c304",
-   "lede": "These are the whoppers on the World Cup ticket market right now, going as high as $30,000. The FIFA World Cup has officially returned to North America for the first time since USA '94. Thirty years ago, despite soccer's lower profile in the region, that tournament shattered attendance metrics to become one of the most commercially successful iterations in history. Now, the newly expanded 48-team tournament is deep into its high-stakes knockout stages.",
-   "image": "https://assets.goal.com/images/v3/blt18c56d6c78146b2e/crop/MM5DIOBQGA5DENZQGA5G433XMU5DCORQ/GettyImages-1451936359.jpg",
+   "cat": "BILLBOARD",
+   "title": "How Oasis’ ‘Wonderwall’ Became the Unofficial Anthem for England’s Epic World Cup Run",
+   "iso": "2026-07-14T16:57:03.000Z",
+   "link": "https://www.billboard.com/music/rock/oasis-wonderwall-team-england-world-cup-anthem-1236293831/",
+   "lede": "The England men’s football team didn’t commission an official anthem for this year’s FIFA World Cup, but perhaps the answer was staring them in the face all along. After every match in the Three Lions’ current unbeaten run in the tournament, the team have lined up in front of their traveling supporters and been serenaded with one of the most popular rock songs in history: Oasis’ 1995 classic “Wonderwall.” The song has since experienced a remarkable uptick in streams and sales; at the time of writing, the song is up to No. 2 on the Spotify’s top 50 global chart, trailing only Shakira and Burna Boy’s “Dai Dai,” an official anthem for the tournament. It has leapt 20 places week-on-week on the U.K.’s Official Singles Chart and could go even further and best its previous best of No.",
+   "image": "https://www.billboard.com/wp-content/uploads/2026/07/england-world-cup-2026-wonderwall-billboard-1800.jpg?w=1024",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Police step up security in Atlanta before England v Argentina World Cup semi-final",
-   "iso": "2026-07-14T16:18:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/14/police-step-up-security-in-atlanta-before-england-v-argentina-world-cup-semi-final",
-   "lede": "Extra officers deployed by Atlanta police department. England fans’ behaviour ‘exemplary’ in Miami. Police have stepped up security across Atlanta as the city prepares to host England’s World Cup semi-final against Argentina. The Atlanta police department said extra officers and resources had already been deployed around the city before Wednesday’s match, with increased patrols planned around the Atlanta Stadium as well as “entertainment districts and other high-traffic areas”.",
-   "image": "https://i.guim.co.uk/img/media/7bdd2574bf27bef39662b75b31f2915cae365360/397_640_3393_2714/master/3393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29a61773b003c026aafba8e856e57d84",
+   "cat": "YAHOO SPORTS",
+   "title": "World Cup semifinals start Tuesday, July 14. What you need to know",
+   "iso": "2026-07-14T16:52:29.000Z",
+   "link": "https://sports.yahoo.com/articles/world-cup-semifinals-start-tuesday-165229862.html",
+   "lede": "The FIFA Men's World Cup is down to four semifinalists, each nation grasping to reach the final that crowns soccer's world champion on Sunday, July 19. France and Spain battle it out on Tuesday, July 14, starting at 3 p.m. England and Argentina go at it beginning at 3 p.m., Wednesday, July 15. Everything you need to know: FIFA Men's World Cup 2026 coverage from USA TODAY.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/8xzmKd3cVgQbcMEQdCzZ3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/lohud-the-journal-news/61e135542ae0919dfa673b1bafa7141f",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
