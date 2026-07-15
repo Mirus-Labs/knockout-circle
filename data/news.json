@@ -1,15 +1,45 @@
 {
- "updated": "2026-07-15T22:14:38.846Z",
+ "updated": "2026-07-15T22:42:51.939Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
-   "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with banner",
-   "iso": "2026-07-15T22:03:00.000Z",
+   "title": "Kylian Mbappé feels sands of time shifting as France suffer fresh World Cup angst",
+   "iso": "2026-07-15T22:33:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst",
+   "lede": "France’s captain has played with a sense of unfinished business but he will be 31 when the next World Cup begins. It was only last month that Kylian Mbappé suggested all roads may lead to Florida. He was in sufficiently mischievous mood to reveal David Beckham had been chewing his ear off about a move to Major League Soccer, dangling the prospect of a reunion with Lionel Messi at Inter Miami. “We will see, I don’t know,” he said.",
+   "image": "https://i.guim.co.uk/img/media/95f751dfd55da8d4506da468309a987f47029ccd/244_504_3707_2966/master/3707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74bf5822338cb8ebeaa2eb3c15155155",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England hearts broken after Argentina’s dramatic late double books World Cup final spot",
+   "iso": "2026-07-15T22:20:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction",
+   "lede": "Anthony Gordon had given Three Lions second-half lead. Enzo Fernández levels before Lautaro Martínez winner. England suffered World Cup heartache on Wednesday night with two late goals in seven minutes giving Argentina a 2-1 comeback win and place in Sunday’s final against Spain. The substitute Lautaro Martínez scored the winner with a close-range header in injury time after Enzo Martínez had equalised with a superb strike from the edge of England’s penalty area in the 85th minute, with Lionel Messi providing the assists for both goals.",
+   "image": "https://i.guim.co.uk/img/media/978712c192d4caafa7b459df2ff3539f4550630c/90_0_2278_1823/master/2278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a870ab363cf8b228ac176129350196c0",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "Jude Bellingham, Harry Kane 'Gutted' After England's World Cup Semifinal Loss",
+   "iso": "2026-07-15T22:19:58.000Z",
+   "link": "https://www.foxsports.com/stories/soccer/england-argentina-world-cup-kane-bellingham-tuchel-react",
+   "lede": "England was stunned when Argentina completed yet another improbable comeback to earn a 2-1 victory in the 2026 World Cup semifinals to keep its title defense alive. The Three Lions led for 78 minutes and could taste its spot in Sunday's final against Spain, before Lionel Messi & Co. stole it. As the result sunk in and England's 60-year title drought prolonged, it stung the players, leaving them to deal with the devastation. Here's how heartbroken England players reacted.",
+   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/england_dejected_horizontal.jpg?ve=1&tl=1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+   "iso": "2026-07-15T22:15:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
    "lede": "Banner refers to Falkland Islands conflict in 1982. Players celebrate on the pitch with the message. The Argentina players celebrated their World Cup win over England with a banner saying “Las Malvinas son Argentinas”, making reference to the 1982 Falklands war. Argentina were 1-0 down with five minutes to go of the semi-final in Atlanta but rallied and scored twice in quick succession to reach a second straight World Cup final, where they will face Spain in New Jersey on Sunday.",
    "image": "https://i.guim.co.uk/img/media/c5e966f8adbd7ac0d799ca8fbb9ee9ed742ab17a/327_0_2896_2317/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d32cc58bb3a0d16ca201d64e33a8df71",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -18,8 +48,28 @@
    "link": "https://www.bavarianfootballworks.com/road-to-the-cup/231181/winners-and-losers-of-the-fifa-world-cup-semifinals",
    "lede": "In what is likely the strongest semifinals we have ever seen in the World Cup, there was huge potential for two thrilling matches. However, sometimes teams with such advanced tactics and brilliant players, doesn’t always lead to the beautiful game. While we didn’t see a goalfest such as in previous rounds, there was some masterclass performances that saw Spain and England advance to the World Cup finals. Winners Spanish defense The Spaniards have been on a historic defensive run.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285479116.jpg?quality=90&strip=all&crop=0%2C10.708272514901%2C100%2C78.583454970198&w=1200",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE JERUSALEM POST",
+   "title": "Argentina stuns England with dramatic late comeback to reach World Cup final",
+   "iso": "2026-07-15T21:45:47.000Z",
+   "link": "https://www.jpost.com/international/article-902650",
+   "lede": "Enzo Fernandez changed England's weekend plans, and Lautaro Martinez booked Argentina in the World Cup final with the game-winner seven minutes later in another dramatic comeback and 2-1 win for the defending world champs at Atlanta Stadium on Wednesday afternoon. Two possessions after he fired a rising missile deflected over the net by England keeper Jordan Pickford, Hernandez used a Lionel Messi assist for a replay of almost the same shot, but planted this one into the left corner of the net in the 85th minute. In the first two minutes of extra time, Martinez settled in front of Pickford at the left edge of the goal and headed a Messi pass by Pickford to cap a stirring rally. The reigning World Cup champions, Argentina, meet Spain on Sunday in East Rutherford, NJ, with a chance to claim a fourth title.",
+   "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730061",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England",
+   "iso": "2026-07-15T21:45:02.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
+   "lede": "Here's your day-by-day breakdown of the 48-team, 37-day World Cup, which has entered the knockout stages ahead of the final on July 19. All the kick-offs for the 2026 World Cup are listed in UK time. Plot who will lift the trophy...",
+   "image": "https://e0.365dm.com/25/12/1600x900/skysports-world-cup-trophy_7105535.jpg?20251209123529",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "CBS NEWS",
@@ -28,56 +78,6 @@
    "link": "https://www.cbsnews.com/news/world-cup-england-argentina-semifinal-rivalry-falklands-war-maradona/",
    "lede": "London — The semifinal clash between England and Argentina in the 2026 FIFA World Cup on Wednesday saw two bitter rivals face off in one of the most emotionally charged matches of the tournament. The contest saw Lionel Messi, considered by many to be one of the best soccer players in the world, play against England for the first time in his long and storied career — and rack up a win, with 2-1 victory sending Argentina to the final. On the other side were England's all-time top goal scorer Harry Kane, and one of the stars of the tournament, Jude Bellingham. Previous matches between the two countries have produced some of the sport's most iconic moments.",
    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/eb504df7-99b1-49af-806f-903a8da7390c/thumbnail/1200x630/c45477ab7245c366102a5d3295a6e1d3/gettyimages-2286141117.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England 1-2 Argentina: World Cup semi-final player ratings",
-   "iso": "2026-07-15T21:39:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-player-ratings",
-   "lede": "Lionel Messi was at his effervescent best while Harry Kane struggled to make an impact. Jordan Pickford Had little chance with either goal. Pulled off a sensational save from González but that will be forgotten now. Reece James Dominated his flank and fully justified being brought back into the side after injury.",
-   "image": "https://i.guim.co.uk/img/media/8d6fcb969aaf014433b4bf7e38593e1ce1886399/660_0_4533_3626/master/4533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=836e2dcec470e3c3bb403867a50fc033",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Is England out of 2026 World Cup after loss? Why it still has one more match",
-   "iso": "2026-07-15T21:36:45.000Z",
-   "link": "https://sports.yahoo.com/articles/england-2026-world-cup-loss-213645908.html",
-   "lede": "With their loss to Argentina on Wednesday, June 15, Harry Kane and the English national team have been eliminated from World Cup contention. The Brits have been praying for a World Cup title ever since their last in 1966. However, time and time again, they've come up short. However, their journey in the 2026 World Cup is not over with the loss.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/4IW2gK3XWrcOWMQrr7NLag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/33068f086779f4d7b25cae414414dce9",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Soccer world roasts Thomas Tuchel after England blows semifinal to Argentina",
-   "iso": "2026-07-15T21:36:18.000Z",
-   "link": "https://sports.yahoo.com/articles/soccer-world-roasts-thomas-tuchel-213618055.html",
-   "lede": "Argentina pulled off a dramatic comeback victory to defeat England 2-1 in the 2026 World Cup semifinals. For a moment, it appeared as if England would reach its first World Cup final since it last won the tournament 60 years ago when Anthony Gordon broke a scoreless deadlock with a goal in the 55th minute. Rather than press for another — and possibly game-clinching — goal, England manager Thomas Tuchel had his team bunker in defensively. This strategy backfired in brutal fashion, with Argentina pulling off another late rally for victory.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/59ih3xbuy8D6JJ5_TwmX3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/47d4d1d29b2bfeff2f9e4ebea4174cc7",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘Collective failure’: French press digests World Cup semi-final defeat by Spain",
-   "iso": "2026-07-15T21:34:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/france-world-cup-semi-final-media-reactions-spain",
-   "lede": "L’Équipe laments ‘mentally sunk’ players in Dallas. Ouest France front page reads: ‘End of American dream’. French fans’ expectations of their national team had been at an all‑time high: a semi-final on Bastille Day, Kylian Mbappé a hero, a squad unbeaten. Across the country, bars had been packed with viewers spilling on to pavements, ready to crack open the fireworks ahead of hopes for the final.",
-   "image": "https://i.guim.co.uk/img/media/d68340b54323de963fdce9be85e9af503fb1c585/175_0_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f064fe03543a87c51fd0b5f40af5d82",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England hearts broken after Argentina’s dramatic late double books World Cup final spot",
-   "iso": "2026-07-15T21:33:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction",
-   "lede": "Anthony Gordon had given Three Lions second-half lead. Enzo Fernández levels before Lautaro Martínez winner. England suffered World Cup heartache on Wednesday night with two late goals in seven minutes from Argentina giving them a 2-1 win and a place in Sunday’s final against Spain. The substitute Lautaro Martínez scored the winner with a close-range header in injury time after Enzo Martínez had equalised with a superb strike from the edge of England’s penalty area in the 85th minute.",
-   "image": "https://i.guim.co.uk/img/media/978712c192d4caafa7b459df2ff3539f4550630c/90_0_2278_1823/master/2278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a870ab363cf8b228ac176129350196c0",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
