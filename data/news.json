@@ -1,25 +1,55 @@
 {
- "updated": "2026-07-15T11:16:12.056Z",
+ "updated": "2026-07-15T12:04:26.450Z",
  "news": [
   {
-   "cat": "THE DAILY STAR",
-   "title": "The first time football brought me to tears",
-   "iso": "2026-07-15T11:11:29.000Z",
-   "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-time-football-brought-me-tears-4224531",
-   "lede": "It has the power to bring joy beyond imagination, but it can also leave even the strongest supporters in tears. I learned that lesson during Argentina's match against England at the 2002 FIFA World Cup. I was a Class Three student, and it was the first World Cup I could truly remember watching. Interestingly, almost everyone in my family supported Brazil, while my father also admired Germany and Italy.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "cat": "THE GUARDIAN",
+   "title": "‘Collective failure’: French press digests World Cup semi-final defeat by Spain",
+   "iso": "2026-07-15T11:47:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/france-world-cup-semi-final-media-reactions-spain",
+   "lede": "L’Équipe laments ‘mentally sunk’ players iin Dallas. Ouest France front page reads: ‘End of American dream’. French fans’ expectations of their national team had been at an all-time high: a semi-final on Bastille Day, Kylian Mbappé a hero, a squad unbeaten. Across the country, bars had been packed with viewers spilling on to pavements, ready to crack open the fireworks ahead of hopes for the final.",
+   "image": "https://i.guim.co.uk/img/media/d68340b54323de963fdce9be85e9af503fb1c585/175_0_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f064fe03543a87c51fd0b5f40af5d82",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "DAZN",
-   "title": "Who is performing at the 2026 World Cup closing ceremony?",
-   "iso": "2026-07-15T10:58:41.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/fifa-world-cup-2026-closing-ceremony-robbie-williams-tom-cruise/jejy47ro4vky1fwmzv4zyzvt1",
-   "lede": "After six weeks of action, 104 games and 48 teams, the 2026 World Cup comes to a close on Sunday night with the showpiece final. However, the tournament isn't going away without one last party to celebrate what has been a feast of football from the US, Canada and Mexico. Ahead of the competition's final, FIFA will put on a closing ceremony for the ages as they sign off from the finals with a celebration of football and some of the biggest names in entertainment. The last time the US hosted the World Cup All the best goals from USA 94 Who is performing at the 2026 World Cup closing ceremony?",
-   "image": "https://images.daznservices.com/di/library/DAZN_News/82/1e/nicole-scherzinger_1hlks4ayk7hbm1alb96rc5e3py.jpg?t=1736962543",
+   "cat": "THE GUARDIAN",
+   "title": "Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
+   "iso": "2026-07-15T11:31:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final",
+   "lede": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos. When the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars. Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes.",
+   "image": "https://i.guim.co.uk/img/media/6f6ab55a52dbe26de2ff02f51580f9bc3ccb5143/238_0_1704_1364/master/1704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=426b5d861774ec1edb924f9eedc5ded8",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Combined XI: England vs. Argentina, World Cup 2026",
+   "iso": "2026-07-15T11:30:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/230464/combined-xi-england-vs-argentina-world-cup-2026-harry-kane-leo-messi-bellingham",
+   "lede": "With the second semi-final set to kick off soon, it would be a good idea to talk about what a combined XI would look like. England and Argentina both boast their fair share of talent, but lack options in several positions (often the same ones), making a lineup like this especially challenging. Still, here is what we’ve got. Note: The goal of making this XI is to have a plausible lineup that could actually work.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285708965.jpg?quality=90&strip=all&crop=0%2C11.372447144399%2C100%2C77.255105711203&w=1200",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Fans in Mexico, Canada and the US: have you enjoyed hosting the World Cup?",
+   "iso": "2026-07-15T11:20:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/football-fans-mexico-canada-us-world-cup-hosts-tournament",
+   "lede": "How was the mood in your city? Did anything surprise you? What will be your enduring memory of the tournament? The biggest World Cup in history – with 48 teams playing 104 matches over 39 days in three countries – is coming to an end.",
+   "image": "https://i.guim.co.uk/img/media/bc7d6dd2bed0efc1eb82a3c08855eccccd96701f/437_172_3620_2897/master/3620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=438dc1ef899097be64b8ba3c9d738ea9",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "England v Argentina in a World Cup semi-final? It’s going to be agony",
+   "iso": "2026-07-15T10:21:40.000Z",
+   "link": "https://sports.yahoo.com/articles/england-v-argentina-world-cup-084125929.html",
+   "lede": "Nearly 18 million people tuned in to watch England muddle past Norway on ITV over the weekend, so it’s a safe bet that tonight’s World Cup semi-final with Argentina will comfortably top 20 million viewers on the BBC. Some will be watching this World Cup for the first time. Some might be new to following England in tournaments. The World Cup is a book that can be opened at any page, each chapter a distinct challenge, a new puzzle to solve.",
+   "image": "https://s.yimg.com/os/en/the_independent_us_sports_articles_270/dadfe6c1cfa7fa44b16ee2f02e729e02",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +58,8 @@
    "link": "https://sports.yahoo.com/articles/predicting-argentina-lineup-vs-england-100729059.html",
    "lede": "Argentina is looking to make it to the World Cup final for a second consecutive season. To achieve that goal, Lionel Messi's squad will need to end England's dream of winning its first World Cup in 60 years. The Three Lions could prove to be a tough test for La Albiceleste. While Argentina has won its way into the semifinals, the team has had some close calls, needing extra time to beat Cape Verde, a late, two-goal rally to dispatch Egypt and extra time to beat a Switzerland squad that was down to 10 men after a 72nd-minute red card against Breel Embolo.",
    "image": "https://s.yimg.com/ny/api/res/1.2/sAeFghgWJI7eJbQteN2S.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/2c83440a037d49ee616b5e598f68b40b",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,46 +68,16 @@
    "link": "https://sports.yahoo.com/articles/ai-predictions-argentina-vs-england-100729347.html",
    "lede": "Argentina and England are squaring off Wednesday, July 15 with a trip to the 2026 World Cup final on the line. Argentina will do so after earning its way to the semifinals despite a bumpy knockout stage. Lionel Messi has helped power his country on another deep tournament run, but Argentina has twice needed extra time to knock out Cape Verde and Switzerland while its win over Egypt required a late, two-goal comeback. Meanwhile, England is coming off back-to-back narrow wins over Mexico and Norway in difficult environments.",
    "image": "https://s.yimg.com/ny/api/res/1.2/o8.p55UWVSz8enI3E_ncPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/30877b2a1aa7976e0ddd80f9b6801ca8",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Where is Argentina vs. England game today? Stadium, location for World Cup semifinal",
-   "iso": "2026-07-15T10:07:15.000Z",
-   "link": "https://sports.yahoo.com/articles/where-argentina-vs-england-game-100715502.html",
-   "lede": "With Spain defeating France Tuesday, half of the 2026 World Cup final has been set. Who will be taking on the mighty, impenetrable defense of the Spanish national team? Will it be Harry Kane and England, looking for its first World Cup title since 1966? Or will it be Argentina, fresh off the title in 2022?",
-   "image": "https://s.yimg.com/ny/api/res/1.2/06eGJ1ZLiUcKbucUHwLlqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjM7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/3aebac8abc1715de76fa88bfa003e0a0",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup winners list: Which countries have taken sport's ultimate crown?",
-   "iso": "2026-07-15T10:06:38.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-winners-list-countries-100638250.html",
-   "lede": "Only eight countries have won the World Cup in its 96-year history and we'll have another repeat champion this summer with Spain, Argentina and England the final three teams standing entering Wednesday's semifinal in Atlanta. Brazil has won the World Cup five times, more than any other country, but haven't done so since 2002. Uruguay won the inaugural World Cup in 1930 (which only featured 13 teams) and then did it again in 1950. Italy has four World Cup championships (1934, 1938, 1982 and 2006), with Germany also won four, the first three under the banner of West Germany.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/NcZVjpKXxLFGy8QyMrhPbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDQ7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/38fe9d49ab4c25d6a6db535a3999645a",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "England lineup projection today vs Argentina: Who will start World Cup game?",
-   "iso": "2026-07-15T10:05:00.000Z",
-   "link": "https://sports.yahoo.com/articles/england-lineup-projection-today-vs-100500165.html",
-   "lede": "Trying to get back to the World Cup final for the first time since winning it all on home soil in 1966, England faces Lionel Messi and Argentina in Wednesday's semifinal, a matchup carrying decades of history and bad blood. England boss Thomas Tuchel made headlines after the quarterfinal win against Norway about his disappointment with how the team played, but that was a nearly 100-degree swamp in Miami, something star Jude Bellingham pointed out after scoring two goals in the game. The Three Lions are still without right back Jarell Quansah, who was banned two games for his red card in the round of 32. Reece James came off the bench against Norway to make his first appearance after missing the previous three matches, but is the Chelsea man healthy enough to start?",
-   "image": "https://s.yimg.com/ny/api/res/1.2/u7Ep7U3hZpUeLx5RNAwl_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/fb93496dcfa53454f2ab215228c369da",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ESPN",
-   "title": "World Cup 2026 today: Live updates, news as Spain cruise into final to face England or Argentina",
-   "iso": "2026-07-15T09:51:17.000Z",
-   "link": "https://www.espn.co.uk/football/story/_/id/49364880/live-updates-news-spain-france-england-argentina",
-   "lede": "Spain breezed past favourites France to reach the World Cup final for the first time since winning the tournament in 2010, and you can catch up on the news and action right here, with ESPN. England take on defending champions Argentina tonight, as the Three Lions hope to end a painful 60-year wait to have another shot at World Cup glory. - World Cup favorites France unravel as Spain book spot in final with ease. Argentina at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups.",
-   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689455_1296x729_16%2D9.jpg",
+   "cat": "AL JAZEERA",
+   "title": "Watch FIFA World Cup: Spain defeats France to reach final",
+   "iso": "2026-07-15T11:56:40.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights",
+   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260714__C27T4RN__v3__HighRes__TopshotFblWc2026Match101FraEsp-1784104384.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
