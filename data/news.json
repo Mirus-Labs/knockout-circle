@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-15T10:29:41.807Z",
+ "updated": "2026-07-15T11:16:12.056Z",
  "news": [
+  {
+   "cat": "THE DAILY STAR",
+   "title": "The first time football brought me to tears",
+   "iso": "2026-07-15T11:11:29.000Z",
+   "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-time-football-brought-me-tears-4224531",
+   "lede": "It has the power to bring joy beyond imagination, but it can also leave even the strongest supporters in tears. I learned that lesson during Argentina's match against England at the 2002 FIFA World Cup. I was a Class Three student, and it was the first World Cup I could truly remember watching. Interestingly, almost everyone in my family supported Brazil, while my father also admired Germany and Italy.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "DAZN",
+   "title": "Who is performing at the 2026 World Cup closing ceremony?",
+   "iso": "2026-07-15T10:58:41.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/fifa-world-cup-2026-closing-ceremony-robbie-williams-tom-cruise/jejy47ro4vky1fwmzv4zyzvt1",
+   "lede": "After six weeks of action, 104 games and 48 teams, the 2026 World Cup comes to a close on Sunday night with the showpiece final. However, the tournament isn't going away without one last party to celebrate what has been a feast of football from the US, Canada and Mexico. Ahead of the competition's final, FIFA will put on a closing ceremony for the ages as they sign off from the finals with a celebration of football and some of the biggest names in entertainment. The last time the US hosted the World Cup All the best goals from USA 94 Who is performing at the 2026 World Cup closing ceremony?",
+   "image": "https://images.daznservices.com/di/library/DAZN_News/82/1e/nicole-scherzinger_1hlks4ayk7hbm1alb96rc5e3py.jpg?t=1736962543",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "Predicting Argentina lineup vs. England ahead of World Cup semifinal",
@@ -8,8 +28,8 @@
    "link": "https://sports.yahoo.com/articles/predicting-argentina-lineup-vs-england-100729059.html",
    "lede": "Argentina is looking to make it to the World Cup final for a second consecutive season. To achieve that goal, Lionel Messi's squad will need to end England's dream of winning its first World Cup in 60 years. The Three Lions could prove to be a tough test for La Albiceleste. While Argentina has won its way into the semifinals, the team has had some close calls, needing extra time to beat Cape Verde, a late, two-goal rally to dispatch Egypt and extra time to beat a Switzerland squad that was down to 10 men after a 72nd-minute red card against Breel Embolo.",
    "image": "https://s.yimg.com/ny/api/res/1.2/sAeFghgWJI7eJbQteN2S.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/2c83440a037d49ee616b5e598f68b40b",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -18,8 +38,8 @@
    "link": "https://sports.yahoo.com/articles/ai-predictions-argentina-vs-england-100729347.html",
    "lede": "Argentina and England are squaring off Wednesday, July 15 with a trip to the 2026 World Cup final on the line. Argentina will do so after earning its way to the semifinals despite a bumpy knockout stage. Lionel Messi has helped power his country on another deep tournament run, but Argentina has twice needed extra time to knock out Cape Verde and Switzerland while its win over Egypt required a late, two-goal comeback. Meanwhile, England is coming off back-to-back narrow wins over Mexico and Norway in difficult environments.",
    "image": "https://s.yimg.com/ny/api/res/1.2/o8.p55UWVSz8enI3E_ncPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/30877b2a1aa7976e0ddd80f9b6801ca8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/where-argentina-vs-england-game-100715502.html",
    "lede": "With Spain defeating France Tuesday, half of the 2026 World Cup final has been set. Who will be taking on the mighty, impenetrable defense of the Spanish national team? Will it be Harry Kane and England, looking for its first World Cup title since 1966? Or will it be Argentina, fresh off the title in 2022?",
    "image": "https://s.yimg.com/ny/api/res/1.2/06eGJ1ZLiUcKbucUHwLlqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjM7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/3aebac8abc1715de76fa88bfa003e0a0",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,8 +58,8 @@
    "link": "https://sports.yahoo.com/articles/world-cup-winners-list-countries-100638250.html",
    "lede": "Only eight countries have won the World Cup in its 96-year history and we'll have another repeat champion this summer with Spain, Argentina and England the final three teams standing entering Wednesday's semifinal in Atlanta. Brazil has won the World Cup five times, more than any other country, but haven't done so since 2002. Uruguay won the inaugural World Cup in 1930 (which only featured 13 teams) and then did it again in 1950. Italy has four World Cup championships (1934, 1938, 1982 and 2006), with Germany also won four, the first three under the banner of West Germany.",
    "image": "https://s.yimg.com/ny/api/res/1.2/NcZVjpKXxLFGy8QyMrhPbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDQ7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/38fe9d49ab4c25d6a6db535a3999645a",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -48,36 +68,16 @@
    "link": "https://sports.yahoo.com/articles/england-lineup-projection-today-vs-100500165.html",
    "lede": "Trying to get back to the World Cup final for the first time since winning it all on home soil in 1966, England faces Lionel Messi and Argentina in Wednesday's semifinal, a matchup carrying decades of history and bad blood. England boss Thomas Tuchel made headlines after the quarterfinal win against Norway about his disappointment with how the team played, but that was a nearly 100-degree swamp in Miami, something star Jude Bellingham pointed out after scoring two goals in the game. The Three Lions are still without right back Jarell Quansah, who was banned two games for his red card in the round of 32. Reece James came off the bench against Norway to make his first appearance after missing the previous three matches, but is the Chelsea man healthy enough to start?",
    "image": "https://s.yimg.com/ny/api/res/1.2/u7Ep7U3hZpUeLx5RNAwl_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/fb93496dcfa53454f2ab215228c369da",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026 fixture schedule and UK kick-off times: Day-by-day breakdown of all 104 matches including England",
-   "iso": "2026-07-15T09:40:54.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england",
-   "lede": "Here's your day-by-day breakdown of the 48-team, 37-day World Cup, which has entered the knockout stages ahead of the final on July 19. All the kick-offs for the 2026 World Cup are listed in UK time. Plot who will lift the trophy...",
-   "image": "https://e0.365dm.com/25/12/1600x900/skysports-world-cup-trophy_7105535.jpg?20251209123529",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "England vs Argentina tactics: How Thomas Tuchel’s side can stop Lionel Messi and Co and reach the World Cup final",
-   "iso": "2026-07-15T09:16:28.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13563015/england-vs-argentina-tactics-how-thomas-tuchel-s-side-can-stop-lionel-messi-and-co-and-reach-the-world-cup-final",
-   "lede": "England face Argentina in the World Cup semi-finals on Wednesday - a fixture loaded with history, jeopardy and one final obstacle between Thomas Tuchel’s side and the World Cup final. It may be the biggest England game of a generation, but where could it be won or lost? According to Opta, the outcome is almost a coin toss, with Tuchel's side given a 52.5 per cent chance of reaching the final - and a 23.4 per cent chance of becoming world champions. Sixteen years separate them, but both have shaped their teams' tournaments, carrying huge attacking responsibility and delivering decisive moments on the road to the semi-finals.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-world-cup-semi-final_7295761.jpg?20260712083024",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "UEFA.COM",
-   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
-   "iso": "2026-07-15T09:13:20.000Z",
-   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
-   "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 4-2 vs Croatia (Dallas) Tuesday 23 June: D 0-0 vs Ghana (Boston) Saturday 27 June: W 2-0 vs Panama (New York) Wednesday 1 July (R32): W 2-1 vs DR Congo (Atlanta) Monday 6 July (R16): W 3-2 vs Mexico (Mexico City) Saturday 11 July (QF): W 2-1 aet vs Norway (Miami) Wednesday 15 July (SF): vs Argentina (Atlanta, 21:00).",
-   "image": "https://editorial.uefa.com/resources/02a7-211ae47511c3-d4fdecb17beb-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
+   "cat": "ESPN",
+   "title": "World Cup 2026 today: Live updates, news as Spain cruise into final to face England or Argentina",
+   "iso": "2026-07-15T09:51:17.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/49364880/live-updates-news-spain-france-england-argentina",
+   "lede": "Spain breezed past favourites France to reach the World Cup final for the first time since winning the tournament in 2010, and you can catch up on the news and action right here, with ESPN. England take on defending champions Argentina tonight, as the Three Lions hope to end a painful 60-year wait to have another shot at World Cup glory. - World Cup favorites France unravel as Spain book spot in final with ease. Argentina at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, line-ups.",
+   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689455_1296x729_16%2D9.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
