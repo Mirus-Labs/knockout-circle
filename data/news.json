@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-15T12:04:26.450Z",
+ "updated": "2026-07-15T12:47:04.877Z",
  "news": [
+  {
+   "cat": "THE HAITIAN TIMES",
+   "title": "Haiti parts ways with World Cup coach Sébastien Migné weeks after historic appearance",
+   "iso": "2026-07-15T12:09:52.000Z",
+   "link": "https://haitiantimes.com/2026/07/15/fhf-fires-migne/",
+   "lede": "Sébastien Migné is no longer Haiti's head coach, the Haitian Football Federation confirmed Tuesday. The Frenchman and the national soccer governing body have mutually agreed to part ways following Haiti's historic qualification for the 2026 FIFA World Cup. The decision follows weeks of public debate over Migné's future after Les Grenadiers exited the global competition without earning a point, despite competitive performances. PORT-AU-PRINCE — Sébastien Migné, the French coach who led Haiti back to the FIFA World Cup for the first time since 1974, is no longer at the helm of Les Grenadiers after the Haitian Football Federation announced Tuesday that both sides had mutually agreed to end his contract.",
+   "image": "https://haitiantimes.com/wp-content/uploads/2026/07/AP26171088885172-scaled.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "NATIONAL CATHOLIC REGISTER",
+   "title": "World Cup Blues, of a Sort",
+   "iso": "2026-07-15T11:52:45.000Z",
+   "link": "https://www.ncregister.com/commentaries/weigel-world-cup-blues",
+   "lede": "COMMENTARY: Five points on what’s wrong with soccer in general and the FIFA World Cup in particular. KRAKOW — I usually find the quadrennial FIFA World Cup aggravating for the five reasons enumerated below, plus one other: my students here in the Tertio Millennio Seminar on the Free Society are sometimes so obsessed with the competition that it becomes challenging to keep our community of learners focused on the seminar’s deep dive into Catholic social doctrine. But as we have few students this year whose countries even made it to the tourney’s knockout stage, interest is somewhat more muted than in the past.",
+   "image": "https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20260715060752_ce6837190b2245c399a42bcd795f90aeca992517b08ca809d5d8b2f368c8c97e.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "‘Collective failure’: French press digests World Cup semi-final defeat by Spain",
@@ -8,8 +28,18 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/france-world-cup-semi-final-media-reactions-spain",
    "lede": "L’Équipe laments ‘mentally sunk’ players iin Dallas. Ouest France front page reads: ‘End of American dream’. French fans’ expectations of their national team had been at an all-time high: a semi-final on Bastille Day, Kylian Mbappé a hero, a squad unbeaten. Across the country, bars had been packed with viewers spilling on to pavements, ready to crack open the fireworks ahead of hopes for the final.",
    "image": "https://i.guim.co.uk/img/media/d68340b54323de963fdce9be85e9af503fb1c585/175_0_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f064fe03543a87c51fd0b5f40af5d82",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "YAHOO",
+   "title": "At least 12 dead in World Cup-related violence in Bangladesh",
+   "iso": "2026-07-15T11:43:06.000Z",
+   "link": "https://www.yahoo.com/news/world/articles/least-12-dead-world-cup-114306330.html",
+   "lede": "A man killed following a spat over Lionel Messi's missed penalty shot was among at least 12 people killed in Bangladesh during the football World Cup. Millions of people across Bangladesh have thrown their support behind Argentina and Brazil since the start of this year's FIFA World Cup, in a display of football fandom that transcends national borders. The country's love for the two Latin American nations hundreds of kilometres away has often turned friends into rivals and turned violent during the match days. Md Shariful Islam, 38, was killed after a altercation between football supporters in Cumilla turned violent during last week's Argentina-Egypt match when Egyptian goalkeeper Mostafa Shobeir saved Messi's penalty.",
+   "image": "https://s.yimg.com/lo/mysterio/api/f2a0575118952c4fe76ac7d1ea809ddc036048bfbefe2081e65b9cc16bc508d0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Ff9a7feed255c60bbc05153590ccd5848",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final",
    "lede": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos. When the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars. Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes.",
    "image": "https://i.guim.co.uk/img/media/6f6ab55a52dbe26de2ff02f51580f9bc3ccb5143/238_0_1704_1364/master/1704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=426b5d861774ec1edb924f9eedc5ded8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -28,8 +58,8 @@
    "link": "https://www.bavarianfootballworks.com/fifa-world-cup/230464/combined-xi-england-vs-argentina-world-cup-2026-harry-kane-leo-messi-bellingham",
    "lede": "With the second semi-final set to kick off soon, it would be a good idea to talk about what a combined XI would look like. England and Argentina both boast their fair share of talent, but lack options in several positions (often the same ones), making a lineup like this especially challenging. Still, here is what we’ve got. Note: The goal of making this XI is to have a plausible lineup that could actually work.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285708965.jpg?quality=90&strip=all&crop=0%2C11.372447144399%2C100%2C77.255105711203&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,46 +68,16 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/football-fans-mexico-canada-us-world-cup-hosts-tournament",
    "lede": "How was the mood in your city? Did anything surprise you? What will be your enduring memory of the tournament? The biggest World Cup in history – with 48 teams playing 104 matches over 39 days in three countries – is coming to an end.",
    "image": "https://i.guim.co.uk/img/media/bc7d6dd2bed0efc1eb82a3c08855eccccd96701f/437_172_3620_2897/master/3620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=438dc1ef899097be64b8ba3c9d738ea9",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "England v Argentina in a World Cup semi-final? It’s going to be agony",
-   "iso": "2026-07-15T10:21:40.000Z",
-   "link": "https://sports.yahoo.com/articles/england-v-argentina-world-cup-084125929.html",
-   "lede": "Nearly 18 million people tuned in to watch England muddle past Norway on ITV over the weekend, so it’s a safe bet that tonight’s World Cup semi-final with Argentina will comfortably top 20 million viewers on the BBC. Some will be watching this World Cup for the first time. Some might be new to following England in tournaments. The World Cup is a book that can be opened at any page, each chapter a distinct challenge, a new puzzle to solve.",
-   "image": "https://s.yimg.com/os/en/the_independent_us_sports_articles_270/dadfe6c1cfa7fa44b16ee2f02e729e02",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Predicting Argentina lineup vs. England ahead of World Cup semifinal",
-   "iso": "2026-07-15T10:07:29.000Z",
-   "link": "https://sports.yahoo.com/articles/predicting-argentina-lineup-vs-england-100729059.html",
-   "lede": "Argentina is looking to make it to the World Cup final for a second consecutive season. To achieve that goal, Lionel Messi's squad will need to end England's dream of winning its first World Cup in 60 years. The Three Lions could prove to be a tough test for La Albiceleste. While Argentina has won its way into the semifinals, the team has had some close calls, needing extra time to beat Cape Verde, a late, two-goal rally to dispatch Egypt and extra time to beat a Switzerland squad that was down to 10 men after a 72nd-minute red card against Breel Embolo.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/sAeFghgWJI7eJbQteN2S.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/2c83440a037d49ee616b5e598f68b40b",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "AI predictions for Argentina vs. England World Cup semifinal",
-   "iso": "2026-07-15T10:07:29.000Z",
-   "link": "https://sports.yahoo.com/articles/ai-predictions-argentina-vs-england-100729347.html",
-   "lede": "Argentina and England are squaring off Wednesday, July 15 with a trip to the 2026 World Cup final on the line. Argentina will do so after earning its way to the semifinals despite a bumpy knockout stage. Lionel Messi has helped power his country on another deep tournament run, but Argentina has twice needed extra time to knock out Cape Verde and Switzerland while its win over Egypt required a late, two-goal comeback. Meanwhile, England is coming off back-to-back narrow wins over Mexico and Norway in difficult environments.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/o8.p55UWVSz8enI3E_ncPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/30877b2a1aa7976e0ddd80f9b6801ca8",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Watch FIFA World Cup: Spain defeats France to reach final",
-   "iso": "2026-07-15T11:56:40.000Z",
-   "link": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights",
-   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260714__C27T4RN__v3__HighRes__TopshotFblWc2026Match101FraEsp-1784104384.jpg?resize=1920%2C1440",
+   "cat": "THE DAILY STAR",
+   "title": "The first time football brought me to tears",
+   "iso": "2026-07-15T11:11:29.000Z",
+   "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-time-football-brought-me-tears-4224531",
+   "lede": "It has the power to bring joy beyond imagination, but it can also leave even the strongest supporters in tears. I learned that lesson during Argentina's match against England at the 2002 FIFA World Cup. I was a Class Three student, and it was the first World Cup I could truly remember watching. Interestingly, almost everyone in my family supported Brazil, while my father also admired Germany and Italy.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
