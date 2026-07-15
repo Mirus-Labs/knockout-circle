@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T07:01:37.798Z",
+ "updated": "2026-07-15T09:24:02.941Z",
  "source": "ESPN",
  "tabs": {
   "assists": [
@@ -59,18 +59,18 @@
     "val": 3
    },
    {
-    "name": "Achraf Hakimi",
-    "team": "Morocco",
-    "val": 2
-   },
-   {
     "name": "Marc Cucurella",
     "team": "Spain",
     "val": 2
    },
    {
-    "name": "Lionel Messi",
-    "team": "Argentina",
+    "name": "Ousmane Dembélé",
+    "team": "France",
+    "val": 2
+   },
+   {
+    "name": "Dani Olmo",
+    "team": "Spain",
     "val": 2
    }
   ],

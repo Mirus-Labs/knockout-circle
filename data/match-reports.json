@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T07:01:40.448Z",
+ "updated": "2026-07-15T09:24:08.031Z",
  "source": "FIFA Training Centre",
  "sourceUrl": "https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php",
  "matches": {
@@ -17063,12 +17063,22 @@
    "updatedAt": "2026-07-12T09:19:21.089Z"
   },
   "101": {
+   "parserVersion": 4,
    "matchNumber": 101,
    "teams": [
     "France",
     "Spain"
    ],
-   "formations": null,
+   "score": {
+    "regulation": [
+     0,
+     2
+    ]
+   },
+   "formations": [
+    "4-2-3-1",
+    "4-1-2-3"
+   ],
    "lineups": {
     "a": [
      {
@@ -17080,7 +17090,7 @@
      {
       "number": 3,
       "position": "DF",
-      "name": "Lucas Digne",
+      "name": "Lucas DIGNE",
       "starter": true
      },
      {
@@ -17096,27 +17106,15 @@
       "starter": true
      },
      {
-      "number": 17,
-      "position": "DF",
-      "name": "William SALIBA",
+      "number": 7,
+      "position": "FW",
+      "name": "Ousmane DEMBELE",
       "starter": true
      },
      {
       "number": 8,
       "position": "MF",
       "name": "Aurelien TCHOUAMENI",
-      "starter": true
-     },
-     {
-      "number": 14,
-      "position": "MF",
-      "name": "Adrien RABIOT",
-      "starter": true
-     },
-     {
-      "number": 7,
-      "position": "FW",
-      "name": "Ousmane DEMBELE",
       "starter": true
      },
      {
@@ -17138,94 +17136,16 @@
       "starter": true
      },
      {
-      "number": 1,
-      "position": "GK",
-      "name": "Brice SAMBA",
-      "starter": false
-     },
-     {
-      "number": 23,
-      "position": "GK",
-      "name": "Robin RISSER",
-      "starter": false
-     },
-     {
-      "number": 2,
-      "position": "DF",
-      "name": "Malo GUSTO",
-      "starter": false
-     },
-     {
-      "number": 15,
-      "position": "DF",
-      "name": "Ibrahima KONATE",
-      "starter": false
-     },
-     {
-      "number": 19,
-      "position": "DF",
-      "name": "Theo HERNANDEZ",
-      "starter": false
-     },
-     {
-      "number": 21,
-      "position": "DF",
-      "name": "Lucas HERNANDEZ",
-      "starter": false
-     },
-     {
-      "number": 26,
-      "position": "DF",
-      "name": "Maxence Lacroix",
-      "starter": false
-     },
-     {
-      "number": 6,
+      "number": 14,
       "position": "MF",
-      "name": "Manu KONE",
-      "starter": false
+      "name": "Adrien RABIOT",
+      "starter": true
      },
      {
-      "number": 13,
-      "position": "MF",
-      "name": "Ngolo KANTE",
-      "starter": false
-     },
-     {
-      "number": 18,
-      "position": "MF",
-      "name": "Warren ZAIRE-EMERY",
-      "starter": false
-     },
-     {
-      "number": 24,
-      "position": "MF",
-      "name": "Rayan CHERKI",
-      "starter": false
-     },
-     {
-      "number": 25,
-      "position": "MF",
-      "name": "Maghnes AKLIOUCHE",
-      "starter": false
-     },
-     {
-      "number": 9,
-      "position": "FW",
-      "name": "Marcus THURAM",
-      "starter": false
-     },
-     {
-      "number": 20,
-      "position": "FW",
-      "name": "Desire DOUE",
-      "starter": false
-     },
-     {
-      "number": 22,
-      "position": "FW",
-      "name": "Jean-Philippe MATETA",
-      "starter": false
+      "number": 17,
+      "position": "DF",
+      "name": "William SALIBA",
+      "starter": true
      }
     ],
     "b": [
@@ -17233,6 +17153,18 @@
       "number": 23,
       "position": "GK",
       "name": "Unai SIMON",
+      "starter": true
+     },
+     {
+      "number": 8,
+      "position": "MF",
+      "name": "Fabian RUIZ",
+      "starter": true
+     },
+     {
+      "number": 10,
+      "position": "FW",
+      "name": "Dani OLMO",
       "starter": true
      },
      {
@@ -17248,39 +17180,9 @@
       "starter": true
      },
      {
-      "number": 22,
-      "position": "DF",
-      "name": "Pau CUBARSI",
-      "starter": true
-     },
-     {
-      "number": 24,
-      "position": "DF",
-      "name": "Marc CUCURELLA",
-      "starter": true
-     },
-     {
-      "number": 8,
-      "position": "MF",
-      "name": "Fabian RUIZ",
-      "starter": true
-     },
-     {
       "number": 15,
       "position": "MF",
       "name": "Alex BAENA",
-      "starter": true
-     },
-     {
-      "number": 16,
-      "position": "MF",
-      "name": "RODRI",
-      "starter": true
-     },
-     {
-      "number": 10,
-      "position": "FW",
-      "name": "Dani OLMO",
       "starter": true
      },
      {
@@ -17296,99 +17198,40 @@
       "starter": true
      },
      {
-      "number": 1,
-      "position": "GK",
-      "name": "David RAYA",
-      "starter": false
-     },
-     {
-      "number": 13,
-      "position": "GK",
-      "name": "Joan GARCIA",
-      "starter": false
-     },
-     {
-      "number": 2,
+      "number": 22,
       "position": "DF",
-      "name": "Marc PUBILL",
-      "starter": false
+      "name": "Pau CUBARSI",
+      "starter": true
      },
      {
-      "number": 3,
+      "number": 24,
       "position": "DF",
-      "name": "Alex GRIMALDO",
-      "starter": false
-     },
-     {
-      "number": 4,
-      "position": "DF",
-      "name": "Eric GARCIA",
-      "starter": false
-     },
-     {
-      "number": 5,
-      "position": "DF",
-      "name": "Marcos LLORENTE",
-      "starter": false
-     },
-     {
-      "number": 6,
-      "position": "MF",
-      "name": "Mikel MERINO",
-      "starter": false
-     },
-     {
-      "number": 9,
-      "position": "MF",
-      "name": "GAVI",
-      "starter": false
-     },
-     {
-      "number": 18,
-      "position": "MF",
-      "name": "Martin ZUBIMENDI",
-      "starter": false
-     },
-     {
-      "number": 20,
-      "position": "MF",
-      "name": "PEDRI",
-      "starter": false
-     },
-     {
-      "number": 7,
-      "position": "FW",
-      "name": "Ferran TORRES",
-      "starter": false
-     },
-     {
-      "number": 11,
-      "position": "FW",
-      "name": "Yeremy PINO",
-      "starter": false
-     },
-     {
-      "number": 17,
-      "position": "FW",
-      "name": "Nico WILLIAMS",
-      "starter": false
-     },
-     {
-      "number": 25,
-      "position": "FW",
-      "name": "Victor MUNOZ",
-      "starter": false
-     },
-     {
-      "number": 26,
-      "position": "FW",
-      "name": "Borja IGLESIAS",
-      "starter": false
+      "name": "Marc CUCURELLA",
+      "starter": true
      }
     ]
    },
-   "source": "FIFA live match feed",
-   "updatedAt": "2026-07-14T17:36:16.036Z"
+   "teamStats": {
+    "a": {
+     "possession": 46.8,
+     "attempts": 10,
+     "onTarget": 3,
+     "xg": 0.48,
+     "passCompletion": 84,
+     "cards": null
+    },
+    "b": {
+     "possession": 45.8,
+     "attempts": 10,
+     "onTarget": 2,
+     "xg": 2.21,
+     "passCompletion": 85,
+     "cards": null
+    }
+   },
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M101-FRA-V-ESP.pdf",
+   "source": "FIFA Training Centre",
+   "updatedAt": "2026-07-15T09:24:07.811Z"
   }
  }
 }
