@@ -1,15 +1,45 @@
 {
- "updated": "2026-07-15T17:22:09.131Z",
+ "updated": "2026-07-15T17:40:57.709Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
+   "title": "‘Collective failure’: French press digests World Cup semi-final defeat by Spain",
+   "iso": "2026-07-15T17:29:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/france-world-cup-semi-final-media-reactions-spain",
+   "lede": "L’Équipe laments ‘mentally sunk’ players in Dallas. Ouest France front page reads: ‘End of American dream’. French fans’ expectations of their national team had been at an all‑time high: a semi-final on Bastille Day, Kylian Mbappé a hero, a squad unbeaten. Across the country, bars had been packed with viewers spilling on to pavements, ready to crack open the fireworks ahead of hopes for the final.",
+   "image": "https://i.guim.co.uk/img/media/d68340b54323de963fdce9be85e9af503fb1c585/175_0_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f064fe03543a87c51fd0b5f40af5d82",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
    "title": "Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
-   "iso": "2026-07-15T17:03:00.000Z",
+   "iso": "2026-07-15T17:29:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final",
    "lede": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos. When the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars. Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes.",
    "image": "https://i.guim.co.uk/img/media/6f6ab55a52dbe26de2ff02f51580f9bc3ccb5143/238_0_1704_1364/master/1704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=426b5d861774ec1edb924f9eedc5ded8",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Fifa hit by injunction in Germany over World Cup ticket resale prices",
+   "iso": "2026-07-15T17:24:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/fifa-injunction-germany-world-cup-ticket-resale-prices",
+   "lede": "Fifa did not appear before court in Frankfurt. Governing body receives 15% commission from buyer and seller. Fifa has been hit with an injunction by a German court ordering it to stop “manipulative processes” in the sale of World Cup tickets. The Frankfurt regional court has granted a request for a preliminary injunction from Ticombo, an online ticket resale site based in Germany, which has instructed Fifa to be more transparent regarding its secondary ticketing sales by disclosing the identity and address of any commercial sellers.",
+   "image": "https://i.guim.co.uk/img/media/dbc37ed90978faf0cdb33700a08bdabbc8bfc0ba/547_94_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3e610ede545147ae8c61d880f780739",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Love and hate collide: England v Argentina is not simply a grudge match | Jonathan Liew",
+   "iso": "2026-07-15T16:41:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match",
+   "lede": "Look beyond the flashpoints and flare-ups and perhaps this is the greatest and most romantic of footballing rivalries. It’s about the ball, right up until the moment it isn’t. On Sunday afternoon Godoy Cruz played Defensores de Belgrano in Nacional B, the second division of Argentinian football, and among the sea of blue home banners were two crosses of St George, apparently expropriated from England fans at the 2014 World Cup. One reads: “Boys & Girls From Oakwell Barnsley.”",
+   "image": "https://i.guim.co.uk/img/media/818884a0cc41f0416e8fc42c6f60e6ea0a300103/246_0_5738_4591/master/5738.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c7d27b0081ba1ab10d85fcba78236690",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TV INSIDER",
@@ -18,8 +48,18 @@
    "link": "https://www.tvinsider.com/1275603/world-cup-2026-final-halftime-show-performers-presenters-how-to-watch/",
    "lede": "The FIFA World Cup 2026 is almost over, but not before a major celebration unfolds at MetLife Stadium, which has served as the New York / New Jersey hub for games the past month. For the first time during the World Cup, football, music, and social impact are coming together for the FIFA World Cup 2026 Final and Halftime Show, and the lineup for the event is star-studded. Along with unveiling an array of talent who will perform at the show, FIFA has also teased presenters and more key details. We break them down for you below.",
    "image": "https://www.tvinsider.com/wp-content/uploads/2026/07/fifa-world-cup-closing-ceremony-halftime-show-tom-cruise-jennifer-hudson-madonna-1420x798.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "World Cup 2026 TV schedule: How to watch every game live in the UK",
+   "iso": "2026-07-15T16:21:51.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup-2026-tv-schedule-bbc-itv-b3014487.html",
+   "lede": "The last-32 matches are all free-to-air on the BBC and ITV. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/07/14/11/2285929537..?trim=0,23,0,23&width=1200&height=800&crop=1200:800",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +68,8 @@
    "link": "https://sports.yahoo.com/articles/argentina-keeps-surviving-world-cup-161050944.html",
    "lede": "Editor's note: Follow for live updates from Argentina-England World Cup showdown! Argentina’s three knockout round games in the 2026 World Cup have all gone down to the wire. Lionel Messi and company beat Cape Verde in extra time, then rallied past Egypt before slipping by Switzerland with a pair of extra-time goals. Three previous teams in men’s World Cup history have won three or more consecutive games decided in the 80th minute or later, extra time or penalties.",
    "image": "https://s.yimg.com/ny/api/res/1.2/_IclmwuIeHpfBRgkyjFHIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/0004b92c32bbf68ef1d220b0960cc0ea",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "UEFA.COM",
@@ -38,46 +78,6 @@
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
    "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 4-2 vs Croatia (Dallas) Tuesday 23 June: D 0-0 vs Ghana (Boston) Saturday 27 June: W 2-0 vs Panama (New York) Wednesday 1 July (R32): W 2-1 vs DR Congo (Atlanta) Monday 6 July (R16): W 3-2 vs Mexico (Mexico City) Saturday 11 July (QF): W 2-1 aet vs Norway (Miami) Wednesday 15 July (SF): vs Argentina (Atlanta, 21:00).",
    "image": "https://editorial.uefa.com/resources/02a7-211ae47511c3-d4fdecb17beb-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘Collective failure’: French press digests World Cup semi-final defeat by Spain",
-   "iso": "2026-07-15T16:02:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/france-world-cup-semi-final-media-reactions-spain",
-   "lede": "L’Équipe laments ‘mentally sunk’ players in Dallas. Ouest France front page reads: ‘End of American dream’. French fans’ expectations of their national team had been at an all‑time high: a semi-final on Bastille Day, Kylian Mbappé a hero, a squad unbeaten. Across the country, bars had been packed with viewers spilling on to pavements, ready to crack open the fireworks ahead of hopes for the final.",
-   "image": "https://i.guim.co.uk/img/media/d68340b54323de963fdce9be85e9af503fb1c585/175_0_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f064fe03543a87c51fd0b5f40af5d82",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "RFI",
-   "title": "Court rules England World Cup winner died from brain injury linked to heading",
-   "iso": "2026-07-15T15:50:14.000Z",
-   "link": "https://www.rfi.fr/en/sports/20260715-court-rules-england-world-cup-winner-died-from-brain-injury-linked-to-heading",
-   "lede": "London (AFP) – England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner's court ruled Wednesday. Stiles, a former Manchester United midfielder, died almost six years ago aged 78 with severe dementia and had headed a football around 140,000 times during his career, Stockport Coroner's Court in northwest England heard at the inquest into his death. Expert analysis of his brain showed his severe dementia was as a result of Alzheimer's disease but also the condition, chronic traumatic encephalopathy (CTE), which has been associated with head trauma from heading a ball. Neuro-pathology expert Dr Daniel Du Plessis told the court: \"I'm quite convinced his heading the football that many times has caused his CTE.\"",
-   "image": "https://s.rfi.fr/media/display/2e77ebd4-7c57-11f1-9e5c-005056a90284/w:1280/p:16x9/fa7d2e5b9959b51aa752fb12bd74ada9840874be.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "What color jersey is Argentina and England wearing today? World Cup Kit reveal",
-   "iso": "2026-07-15T15:44:16.000Z",
-   "link": "https://sports.yahoo.com/articles/color-jersey-argentina-england-wearing-154416789.html",
-   "lede": "Editor's note: Follow for live updates from Argentina-England World Cup showdown! ATLANTA ― It's game day for Argentina and England as the squads gear up to play in the World Cup semifinals. England is trying to win its first tournament title in 60 years, while Argentina continues its title defense after winning in 2022. Wednesday's head-to-head will be a clash of one of the most well-known rivalries in football, headlined by top stars like Lionel Messi and Harry Kane.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/furwks3AvF7Wd66_TKX9Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/be5a8a3c2b12adf0458470270b178299",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Fifa hit by injunction in Germany over World Cup ticket resale prices",
-   "iso": "2026-07-15T15:30:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/fifa-injunction-germany-world-cup-ticket-resale-prices",
-   "lede": "Fifa did not appear before court in Frankfurt. Governing body receives 15% commission from buyer and seller. Fifa has been hit with an injunction by a German court ordering it to stop “manipulative processes” in the sale of World Cup tickets. The Frankfurt regional court has granted a request for a preliminary injunction from Ticombo, an online ticket resale site based in Germany, which has instructed Fifa to be more transparent regarding its secondary ticketing sales by disclosing the identity and address of any commercial sellers.",
-   "image": "https://i.guim.co.uk/img/media/dbc37ed90978faf0cdb33700a08bdabbc8bfc0ba/547_94_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3e610ede545147ae8c61d880f780739",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
