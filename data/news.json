@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-15T17:40:57.709Z",
+ "updated": "2026-07-15T18:39:22.183Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "ITV and BBC to screen full World Cup final half-time show despite time concerns",
+   "iso": "2026-07-15T18:22:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/itv-bbc-world-cup-final-half-time-show",
+   "lede": "Broadcasters expect to have time to analyse the game. Channels planning for break to last 25 to 30 minutes. ITV and BBC are planning to screen Fifa’s controversial half-time show in full from Sunday’s final at the New York New Jersey Stadium, but remain in the dark over how long it will last. The Guardian revealed last month that there were concerns among broadcasters at the length of the half-time spectacle, which has been curated by Coldplay’s Chris Martin and will feature Madonna, Shakira and the K-pop boyband BTS.",
+   "image": "https://i.guim.co.uk/img/media/6786f46d1cb5701908521ef43dc26813d8567a0f/695_95_3554_2842/master/3554.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25a9bf32a70d0634d5797c5e5611fe70",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "‘Collective failure’: French press digests World Cup semi-final defeat by Spain",
@@ -8,8 +18,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/france-world-cup-semi-final-media-reactions-spain",
    "lede": "L’Équipe laments ‘mentally sunk’ players in Dallas. Ouest France front page reads: ‘End of American dream’. French fans’ expectations of their national team had been at an all‑time high: a semi-final on Bastille Day, Kylian Mbappé a hero, a squad unbeaten. Across the country, bars had been packed with viewers spilling on to pavements, ready to crack open the fireworks ahead of hopes for the final.",
    "image": "https://i.guim.co.uk/img/media/d68340b54323de963fdce9be85e9af503fb1c585/175_0_3026_2421/master/3026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f064fe03543a87c51fd0b5f40af5d82",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final",
    "lede": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos. When the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars. Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes.",
    "image": "https://i.guim.co.uk/img/media/6f6ab55a52dbe26de2ff02f51580f9bc3ccb5143/238_0_1704_1364/master/1704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=426b5d861774ec1edb924f9eedc5ded8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +38,18 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/fifa-injunction-germany-world-cup-ticket-resale-prices",
    "lede": "Fifa did not appear before court in Frankfurt. Governing body receives 15% commission from buyer and seller. Fifa has been hit with an injunction by a German court ordering it to stop “manipulative processes” in the sale of World Cup tickets. The Frankfurt regional court has granted a request for a preliminary injunction from Ticombo, an online ticket resale site based in Germany, which has instructed Fifa to be more transparent regarding its secondary ticketing sales by disclosing the identity and address of any commercial sellers.",
    "image": "https://i.guim.co.uk/img/media/dbc37ed90978faf0cdb33700a08bdabbc8bfc0ba/547_94_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3e610ede545147ae8c61d880f780739",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "ESPN.IN",
+   "title": "World Cup 2026: Which teams have been eliminated?",
+   "iso": "2026-07-15T17:00:06.000Z",
+   "link": "https://www.espn.in/football/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
+   "lede": "The biggest World Cup in history featuring 48 teams is shrinking fast as the tournament really hits its stride. While some nations begin preparations for the round of 16, others are packing their bags after their tournament exit. So which sides have been condemned to elimination and how did their World Cup hopes come to a heartbreaking end? - 2026 FIFA World Cup match schedule: Fixtures, results, features.",
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685550_1296x729_16%2D9.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +58,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/england-v-argentina-world-cup-2026-love-hate-grudge-match",
    "lede": "Look beyond the flashpoints and flare-ups and perhaps this is the greatest and most romantic of footballing rivalries. It’s about the ball, right up until the moment it isn’t. On Sunday afternoon Godoy Cruz played Defensores de Belgrano in Nacional B, the second division of Argentinian football, and among the sea of blue home banners were two crosses of St George, apparently expropriated from England fans at the 2014 World Cup. One reads: “Boys & Girls From Oakwell Barnsley.”",
    "image": "https://i.guim.co.uk/img/media/818884a0cc41f0416e8fc42c6f60e6ea0a300103/246_0_5738_4591/master/5738.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c7d27b0081ba1ab10d85fcba78236690",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TV INSIDER",
@@ -48,8 +68,8 @@
    "link": "https://www.tvinsider.com/1275603/world-cup-2026-final-halftime-show-performers-presenters-how-to-watch/",
    "lede": "The FIFA World Cup 2026 is almost over, but not before a major celebration unfolds at MetLife Stadium, which has served as the New York / New Jersey hub for games the past month. For the first time during the World Cup, football, music, and social impact are coming together for the FIFA World Cup 2026 Final and Halftime Show, and the lineup for the event is star-studded. Along with unveiling an array of talent who will perform at the show, FIFA has also teased presenters and more key details. We break them down for you below.",
    "image": "https://www.tvinsider.com/wp-content/uploads/2026/07/fifa-world-cup-closing-ceremony-halftime-show-tom-cruise-jennifer-hudson-madonna-1420x798.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -58,26 +78,6 @@
    "link": "https://www.independent.co.uk/sport/football/world-cup-2026-tv-schedule-bbc-itv-b3014487.html",
    "lede": "The last-32 matches are all free-to-air on the BBC and ITV. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/07/14/11/2285929537..?trim=0,23,0,23&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Argentina keeps surviving World Cup drama. History offers a warning.",
-   "iso": "2026-07-15T16:10:50.000Z",
-   "link": "https://sports.yahoo.com/articles/argentina-keeps-surviving-world-cup-161050944.html",
-   "lede": "Editor's note: Follow for live updates from Argentina-England World Cup showdown! Argentina’s three knockout round games in the 2026 World Cup have all gone down to the wire. Lionel Messi and company beat Cape Verde in extra time, then rallied past Egypt before slipping by Switzerland with a pair of extra-time goals. Three previous teams in men’s World Cup history have won three or more consecutive games decided in the 80th minute or later, extra time or penalties.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/_IclmwuIeHpfBRgkyjFHIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/0004b92c32bbf68ef1d220b0960cc0ea",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "UEFA.COM",
-   "title": "2026 World Cup: All the European sides' group stage and knockout stage fixtures and results",
-   "iso": "2026-07-15T16:05:40.000Z",
-   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-group-stage-and-knock/",
-   "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 4-2 vs Croatia (Dallas) Tuesday 23 June: D 0-0 vs Ghana (Boston) Saturday 27 June: W 2-0 vs Panama (New York) Wednesday 1 July (R32): W 2-1 vs DR Congo (Atlanta) Monday 6 July (R16): W 3-2 vs Mexico (Mexico City) Saturday 11 July (QF): W 2-1 aet vs Norway (Miami) Wednesday 15 July (SF): vs Argentina (Atlanta, 21:00).",
-   "image": "https://editorial.uefa.com/resources/02a7-211ae47511c3-d4fdecb17beb-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
