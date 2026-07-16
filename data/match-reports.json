@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T04:28:19.512Z",
+ "updated": "2026-07-16T07:10:43.995Z",
  "source": "FIFA Training Centre",
  "sourceUrl": "https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php",
  "matches": {
@@ -17234,18 +17234,34 @@
    "updatedAt": "2026-07-15T09:24:07.811Z"
   },
   "102": {
+   "parserVersion": 4,
    "matchNumber": 102,
    "teams": [
     "England",
     "Argentina"
    ],
-   "formations": null,
+   "score": {
+    "regulation": [
+     1,
+     2
+    ]
+   },
+   "formations": [
+    "4-2-3-1",
+    "4-4-2"
+   ],
    "lineups": {
     "a": [
      {
       "number": 1,
       "position": "GK",
       "name": "Jordan PICKFORD",
+      "starter": true
+     },
+     {
+      "number": 4,
+      "position": "MF",
+      "name": "Declan RICE",
       "starter": true
      },
      {
@@ -17261,27 +17277,15 @@
       "starter": true
      },
      {
-      "number": 24,
-      "position": "DF",
-      "name": "Reece JAMES",
-      "starter": true
-     },
-     {
-      "number": 25,
-      "position": "DF",
-      "name": "Djed SPENCE",
-      "starter": true
-     },
-     {
-      "number": 4,
-      "position": "MF",
-      "name": "Declan RICE",
-      "starter": true
-     },
-     {
       "number": 8,
       "position": "MF",
       "name": "Elliot ANDERSON",
+      "starter": true
+     },
+     {
+      "number": 9,
+      "position": "FW",
+      "name": "Harry KANE",
       "starter": true
      },
      {
@@ -17297,100 +17301,22 @@
       "starter": true
      },
      {
-      "number": 9,
-      "position": "FW",
-      "name": "Harry KANE",
-      "starter": true
-     },
-     {
       "number": 18,
       "position": "FW",
       "name": "Anthony GORDON",
       "starter": true
      },
      {
-      "number": 13,
-      "position": "GK",
-      "name": "Dean Henderson",
-      "starter": false
-     },
-     {
-      "number": 23,
-      "position": "GK",
-      "name": "James TRAFFORD",
-      "starter": false
-     },
-     {
-      "number": 2,
+      "number": 24,
       "position": "DF",
-      "name": "Ezri KONSA",
-      "starter": false
+      "name": "Reece JAMES",
+      "starter": true
      },
      {
-      "number": 3,
+      "number": 25,
       "position": "DF",
-      "name": "Nico OREILLY",
-      "starter": false
-     },
-     {
-      "number": 12,
-      "position": "DF",
-      "name": "Trevoh CHALOBAH",
-      "starter": false
-     },
-     {
-      "number": 15,
-      "position": "DF",
-      "name": "Dan BURN",
-      "starter": false
-     },
-     {
-      "number": 14,
-      "position": "MF",
-      "name": "Jordan HENDERSON",
-      "starter": false
-     },
-     {
-      "number": 16,
-      "position": "MF",
-      "name": "Kobbie MAINOO",
-      "starter": false
-     },
-     {
-      "number": 21,
-      "position": "MF",
-      "name": "Eberechi EZE",
-      "starter": false
-     },
-     {
-      "number": 7,
-      "position": "FW",
-      "name": "Bukayo SAKA",
-      "starter": false
-     },
-     {
-      "number": 11,
-      "position": "FW",
-      "name": "Marcus RASHFORD",
-      "starter": false
-     },
-     {
-      "number": 19,
-      "position": "FW",
-      "name": "Ollie WATKINS",
-      "starter": false
-     },
-     {
-      "number": 20,
-      "position": "FW",
-      "name": "Noni MADUEKE",
-      "starter": false
-     },
-     {
-      "number": 22,
-      "position": "FW",
-      "name": "Ivan TONEY",
-      "starter": false
+      "name": "Djed SPENCE",
+      "starter": true
      }
     ],
     "b": [
@@ -17407,39 +17333,15 @@
       "starter": true
      },
      {
-      "number": 6,
-      "position": "DF",
-      "name": "Lisandro MARTINEZ",
-      "starter": true
-     },
-     {
-      "number": 13,
-      "position": "DF",
-      "name": "Cristian ROMERO",
-      "starter": true
-     },
-     {
-      "number": 26,
-      "position": "DF",
-      "name": "Nahuel MOLINA",
-      "starter": true
-     },
-     {
       "number": 5,
       "position": "MF",
       "name": "Leandro PAREDES",
       "starter": true
      },
      {
-      "number": 20,
-      "position": "MF",
-      "name": "Alexis MAC ALLISTER",
-      "starter": true
-     },
-     {
-      "number": 24,
-      "position": "MF",
-      "name": "Enzo FERNANDEZ",
+      "number": 6,
+      "position": "DF",
+      "name": "Lisandro MARTINEZ",
       "starter": true
      },
      {
@@ -17455,105 +17357,58 @@
       "starter": true
      },
      {
+      "number": 13,
+      "position": "DF",
+      "name": "Cristian ROMERO",
+      "starter": true
+     },
+     {
       "number": 17,
       "position": "FW",
       "name": "Giuliano SIMEONE",
       "starter": true
      },
      {
-      "number": 1,
-      "position": "GK",
-      "name": "Juan MUSSO",
-      "starter": false
+      "number": 20,
+      "position": "MF",
+      "name": "Alexis MAC ALLISTER",
+      "starter": true
      },
      {
-      "number": 12,
-      "position": "GK",
-      "name": "Geronimo RULLI",
-      "starter": false
+      "number": 24,
+      "position": "MF",
+      "name": "Enzo FERNANDEZ",
+      "starter": true
      },
      {
-      "number": 2,
+      "number": 26,
       "position": "DF",
-      "name": "Marcos SENESI",
-      "starter": false
-     },
-     {
-      "number": 4,
-      "position": "DF",
-      "name": "Gonzalo MONTIEL",
-      "starter": false
-     },
-     {
-      "number": 19,
-      "position": "DF",
-      "name": "Nicolas OTAMENDI",
-      "starter": false
-     },
-     {
-      "number": 25,
-      "position": "DF",
-      "name": "Facundo MEDINA",
-      "starter": false
-     },
-     {
-      "number": 7,
-      "position": "MF",
-      "name": "Rodrigo DE PAUL",
-      "starter": false
-     },
-     {
-      "number": 8,
-      "position": "MF",
-      "name": "Valentin BARCO",
-      "starter": false
-     },
-     {
-      "number": 11,
-      "position": "MF",
-      "name": "Giovani Lo Celso",
-      "starter": false
-     },
-     {
-      "number": 14,
-      "position": "MF",
-      "name": "Exequiel PALACIOS",
-      "starter": false
-     },
-     {
-      "number": 15,
-      "position": "MF",
-      "name": "Nico GONZALEZ",
-      "starter": false
-     },
-     {
-      "number": 16,
-      "position": "FW",
-      "name": "Thiago ALMADA",
-      "starter": false
-     },
-     {
-      "number": 18,
-      "position": "FW",
-      "name": "Nico PAZ",
-      "starter": false
-     },
-     {
-      "number": 21,
-      "position": "FW",
-      "name": "Jose Manuel LOPEZ",
-      "starter": false
-     },
-     {
-      "number": 22,
-      "position": "FW",
-      "name": "Lautaro MARTINEZ",
-      "starter": false
+      "name": "Nahuel MOLINA",
+      "starter": true
      }
     ]
    },
-   "source": "FIFA live match feed",
-   "updatedAt": "2026-07-15T17:41:03.033Z"
+   "teamStats": {
+    "a": {
+     "possession": 35.2,
+     "attempts": 5,
+     "onTarget": 2,
+     "xg": 0.46,
+     "passCompletion": 83,
+     "cards": null
+    },
+    "b": {
+     "possession": 56.5,
+     "attempts": 15,
+     "onTarget": 5,
+     "xg": 1.47,
+     "passCompletion": 90,
+     "cards": null
+    }
+   },
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M102-ENG-V-ARG.pdf",
+   "source": "FIFA Training Centre",
+   "updatedAt": "2026-07-16T07:10:43.850Z"
   }
  }
 }

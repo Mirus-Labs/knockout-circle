@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T07:01:53.422Z",
+ "updated": "2026-07-16T07:10:39.211Z",
  "news": [
   {
    "cat": "LONDON EVENING STANDARD",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "YAHOO SPORTS",
+   "title": "Ex-refs chief slams England vs Argentina referee after ‘reckless' incident goes unpunished",
+   "iso": "2026-07-16T05:04:00.000Z",
+   "link": "https://sports.yahoo.com/articles/ex-refs-chief-slams-england-050453888.html",
+   "lede": "Referee Ismail Elfath made an error by not showing Enzo Fernandez an early yellow card for his challenge on Elliot Anderson in England's 2-1 defeat to Argentina. That is according to former PGMOL chief and ex-FIFA referee, Keith Hackett, who exclusively told Football Insider that the official failed to stamp his authority on the game by letting the Chelsea man get away with the incident without a booking. Two late goals from Argentina proved to be enough to knock England out in the semi-finals on Wednesday, with Fernandez netting the equaliser for the World Cup holders. However, the midfielder could have been forced to play a different type of game after his elbow appeared to catch the back of Anderson's head when going in for a challenge.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/mvAiF4tmab1LmZLlPTdsVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/football_insider_939/699305a34b9083cd0ac9a2b510524ab3",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "USA TODAY",
    "title": "Argentina players wave banned political banner after World Cup win",
    "iso": "2026-07-16T04:51:00.000Z",
    "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/argentina-falklands-england-malvinas-banner/90936257007/",
    "lede": "Argentina players set off another controversy after the team's win over England in the World Cup semifinals by holding up a banner declaring \"the Falklands are Argentine,\" a reference to the country's claim over the islands that remain a British Overseas Territory. The International Football Association Board (IFAB) and FIFA have specific rules against players participating in political messaging. “Equipment must not have any political, religious or personal slogans, statements or images. Players must not reveal undergarments that show political, religious, personal slogans, statements or images, or advertising other than the manufacturer’s logo,” IFAB’s rulebook states.",
    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90936390007-2285645768.jpg?crop=6675,3756,x0,y347&width=3200&height=1801&format=pjpg&auto=webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "REAL MADRID CF | WEB OFICIAL",
@@ -68,16 +78,6 @@
    "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/espana-jugara-la-final-del-mundial-contra-argentina-este-domingo-16-07-2026",
    "lede": "Spain will compete in the World Cup final this Sunday against Argentina. With Cucurella on the squad, the national team will seek to be crowned world champions for the second time in history after their triumph in 2010. The title match will take place at 9:00 pm in New Jersey (La1 and Dazn). Spain reached the final after defeating Austria (3-0) in the round of 16, Portugal (0-1) in the quarterfinals, Belgium (2-1) in the semifinals, and France (0-2).",
    "image": "https://assets.realmadrid.com/is/image/realmadrid/ND-FRANCIA-ESPAN%CC%83A-CUCURELLA-GettyImages-2285522360?wid=1200&hei=675",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "England manager Thomas Tuchel has ‘no regrets’ after semi-final loss leads to World Cup exit",
-   "iso": "2026-07-16T04:32:00.000Z",
-   "link": "https://sports.yahoo.com/articles/england-manager-thomas-tuchel-no-043213195.html",
-   "lede": "England’s Thomas Tuchel is headed back home with his squad knowing that they left it all on the field after losing 2-1 in the FIFA World Cup 2026 semi-final. Argentina will advance to their third World Cup Finals in four editions, with the chance to become the first team in 64 years to successfully defend the biggest prize in world football. Despite losing in the semi-finals for the second time in three editions, England and new manager Thomas Tuchel are going home with a silver lining. In his post-match interview, Tuchel made it clear that this English squad had nothing to regret after this loss because of the quality they showed throughout the tournament and the intensity they brought to this game/.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/9jmt7Tanb5n3kSD8vvst7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/hitc_articles_832/153d10d2dcb0c0bc398226194711b9af",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
