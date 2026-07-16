@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-16T23:13:09.859Z",
+ "updated": "2026-07-16T23:39:47.965Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "The financial winners and losers from the World Cup",
+   "iso": "2026-07-16T23:16:14.000Z",
+   "link": "https://www.bbc.com/news/articles/cgrkek8lrzvo",
+   "lede": "This World Cup has been bigger than any tournament before it. More countries taking part and more matches means more eyeballs on the action - as well as more opportunities to make money. As the planet's footballing stars create historic moments on the pitch, billions of dollars are being generated off it. But not everyone is raking in the big bucks with financial winners and losers.",
+   "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99ff/live/e74f4460-8065-11f1-bf5f-a7a6eeea7412.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup 2026: England 1-2 Argentina - Three Lions suffer semi-final loss after stunning late turnaround by holders",
@@ -8,8 +18,18 @@
    "link": "https://www.skysports.com/football/news/11095/13562935/world-cup-2026-england-1-2-argentina-three-lions-suffer-semi-final-loss-after-stunning-late-turnaround-by-holders",
    "lede": "England missed out on their first World Cup final since 1966 after a stunning late turnaround from rivals Argentina saw the holders earn a 2-1 victory thanks to Lautaro Martinez's stoppage-time winner. The Three Lions were leading 1-0 with five minutes of normal time remaining in Atlanta through Anthony Gordon's early second-half opener. But two goals in the space of seven minutes saw a remarkable comeback from Argentina as Enzo Fernandez levelled with a wonderful 85th-minute strike from distance before substitute Martinez headed in a 92nd-minute winner. But following the changes, Argentina took firm control of the game and deservedly came back, with Lionel Messi playing a huge influence as he assisted both goals, producing a fine cross for Martinez's winner.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-enzo-fernandez-argentina_7298574.jpg?20260715215346",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "UEFA.COM",
+   "title": "Spain at the World Cup 2026: Squad, fixtures, group and history",
+   "iso": "2026-07-16T22:22:45.000Z",
+   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159556fdf-60d8385f463f-1000--spain-at-the-world-cup-2026-squad-fixtures-group-and-history/",
+   "lede": "Everything you need to know about Spain at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. European champions Spain are looking to complete an international double at FIFA World Cup 2026. Luis de la Fuente's side, led by captain Rodri, topped Group H after drawing with Cabo Verde before beating Saudi Arabia and Uruguay. They then eliminated Austria in the round of 32, Portugal in the last 16, Belgium in the quarter-finals and France in the semi-finals.",
+   "image": "https://editorial.uefa.com/resources/02a7-211ae2c36e5c-1b255cb2ef05-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +38,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-exit-argentina",
    "lede": "German will be pilloried for his semi-final decisions but that is to ignore the fact English football culture is not set up to win major tournaments. I wanted it to be you so badly.” As England’s World Cup hopes recede into another spell of heartache, let down in Atlanta by the latest handsome, cadaverous Mr Right, a little sadder, not much wiser, sunburnt, broke, eating Jägerbomb ice cream out of the tub with a spoon, this is a good moment to seek some classic New York romcom solace. Don’t be sad that it’s over.",
    "image": "https://i.guim.co.uk/img/media/104231e3779e255116cb27cc7bdcf666fea6381c/214_0_2138_1711/master/2138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=199572b2570f6efe602a89df842ee56c",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
    "lede": "Spokesperson says islands belong to the UK. ‘PM wishes both teams well for the final, especially Spain’. Keir Starmer supports the idea of Fifa investigating Argentina players who displayed a banner touting their country’s claim to the Falklands Islands after their World Cup semi-final win against England, Downing Street has said. Starmer, who watched the match while travelling to Ukraine by train for the final overseas trip of his premiership, endorsed a call by Peter Kyle, the business secretary, for Fifa to investigate what rules may have been broken.",
    "image": "https://i.guim.co.uk/img/media/a570bcbee203c8a03b26c0cf2665e000c8b7af69/928_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=816190d10fbc05275f012dc961573155",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BBC",
@@ -38,8 +58,8 @@
    "link": "https://www.bbc.com/sport/football/articles/c9w0jen8x90o",
    "lede": "New York New Jersey Stadium has so far staged seven matches at the 2026 World Cup. Officials in New York and New Jersey have issued an air quality health alert because of wildfire smoke just days before the World Cup final. Haze caused by Canadian wildfires has blanketed the New York region, prompting officials to urge residents to reduce outdoor exertion and stay indoors if possible. New York New Jersey Stadium - which is in East Rutherford, New Jersey - will host the final between Spain and Argentina on Sunday, 19 July (20:00 BST).",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31cd/live/14857bf0-815d-11f1-bee8-53ce494e1abc.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,8 +68,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/16/four-england-passes-19-minutes-argentina-2026-world-cup-semi-final",
    "lede": "No successful tackles after the 63rd minute and failure to break up play through fouls also played their part in World Cup semi-final defeat. There will be coaching courses of the future that use footage of England’s performance against Argentina to illustrate how not to defend a one-goal lead. If that sounds harsh, the data from the match justifies that stance. Many ugly statistics emerged once the postmortem began.",
    "image": "https://i.guim.co.uk/img/media/2f05ed74d187f58893649806faeec8182d2cbdaa/62_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef68c7dc5adcdc6d4c1890db3198e27",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "SILVER BULLETIN",
@@ -58,25 +78,6 @@
    "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
    "lede": "At the start of this exceptional World Cup, our model had Argentina and Spain as co-favorites, with France and England as the 3rd- and 4th-most likely teams to take home the trophy. I understand the skepticism about Argentina. You could argue that all three of their KO-round wins have been dodgy in some fashion. I thought they played an excellent game today, by contrast, though I’m not quite sure whether their conservative play in the first half served any greater purpose.",
    "image": "https://substackcdn.com/image/fetch/$s_!Z-ne!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5dd67e-d51f-443e-871f-8c348700439b_1396x932.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "FIFA launches investigation into Argentina's Falklands banner after World Cup win over England",
-   "iso": "2026-07-16T20:59:05.000Z",
-   "link": "https://sports.yahoo.com/articles/fifa-launches-investigation-argentinas-falklands-205905611.html",
-   "lede": "FIFA has launched an investigation after Argentina's players displayed what the Falkland Islands Government labeled an 'insensitive' banner following their victory over England. A late comeback in Atlanta saw Argentina secure a 2-1 win, booking their place in the World Cup final. During the post-match celebrations, a group of Argentina players held aloft a banner reading: \"Las Malvinas son Argentinas (The Falklands are Argentine).\" This followed Argentina's players singing a chant referencing the Falklands in the aftermath of their 3-2 triumph over Egypt in the Round of 16.",
-   "image": "https://s.yimg.com/os/en/all_out_soccer_276/5bd368e275f5d935872159fcfe624a83",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "ESPN",
-   "title": "Every England World Cup exit since 1966 - revisiting 60 years of hurt",
-   "iso": "2026-07-16T23:06:32.000Z",
-   "link": "https://www.espn.co.uk/football/story/_/id/48741101/england-world-cup-sixty-years-hurt-revisiting-every-exit",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
