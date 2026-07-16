@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T15:14:24.644Z",
+ "updated": "2026-07-16T15:15:32.938Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
-   "iso": "2026-07-16T13:57:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/16/lionel-messi-england-argentina-world-cup",
-   "lede": "While England shrank away in Atlanta, Argentina’s No 10 was not finished making his mark on the biggest stage. To strive, to seek, to find, and not to yield. Well, not to this lot anyway. On a day of ceaseless rolling noise under Atlanta’s vast refrigerated dome, England reached the end of the road, the end of their own capacities at this World Cup, the end of the gears within this team.",
-   "image": "https://i.guim.co.uk/img/media/22e0cbfc495511a6da27eb23f19498190c3511ad/521_0_4835_3868/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d536f4064c4ffa5292d94c55a1f9a1b",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "SKY SPORTS",
    "title": "England out of the World Cup: The big questions facing Thomas Tuchel and the Three Lions after losing to Argentina",
    "iso": "2026-07-16T13:51:00.000Z",
    "link": "https://www.skysports.com/football/news/11095/13563938/england-out-of-the-world-cup-the-big-questions-facing-thomas-tuchel-and-the-three-lions-after-losing-to-argentina",
    "lede": "After England's World Cup semi-final defeat to Argentina, Sky Sports looks at the big questions facing Thomas Tuchel and the Three Lions squad. Is Tuchel solely to blame for England's defeat? Five minutes plus stoppage time away from a first World Cup final since 1966. You couldn't get much closer.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-tuchel-england_7299091.jpg?20260716133212",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "📸 Club World Cup 2026: our semi-finals XI 🌟",
+   "iso": "2026-07-16T13:44:07.000Z",
+   "link": "https://sports.yahoo.com/articles/club-world-cup-2026-semi-134000764.html",
+   "lede": "An outsider among the Spaniards and the Argentinians. Argentina and Spain will meet again on Sunday night in the 2026 World Cup final. After beating England (2-1) and France (2-0) respectively, the Albiceleste and La Roja have impressed. Proof of that: ten of the eleven players in our Team of the Semi-finals come from the two finalist sides.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/d0CHyfvPB.JChhxPi_AdtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODQ7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/29a4b7aca884e717e558735bc238da3b",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
