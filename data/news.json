@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T22:40:08.096Z",
+ "updated": "2026-07-16T23:13:09.859Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -14,12 +14,22 @@
   {
    "cat": "THE GUARDIAN",
    "title": "The bigger picture: Tuchel gets blame for England exit but this is not only about him | Barney Ronay",
-   "iso": "2026-07-16T21:37:00.000Z",
+   "iso": "2026-07-16T22:03:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-exit-argentina",
    "lede": "German will be pilloried for his semi-final decisions but that is to ignore the fact English football culture is not set up to win major tournaments. I wanted it to be you so badly.” As England’s World Cup hopes recede into another spell of heartache, let down in Atlanta by the latest handsome, cadaverous Mr Right, a little sadder, not much wiser, sunburnt, broke, eating Jägerbomb ice cream out of the tub with a spoon, this is a good moment to seek some classic New York romcom solace. Don’t be sad that it’s over.",
    "image": "https://i.guim.co.uk/img/media/104231e3779e255116cb27cc7bdcf666fea6381c/214_0_2138_1711/master/2138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=199572b2570f6efe602a89df842ee56c",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Keir Starmer wants Fifa investigation into Argentina players who held Falklands banner",
+   "iso": "2026-07-16T21:48:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
+   "lede": "Spokesperson says islands belong to the UK. ‘PM wishes both teams well for the final, especially Spain’. Keir Starmer supports the idea of Fifa investigating Argentina players who displayed a banner touting their country’s claim to the Falklands Islands after their World Cup semi-final win against England, Downing Street has said. Starmer, who watched the match while travelling to Ukraine by train for the final overseas trip of his premiership, endorsed a call by Peter Kyle, the business secretary, for Fifa to investigate what rules may have been broken.",
+   "image": "https://i.guim.co.uk/img/media/a570bcbee203c8a03b26c0cf2665e000c8b7af69/928_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=816190d10fbc05275f012dc961573155",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
@@ -28,16 +38,6 @@
    "link": "https://www.bbc.com/sport/football/articles/c9w0jen8x90o",
    "lede": "New York New Jersey Stadium has so far staged seven matches at the 2026 World Cup. Officials in New York and New Jersey have issued an air quality health alert because of wildfire smoke just days before the World Cup final. Haze caused by Canadian wildfires has blanketed the New York region, prompting officials to urge residents to reduce outdoor exertion and stay indoors if possible. New York New Jersey Stadium - which is in East Rutherford, New Jersey - will host the final between Spain and Argentina on Sunday, 19 July (20:00 BST).",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31cd/live/14857bf0-815d-11f1-bee8-53ce494e1abc.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-   "iso": "2026-07-16T21:24:37.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal",
-   "lede": "The United Kingdom and Argentina fought a brief war over the British overseas territory in 1982. Despite Lionel Messi’s presence, Argentina enter the 2026 final as underdogs to Spain and their starlet Lamine Yamal. England’s poor defensive tactics, Lionel Messi’s enduring brilliance, and Argentina self-belief behind 2-1 comeback win. When was it introduced, does it have an impact on the Golden Boot race and what do the managers think?",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a592c441c7b-1784228932.jpg?resize=1920%2C1440",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -72,12 +72,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "View from the other side: inside Argentina’s celebrations after semi-final win against England",
-   "iso": "2026-07-16T20:36:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/16/argentina-england-celebrations-buenos-aires-world-cup",
-   "lede": "Watching England lose is one thing. Watching them lose surrounded by millions celebrating Argentina’s march to another World Cup final, is completely different. Look, most people were awfully good about it. Our waiter at a restaurant near Plaza de Mayo shook our hands warmly and said nice things about Jude Bellingham.",
-   "image": "https://i.guim.co.uk/img/media/8668f46c21d71f75e8e94eb2ace38576a68a0c0c/998_462_6302_5042/master/6302.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dec6051f09861779ad6ee86ea5fc9ffa",
+   "cat": "ESPN",
+   "title": "Every England World Cup exit since 1966 - revisiting 60 years of hurt",
+   "iso": "2026-07-16T23:06:32.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/48741101/england-world-cup-sixty-years-hurt-revisiting-every-exit",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
