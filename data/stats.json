@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T07:10:39.449Z",
+ "updated": "2026-07-16T09:31:58.810Z",
  "source": "ESPN",
  "tabs": {
   "assists": [
@@ -7,6 +7,11 @@
     "name": "Michael Olise",
     "team": "France",
     "val": 5
+   },
+   {
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "val": 4
    },
    {
     "name": "Brahim Díaz",
@@ -29,6 +34,11 @@
     "val": 3
    },
    {
+    "name": "Anthony Gordon",
+    "team": "England",
+    "val": 3
+   },
+   {
     "name": "Bukayo Saka",
     "team": "England",
     "val": 3
@@ -41,11 +51,6 @@
    {
     "name": "Roberto Alvarado",
     "team": "Mexico",
-    "val": 3
-   },
-   {
-    "name": "Anthony Gordon",
-    "team": "England",
     "val": 3
    },
    {
@@ -67,11 +72,6 @@
     "name": "Ousmane Dembélé",
     "team": "France",
     "val": 2
-   },
-   {
-    "name": "Dani Olmo",
-    "team": "Spain",
-    "val": 2
    }
   ],
   "yellow": [
@@ -83,6 +83,11 @@
    {
     "name": "Granit Xhaka",
     "team": "Switzerland",
+    "val": 2
+   },
+   {
+    "name": "Declan Rice",
+    "team": "England",
     "val": 2
    },
    {
@@ -103,11 +108,6 @@
    {
     "name": "Danilo",
     "team": "Brazil",
-    "val": 2
-   },
-   {
-    "name": "Declan Rice",
-    "team": "England",
     "val": 2
    },
    {
