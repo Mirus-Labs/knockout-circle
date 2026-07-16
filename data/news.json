@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T16:44:48.136Z",
+ "updated": "2026-07-16T16:45:50.598Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -71,11 +71,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ESPN",
-   "title": "Every England World Cup exit since 1966 - revisiting 60 years of hurt",
-   "iso": "2026-07-16T16:19:47.000Z",
-   "link": "https://www.espn.co.uk/football/story/_/id/48741101/england-world-cup-sixty-years-hurt-revisiting-every-exit",
-   "lede": "",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Ranking the top 50 players at the 2026 World Cup: Who were the winners and losers from the semi-finals?",
+   "iso": "2026-07-16T16:00:07.000Z",
+   "link": "https://www.nytimes.com/athletic/7449380/2026/07/16/world-cup-ranking-top-50-players-messi-mbappe/",
+   "lede": "There are three new entries and two re-entires into our rankings, with the Spanish and Argentinian finalists sprinting up the list.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16083001/GettyImages-2286113463-scaled-e1784205069154.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
