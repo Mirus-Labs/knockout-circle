@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-15T23:43:17.251Z",
+ "updated": "2026-07-16T00:57:11.822Z",
  "news": [
+  {
+   "cat": "REAL MADRID CF | WEB OFICIAL",
+   "title": "Spain will play the World Cup final against Argentina this Sunday",
+   "iso": "2026-07-16T00:39:40.000Z",
+   "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/espana-jugara-la-final-del-mundial-contra-argentina-este-domingo-16-07-2026",
+   "lede": "Spain will compete in the World Cup final this Sunday against Argentina. With Cucurella on the squad, the national team will seek to be crowned world champions for the second time in history after their triumph in 2010. The title match will take place at 9:00 pm in New Jersey (La1 and Dazn). Spain reached the final after defeating Austria (3-0) in the round of 16, Portugal (0-1) in the quarterfinals, Belgium (2-1) in the semifinals, and France (0-2).",
+   "image": "https://assets.realmadrid.com/is/image/realmadrid/ND-FRANCIA-ESPAN%CC%83A-CUCURELLA-GettyImages-2285522360?wid=1200&hei=675",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "USA TODAY",
    "title": "Argentina players wave banned political banner after World Cup win",
@@ -8,8 +18,18 @@
    "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/argentina-falklands-england-malvinas-banner/90936257007/",
    "lede": "Argentina players set off another controversy after the team's win over England in the World Cup semifinals by holding up a banner declaring \"the Falklands are Argentine,\" a reference to the country's claim over the islands that remain a British Overseas Territory. The International Football Association Board (IFAB) and FIFA have specific rules against players participating in political messaging. “Equipment must not have any political, religious or personal slogans, statements or images. Players must not reveal undergarments that show political, religious, personal slogans, statements or images, or advertising other than the manufacturer’s logo,” IFAB’s rulebook states.",
    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90936390007-2285645768.jpg?crop=6675,3756,x0,y347&width=3200&height=1801&format=pjpg&auto=webp",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England hearts broken after Argentina’s dramatic late double books World Cup final spot",
+   "iso": "2026-07-15T23:20:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction",
+   "lede": "Anthony Gordon had given Three Lions second-half lead. Enzo Fernández levelled before Lautaro Martínez winner. England suffered World Cup heartache on Wednesday night with two late goals in seven minutes giving Argentina a 2-1 comeback win and place in the final against Spain on Sunday. Lautaro Martínez scored the winner with a close-range header in injury time after Enzo Fernández had equalised with a superb strike from the edge of England’s penalty area in the 85th minute, with Lionel Messi providing the assists for both goals.",
+   "image": "https://i.guim.co.uk/img/media/978712c192d4caafa7b459df2ff3539f4550630c/90_0_2278_1823/master/2278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a870ab363cf8b228ac176129350196c0",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,66 +38,45 @@
    "link": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
    "lede": "Banner refers to Falkland Islands conflict in 1982. Players celebrate on the pitch with the message. The Argentina players celebrated their World Cup win over England with a banner saying “Las Malvinas son Argentinas”, making reference to the 1982 Falklands war. Argentina were 1-0 down with five minutes to go of the semi-final in Atlanta but rallied and scored twice in quick succession to reach a second straight World Cup final, where they will face Spain in New Jersey on Sunday.",
    "image": "https://i.guim.co.uk/img/media/c5e966f8adbd7ac0d799ca8fbb9ee9ed742ab17a/327_0_2896_2317/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d32cc58bb3a0d16ca201d64e33a8df71",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "‘Gutted’ Harry Kane laments loss to Argentina in World Cup",
-   "iso": "2026-07-15T22:49:34.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/231523/gutted-harry-kane-laments-loss-to-argentina-in-world-cup",
-   "lede": "Bayern Munich star striker Harry Kane gave it all he had and felt like England was in a good position to advance to the World Cup final, but it all felt apart late. Leading 1-0 through 84 minutes, the Three Lions were in a position to knock off the defending champions, but a late collapse sent England home — without the cup….again. Afterward, Kane was obviously distraught and talked through the feeling of having it all slip away. “We’re gutted for the boys, gutted for everyone, the team, the staff, the fans.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286275713.jpg?quality=90&strip=all&crop=0%2C10.834449450059%2C100%2C78.331101099882&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final",
-   "iso": "2026-07-15T22:49:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report",
-   "lede": "England hearts broken after turnaround in Atlanta. In pictures: our pick of the best big-match images. England’s destiny is tournament heartbreak. The only question concerns when it comes and how the fates will contrive to make it as painful as possible.",
-   "image": "https://i.guim.co.uk/img/media/07464950cf13dc9ecac68a79497fdd968838203b/742_217_6215_4972/master/6215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1cb99f1e74e52fca968f9f3cc0943f6",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "USA TODAY",
-   "title": "Argentina's epic comeback vs England sends champs to World Cup final",
-   "iso": "2026-07-15T22:44:00.000Z",
-   "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/15/argentina-england-world-cup-score-live-messi-lineups-watch-highlights/90924641007/",
-   "lede": "Argentina pulled off another stunning comeback to reach the World Cup final, scoring two goals in seven minutes to secure a 2-1 win over rival England. Enzo Fernandez’s long-range strike equalized in the 85th minute for the defending champions with an assist from Lionel Messi. In the 92nd, Messi floated a cross to the back post that was headed home by substitute Lautaro Martinez to put Argentina in front. \"We are truly unique, and that's not arrogance,\" said Argentina coach Lionel Scaloni.",
-   "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90935245007-20260715-t-204955-z-447700669-up-1-em-7-f-1-lv-6-dv-rtrmadp-3-soccerworldcupengarg.JPG?crop=2118,1191,x3,y215&width=2118&height=1191&format=pjpg&auto=webp",
+   "cat": "NEW YORK POST",
+   "title": "Updated World Cup odds: Spain heads into final as favorites to defeat Argentina",
+   "iso": "2026-07-15T23:15:00.000Z",
+   "link": "https://nypost.com/2026/07/15/betting/updated-world-cup-odds-spain-heads-into-final-as-favorites-to-defeat-argentina/",
+   "lede": "See more of our coverage in your search results. Get your Sunday chores done early because this World Cup Final will be appointment viewing. The never-say-never Argentinians are set to defend their title against a symphonic Spanish team that opened the tournament as the consensus favorites. Bookmakers have assigned the defending champions as +125 underdogs against Spain, who are priced at -162 to prevail.",
+   "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-d2osxd21z-1784154957730.jpg?quality=75&strip=all&1784140684&w=1200",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Kylian Mbappé feels sands of time shifting as France suffer fresh World Cup angst",
-   "iso": "2026-07-15T22:33:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst",
-   "lede": "France’s captain has played with a sense of unfinished business but he will be 31 when the next World Cup begins. It was only last month that Kylian Mbappé suggested all roads may lead to Florida. He was in sufficiently mischievous mood to reveal David Beckham had been chewing his ear off about a move to Major League Soccer, dangling the prospect of a reunion with Lionel Messi at Inter Miami. “We will see, I don’t know,” he said.",
-   "image": "https://i.guim.co.uk/img/media/95f751dfd55da8d4506da468309a987f47029ccd/244_504_3707_2966/master/3707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74bf5822338cb8ebeaa2eb3c15155155",
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Winners and Losers of the FIFA World Cup semifinals",
+   "iso": "2026-07-15T23:00:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/road-to-the-cup/231181/winners-and-losers-of-the-fifa-world-cup-semifinals",
+   "lede": "In what is likely the strongest semifinals we have ever seen in the World Cup, there was huge potential for two thrilling matches. However, sometimes teams with such advanced tactics and brilliant players, doesn’t always lead to the beautiful game. While we didn’t see a goalfest such as in previous rounds, there was some masterclass performances that saw Spain and England advance to the World Cup finals. Winners Spanish defense The Spaniards have been on a historic defensive run.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285479116.jpg?quality=90&strip=all&crop=0%2C10.708272514901%2C100%2C78.583454970198&w=1200",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "England hearts broken after Argentina’s dramatic late double books World Cup final spot",
-   "iso": "2026-07-15T22:20:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-2026-semi-final-news-reaction",
-   "lede": "Anthony Gordon had given Three Lions second-half lead. Enzo Fernández levelled before Lautaro Martínez winner. England suffered World Cup heartache on Wednesday night with two late goals in seven minutes giving Argentina a 2-1 comeback win and place in the final against Spain on Sunday. Lautaro Martínez scored the winner with a close-range header in injury time after Enzo Fernández had equalised with a superb strike from the edge of England’s penalty area in the 85th minute, with Lionel Messi providing the assists for both goals.",
-   "image": "https://i.guim.co.uk/img/media/978712c192d4caafa7b459df2ff3539f4550630c/90_0_2278_1823/master/2278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a870ab363cf8b228ac176129350196c0",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Thomas Tuchel is guilty of orchestrating England’s craven World Cup demise - The Athletic",
+   "iso": "2026-07-16T00:31:03.000Z",
+   "link": "https://www.nytimes.com/athletic/7442975/2026/07/15/thomas-tuchel-england-world-cup-argentina/",
+   "lede": "The German coach was supposed to be the master of big-game management but this felt like a self-inflicted collapse.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15195634/GettyImages-2286285433-e1784159812768.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FOX SPORTS",
-   "title": "Jude Bellingham, Harry Kane 'Gutted' After England's World Cup Semifinal Loss",
-   "iso": "2026-07-15T22:19:58.000Z",
-   "link": "https://www.foxsports.com/stories/soccer/england-argentina-world-cup-kane-bellingham-tuchel-react",
-   "lede": "England was stunned when Argentina completed yet another improbable comeback to earn a 2-1 victory in the 2026 World Cup semifinals to keep its title defense alive. The Three Lions led for 78 minutes and could taste its spot in Sunday's final against Spain, before Lionel Messi & Co. stole it. As the result sunk in and England's 60-year title drought prolonged, it stung the players, leaving them to deal with the devastation. Here's how heartbroken England players reacted.",
-   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/england_dejected_horizontal.jpg?ve=1&tl=1",
+   "cat": "ESPN",
+   "title": "Argentina risk FIFA punishment as players hold Falklands banner after win vs. England",
+   "iso": "2026-07-16T00:29:00.000Z",
+   "link": "https://www.espn.com/soccer/story/_/id/49371792/argentina-fifa-players-hold-falklands-malvinas-banner-world-cup-win-vs-england",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
