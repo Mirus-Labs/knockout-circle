@@ -1,15 +1,35 @@
 {
- "updated": "2026-07-17T21:01:13.517Z",
+ "updated": "2026-07-17T21:36:16.234Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "NFL players turn up pressure for grass fields following World Cup",
+   "iso": "2026-07-17T21:23:36.000Z",
+   "link": "https://sports.yahoo.com/articles/nfl-players-turn-pressure-grass-212336683.html",
+   "lede": "The 2026 World Cup has reignited the natural grass versus synthetic turf debate. FIFA installed natural grass in seven of the 11 NFL stadiums that traditionally use synthetic turf for the World Cup. With soccer’s global event coming to a close, stadiums are already in the process of transitioning back to synthetic turf – and players are taking notice. Many players across the league have pleaded for natural grass surfaces to no avail, so the installation of natural grass exclusively for the World Cup has exacerbated the issue.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/O.oQa4cpo_XYJ2KwQ2.4uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/033533d18f6a887c5296607d9859e73b",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "LOCAL 3 NEWS",
+   "title": "World Cup Final Breakdown: A clash of styles expected on Sunday between Argentina and Spain",
+   "iso": "2026-07-17T21:00:00.000Z",
+   "link": "http://www.wrcbtv.com/local-news/world-cup-final-breakdown-a-clash-of-styles-expected-on-sunday-between-argentina-and-spain/article_60285e19-a9c9-4c67-98d5-4881c006c8e9.html",
+   "lede": "If you predicted an Argentina-Spain World Cup final over a month ago, you likely wouldn’t have gotten much argument. It’s no secret these two are a pair of the best teams in the world, and they have proven it yet again on the biggest stage. Only one will become the 2026 World Cup champion, though. It’s your classic clash of styles.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/6/02/60285e19-a9c9-4c67-98d5-4881c006c8e9/6a5a98676a7ac.preview.jpg?crop=1500%2C788%2C0%2C103&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
    "iso": "2026-07-17T20:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
-   "lede": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament. The thick smoke that has engulfed New York and much of the eastern seaboard over the last few days has drawn wry smiles in Dallas and Los Angeles, where locals will watch on with a sense of schadenfreude when the World Cup final takes place in the New York New Jersey Stadium (usually known as the MetLife Stadium in New Jersey) on Sunday. The Dallas and Los Angeles stadiums, which were passed over when Fifa awarded the final in February 2024, are more impressive venues without the same climatic risks as New York, which was chosen because of its global appeal and favourable timezone for European television audiences.",
+   "lede": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament. The thick smoke that has engulfed New York and much of the eastern seaboard over the last few days has drawn wry smiles in Dallas and Los Angeles, where locals will watch on with a sense of schadenfreude when the World Cup final takes place in the New York New Jersey Stadium (usually known as the MetLife Stadium in New Jersey) tomorrow. The Dallas and Los Angeles stadiums, which were passed over when Fifa awarded the final in February 2024, are more impressive venues without the same climatic risks as New York, which was chosen because of its global appeal and favourable timezone for European television audiences.",
    "image": "https://i.guim.co.uk/img/media/d6c5dd64632699cef36a13accc24f420cfe07e30/836_0_5384_4306/master/5384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bc8da3c16551bdccb12abf9b42956e1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -18,8 +38,8 @@
    "link": "https://sports.yahoo.com/articles/world-cup-england-meets-france-202823089.html",
    "lede": "MIAMI GARDENS — Chances are, if England had originally been offered the chance to face France on the final weekend of World Cup 2026, the British would have taken it in a heartbeat. The same applies for the French and the opportunity to play the British. And yet in the position where nobody wants to be. When England and France meet in the seventh and final World Cup match at Hard Rock Stadium (kickoff is 5 p.m.",
    "image": "https://s.yimg.com/ny/api/res/1.2/dIBiWx.v2Qyzho0jMUvYgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzI7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/01b25a880908f72f9ab10e7520385512",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "NPR",
@@ -28,8 +48,28 @@
    "link": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
    "lede": "Pedro Porro #12 of Spain celebrates after the 2-0 victory during the FIFA World Cup 2026 Semi Final match between France and Spain at Dallas Stadium on July 14, 2026 in Arlington, Texas. Florencia Tan Jun/Getty Images hide caption. If the Spanish Men's National Team pulls off a World Cup victory on Sunday, the Spanish football federation would make history as the first to bring home successive World Cup championships on the men's and women's side in the history of the tournament. The women's team won the 2023 World Cup and will enter next year's tournament in Brazil as defending champions.",
    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4140x2329+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Ff1%2F0289ef444c2f845329f4de800d36%2Fgettyimages-2286113490.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
+   "iso": "2026-07-17T20:16:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle",
+   "lede": "Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point. The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria? Much was made in advance of the BBC’s decision not to head to the US, but instead use a digital studio in Salford to make it look as if its panel was in front of landmarks from host cities.",
+   "image": "https://i.guim.co.uk/img/media/a7a617b07b9126cd3f6b5ea01e159ca647a6f4b3/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc38e46b49b6ddde3a0fa014c1702382",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "World Cup final 2026 date and time: Spain to face Argentina",
+   "iso": "2026-07-17T20:04:56.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-final-2026-date-time-spain-argentina-b1289955.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Spain will face Argentina in the World Cup 2026 final. La Roja became the first team to book their place in this weekend’s tournament showpiece with a 2-0 win over France in Arlington, Texas.",
+   "image": "https://static.standard.co.uk/2022/11/20/19/AFP_32P97WT.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "TOMORROW'S WORLD TODAY",
@@ -38,46 +78,6 @@
    "link": "https://www.tomorrowsworldtoday.com/art/the-world-cup-is-no-longer-just-about-football/",
    "lede": "Learn how the world cup is transforming fandom into an interactive experience for Gen Z and millennial fans worldwide. Soccer is taking over the world this summer. The 2026 Men’s World Cup is underway across North America, but the real magic is happening off the field. This tournament is showing us how global tech and social media can bring people together in totally unexpected ways.",
    "image": "https://www.tomorrowsworldtoday.com/wp-content/uploads/2026/07/canvaberkay08.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "USA TODAY",
-   "title": "Football vs. fútbol: Nine reasons I'll always take the NFL over World Cup | Opinion",
-   "iso": "2026-07-17T20:00:00.000Z",
-   "link": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/",
-   "lede": "Eye of the beholder, etc., etc. For the fútbol faithful, the World Cup excitement is building to a crescendo ahead of Sunday's final between defending champion Argentina and Spain. But for the football faithful? We've been subjected to plenty.",
-   "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/15/USAT/90563604007-christian-pulisic.jpg?crop=1375,773,x1301,y1275&width=1375&height=773&format=pjpg&auto=webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "God’s will? Destiny? Lionel Messi, Lamine Yamal, that photo and the World Cup final",
-   "iso": "2026-07-17T19:00:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
-   "lede": "The boy in the baby bath has unbelievably become the successor to Messi at Barcelona and now, maybe, on the world stage too. “Maybe Lionel Messi has picked up lots of babies, maybe it’s chance, but for those of us who have faith, who believe in something beyond, ‘chance’ is God’s pseudonym when he doesn’t want to sign his name,” Luis de la Fuente says. “In life, everything happens for a reason. Sometimes it’s true that the circle isn’t closed, but in my view there’s something else, something … I don’t know, mystical, spiritual.”",
-   "image": "https://i.guim.co.uk/img/media/efe1a7d0fb8a5b1e3e0948ae0a54baa83ec34451/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5476c5a97d6a9613517981bea6c388ca",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "JEWISH TELEGRAPHIC AGENCY",
-   "title": "Why Argentina and Spain's World Cup final has become a proxy for the Israeli-Palestinian conflict",
-   "iso": "2026-07-17T18:38:12.000Z",
-   "link": "https://www.jta.org/2026/07/17/sports/why-argentina-and-spains-world-cup-final-has-become-a-proxy-for-the-israeli-palestinian-conflict",
-   "lede": "Sunday’s World Cup final will see Argentina face off against Spain — setting up a showdown between two countries that have recently taken sharply opposing views on Israel. Their stars, too, symbolize the split: Argentina’s Lionel Messi has drawn attention for his past ties to Israel, while Spain’s Lamine Yamal has made headlines by displaying a Palestinian flag after a crucial win. Online discourse has now cast the match as something of a proxy for the Middle East conflict, and sparked more than a few anti-Israel and antisemitic conspiracy theories. “We are getting an Israel versus Palestine World Cup,” wrote content creator Ryan Rozbiani on X.",
-   "image": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2285796075.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FRANCE 24",
-   "title": "'Inclusive' World Cup fell short as Trump administration shut out fans, rights groups say",
-   "iso": "2026-07-17T20:33:09.000Z",
-   "link": "https://www.france24.com/en/sport/20260717-inclusive-world-cup-fell-short-trump-administration-shut-out-fans-rights-groups-say",
-   "lede": "FIFA failed to deliver on a pledge to make the 2026 World Cup the \"most inclusive\" in history as the Trump administration's visa policies shut out fans from several countries and even barred a referee… FIFA failed to deliver on a pledge to make the 2026 World Cup the \"most inclusive\" in history as the Trump administration's visa policies shut out fans from several countries and even barred a referee from officiating at the tournament, the Sport & Rights Alliance, a coalition of rights groups, said on Thursday, adding that it would release a report in September detailing human rights issues at the tournament.",
-   "image": "https://s.france24.com/media/display/179a4854-794a-11f1-91b9-005056bf30b7/w:1280/p:16x9/2026-07-05T184522Z-1289505717-RC2O7MA763OO-RTRMADP-3-SOCCER-WORLDCUP-USA-BEL.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
