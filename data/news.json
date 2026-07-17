@@ -1,6 +1,46 @@
 {
- "updated": "2026-07-17T19:49:12.284Z",
+ "updated": "2026-07-17T20:37:05.905Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
+   "iso": "2026-07-17T20:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
+   "lede": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament. The thick smoke that has engulfed New York and much of the eastern seaboard over the last few days has drawn wry smiles in Dallas and Los Angeles, where locals will watch on with a sense of schadenfreude when the World Cup final takes place in the New York New Jersey Stadium (usually known as the MetLife Stadium in New Jersey) on Sunday. The Dallas and Los Angeles stadiums, which were passed over when Fifa awarded the final in February 2024, are more impressive venues without the same climatic risks as New York, which was chosen because of its global appeal and favourable timezone for European television audiences.",
+   "image": "https://i.guim.co.uk/img/media/d6c5dd64632699cef36a13accc24f420cfe07e30/836_0_5384_4306/master/5384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bc8da3c16551bdccb12abf9b42956e1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "NPR",
+   "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
+   "iso": "2026-07-17T20:17:27.000Z",
+   "link": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
+   "lede": "Pedro Porro #12 of Spain celebrates after the 2-0 victory during the FIFA World Cup 2026 Semi Final match between France and Spain at Dallas Stadium on July 14, 2026 in Arlington, Texas. Florencia Tan Jun/Getty Images hide caption. If the Spanish Men's National Team pulls off a World Cup victory on Sunday, the Spanish football federation would make history as the first to bring home successive World Cup championships on the men's and women's side in the history of the tournament. The women's team won the 2023 World Cup and will enter next year's tournament in Brazil as defending champions.",
+   "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4140x2329+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Ff1%2F0289ef444c2f845329f4de800d36%2Fgettyimages-2286113490.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "TOMORROW'S WORLD TODAY",
+   "title": "The World Cup is No Longer Just About Football",
+   "iso": "2026-07-17T20:00:51.000Z",
+   "link": "https://www.tomorrowsworldtoday.com/art/the-world-cup-is-no-longer-just-about-football/",
+   "lede": "Learn how the world cup is transforming fandom into an interactive experience for Gen Z and millennial fans worldwide. Soccer is taking over the world this summer. The 2026 Men’s World Cup is underway across North America, but the real magic is happening off the field. This tournament is showing us how global tech and social media can bring people together in totally unexpected ways.",
+   "image": "https://www.tomorrowsworldtoday.com/wp-content/uploads/2026/07/canvaberkay08.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "USA TODAY",
+   "title": "Football vs. fútbol: Nine reasons I'll always take the NFL over World Cup | Opinion",
+   "iso": "2026-07-17T20:00:00.000Z",
+   "link": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/",
+   "lede": "Eye of the beholder, etc., etc. For the fútbol faithful, the World Cup excitement is building to a crescendo ahead of Sunday's final between defending champion Argentina and Spain. But for the football faithful? We've been subjected to plenty.",
+   "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/15/USAT/90563604007-christian-pulisic.jpg?crop=1375,773,x1301,y1275&width=1375&height=773&format=pjpg&auto=webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "God’s will? Destiny? Lionel Messi, Lamine Yamal, that photo and the World Cup final",
@@ -8,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
    "lede": "The boy in the baby bath has unbelievably become the successor to Messi at Barcelona and now, maybe, on the world stage too. “Maybe Lionel Messi has picked up lots of babies, maybe it’s chance, but for those of us who have faith, who believe in something beyond, ‘chance’ is God’s pseudonym when he doesn’t want to sign his name,” Luis de la Fuente says. “In life, everything happens for a reason. Sometimes it’s true that the circle isn’t closed, but in my view there’s something else, something … I don’t know, mystical, spiritual.”",
    "image": "https://i.guim.co.uk/img/media/efe1a7d0fb8a5b1e3e0948ae0a54baa83ec34451/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5476c5a97d6a9613517981bea6c388ca",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -18,8 +58,8 @@
    "link": "https://sports.yahoo.com/articles/club-world-cup-final-know-184000502.html",
    "lede": "FIFA has put an end to the questions surrounding the length of the halftime show planned for the World Cup final between Spain and Argentina. According to Marca, FIFA sent a detailed halftime schedule to the Spanish and Argentine federations. For this unprecedented Super Bowl-inspired show, the break will be limited to 17 minutes. The concert, featuring Shakira, Madonna, Justin Bieber, BTS, and Coldplay among others, will not last more than 11 minutes.",
    "image": "https://s.yimg.com/os/en/onefootball_articles_802/b8ed77137fffde2083a9a19ab2078c05",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "JEWISH TELEGRAPHIC AGENCY",
@@ -28,56 +68,16 @@
    "link": "https://www.jta.org/2026/07/17/sports/why-argentina-and-spains-world-cup-final-has-become-a-proxy-for-the-israeli-palestinian-conflict",
    "lede": "Sunday’s World Cup final will see Argentina face off against Spain — setting up a showdown between two countries that have recently taken sharply opposing views on Israel. Their stars, too, symbolize the split: Argentina’s Lionel Messi has drawn attention for his past ties to Israel, while Spain’s Lamine Yamal has made headlines by displaying a Palestinian flag after a crucial win. Online discourse has now cast the match as something of a proxy for the Middle East conflict, and sparked more than a few anti-Israel and antisemitic conspiracy theories. “We are getting an Israel versus Palestine World Cup,” wrote content creator Ryan Rozbiani on X.",
    "image": "https://www.jta.org/wp-content/uploads/2026/07/GettyImages-2285796075.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THENATIONALNEWS.COM",
-   "title": "Will we still love it, when it's 64? How the biggest World Cup ever could be dwarfed by the next one",
-   "iso": "2026-07-17T18:17:30.000Z",
-   "link": "https://www.thenationalnews.com/sport/football/2026/07/17/fifa-64-teams-world-cup-2030-changes-impact-infantino/",
-   "lede": "The 2026 Fifa World Cup has been among the most unique finals in recent memory, with record crowds attending one of the largest football events ever. And more changes are in the pipeline. The current World Cup finals have been played across three countries. The next one in 2030 will be spread across six from three continents: Spain, Portugal and Morocco as the principal hosts, with one-off games in Uruguay, Argentina and Paraguay to celebrate the 100th anniversary of the finals .",
-   "image": "https://www.thenationalnews.com/resizer/v2/5XDL6HT36EUA3PPHHJDJMS26FQ.jpg?smart=true&auth=2baec65c55d6ef38fd05e9d7ec29ecbeb426264752d4cd3b70bf8ccf71ca5ad9&width=1200&height=630",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "USA TODAY",
-   "title": "Football vs. fútbol: Nine reasons I'll always take the NFL over World Cup | Opinion",
-   "iso": "2026-07-17T18:12:00.000Z",
-   "link": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/",
-   "lede": "Eye of the beholder, etc., etc. For the fútbol faithful, the World Cup excitement is building to a crescendo ahead of Sunday's final between defending champion Argentina and Spain. But for the football faithful? We've been subjected to plenty.",
-   "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/15/USAT/90563604007-christian-pulisic.jpg?crop=1375,773,x1301,y1275&width=1375&height=773&format=pjpg&auto=webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THENATIONALNEWS.COM",
-   "title": "How much longer will football fans tolerate the 'Fifa-isation' of the World Cup?",
-   "iso": "2026-07-17T18:04:31.000Z",
-   "link": "https://www.thenationalnews.com/opinion/comment/2026/07/17/fifa-world-cup-2026-commercial-us-donald-trump-var/",
-   "lede": "In an age when football ’s authorities try to pitch and sell the game more aggressively than ever, we should have learnt one lesson over the past 18 months – ironically, through the success of Paris Saint-Germain, perhaps football’s fastest-moving commercial juggernaut. It is that what’s on the pitch, when done right, sells football better than anything else can. When the football has been able to sell itself in the weeks since the 2026 World Cup kicked off in Mexico City on June 11, it has done so brilliantly. If we are honest, few expected it to be quite like this.",
-   "image": "https://www.thenationalnews.com/resizer/v2/S6FONRTBKJESJBLEHLLBYVZYPE.jpg?smart=true&auth=0c6274922ec3acb34a5861e56abf3499e41ee456819daf1bff2f934547f231d0&width=1200&height=630",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE AMERICAN BAZAAR",
-   "title": "Stage set for 2026 FIFA World Cup final as Spain, Argentina battle for title",
-   "iso": "2026-07-17T18:03:40.000Z",
-   "link": "https://americanbazaaronline.com/2026/07/17/stage-set-for-2026-fifa-world-cup-final-as-spain-argentina-battle-484762/",
-   "lede": "The stage is officially set for the final weekend of the 2026 FIFA World Cup, with Spain and defending champions Argentina advancing to Sunday’s championship match, while France and England will meet in the third-place playoff. The World Cup final will take place on Sunday, July 19, at 7 p.m. ET at New York-New Jersey Stadium (MetLife Stadium), where Spain will face Argentina in one of the tournament’s most anticipated clashes. A day earlier, France and England will compete for third place at Hard Rock Stadium in Miami Gardens, Florida, with kickoff scheduled for 5 p.m.",
-   "image": "https://americanbazaaronline.com/wp-content/uploads/2026/05/fifa-2026.webp",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-   "iso": "2026-07-17T17:57:25.000Z",
-   "link": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
-   "lede": "The 2026 FIFA World Cup final is set with reigning champions Argentina looking for back-to-back titles as they go against 2010 winners Spain. The three tournament co-hosts were each knocked out in the Round of 16 after Canada lost Morocco, Mexico fell to England and the USMNT was eliminated by Belgium. Below is a complete look at every group's final standings, which teams advanced, which were eliminated and the full knockout round schedule. Thursday, June 11: Mexico 2, South Africa 0 Thursday, June 11: Korea Republic 2, Czechia 1 Thursday, June 18: Czechia 1, South Africa 1 Thursday, June 18: Mexico 1 South Korea 0 Wednesday, June 24: Mexico 3, Czechia 0 Wednesday, June 24: South Africa 1, South Korea 0.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/t3mZVgK6xEyc5N69b5E12A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/d97d3327-2e2c-43a3-91cf-a7221164fb39",
+   "cat": "FRANCE 24",
+   "title": "'Inclusive' World Cup fell short as Trump administration shut out fans, rights groups say",
+   "iso": "2026-07-17T20:33:09.000Z",
+   "link": "https://www.france24.com/en/sport/20260717-inclusive-world-cup-fell-short-trump-administration-shut-out-fans-rights-groups-say",
+   "lede": "FIFA failed to deliver on a pledge to make the 2026 World Cup the \"most inclusive\" in history as the Trump administration's visa policies shut out fans from several countries and even barred a referee… FIFA failed to deliver on a pledge to make the 2026 World Cup the \"most inclusive\" in history as the Trump administration's visa policies shut out fans from several countries and even barred a referee from officiating at the tournament, the Sport & Rights Alliance, a coalition of rights groups, said on Thursday, adding that it would release a report in September detailing human rights issues at the tournament.",
+   "image": "https://s.france24.com/media/display/179a4854-794a-11f1-91b9-005056bf30b7/w:1280/p:16x9/2026-07-05T184522Z-1289505717-RC2O7MA763OO-RTRMADP-3-SOCCER-WORLDCUP-USA-BEL.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
