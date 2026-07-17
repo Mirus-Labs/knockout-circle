@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-17T11:59:47.391Z",
+ "updated": "2026-07-17T12:37:21.207Z",
  "news": [
+  {
+   "cat": "MUSLIM NETWORK TV",
+   "title": "Mamdani keeps focus on football as Trump attends World Cup final",
+   "iso": "2026-07-17T12:00:00.000Z",
+   "link": "https://www.muslimnetwork.tv/mamdani-keeps-focus-on-football-as-trump-attends-world-cup-final/",
+   "lede": "NEW YORK (MNTV) — Mayor Zohran Mamdani brushed aside speculation about crossing paths with President Donald Trump at the World Cup final, saying he intends to watch the match. Trump is expected to attend and take part in the trophy presentation, FIFA President Gianni Infantino has confirmed, after following the tournament from a distance until now. Asked whether he would meet or sit with Trump, Mamdani kept to the game: he anticipates watching for 90 minutes, or 120, or penalties if it comes to that. The two have deep ideological differences but their public dealings have stayed measured since meeting at the White House last year.",
+   "image": "https://www.muslimnetwork.tv/wp-content/uploads/2025/07/AA-20250709-38516341-38516333-DEMOCRATIC_NEW_YORK_CITY_MAYORAL_CANDIDATE_ZOHRAN_MAMDANI.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "BBC",
    "title": "How the World Cup made an 'NFL-obsessed' American a football fan",
@@ -8,8 +18,18 @@
    "link": "https://www.bbc.com/news/articles/cn0n22eprzpo",
    "lede": "The well-documented shenanigans of Scotland's \"Tartan Army\" football fans in Boston was what first drew Indiana car salesman Jamie Druley to the World Cup - and now the sport has him fully hooked. \"I thought, you know what? I'm going to watch some of this World Cup and see what made these people travel, in many cases, thousands of miles, and spending thousands of dollars… to be here to support their nation in this worldwide competition,\" father-of-three Druley, 51, told the BBC. Before long, his wife was texting him from the bedroom with instructions to quieten down as he screamed at the television in the living room.",
    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/704a/live/b86a98c0-814b-11f1-b976-0b9c15b0ccfc.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England need fearless passers and three Tuchel omissions may point the way",
+   "iso": "2026-07-17T11:29:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/17/england-passing-world-cup-thomas-tuchel",
+   "lede": "Technical class in the fiercest battles was again lacking at the World Cup but there is hope amid the soul-searching. The post-match inquest into England’s elimination was almost over when Thomas Tuchel offered a revealing analysis of Argentina’s knack of instigating late comebacks at this World Cup. “In their culture, ball possession plays a crucial role. It starts from a young age,” he said.",
+   "image": "https://i.guim.co.uk/img/media/8aacd06f205480ce241ea40dafa231130c2ccfc3/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e67d95348adf1849707a8754714c5f94",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "W&M NEWS",
@@ -18,8 +38,28 @@
    "link": "https://news.wm.edu/2026/07/17/inside-the-world-cup/",
    "lede": "’16, P ’27 is no stranger to soccer’s biggest stage. As head coach of the United States Women’s National Team, Ellis led her squad to back-to-back Women’s World Cup titles in 2015 and 2019. This time around, she is experiencing the tournament from a different perspective. In December 2024, Ellis became FIFA’s chief football officer, helping to cultivate soccer — or, as most of the world calls it, football — around the globe.",
    "image": "https://wmit-news-prod.s3.amazonaws.com/wp-content/uploads/2026/07/16134246/Ellis_2-1-1080x720.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Spain have reclaimed their football identity at this World Cup but is their style boring?",
+   "iso": "2026-07-17T11:20:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/spain-world-cup-2026-final-style-passing-de-la-fuente-b3016719.html",
+   "lede": "The semi-final demolition of World Cup favourites France re-affirmed Spain’s style, given an enhanced and more modern form. But is it exciting to watch? From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging.",
+   "image": "https://static.independent.co.uk/2026/07/17/11/2286113059..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026: England 1-2 Argentina - Three Lions suffer semi-final loss after stunning late turnaround by holders",
+   "iso": "2026-07-17T10:47:11.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13562935/world-cup-2026-england-1-2-argentina-three-lions-suffer-semi-final-loss-after-stunning-late-turnaround-by-holders",
+   "lede": "England missed out on their first World Cup final since 1966 after a stunning late turnaround from rivals Argentina saw the holders earn a 2-1 victory thanks to Lautaro Martinez's stoppage-time winner. The Three Lions were leading 1-0 with five minutes of normal time remaining in Atlanta through Anthony Gordon's early second-half opener. But two goals in the space of seven minutes saw a remarkable comeback from Argentina as Enzo Fernandez levelled with a wonderful 85th-minute strike from distance before substitute Martinez headed in a 92nd-minute winner. But following the changes, Argentina took firm control of the game and deservedly came back, with Lionel Messi playing a huge influence as he assisted both goals, producing a fine cross for Martinez's winner.",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-enzo-fernandez-argentina_7298574.jpg?20260715215346",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "UEFA.COM",
@@ -28,55 +68,16 @@
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159556fdf-60d8385f463f-1000--spain-at-the-world-cup-2026-squad-fixtures-group-and-history/",
    "lede": "Everything you need to know about Spain at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. European champions Spain are looking to complete an international double at FIFA World Cup 2026. Luis de la Fuente's side, led by captain Rodri, topped Group H after drawing with Cabo Verde before beating Saudi Arabia and Uruguay. They then eliminated Austria in the round of 32, Portugal in the last 16, Belgium in the quarter-finals and France in the semi-finals.",
    "image": "https://editorial.uefa.com/resources/02a7-211ae2c36e5c-1b255cb2ef05-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "SOUTH CHINA MORNING POST",
-   "title": "Adidas, Lenovo among companies in China giving workers a World Cup final holiday",
-   "iso": "2026-07-17T10:30:06.000Z",
-   "link": "https://www.scmp.com/sport/football/article/3360961/adidas-lenovo-among-companies-china-giving-workers-world-cup-final-holiday",
-   "lede": "Several corporations in mainland China have announced a full day or a half day off for their employees next Monday so that they can enjoy the Fifa World Cup final to the fullest. European champions Spain will take on reigning champions Argentina at MetLife Stadium on Sunday afternoon to bring the 39-day tournament to a close. A win for Luis de la Fuente’s side will see the Spaniards adding to their previous title from 2010, while a victory for the world’s top team and three-time champions will make Lionel Scaloni the first head coach ever to defend a World Cup.",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/17/023446cf-b9fd-48f1-be48-884e39db9bad_79f426cc.jpg?itok=NveEHSzu&v=1784281258",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Slow progress for Africa after late goals and underdog success",
-   "iso": "2026-07-17T10:18:57.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cx2d2w8gxpvo",
-   "lede": "Cape Verde reached the last 32 on their World Cup debut and Egypt registered a first win at the finals but Senegal will rue the manner of their exit. Africa sent its largest ever contingent to the 2026 Fifa World Cup, but while there were undoubtedly some great storylines, how successful was the tournament overall for the 10 teams who travelled? After nine nations made it into the knockout stage, Confederation of African Football (Caf) boss Patrice Motsepe said they had made the continent's 1.6 billion people proud. But only Morocco made it to the quarter-finals, while exiting after conceding late goals was a recurring fate which befell five sides - with Senegal and Egypt squandering two-goal leads as they crashed out in dramatic style.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b344/live/5ffe8730-8102-11f1-bee8-53ce494e1abc.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MARCA",
-   "title": "The World Cup champions will receive championship rings for the first time in history",
-   "iso": "2026-07-17T10:12:41.000Z",
-   "link": "https://www.marca.com/en/world-cup/2026/07/17/the-ring-to-rule-the-world-the-world-cup-champions-will-receive-championship-rings-for-the-first-time-in-history.html",
-   "lede": "The 2026 World Cup final between Sapin and Argentina will have a historic and unprecedented finale in the history of football. 'FIFA reports that \"the champions of the FIFA World Cup will receive custom championship rings, bringing one of the most recognizable American sports traditions to world football\".' \"Besides the iconic trophy and the prestigious gold medals, the winning team will receive, for the first time in a FIFA competition, an additional recognition: personalized championship rings. In this way, FIFA is bringing into football one of the most deeply rooted traditions in American sports,\" FIFA said in a statement.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/17/6a59ffb8b59e2.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "OLYMPICS.COM",
-   "title": "France vs England football, FIFA World Cup 2026 third-place play-off - Know FRA vs ENG match time, h2h, and how to watch live",
-   "iso": "2026-07-17T11:37:00.000Z",
-   "link": "https://www.olympics.com/en/news/france-vs-england-football-fifa-world-cup-2026-third-place-play-off-kylian-mbappe-jude-bellingham-schedule-h2h-watch-live",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BLEACHER REPORT",
-   "title": "B/R Football Staff Predictions for the 2026 FIFA World Cup Final",
-   "iso": "2026-07-17T11:11:03.000Z",
-   "link": "https://bleacherreport.com/articles/25455347-br-football-staff-predictions-2026-fifa-world-cup-final",
-   "lede": "A football fan's dream for a FIFA World Cup final.",
-   "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2285640352_large_cropped.jpg?w=1120&h=630",
+   "cat": "AL JAZEERA",
+   "title": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
+   "iso": "2026-07-17T12:13:05.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights",
+   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260716__C2DZ72B__v1__HighRes__FblWc2026TrainingArg-1784278333.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
