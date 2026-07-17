@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-17T08:30:28.443Z",
+ "updated": "2026-07-17T09:17:51.275Z",
  "news": [
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "World Cup final set and USMNT’s future",
+   "iso": "2026-07-17T09:00:33.000Z",
+   "link": "https://www.nytimes.com/athletic/7449942/2026/07/17/world-cup-final-set-and-usmnts-future/",
+   "lede": "Hosts Tamerra Griffin and James McNicholas look ahead to the highly anticipated World Cup final between Argentina and Spain. Seb Stafford-Bloor stops by to discuss the massive format changes coming to the 2030 Men’s World Cup. Then, Paul Tenorio analyzes what is next for Mauricio Pochettino and the USMNT’s road to 2030. Meg Linehan previews the 2027 Women’s World Cup in Brazil and Emma Hayes’ USWNT squad.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16112201/0716_Clean.png?width=1200&height=630&fit=cover",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Fox’s US World Cup summer: wild mispronunciations, Corden’s sad beers and Lowe’s excellence",
+   "iso": "2026-07-17T08:28:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
+   "lede": "The broadcaster’s tournament coverage was a mix of flat and fizz. It could also have been a long farewell with World Cup rights up for grabs. Goodbye, then, to Fox, to its band of upbeat Brits and grown men dressed in suits and sneakers. Goodbye to constant cutaways to Gianni Infantino in the stands, his eyebrows a mournful tipi, his nude head sprinkling under the summer sun.",
+   "image": "https://i.guim.co.uk/img/media/ae0bb2112147cdde52b6027430541daad8706858/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7581511039d841feb2087be614386257",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "Three reasons to be positive that football might come home soon after England's World Cup exit",
@@ -8,8 +28,18 @@
    "link": "https://sports.yahoo.com/articles/three-reasons-positive-football-might-081000642.html",
    "lede": "England's exit from the 2026 World Cup wrote another chapter of heartbreak into a tale of international eliminations. Just minutes from a first final in 60 years,England imploded against Argentina as the wait for silverware success goes on. The coming days will be full of reflection and regret, though it's not all doom and gloom. Here are three reasons to be positive that footballmight come home soon.",
    "image": "https://s.yimg.com/os/en/football_muse_articles_776/0dde2a97dff27888fb76481843071cc3",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026: England 1-2 Argentina - Three Lions suffer semi-final loss after stunning late turnaround by holders",
+   "iso": "2026-07-17T07:42:55.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13562935/world-cup-2026-england-1-2-argentina-three-lions-suffer-semi-final-loss-after-stunning-late-turnaround-by-holders",
+   "lede": "England missed out on their first World Cup final since 1966 after a stunning late turnaround from rivals Argentina saw the holders earn a 2-1 victory thanks to Lautaro Martinez's stoppage-time winner. The Three Lions were leading 1-0 with five minutes of normal time remaining in Atlanta through Anthony Gordon's early second-half opener. But two goals in the space of seven minutes saw a remarkable comeback from Argentina as Enzo Fernandez levelled with a wonderful 85th-minute strike from distance before substitute Martinez headed in a 92nd-minute winner. But following the changes, Argentina took firm control of the game and deservedly came back, with Lionel Messi playing a huge influence as he assisted both goals, producing a fine cross for Martinez's winner.",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-enzo-fernandez-argentina_7298574.jpg?20260715215346",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +48,18 @@
    "link": "https://www.theguardian.com/football/2026/jul/17/1966-the-last-time-argentina-played-spain-in-the-world-cup-match-report",
    "lede": "The two heavyweights of world football have met only once at the World Cup, during the 1966 group stage. Having beaten England, Argentina will now face Spain in the 2026 World Cup final. Given that both teams regularly qualify for, and progress to, the latter stages of the World Cup, it is remarkable that the last time they met was in a group game at the 1966 tournament in England. Argentina won the match at Villa Park 2-1.",
    "image": "https://i.guim.co.uk/img/media/531dd46704ca1f83be4967ffb50ecf0a02633bff/90_0_2130_1704/master/2130.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb5ac5b2d0ec9d75c4f0001fdd41b7d3",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Joan Laporta talks Messi, Lamine, Deco, La Masia ahead of FIFA World Cup final: ‘We are very proud’",
+   "iso": "2026-07-17T06:40:00.000Z",
+   "link": "https://sports.yahoo.com/articles/joan-laporta-talks-messi-lamine-064000616.html",
+   "lede": "Barcelona president Joan Laporta believes the club will be at the heart of the 2026 FIFA World Cup final as Spain prepare to face Argentina in New York. With eight Barcelona players included in Luis de la Fuente’s squad, the Blaugrana chief says the occasion is a reminder of the club’s influence on the biggest stage in international football. The latest Barcelona news has centred around the club’s remarkable representation in the Spain squad, with several first-team stars expected to play key roles in Sunday’s final. On that note, Laporta travelled to New York to support La Roja and spoke proudly about Barcelona’s contribution ahead of one of the most anticipated matches of the year.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/Q3roaBjRg0lIkRy3255H7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/barca_universal_articles_732/9975b5ccac0cad3f35434a9d17b52c2d",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -28,56 +68,16 @@
    "link": "https://www.independent.co.uk/sport/football/world-cup-bronze-final-third-place-play-off-england-france-b3016397.html",
    "lede": "Three days after the biggest loss of their careers, England’s squad have to go again and take on Kylian Mbappe’s France on Saturday in Miami. And Kieran Jackson argues: who even cares? From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging.",
    "image": "https://static.independent.co.uk/2026/07/16/15/01KXNETNVQ09R5XEYQ1MCA4ZD5.jpg?trim=12,0,12,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Nine stars who could move in summer transfers",
-   "iso": "2026-07-17T06:30:34.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c87ng4xq9nwo",
-   "lede": "(Left to right) Bradley Barcola, Ayyoub Bouaddi, Yan Diomande and Djed Spence. As the World Cup approaches its end, attentions are turning towards the 2026-27 club season - and who could be on the move this summer. Several major names from the World Cup have already agreed deals - Marc Cucurella, Elliot Anderson and Youri Tielemans among them. But there are plenty more transfers still to come, including some which could be inspired or enacted thanks to performances in North America.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/72e4/live/81110410-810d-11f1-926f-c90d1bcfbc84.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SILVER BULLETIN",
-   "title": "2026 World Cup Predictions",
-   "iso": "2026-07-17T06:14:56.000Z",
-   "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
-   "lede": "At the start of this exceptional World Cup, our model had Argentina and Spain as co-favorites, with France and England as the 3rd- and 4th-most likely teams to take home the trophy. I understand the skepticism about Argentina. You could argue that all three of their KO-round wins have been dodgy in some fashion. I thought they played an excellent game today, by contrast, though I’m not quite sure whether their conservative play in the first half served any greater purpose.",
-   "image": "https://substackcdn.com/image/fetch/$s_!Z-ne!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5dd67e-d51f-443e-871f-8c348700439b_1396x932.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "World Cup final 2026 date and time: Spain to face Argentina",
-   "iso": "2026-07-17T06:13:53.000Z",
-   "link": "https://www.standard.co.uk/sport/football/world-cup-final-2026-date-time-spain-argentina-b1289955.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Spain will face Argentina in the World Cup 2026 final. La Roja became the first team to book their place in this weekend’s tournament showpiece with a 2-0 win over France in Arlington, Texas.",
-   "image": "https://static.standard.co.uk/2022/11/20/19/AFP_32P97WT.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Fox’s US World Cup summer: wild mispronunciations, Corden’s sad beers and Lowe’s excellence",
-   "iso": "2026-07-17T05:29:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
-   "lede": "The broadcaster’s tournament coverage was a mix of flat and fizz. It could also have been a long farewell with World Cup rights up for grabs. Goodbye, then, to Fox, to its band of upbeat Brits and grown men dressed in suits and sneakers. Goodbye to constant cutaways to Gianni Infantino in the stands, his eyebrows a mournful tipi, his nude head sprinkling under the summer sun.",
-   "image": "https://i.guim.co.uk/img/media/ae0bb2112147cdde52b6027430541daad8706858/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7581511039d841feb2087be614386257",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "40-year long Bayern Munich World Cup streak ended by cowardly England losing at the end",
-   "iso": "2026-07-17T05:15:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/231382/40-year-long-bayern-munich-world-cup-streak-ended-by-cowardly-england-losing-at-the-end",
-   "lede": "Since 1982, Bayern Munich have had at least one player in the final of every single World Cup. With both England and France now eliminated in the semi-inal, Harry Kane, Michael Olise, and Dayot Upamecano have all exited the tournament. Just to recap, here is the incredible streak that Bayern Munich have maintained all these years, most of them coming courtesy of strong German performances at the biggest stage.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2282487109.jpg?quality=90&strip=all&crop=0%2C11.766171445305%2C100%2C76.46765710939&w=1200",
+   "cat": "THE NEW YORK TIMES",
+   "title": "All hail the World Cup town of East Rutherford, a deserving center of the universe",
+   "iso": "2026-07-17T09:00:10.000Z",
+   "link": "https://www.nytimes.com/athletic/7449475/2026/07/17/world-cup-final-east-rutherford-new-york-new-jersey-stadium/",
+   "lede": "The small borough in northern New Jersey is about to host the biggest sporting event in the world.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16095009/GettyImages-2284793795-1-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
