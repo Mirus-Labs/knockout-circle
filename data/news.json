@@ -1,16 +1,6 @@
 {
- "updated": "2026-07-17T14:05:48.658Z",
+ "updated": "2026-07-17T14:17:17.019Z",
  "news": [
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Five positives for England from the tournament",
-   "iso": "2026-07-17T13:45:05.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/clyxllv7lmpo",
-   "lede": "England's 3-2 victory over Mexico at the Azteca was one of the nation's tournament highlights. There is no sugar-coating a semi-final loss to footballing rivals in a World Cup. Compound that with so many 'nearlies' in recent tournaments - back-to-back European final losses in 2021 and 2024, and another World Cup semi-final exit in 2018. Then if you add the manner in which England lost their grasp on a place in this final, it might seem difficult to find many reasons for positivity.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/341f/live/ddf955e0-81cd-11f1-b976-0b9c15b0ccfc.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "JACOBIN",
    "title": "The Americanization of the World Cup Is Here to Stay",
@@ -18,16 +8,26 @@
    "link": "https://jacobin.com/2026/07/world-cup-americanization-fifa-infantino-trump",
    "lede": "Unwarranted ad breaks, entry bans on some foreign nationals, and political tampering with the game all made this a Trumpian World Cup. But if Donald Trump put his stamp on the world’s game, it’s also set a precedent for future FIFA-organized tournaments. Football has become a commercial product distant from its working-class roots. But the era of Donald Trump and Gianni Infantino has done something more, as FIFA’s rampant corruption undermines the sporting integrity of the game itself.",
    "image": "https://media.jacobin.com/images/2026/7/138467667907.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup quiz: Can you name all the previous finalists?",
+   "iso": "2026-07-17T13:33:33.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cj4pw98d29eo",
+   "lede": "The World Cup final gets under way at 20:00 BST on Sunday. It will be the 23rd final in World Cup history. Can you name all of the teams who have ever played in the game's biggest showpiece? Go to our dedicated Football Quizzes and Sports Quizzes pages and sign up for notifications to get the latest quizzes sent straight to your device.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a80/live/ae42b880-81e8-11f1-bee8-53ce494e1abc.png",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
-   "cat": "BBC",
-   "title": "World Cup 2026: VAR will not be used for diving in Uefa competitions",
-   "iso": "2026-07-17T13:39:15.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c89nlvwx410o",
-   "lede": "Switzerland were left with 10 men against Argentina after Breel Embolo, left, received a second yellow card for simulation. Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as it was used at the 2026 World Cup. The International Football Association Board (Ifab) tweaked the VAR protocol effective from this summer. A VAR could now intervene to change a yellow or red card if a referee had incorrectly identified which team's player committed the offence.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef87/live/18cbc900-81dd-11f1-8b86-31ce3d5ecce7.jpg",
+   "cat": "THE INDEPENDENT",
+   "title": "Bronze final? How about World Cup’s most pointless match? Why Fifa should bin off third-place play-off",
+   "iso": "2026-07-17T13:30:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup-bronze-final-third-place-play-off-england-france-b3016397.html",
+   "lede": "Three days after the biggest loss of their careers, England’s squad have to go again and take on Kylian Mbappe’s France on Saturday in Miami. And Kieran Jackson argues: who even cares? From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging.",
+   "image": "https://static.independent.co.uk/2026/07/16/08/01KXKTA9PMSWHVCEVWFWX3NGCF.jpg?trim=80,0,80,0&width=1200&height=800&crop=1200:800",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
