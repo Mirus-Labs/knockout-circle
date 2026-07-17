@@ -1,35 +1,54 @@
 {
- "updated": "2026-07-17T04:29:22.632Z",
+ "updated": "2026-07-17T06:05:48.763Z",
  "news": [
   {
-   "cat": "THE GUARDIAN",
-   "title": "The Guardian view on England’s World Cup disappointment: a tale of the not wholly unexpected | Editorial",
-   "iso": "2026-07-17T02:57:00.000Z",
-   "link": "https://www.theguardian.com/commentisfree/2026/jul/16/the-guardian-view-on-englands-world-cup-disappointment-a-tale-of-the-not-wholly-unexpected",
-   "lede": "There was a sense of deja vu as Argentina came from behind to win an intense semi-final. But the players also gave the nation some memorable highs. Historically, English football-supporting culture has had a well-known darker side. But in recent decades, as the England men’s team’s trophy drought has continued, some of its unofficial anthems have acquired an endearingly melancholy quality.",
-   "image": "https://i.guim.co.uk/img/media/d9a46d842b3eb7a00eb6beea79c03fb29ec84860/181_0_2097_1678/master/2097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=39c4e27a4f314f71c0cc68d71698bd63",
+   "cat": "SILVER BULLETIN",
+   "title": "2026 World Cup Predictions",
+   "iso": "2026-07-17T03:14:26.000Z",
+   "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
+   "lede": "At the start of this exceptional World Cup, our model had Argentina and Spain as co-favorites, with France and England as the 3rd- and 4th-most likely teams to take home the trophy. I understand the skepticism about Argentina. You could argue that all three of their KO-round wins have been dodgy in some fashion. I thought they played an excellent game today, by contrast, though I’m not quite sure whether their conservative play in the first half served any greater purpose.",
+   "image": "https://substackcdn.com/image/fetch/$s_!Z-ne!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5dd67e-d51f-443e-871f-8c348700439b_1396x932.png",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026: England 1-2 Argentina - Three Lions suffer semi-final loss after stunning late turnaround by holders",
-   "iso": "2026-07-17T01:37:28.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13562935/world-cup-2026-england-1-2-argentina-three-lions-suffer-semi-final-loss-after-stunning-late-turnaround-by-holders",
-   "lede": "England missed out on their first World Cup final since 1966 after a stunning late turnaround from rivals Argentina saw the holders earn a 2-1 victory thanks to Lautaro Martinez's stoppage-time winner. The Three Lions were leading 1-0 with five minutes of normal time remaining in Atlanta through Anthony Gordon's early second-half opener. But two goals in the space of seven minutes saw a remarkable comeback from Argentina as Enzo Fernandez levelled with a wonderful 85th-minute strike from distance before substitute Martinez headed in a 92nd-minute winner. But following the changes, Argentina took firm control of the game and deservedly came back, with Lionel Messi playing a huge influence as he assisted both goals, producing a fine cross for Martinez's winner.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-enzo-fernandez-argentina_7298574.jpg?20260715215346",
+   "cat": "AL JAZEERA",
+   "title": "Watch FIFA World Cup: Argentina rallies past England to reach final",
+   "iso": "2026-07-17T05:58:55.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/16/video-world-cup-2026-highlights",
+   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260715__C2B78H8__v1__HighRes__FblWc2026Match102EngArg-1784191000.jpg?resize=1200%2C630",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "View from the other side: inside Argentina’s celebrations after semi-final win against England",
-   "iso": "2026-07-17T01:30:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/16/argentina-england-celebrations-buenos-aires-world-cup",
-   "lede": "Watching England lose is one thing. Watching them lose surrounded by millions celebrating Argentina’s march to another World Cup final, is completely different. Look, most people were awfully good about it. Our waiter at a restaurant near Plaza de Mayo shook our hands warmly and said nice things about Jude Bellingham.",
-   "image": "https://i.guim.co.uk/img/media/8668f46c21d71f75e8e94eb2ace38576a68a0c0c/998_462_6302_5042/master/6302.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dec6051f09861779ad6ee86ea5fc9ffa",
+   "cat": "ESPN",
+   "title": "Every England World Cup exit since 1966 - revisiting 60 years of hurt",
+   "iso": "2026-07-17T05:12:30.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/48741101/england-world-cup-sixty-years-hurt-revisiting-every-exit",
+   "lede": "",
    "emoji": "🏟️",
    "bg": "#7a5b16"
+  },
+  {
+   "cat": "BEIN SPORTS",
+   "title": "FIFA Appoints Referee for the 2026 World Cup Final Between Spain and Argentina",
+   "iso": "2026-07-17T05:09:00.000Z",
+   "link": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/fifa-appoints-referee-for-the-2026-world-cup-final-between-spain-and-argentina-2026-07-17",
+   "lede": "Slavko Vinčić has been appointed by FIFA to referee the 2026 FIFA World Cup Final between Spain and Argentina.",
+   "image": "https://prod-media.beinsports.com/image/1784264124234_0f2bb77f-ea9a-4539-b4d9-94ac3f4bb530.1080.png",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "France step up preparations for World Cup third-place playoff",
+   "iso": "2026-07-17T04:23:00.000Z",
+   "link": "https://sports.yahoo.com/videos/france-step-preparations-world-cup-042343234.html",
+   "lede": "France returned to the training pitch in Boston as Didier Deschamps' side continued their preparations for Saturday's FIFA World Cup third-place playoff against England in Miami.",
+   "image": "https://s.yimg.com/os/en/french_federation_404/9129028a50a4f53de3b073bb1f9e56ed",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -38,8 +57,8 @@
    "link": "https://www.nytimes.com/athletic/7449342/2026/07/17/world-cup-final-spain-argentina-preview/",
    "lede": "All you need to know about the World Cup final between Spain and Argentina at MetLife Stadium on Sunday.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16101527/Messi_Lamine_.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -48,8 +67,8 @@
    "link": "https://www.nytimes.com/athletic/7446748/2026/07/17/michael-olise-boot-deal-world-cup/",
    "lede": "The France forward is a rarity and is forgoing huge sums of money by not partnering with the likes of Nike or Adidas.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15064150/GettyImages-2284105033.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -58,26 +77,6 @@
    "link": "https://www.nytimes.com/athletic/7366013/2026/07/17/world-cup-how-to-warm-up/",
    "lede": "An expert guide to the pro exercises that will ensure you are ready for matchday.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/06/14232239/warmup-1407.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How FIFA built a $10bn World Cup: ‘A global mega-event with no parallel’",
-   "iso": "2026-07-17T04:10:15.000Z",
-   "link": "https://www.nytimes.com/athletic/7449190/2026/07/17/fifa-world-cup-10billion-tournament/",
-   "lede": "After the huge revenues of Qatar 2022, FIFA is waiting to count up to another staggering number following this year's edition.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16184803/0717_SOCCER_FIFA-10-BILLION-2.png?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "FIFA insists MetLife Stadium’s pitch is ready for the World Cup final despite criticism",
-   "iso": "2026-07-17T04:05:34.000Z",
-   "link": "https://www.nytimes.com/athletic/7447656/2026/07/17/world-cup-final-pitch-metlife-stadium/",
-   "lede": "After being criticised early in the tournament, the temporary grass playing surface in New Jersey now faces its biggest test.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15134314/GettyImages-2284782745-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
