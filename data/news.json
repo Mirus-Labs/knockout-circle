@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-17T15:45:30.168Z",
+ "updated": "2026-07-17T15:57:36.112Z",
  "news": [
+  {
+   "cat": "SOCCERBIBLE",
+   "title": "The Neighborhood World Cup is Where Football, Art & Community Collide",
+   "iso": "2026-07-17T15:53:24.000Z",
+   "link": "https://www.soccerbible.com/features/2026/07/the-neighborhood-world-cup-is-where-football-art-community-collide/",
+   "lede": "Turns out FIFA aren’t the only organisation hosting a World Cup this summer. Whilst the world’s greatest players have been duking it out, football-inspired lifestyle brand and community space Neighborhood Sports Club have been hosting its own tournament, featuring 16 teams of Bay Area locals representing 16 countries, celebrating the diversity of the Bay and its deep football culture. And frankly, it looked beautiful. The beauty of Creative Soccer Culture is that it’s so open to interpretation.",
+   "image": "https://www.soccerbible.com/media/183073/neighborhood-fb.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "JOSIMARFOOTBALL.COM",
    "title": "The World Cup Legacy Fifa Does Not Want to Talk About",
@@ -8,28 +18,8 @@
    "link": "https://josimarfootball.com/2026/07/17/the-world-cup-legacy-fifa-does-not-want-to-talk-about/",
    "lede": "The final will give us a winner. But the real legacy of the 2026 World Cup is still being written far from the pitch. At borders, on policed streets, inside Fifa’s opaque black-box governance, in betting markets, around authoritarian states and among the people Fifa’s spectacle pushed aside. Op-ed by Stanis Elsborg, head of Play the Game, a Denmark-based initiative that promotes democratic values in world sports with an emphasis on freedom of expression, transparency, and open dialogue.",
    "image": "https://josimarfootball.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-10.06.30.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Cesar Azpilicueta column - why Spain will keep calm and carry on",
-   "iso": "2026-07-17T15:04:58.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/czxedvre7ryo",
-   "lede": "The final moment has arrived, and Spain want our second star. To win this World Cup, we don't need to do anything spectacular - we just need to keep calm and carry on playing the same way. I am back in Madrid now after working on the tournament for the BBC and I would say the whole country believes we can beat Argentina on Sunday and bring home the trophy like we did in 2010. That confidence comes from lots of places - from winning Euro 2024, from our long unbeaten run of 37 games and of course from the way we beat France in the semi-final.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/698c/live/adf12f60-81e3-11f1-9b73-1d2c7fa8d439.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance",
-   "iso": "2026-07-17T15:01:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan",
-   "lede": "A tournament with more teams and more games has been filled with euphoria, heartbreak, and these weird and wonderful viral moments. As a Japanese supporter exclaimed to a television camera, “Texas is good, everything is big”, we knew the World Cup had started. In those early euphoric moments, seeing the palpable joy when everything is still possible, it seemed Japan fans were the MVPs of memes. They came in their thousands, dressed in sombreros and Mario outfits, tossed into the air like confetti and line dancing with the Dutch.",
-   "image": "https://i.guim.co.uk/img/media/6236030100ffbb6771707b1839f64f92e06ed0a2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46e730654155b26988198686faecda27",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/17/world-cup-mayors-zohran-mamdani-matt-mahan",
    "lede": "Whether through livestreams or in-person attendance, America’s mayors have taken a variety of approaches to integrating soccer into their comms strategy. From the moment he entered office, New York City Zohran Mamdani hasn’t hesitated to make his love of soccer clear. The former New York state assembly member hosted a watch party for the Africa Cup of Nations final soon after moving in to City Hall, littered speeches with references to soccer stars past and present, and remained a fixture at a Brooklyn pub to watch his beloved Arsenal on their way to a Premier League title. The World Cup, though, is a different level.",
    "image": "https://i.guim.co.uk/img/media/f1d6be0a1abdffe363988cc64e9593d7adabaad8/371_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=320d8a92c10b956c7799a7134ea193c6",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -48,6 +38,16 @@
    "link": "https://sports.yahoo.com/articles/spam-nod-30m-followers-world-142600228.html",
    "lede": "It was and of course still is a World Cup of dazzling superheroes who drew a huge share of the attention from the entire football world. In recent weeks, we’ve witnessed some remarkable stories that put players in the spotlight who we maybe hadn’t even had on our radar before - and for some, they were surely even better stories than all the records and goals from the absolute elite. We picked out ten players who turned into absolute cult figures during the tournament - and whom we hope to keep hearing plenty about here and there even after the final. Simply an incredible story.",
    "image": "https://s.yimg.com/ny/api/res/1.2/7rni2swXHTpWK3QAbTPSvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjQ7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/217d626e4ddd7f6f03250bd57a4e3dd1",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "FRONT OFFICE SPORTS",
+   "title": "‘Rocket Launch’: Ex-US Soccer Chief Sees Lasting World Cup Boom",
+   "iso": "2026-07-17T15:47:07.000Z",
+   "link": "https://frontofficesports.com/rocket-launch-ex-us-soccer-chief-sees-lasting-world-cup-boom/",
+   "lede": "Soccer Federation president Alan Rothenberg tells FOS soccer may already be the number No. 2 in America behind football.",
+   "image": "https://frontofficesports.com/wp-content/uploads/2026/07/2026-07-07T005151Z_635586338_UP1EM7702ED35_RTRMADP_3_SOCCER-WORLDCUP-USA-BEL-scaled.jpg?quality=80",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
