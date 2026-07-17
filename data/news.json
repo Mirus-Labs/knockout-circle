@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T23:10:06.402Z",
+ "updated": "2026-07-17T23:37:14.544Z",
  "news": [
   {
    "cat": "THE REVIEW OF RELIGIONS",
@@ -22,22 +22,22 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE GUARDIAN",
+   "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
+   "iso": "2026-07-17T22:17:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
+   "lede": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament. The thick smoke that has engulfed New York and much of the eastern seaboard over the past few days has drawn wry smiles in Dallas and Los Angeles, where locals will watch on with a sense of schadenfreude when the World Cup final takes place in the New York New Jersey Stadium (usually known as the MetLife Stadium in New Jersey) on Sunday. The Dallas and Los Angeles stadiums, which were passed over when Fifa awarded the final in February 2024, are more impressive venues without the same climatic risks as New York, which was chosen because of its global appeal and favourable timezone for European television audiences.",
+   "image": "https://i.guim.co.uk/img/media/d6c5dd64632699cef36a13accc24f420cfe07e30/836_0_5384_4306/master/5384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bc8da3c16551bdccb12abf9b42956e1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "YAHOO SPORTS",
    "title": "FIFA World Cup Fantasy: Best Captain Picks for the Final",
    "iso": "2026-07-17T22:13:31.000Z",
    "link": "https://sports.yahoo.com/articles/fifa-world-cup-fantasy-best-221331879.html",
    "lede": "The final matchday of the 2026 FIFA World Cup Fantasy game has arrived, and with only the final and third-place play-off remaining, selecting the right captain could make the difference between winning and losing your mini-league. Unlike previous rounds, every point now carries extra significance, and with Fantasy managers able to manually substitute players after each fixture, there’s greater flexibility to maximize returns. Whether you’re protecting a lead or chasing down rivals, your captaincy choice should revolve around players with secure minutes, penalty duties, and the ability to produce decisive moments on the biggest stage. Here are the best captain options for the final round.",
    "image": "https://s.yimg.com/ny/api/res/1.2/IKFEx6WP_belZKH4R1ZLEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/e9946b4d4a29967dc176cb6fe9fb098f",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
-   "iso": "2026-07-17T22:09:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
-   "lede": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament. The thick smoke that has engulfed New York and much of the eastern seaboard over the past few days has drawn wry smiles in Dallas and Los Angeles, where locals will watch on with a sense of schadenfreude when the World Cup final takes place in the New York New Jersey Stadium (usually known as the MetLife Stadium in New Jersey) on Sunday. The Dallas and Los Angeles stadiums, which were passed over when Fifa awarded the final in February 2024, are more impressive venues without the same climatic risks as New York, which was chosen because of its global appeal and favourable timezone for European television audiences.",
-   "image": "https://i.guim.co.uk/img/media/d6c5dd64632699cef36a13accc24f420cfe07e30/836_0_5384_4306/master/5384.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bc8da3c16551bdccb12abf9b42956e1",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "NFL players turn up pressure for grass fields following World Cup",
-   "iso": "2026-07-17T21:23:36.000Z",
-   "link": "https://sports.yahoo.com/articles/nfl-players-turn-pressure-grass-212336683.html",
-   "lede": "The 2026 World Cup has reignited the natural grass versus synthetic turf debate. FIFA installed natural grass in seven of the 11 NFL stadiums that traditionally use synthetic turf for the World Cup. With soccer’s global event coming to a close, stadiums are already in the process of transitioning back to synthetic turf – and players are taking notice. Many players across the league have pleaded for natural grass surfaces to no avail, so the installation of natural grass exclusively for the World Cup has exacerbated the issue.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/O.oQa4cpo_XYJ2KwQ2.4uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/033533d18f6a887c5296607d9859e73b",
+   "cat": "LOCAL 3 NEWS",
+   "title": "Several watch parties planned for last 2 games of 2026 FIFA World Cup",
+   "iso": "2026-07-17T21:29:00.000Z",
+   "link": "https://www.local3news.com/local-news/several-watch-parties-planned-for-last-2-games-of-2026-fifa-world-cup/article_af3581c2-a902-4886-be30-49175f3b4136.html",
+   "lede": "UPDATE: It all comes down to one game. Well, technically two, if you refuse to pull for either Spain or Argentina for the grand finale of the 2026 FIFA World Cup on Sunday. France will be playing England for third place on Saturday. Here are some of the watch parties compiled by Chattanooga Soccer Fans for this weekend’s final two matches:.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/a/f3/af3581c2-a902-4886-be30-49175f3b4136/6a25cb08b0d74.preview.jpg?crop=1308%2C687%2C295%2C310&resize=1200%2C630&order=crop%2Cresize",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
