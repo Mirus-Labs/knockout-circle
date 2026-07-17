@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-16T23:39:47.965Z",
+ "updated": "2026-07-17T00:14:49.150Z",
  "news": [
   {
-   "cat": "BBC",
-   "title": "The financial winners and losers from the World Cup",
-   "iso": "2026-07-16T23:16:14.000Z",
-   "link": "https://www.bbc.com/news/articles/cgrkek8lrzvo",
-   "lede": "This World Cup has been bigger than any tournament before it. More countries taking part and more matches means more eyeballs on the action - as well as more opportunities to make money. As the planet's footballing stars create historic moments on the pitch, billions of dollars are being generated off it. But not everyone is raking in the big bucks with financial winners and losers.",
-   "image": "https://ichef.bbci.co.uk/news/1024/branded_news/99ff/live/e74f4460-8065-11f1-bf5f-a7a6eeea7412.jpg",
+   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
+   "title": "When is the World Cup final? All you need to know as Spain plays Argentina",
+   "iso": "2026-07-16T23:25:07.000Z",
+   "link": "https://www.abc.net.au/news/2026-07-17/world-cup-final-spain-vs-argentina-when-where-how-to-watch/106926254",
+   "lede": "The World Cup final is nearly here. The World Cup final is nearly upon us, the culmination of more than a month of elite international football coming down to one game and one champion team. Spain will face Argentina in the big game, Spain looking for its first men's title since 2010 and Argentina hoping to go back to back in the tournament after winning in 2022. Here is everything you need to know ahead of the game that will stop the world.",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1a3d31843075c5c50571585f23ca59ea?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=213&width=862&height=485&imformat=generic",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -32,12 +32,12 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "The bigger picture: Tuchel gets blame for England exit but this is not only about him | Barney Ronay",
-   "iso": "2026-07-16T22:03:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-exit-argentina",
-   "lede": "German will be pilloried for his semi-final decisions but that is to ignore the fact English football culture is not set up to win major tournaments. I wanted it to be you so badly.” As England’s World Cup hopes recede into another spell of heartache, let down in Atlanta by the latest handsome, cadaverous Mr Right, a little sadder, not much wiser, sunburnt, broke, eating Jägerbomb ice cream out of the tub with a spoon, this is a good moment to seek some classic New York romcom solace. Don’t be sad that it’s over.",
-   "image": "https://i.guim.co.uk/img/media/104231e3779e255116cb27cc7bdcf666fea6381c/214_0_2138_1711/master/2138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=199572b2570f6efe602a89df842ee56c",
+   "cat": "LONDON EVENING STANDARD",
+   "title": "World Cup final 2026 date and time: Spain to face Argentina",
+   "iso": "2026-07-16T22:12:21.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-final-2026-date-time-spain-argentina-b1289955.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Spain will face Argentina in the World Cup 2026 final. La Roja became the first team to book their place in this weekend’s tournament showpiece with a 2-0 win over France in Arlington, Texas.",
+   "image": "https://static.standard.co.uk/2022/11/20/19/AFP_32P97WT.jpg?width=1200&auto=webp&quality=75",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
