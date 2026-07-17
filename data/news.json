@@ -1,6 +1,36 @@
 {
- "updated": "2026-07-17T10:27:01.515Z",
+ "updated": "2026-07-17T11:06:33.619Z",
  "news": [
+  {
+   "cat": "SOUTH CHINA MORNING POST",
+   "title": "Adidas, Lenovo among companies in China giving workers a World Cup final holiday",
+   "iso": "2026-07-17T10:30:06.000Z",
+   "link": "https://www.scmp.com/sport/football/article/3360961/adidas-lenovo-among-companies-china-giving-workers-world-cup-final-holiday",
+   "lede": "Several corporations in mainland China have announced a full day or a half day off for their employees next Monday so that they can enjoy the Fifa World Cup final to the fullest. European champions Spain will take on reigning champions Argentina at MetLife Stadium on Sunday afternoon to bring the 39-day tournament to a close. A win for Luis de la Fuente’s side will see the Spaniards adding to their previous title from 2010, while a victory for the world’s top team and three-time champions will make Lionel Scaloni the first head coach ever to defend a World Cup.",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/17/023446cf-b9fd-48f1-be48-884e39db9bad_79f426cc.jpg?itok=NveEHSzu&v=1784281258",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "LOCAL 3 NEWS",
+   "title": "Soccer fans invited to cheer Spain to World Cup victory",
+   "iso": "2026-07-17T10:19:00.000Z",
+   "link": "http://www.wrcbtv.com/local-news/soccer-fans-invited-to-cheer-spain-to-world-cup-victory/article_5191508c-4a5e-46c8-a392-e19891670b4a.html",
+   "lede": "Embassy Suites invites fans to cheer on \"La Roja\" as they battle Argentina during Sunday's World Cup championship match at the New York New Jersey Stadium. For more than a month, the Spanish National Soccer Team trained at Baylor School and stayed at the Embassy Suites in downtown Chattanooga preparing for their run to the finals of the 2026 FIFA World Cup. Embassy Suites is now inviting local fans to cheer on \"La Roja\" as they battle Argentina during Sunday's championship match at the New York New Jersey Stadium. The hotel is hosting a watch party this weekend at the place where it all began for Spain.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/5/19/5191508c-4a5e-46c8-a392-e19891670b4a/6a5a0369bcba6.preview.jpg?crop=1536%2C806%2C0%2C108&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Slow progress for Africa after late goals and underdog success",
+   "iso": "2026-07-17T10:18:57.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cx2d2w8gxpvo",
+   "lede": "Cape Verde reached the last 32 on their World Cup debut and Egypt registered a first win at the finals but Senegal will rue the manner of their exit. Africa sent its largest ever contingent to the 2026 Fifa World Cup, but while there were undoubtedly some great storylines, how successful was the tournament overall for the 10 teams who travelled? After nine nations made it into the knockout stage, Confederation of African Football (Caf) boss Patrice Motsepe said they had made the continent's 1.6 billion people proud. But only Morocco made it to the quarter-finals, while exiting after conceding late goals was a recurring fate which befell five sides - with Senegal and Egypt squandering two-goal leads as they crashed out in dramatic style.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b344/live/5ffe8730-8102-11f1-bee8-53ce494e1abc.png",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "MARCA",
    "title": "The World Cup champions will receive championship rings for the first time in history",
@@ -8,8 +38,8 @@
    "link": "https://www.marca.com/en/world-cup/2026/07/17/the-ring-to-rule-the-world-the-world-cup-champions-will-receive-championship-rings-for-the-first-time-in-history.html",
    "lede": "The 2026 World Cup final between Sapin and Argentina will have a historic and unprecedented finale in the history of football. 'FIFA reports that \"the champions of the FIFA World Cup will receive custom championship rings, bringing one of the most recognizable American sports traditions to world football\".' \"Besides the iconic trophy and the prestigious gold medals, the winning team will receive, for the first time in a FIFA competition, an additional recognition: personalized championship rings. In this way, FIFA is bringing into football one of the most deeply rooted traditions in American sports,\" FIFA said in a statement.",
    "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/17/6a59ffb8b59e2.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE LIBRARY OF ECONOMICS AND LIBERTY",
@@ -18,66 +48,36 @@
    "link": "https://www.econlib.org/econlog/a-world-cup-final-through-austrian-eyes",
    "lede": "By Giacomo Balbinotto Neto, Jul 17 2026. Imagine that history made one small exception. For one evening only, time stopped separating generations. High above the noise of a packed World Cup final game, in a quiet corner of the grandstand untouched by television cameras, eight elderly gentlemen quietly took their seats.",
    "image": "https://www.econlib.org/wp-content/uploads/2026/07/Depositphotos_379246860_XL-scaled.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Which World Cup teams were most surprising and most disappointing?",
-   "iso": "2026-07-17T10:00:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/231556/question-of-the-day-which-world-cup-team-did-you-find-most-surprising-and-which-team-was-most-disappointing",
-   "lede": "The 2026 FIFA World Cup has delivered everything fans could have hoped for: drama, upsets, breakout stars, and a few stunning disappointments. While powerhouses like Spain, Argentina, France, and England ultimately reached the semifinals, the road there was filled with performances that nobody saw coming. That brings us to today’s Question of the Day: Which World Cup team surprised you the most, and which team was the biggest disappointment? There are plenty of worthy candidates on both sides of the debate.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2283677273.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "GULF NEWS",
-   "title": "FIFA is giving World Cup winners championship rings. Yes, fans can get one too",
-   "iso": "2026-07-17T09:31:20.000Z",
-   "link": "https://gulfnews.com/sport/football/world-cup/world-cup-2026-fifa-introduces-championship-rings-for-winners-and-fans-heres-how-much-they-could-cost-1.500611112",
-   "lede": "Football purists may want to look away now. FIFA is about to give the beautiful game a very American makeover, and the prize for winning the 2026 World Cup could include something far flashier than a medal.Championship rings are coming to football.With the final between Spain and Argentina set to take place at MetLife Stadium, FIFA is embracing the tournament’s North American setting with a tradition more commonly associated with the Super Bowl: Enormous, outrageously expensive jewellery designed to announce, quite loudly, that you won. . FIFA World Cup 2026 final: How Argentina's Spanish colonial past and now Messi connect the nations.And these are not the sort of rings you pick up at a stadium gift shop. FIFA is producing just 2,026 of them, with 30 reserved for members of the winning team.",
-   "image": "https://media.assettype.com/gulfnews%2F2026-07-17%2Fjfk9m6e8%2Fchampion.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "OPTA ANALYST",
-   "title": "The World Cup Third-Place Play-Off: Is It the Weirdest Game in Football?",
-   "iso": "2026-07-17T09:29:52.000Z",
-   "link": "https://theanalyst.com/articles/world-cup-third-place-play-off-stats",
-   "lede": "France will play England in the 2026 World Cup third-place play-off on Saturday. We look back on what some see as a bit of an odd fixture at the tournament. After 102 games, there are just two remaining at the 2026 World Cup. One is the biggest game in football, the World Cup final.",
-   "image": "https://theanalyst.com/wp-content/uploads/2026/07/croatia-third-place-win-world-cup-2022.png",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "SILVER BULLETIN",
-   "title": "2026 World Cup Predictions",
-   "iso": "2026-07-17T09:15:25.000Z",
-   "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
-   "lede": "At the start of this exceptional World Cup, our model had Argentina and Spain as co-favorites, with France and England as the 3rd- and 4th-most likely teams to take home the trophy. I understand the skepticism about Argentina. You could argue that all three of their KO-round wins have been dodgy in some fashion. I thought they played an excellent game today, by contrast, though I’m not quite sure whether their conservative play in the first half served any greater purpose.",
-   "image": "https://substackcdn.com/image/fetch/$s_!Z-ne!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5dd67e-d51f-443e-871f-8c348700439b_1396x932.png",
+   "cat": "THE NEW YORK TIMES",
+   "title": "What food and drink will cost fans at World Cup final – and how MetLife’s prices compare to other venues",
+   "iso": "2026-07-17T11:00:41.000Z",
+   "link": "https://www.nytimes.com/athletic/7446860/2026/07/17/metlife-world-cup-final-food-drink-prices/",
+   "lede": "Like a lot of things, concessions haven't been cheap during this tournament. What should people expect to spend at Sunday's showpiece?",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15091133/GettyImages-2283605950-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Is men’s college soccer a viable path to the World Cup? Here’s how it’s changing",
-   "iso": "2026-07-17T10:00:40.000Z",
-   "link": "https://www.nytimes.com/athletic/7447665/2026/07/17/college-soccer-world-cup-ncaa/",
-   "lede": "The men's college game is hardly dead, but it is not necessarily a destination for top domestic talent.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16091806/2025-12-16T010702Z_864973791_MT1USATODAY27826275_RTRMADP_3_NCAA-SOCCER-COLLEGE-CUP-CHAMPIONSHIP-scaled.jpg?width=1200&height=630&fit=cover",
+   "title": "An NFL guide to dealing with the World Cup final’s extended halftime show",
+   "iso": "2026-07-17T11:00:36.000Z",
+   "link": "https://www.nytimes.com/athletic/7447458/2026/07/17/world-cup-final-2026-halftime-show-delay-super-bowl-nfl/",
+   "lede": "The World Cup halftime pause is expected to last slightly longer than normal. NFL players have plenty of experience with such delays.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15114937/GettyImages-2260605185-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "The New York hotel staff who welcomed World Cup fans – then became them",
-   "iso": "2026-07-17T10:00:31.000Z",
-   "link": "https://www.nytimes.com/athletic/7448933/2026/07/17/world-cup-hotel-workers-union-england-panama-metlife/",
-   "lede": "Twenty-four hotel employees from New York and New Jersey were offered the chance to attend England's win over Panama at MetLife Stadium.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16074640/IMG_0581-scaled.jpg?width=1200&height=630&fit=cover",
+   "title": "World Cup winners to be presented with championship rings in tournament first",
+   "iso": "2026-07-17T11:00:32.000Z",
+   "link": "https://www.nytimes.com/athletic/7451605/2026/07/17/world-cup-winners-championship-rings/",
+   "lede": "FIFA described it as \"bringing one of the most recognisable American sporting traditions to the global game\".",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/17064110/GettyImages-1245712291-scaled-e1784284889977.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
