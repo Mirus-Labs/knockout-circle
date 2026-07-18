@@ -1,6 +1,46 @@
 {
- "updated": "2026-07-18T16:39:09.272Z",
+ "updated": "2026-07-18T17:42:40.841Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Spain training session cancelled before World Cup final",
+   "iso": "2026-07-18T17:32:45.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cly878gpgrlo",
+   "lede": "Spain were unable to train on Saturday. Spain's final training session before the World Cup final was cancelled after heavy thunderstorms hit New York and New Jersey on Saturday. Luis de la Fuente's side were due to train at the Melanie Lane training ground in New Jersey but after the session was initially suspended, it was later called off. About five miles away in Morristown, opponents Argentina were later able to train after a 45-minute delay.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/40d6/live/d05b9c40-82cc-11f1-adf9-c14531781464.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Shackle Rodri the metronome and Argentina’s passion play can floor Spain | Jonathan Wilson",
+   "iso": "2026-07-18T17:00:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/shackle-rodri-the-metronome-and-argentinas-passion-play-can-floor-spain",
+   "lede": "The World Cup final is a classic clash of the process team against a side riding an emotional urge to fulfil Messi’s destiny. In the 37 minutes between England going ahead against Argentina and falling behind, they had 12% possession. It’s fair to assume that in the World Cup final Spain will provide a rather different challenge. They do not suffer the Mafeking tendency of the English, seeking to re-enact some famous siege every time they take the lead.",
+   "image": "https://i.guim.co.uk/img/media/036363a5875544cecd554f8cba0af3ddbda7b13d/700_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=61d9430fe7fa7002fe71730c50e0779c",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FORBES",
+   "title": "Why Tuchel, Ancelotti And Super Coaches Struggled At The World Cup",
+   "iso": "2026-07-18T16:36:29.000Z",
+   "link": "https://www.forbes.com/sites/chrisevans/2026/07/18/why-tuchel-ancelotti-and-super-coaches-struggled-at-the-world-cup/",
+   "lede": "Top club coaches like Tuchel and Ancelotti surprisingly faltered at the World Cup, while international specialists De la Fuente and Scaloni led their teams to the final. The article suggests that club \"super coaches,\" accustomed to extensive player contact and control, struggled to adapt to the limited preparation time and unique demands of international tournaments. Their inability to quickly build team chemistry and implement intricate tactics, unlike in club football, proved to be a significant hurdle. In contrast, coaches with experience within national federations demonstrated a better understanding of how to foster an ethos and tactical message efficiently, highlighting that international success requires specific adaptability beyond club achievements.",
+   "image": "https://imageio.forbes.com/specials-images/imageserve/6a5baa86ceb3d6e4cb3ca431/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "USA TODAY",
+   "title": "Football vs. fútbol: Nine reasons I'll always take the NFL over World Cup | Opinion",
+   "iso": "2026-07-18T16:24:00.000Z",
+   "link": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/",
+   "lede": "Eye of the beholder, etc., etc. For the fútbol faithful, the World Cup excitement is building to a crescendo ahead of Sunday's final between defending champion Argentina and Spain. But for the football faithful? We've been subjected to plenty.",
+   "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/15/USAT/90563604007-christian-pulisic.jpg?crop=1375,773,x1301,y1275&width=1375&height=773&format=pjpg&auto=webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "🚨 Club World Cup: both finalists' training hit by weather ⛈️😱",
@@ -8,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/club-world-cup-both-finalists-160600201.html",
    "lede": "This World Cup weather, honestly... Argentina and Spain's preparations have been disrupted by their inability to train this Saturday. A thunderstorm led to the cancellation of both teams' training sessions, just over 24 hours before the World Cup final. The first to suffer were the Argentinians, who had to postpone their training session and go ride stationary bikes indoors.",
    "image": "https://s.yimg.com/ny/api/res/1.2/Ygug9cqGYNAirDs6jpA0ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/a19b8f868043c2535b15a031f1f677b6",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "COLOMBIAONE.COM",
@@ -18,18 +58,8 @@
    "link": "https://colombiaone.com/2026/07/18/colombia-argentina-world-cup/",
    "lede": "Colombia and Argentina have big differences. Before the tournament started, this World Cup gave Colombia the chance to vindicate the American dream of millions of Colombians who migrated to the United States searching for glory, yet the dream died early again. The group of players led by James Rodriguez, Luis Diaz, and Nestor Lorenzo promised they had prepared to stay as long as possible in the tournament. What was possible was five games.",
    "image": "https://colombiaone.com/wp-content/uploads/2026/07/Messi-Enzo-Fernandez-Credit-AFA-X-scaled.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup: 'The Beautiful Game' in Miami had highs and lows",
-   "iso": "2026-07-18T15:57:47.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-beautiful-game-miami-155747035.html",
-   "lede": "MIAMI GARDENS — The party is ending. The memories will never fade away. Miami’s contribution to World Cup 2026 is in the books with seven matches before a packed Hard Rock Stadium. And we’re not talking only about the weather.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/QEkTrTFnZZ33GAczo3uBqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/d9da100d22fc9312e296d67608b0bb8f",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,45 +68,16 @@
    "link": "https://sports.yahoo.com/articles/spain-cancels-training-world-cup-155338014.html",
    "lede": "Editor's note: Follow for live updates on England-France World Cup game. MORRISTOWN, NJ — Both teams competing in the FIFA World Cup final saw their final training sessions before Sunday's match affected by thunderstorms rolling through the northern New Jersey area where Spain and Argentina were set to practice. Spain was scheduled to begin its session at 11 a.m. ET, and its bus arrived as scheduled to the facility.",
    "image": "https://s.yimg.com/ny/api/res/1.2/HJexLj_NkLVnDRHsses1lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/300ae5e26409c48fc30487a62cc14c30",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "'Less than human': how unhoused people in Atlanta are being treated during the World Cup – video",
-   "iso": "2026-07-18T15:24:00.000Z",
-   "link": "https://www.theguardian.com/football/video/2026/jul/18/how-unhoused-people-in-atlanta-are-being-treated-during-the-world-cup-video",
-   "lede": "“This is what happens when you apply these incredibly violent economic forces to these cities … it's happened at every World Cup I've been to,” explains our chief sports writer, Barney Ronay. Employees in Atlanta, Georgia, recently threw away tents, medication, identification and other belongings of unhoused people at a public park without warning. This led activists and a local official to point to an apparent violation of procedures created after a city employee ran over a tent with a front loader last year, killing a man. Cornelius Taylor was crushed inside his home as workers came to clear a homeless encampment.",
-   "image": "https://i.guim.co.uk/img/media/39eb79a83317cc76b78653b43ec6f6a692b0ef75/0_109_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9527b3e33f3f51f2592a853e767d663c",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up",
-   "iso": "2026-07-18T15:16:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
-   "lede": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament. “A lot of our community has been pushed out by the World Cup. We’re not just dollar signs, we’re more than that. We’re people and we’re frustrated that they’ve chosen to treat us less than human.”",
-   "image": "https://i.guim.co.uk/img/media/7ede2d18cbdcbf773cfbdf1040093f1dd0264dc7/2014_1080_2370_1895/master/2370.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0811fd2bc1400bb5259794ae5cabb5f",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
-   "iso": "2026-07-18T15:04:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
-   "lede": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topic. The Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thursday she took a different tack, writing instead about why she would not be supporting neighbouring Argentina in the World Cup final. “I have always been an admirer of the hermanos [as Brazilians affectionately call Argentinians] and would have loved to cheer on a fellow South American team,” she wrote on the morning after Argentina’s dramatic semi-final victory over England. “But I admit that the racist scenes involving a minority of the fans, and the silence of the majority on the pitch, turned my stomach.”",
-   "image": "https://i.guim.co.uk/img/media/ea3907898055f2d746641c01929431122f94a616/407_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2516c05e0b189fa38824fc58c26bbb81",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "OLYMPICS.COM",
-   "title": "FIFA World Cup 2026 – France vs England, third-place play-off: Score, lineups and live updates",
-   "iso": "2026-07-18T16:10:00.000Z",
-   "link": "https://www.olympics.com/en/news/fifa-world-cup-2026-france-england-score-lineups-live-updates",
-   "lede": "",
+   "cat": "LONDON EVENING STANDARD",
+   "title": "Where is the next World Cup 2030? Which countries are hosting?",
+   "iso": "2026-07-18T15:41:49.000Z",
+   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
+   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
