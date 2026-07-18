@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-18T22:58:00.748Z",
+ "updated": "2026-07-18T23:13:26.643Z",
  "news": [
+  {
+   "cat": "ROLLING STONE AUSTRALIA",
+   "title": "What Makes the World Cup Hit Different? Ask the Music Industry",
+   "iso": "2026-07-18T22:55:51.000Z",
+   "link": "https://au.rollingstone.com/music/music-features/world-cup-music-fifa-98609/",
+   "lede": "Music and football have always shared a connection — and as the World Cup final approaches, FIFA is highlighting the link like never before. The World Cup is in France. But a new era of globalization and international trade has created a rising demand for Latin music, and the world’s biggest soccer tournament needs anthem. Enter Puerto Rican singer Ricky Martin.",
+   "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/rs/uploads/2026/07/FIFA-House-RIAA-FIFA-Berklee.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Rate the players in France v England",
+   "iso": "2026-07-18T22:40:22.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c2lylzk04npo",
+   "lede": "The World Cup third-place play-off between England and France - which you can follow here - has been quite a spectacle. You can rate both sets of players out of 10 below and come back 30 minutes after full-time to see the final ratings. Rate players out of 10 for this game. The rater will close 30 minutes after the final whistle.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0ee/live/3e4a7290-82f9-11f1-b976-0b9c15b0ccfc.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
@@ -8,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
    "lede": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topic. The Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thursday she took a different tack, writing instead about why she would not be supporting neighbouring Argentina in the World Cup final. “I have always been an admirer of the hermanos [as Brazilians affectionately call Argentinians] and would have loved to cheer on a fellow South American team,” she wrote on the morning after Argentina’s dramatic semi-final victory over England. “But I admit that the racist scenes involving a minority of the fans, and the silence of the majority on the pitch, turned my stomach.”",
    "image": "https://i.guim.co.uk/img/media/ea3907898055f2d746641c01929431122f94a616/407_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2516c05e0b189fa38824fc58c26bbb81",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +38,18 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
    "lede": "Hospitality and secondary ticket market help fuel rise. Gianni Infantino will feel this shores up his position. Fifa will announce record $15bn (£11.2bn) revenues from this summer’s World Cup, significantly exceeding the targets set before the tournament. Fifa’s member associations were informed of the boost in income by Gianni Infantino on Saturday.",
    "image": "https://i.guim.co.uk/img/media/4f2560a905bc7bc1d90af2bc29d12d28155dc4c6/573_328_4219_3376/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=181d397872e1f50d341ff8a60688e395",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Why aren't Harry Kane, Jude Bellingham playing in World Cup match vs. France?",
+   "iso": "2026-07-18T22:27:08.000Z",
+   "link": "https://sports.yahoo.com/articles/why-arent-harry-kane-jude-222708641.html",
+   "lede": "Editor's note: Follow for live updates on England-France World Cup game. England is up 5-3 against France in the second half of the 2026 World Cup third-place match on Saturday, July 18. Manager Thomas Tuchel raised eyebrows when he did not include the stars of the tournament so far, Harry Kane and Jude Bellingham, in the starting lineup. Each player has six goals in the World Cup.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/8C_70WZmdxSLN3xo8ArWbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/6ea06fed7f150b17a582ca48abd9e8c5",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +58,8 @@
    "link": "https://sports.yahoo.com/soccer/article/who-has-most-goals-in-world-cup-history-kylian-mbappe-ties-lionel-messi-with-goal-in-third-place-game-161623449.html",
    "lede": "With the 2026 World Cup in full swing, it was only a matter of time before Argentina's Lionel Messi and France’s Kylian Mbappé broke the all-time record that stood before the tournament. Already considered by many as the greatest of all time, Messi was the first to score more goals than any other player in World Cup history. He earned his 17th and 18th during Argentina's 2-0 win over Austria. Then he added another against Jordan on a sublime free kick from outside the box for his 19th in the competition.",
    "image": "https://s.yimg.com/ny/api/res/1.2/vG3CUR6fOdFDVn1xdnsbsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/8954ea95-061c-45e4-bd7f-0e67eed0e07e",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,8 +68,8 @@
    "link": "https://sports.yahoo.com/articles/lionel-messi-says-crazy-next-221000021.html",
    "lede": "Lionel Messi is just one win away from another World Cup title, but Sunday’s final also brings an extraordinary personal twist. Before taking the field, the Argentine icon reflected on an unlikely connection to an opponent standing in his way. Ahead of his country’s showdown with Spain, the soccer legend looked back on a viral photo that now forever links him to Lamine Yamal, the player who is now trying to deny him glory. Lionel Messi has reflected on one of football’s most unbelievable full-circle moments, admitting it’s “crazy” that the baby he once cradled during a charity photoshoot for his old club, Barcelona, is now the player standing between him and another World Cup trophy.",
    "image": "https://s.yimg.com/ny/api/res/1.2/cCM8h2BCVS0kepIdq0hbTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjM7Y2Y9d2VicA--/https://media.zenfs.com/en/theblast_73/53d8d393de3e1e6d8054a146cf8ec070",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FOX SPORTS",
@@ -48,36 +78,6 @@
    "link": "https://www.foxsports.com/stories/soccer/where-find-japans-stars-after-world-cup-elimination",
    "lede": "Japan earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group F against the Netherlands, Tunisia, and Sweden, fielding a squad that advanced past the group stage. During the group stage, they recorded a 2-2 draw against the Netherlands and a 4-0 victory over Tunisia. A 1-1 draw against Sweden confirmed Japan's progression to the knockout phase.",
    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/gettyimages-2282577402-scaled.jpg?ve=1&tl=1",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Where To Find South Africa's Stars After Their 2026 World Cup Elimination",
-   "iso": "2026-07-18T22:00:59.000Z",
-   "link": "https://www.foxsports.com/stories/soccer/where-find-south-africas-stars-after-2026-world-cup-elimination",
-   "lede": "South Africa earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group A against Mexico, Czech Republic, and South Korea, fielding a squad that advanced past the group stage for the first time in the country's history. During the group stage, they lost their opening match to Mexico before securing a 1-1 draw against Czechia. A 1-0 victory over South Korea confirmed South Africa's progression to the knockout phase.",
-   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lylefoster1-scaled.jpg?ve=1&tl=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Where is the next World Cup 2030? Which countries are hosting?",
-   "iso": "2026-07-18T21:47:04.000Z",
-   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
-   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Hydration breaks not popular and Fifa will review, says Arsene Wenger",
-   "iso": "2026-07-18T21:42:23.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o",
-   "lede": "Wenger is Fifa's head of global football development. Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament. Fifa brought in mandatory three-minute hydration breaks for the World Cup, regardless of conditions, for all matches played at stadiums in the United States, Mexico and Canada. The governing body said they were brought in as a commitment to player welfare but critics have pointed to broadcasters using the breaks as a way to cash in with commercials.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7e1/live/ac6e4090-82ee-11f1-a54c-d7b64e5e84c2.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
