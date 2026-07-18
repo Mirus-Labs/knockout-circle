@@ -1,6 +1,46 @@
 {
- "updated": "2026-07-18T21:08:20.966Z",
+ "updated": "2026-07-18T21:56:55.401Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Hydration breaks not popular and Fifa will review, says Arsene Wenger",
+   "iso": "2026-07-18T21:42:23.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c24m30v0gy9o",
+   "lede": "Wenger is Fifa's head of global football development. Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament. Fifa brought in mandatory three-minute hydration breaks for the World Cup, regardless of conditions, for all matches played at stadiums in the United States, Mexico and Canada. The governing body said they were brought in as a commitment to player welfare but critics have pointed to broadcasters using the breaks as a way to cash in with commercials.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7e1/live/ac6e4090-82ee-11f1-a54c-d7b64e5e84c2.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Football Daily | France v England in the third-place playoff: the game nobody wants to play",
+   "iso": "2026-07-18T21:16:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/football-daily-email-gwc-england-france",
+   "lede": "Saturday’s rebranded “bronze final” between France and England in Miami might feel like a modern, Gianni-coded exercise in squeezing the product dry, but the third-place playoff is a staple of World Cup history, even if it remains the game nobody wants to play in. The very first TPPO came in 1934, Germany defeating Austria 3-2 in a match engulfed in murky, menacing geopolitics. Thankfully, the fixture quickly became a more knockabout affair – Brazil swaggered on to the world stage by beating Sweden 4-2 in 1938, and France put six past West Germany in a nine-goal feast of football 20 years later. Just Fontaine scored four that day, later to be joined by Thomas Müller, Davor Suker and Toto Schillaci in using the fixture to pad their Golden Boot stats – a tactic Kylian Mbappé might want to try against a punch-drunk England side and pip Lionel Messi to another personal accolade as a result.",
+   "image": "https://i.guim.co.uk/img/media/e72a14e58717c07257d8fec1895b85f85841ae7c/437_173_3316_2653/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a473f023d9cc7dd50b0040492ce718d8",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "HEAVY.COM",
+   "title": "France National Team 2026: All 26 World Cup Players And Club Teams",
+   "iso": "2026-07-18T21:07:15.000Z",
+   "link": "https://heavy.com/sports/soccer/world-cup/france-national-team-2026-all-26-world-cup-players-clubs/",
+   "lede": "The 2026 France World Cup squad comes into the tournament with high expectations. With some of the best players on the best club teams in the world, the France national team is attempting to recreate the magic they had in their successful 2018 campaign at this competition. Highlighted by Kylian Mbappé, Ousmane Dembélé, Michael Olise, and some of the most talented players on the planet, this group of France national football team players is one of the betting favorites to win the 2026 World Cup, along with Spain. Here's a look at all 26 France World Cup players on the French roster as the national team's tournament run continues.",
+   "image": "https://heavy.com/wp-content/uploads/2026/06/GettyImages-2279107923-e1781621730110.jpg?quality=65&strip=all",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Declan Rice scores early World Cup goal vs. France in Miami",
+   "iso": "2026-07-18T21:05:15.000Z",
+   "link": "https://sports.yahoo.com/articles/declan-rice-scores-early-world-210515265.html",
+   "lede": "MIAMI GARDENS — England's Declan Rice is on the scoresheet early in South Florida's final World Cup match. Rice scored a goal against France in the third minute on Saturday, July 18 at Hard Rock Stadium to make the score 1-0. The English midfielder shot from outside the box after intercepting a pass near midfield and driving unimpeded to the French penalty box. Rice has come under criticism in the English press after the \"Three Lions\" lost 2-1 to Argentina in the World Cup semifinals on Wednesday, July 15.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/EYkjh6VPWhdeP8RBPWt31A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/13299020b8a054b4f0e67a614e62b2b4",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup 2026: Spain and Argentina meet in a final like no other with Donald Trump involved, winners' rings and a first-ever half-time show",
@@ -8,76 +48,36 @@
    "link": "https://www.skysports.com/football/news/12098/13564766/world-cup-2026-spain-and-argentina-meet-in-a-final-like-no-other-with-donald-trump-involved-winners-rings-and-a-first-ever-half-time-show",
    "lede": "The 2026 World Cup final will be like no other. Spain and Argentina face off in New York/New Jersey in what should be a brilliant football contest - but surrounded by pomp, fanfare and controversy not seen in the previous 22 editions of this showpiece match… How long is it going to go on for? It's quite possible it will be the longest World Cup final ever. But even if extra-time and penalties aren't required, the match is going to run way beyond two hours.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-trump-madonna-messi_7301006.jpg?20260718201012",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Gianni Infantino unlikely to face IOC sanctions over Balogun red card scandal",
-   "iso": "2026-07-18T19:56:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-unlikely-to-face-ioc-sanctions-over-balogun-red-card-scandal",
-   "lede": "Donald Trump spoke to Fifa president before ban lifted. Human rights body FairSquare sent complaint to IOC. Gianni Infantino is poised to escape without sanction after complaints he breached rules on political neutrality in his dealings with Donald Trump over the Folarin Balogun affair. The International Olympic Committee this week received a formal complaint from the human rights organisation FairSquare regarding Infantino’s conduct after Trump revealed he had called the Fifa president asking him to review Balogun’s ban from the USA’s last-16 tie against Belgium.",
-   "image": "https://i.guim.co.uk/img/media/23897680574587a70a6ba6f3e54ec45852d6e765/178_0_2959_2368/master/2959.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07f8a98996b6b06e00529488b54f4fde",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Spain forced to cancel final training session before World Cup final",
-   "iso": "2026-07-18T19:12:18.000Z",
-   "link": "https://sports.yahoo.com/articles/spain-forced-cancel-final-training-191000620.html",
-   "lede": "The Spanish national team were on Saturday forced to cancel their planned outdoor training session. This came owing to adverse weather conditions. Luis de la Fuente’s troops are of course currently in the midst of final preparations for the grandest fixture in all of international football. After battling their way beyond European rivals France this week, La Roja have set up a World Cup final showdown with reigning champions Argentina.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/ujk8YpoIb4QfOxeydSzFcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/get_spanish_football_news_articles_403/855b66bb87a0eec0c22d82aeda159570",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Play BBC Sport's new World Cup predictor game",
-   "iso": "2026-07-18T18:59:35.000Z",
-   "link": "https://sports.yahoo.com/articles/play-bbc-sports-world-cup-185935545.html",
-   "lede": "Forty-eight teams, 104 matches - and you can predict them all across the BBC Sport website and app. A new predictor game is being introduced to cover this year's World Cup, allowing users to pick what they think will be the result from every match. The new game also features streaks, so make sure to check in each day and make your predictions. Players will also have the chance to enter a prize draw to win an official World Cup football signed by members of the BBC World Cup team.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/Aqh2E.PX1iBfYGc_F2a7fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/e794dd0775de46681ba74c73b8bd00b5",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Where is the next World Cup 2030? Which countries are hosting?",
-   "iso": "2026-07-18T18:46:32.000Z",
-   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
-   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
-   "title": "How to watch France vs. England World Cup third-place game, stream with Sling",
-   "iso": "2026-07-18T18:34:29.000Z",
-   "link": "https://sports.yahoo.com/articles/watch-france-vs-england-world-183429630.html",
-   "lede": "In a crushing blow, England’s shot at the World Cup final disappeared after Argentina’s relentless late comeback. Harry Kane #9 of England reacts after the 1-2 loss during the FIFA World Cup 2026 Semi Final match between England and Argentina at Atlanta Stadium on July 15, 2026 in Atlanta, Georgia. England's midfielder #10 Jude Bellingham (R) and forward #09 Harry Kane hug after losing the 2026 World Cup football tournament semi-final match between England and Argentina at the Atlanta Stadium in Atlanta on July 15, 2026. Editor's Note: Follow here for all France vs.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/jWYIpgwKxfj3XtQeCud4fA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/a37c917701f14def50451d8614554b3b",
+   "title": "Saka starts for England vs France after sitting out semi-final",
+   "iso": "2026-07-18T20:50:00.000Z",
+   "link": "https://sports.yahoo.com/articles/saka-starts-england-vs-france-205000408.html",
+   "lede": "Bukayo Saka has been handed a surprise start for England in the FIFA World Cup 2026 third-place play-off against France after not featuring at all in the semi-final defeat to Argentina. The Arsenal winger has started just one game in this tournament due to a persistent Achilles problem that has troubled him for several months, limiting his game time this summer. The 24-year-old has played an important role for the Three Lions nonetheless and his halftime introduction in the quarter-final against Norway was key to their comeback victory. It was presumed that Saka’s Achilles issue was the reason behind his absence against Argentina, as Thomas Tuchel elected to leave him on the bench despite a lack of outlets on the pitch of receiving possession and relieving pressure when they were under the cosh.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/rJK3SW191KTId7yrpZCJmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_football_faithful_articles_458/c2e9cf937e43723950708740ef09780e",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
-   "iso": "2026-07-18T21:03:01.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final",
-   "lede": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260718__C2HQ7C8__v4__HighRes__ArgentinaFblWc2026Fans-1784408500.jpg?resize=1920%2C1440",
+   "cat": "LEPETITJOURNAL.COM",
+   "title": "The final whistle of the 2026 World Cup: Thank you les Bleus… and thank you football",
+   "iso": "2026-07-18T20:42:38.000Z",
+   "link": "https://lepetitjournal.com/los-angeles/final-whistle-2026-world-cup-thank-you-les-bleus-and-thank-you-football-449173",
+   "lede": "Others still leave you wondering what happened. July 14, 2026, will go down as an unusual Bastille Day. We had dreamed of a blue, white, and red fireworks display… but in the end, it was Spain who lit the fuse. Read the original article in French here.",
+   "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-07/c5caca5f-df35-47a7-b6c6-e5ca74ac336f%20Large_0.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Rodeo delays, refrigerated turf and lots of lorries: Why preparing a World Cup pitch is so tough",
-   "iso": "2026-07-18T21:00:55.000Z",
-   "link": "https://www.nytimes.com/athletic/7450573/2026/07/18/world-cup-pitch-houston-groundsman-challenge/",
-   "lede": "Nottingham Forest's pitch performance manager travelled to Texas to oversee the laying of the 16th pitch at the summer's World Cup finals.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/17052525/WhatsApp-Image-2026-07-14-at-21.17.25-6-scaled-e1784298213253.jpeg?width=1200&height=630&fit=cover",
+   "cat": "KURDISTAN24",
+   "title": "Messi, Spain and a Global Stage: World Cup Final Caps Record-Breaking Tournament",
+   "iso": "2026-07-18T20:32:51.000Z",
+   "link": "https://www.kurdistan24.net/en/story/926537/messi-spain-and-a-global-stage-world-cup-final-caps-record-breaking-tournament",
+   "lede": "The 2026 FIFA World Cup concludes with Argentina and Spain competing for football's biggest prize as the expanded tournament leaves a lasting global sporting and cultural legacy. ERBIL (Kurdistan24) - The 2026 FIFA World Cup arrives at its defining moment on Sunday as defending champions Argentina face European champions Spain in New Jersey, concluding the largest tournament in the competition's history with a final that combines footballing excellence, global attention and unprecedented international reach. According to Agence France-Presse (AFP), more than 80,000 spectators are expected at MetLife Stadium in East Rutherford, where world leaders, including U.S. President Donald Trump, are due to attend the championship match.",
+   "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1784366001_kurdistan24.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
