@@ -1,15 +1,65 @@
 {
- "updated": "2026-07-18T12:39:48.461Z",
+ "updated": "2026-07-18T13:39:18.357Z",
  "news": [
   {
+   "cat": "ROLLING STONE",
+   "title": "What Makes the World Cup Hit Different? Ask the Music Industry",
+   "iso": "2026-07-18T13:18:13.000Z",
+   "link": "https://www.rollingstone.com/music/music-features/world-cup-music-fifa-1235595591/",
+   "lede": "The World Cup is in France. But a new era of globalization and international trade has created a rising demand for Latin music, and the world’s biggest soccer tournament needs anthem. Enter Puerto Rican singer Ricky Martin. A man blessed with a divine voice and the charisma to sell it anywhere.",
+   "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/FIFA-House-RIAA-FIFA-Berklee.jpg?crop=156px%2C35px%2C1454px%2C819px&resize=1600%2C900",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: 14 times more harmful social media posts than in 2022",
+   "iso": "2026-07-18T13:07:27.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c7vg6q24e18o",
+   "lede": "The 2026 World Cup began on 11 June and concludes with the final on Sunday, 19 July. There have been 14 times more harmful posts and comments during the 2026 World Cup compared to the 2022 tournament, Fifa's social media protection service has found. A total of more than seven million messages have been identified and removed this summer. That is a significant increase from 470,000 such posts and comments at the previous World Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2497/live/0ffb6900-82a7-11f1-84ea-29e7008b1ad8.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "THE GUARDIAN",
-   "title": "France v England in the third-place playoff: the game nobody wants to play",
-   "iso": "2026-07-18T11:48:00.000Z",
+   "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
+   "iso": "2026-07-18T12:58:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
+   "lede": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so. Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end.",
+   "image": "https://i.guim.co.uk/img/media/5232fd9233e0a63233c7ef240597a976a5775d1b/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75ca8dbf682405207f99d693fa7aab52",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Football Daily | France v England in the third-place playoff: the game nobody wants to play",
+   "iso": "2026-07-18T12:28:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/18/football-daily-email-gwc-england-france",
    "lede": "Saturday’s rebranded “bronze final” between France and England in Miami might feel like a modern, Gianni-coded exercise in squeezing the product dry, but the third-place playoff is a staple of World Cup history, even if it remains the game nobody wants to play in. The very first TPPO came in 1934, Germany defeating Austria 3-2 in a match engulfed in murky, menacing geopolitics. Thankfully, the fixture quickly became a more knockabout affair – Brazil swaggered on to the world stage by beating Sweden 4-2 in 1938, and France put six past West Germany in a nine-goal feast of football 20 years later. Just Fontaine scored four that day, later to be joined by Thomas Müller, Davor Suker and Toto Schillaci in using the fixture to pad their Golden Boot stats – a tactic Kylian Mbappé might want to try against a punch-drunk England side and pip Lionel Messi to another personal accolade as a result.",
    "image": "https://i.guim.co.uk/img/media/e72a14e58717c07257d8fec1895b85f85841ae7c/437_173_3316_2653/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a473f023d9cc7dd50b0040492ce718d8",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "France predicted.lineup today vs England: World Cup starting XI projection",
+   "iso": "2026-07-18T12:18:44.000Z",
+   "link": "https://sports.yahoo.com/articles/france-predicted-lineup-today-vs-121844864.html",
+   "lede": "France won't be playing in the World Cup final for the third time in a row, relegated to the third-place match after losing to Spain in the semifinals. Les Bleus had looked like the best team at this tournament and were a favorite to win it all for the third time before running into a Spain buzzsaw that has given up just one goal in its seven World Cup games. This consolation match against England is something nobody wants to play in, but it's still the World Cup and both coaches have expressed their respect for the game. \"I have a duty for this game,\" France boss Didier Deschamps told reporters Miami.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/TEbJIXNbdeuWuiHcKVfAiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/b32f5e6860acb1a31049bcab84598f91",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "England vs France schedule, TV channel, time for World Cup match today",
+   "iso": "2026-07-18T12:02:30.000Z",
+   "link": "https://sports.yahoo.com/articles/england-vs-france-schedule-tv-120230669.html",
+   "lede": "France and England face off in the third-place match of the 2026 World Cup today. The game will be played at Hard Rock Stadium in Miami Gardens, Florida. How can you watch the England vs France soccer match on Saturday, July 18? How can you stream the 2026 FIFA World Cup matchup?",
+   "image": "https://s.yimg.com/os/en/azcentral-the-arizona-republic/76799a53fb8ac7ea23cc6739623210ea",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -18,66 +68,16 @@
    "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
    "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "The Serie A curse haunting England’s recent World Cup eliminations",
-   "iso": "2026-07-18T11:05:00.000Z",
-   "link": "https://sports.yahoo.com/articles/serie-curse-haunting-england-recent-110500443.html",
-   "lede": "Lautaro Martinez crushed England’s World Cup dreams on Wednesday, as the Inter striker became the third Serie A star since 2018 to eliminate the Three Lions from the tournament. Inter captain Lautaro Martinez scored a late winning goal for Argentina on Wednesday, allowing the South Americans to qualify for the World Cup Final. This means that, for the third consecutive time, England’s World Cup hopes have been dashed by a Serie A star. Back in 2018, it was Mario Mandzukic who shocked the Three Lions with an extra-time goal in the semis.",
-   "image": "https://s.yimg.com/os/en/football_italia_articles_132/d01da6c3dd6a4fb4f15ca7efab6866a1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "‘Lamine Yamal is fantastic’ – Lionel Messi talks Barcelona star ahead of World Cup final",
-   "iso": "2026-07-18T11:00:00.000Z",
-   "link": "https://sports.yahoo.com/articles/lamine-yamal-fantastic-lionel-messi-110000034.html",
-   "lede": "Lionel Messi has showered Lamine Yamal with praise ahead of Sunday’s World Cup final between Spain and Argentina. The two La Masia graduates will come face to face in the game and Messi says he has followed his career closely. “Lamine is a fantastic player, whom I’ve followed closely because he plays for a club I love and always wish the best for,” he told reporters. “At just 19 years old, he’s already one of the world’s leading figures.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/PIAN1QK1GJyvmBv5Tb3Kxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/ad65f2c80224aa597017c16299a514a2",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "EMPIREONLINE.COM",
-   "title": "Waiting for the World Cup final? Watch these three essential football movies before kick-off",
-   "iso": "2026-07-18T10:57:10.000Z",
-   "link": "https://www.empireonline.com/movies/features/3-essential-football-films-you-should-watch-before-the-fifa-world-cup-final/",
-   "lede": "Let’s get the awkward bit out the way first. It’s not coming home — not this year at least, despite Thomas Tuchel and his Three Lions’ best efforts. But while England may have stumbled at the last hurdle, the World Cup Final — pitting Lionel Messi’s Argentina against Lamine Yamal’s Spain — is almost upon us. And even though the prospect of a Jude Bellingham-free final still smarts a little, we’ve checked in with the docs at Empire HQ and football fever still has a hold on us all.",
-   "image": "https://images.bauerhosting.com/empire/2026/07/Escape-To-Victory.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
-   "iso": "2026-07-18T10:53:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
-   "lede": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech. The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falklands Islands after their World Cup semi-final victory against England. In a fractious match in Atlanta on Wednesday, some players held up a banner after Argentina’s 2-1 win that said: “Las Malvinas son Argentinas” – using the country’s term for the South Atlantic islands. Keir Starmer supported calls for Fifa to investigate the incident on Friday and appeared to back Spain ahead of the World Cup final against Argentina.",
-   "image": "https://i.guim.co.uk/img/media/23bbaeaf54b1dbb408a6ed771bcdd32deebfa5f3/219_0_4208_3368/master/4208.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8bb0792097611447a6e296a0b92229c",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Joan Capdevila appeals to US President Donald Trump after visa denial",
-   "iso": "2026-07-18T10:43:40.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cx2l5jn17yjo",
-   "lede": "Joan Capdevila (left) has reached out to President Donald Trump for help. Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before Sunday's World Cup final. Capdevila, 48, was part of the Spain team that defeated the Netherlands to win the 2010 World Cup final. The retired full-back was hoping to reunite with his former team-mates and watch Spain's second World Cup final appearance when they take on Argentina at the MetLife Stadium on Sunday (20:00 BST).",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1d6/live/0b64a900-828a-11f1-a23b-f5a17a30f7d0.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BBC",
-   "title": "Life after Kane - are England facing a false nine future?",
-   "iso": "2026-07-18T10:42:07.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cp87llz7539o",
-   "lede": "Harry Kane will be approaching his 37th birthday when the 2030 World Cup comes around. \"It's too early to talk about that,\" said England captain Harry Kane, when asked if he would still be around for the 2030 World Cup. The striker fielded the question just minutes after the Three Lions had suffered the crushing 2-1 semi-final defeat to Argentina in Atlanta that denied them a first men's World Cup final since their sole success in 1966. You could not blame him for swerving a definitive answer, yet it was a pertinent question.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/27af/live/b96d9420-81eb-11f1-b7bc-5dd9ae7a9918.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "How and where to watch England vs. France 2026 World Cup match: TV channel, streaming options",
+   "iso": "2026-07-18T13:20:14.000Z",
+   "link": "https://www.nytimes.com/athletic/7454177/2026/07/18/england-vs-france-how-to-watch-2026-world-cup/",
+   "lede": "Find out how to watch England play France, with time, TV channel and streaming information.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/18092014/sJl3drP.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
