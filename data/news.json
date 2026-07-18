@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T19:53:50.086Z",
+ "updated": "2026-07-18T19:54:32.372Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -52,32 +52,32 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "When is World Cup 2026 closing ceremony? Start time and who is performing at tournament finale",
+   "iso": "2026-07-18T18:05:23.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-closing-ceremony-start-time-b1290451.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. After more than a month of thrills and spills, the World Cup officially reaches a conclusion this weekend. Although, before Spain and Argentina do battle for the right to be crowned World Cup 2026 champions, a special show to celebrate the historic 48-team tournament will take place.",
+   "image": "https://static.standard.co.uk/2026/07/18/10/21/NicoleScherzingerFIFA18072026.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "World Cup final 2026 date and time: Spain to face Argentina",
+   "iso": "2026-07-18T18:00:24.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-final-2026-date-time-spain-argentina-b1289955.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Spain will face Argentina in the World Cup 2026 final. La Roja became the first team to book their place in this weekend’s tournament showpiece with a 2-0 win over France in Arlington, Texas.",
+   "image": "https://static.standard.co.uk/2022/11/20/19/AFP_32P97WT.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "MARCA",
    "title": "Toni Kroos makes his World Cup final pick clear",
    "iso": "2026-07-18T17:49:02.000Z",
    "link": "https://amp.marca.com/en/world-cup/2026/07/18/toni-kroos-makes-his-world-cup-final-pick-clear.html",
    "lede": "The 2026 World Cup is rapidly approaching its dramatic conclusion, and football's biggest legends have begun weighing in on who they believe will lift the trophy. Among the most anticipated opinions was that of Toni Kroos, a man who knows exactly what it takes to win a World Cup. The former Real Madrid midfielder, renowned for his tactical intelligence and trademark honesty, has now made it clear which team he believes holds the edge heading into the final. According to reports cited by Tribuna.com from Sky Sports, Kroos sees Spain as the favorite to win the World Cup.",
    "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/18/6a5bbaf22a683.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Where is the next World Cup 2030? Which countries are hosting?",
-   "iso": "2026-07-18T17:45:15.000Z",
-   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
-   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-   "iso": "2026-07-18T19:47:03.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final",
-   "lede": "A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-18T173128Z_502480000_UP1EM7I1COE41_RTRMADP_3_SOCCER-WORLDCUP-FIFA-1784399884.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }

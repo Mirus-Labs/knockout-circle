@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T18:39:25.792Z",
+ "updated": "2026-07-18T19:54:38.483Z",
  "source": "FIFA Training Centre",
  "sourceUrl": "https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php",
  "matches": {
@@ -17409,6 +17409,331 @@
    "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M102-ENG-V-ARG.pdf",
    "source": "FIFA Training Centre",
    "updatedAt": "2026-07-16T07:10:43.850Z"
+  },
+  "103": {
+   "matchNumber": 103,
+   "teams": [
+    "France",
+    "England"
+   ],
+   "formations": [
+    "4-1-2-3",
+    "4-2-3-1"
+   ],
+   "lineups": {
+    "a": [
+     {
+      "number": 16,
+      "position": "GK",
+      "name": "Mike MAIGNAN",
+      "starter": true
+     },
+     {
+      "number": 2,
+      "position": "DF",
+      "name": "Malo GUSTO",
+      "starter": true
+     },
+     {
+      "number": 15,
+      "position": "DF",
+      "name": "Ibrahima KONATE",
+      "starter": true
+     },
+     {
+      "number": 19,
+      "position": "DF",
+      "name": "Theo HERNANDEZ",
+      "starter": true
+     },
+     {
+      "number": 26,
+      "position": "DF",
+      "name": "Maxence Lacroix",
+      "starter": true
+     },
+     {
+      "number": 14,
+      "position": "MF",
+      "name": "Adrien RABIOT",
+      "starter": true
+     },
+     {
+      "number": 18,
+      "position": "MF",
+      "name": "Warren ZAIRE-EMERY",
+      "starter": true
+     },
+     {
+      "number": 24,
+      "position": "MF",
+      "name": "Rayan CHERKI",
+      "starter": true
+     },
+     {
+      "number": 10,
+      "position": "FW",
+      "name": "Kylian MBAPPE",
+      "starter": true
+     },
+     {
+      "number": 11,
+      "position": "FW",
+      "name": "Michael OLISE",
+      "starter": true
+     },
+     {
+      "number": 20,
+      "position": "FW",
+      "name": "Desire DOUE",
+      "starter": true
+     },
+     {
+      "number": 1,
+      "position": "GK",
+      "name": "Brice SAMBA",
+      "starter": false
+     },
+     {
+      "number": 23,
+      "position": "GK",
+      "name": "Robin RISSER",
+      "starter": false
+     },
+     {
+      "number": 3,
+      "position": "DF",
+      "name": "Lucas Digne",
+      "starter": false
+     },
+     {
+      "number": 4,
+      "position": "DF",
+      "name": "Dayot UPAMECANO",
+      "starter": false
+     },
+     {
+      "number": 5,
+      "position": "DF",
+      "name": "Jules KOUNDE",
+      "starter": false
+     },
+     {
+      "number": 17,
+      "position": "DF",
+      "name": "William SALIBA",
+      "starter": false
+     },
+     {
+      "number": 21,
+      "position": "DF",
+      "name": "Lucas HERNANDEZ",
+      "starter": false
+     },
+     {
+      "number": 6,
+      "position": "MF",
+      "name": "Manu KONE",
+      "starter": false
+     },
+     {
+      "number": 8,
+      "position": "MF",
+      "name": "Aurelien TCHOUAMENI",
+      "starter": false
+     },
+     {
+      "number": 13,
+      "position": "MF",
+      "name": "Ngolo KANTE",
+      "starter": false
+     },
+     {
+      "number": 25,
+      "position": "MF",
+      "name": "Maghnes AKLIOUCHE",
+      "starter": false
+     },
+     {
+      "number": 7,
+      "position": "FW",
+      "name": "Ousmane DEMBELE",
+      "starter": false
+     },
+     {
+      "number": 9,
+      "position": "FW",
+      "name": "Marcus THURAM",
+      "starter": false
+     },
+     {
+      "number": 12,
+      "position": "FW",
+      "name": "Bradley BARCOLA",
+      "starter": false
+     },
+     {
+      "number": 22,
+      "position": "FW",
+      "name": "Jean-Philippe MATETA",
+      "starter": false
+     }
+    ],
+    "b": [
+     {
+      "number": 13,
+      "position": "GK",
+      "name": "Dean Henderson",
+      "starter": true
+     },
+     {
+      "number": 2,
+      "position": "DF",
+      "name": "Ezri KONSA",
+      "starter": true
+     },
+     {
+      "number": 6,
+      "position": "DF",
+      "name": "Marc GUEHI",
+      "starter": true
+     },
+     {
+      "number": 25,
+      "position": "DF",
+      "name": "Djed SPENCE",
+      "starter": true
+     },
+     {
+      "number": 26,
+      "position": "DF",
+      "name": "Jarell QUANSAH",
+      "starter": true
+     },
+     {
+      "number": 4,
+      "position": "MF",
+      "name": "Declan RICE",
+      "starter": true
+     },
+     {
+      "number": 17,
+      "position": "MF",
+      "name": "Morgan ROGERS",
+      "starter": true
+     },
+     {
+      "number": 21,
+      "position": "MF",
+      "name": "Eberechi EZE",
+      "starter": true
+     },
+     {
+      "number": 7,
+      "position": "FW",
+      "name": "Bukayo SAKA",
+      "starter": true
+     },
+     {
+      "number": 11,
+      "position": "FW",
+      "name": "Marcus RASHFORD",
+      "starter": true
+     },
+     {
+      "number": 22,
+      "position": "FW",
+      "name": "Ivan TONEY",
+      "starter": true
+     },
+     {
+      "number": 1,
+      "position": "GK",
+      "name": "Jordan PICKFORD",
+      "starter": false
+     },
+     {
+      "number": 23,
+      "position": "GK",
+      "name": "James TRAFFORD",
+      "starter": false
+     },
+     {
+      "number": 3,
+      "position": "DF",
+      "name": "Nico OREILLY",
+      "starter": false
+     },
+     {
+      "number": 5,
+      "position": "DF",
+      "name": "John STONES",
+      "starter": false
+     },
+     {
+      "number": 12,
+      "position": "DF",
+      "name": "Trevoh CHALOBAH",
+      "starter": false
+     },
+     {
+      "number": 15,
+      "position": "DF",
+      "name": "Dan BURN",
+      "starter": false
+     },
+     {
+      "number": 24,
+      "position": "DF",
+      "name": "Reece JAMES",
+      "starter": false
+     },
+     {
+      "number": 8,
+      "position": "MF",
+      "name": "Elliot ANDERSON",
+      "starter": false
+     },
+     {
+      "number": 10,
+      "position": "MF",
+      "name": "Jude BELLINGHAM",
+      "starter": false
+     },
+     {
+      "number": 14,
+      "position": "MF",
+      "name": "Jordan HENDERSON",
+      "starter": false
+     },
+     {
+      "number": 9,
+      "position": "FW",
+      "name": "Harry KANE",
+      "starter": false
+     },
+     {
+      "number": 18,
+      "position": "FW",
+      "name": "Anthony GORDON",
+      "starter": false
+     },
+     {
+      "number": 19,
+      "position": "FW",
+      "name": "Ollie WATKINS",
+      "starter": false
+     },
+     {
+      "number": 20,
+      "position": "FW",
+      "name": "Noni MADUEKE",
+      "starter": false
+     }
+    ]
+   },
+   "source": "FIFA live match feed",
+   "updatedAt": "2026-07-18T19:54:38.483Z"
   }
  }
 }
