@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-18T21:56:55.401Z",
+ "updated": "2026-07-18T22:09:43.849Z",
  "news": [
+  {
+   "cat": "FOX SPORTS",
+   "title": "Where To Find Japan's Stars After Their World Cup Elimination",
+   "iso": "2026-07-18T22:03:21.000Z",
+   "link": "https://www.foxsports.com/stories/soccer/where-find-japans-stars-after-world-cup-elimination",
+   "lede": "Japan earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group F against the Netherlands, Tunisia, and Sweden, fielding a squad that advanced past the group stage. During the group stage, they recorded a 2-2 draw against the Netherlands and a 4-0 victory over Tunisia. A 1-1 draw against Sweden confirmed Japan's progression to the knockout phase.",
+   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/gettyimages-2282577402-scaled.jpg?ve=1&tl=1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "Where To Find South Africa's Stars After Their 2026 World Cup Elimination",
+   "iso": "2026-07-18T22:00:59.000Z",
+   "link": "https://www.foxsports.com/stories/soccer/where-find-south-africas-stars-after-2026-world-cup-elimination",
+   "lede": "South Africa earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group A against Mexico, Czech Republic, and South Korea, fielding a squad that advanced past the group stage for the first time in the country's history. During the group stage, they lost their opening match to Mexico before securing a 1-1 draw against Czechia. A 1-0 victory over South Korea confirmed South Africa's progression to the knockout phase.",
+   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lylefoster1-scaled.jpg?ve=1&tl=1",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "BBC",
    "title": "World Cup 2026: Hydration breaks not popular and Fifa will review, says Arsene Wenger",
@@ -8,8 +28,18 @@
    "link": "https://www.bbc.com/sport/football/articles/c24m30v0gy9o",
    "lede": "Wenger is Fifa's head of global football development. Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament. Fifa brought in mandatory three-minute hydration breaks for the World Cup, regardless of conditions, for all matches played at stadiums in the United States, Mexico and Canada. The governing body said they were brought in as a commitment to player welfare but critics have pointed to broadcasters using the breaks as a way to cash in with commercials.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7e1/live/ac6e4090-82ee-11f1-a54c-d7b64e5e84c2.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "How Dynamic Pricing Turned the 2026 FIFA World Cup Into a Financial Goldmine",
+   "iso": "2026-07-18T21:39:32.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/07/330158/how-dynamic-pricing-turned-the-2026-fifa-world-cup-into-a-financial-goldmine/",
+   "lede": "Rabat - The 2026 FIFA World Cup has not only delivered memorable football but also become one of the most profitable sporting events ever, thanks largely to FIFA's use of dynamic ticket pricing and unprecedented global demand. Ahead of Sunday's final between Argentina and Spain at MetLife Stadium in New Jersey, fans have paid record-breaking prices for tickets, making the match the most expensive sporting event ever held in the United States. According to FIFA, stadium occupancy during the group stage reached approximately 99.7%, with more than half of the 72 group-stage matches selling out completely. Attendance in the remaining matches also came within a few hundred seats of full capacity.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/2026-FIFA-WORLD-CUP.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/football-daily-email-gwc-england-france",
    "lede": "Saturday’s rebranded “bronze final” between France and England in Miami might feel like a modern, Gianni-coded exercise in squeezing the product dry, but the third-place playoff is a staple of World Cup history, even if it remains the game nobody wants to play in. The very first TPPO came in 1934, Germany defeating Austria 3-2 in a match engulfed in murky, menacing geopolitics. Thankfully, the fixture quickly became a more knockabout affair – Brazil swaggered on to the world stage by beating Sweden 4-2 in 1938, and France put six past West Germany in a nine-goal feast of football 20 years later. Just Fontaine scored four that day, later to be joined by Thomas Müller, Davor Suker and Toto Schillaci in using the fixture to pad their Golden Boot stats – a tactic Kylian Mbappé might want to try against a punch-drunk England side and pip Lionel Messi to another personal accolade as a result.",
    "image": "https://i.guim.co.uk/img/media/e72a14e58717c07257d8fec1895b85f85841ae7c/437_173_3316_2653/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a473f023d9cc7dd50b0040492ce718d8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "HEAVY.COM",
@@ -28,8 +58,8 @@
    "link": "https://heavy.com/sports/soccer/world-cup/france-national-team-2026-all-26-world-cup-players-clubs/",
    "lede": "The 2026 France World Cup squad comes into the tournament with high expectations. With some of the best players on the best club teams in the world, the France national team is attempting to recreate the magic they had in their successful 2018 campaign at this competition. Highlighted by Kylian Mbappé, Ousmane Dembélé, Michael Olise, and some of the most talented players on the planet, this group of France national football team players is one of the betting favorites to win the 2026 World Cup, along with Spain. Here's a look at all 26 France World Cup players on the French roster as the national team's tournament run continues.",
    "image": "https://heavy.com/wp-content/uploads/2026/06/GettyImages-2279107923-e1781621730110.jpg?quality=65&strip=all",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,46 +68,16 @@
    "link": "https://sports.yahoo.com/articles/declan-rice-scores-early-world-210515265.html",
    "lede": "MIAMI GARDENS — England's Declan Rice is on the scoresheet early in South Florida's final World Cup match. Rice scored a goal against France in the third minute on Saturday, July 18 at Hard Rock Stadium to make the score 1-0. The English midfielder shot from outside the box after intercepting a pass near midfield and driving unimpeded to the French penalty box. Rice has come under criticism in the English press after the \"Three Lions\" lost 2-1 to Argentina in the World Cup semifinals on Wednesday, July 15.",
    "image": "https://s.yimg.com/ny/api/res/1.2/EYkjh6VPWhdeP8RBPWt31A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/13299020b8a054b4f0e67a614e62b2b4",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup 2026: Spain and Argentina meet in a final like no other with Donald Trump involved, winners' rings and a first-ever half-time show",
-   "iso": "2026-07-18T20:50:01.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13564766/world-cup-2026-spain-and-argentina-meet-in-a-final-like-no-other-with-donald-trump-involved-winners-rings-and-a-first-ever-half-time-show",
-   "lede": "The 2026 World Cup final will be like no other. Spain and Argentina face off in New York/New Jersey in what should be a brilliant football contest - but surrounded by pomp, fanfare and controversy not seen in the previous 22 editions of this showpiece match… How long is it going to go on for? It's quite possible it will be the longest World Cup final ever. But even if extra-time and penalties aren't required, the match is going to run way beyond two hours.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-trump-madonna-messi_7301006.jpg?20260718201012",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Saka starts for England vs France after sitting out semi-final",
-   "iso": "2026-07-18T20:50:00.000Z",
-   "link": "https://sports.yahoo.com/articles/saka-starts-england-vs-france-205000408.html",
-   "lede": "Bukayo Saka has been handed a surprise start for England in the FIFA World Cup 2026 third-place play-off against France after not featuring at all in the semi-final defeat to Argentina. The Arsenal winger has started just one game in this tournament due to a persistent Achilles problem that has troubled him for several months, limiting his game time this summer. The 24-year-old has played an important role for the Three Lions nonetheless and his halftime introduction in the quarter-final against Norway was key to their comeback victory. It was presumed that Saka’s Achilles issue was the reason behind his absence against Argentina, as Thomas Tuchel elected to leave him on the bench despite a lack of outlets on the pitch of receiving possession and relieving pressure when they were under the cosh.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/rJK3SW191KTId7yrpZCJmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_football_faithful_articles_458/c2e9cf937e43723950708740ef09780e",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "LEPETITJOURNAL.COM",
-   "title": "The final whistle of the 2026 World Cup: Thank you les Bleus… and thank you football",
-   "iso": "2026-07-18T20:42:38.000Z",
-   "link": "https://lepetitjournal.com/los-angeles/final-whistle-2026-world-cup-thank-you-les-bleus-and-thank-you-football-449173",
-   "lede": "Others still leave you wondering what happened. July 14, 2026, will go down as an unusual Bastille Day. We had dreamed of a blue, white, and red fireworks display… but in the end, it was Spain who lit the fuse. Read the original article in French here.",
-   "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-07/c5caca5f-df35-47a7-b6c6-e5ca74ac336f%20Large_0.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "KURDISTAN24",
-   "title": "Messi, Spain and a Global Stage: World Cup Final Caps Record-Breaking Tournament",
-   "iso": "2026-07-18T20:32:51.000Z",
-   "link": "https://www.kurdistan24.net/en/story/926537/messi-spain-and-a-global-stage-world-cup-final-caps-record-breaking-tournament",
-   "lede": "The 2026 FIFA World Cup concludes with Argentina and Spain competing for football's biggest prize as the expanded tournament leaves a lasting global sporting and cultural legacy. ERBIL (Kurdistan24) - The 2026 FIFA World Cup arrives at its defining moment on Sunday as defending champions Argentina face European champions Spain in New Jersey, concluding the largest tournament in the competition's history with a final that combines footballing excellence, global attention and unprecedented international reach. According to Agence France-Presse (AFP), more than 80,000 spectators are expected at MetLife Stadium in East Rutherford, where world leaders, including U.S. President Donald Trump, are due to attend the championship match.",
-   "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1784366001_kurdistan24.jpg",
+   "cat": "FRONT OFFICE SPORTS",
+   "title": "World Cup Final Get-In Ticket Soars to Around $10,000",
+   "iso": "2026-07-18T21:57:37.000Z",
+   "link": "https://frontofficesports.com/world-cup-final-get-in-ticket-soar-to-around-10000/",
+   "lede": "The get-in price for the final cost was around $6,500 less than a week ago.",
+   "image": "https://frontofficesports.com/wp-content/uploads/2026/07/2026-07-14T211248Z_1121115804_UP1EM7E1MXA59_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-scaled-e1784411623338.jpg?quality=80",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
