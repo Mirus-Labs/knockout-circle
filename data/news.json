@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T16:38:00.082Z",
+ "updated": "2026-07-18T16:39:09.272Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -42,24 +42,14 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Where is the next World Cup 2030? Which countries are hosting?",
-   "iso": "2026-07-18T15:41:49.000Z",
-   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
-   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "'Less than human': how unhoused people in Atlanta are being treated during the World Cup – video",
    "iso": "2026-07-18T15:24:00.000Z",
    "link": "https://www.theguardian.com/football/video/2026/jul/18/how-unhoused-people-in-atlanta-are-being-treated-during-the-world-cup-video",
    "lede": "“This is what happens when you apply these incredibly violent economic forces to these cities … it's happened at every World Cup I've been to,” explains our chief sports writer, Barney Ronay. Employees in Atlanta, Georgia, recently threw away tents, medication, identification and other belongings of unhoused people at a public park without warning. This led activists and a local official to point to an apparent violation of procedures created after a city employee ran over a tent with a front loader last year, killing a man. Cornelius Taylor was crushed inside his home as workers came to clear a homeless encampment.",
    "image": "https://i.guim.co.uk/img/media/39eb79a83317cc76b78653b43ec6f6a692b0ef75/0_109_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9527b3e33f3f51f2592a853e767d663c",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,6 +58,16 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
    "lede": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament. “A lot of our community has been pushed out by the World Cup. We’re not just dollar signs, we’re more than that. We’re people and we’re frustrated that they’ve chosen to treat us less than human.”",
    "image": "https://i.guim.co.uk/img/media/7ede2d18cbdcbf773cfbdf1040093f1dd0264dc7/2014_1080_2370_1895/master/2370.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0811fd2bc1400bb5259794ae5cabb5f",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+   "iso": "2026-07-18T15:04:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
+   "lede": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topic. The Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thursday she took a different tack, writing instead about why she would not be supporting neighbouring Argentina in the World Cup final. “I have always been an admirer of the hermanos [as Brazilians affectionately call Argentinians] and would have loved to cheer on a fellow South American team,” she wrote on the morning after Argentina’s dramatic semi-final victory over England. “But I admit that the racist scenes involving a minority of the fans, and the silence of the majority on the pitch, turned my stomach.”",
+   "image": "https://i.guim.co.uk/img/media/ea3907898055f2d746641c01929431122f94a616/407_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2516c05e0b189fa38824fc58c26bbb81",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
