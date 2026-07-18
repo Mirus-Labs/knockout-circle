@@ -1,6 +1,66 @@
 {
- "updated": "2026-07-18T10:50:53.745Z",
+ "updated": "2026-07-18T11:25:28.715Z",
  "news": [
+  {
+   "cat": "EMPIREONLINE.COM",
+   "title": "Waiting for the World Cup final? Watch these three essential football movies before kick-off",
+   "iso": "2026-07-18T10:57:10.000Z",
+   "link": "https://www.empireonline.com/movies/features/3-essential-football-films-you-should-watch-before-the-fifa-world-cup-final/",
+   "lede": "Let’s get the awkward bit out the way first. It’s not coming home — not this year at least, despite Thomas Tuchel and his Three Lions’ best efforts. But while England may have stumbled at the last hurdle, the World Cup Final — pitting Lionel Messi’s Argentina against Lamine Yamal’s Spain — is almost upon us. And even though the prospect of a Jude Bellingham-free final still smarts a little, we’ve checked in with the docs at Empire HQ and football fever still has a hold on us all.",
+   "image": "https://images.bauerhosting.com/empire/2026/07/Escape-To-Victory.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+   "iso": "2026-07-18T10:53:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+   "lede": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech. The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falklands Islands after their World Cup semi-final victory against England. In a fractious match in Atlanta on Wednesday, some players held up a banner after Argentina’s 2-1 win that said: “Las Malvinas son Argentinas” – using the country’s term for the South Atlantic islands. Keir Starmer supported calls for Fifa to investigate the incident on Friday and appeared to back Spain ahead of the World Cup final against Argentina.",
+   "image": "https://i.guim.co.uk/img/media/23bbaeaf54b1dbb408a6ed771bcdd32deebfa5f3/219_0_4208_3368/master/4208.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8bb0792097611447a6e296a0b92229c",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Joan Capdevila appeals to US President Donald Trump after visa denial",
+   "iso": "2026-07-18T10:43:40.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cx2l5jn17yjo",
+   "lede": "Joan Capdevila (left) has reached out to President Donald Trump for help. Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before Sunday's World Cup final. Capdevila, 48, was part of the Spain team that defeated the Netherlands to win the 2010 World Cup final. The retired full-back was hoping to reunite with his former team-mates and watch Spain's second World Cup final appearance when they take on Argentina at the MetLife Stadium on Sunday (20:00 BST).",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b1d6/live/0b64a900-828a-11f1-a23b-f5a17a30f7d0.png",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC",
+   "title": "Life after Kane - are England facing a false nine future?",
+   "iso": "2026-07-18T10:42:07.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cp87llz7539o",
+   "lede": "Harry Kane will be approaching his 37th birthday when the 2030 World Cup comes around. \"It's too early to talk about that,\" said England captain Harry Kane, when asked if he would still be around for the 2030 World Cup. The striker fielded the question just minutes after the Three Lions had suffered the crushing 2-1 semi-final defeat to Argentina in Atlanta that denied them a first men's World Cup final since their sole success in 1966. You could not blame him for swerving a definitive answer, yet it was a pertinent question.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/27af/live/b96d9420-81eb-11f1-b7bc-5dd9ae7a9918.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "SRN NEWS",
+   "title": "Soccer-Why Argentina are the World Cup’s favourite villains",
+   "iso": "2026-07-18T10:37:00.000Z",
+   "link": "https://srnnews.com/soccer-why-argentina-are-the-world-cups-favourite-villains/",
+   "lede": "By Natalia Siniawski July 18 (Reuters) – For some fans following this World Cup, the calculation has been simple: support whoever is playing against Argentina. Across the tournament, that has meant wearing the green of Algeria, the blue of Cape Verde, or the red of Switzerland. Even the often maligned England got a boost in [&hellip;].",
+   "image": "https://www.srnnews.com/media/2026/07/1784369116304555VgMIkDDfki.jpg?x39338",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Argentina, Spain got to World Cup final by staying 'faithful' to identities",
+   "iso": "2026-07-18T10:33:31.000Z",
+   "link": "https://sports.yahoo.com/articles/argentina-spain-got-world-cup-103331809.html",
+   "lede": "NEW YORK — Yes, Argentina and Spain made the World Cup final because they have great players. When you have a Lionel Messi and a Lautaro Martinez, or a Mikel Oyarzabal and a Lamine Yamal, you’re going to have a better chance than teams that don’t. But you know why else Argentina and Spain are playing Sunday, July 19, and others are not? Because they stuck with what worked.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/6bQg4JrWtscsB1d2poxvgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/315f8f46e6af399cfb2992186edc5751",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "'Less than human': how unhoused people in Atlanta are being treated during the World Cup – video",
@@ -8,76 +68,16 @@
    "link": "https://www.theguardian.com/football/video/2026/jul/18/how-unhoused-people-in-atlanta-are-being-treated-during-the-world-cup-video",
    "lede": "“This is what happens when you apply these incredibly violent economic forces to these cities … it's happened at every World Cup I've been to,” explains our chief sports writer, Barney Ronay. Employees in Atlanta, Georgia, recently threw away tents, medication, identification and other belongings of unhoused people at a public park without warning. This led activists and a local official to point to an apparent violation of procedures created after a city employee ran over a tent with a front loader last year, killing a man. Cornelius Taylor was crushed inside his home as workers came to clear a homeless encampment.",
    "image": "https://i.guim.co.uk/img/media/39eb79a83317cc76b78653b43ec6f6a692b0ef75/0_109_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9527b3e33f3f51f2592a853e767d663c",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup schedule today pits England vs. France for third place in Miami",
-   "iso": "2026-07-18T10:03:18.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-schedule-today-pits-100318913.html",
-   "lede": "England and France meet in the 2026 World Cup third-place playoff on July 18 with pride, momentum and a podium finish on the line. Both teams looking to finish the tournament on a high note after falling short in the semifinals. England will rely on its mix of veteran leaders and young stars, while France hopes its talented lineup can close out the World Cup with a win. Here's everything you need to know about today's match, including kickoff time, TV information and betting odds.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/8.Smv7dqC8usfj6vdro7FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/3867ce93d5c66cbe2158a777b3b98ae5",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Enzo Fernández shows real quality for Argentina but Chelsea future is up in the air",
-   "iso": "2026-07-18T10:00:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/enzo-fernandez-argentina-chelsea-future-world-cup",
-   "lede": "Brash midfielder has admirers in Madrid, though his World Cup displays illustrate what he can offer Xabi Alonso’s Blues. Enzo Fernández was an unstoppable mix of style and spite during Argentina’s win over England. The midfielder’s first contribution during Wednesday’s semi-final in Atlanta was to plough into Elliot Anderson and clobber Manchester City’s new £116m signing round the head. He escaped without a booking, though, and made the most of some generous refereeing by showing the other side to his game when Argentina took control after going 1-0 down early in the second half.",
-   "image": "https://i.guim.co.uk/img/media/c5e1d7c4d110952d924572a9c37053f1e5099929/360_189_4452_3561/master/4452.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c10b90db64f87c66470424aaac84077b",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup Golden Boot 2026: Who will take the trophy?",
-   "iso": "2026-07-18T10:00:00.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-golden-boot-2026-100000824.html",
-   "lede": "The race for the 2026 FIFA World Cup Golden Boot has been one for the ages this summer. It’s been a summer where the big names have shone, and the Golden Boot is firmly up for grabs with just two games to go. France face England in the third/fourth play-off this evening, with several stars from both sides still in the mix for the prize. Kylian Mbappe is the joint-leading scorer at the World Cup heading into the final fixtures, and is aiming to become the first player ever to win multiple Golden Boots at the tournament.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/3G9QNsueooY82YaRAJLqvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/the_football_faithful_articles_458/6e2d5b644cd323d6f3b6b814f5454c7a",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Tuchel defiant in face of criticism over decisions in England exit: ‘I have no regrets’",
-   "iso": "2026-07-18T09:57:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-2026-world-cup-exit-no-regrets",
-   "lede": "Head coach rejects ‘blame game’ after Argentina exit. President Trump joins critics of Thomas Tuchel’s tactics. Thomas Tuchel has insisted he is not interested in engaging in the “blame game” over England’s World Cup elimination and vowed to close the gap on the leading nations. Even Donald Trump has joined criticism of Tuchel’s tactics in the semi-final defeat by Argentina, with the US president questioning why he made Harry Kane “a defensive player” as England attempted to hold on to a 1-0 lead.",
-   "image": "https://i.guim.co.uk/img/media/47ff7ead58a9286e3bafc6a07334f4d2378bc4b4/496_0_4910_3928/master/4910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=795f0f8881ed1fe70745ea47366dea69",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Merino: Arsenal star reveals common ground with Lautaro ahead of World Cup Final",
-   "iso": "2026-07-18T09:40:00.000Z",
-   "link": "https://sports.yahoo.com/articles/merino-arsenal-star-reveals-common-094000913.html",
-   "lede": "Mikel Merino admits he and Lautaro Martinez find themselves in a similar situation ahead of the World Cup Final: ‘For no player is starting on the bench the ideal game plan.’ Merino’s Spain and Lautaro Martinez’s Argentina meet in the World Cup Final tomorrow, Sunday, July 19. The Spanish midfielder spoke to Gazzetta dello Sport ahead of the game, admitting that he and Lautaro might not start. “For no player is starting on the bench the ideal game plan,” he said.",
-   "image": "https://s.yimg.com/os/en/football_italia_articles_132/f34c21b612d70b2ce266b93050d4320a",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "OPTA ANALYST",
-   "title": "The World Cup Third-Place Play-Off: Is It the Weirdest Game in Football?",
-   "iso": "2026-07-18T09:37:16.000Z",
-   "link": "https://theanalyst.com/articles/world-cup-third-place-play-off-stats",
-   "lede": "France will play England in the 2026 World Cup third-place play-off on Saturday. We look back on what some see as a bit of an odd fixture at the tournament. After 102 games, there are just two remaining at the 2026 World Cup. One is the biggest game in football, the World Cup final.",
-   "image": "https://theanalyst.com/wp-content/uploads/2026/07/croatia-third-place-win-world-cup-2022.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TÜRKIYE TODAY",
-   "title": "6.5 million fans attend World Cup 2026: White House",
-   "iso": "2026-07-18T09:25:00.000Z",
-   "link": "https://www.turkiyetoday.com/sports/65-million-fans-attend-world-cup-2026-white-house-says-3224141",
-   "lede": "Spectator attendance at the 2026 FIFA World Cup has surpassed 6.5 million, more than the combined total of the previous two tournaments, the executive director of the White House Task Force on the FIFA World Cup 2026 said. Andrew Giuliani made the comments during a joint news conference with Mora Namdar, deputy assistant secretary of state for consular affairs, in New York ahead of Sunday's World Cup final, where the pair addressed security measures in place in and around the city. \"We are wrapping up the highest-attendance, most-watched, safest and most successful World Cup in history,\" Giuliani said, adding that more than 6.5 million people have watched matches, a figure he said tops the combined attendance of the previous two tournaments.",
-   "image": "https://img.turkiyetoday.com/images/2026/7/18/65-million-fans-attend-world-cup-2026-white-house-says-3224141_20260718120932.jpg",
+   "cat": "YAHOO SPORTS",
+   "title": "🏟️ A century of World Cup finals, stadium by stadium in pictures",
+   "iso": "2026-07-18T10:12:00.000Z",
+   "link": "https://sports.yahoo.com/articles/century-world-cup-finals-stadium-101200369.html",
+   "lede": "One day remains until the World Cup final between Spain and Argentina, and it’s time to dream about the setting, about the stadium. But first, let’s look back at a good handful of iconic images of the stadiums that once hosted the match every footballer dreams of playing at least once in a lifetime. 📸 Richard Heathcote - 2022 Getty Images. 📸 Justin Setterfield - 2026 Getty Images.",
+   "image": "https://s.yimg.com/os/en/onefootball_articles_802/3a5978aed4049916090722ffc1fbbf80",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
