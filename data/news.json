@@ -1,25 +1,55 @@
 {
- "updated": "2026-07-18T17:42:40.841Z",
+ "updated": "2026-07-18T18:39:20.888Z",
  "news": [
   {
-   "cat": "BBC",
-   "title": "World Cup 2026: Spain training session cancelled before World Cup final",
-   "iso": "2026-07-18T17:32:45.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cly878gpgrlo",
-   "lede": "Spain were unable to train on Saturday. Spain's final training session before the World Cup final was cancelled after heavy thunderstorms hit New York and New Jersey on Saturday. Luis de la Fuente's side were due to train at the Melanie Lane training ground in New Jersey but after the session was initially suspended, it was later called off. About five miles away in Morristown, opponents Argentina were later able to train after a 45-minute delay.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/40d6/live/d05b9c40-82cc-11f1-adf9-c14531781464.jpg",
+   "cat": "THE GUARDIAN",
+   "title": "Luis de la Fuente reveals Spain will not man-mark Messi in World Cup final",
+   "iso": "2026-07-18T18:17:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/luis-de-la-fuente-reveals-spain-will-not-man-mark-messi-in-world-cup-final",
+   "lede": "Coach tells of first encounter when Messi was 16. ‘I took man-marker off and Messi scored four’. Luis de la Fuente says he will not man-mark Lionel Messi in the World Cup final, even though the Argentina captain has scored eight times and provided four assists and the Spain coach’s own experience suggests it might not be a bad idea. In the buildup to Sunday’s final in New Jersey, De la Fuente told the story of the first time he encountered Messi, 22 years ago, when the Argentinian was a 16-year-old coming through at Barcelona, he was the youth-team coach at Sevilla and the under-19 cup draw brought them together in the last 16 in May 2004 at the Miniestadi.",
+   "image": "https://i.guim.co.uk/img/media/2f8f3fd9ad44f44efa725ee79ca5defc33f29705/491_0_4266_3413/master/4266.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c1449f0a879e86e44cb9652cbe09b17",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Shackle Rodri the metronome and Argentina’s passion play can floor Spain | Jonathan Wilson",
-   "iso": "2026-07-18T17:00:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/shackle-rodri-the-metronome-and-argentinas-passion-play-can-floor-spain",
-   "lede": "The World Cup final is a classic clash of the process team against a side riding an emotional urge to fulfil Messi’s destiny. In the 37 minutes between England going ahead against Argentina and falling behind, they had 12% possession. It’s fair to assume that in the World Cup final Spain will provide a rather different challenge. They do not suffer the Mafeking tendency of the English, seeking to re-enact some famous siege every time they take the lead.",
-   "image": "https://i.guim.co.uk/img/media/036363a5875544cecd554f8cba0af3ddbda7b13d/700_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=61d9430fe7fa7002fe71730c50e0779c",
+   "cat": "YAHOO SPORTS",
+   "title": "Spanish Football Federation issue statement as training session suspended before World Cup final",
+   "iso": "2026-07-18T18:13:23.000Z",
+   "link": "https://sports.yahoo.com/articles/spanish-football-federation-issue-statement-181323629.html",
+   "lede": "Adverse weather conditions have been something of a theme of the 2026 World Cup across North America – and that has proven no different heading into Sunday’s final. Though the situation has perhaps not played out quite as badly as was initially feared, England and France are among the countries to have had their games impacted by the weather. While there are reportedly few fears that Sunday’s final between Spain and Argentina won’t go ahead as planned amid poor air quality warnings, the weather in New Jersey has caused some disruption. Indeed, on Saturday, the Spanish Football Federation (RFEF) confirmed that their planned practice session at the Melanie Lane Training Ground had been suspended due to thunderstorms in the area.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/f12jYXwXdm19ckO4cPJ64Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTk7Y2Y9d2VicA--/https://media.zenfs.com/en/hitc_articles_832/e22d44d7829411360e36f7441eabecf8",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MARCA",
+   "title": "Toni Kroos makes his World Cup final pick clear",
+   "iso": "2026-07-18T17:49:02.000Z",
+   "link": "https://www.marca.com/en/world-cup/2026/07/18/toni-kroos-makes-his-world-cup-final-pick-clear.html",
+   "lede": "The 2026 World Cup is rapidly approaching its dramatic conclusion, and football's biggest legends have begun weighing in on who they believe will lift the trophy. Among the most anticipated opinions was that of Toni Kroos, a man who knows exactly what it takes to win a World Cup. The former Real Madrid midfielder, renowned for his tactical intelligence and trademark honesty, has now made it clear which team he believes holds the edge heading into the final. According to reports cited by Tribuna.com from Sky Sports, Kroos sees Spain as the favorite to win the World Cup.",
+   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/18/6a5bbaf22a683.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up",
+   "iso": "2026-07-18T17:31:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
+   "lede": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament. “A lot of our community has been pushed out by the World Cup. We’re not just dollar signs, we’re more than that. We’re people and we’re frustrated that they’ve chosen to treat us less than human.”",
+   "image": "https://i.guim.co.uk/img/media/7ede2d18cbdcbf773cfbdf1040093f1dd0264dc7/2014_1080_2370_1895/master/2370.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0811fd2bc1400bb5259794ae5cabb5f",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Drake makes 7-figure bet on Argentina-Spain World Cup final",
+   "iso": "2026-07-18T16:52:24.000Z",
+   "link": "https://sports.yahoo.com/articles/drake-makes-7-figure-bet-165224830.html",
+   "lede": "Superstar rapper and singer Drake is pushing a ton of chips to the middle of the table ahead of the 2026 FIFA World Cup final between Argentina and Spain. As he revealed in a post on Instagram, Drake is dropping a whopping $1.5 million bet on the World Cup final. And he’s placing that bet on Argentina to win in regulation time. If Messi and Co. can emerge victorious at the end of stoppage time, Drake’s payout will be $5.1 million.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/uzEZ5lHo23cuC5.6UZwSlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_big_lead_articles_114/6d0a0ed3fe997e373d9fea77e81caea2",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FORBES",
@@ -28,8 +58,8 @@
    "link": "https://www.forbes.com/sites/chrisevans/2026/07/18/why-tuchel-ancelotti-and-super-coaches-struggled-at-the-world-cup/",
    "lede": "Top club coaches like Tuchel and Ancelotti surprisingly faltered at the World Cup, while international specialists De la Fuente and Scaloni led their teams to the final. The article suggests that club \"super coaches,\" accustomed to extensive player contact and control, struggled to adapt to the limited preparation time and unique demands of international tournaments. Their inability to quickly build team chemistry and implement intricate tactics, unlike in club football, proved to be a significant hurdle. In contrast, coaches with experience within national federations demonstrated a better understanding of how to foster an ethos and tactical message efficiently, highlighting that international success requires specific adaptability beyond club achievements.",
    "image": "https://imageio.forbes.com/specials-images/imageserve/6a5baa86ceb3d6e4cb3ca431/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "USA TODAY",
@@ -38,46 +68,16 @@
    "link": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/",
    "lede": "Eye of the beholder, etc., etc. For the fútbol faithful, the World Cup excitement is building to a crescendo ahead of Sunday's final between defending champion Argentina and Spain. But for the football faithful? We've been subjected to plenty.",
    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/15/USAT/90563604007-christian-pulisic.jpg?crop=1375,773,x1301,y1275&width=1375&height=773&format=pjpg&auto=webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "🚨 Club World Cup: both finalists' training hit by weather ⛈️😱",
-   "iso": "2026-07-18T16:06:00.000Z",
-   "link": "https://sports.yahoo.com/articles/club-world-cup-both-finalists-160600201.html",
-   "lede": "This World Cup weather, honestly... Argentina and Spain's preparations have been disrupted by their inability to train this Saturday. A thunderstorm led to the cancellation of both teams' training sessions, just over 24 hours before the World Cup final. The first to suffer were the Argentinians, who had to postpone their training session and go ride stationary bikes indoors.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/Ygug9cqGYNAirDs6jpA0ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/a19b8f868043c2535b15a031f1f677b6",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "COLOMBIAONE.COM",
-   "title": "Colombia and Argentina at the World Cup: Two Ways of Understanding Football and Life",
-   "iso": "2026-07-18T16:04:53.000Z",
-   "link": "https://colombiaone.com/2026/07/18/colombia-argentina-world-cup/",
-   "lede": "Colombia and Argentina have big differences. Before the tournament started, this World Cup gave Colombia the chance to vindicate the American dream of millions of Colombians who migrated to the United States searching for glory, yet the dream died early again. The group of players led by James Rodriguez, Luis Diaz, and Nestor Lorenzo promised they had prepared to stay as long as possible in the tournament. What was possible was five games.",
-   "image": "https://colombiaone.com/wp-content/uploads/2026/07/Messi-Enzo-Fernandez-Credit-AFA-X-scaled.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Spain cancels training before World Cup final; Argentina delayed by storms",
-   "iso": "2026-07-18T15:53:38.000Z",
-   "link": "https://sports.yahoo.com/articles/spain-cancels-training-world-cup-155338014.html",
-   "lede": "Editor's note: Follow for live updates on England-France World Cup game. MORRISTOWN, NJ — Both teams competing in the FIFA World Cup final saw their final training sessions before Sunday's match affected by thunderstorms rolling through the northern New Jersey area where Spain and Argentina were set to practice. Spain was scheduled to begin its session at 11 a.m. ET, and its bus arrived as scheduled to the facility.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/HJexLj_NkLVnDRHsses1lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/300ae5e26409c48fc30487a62cc14c30",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Where is the next World Cup 2030? Which countries are hosting?",
-   "iso": "2026-07-18T15:41:49.000Z",
-   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
-   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
+   "cat": "AL JAZEERA",
+   "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
+   "iso": "2026-07-18T18:19:01.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights",
+   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260718__2286581747__v1__HighRes__SpainVArgentinaFifaWorldCup2026FinalPressCon-1784377431.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
