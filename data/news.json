@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-18T14:40:19.367Z",
+ "updated": "2026-07-18T15:17:22.951Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Is Kylian Mbappé playing in 3rd-place World Cup match against England?",
+   "iso": "2026-07-18T14:54:48.000Z",
+   "link": "https://sports.yahoo.com/articles/kylian-mbapp-playing-3rd-place-145448264.html",
+   "lede": "There has been a lot of speculation about whether Kylian Mbappé will suit up for France when Les Bleus take the pitch against England in the World Cup third-place game. Mbappé might have extra incentive to play in the match, as the winner will take home $29 million in prize money, even though his manager admitted that some players might not be up for the game, as they are disappointed about not playing in the final. \"Whether they play or not, I have the duty as a head coach to do everything I can to reach tomorrow's objective,\" said France manager Didier Deschamps. \"I hope that we do, and we must display all the efforts to do so.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/MUWa5EVUohI3UuS_JYKuRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/59162a6336a168fe1bd0fea4f23edb48",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "World Cup third-place prize money: How much does the winner earn?",
+   "iso": "2026-07-18T14:29:49.000Z",
+   "link": "https://sports.yahoo.com/articles/world-cup-third-place-prize-142949438.html",
+   "lede": "The third-place World Cup matchup between France and England might not be as high-profile as the final between Argentina and Spain, but there is still a lot at stake. The winner of the match will receive a bronze medal and, possibly more importantly, a lot of money to split among the 26 players and the coaching staff. FIFA Council approved a record $655 million prize fund for this year's World Cup, a 50 percent increase from the 2022 World Cup in Qatar. Just making the tournament is lucrative for nations, even if they don't advance past the group stage; it still nets them a cool $9 million.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/GR6XlBmdNZaUFD6vYR18Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9cb13cec0d59f3ecfb741b3cb7d5699f",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "World Cup Games Today: Time & Channel For Saturday’s World Cup Third-Place Match",
@@ -8,8 +28,8 @@
    "link": "https://sports.yahoo.com/articles/world-cup-games-today-time-133000702.html",
    "lede": "Planning to watch today’s World Cup third-place match? Here you can find everything you need to know and details on tomorrow’s World Cup Final. Here are the World Cup matchups for Saturday, July 18. England and France were two of the top teams throughout this year’s World Cup.",
    "image": "https://s.yimg.com/ny/api/res/1.2/N40ATKSf.PEJfVziLKjXlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/sportsnaut_articles_397/36ed27dd5a2967a91fe228a547aef628",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
@@ -18,8 +38,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o",
    "lede": "The winners of France v England will be given bronze medals. It's a match that has been played at every Fifa World Cup for the past 72 years. The third-place play-off - known by Fifa as the Bronze Final - and on Saturday it is the turn of England and France. France head coach Didier Deschamps summed up the mood in his camp before the game in Miami when he said: \"The best for France and England would be for this match not to exist.\"",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0f6/live/a0eafba0-82b2-11f1-926f-c90d1bcfbc84.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO",
@@ -28,8 +48,8 @@
    "link": "https://www.yahoo.com/entertainment/music/articles/makes-world-cup-hit-different-131813199.html",
    "lede": "The World Cup is in France. But a new era of globalization and international trade has created a rising demand for Latin music, and the world's biggest soccer tournament needs anthem. Enter Puerto Rican singer Ricky Martin. A man blessed with a divine voice and the charisma to sell it anywhere.",
    "image": "https://s.yimg.com/lo/mysterio/api/dd8202a78ddb97f800042b04530f276a072c24eeddffb32d42a62deac7fc079f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fd9881dc9159c882871ee154f0898ba77",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BBC",
@@ -38,8 +58,8 @@
    "link": "https://www.bbc.com/sport/football/articles/c7vg6q24e18o",
    "lede": "The 2026 World Cup began on 11 June and concludes with the final on Sunday, 19 July. There have been 14 times more harmful posts and comments during the 2026 World Cup compared to the 2022 tournament, Fifa's social media protection service has found. A total of more than seven million messages have been identified and removed this summer. That is a significant increase from 470,000 such posts and comments at the previous World Cup.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2497/live/0ffb6900-82a7-11f1-84ea-29e7008b1ad8.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -48,36 +68,16 @@
    "link": "https://www.bbc.com/sport/football/articles/c98v13rgyrmo",
    "lede": "Spain manager Luis de la Fuente and Argentina boss Lionel Scaloni will contest the World Cup final having got to New Jersey by different means - but they will always have one thing that bonds them together. Back in 2017 in Scaloni's post-playing limbo, he enrolled at the Spanish federation to study for his Uefa Pro Licence, the highest coaching qualification in European football. It was there that he first met De la Fuente, who was teaching the technique module and was, at the same time, still in charge of Spain's Under-19s. Scaloni passed the course with one of the best marks in his year, and has said since that De la Fuente gave him and his classmates \"an enormous hand\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c7b6/live/4be576d0-822b-11f1-bee8-53ce494e1abc.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "France vs England prediction for World Cup 3rd place game: Trade on World Cup with Polymarket",
-   "iso": "2026-07-18T13:00:01.000Z",
-   "link": "https://sports.yahoo.com/articles/france-vs-england-prediction-world-130001318.html",
-   "lede": "Add The Sporting News as a Preferred Source by clicking here. The 2026 FIFA World Cup reaches its penultimate match as European heavyweights France and England square off in the third-place game. Kickoff is set for 5:00 p.m. ET, as the showdown takes place under the lights at Miami Stadium.",
-   "image": "https://s.yimg.com/os/en/the_sporting_news_articles_584/af350e429c7f18708093ad437848d771",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "England vs France AI Predictions: World Cup Final Picks and Projected Stats Today",
-   "iso": "2026-07-18T13:00:00.000Z",
-   "link": "https://sports.yahoo.com/articles/england-vs-france-ai-predictions-130000512.html",
-   "lede": "Want to get more Covers content? Add us as a preferred source on your Google account here. The World Cup 2026 has one piece of business left before Sunday’s final: England and France meet today at Hard Rock Stadium in Miami Gardens, Fla., to settle third place in the bronze final between two European rivals coming off sour losses in the semis. I’ve trained Claude to make its England vs.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/DrokmzS67NGrG0rmnuC74g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI7Y2Y9d2VicA--/https://media.zenfs.com/en/covers_articles_287/162a332241fe6302055ea591882c4b86",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
-   "iso": "2026-07-18T12:58:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
-   "lede": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so. Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end.",
-   "image": "https://i.guim.co.uk/img/media/5232fd9233e0a63233c7ef240597a976a5775d1b/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75ca8dbf682405207f99d693fa7aab52",
+   "cat": "YAHOO SPORTS",
+   "title": "Why does England sing 'Wonderwall' after World Cup wins?",
+   "iso": "2026-07-18T12:58:19.000Z",
+   "link": "https://sports.yahoo.com/articles/why-does-england-sing-wonderwall-125819220.html",
+   "lede": "Although England narrowly missed out on the 2026 FIFA World Cup Final after a tough 2-1 defeat to Argentina in the semifinals, they now turn their focus to one last opportunity for redemption. The upcoming third-place match against France offers England a chance to end their campaign on a high note and give fans another rendition of \"Wonderwall\" from the stands. Originally released in 1995 by Oasis, \"Wonderwall\" was selected as part of England's official three-song playlist for the tournament. Prior to the World Cup, FIFA asked each nation to submit songs to be played before and after matches.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/EOj.4e4Jzky2j8zxnJ8qAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/55f34d310512f287ffb9dbf6f96bd494",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
