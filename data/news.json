@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-18T09:42:26.385Z",
+ "updated": "2026-07-18T10:04:28.111Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Merino: Arsenal star reveals common ground with Lautaro ahead of World Cup Final",
+   "iso": "2026-07-18T09:40:00.000Z",
+   "link": "https://sports.yahoo.com/articles/merino-arsenal-star-reveals-common-094000913.html",
+   "lede": "Mikel Merino admits he and Lautaro Martinez find themselves in a similar situation ahead of the World Cup Final: ‘For no player is starting on the bench the ideal game plan.’ Merino’s Spain and Lautaro Martinez’s Argentina meet in the World Cup Final tomorrow, Sunday, July 19. The Spanish midfielder spoke to Gazzetta dello Sport ahead of the game, admitting that he and Lautaro might not start. “For no player is starting on the bench the ideal game plan,” he said.",
+   "image": "https://s.yimg.com/os/en/football_italia_articles_132/f34c21b612d70b2ce266b93050d4320a",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "TÜRKIYE TODAY",
    "title": "6.5 million fans attend World Cup 2026: White House",
@@ -8,8 +18,8 @@
    "link": "https://www.turkiyetoday.com/sports/65-million-fans-attend-world-cup-2026-white-house-says-3224141",
    "lede": "Spectator attendance at the 2026 FIFA World Cup has surpassed 6.5 million, more than the combined total of the previous two tournaments, the executive director of the White House Task Force on the FIFA World Cup 2026 said. Andrew Giuliani made the comments during a joint news conference with Mora Namdar, deputy assistant secretary of state for consular affairs, in New York ahead of Sunday's World Cup final, where the pair addressed security measures in place in and around the city. \"We are wrapping up the highest-attendance, most-watched, safest and most successful World Cup in history,\" Giuliani said, adding that more than 6.5 million people have watched matches, a figure he said tops the combined attendance of the previous two tournaments.",
    "image": "https://img.turkiyetoday.com/images/2026/7/18/65-million-fans-attend-world-cup-2026-white-house-says-3224141_20260718120932.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "BBC",
@@ -18,8 +28,8 @@
    "link": "https://www.bbc.com/sport/football/articles/ce8k0njm23yo",
    "lede": "Argentina and Spain will contest the World Cup final at the New York/New Jersey Stadium on Sunday. Fifa president Gianni Infantino promised the 2026 World Cup would be the \"biggest event in the history of mankind\". Infantino likened the tournament in the United States, Mexico and Canada to 104 Super Bowls in one month. It was a bold claim, so did it pan out like that?",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e34/live/08465ca0-81c7-11f1-97b7-87871fc222bc.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +38,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
    "lede": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so. Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end.",
    "image": "https://i.guim.co.uk/img/media/5232fd9233e0a63233c7ef240597a976a5775d1b/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75ca8dbf682405207f99d693fa7aab52",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
    "lede": "The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility. Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.",
    "image": "https://i.guim.co.uk/img/media/455a0abcd688a19e6d06b56723fcc519279ec881/27_0_3674_2939/master/3674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1cf49101ab7c577ece8b4b61671b6024",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "SKY SPORTS",
@@ -48,8 +58,18 @@
    "link": "https://www.skysports.com/football/news/11095/13564512/france-vs-england-why-world-cup-third-place-play-off-is-huge-for-three-lions-boss-thomas-tuchel",
    "lede": "England are in the midst of a run of three matches against the top three sides in world football. Far from being a dead rubber, Saturday's third-place play-off against France has huge ramifications for how this World Cup will be remembered - and almost certainly for Thomas Tuchel's future. Let's be clear: the Football Association (FA) is still fully behind the England manager, and Tuchel said in the aftermath of the semi-final capitulation to Argentina that he is \"100 per cent\" committed to the role, up to and including the European Championships in 2028. But I have never before seen such an outpouring of criticism towards any England boss when the team has, on paper, had a largely successful World Cup.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-france-england-world-cup_7299553.jpg?20260716212030",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Can Rodri join football's most exclusive club?",
+   "iso": "2026-07-18T08:45:00.000Z",
+   "link": "https://sports.yahoo.com/articles/rodri-join-footballs-most-exclusive-084500373.html",
+   "lede": "In football, there are trophies that define careers, and then there are those that elevate players into an entirely different conversation. The Ballon d'Or, the Champions League and the World Cup are the three biggest prizes in the game, and winning all of them is something only a handful of footballers have ever managed. In fact, just ten players have completed the set. Rodri could soon become the 11th.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/441pmkGxKsYvG.xNEzVXzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/playmakerstats_articles_264/abe641ed660acf359c7eaa6ab0f72911",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,26 +78,6 @@
    "link": "https://sports.yahoo.com/articles/0-minutes-world-cup-top-081500811.html",
    "lede": "Luxury substitutes, in the truest sense of the term. Several players with very high market values did not play a single minute at this World Cup. Martin Zubimendi, valued at €75 million by Transfermarkt, and English prodigy Kobbie Mainoo, valued at €70 million, top this paradoxical ranking. The twenty most expensive players left stuck on the bench have a combined market value of… €262 million.",
    "image": "https://s.yimg.com/ny/api/res/1.2/LLF2967uBerf5ttedzymsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/fbc45176d5dc27ff92e5b204172ef801",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup earnings revealed: Milan best in Serie A, Man City first overall",
-   "iso": "2026-07-18T08:15:00.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-earnings-revealed-milan-081500563.html",
-   "lede": "Milan were Serie A’s biggest earners from the World Cup, with the Rossoneri also breaking into the top 10 clubs worldwide. FIFA grants approximately €215m through the Club Benefits Programme, to be shared among the sides whose players were involved in the World Cup. Serie A clubs will get circa €13m. The sum for each club depends on the number of players called up and how far they progressed in the tournament.",
-   "image": "https://s.yimg.com/os/en/football_italia_articles_132/1dfd250f2bcebfb9471f37e84eeedfef",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Argentina’s New York fans share hopes before 2026 World Cup final",
-   "iso": "2026-07-18T09:29:31.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final",
-   "lede": "Argentinians in Queens hold on to football tradition, as new communities grow support the national team in NYC.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/IMG_8875-1784342936.jpeg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
