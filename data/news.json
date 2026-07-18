@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T14:10:53.552Z",
+ "updated": "2026-07-18T14:40:19.367Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "ROLLING STONE",
-   "title": "What Makes the World Cup Hit Different? Ask the Music Industry",
-   "iso": "2026-07-18T13:18:13.000Z",
-   "link": "https://www.rollingstone.com/music/music-features/world-cup-music-fifa-1235595591/",
-   "lede": "The World Cup is in France. But a new era of globalization and international trade has created a rising demand for Latin music, and the world’s biggest soccer tournament needs anthem. Enter Puerto Rican singer Ricky Martin. A man blessed with a divine voice and the charisma to sell it anywhere.",
-   "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/FIFA-House-RIAA-FIFA-Berklee.jpg?crop=156px%2C35px%2C1454px%2C819px&resize=1600%2C900",
+   "cat": "BBC",
+   "title": "World Cup 2026: Third-place play-off - an unwanted tie or a match with a 'golden layer'?",
+   "iso": "2026-07-18T13:23:13.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o",
+   "lede": "The winners of France v England will be given bronze medals. It's a match that has been played at every Fifa World Cup for the past 72 years. The third-place play-off - known by Fifa as the Bronze Final - and on Saturday it is the turn of England and France. France head coach Didier Deschamps summed up the mood in his camp before the game in Miami when he said: \"The best for France and England would be for this match not to exist.\"",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0f6/live/a0eafba0-82b2-11f1-926f-c90d1bcfbc84.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "YAHOO",
+   "title": "What Makes the World Cup Hit Different? Ask the Music Industry",
+   "iso": "2026-07-18T13:18:13.000Z",
+   "link": "https://www.yahoo.com/entertainment/music/articles/makes-world-cup-hit-different-131813199.html",
+   "lede": "The World Cup is in France. But a new era of globalization and international trade has created a rising demand for Latin music, and the world's biggest soccer tournament needs anthem. Enter Puerto Rican singer Ricky Martin. A man blessed with a divine voice and the charisma to sell it anywhere.",
+   "image": "https://s.yimg.com/lo/mysterio/api/dd8202a78ddb97f800042b04530f276a072c24eeddffb32d42a62deac7fc079f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fd9881dc9159c882871ee154f0898ba77",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
@@ -28,8 +38,38 @@
    "link": "https://www.bbc.com/sport/football/articles/c7vg6q24e18o",
    "lede": "The 2026 World Cup began on 11 June and concludes with the final on Sunday, 19 July. There have been 14 times more harmful posts and comments during the 2026 World Cup compared to the 2022 tournament, Fifa's social media protection service has found. A total of more than seven million messages have been identified and removed this summer. That is a significant increase from 470,000 such posts and comments at the previous World Cup.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2497/live/0ffb6900-82a7-11f1-84ea-29e7008b1ad8.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Spain v Argentina - the classroom moment that bonds Luis de la Fuente & Lionel Scaloni",
+   "iso": "2026-07-18T13:00:18.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c98v13rgyrmo",
+   "lede": "Spain manager Luis de la Fuente and Argentina boss Lionel Scaloni will contest the World Cup final having got to New Jersey by different means - but they will always have one thing that bonds them together. Back in 2017 in Scaloni's post-playing limbo, he enrolled at the Spanish federation to study for his Uefa Pro Licence, the highest coaching qualification in European football. It was there that he first met De la Fuente, who was teaching the technique module and was, at the same time, still in charge of Spain's Under-19s. Scaloni passed the course with one of the best marks in his year, and has said since that De la Fuente gave him and his classmates \"an enormous hand\".",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c7b6/live/4be576d0-822b-11f1-bee8-53ce494e1abc.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "France vs England prediction for World Cup 3rd place game: Trade on World Cup with Polymarket",
+   "iso": "2026-07-18T13:00:01.000Z",
+   "link": "https://sports.yahoo.com/articles/france-vs-england-prediction-world-130001318.html",
+   "lede": "Add The Sporting News as a Preferred Source by clicking here. The 2026 FIFA World Cup reaches its penultimate match as European heavyweights France and England square off in the third-place game. Kickoff is set for 5:00 p.m. ET, as the showdown takes place under the lights at Miami Stadium.",
+   "image": "https://s.yimg.com/os/en/the_sporting_news_articles_584/af350e429c7f18708093ad437848d771",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "England vs France AI Predictions: World Cup Final Picks and Projected Stats Today",
+   "iso": "2026-07-18T13:00:00.000Z",
+   "link": "https://sports.yahoo.com/articles/england-vs-france-ai-predictions-130000512.html",
+   "lede": "Want to get more Covers content? Add us as a preferred source on your Google account here. The World Cup 2026 has one piece of business left before Sunday’s final: England and France meet today at Hard Rock Stadium in Miami Gardens, Fla., to settle third place in the bronze final between two European rivals coming off sour losses in the semis. I’ve trained Claude to make its England vs.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/DrokmzS67NGrG0rmnuC74g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI7Y2Y9d2VicA--/https://media.zenfs.com/en/covers_articles_287/162a332241fe6302055ea591882c4b86",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,46 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
    "lede": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so. Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end.",
    "image": "https://i.guim.co.uk/img/media/5232fd9233e0a63233c7ef240597a976a5775d1b/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75ca8dbf682405207f99d693fa7aab52",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Thomas Tuchel responds to Donald Trump after England World Cup criticism",
-   "iso": "2026-07-18T12:45:45.000Z",
-   "link": "https://sports.yahoo.com/articles/thomas-tuchel-responds-donald-trump-124545850.html",
-   "lede": "Thomas Tuchel hit back at Donald Trump's critique of his tactical choices in England's World Cup semifinal loss to Argentina, brushing aside the president's remarks with a pointed question about his credentials as a soccer expert. Trump had commented on Tuchel's second-half strategy during a FIFA reception at Trump Tower in New York on Friday, challenging why England captain Harry Kane had been deployed in defensive duties after the squad grabbed a 1-0 advantage, with the approach drawing criticism from multiple English stars. \"You have a great player in England, who I played golf with - you know that, right? Harry, who's been fantastic,\" Trump said.",
-   "image": "https://s.yimg.com/os/en/all_out_soccer_276/eff0261b8d6cbadcf84da2c31aeb640d",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Football Daily | France v England in the third-place playoff: the game nobody wants to play",
-   "iso": "2026-07-18T12:28:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/football-daily-email-gwc-england-france",
-   "lede": "Saturday’s rebranded “bronze final” between France and England in Miami might feel like a modern, Gianni-coded exercise in squeezing the product dry, but the third-place playoff is a staple of World Cup history, even if it remains the game nobody wants to play in. The very first TPPO came in 1934, Germany defeating Austria 3-2 in a match engulfed in murky, menacing geopolitics. Thankfully, the fixture quickly became a more knockabout affair – Brazil swaggered on to the world stage by beating Sweden 4-2 in 1938, and France put six past West Germany in a nine-goal feast of football 20 years later. Just Fontaine scored four that day, later to be joined by Thomas Müller, Davor Suker and Toto Schillaci in using the fixture to pad their Golden Boot stats – a tactic Kylian Mbappé might want to try against a punch-drunk England side and pip Lionel Messi to another personal accolade as a result.",
-   "image": "https://i.guim.co.uk/img/media/e72a14e58717c07257d8fec1895b85f85841ae7c/437_173_3316_2653/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a473f023d9cc7dd50b0040492ce718d8",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "France predicted.lineup today vs England: World Cup starting XI projection",
-   "iso": "2026-07-18T12:18:44.000Z",
-   "link": "https://sports.yahoo.com/articles/france-predicted-lineup-today-vs-121844864.html",
-   "lede": "France won't be playing in the World Cup final for the third time in a row, relegated to the third-place match after losing to Spain in the semifinals. Les Bleus had looked like the best team at this tournament and were a favorite to win it all for the third time before running into a Spain buzzsaw that has given up just one goal in its seven World Cup games. This consolation match against England is something nobody wants to play in, but it's still the World Cup and both coaches have expressed their respect for the game. \"I have a duty for this game,\" France boss Didier Deschamps told reporters Miami.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/TEbJIXNbdeuWuiHcKVfAiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTk7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/b32f5e6860acb1a31049bcab84598f91",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "England vs France schedule, TV channel, time for World Cup match today",
-   "iso": "2026-07-18T12:02:30.000Z",
-   "link": "https://sports.yahoo.com/articles/england-vs-france-schedule-tv-120230669.html",
-   "lede": "France and England face off in the third-place match of the 2026 World Cup today. The game will be played at Hard Rock Stadium in Miami Gardens, Florida. How can you watch the England vs France soccer match on Saturday, July 18? How can you stream the 2026 FIFA World Cup matchup?",
-   "image": "https://s.yimg.com/os/en/azcentral-the-arizona-republic/76799a53fb8ac7ea23cc6739623210ea",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
