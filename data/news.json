@@ -1,6 +1,46 @@
 {
- "updated": "2026-07-18T22:09:43.849Z",
+ "updated": "2026-07-18T22:58:00.748Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+   "iso": "2026-07-18T22:33:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
+   "lede": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topic. The Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thursday she took a different tack, writing instead about why she would not be supporting neighbouring Argentina in the World Cup final. “I have always been an admirer of the hermanos [as Brazilians affectionately call Argentinians] and would have loved to cheer on a fellow South American team,” she wrote on the morning after Argentina’s dramatic semi-final victory over England. “But I admit that the racist scenes involving a minority of the fans, and the silence of the majority on the pitch, turned my stomach.”",
+   "image": "https://i.guim.co.uk/img/media/ea3907898055f2d746641c01929431122f94a616/407_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2516c05e0b189fa38824fc58c26bbb81",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Fifa to announce record $15bn World Cup revenue, smashing expectations",
+   "iso": "2026-07-18T22:32:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
+   "lede": "Hospitality and secondary ticket market help fuel rise. Gianni Infantino will feel this shores up his position. Fifa will announce record $15bn (£11.2bn) revenues from this summer’s World Cup, significantly exceeding the targets set before the tournament. Fifa’s member associations were informed of the boost in income by Gianni Infantino on Saturday.",
+   "image": "https://i.guim.co.uk/img/media/4f2560a905bc7bc1d90af2bc29d12d28155dc4c6/573_328_4219_3376/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=181d397872e1f50d341ff8a60688e395",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Who has most goals in World Cup history? Kylian Mbappé ties Lionel Messi with goal in third-place game",
+   "iso": "2026-07-18T22:17:50.000Z",
+   "link": "https://sports.yahoo.com/soccer/article/who-has-most-goals-in-world-cup-history-kylian-mbappe-ties-lionel-messi-with-goal-in-third-place-game-161623449.html",
+   "lede": "With the 2026 World Cup in full swing, it was only a matter of time before Argentina's Lionel Messi and France’s Kylian Mbappé broke the all-time record that stood before the tournament. Already considered by many as the greatest of all time, Messi was the first to score more goals than any other player in World Cup history. He earned his 17th and 18th during Argentina's 2-0 win over Austria. Then he added another against Jordan on a sublime free kick from outside the box for his 19th in the competition.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/vG3CUR6fOdFDVn1xdnsbsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/8954ea95-061c-45e4-bd7f-0e67eed0e07e",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Lionel Messi Says It’s ‘Crazy’ His Next World Cup Rival Was A Baby He Once Held",
+   "iso": "2026-07-18T22:10:00.000Z",
+   "link": "https://sports.yahoo.com/articles/lionel-messi-says-crazy-next-221000021.html",
+   "lede": "Lionel Messi is just one win away from another World Cup title, but Sunday’s final also brings an extraordinary personal twist. Before taking the field, the Argentine icon reflected on an unlikely connection to an opponent standing in his way. Ahead of his country’s showdown with Spain, the soccer legend looked back on a viral photo that now forever links him to Lamine Yamal, the player who is now trying to deny him glory. Lionel Messi has reflected on one of football’s most unbelievable full-circle moments, admitting it’s “crazy” that the baby he once cradled during a charity photoshoot for his old club, Barcelona, is now the player standing between him and another World Cup trophy.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/cCM8h2BCVS0kepIdq0hbTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjM7Y2Y9d2VicA--/https://media.zenfs.com/en/theblast_73/53d8d393de3e1e6d8054a146cf8ec070",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "FOX SPORTS",
    "title": "Where To Find Japan's Stars After Their World Cup Elimination",
@@ -8,8 +48,8 @@
    "link": "https://www.foxsports.com/stories/soccer/where-find-japans-stars-after-world-cup-elimination",
    "lede": "Japan earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group F against the Netherlands, Tunisia, and Sweden, fielding a squad that advanced past the group stage. During the group stage, they recorded a 2-2 draw against the Netherlands and a 4-0 victory over Tunisia. A 1-1 draw against Sweden confirmed Japan's progression to the knockout phase.",
    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/gettyimages-2282577402-scaled.jpg?ve=1&tl=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FOX SPORTS",
@@ -18,66 +58,26 @@
    "link": "https://www.foxsports.com/stories/soccer/where-find-south-africas-stars-after-2026-world-cup-elimination",
    "lede": "South Africa earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group A against Mexico, Czech Republic, and South Korea, fielding a squad that advanced past the group stage for the first time in the country's history. During the group stage, they lost their opening match to Mexico before securing a 1-1 draw against Czechia. A 1-0 victory over South Korea confirmed South Africa's progression to the knockout phase.",
    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/lylefoster1-scaled.jpg?ve=1&tl=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "Where is the next World Cup 2030? Which countries are hosting?",
+   "iso": "2026-07-18T21:47:04.000Z",
+   "link": "https://www.standard.co.uk/sport/football/where-is-next-world-cup-2030-hosting-b1290202.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The 2030 World Cup will be unlike any previous edition of football's biggest tournament. For the first time in the competition's history, matches will be staged across three continents, with six countries sharing hosting duties to celebrate the centenary of the World Cup.",
+   "image": "https://static.standard.co.uk/2026/07/16/11/23/GettyImages-1708665625.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BBC",
    "title": "World Cup 2026: Hydration breaks not popular and Fifa will review, says Arsene Wenger",
    "iso": "2026-07-18T21:42:23.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c24m30v0gy9o",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o",
    "lede": "Wenger is Fifa's head of global football development. Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament. Fifa brought in mandatory three-minute hydration breaks for the World Cup, regardless of conditions, for all matches played at stadiums in the United States, Mexico and Canada. The governing body said they were brought in as a commitment to player welfare but critics have pointed to broadcasters using the breaks as a way to cash in with commercials.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7e1/live/ac6e4090-82ee-11f1-a54c-d7b64e5e84c2.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "How Dynamic Pricing Turned the 2026 FIFA World Cup Into a Financial Goldmine",
-   "iso": "2026-07-18T21:39:32.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/07/330158/how-dynamic-pricing-turned-the-2026-fifa-world-cup-into-a-financial-goldmine/",
-   "lede": "Rabat - The 2026 FIFA World Cup has not only delivered memorable football but also become one of the most profitable sporting events ever, thanks largely to FIFA's use of dynamic ticket pricing and unprecedented global demand. Ahead of Sunday's final between Argentina and Spain at MetLife Stadium in New Jersey, fans have paid record-breaking prices for tickets, making the match the most expensive sporting event ever held in the United States. According to FIFA, stadium occupancy during the group stage reached approximately 99.7%, with more than half of the 72 group-stage matches selling out completely. Attendance in the remaining matches also came within a few hundred seats of full capacity.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/2026-FIFA-WORLD-CUP.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Football Daily | France v England in the third-place playoff: the game nobody wants to play",
-   "iso": "2026-07-18T21:16:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/football-daily-email-gwc-england-france",
-   "lede": "Saturday’s rebranded “bronze final” between France and England in Miami might feel like a modern, Gianni-coded exercise in squeezing the product dry, but the third-place playoff is a staple of World Cup history, even if it remains the game nobody wants to play in. The very first TPPO came in 1934, Germany defeating Austria 3-2 in a match engulfed in murky, menacing geopolitics. Thankfully, the fixture quickly became a more knockabout affair – Brazil swaggered on to the world stage by beating Sweden 4-2 in 1938, and France put six past West Germany in a nine-goal feast of football 20 years later. Just Fontaine scored four that day, later to be joined by Thomas Müller, Davor Suker and Toto Schillaci in using the fixture to pad their Golden Boot stats – a tactic Kylian Mbappé might want to try against a punch-drunk England side and pip Lionel Messi to another personal accolade as a result.",
-   "image": "https://i.guim.co.uk/img/media/e72a14e58717c07257d8fec1895b85f85841ae7c/437_173_3316_2653/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a473f023d9cc7dd50b0040492ce718d8",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "HEAVY.COM",
-   "title": "France National Team 2026: All 26 World Cup Players And Club Teams",
-   "iso": "2026-07-18T21:07:15.000Z",
-   "link": "https://heavy.com/sports/soccer/world-cup/france-national-team-2026-all-26-world-cup-players-clubs/",
-   "lede": "The 2026 France World Cup squad comes into the tournament with high expectations. With some of the best players on the best club teams in the world, the France national team is attempting to recreate the magic they had in their successful 2018 campaign at this competition. Highlighted by Kylian Mbappé, Ousmane Dembélé, Michael Olise, and some of the most talented players on the planet, this group of France national football team players is one of the betting favorites to win the 2026 World Cup, along with Spain. Here's a look at all 26 France World Cup players on the French roster as the national team's tournament run continues.",
-   "image": "https://heavy.com/wp-content/uploads/2026/06/GettyImages-2279107923-e1781621730110.jpg?quality=65&strip=all",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Declan Rice scores early World Cup goal vs. France in Miami",
-   "iso": "2026-07-18T21:05:15.000Z",
-   "link": "https://sports.yahoo.com/articles/declan-rice-scores-early-world-210515265.html",
-   "lede": "MIAMI GARDENS — England's Declan Rice is on the scoresheet early in South Florida's final World Cup match. Rice scored a goal against France in the third minute on Saturday, July 18 at Hard Rock Stadium to make the score 1-0. The English midfielder shot from outside the box after intercepting a pass near midfield and driving unimpeded to the French penalty box. Rice has come under criticism in the English press after the \"Three Lions\" lost 2-1 to Argentina in the World Cup semifinals on Wednesday, July 15.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/EYkjh6VPWhdeP8RBPWt31A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/13299020b8a054b4f0e67a614e62b2b4",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FRONT OFFICE SPORTS",
-   "title": "World Cup Final Get-In Ticket Soars to Around $10,000",
-   "iso": "2026-07-18T21:57:37.000Z",
-   "link": "https://frontofficesports.com/world-cup-final-get-in-ticket-soar-to-around-10000/",
-   "lede": "The get-in price for the final cost was around $6,500 less than a week ago.",
-   "image": "https://frontofficesports.com/wp-content/uploads/2026/07/2026-07-14T211248Z_1121115804_UP1EM7E1MXA59_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-scaled-e1784411623338.jpg?quality=80",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
