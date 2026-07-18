@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-18T03:35:08.942Z",
+ "updated": "2026-07-18T04:16:53.395Z",
  "news": [
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "World Cup predictions, final and 3/4 play off: Spain vs Argentina and France vs England",
+   "iso": "2026-07-18T04:10:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7452040/2026/07/18/world-cup-predictions-spain-argentina-france-england/",
+   "lede": "Who knows more about soccer? Us ‘experts’, you the subscribers, a child, a dog or an algorithm? Come join us to predict each World Cup game.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/17110600/TA_WorldCup_Predictions.png?width=1200&height=630&fit=cover",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "‘Hard to choose’ – Deco gives his verdict on the World Cup final between Spain and Argentina",
@@ -8,16 +18,6 @@
    "link": "https://sports.yahoo.com/articles/hard-choose-deco-gives-verdict-030000174.html",
    "lede": "Barcelona sporting director Deco has admitted it’s hard to choose who will win the World Cup final as Spain prepare to take on Argentina in New York. Deco is in the city to watch the game on Sunday and will see many of his players feature in the showpiece event. Asked which team will be crowned world champions, Deco admitted he was struggling to pick a favorite. “I always go with my own people, but my people are everywhere.",
    "image": "https://s.yimg.com/ny/api/res/1.2/QjHtZ7fW8QchSVhSgJGZQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/023ed798c41c19e9669101455b900e4d",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "For the first time ever, FIFA to award rings to World Cup victors",
-   "iso": "2026-07-18T02:30:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/229941/for-the-first-time-ever-fifa-to-award-rings-to-world-cup-victors",
-   "lede": "For the first time in FIFA World Cup history, the tournament’s champions will receive championship rings in addition to lifting the iconic World Cup trophy per Fabrizio Romano. Borrowing a tradition long associated with major North American sports leagues such as the NFL, NBA, NHL, and MLB, FIFA has officially announced that 30 championship rings will be produced for the members of the title-winning team. The rings will serve as a lasting reminder of football’s greatest achievement and provide players with a personal keepsake they can wear and cherish for the rest of their lives. The celebration will not stop with the players.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2274055616.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,41 +42,42 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "SILVER BULLETIN",
-   "title": "2026 World Cup Predictions",
-   "iso": "2026-07-18T01:08:59.000Z",
-   "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
-   "lede": "At the start of this exceptional World Cup, our model had Argentina and Spain as co-favorites, with France and England as the 3rd- and 4th-most likely teams to take home the trophy. I understand the skepticism about Argentina. You could argue that all three of their KO-round wins have been dodgy in some fashion. I thought they played an excellent game today, by contrast, though I’m not quite sure whether their conservative play in the first half served any greater purpose.",
-   "image": "https://substackcdn.com/image/fetch/$s_!Z-ne!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5dd67e-d51f-443e-871f-8c348700439b_1396x932.png",
+   "cat": "THE NEW YORK TIMES",
+   "title": "What Lionel Messi and Argentina can learn from Scotland, the last team to beat Spain",
+   "iso": "2026-07-18T04:08:21.000Z",
+   "link": "https://www.nytimes.com/athletic/7452334/2026/07/18/spain-last-game-lost-scotland/",
+   "lede": "Scotland's shock victory in 2023 offered an unlikely blueprint for the reigning European champions.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/17132350/GettyImages-1477593491-scaled-e1784309211354.jpg?width=1200&height=630&fit=cover",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance",
-   "iso": "2026-07-18T01:01:02.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan",
-   "lede": "A tournament with more teams and more games has been filled with euphoria, heartbreak, and these weird and wonderful viral moments. As a Japanese supporter exclaimed to a television camera, “Texas is good, everything is big”, we knew the World Cup had started. In those early euphoric moments, seeing the palpable joy when everything is still possible, it seemed Japan fans were the MVPs of memes. They came in their thousands, dressed in sombreros and Mario outfits, tossed into the air like confetti and line dancing with the Dutch.",
-   "image": "https://i.guim.co.uk/img/media/6236030100ffbb6771707b1839f64f92e06ed0a2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46e730654155b26988198686faecda27",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Why does American coverage of the World Cup not sound very American?",
+   "iso": "2026-07-18T04:08:21.000Z",
+   "link": "https://www.nytimes.com/athletic/7449816/2026/07/18/fox-world-cup-tv-coverage-american/",
+   "lede": "The World Cup has dominated American TV coverage but it has been delivered with European accents.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/06/28193817/GettyImages-2281108164-1-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "OLYMPICS.COM",
-   "title": "FIFA World Cup 2026: Messi, Mbappé, Bellingham, or Rodri – who will win the Golden Ball award?",
-   "iso": "2026-07-18T03:33:23.000Z",
-   "link": "https://www.olympics.com/en/news/fifa-world-cup-2026-messi-mbappe-bellingham-rodri-golden-ball-football",
-   "lede": "",
+   "cat": "THE NEW YORK TIMES",
+   "title": "The World Cup’s Golden Boot race: Mbappe and Messi lead but will Kane or Bellingham overtake them?",
+   "iso": "2026-07-18T04:08:13.000Z",
+   "link": "https://www.nytimes.com/athletic/7449297/2026/07/18/world-cup-golden-boot-race-mbappe-messi/",
+   "lede": "With just two games remaining at the 2026 World Cup, the battle to finish as its top goalscorer is still too close to call.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16103619/0716_MessiMbappe.png?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
-   "iso": "2026-07-18T03:16:41.000Z",
-   "link": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights",
-   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260716__C2DZ72B__v1__HighRes__FblWc2026TrainingArg-1784278333.jpg?resize=1920%2C1440",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Pedro Porro has showcased his qualities with Spain at the World Cup – and Tottenham can benefit",
+   "iso": "2026-07-18T04:08:04.000Z",
+   "link": "https://www.nytimes.com/athletic/7451725/2026/07/18/pedro-porro-spain-tottenham-world-cup/",
+   "lede": "The right-back was not in Spain's Euro 2024-winning squad and has endured years of turmoil at club level, but has excelled at the World Cup.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/17075934/GettyImages-2285509482-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
