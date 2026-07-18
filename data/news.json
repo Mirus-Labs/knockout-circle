@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T18:39:20.888Z",
+ "updated": "2026-07-18T18:39:48.227Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Didier Deschamps defends Michael Olise amid France World Cup fallout",
+   "iso": "2026-07-18T16:52:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/232515/didier-deschamps-defends-michael-olise-france-world-cup-fallout",
+   "lede": "France’s disappointing World Cup semifinals defeat to Spain has brought the boo birds out of the woodwork. Les Bleus’ star-studded attack failed to shine for once, and players such as Bayern Munich’s Michael Olise were caught in the crosshairs of criticism — despite having enjoyed a brilliant tournament before the loss. It is all “a bit harsh”, according to France national team coach Didier Deschamps, who took to defending “He [Olise] wasn’t at his best against Spain, just like some of the others,” Deschamps relayed in comments captured by @iMiaSanMia. “He’s still got plenty of room to improve.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2206774736.jpg?quality=90&strip=all&crop=0%2C1.5892642950121%2C100%2C78.524215886627&w=1200",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "FORBES",
    "title": "Why Tuchel, Ancelotti And Super Coaches Struggled At The World Cup",
    "iso": "2026-07-18T16:36:29.000Z",
    "link": "https://www.forbes.com/sites/chrisevans/2026/07/18/why-tuchel-ancelotti-and-super-coaches-struggled-at-the-world-cup/",
    "lede": "Top club coaches like Tuchel and Ancelotti surprisingly faltered at the World Cup, while international specialists De la Fuente and Scaloni led their teams to the final. The article suggests that club \"super coaches,\" accustomed to extensive player contact and control, struggled to adapt to the limited preparation time and unique demands of international tournaments. Their inability to quickly build team chemistry and implement intricate tactics, unlike in club football, proved to be a significant hurdle. In contrast, coaches with experience within national federations demonstrated a better understanding of how to foster an ethos and tactical message efficiently, highlighting that international success requires specific adaptability beyond club achievements.",
    "image": "https://imageio.forbes.com/specials-images/imageserve/6a5baa86ceb3d6e4cb3ca431/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "USA TODAY",
@@ -68,16 +78,6 @@
    "link": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/07/17/nfl-or-world-cup-flopping-offsides-usmnt/90852250007/",
    "lede": "Eye of the beholder, etc., etc. For the fútbol faithful, the World Cup excitement is building to a crescendo ahead of Sunday's final between defending champion Argentina and Spain. But for the football faithful? We've been subjected to plenty.",
    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/15/USAT/90563604007-christian-pulisic.jpg?crop=1375,773,x1301,y1275&width=1375&height=773&format=pjpg&auto=webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
-   "iso": "2026-07-18T18:19:01.000Z",
-   "link": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights",
-   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260718__2286581747__v1__HighRes__SpainVArgentinaFifaWorldCup2026FinalPressCon-1784377431.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
