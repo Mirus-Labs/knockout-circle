@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-19T20:58:44.820Z",
+ "updated": "2026-07-19T21:09:51.818Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Fifa gives fraud ‘an open door’ with betting, says Council of Europe chief",
+   "iso": "2026-07-19T20:33:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/19/fifa-fraud-open-door-betting-council-of-europe-world-cup",
+   "lede": "Fifa deal with prediction market company under fire. Balogun reprieve showed ‘rules bend under pressure’. Fifa has been accused of providing an “open door to fraud” and allowing political influence to cast doubt on the integrity of the World Cup in a stinging rebuke by the Council of Europe’s secretary general. In an open letter published to coincide with Sunday’s final, Alain Berset also called for a new integrity framework to be built before the 2030 tournament, which is mainly being staged in Europe, and warned that Fifa was embroiled in a crisis involving money and power.",
+   "image": "https://i.guim.co.uk/img/media/7ec0248002c13ee4c1a2ada6e972a19948e3ae5f/471_0_4961_3969/master/4961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3c44eb4ec9d229013688c77eca3c46b",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "UEFA.COM",
    "title": "2026 World Cup: All the European sides' fixtures and results",
@@ -8,16 +18,6 @@
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-fixtures-and-results/",
    "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final between Spain and holders Argentina in East Rutherford on 19 July. Check out all the details of the European teams' matches. Monday 15 June: D 0-0 vs Cabo Verde (Atlanta) Sunday 21 June: W 4-0 vs Saudi Arabia (Atlanta) Saturday 27 June: W 1-0 vs Uruguay (Guadalajara) Thursday 2 July (R32): W 3-0 vs Austria (Los Angeles) Monday 6 July (R16): W 1-0 vs Portugal (Dallas) Friday 10 July (QF): W 2-1 vs Belgium (Los Angeles) Tuesday 14 July (SF): W 2-0 vs France (Dallas) Sunday 19 July (F): vs Argentina (New York, 21:00).",
    "image": "https://editorial.uefa.com/resources/02a7-2123dd693929-29a426ca8051-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "How long was half-time at the World Cup final and did Fifa break the rules?",
-   "iso": "2026-07-19T20:30:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/world-cup-final-half-time-how-long-b3017762.html",
-   "lede": "The first World Cup half-time show led to a delay of almost half an hour. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/07/19/21/2286796057..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "YAHOO SPORTS",
+   "title": "Tom Cruise closes World Cup ceremony with a passionate speech on the pitch",
+   "iso": "2026-07-19T19:48:07.000Z",
+   "link": "https://sports.yahoo.com/articles/tom-cruise-closes-world-cup-194807754.html",
+   "lede": "Hollywood A-lister Tom Cruise, Grammy-winner Jennifer Hudson, and pop icon Robbie Williams led a star-studded closing ceremony for the World Cup on Sunday, just moments before Spain and Argentina battled it out in the final. The spectacle unfolded at the New York New Jersey Stadium, featuring a blend of musical performances and a passionate address on the global power of football. Grammy-winner Jennifer Hudson delivered a powerful rendition of the US national anthem, The Star-Spangled Banner. Dressed in a white gown and matching blazer, adorned with a distinctive red, white, and blue ribbon detail, Hudson captivated the audience.",
+   "image": "https://s.yimg.com/os/en/the_independent_us_sports_articles_270/1137617c7b5aa5d3d14dbca615caab2a",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "England 2026 World Cup squad: player-by-player ratings",
    "iso": "2026-07-19T19:47:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
    "lede": "After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament. Jordan Pickford Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final.",
    "image": "https://i.guim.co.uk/img/media/b8fda3c0f44c2f62786688b924735e99f3569a03/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de2cdaf8ca779af3756b6e2c9cac8789",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,16 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final",
    "lede": "US president watches Spain v Argentina match. Trump avoids hostile reception from crowd. World Cup final: live coverage of the match. Donald Trump took his place at the World Cup final at the New York New Jersey Stadium on Sunday.",
    "image": "https://i.guim.co.uk/img/media/b2176267665a4776ee5dcb1f07deba5b346c2d37/282_0_2081_1666/master/2081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce9d20b3615112e944f5c679dc72404c",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE-SUN.COM",
-   "title": "‘Just stop’ – Tom Cruise’s ‘ridiculous’ pre-World Cup final speech leaves fans totally baffled",
-   "iso": "2026-07-19T19:34:04.000Z",
-   "link": "https://www.the-sun.com/sport/16714968/tom-cruise-world-cup-final-speech-spain-argentina/",
-   "lede": "WORLD CUP fans were left scratching their heads during Tom Cruise’s dramatic pre-final speech. Hollywood star Cruise, 64, talked about the planet coming together, from the middle of the MetLife Stadium pitch, before the ding-dong between Spain and Argentina. He began: “More than 30 days ago, 48 nations began a journey. They crossed oceans, they crossed borders, they crossed cultures.",
-   "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/crop-39808188.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
