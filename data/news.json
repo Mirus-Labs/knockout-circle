@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-19T17:34:55.412Z",
+ "updated": "2026-07-19T17:43:50.861Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "World Cup Final closing ceremony kicks off Spain vs. Argentina match",
+   "iso": "2026-07-19T17:27:30.000Z",
+   "link": "https://sports.yahoo.com/articles/world-cup-final-closing-ceremony-172730731.html",
+   "lede": "As the 2026 FIFA World Cup comes to its final match, the first-ever closing ceremony to mark the end of the tournament takes place at today MetLife Stadium. The ceremony inside the stadium dubbed New York New Jersey Stadium for the tournament is expected to feature celebrities Tom Cruise, Post Malone, Robbie Williams, Laura Pausini, IShowSpeed and superstar Jennifer Hudson performing the United States national anthem. Post Malone, will deliver a performance to start off the ceremony, followed by the rest of the biggest names in entertainment and music for other performances. More World Cup: Lionel Messi reacts to 'crazy' photo with baby Lamine Yamal.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/jAZgvO4o.D1RHEI63.xcnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/the-bergen-record/beb76476972cd39084f7555ee2b2dd93",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup 2026 - France 4-6 England: Bukayo Saka's hat-trick helps Three Lions finish third in 10-goal thriller",
@@ -8,8 +18,28 @@
    "link": "https://www.skysports.com/football/news/11095/13564308/world-cup-2026-france-4-6-england-bukayo-sakas-hat-trick-helps-three-lions-finish-third-in-10-goal-thriller",
    "lede": "Bukayo Saka’s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966. England were incredibly 4-0 up at half-time through Declan Rice's opener, Ezri Konsa's header and Saka's double, as Thomas Tuchel's side took advantage of an uninterested France - but they nearly blew their four-goal lead in the second half. The two-time World Cup winners woke up after half-time to threaten a sensational comeback through Kylian Mbappe's double - which saw him become the World Cup's all-time leading scorer (22 goals) - and substitute Bradley Barcola's strike. Hat-trick hero Saka: I wanted to play more England tournament player ratings: Who impressed and who struggled?",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-world-cup_7301206.jpg?20260719003949",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Is Donald Trump handing out the World Cup trophy? What to know",
+   "iso": "2026-07-19T17:23:19.000Z",
+   "link": "https://sports.yahoo.com/articles/donald-trump-handing-world-cup-172319104.html",
+   "lede": "Editor's note: Follow for live updates on Argentina-Spain World Cup final. The eyes of the soccer world will all be on East Rutherford, New Jersey on Sunday, June 19 with the final match of the 2026 World Cup set to be played. Lionel Messi is aiming to lead Argentina to back-to-back World Cup trophies in what is likely his final World Cup appearance. On the other side of the pitch, 19-year-old Lamine Yamal is looking to bring the first World Cup trophy back to Spain since 2010.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/J8UM.I_amiJ_WCwt1Kyd0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/ec80a60a5fb535e315de78179e474ab2",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Fifa World Cup 2026 closing ceremony start time, how to watch and line-up",
+   "iso": "2026-07-19T16:56:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup-2026-closing-ceremony-lineup-times-tom-cruise-ishowspeed-jennifer-hudson-b3017733.html",
+   "lede": "Lionel Messi seeks a second straight World Cup trophy, but his Argentina face formidable foes in the European champions. Footballing giants Argentina and Spain will clash in a blockbuster World Cup final, as Lionel Messi graces this stage for perhaps the final time. All-time great Messi, 39, will look to lead Argentina – who broke English hearts by coming from behind to win their semi-final – to a second straight World Cup trophy and the nation’s fourth overall, after triumphs in 1978, 1986 and 2022. But they face formidable foes in the reigning European champions: Spain, who are seeking their second-ever world championship, having previously lifted the trophy in 2010.",
+   "image": "https://static.independent.co.uk/2026/07/19/17/2026-07-19T162544Z_1538580622_UP1EM7J19MUCA_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.JPG?trim=11,0,11,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -18,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/fifa-2026-world-cup-final-163030804.html",
    "lede": "INDIO, CALIFORNIA - APRIL 18: (Exclusive Coverage) (FOR EDITORIAL USE ONLY) (NOT TO BE LICENSED FOR ANY STANDALONE OR SPECIAL INTEREST BOOK PUBLISHING USE CONCERNING THE COACHELLA MUSIC FESTIVAL AND/OR STAGECOACH MUSIC FESTIVAL) Justin Bieber performs at the Coachella Stage during the 2026 Coachella Valley Music and Arts Festival at Empire Polo Club on April 18, 2026 in Indio, California. (Photo by Kevin Mazur/Getty Images for Coachella). The 2026 FIFA World Cup Final is here, with Spain and Argentina set to face off in soccer’s biggest game on Sunday, July 19. But before either team takes home the trophy, some of music's biggest stars will make history of their own.",
    "image": "https://s.yimg.com/os/en/forbes_contributor_845/28cd425994ecc7a1a71e76eae1ef83b8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +58,8 @@
    "link": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
    "lede": "Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too far. No more hydration breaks, no more obligatory pans of the TV cameras to Hollywood A-listers, or dread of the crushing inevitability of English disappointment. The Fifa World Cup 2026 is at an end, after another month of planet-straddling drama laced with significance and symbolism, both on and off the pitch. Before the kick-off between Spain and Argentina on Sunday evening, the result is already clear: football’s greatest prize is more than a sporting event; it is a geopolitically charged economic juggernaut.",
    "image": "https://i.guim.co.uk/img/media/db06b29c7519122b775c0edbaaed8d4a3435fb93/94_0_2780_2224/master/2780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c57b6850ffabd3b2a66c4d4658ad84f2",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,8 +68,8 @@
    "link": "https://sports.yahoo.com/soccer/article/2026-world-cup-final-one-of-the-most-expensive-sporting-events-ever-141302609.html",
    "lede": "For those still hoping to get a chance to see Argentina vs. Spain in the 2026 World Cup final on Sunday, it's going to cost you big. ET on Sunday, prices to see the big event have ballooned to a median ticket price of $10,835, per Gametime. The get-in price for the match is $7,444, but tickets are going for as much as $39,704.",
    "image": "https://s.yimg.com/ny/api/res/1.2/LiPs8aViTaDz904Rb9DY8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/44bf358a-730b-4f78-a2d3-f4d60d0b0dd2",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -48,36 +78,6 @@
    "link": "https://sports.yahoo.com/articles/uefa-warns-var-against-using-162000904.html",
    "lede": "UEFA has decided not to fully adopt one of the most talked-about VAR changes introduced at the 2026 FIFA World Cup, according to talkSPORT. Updated laws approved by the International Football Association Board (IFAB) allowed VAR to become more involved in incidents involving simulation. The change meant VAR could step in if a referee had booked or sent off the wrong player, helping officials correct mistaken-identity cases linked to diving. The new protocol was used in several high-profile matches and attracted praise from many supporters who believed it could help reduce simulation in football.",
    "image": "https://s.yimg.com/os/en/football_today_articles_719/7e1708d41784546aa80e0dea5d03b6a7",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "World Cup 2026: Donald Trump attendance means hours of queues for final in New Jersey",
-   "iso": "2026-07-19T16:17:06.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c304p73m3zgo",
-   "lede": "There were significant queues outside New York New Jersey Stadium more than four hours before kick-off. Supporters are facing long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final. Spain face Argentina at the 82,500-seater venue, with kick-off at 15:00 local time (20:00 BST). There is increased security partly because United States president Donald Trump is attending the final - the only World Cup match he is watching in person.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a63e/live/f99ddf20-8388-11f1-8537-c5e158f8690c.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "How to stream Argentina vs. Spain World Cup final today for free",
-   "iso": "2026-07-19T16:00:39.000Z",
-   "link": "https://sports.yahoo.com/articles/stream-argentina-vs-spain-world-160039185.html",
-   "lede": "Argentina will face Spain with history on the line as they aim to become the third team in tournament history to win back-to-back World Cups, and just the first since 1962. Will the 39-year-old Lionel Messi and his Argentine brothers join Italy (1934, 1938) and Brazil (1958, 1962) as the only countries to win back-to-back World Cups on Sunday afternoon? However, La Roja and Lamine Yamal hope to spoil those dreams. WATCH: Watch 2026 World Cup final with a Fubo free trial.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/rXsg..Z_XAAUp0rT2Ath7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDE7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/4d9bc3bde240187a2916b1dbe79423c2",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SBS",
-   "title": "What to know about the World Cup final's Super Bowl-style half-time show",
-   "iso": "2026-07-19T15:41:52.000Z",
-   "link": "https://www.sbs.com.au/news/article/fifa-world-cup-2026-super-bowl-style-half-time-show-sparks-backlash/dggimnlto",
-   "lede": "But the 11-minute performance is not without its critics, as the break between Argentina and Spain at New York New Jersey Stadium on Monday morning (AEST) is expected to stretch well beyond the 15-minute interval permitted under International Football Association Board laws. FIFA has bent the rules before. Last year's Club World Cup final featured a 25-minute half-time break to accommodate performances by J Balvin, Doja Cat, and Tems. The Times, citing broadcast sources, reported the World Cup final half-time break could last up to 30 minutes.",
-   "image": "https://assets.sbs.com.au/dims4/default/61e245e/2147483647/strip/true/crop/4165x2343+0+217/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8f%2Feb%2F61e67f104dfaa52d6d37a0f89cfb%2Fgettyimages-2280418252.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
