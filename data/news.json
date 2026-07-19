@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T10:40:26.524Z",
+ "updated": "2026-07-19T10:45:31.290Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -13,23 +13,13 @@
   },
   {
    "cat": "YAHOO SPORTS",
-   "title": "Who are 2026 World Cup final announcers? Fox Sports' broadcast lineup",
-   "iso": "2026-07-19T10:24:45.000Z",
-   "link": "https://sports.yahoo.com/articles/2026-world-cup-final-announcers-102445571.html",
-   "lede": "Lionel Messi and Argentina look to become the first back-to-back World Cup winners in 64 years when they take on Spain in the 2026 World Cup final at MetLife Stadium in East Rutherford, N.J. Fox Sports will have an all-hands-on-deck approach for broadcasting coverage of the star-studded final. In addition to game coverage, the network will air a four-hour pregame show that starts at 11 a.m. Here is what to know about the World Cup final announcers on Fox:.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/UPDYrNDnnGeNwxb18hEv1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/64b9f2450bfb4f1fb88990029fed8db8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
    "title": "Messi stands alone in World Cup scoring history. This chart shows how",
    "iso": "2026-07-19T10:05:23.000Z",
    "link": "https://sports.yahoo.com/articles/messi-stands-alone-world-cup-100523433.html",
    "lede": "When Lionel Messi takes the pitch for the 2026 World Cup final against Spain at 3 p.m. ET on July 19 at MetLife Stadium in New Jersey, it might be his final international match for Argentina. But regardless of whether it is his final game or not, Messi will be far and away the all-time leader in goal contributions at the World Cup. USA TODAY analyzed goal and assist data from FIFA and Opta/Stats Perform to compile the 10 players with the most goal contributions in men’s World Cup history.",
    "image": "https://s.yimg.com/ny/api/res/1.2/vw6iX_RFicKUS658i4SQ9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/99bd6fe12c9c2c3b26f7fe4ac88a17ea",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,8 +28,8 @@
    "link": "https://sports.yahoo.com/articles/time-argentina-vs-spain-game-100425401.html",
    "lede": "The stage is set for the final showdown of the 2026 World Cup, with just the reigning champions, Argentina, and the reigning European champions, Spain, remaining. Spain, known as La Roja, is aiming for their second World Cup title, having previously won in 2010. Meanwhile, Lionel Scaloni's Argentine squad hopes to become only the third team in history to win back-to-back World Cups, with the quest coming to a head on Sunday, June 19 in the 2026 World Cup final. The match promises to be a clash of titans — a battle between an unstoppable force and an immovable object.",
    "image": "https://s.yimg.com/ny/api/res/1.2/1hG4P_WaJMtoSDatfdlg_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9bd29b3b820fb3040de736bb08fc6442",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -48,8 +38,8 @@
    "link": "https://sports.yahoo.com/articles/arsenals-world-cup-finalists-100010620.html",
    "lede": "It's European versus world champions in Sunday's World Cup final and Arsenal have three players in Luis de la Fuente's Spain side who face Argentina live on the BBC from 19:00 BST. Mikel Merino has been dubbed the World Cup 'super sub' after scoring two last-minute winners in the knockout stages to eliminate Portugal and Belgium from the competition. At this tournament, he has become the first player in World Cup history to score the winning goal in two different knockout-stage matches as a substitute, and also the first Spanish player to score two winning goals after the 80th minute at the World Cup. Goalkeeper David Raya and midfielder Martin Zubimendi have been named on the bench for every game of the competition, but are yet to feature.",
    "image": "https://s.yimg.com/ny/api/res/1.2/ciMPl45cKbThVTTqKdqQ1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/20e6e6b0c8f982d2db5ff25db6ff6513",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,6 +48,16 @@
    "link": "https://sports.yahoo.com/articles/every-team-defended-world-cup-094500058.html",
    "lede": "Argentina will aim to make history this evening as the world champions look to secure consecutive World Cup titles. The World Cup is the biggest prize in football and winning successive editions is an almost impossible feat. Throughout the tournament’s near-century of history, only two teams have ever defended the World Cup. No nation has achieved the feat since 1962.",
    "image": "https://s.yimg.com/ny/api/res/1.2/6FaYZJwQ8be6EYzy2lVtjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_football_faithful_articles_458/8eb6463e325a8b3fd011a2c036c97e94",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "BBC",
+   "title": "I've been a World Cup official - I promise you there is no favouritism",
+   "iso": "2026-07-19T09:55:59.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cm2g9g3v5gmo",
+   "lede": "Lionel Messi is set to line up for Argentina against Spain in Sunday's World Cup final. According to many fans, social media timelines and corners of the internet, Fifa wants Argentina and Lionel Messi to win the World Cup - and the officials are all in on it. As referees, we are forced to deal with the idea that we are part of some kind of conspiracy theory all the time. I can't stress this strongly enough.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/67f2/live/5d580210-82e0-11f1-ae6b-3189bc758570.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "🔟 World Cup final anecdotes you might have missed 🤯",
-   "iso": "2026-07-19T09:33:00.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-final-anecdotes-might-093300439.html",
-   "lede": "How many of these did you already know? This Sunday evening, the 2026 World Cup comes to an end with the final between Spain and Argentina. For the occasion, we’re bringing back some juicy anecdotes about World Cup finals! The fastest goal in World Cup final history was scored by Johan Neeskens in the final between the Netherlands and West Germany, when the Germans hadn’t even touched the ball yet.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/vx5N87ZZiDyrNnUuB2rORA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/1c8f20837cf9fa41179c67921460aa56",
+   "cat": "FOURFOURTWO",
+   "title": "World Cup 2026 Latest Scores and Fixtures",
+   "iso": "2026-07-19T09:40:02.000Z",
+   "link": "https://www.fourfourtwo.com/competition/all-of-the-world-cup-scores-so-far-at-the-2026-tournament",
+   "lede": "Spain will face Argentina in the World Cup final on Sunday, July 19 at 8pm UK time (3pm local time) from the New York New Jersey Stadium. When you purchase through links on our site, we may earn an affiliate commission. Spain beat France to make it to their first World Cup final in 16 years, while Argentina are looking to retain the trophy they won four year's ago in Qatar. Early into the knock-outs, we saw a couple of big sides exit the tournament, with Germany and the Netherlands falling to Paraguay and Morocco respectively.",
+   "image": "https://cdn.mos.cms.futurecdn.net/xnkYD7WNBHCnsbBp7u6xgP-2560-80.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
