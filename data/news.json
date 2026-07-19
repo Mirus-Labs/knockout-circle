@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-19T11:45:11.442Z",
+ "updated": "2026-07-19T12:39:47.259Z",
  "news": [
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "World Cup, the highest-scoring finals ⚽️",
+   "iso": "2026-07-19T11:32:00.000Z",
+   "link": "https://sports.yahoo.com/articles/world-cup-highest-scoring-finals-113200056.html",
+   "lede": "World Cup finals are often tight, cagey matches where every mistake can prove very costly. Yet several of them have produced particularly spectacular, high-scoring encounters. Just hours before the Spain-Argentina showdown, here’s a look back at the highest-scoring finals in World Cup history. Kick-off for the Spain–Argentina final is this Sunday at 9pm.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/YScTAfck4j7cTu4dXD4bEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDE4O2NmPXdlYnA-/https://media.zenfs.com/en/onefootball_articles_802/322ae55f1e62ec848c0217f8b53f09ac",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE COLORADOAN",
    "title": "When is next World Cup? FIFA Women's World Cup returns next year",
@@ -8,8 +18,18 @@
    "link": "https://www.coloradoan.com/story/sports/2026/07/19/when-is-next-world-cup-fifa-womens-world-cup-2027-heads-to-brazil/90955800007/",
    "lede": "The 2026 FIFA World Cup is wrapping up with a Spain-Argentina final on July 19. It's the women's edition next year, as the 2027 FIFA Women's World Cup returns to the Southern Hemisphere. Fourteen countries have already qualified for the 2027 tournament. The remaining 18 slots will be filled before the official draw is announced later this year.",
    "image": "https://www.coloradoan.com/gcdn/authoring/authoring-images/2026/07/17/PFTC/90961301007-20260125-t-195254-z-1841112824-up-1-em-1-p-1-j-859-j-rtrmadp-3-soccerworldcupbrazil.JPG?crop=5632,3169,x0,y576&width=3200&height=1801&format=pjpg&auto=webp",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Tuchel gives absurd reason for not playing Saka in World Cup semi final",
+   "iso": "2026-07-19T11:20:00.000Z",
+   "link": "https://sports.yahoo.com/articles/tuchel-gives-absurd-reason-not-112000288.html",
+   "lede": "When Bukayo Saka didn’t start England’s semi-final against Argentina, most assumed it was due to his fitness and the Achilles issue that had dogged him for months. But Thomas Tuchel has now revealed he simply picked Morgan Rogers over Saka because he had a “feeling”. Nobody could understand why Saka did not get a single minute against Argentina, with the Arsenal man admitting after he scored a hat-trick against France in the third-place play-off that he was fit and had wanted to play more minutes. “Of course, I would love to have played more,” Saka told the BBC after the game.",
+   "image": "https://s.yimg.com/os/en/daily_cannon_articles_231/6d06cf9281fb9198cb9b59d0f74fd768",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +38,18 @@
    "link": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
    "lede": "Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too far. No more hydration breaks, no more obligatory pans of the TV cameras to Hollywood A-listers, or dread of the crushing inevitability of English disappointment. The Fifa World Cup 2026 is at an end, after another month of planet-straddling drama laced with significance and symbolism, both on and off the pitch. Before the kick-off between Spain and Argentina on Sunday evening, the result is already clear: football’s greatest prize is more than a sporting event; it is a geopolitically charged economic juggernaut.",
    "image": "https://i.guim.co.uk/img/media/db06b29c7519122b775c0edbaaed8d4a3435fb93/94_0_2780_2224/master/2780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c57b6850ffabd3b2a66c4d4658ad84f2",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England 2026 World Cup squad: player-by-player ratings",
+   "iso": "2026-07-19T11:03:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
+   "lede": "After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament. Jordan Pickford Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final.",
+   "image": "https://i.guim.co.uk/img/media/b8fda3c0f44c2f62786688b924735e99f3569a03/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de2cdaf8ca779af3756b6e2c9cac8789",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "USA TODAY",
@@ -28,8 +58,18 @@
    "link": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/fifa-world-cup-trophy-explained-is-it-made-of-gold/90967986007/",
    "lede": "One of the biggest flexes an athlete can display is hoisting up a championship trophy, parading around and sharing the moment with their family, friends and fans. And it doesn't get any better than the FIFA World Cup trophy. The World Cup trophy is one of the most luxurious, high-quality, opulent title trophies in all of sports. It's the only championship trophy that is made of real, pure gold.",
    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/18/USAT/90968533007-20260717-t-231223-z-228868534-up-1-em-7-h-1-sgl-9-h-rtrmadp-3-soccerworldcupespargpreview.JPG?crop=8255,4645,x0,y429&width=3200&height=1801&format=pjpg&auto=webp",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Scaloni enters exclusive World Cup managers club",
+   "iso": "2026-07-19T10:55:00.000Z",
+   "link": "https://sports.yahoo.com/articles/scaloni-enters-exclusive-world-cup-105500393.html",
+   "lede": "Lionel Scaloni has written another chapter in Argentina's football history after guiding La Albiceleste to a second consecutive FIFA World Cup final with a dramatic 2-1 comeback victory over England. After Anthony Gordon handed the Three Lions the lead early in the second half, Argentina responded through Enzo Fernández before Lautaro Martínez struck the winner to send the defending champions into Sunday's showpiece. The result sees Scaloni become just the seventh manager to reach two World Cup finals and only the fifth to do so in successive tournaments. Having led Argentina to World Cup glory in Qatar in 2022, the 48-year-old now has the chance to emulate Italy legend Vittorio Pozzo as the only coaches to win back-to-back World Cup titles.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/hEYYkBsS3BixQP5egE8.yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/playmakerstats_articles_264/19171e297c4f5a40320478b49a41eb7b",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,46 +78,6 @@
    "link": "https://sports.yahoo.com/articles/italy-fans-support-spain-argentina-104000728.html",
    "lede": "Spain and Argentina meet in the World Cup Final tonight, and there will be unpleasant implications for Italian football regardless of the outcome. So, who will you support? Spain and Argentina meet in New York for the 2026 World Cup Final tonight. The only two Serie A representatives remaining are both Argentines, Lautaro Martinez and Nico Paz, and neither is expected to start.",
    "image": "https://s.yimg.com/os/en/football_italia_articles_132/1dfd250f2bcebfb9471f37e84eeedfef",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Who has most goals in World Cup history? Kylian Mbappé passes Lionel Messi with 2 goals in third-place game",
-   "iso": "2026-07-19T10:33:19.000Z",
-   "link": "https://sports.yahoo.com/soccer/article/who-has-most-goals-in-world-cup-history-kylian-mbappe-passes-lionel-messi-with-2-goals-in-third-place-game-161623449.html",
-   "lede": "With the 2026 World Cup in full swing, it was only a matter of time before Argentina's Lionel Messi and France’s Kylian Mbappé broke the all-time record that stood before the tournament. Already considered by many as the greatest of all time, Messi was the first to score more goals than any other player in World Cup history. He earned his 17th and 18th during Argentina's 2-0 win over Austria. Then he added another against Jordan on a sublime free kick from outside the box for his 19th in the competition.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/vG3CUR6fOdFDVn1xdnsbsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/8954ea95-061c-45e4-bd7f-0e67eed0e07e",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "'Legend' or 'regrets'? A final that will define Lamine Yamal's World Cup",
-   "iso": "2026-07-19T10:11:29.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cdx8r45w2gzo",
-   "lede": "Spain's Lamine Yamal is hoping to become just the third teenager to score in a World Cup final. When asked if Spain would win the World Cup, Lamine Yamal simply smiled and said \"yes\". His words to American broadcaster CBS in the build-up would have come as a surprise to no-one who has seen the confident teenager become one of the best players on the planet. For many though, for his prediction to come true, Lamine Yamal was going to have to set the tournament alight in his first ever World Cup.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d02b/live/eb58a230-82d7-11f1-a7b7-31e12e116164.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Messi stands alone in World Cup scoring history. This chart shows how",
-   "iso": "2026-07-19T10:05:23.000Z",
-   "link": "https://sports.yahoo.com/articles/messi-stands-alone-world-cup-100523433.html",
-   "lede": "When Lionel Messi takes the pitch for the 2026 World Cup final against Spain at 3 p.m. ET on July 19 at MetLife Stadium in New Jersey, it might be his final international match for Argentina. But regardless of whether it is his final game or not, Messi will be far and away the all-time leader in goal contributions at the World Cup. USA TODAY analyzed goal and assist data from FIFA and Opta/Stats Perform to compile the 10 players with the most goal contributions in men’s World Cup history.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/vw6iX_RFicKUS658i4SQ9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/99bd6fe12c9c2c3b26f7fe4ac88a17ea",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "What time is Argentina vs. Spain game today? How to watch World Cup final",
-   "iso": "2026-07-19T10:04:25.000Z",
-   "link": "https://sports.yahoo.com/articles/time-argentina-vs-spain-game-100425401.html",
-   "lede": "The stage is set for the final showdown of the 2026 World Cup, with just the reigning champions, Argentina, and the reigning European champions, Spain, remaining. Spain, known as La Roja, is aiming for their second World Cup title, having previously won in 2010. Meanwhile, Lionel Scaloni's Argentine squad hopes to become only the third team in history to win back-to-back World Cups, with the quest coming to a head on Sunday, June 19 in the 2026 World Cup final. The match promises to be a clash of titans — a battle between an unstoppable force and an immovable object.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/1hG4P_WaJMtoSDatfdlg_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9bd29b3b820fb3040de736bb08fc6442",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
