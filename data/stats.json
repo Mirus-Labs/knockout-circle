@@ -1,12 +1,17 @@
 {
- "updated": "2026-07-19T06:44:22.528Z",
+ "updated": "2026-07-19T08:59:10.219Z",
  "source": "ESPN",
  "tabs": {
   "assists": [
    {
     "name": "Michael Olise",
     "team": "France",
-    "val": 5
+    "val": 7
+   },
+   {
+    "name": "Kylian Mbappé",
+    "team": "France",
+    "val": 4
    },
    {
     "name": "Lionel Messi",
@@ -29,17 +34,12 @@
     "val": 4
    },
    {
-    "name": "Kylian Mbappé",
-    "team": "France",
-    "val": 3
-   },
-   {
-    "name": "Anthony Gordon",
+    "name": "Bukayo Saka",
     "team": "England",
     "val": 3
    },
    {
-    "name": "Bukayo Saka",
+    "name": "Anthony Gordon",
     "team": "England",
     "val": 3
    },
@@ -64,13 +64,13 @@
     "val": 3
    },
    {
-    "name": "Marc Cucurella",
-    "team": "Spain",
+    "name": "Ousmane Dembélé",
+    "team": "France",
     "val": 2
    },
    {
-    "name": "Ousmane Dembélé",
-    "team": "France",
+    "name": "Marc Cucurella",
+    "team": "Spain",
     "val": 2
    }
   ],
@@ -81,13 +81,13 @@
     "val": 3
    },
    {
-    "name": "Granit Xhaka",
-    "team": "Switzerland",
+    "name": "Declan Rice",
+    "team": "England",
     "val": 2
    },
    {
-    "name": "Declan Rice",
-    "team": "England",
+    "name": "Granit Xhaka",
+    "team": "Switzerland",
     "val": 2
    },
    {
@@ -193,6 +193,11 @@
     "val": 1
    },
    {
+    "name": "Jarell Quansah",
+    "team": "England",
+    "val": 1
+   },
+   {
     "name": "Assim Madibo",
     "team": "Qatar",
     "val": 1
@@ -200,11 +205,6 @@
    {
     "name": "Homam Ahmed",
     "team": "Qatar",
-    "val": 1
-   },
-   {
-    "name": "Jarell Quansah",
-    "team": "England",
     "val": 1
    },
    {
