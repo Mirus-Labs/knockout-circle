@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-19T16:28:22.176Z",
+ "updated": "2026-07-19T16:38:22.775Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Donald Trump attendance means hours of queues for final in New Jersey",
+   "iso": "2026-07-19T16:17:06.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c304p73m3zgo",
+   "lede": "There were significant queues outside New York New Jersey Stadium more than four hours before kick-off. Supporters are facing hours of queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final. Spain face Argentina at the 82,500-seater venue, with kick-off at 15:00 local time (20:00 BST). There is increased security partly because United States president Donald Trump is attending the final - the only World Cup match he is watching in person.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a63e/live/f99ddf20-8388-11f1-8537-c5e158f8690c.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "UEFA.COM",
    "title": "2026 World Cup: All the European sides' fixtures and results",
@@ -8,8 +18,8 @@
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-fixtures-and-results/",
    "lede": "Keep track of all the European sides' fixtures and results at the World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concludes with the final between Spain and holders Argentina in East Rutherford on 19 July. Check out all the details of the European teams' matches. Monday 15 June: D 0-0 vs Cabo Verde (Atlanta) Sunday 21 June: W 4-0 vs Saudi Arabia (Atlanta) Saturday 27 June: W 1-0 vs Uruguay (Guadalajara) Thursday 2 July (R32): W 3-0 vs Austria (Los Angeles) Monday 6 July (R16): W 1-0 vs Portugal (Dallas) Friday 10 July (QF): W 2-1 vs Belgium (Los Angeles) Tuesday 14 July (SF): W 2-0 vs France (Dallas) Sunday 19 July (F): vs Argentina (New York, 21:00).",
    "image": "https://editorial.uefa.com/resources/02a7-2123dd693929-29a426ca8051-1000/france_v_spain_semi_final_-_fifa_world_cup_2026.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE MIRROR",
@@ -18,8 +28,8 @@
    "link": "https://www.mirror.co.uk/sport/football/news/world-cup-final-delays-fifa-37450608",
    "lede": "The 2026 World Cup final will go ahead at its scheduled 8pm kick-off time, despite fears of disruption bythunderstorms. Spain and Argentina are set to get underway at the MetLife Stadium in New Jersey on Sunday evening, as this summer's tournament in North America reaches its climax. World football's most prestigious tournament hasn't been without its teething problems due to unpredictable weather , with a number of matches being postponed or delayed for hours as a result of thunder and lightning. As per US law, any lightning strkes within an eight-mile radius presses pause on play for at least half-an-hour until the most recent detected strike.",
    "image": "https://i2-prod.mirror.co.uk/article37450606.ece/ALTERNATES/s1200d/1_FIFA-World-Cup-2026-Final-Previews.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +38,8 @@
    "link": "https://sports.yahoo.com/articles/argentina-world-cup-roster-2026-145233788.html",
    "lede": "Editor's note: Follow for live updates on Argentina-Spain World Cup final. Led by Lionel Messi, defending champion Argentina brought 26 players to the 2026 World Cup trying to become the first team to repeat since 1962. Now 39 years old, Messi is considered the greatest player in soccer history and has continued to dominate at this World Cup, scoring eight goals through the semifinal. Entering Sunday's final, Messi has 21 career World Cup goals, trailing only Kylian Mbappe in history.",
    "image": "https://s.yimg.com/ny/api/res/1.2/eJbjmmX7C73jZNHUTDXzTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/d4ae10cce62cf2b96e2cb560c108c6c9",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DECCAN HERALD",
@@ -38,8 +48,8 @@
    "link": "https://www.deccanherald.com/sports/football/fifa-world-cup-2026-states-announce-holiday-longer-business-hours-in-eateries-for-final-match-4079477",
    "lede": "As the world gears up for the FIFA World Cup 2026 final, where defending champions Argentina will face Spain, several states across India have announced holidays for educational institutions and extended business hours for eateries to allow fans, especially students, to watch the match. The final is set to begin at 12.30 am (IST) on Monday, and the move comes amidst high anticipation from football enthusiasts with leaders of various states encouraging the football final fever. . FIFA World Cup 2026 | Final featuring Argentina and Spain set to become most expensive US sporting event . The Karnataka government granted special permissions to restaurants in Bengaluru to remain open late night.",
    "image": "https://media.assettype.com/deccanherald%2F2026-07-19%2Fpk0hp8dh%2Fdeccanherald2026-07-17q1inmox05b891410-ecaa-4cf6-bc95-cdf2e0bcde70.avif?rect=0%2C34%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -48,35 +58,26 @@
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/232804/fifa-world-cup-third-place-match-analysis-france-england-goals-mbappe-golden-boot-messi-tuchel-olise-upamecano-bayern-munich",
    "lede": "The third place match of this World Cup was something else. Four goals from England in the first half made it seem that we were not going to see a close game, but France had something to say about it. We saw records matched and overcome, and two key goals in the Golden Boot race. This was the highest scoring match in this edition of the tournament — surpassing Germany’s 7-1 win over Curacao.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286093085.jpg?quality=90&strip=all&crop=0%2C8.6525899025128%2C100%2C82.694820194974&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "The 2026 FIFA World Cup Final halftime show explained: Why football is getting its own Super Bowl moment",
-   "iso": "2026-07-19T14:32:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/the-2026-fifa-world-cup-final-halftime-show-explained-why-football-is-getting-its-own-super-bowl-moment-for-the-first-time/articleshow/132495745.cms",
-   "lede": "For 96 years, the FIFA World Cup final had one universal halftime ritual: fifteen minutes, a tunnel, and tactical adjustments. On July 19, 2026, all of that changed. For the first time in the tournament's history, the World Cup final at MetLife Stadium in East Rutherford, New Jersey, will feature a full halftime show, headlined by Madonna, Shakira, BTS, and Justin Bieber, curated by Coldplay's Chris Martin. Global Citizen CEO Hugh Evans has called it \"the single largest gathering of artists united for a cause since Live Aid.\"",
-   "image": "https://static.toiimg.com/thumb/msid-132495796,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "DAZN",
-   "title": "The Knicks' win and World Cup have brought an infectious energy to New York City",
-   "iso": "2026-07-19T16:00:54.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/new-york-knicks-win-nba-title-world-cup-new-york-city-summer-energy/1vvbrnl46kxym1h5l0g1fmj5kv",
-   "lede": "",
+   "cat": "THE NEW YORK TIMES",
+   "title": "What happens when President Trump attends major sports events – and why he does it",
+   "iso": "2026-07-19T16:35:31.000Z",
+   "link": "https://www.nytimes.com/athletic/6659006/2026/07/19/trump-major-sporting-events-ryder-cup-nfl-fifa-world-cup/",
+   "lede": "Open and NBA Finals to Wrestlemania, the U.S. President makes headlines whenever he crosses into the world of sport.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2025/09/19021519/GettyImages-2286559126-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "What happens when President Trump attends major sports events – and why he does it",
-   "iso": "2026-07-19T15:48:26.000Z",
-   "link": "https://www.nytimes.com/athletic/6659006/2026/07/19/trump-major-sporting-events-ryder-cup-nfl-fifa-world-cup/",
-   "lede": "Open and NBA Finals to Wrestlemania, the U.S. President makes headlines whenever he crosses into the world of sport.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2025/09/19021519/GettyImages-2286559126-scaled.jpg?width=1200&height=630&fit=cover",
+   "title": "England World Cup squad ratings: Historic Bellingham, Rice’s struggles, Kane frustration",
+   "iso": "2026-07-19T16:30:33.000Z",
+   "link": "https://www.nytimes.com/athletic/7455509/2026/07/19/england-world-cup-squad-ratings/",
+   "lede": "Assessing every player in Thomas Tuchel's squad, as England fell agonisingly short of reaching the World Cup final.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/19120526/GettyImages-2286092820-scaled-e1784477141531.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
