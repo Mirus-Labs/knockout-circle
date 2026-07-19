@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T03:56:31.655Z",
+ "updated": "2026-07-19T03:59:33.573Z",
  "news": [
   {
    "cat": "JACOBIN",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "TRENTONMONITOR.COM",
+   "title": "Faith joins football as Spain and Argentina face off for World Cup title",
+   "iso": "2026-07-19T02:32:08.000Z",
+   "link": "https://trentonmonitor.com/2026/07/18/faith-joins-football-as-spain-and-argentina-face-off-for-world-cup-title/",
+   "lede": "Top photo caption: Argentina’s Lionel Messi celebrates after his team defeated England 2-1 during the FIFA World Cup 2026 semifinal at Atlanta Stadium July 15, 2026. Argentina defeated England 2-1 and will take on Spain in the final July 19 in New Jersey. OSV News photo/Brett Davis, Reuters. By Caroline de Sury Ines San Martin, Paulina Guzik, OSV News.",
+   "image": "https://trentonmonitor.com/wp-content/uploads/20260717T1211-WORLD-CUP-CATHOLICISM-1823556-1-scaled.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "YAHOO SPORTS",
    "title": "Can World Cup help Miami return to Super Bowl rotation? | Habib",
    "iso": "2026-07-19T02:09:00.000Z",
    "link": "https://sports.yahoo.com/articles/world-cup-help-miami-return-020903283.html",
    "lede": "MIAMI GARDENS — Magical month for Miami? It just may be, especially for fans of the other kind of football. England edged France 6-4 in a crazy consolation match Saturday (July 18) that served as the seventh and final installment of Miami’s contribution to the 2026 FIFA World Cup. Before the match, Rodney Barreto, co-chair of the South Florida host committee, told The Post he’d just signed papers certifying Miami’s interest in hosting one of the next four available Super Bowls.",
    "image": "https://s.yimg.com/ny/api/res/1.2/QkOXkebiZHYI6tzxsyA_IA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/palm_beach_post_natl_articles_437/c8a86ba64b583f6aea3f725adc8ae19f",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "NBC 5 CHICAGO",
@@ -28,28 +38,8 @@
    "link": "https://www.nbcchicago.com/local-2/kylian-mbappe-passes-lionel-messi-for-career-world-cup-scoring-record-with-22-goals/3963416/",
    "lede": "France’s forward #10 Kylian Mbappe celebrates scoring his team’s third goal during the 2026 World Cup football tournament third-place match between France and England at the Miami Stadium in Miami on July 18, 2026. (Photo by ROBERTO SCHMIDT / AFP via Getty Images). Kylian Mbappé made history at the World Cup on Saturday. He would have preferred a different outcome.",
    "image": "https://media.nbcchicago.com/2026/07/GettyImages-2286086354.jpg?quality=85&strip=all&resize=1200%2C675",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Four Observations from the World Cup third place match",
-   "iso": "2026-07-19T01:15:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/232804/fifa-world-cup-third-place-match-analysis-france-england-goals-mbappe-golden-boot-messi-tuchel-olise-upamecano-bayern-munich",
-   "lede": "The third place match of this World Cup was something else. Four goals from England in the first half made it seem that we were not going to see a close game, but France had something to say about it. We saw records matched and overcome, and two key goals in the Golden Boot race. This was the highest scoring match in this edition of the tournament — surpassing Germany’s 7-1 win over Curacao.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286093085.jpg?quality=90&strip=all&crop=0%2C8.6525899025128%2C100%2C82.694820194974&w=1200",
    "emoji": "🔥",
    "bg": "#7a2424"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "England World Cup ratings: Every Three Lions player who took part in the tournament rated",
-   "iso": "2026-07-19T01:06:18.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
-   "lede": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted. A stunning 6-4 win over France in the third-place play-off earned the Thomas Tuchel's side a bronze medal - and England's best performance at a World Cup since the 1966 World Cup. France 4-6 England - report and reaction Nev: I have a big problem with Tuchel's DNA comments But it could have been more. England were leading their semi-final with Argentina with five minutes of normal time remaining before conceding twice to the holders in agonising fashion.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-players_7301214.jpg?20260719011835",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -58,8 +48,8 @@
    "link": "https://www.nytimes.com/athletic/7455162/2026/07/18/slavko-vincic-spain-argentina-world-cup-final/",
    "lede": "The 46-year-old is the first person from Slovenia to take charge of the world's biggest football fixture.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/18183116/GettyImages-2284107337-1-scaled-e1784413895599.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "AL JAZEERA",
@@ -68,8 +58,8 @@
    "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box",
    "lede": "A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-15T205124Z_27792419_UP1EM7F1LXNEB_RTRMADP_3_SOCCER-WORLDCUP-ENG-ARG-1784421736.jpg?resize=1920%2C1440",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -78,6 +68,16 @@
    "link": "https://www.nytimes.com/athletic/7455490/2026/07/18/england-france-bronze-medal-match/",
    "lede": "A chaotic mess of a match between England and France was the kind of flawed fun you want in a third-placed playoff.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/18232508/GettyImages-2286092902-scaled-e1784431562636.jpeg?width=1200&height=630&fit=cover",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
+   "iso": "2026-07-19T03:21:28.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights",
+   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260718__2286581747__v1__HighRes__SpainVArgentinaFifaWorldCup2026FinalPressCon-1784377431.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
