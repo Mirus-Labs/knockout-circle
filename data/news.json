@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T06:39:02.798Z",
+ "updated": "2026-07-19T06:44:22.287Z",
  "news": [
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -42,24 +42,14 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup semifinals bracket: Full schedule, matchups and path to the final",
-   "iso": "2026-07-19T05:34:00.000Z",
-   "link": "https://sports.yahoo.com/soccer/article/world-cup-final-bracket-spain-vs-argentina-matchup-schedule-and-path-to-the-championship-164942403.html",
-   "lede": "Forty-eight teams began the 2026 FIFA World Cup. Now only Spain and defending champion Argentina remain. The World Cup final is set after Spain delivered a commanding 2-0 semifinal victory over France and Argentina scored twice late to stun England 2-1. La Roja will meet Lionel Messi and La Albiceleste on Sunday at MetLife Stadium, where Spain will pursue its first title since 2010 and Argentina will try to become the first repeat champion since Brazil in 1962.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/j2C6m5eEgaon.mZtlp97gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/ed518734-53fd-4f3d-8d79-3fb071d56a37",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Four Observations from the World Cup third place match",
    "iso": "2026-07-19T04:45:00.000Z",
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/232804/fifa-world-cup-third-place-match-analysis-france-england-goals-mbappe-golden-boot-messi-tuchel-olise-upamecano-bayern-munich",
    "lede": "The third place match of this World Cup was something else. Four goals from England in the first half made it seem that we were not going to see a close game, but France had something to say about it. We saw records matched and overcome, and two key goals in the Golden Boot race. This was the highest scoring match in this edition of the tournament — surpassing Germany’s 7-1 win over Curacao.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286093085.jpg?quality=90&strip=all&crop=0%2C8.6525899025128%2C100%2C82.694820194974&w=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -68,8 +58,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/07/19/your-guide-to-the-fifa-world-cup-final-and-the-razzmatazz-that-goes-with-it/",
    "lede": "The FIFA Men’s World Cup final has always been football’s biggest occasion. This year, it will also become the most ambitious entertainment event in the tournament’s history. Fans at Monday’s final (NZT) will see a full showbiz-centric programme before kick-off, a first-ever World Cup half-time show and the traditional trophy presentation that crowns the new world champions. The official closing ceremony will begin about 90 minutes before the match at MetLife Stadium in New Jersey.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/07/MetLife-Stadium-New-Jersey.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -78,6 +68,16 @@
    "link": "https://sports.yahoo.com/articles/spain-vs-argentina-predicted-lineup-042500638.html",
    "lede": "The European champions, Spain, are set to face the Copa America champions, Argentina, in the FIFA World Cup 2026 final on Sunday at the New York-New Jersey Stadium. Spain head into this huge clash in outstanding, record-setting form, currently unbeaten in their last 37 matches. Their tactical discipline has been evident throughout the tournament, as they have comfortably dealt with top-level opponents. A solid 2-0 win over France in the semi-finals highlighted their dominance, and notably, La Roja have not fallen behind at any stage during this World Cup.",
    "image": "https://s.yimg.com/ny/api/res/1.2/cv_3mqofffs4ai_33QbJYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTE7Y2Y9d2VicA--/https://media.zenfs.com/en/the_football_faithful_articles_458/f1da71c0ea9cb942ac6378caa5ab8238",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
+   "iso": "2026-07-19T06:21:56.000Z",
+   "link": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights",
+   "lede": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260718__2286581747__v1__HighRes__SpainVArgentinaFifaWorldCup2026FinalPressCon-1784377431.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }

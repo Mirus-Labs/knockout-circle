@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T03:59:39.227Z",
+ "updated": "2026-07-19T06:44:27.628Z",
  "source": "FIFA Training Centre",
  "sourceUrl": "https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php",
  "matches": {
@@ -17732,8 +17732,10 @@
      }
     ]
    },
-   "source": "FIFA live match feed",
-   "updatedAt": "2026-07-18T19:54:38.483Z"
+   "source": "FIFA Training Centre",
+   "updatedAt": "2026-07-18T19:54:38.483Z",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M103-FRA-V-ENG.pdf",
+   "parseError": "report identity did not validate"
   }
  }
 }
