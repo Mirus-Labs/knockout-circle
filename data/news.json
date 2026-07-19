@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T11:43:44.830Z",
+ "updated": "2026-07-19T11:45:11.442Z",
  "news": [
   {
    "cat": "THE COLORADOAN",
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "UEFA.COM",
-   "title": "France at the World Cup 2026: Squad, fixtures, group and history",
-   "iso": "2026-07-19T10:18:53.000Z",
-   "link": "https://www.uefa.com/european-qualifiers/news/02a6-20d159288012-ce02189d2504-1000--france-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
-   "lede": "Everything you need to know about France at the 2026 World Cup: their fixtures, squad, qualifying record, key players, coach and tournament history. France were runners-up last time but had to settle for fourth place at FIFA World Cup 2026. Didier Deschamps' side, led by captain Kylian Mbappé, topped Group I and beat Sweden, Paraguay and Morocco in the knockout phase before they were defeated by Spain in the semi-finals. They then lost a thriller against England in the play-off for third place.",
-   "image": "https://editorial.uefa.com/resources/02a7-2123e3eaa4a8-456385f2b481-1000/fbl-wc-2026-match103-fra-eng.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "BBC",
    "title": "'Legend' or 'regrets'? A final that will define Lamine Yamal's World Cup",
    "iso": "2026-07-19T10:11:29.000Z",
    "link": "https://www.bbc.com/sport/football/articles/cdx8r45w2gzo",
    "lede": "Spain's Lamine Yamal is hoping to become just the third teenager to score in a World Cup final. When asked if Spain would win the World Cup, Lamine Yamal simply smiled and said \"yes\". His words to American broadcaster CBS in the build-up would have come as a surprise to no-one who has seen the confident teenager become one of the best players on the planet. For many though, for his prediction to come true, Lamine Yamal was going to have to set the tournament alight in his first ever World Cup.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d02b/live/eb58a230-82d7-11f1-a7b7-31e12e116164.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -78,6 +68,16 @@
    "link": "https://sports.yahoo.com/articles/messi-stands-alone-world-cup-100523433.html",
    "lede": "When Lionel Messi takes the pitch for the 2026 World Cup final against Spain at 3 p.m. ET on July 19 at MetLife Stadium in New Jersey, it might be his final international match for Argentina. But regardless of whether it is his final game or not, Messi will be far and away the all-time leader in goal contributions at the World Cup. USA TODAY analyzed goal and assist data from FIFA and Opta/Stats Perform to compile the 10 players with the most goal contributions in men’s World Cup history.",
    "image": "https://s.yimg.com/ny/api/res/1.2/vw6iX_RFicKUS658i4SQ9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/99bd6fe12c9c2c3b26f7fe4ac88a17ea",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "What time is Argentina vs. Spain game today? How to watch World Cup final",
+   "iso": "2026-07-19T10:04:25.000Z",
+   "link": "https://sports.yahoo.com/articles/time-argentina-vs-spain-game-100425401.html",
+   "lede": "The stage is set for the final showdown of the 2026 World Cup, with just the reigning champions, Argentina, and the reigning European champions, Spain, remaining. Spain, known as La Roja, is aiming for their second World Cup title, having previously won in 2010. Meanwhile, Lionel Scaloni's Argentine squad hopes to become only the third team in history to win back-to-back World Cups, with the quest coming to a head on Sunday, June 19 in the 2026 World Cup final. The match promises to be a clash of titans — a battle between an unstoppable force and an immovable object.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/1hG4P_WaJMtoSDatfdlg_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9bd29b3b820fb3040de736bb08fc6442",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
