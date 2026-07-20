@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T07:32:04.799Z",
+ "updated": "2026-07-20T07:33:17.716Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "SKY SPORTS",
+   "title": "World Cup 2026 - France 4-6 England: Bukayo Saka's hat-trick helps Three Lions finish third in 10-goal thriller",
+   "iso": "2026-07-20T06:07:07.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13564308/world-cup-2026-france-4-6-england-bukayo-sakas-hat-trick-helps-three-lions-finish-third-in-10-goal-thriller",
+   "lede": "Bukayo Saka’s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966. England were incredibly 4-0 up at half-time through Declan Rice's opener, Ezri Konsa's header and Saka's double, as Thomas Tuchel's side took advantage of an uninterested France - but they nearly blew their four-goal lead in the second half. The two-time World Cup winners woke up after half-time to threaten a sensational comeback through Kylian Mbappe's double - which saw him become the World Cup's all-time leading scorer (22 goals) - and substitute Bradley Barcola's strike. Hat-trick hero Saka: I wanted to play more England tournament player ratings: Who impressed and who struggled?",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-world-cup_7301206.jpg?20260719003949",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "YAHOO SPORTS",
    "title": "2026 FIFA World Cup Team of the Tournament: Messi, Mbappe and Rodri make Best XI",
    "iso": "2026-07-20T05:35:00.000Z",
    "link": "https://sports.yahoo.com/articles/2026-fifa-world-cup-team-053500772.html",
    "lede": "Spain were crowned 2026 FIFA World Cup champions after beating Argentina in Sunday’s final. Read on as we look at the Team of the tournament. Unai Simon: He won the Golden Glove award and recorded the highest save percentage. His proactive style also helped Spain maintain an effective high defensive line.",
    "image": "https://s.yimg.com/os/en/football_today_articles_719/89b6d9b0c4e14ce98c39ad38b46731df",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SKY SPORTS",
@@ -28,8 +38,8 @@
    "link": "https://www.skysports.com/football/news/11095/13565110/world-cup-win-for-spain-over-argentina-is-a-triumph-for-the-spanish-style-and-their-commitment-to-possession-football",
    "lede": "It was not the thrilling final of four years ago, or even the carefree goal-fest of the previous evening but Spain still deserve enormous credit for dethroning Argentina in one of the more one-sided World Cup finals in memory. This was utter domination. Ferran Torres scored the winner from the twentieth shot of the match - and every single one of them came from Spain. They made 400 more passes, playing the game in Argentina's half long before a frustrated Enzo Fernandez left his team down to 10 men.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-rodri-spain-world-cup_7301949.jpg?20260719234918",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DW.COM",
@@ -38,8 +48,8 @@
    "link": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285",
    "lede": "After a 16-year wait, Spain has claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain is now men's and women's world champions. Patience proved the critical virtue for Spain. The players had to wait for a kickoff delayed by, among other things, a Tom Cruise speech.",
    "image": "https://static.dw.com/image/78030171_6.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DW.COM",
@@ -48,8 +58,18 @@
    "link": "https://www.dw.com/en/2026-world-cup-the-tournament-that-changed-football-forever/video-78028759",
    "lede": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video. The 2026 World Cup delivered plenty of drama, emotional farewells and packed stadiums but also brought soaring prices, political sideshows and doubts about the integrity of the competition. The 2026 FIFA World Cupwas the largest in history, featuring 48 teams, three host countries, 16 cities and 104 matches. While the expanded tournament gave more nations a chance to compete, it also brought logistical challenges, high travel costs and expensive tickets for many fans.",
    "image": "https://static.dw.com/image/78027748_6.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Spain are worthy World Cup winners. It’s a victory for method over madness",
+   "iso": "2026-07-20T07:30:45.000Z",
+   "link": "https://www.nytimes.com/athletic/7457604/2026/07/20/spain-world-cup-champions-de-la-fuente/",
+   "lede": "In a World Cup that was so often illuminated by the game’s biggest stars, the greatest glory was claimed by its strongest collective.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/20013311/SPAIN-WORLD-CUP-WINNERS-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -58,26 +78,6 @@
    "link": "https://www.nytimes.com/athletic/7457688/2026/07/20/argentina-world-cup-final-national-holiday-milei/",
    "lede": "Javier Milei said the date for the celebration would be up to \"what the players and the coaching staff decide\" after their defeat to Spain.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/20022438/GettyImages-2286793814-scaled-e1784528701165.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
-   "iso": "2026-07-20T06:30:12.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules",
-   "lede": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260709__B9T67GV__v1__HighRes__FblWc2026Match97FraMar-1783790846.jpg?resize=1920%2C1440",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Spain vs Argentina LIVE! World Cup 2026 final, fixture, score, live updates and team news",
-   "iso": "2026-07-20T06:29:12.000Z",
-   "link": "https://www.skysports.com/football/live-blog/11095/13564324/spain-vs-argentina-live-world-cup-2026-final-fixture-score-live-updates-and-team-news",
-   "lede": "World Cup 2026 final, fixture, score, live updates and team news.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-parades-argentina_7302004.jpg?20260720073524",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
