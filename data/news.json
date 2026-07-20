@@ -1,10 +1,10 @@
 {
- "updated": "2026-07-20T19:10:15.537Z",
+ "updated": "2026-07-20T20:42:05.584Z",
  "news": [
   {
    "cat": "SKY SPORTS",
    "title": "2026 World Cup: Spain 1-0 Argentina (AET): Ferran Torres' extra-time winner secures Spain's second title",
-   "iso": "2026-07-20T18:53:58.000Z",
+   "iso": "2026-07-20T20:23:58.000Z",
    "link": "https://www.skysports.com/football/news/12098/13564318/2026-world-cup-spain-1-0-argentina-aet-ferran-torres-extra-time-winner-secures-spains-second-title",
    "lede": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final. Spain were deserved winners. Torres scored with Spain's 20th shot while the game ended without Argentina registering a single shot on target. Lionel Messi touched the ball just 54 times in a match that took three hours to complete and featured a 27-minute half-time break.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-ferran-torres-spain_7301955.jpg?20260719235710",
@@ -14,12 +14,52 @@
   {
    "cat": "UEFA.COM",
    "title": "2026 World Cup: All the European sides' results",
-   "iso": "2026-07-20T18:44:09.000Z",
+   "iso": "2026-07-20T20:11:07.000Z",
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-results/",
    "lede": "Look back at all the European sides' results at the FIFA World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concluded with Spain's extra-time final victory against holders Argentina in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 3-1 vs Jordan (San Francisco Bay Area) Monday 22 June: L 0-2 vs Argentina (Dallas) Sunday 28 June: D 3-3 vs Algeria (Kansas City) Thursday 2 July (R32): L 3-0 vs Spain (Los Angeles).",
    "image": "https://editorial.uefa.com/resources/02a7-2125d4708ff3-900eeb977e8c-1000/spain_v_argentina_final_-_fifa_world_cup_2026.jpeg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "DW.COM",
+   "title": "Spain wins second World Cup after beating Argentina in final",
+   "iso": "2026-07-20T20:01:41.000Z",
+   "link": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285",
+   "lede": "After a 16-year wait, Spain has claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain is now men's and women's world champions. Patience proved the critical virtue for Spain. The players had to wait for a kickoff delayed by, among other things, a Tom Cruise speech.",
+   "image": "https://static.dw.com/image/78030171_6.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Trump show offers fitting fever-dream end to a World Cup of excess and damage",
+   "iso": "2026-07-20T20:00:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/20/donald-trump-world-cup-excess-damage-football",
+   "lede": "Football appeared a sideshow for much of the last afternoon of a tournament nurtured to indulge the cult of the individual. It ended almost as Gianni Infantino and Donald Trump had planned. Earlier on a seemingly endless World Cup final day, the trophy had, in a scene perfectly of a piece with the event’s excess, been let out of a Louis Vuitton trunk. Now they shuffled up to the podium together and presented it to a beaming Rodri, fumbling the moment slightly when Trump lingered for Spain’s team photo.",
+   "image": "https://i.guim.co.uk/img/media/380a65636ecda388008b8525f60faa7bc022c0a9/522_0_4458_3566/master/4458.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=277634d8fc1ec30849dc26dbebff48dc",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Donald Trump has to let it linger as he hangs on for Spain’s World Cup celebrations",
+   "iso": "2026-07-20T19:54:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa",
+   "lede": "For the second time in as many years, the US president made sure he was a part of a moment of triumph he had little to do with. There was a world championship trophy, waiting to be held aloft at the same gargantuan stadium in East Rutherford, New Jersey. There was Gianni Infantino, waiting alongside the US president. And there was that same US president, Donald Trump, fresh off a round of stadium-wide booing and jeering, handing off the trophy with Infantino and then staying stubbornly in the frame as another team enjoyed the pinnacle of their professional careers with an octogenarian standing awkwardly in the shot.",
+   "image": "https://i.guim.co.uk/img/media/202b9b8163a93e6255656f0704032b8d49ae8b02/756_0_4706_3767/master/4706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd6cfc9f4a001ca06d35aea80b337fd0",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Spain’s system subdues a team built on the irrational magic of Messi’s lone genius | Barney Ronay",
+   "iso": "2026-07-20T19:08:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/20/spain-team-system-subdue-argentina-messi-magic-world-cup-2026-final",
+   "lede": "The route to this World Cup victory involved beating the other 2022 finalist and then suffocating Argentina as they dried out in the sun. Time to break the staff, bury the book and call time on that rough magic. There was, by the end, an undertone of sadness about Lionel Messi, New Jersey and a World Cup final that brought Spain the glory of an entirely deserved second trophy, and which saw Argentina offer almost nothing beyond a gnarled and gristly sense of resistance. This is an Argentina team built on faith, devotional energy and a belief in the frankly irrational magic of your lone scurrying 39-year-old genius.",
+   "image": "https://i.guim.co.uk/img/media/e30559326a3a855b25f28b34008db5a524e285b0/285_0_3269_2614/master/3269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d707ebf5bcddfaeb772ea2f0bdb04bc",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +68,8 @@
    "link": "https://www.theguardian.com/commentisfree/2026/jul/20/world-cup-football-messy-hope",
    "lede": "Kazakhs cheering Uzbeks, Bengalis wild for Argentina … This tournament was once a playground for nationalism. Now it shows how flimsy that allegiance is. It’s the World Cup final, so you pick a side. And don’t worry if you happen to be part of the 98.9% of the human race that is neither Spanish nor Argentinian – just make something up.",
    "image": "https://i.guim.co.uk/img/media/13dac8b3be4d889915682172fb6d0f288bcc3e31/78_27_4315_3452/master/4315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=715681cae551d5bbdc17fc0128564476",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,46 +78,6 @@
    "link": "https://sports.yahoo.com/soccer/article/world-cup-golden-boot-kylian-mbappe-wins-after-lionel-messi-is-held-scoreless-in-final-010143798.html",
    "lede": "The stars were out throughout the 2026 World Cup, and they shined bright through the final days of the tournament. France's Kylian Mbappé was the last player to move out in front of the Golden Boot race, striking twice in Les Bleus' third-place match against England after they had stumbled to a 4-0 deficit in the first half Saturday. That put him two goals ahead of Lionel Messi before Argentina took the pitch in Sunday's final against Spain. Mbappé held on to win the Golden Boot, the award bestowed upon the World Cup's top goal scorer, after Messi was held scoreless in Argentina's 1-0 extra-time loss to Spain.",
    "image": "https://s.yimg.com/ny/api/res/1.2/UTAagC7l1gPH_nBDWplhJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/77dfc60e-6c59-4db5-b578-d4c6412cd240",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Gangs of New Jersey: how the World Cup final descended into ugly scenes between Argentina and Spain",
-   "iso": "2026-07-20T17:52:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain",
-   "lede": "A blow-by-blow account of how players from both sides fought in the aftermath of the Sundau showpiece. The World Cup final took an ugly turn at the end of extra time as Spain were crowned champions. Here’s what happened, frame by frame. As the referee, Slavko Vincic, blows the full-time whistle, Spain’s substitutes run on to the pitch to celebrate World Cup glory with their teammates.",
-   "image": "https://i.guim.co.uk/img/media/89a464e095a8b70a92ba4b2679b6c88818bba917/505_162_2988_2391/master/2988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0e381131b20bba851211610e6da88b1",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Spain’s metronome: the statistics behind Rodri’s superb World Cup campaign",
-   "iso": "2026-07-20T17:48:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/20/rodri-spain-world-cup-final-2026-argentina-pass-accuracy",
-   "lede": "Midfielder’s supreme passing was too much for Argentina to handle in the final but his work without the ball proved just as crucial. Rodri is back to his best after multiple injury problems. The former Ballon d’Or winner has started only 22 games since rupturing his anterior cruciate ligament in September 2024 but you would have no idea from his performances at the World Cup that he had suffered so badly in the previous two years. The 30-year-old was already leading several statistical categories coming into the final on Sunday.",
-   "image": "https://i.guim.co.uk/img/media/a2cf9f39cee47ef511b12067ec86b26c51a96ae4/273_0_3767_3013/master/3767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea226b944b0d804d1b9461a4758d7184",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "FIFA will reportedly investigate Argentina for brawl after World Cup Final loss to Spain",
-   "iso": "2026-07-20T17:39:02.000Z",
-   "link": "https://sports.yahoo.com/soccer/article/fifa-will-reportedly-investigate-argentina-for-brawl-after-world-cup-final-loss-to-spain-173432819.html",
-   "lede": "FIFA will reportedly be investigating Argentina for what happened after the whistle of the national team's 2026 World Cup final loss to Spain, per Sky Sports. After the final whistle of the match, which resulted in Spain winning 1-0, a brawl broke out between players. Tensions were running high throughout the match, and it came to a head after the game ended. Argentina's Leandro Paredes appeared to grab Spain's Eric García by the throat, and then other players were pushing, shoving and tripping.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/0bzzNHdBt.kEirenHL9Rkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/5ead3650-c4c9-471b-8d41-070fea47a402",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "The 2026 World Cup stars whose stock has risen this summer",
-   "iso": "2026-07-20T17:35:00.000Z",
-   "link": "https://sports.yahoo.com/articles/2026-world-cup-stars-whose-173500086.html",
-   "lede": "Few things in football can alter a player's reputation more than the World Cup. The biggest spotlight in football has again raised the stock of participating players. Here are six stars whose reputations have risen at the 2026World Cup. Just over two months ago, a petition calling forReal Madrid to sell Kylian Mbappe attracted more than 30million signatures.",
-   "image": "https://s.yimg.com/os/en/football_muse_articles_776/18fb53339117f0e3eac2e198114be12c",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
