@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T07:33:17.861Z",
+ "updated": "2026-07-20T10:32:38.343Z",
  "source": "ESPN",
  "tabs": {
   "assists": [
@@ -9,13 +9,13 @@
     "val": 7
    },
    {
-    "name": "Kylian Mbappé",
-    "team": "France",
+    "name": "Lionel Messi",
+    "team": "Argentina",
     "val": 4
    },
    {
-    "name": "Lionel Messi",
-    "team": "Argentina",
+    "name": "Kylian Mbappé",
+    "team": "France",
     "val": 4
    },
    {
@@ -64,13 +64,13 @@
     "val": 3
    },
    {
-    "name": "Ousmane Dembélé",
-    "team": "France",
+    "name": "Marc Cucurella",
+    "team": "Spain",
     "val": 2
    },
    {
-    "name": "Marc Cucurella",
-    "team": "Spain",
+    "name": "Ousmane Dembélé",
+    "team": "France",
     "val": 2
    }
   ],
@@ -81,8 +81,23 @@
     "val": 3
    },
    {
+    "name": "Lisandro Martínez",
+    "team": "Argentina",
+    "val": 2
+   },
+   {
+    "name": "Cristian Romero",
+    "team": "Argentina",
+    "val": 2
+   },
+   {
     "name": "Declan Rice",
     "team": "England",
+    "val": 2
+   },
+   {
+    "name": "Leandro Paredes",
+    "team": "Argentina",
     "val": 2
    },
    {
@@ -129,24 +144,14 @@
     "name": "Denis Zakaria",
     "team": "Switzerland",
     "val": 2
-   },
-   {
-    "name": "Ivan Perisic",
-    "team": "Croatia",
-    "val": 2
-   },
-   {
-    "name": "Mohanad Lashin",
-    "team": "Egypt",
-    "val": 2
-   },
-   {
-    "name": "Stefan Posch",
-    "team": "Austria",
-    "val": 2
    }
   ],
   "red": [
+   {
+    "name": "Enzo Fernández",
+    "team": "Argentina",
+    "val": 1
+   },
    {
     "name": "Breel Embolo",
     "team": "Switzerland",
@@ -210,11 +215,6 @@
    {
     "name": "Rebin Sulaka",
     "team": "Iraq",
-    "val": 1
-   },
-   {
-    "name": "Themba Zwane",
-    "team": "South Africa",
     "val": 1
    }
   ]
