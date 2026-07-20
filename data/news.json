@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T04:10:30.629Z",
+ "updated": "2026-07-20T04:11:00.553Z",
  "news": [
   {
    "cat": "FORBES",
@@ -32,34 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch",
-   "iso": "2026-07-20T02:00:00.000Z",
-   "link": "https://sports.yahoo.com/soccer/article/2026-world-cup-results-standings-and-schedule-live-scores-group-stage-updates-and-how-to-watch-050724193.html",
-   "lede": "The 2026 FIFA World Cup final is set with reigning champions Argentina looking for back-to-back titles as they go against 2010 winners Spain. The three tournament co-hosts were each knocked out in the Round of 16 after Canada lost Morocco, Mexico fell to England and the USMNT was eliminated by Belgium. Below is a complete look at every group's final standings, which teams advanced, which were eliminated and the full knockout round schedule. Thursday, June 11: Mexico 2, South Africa 0 Thursday, June 11: Korea Republic 2, Czechia 1 Thursday, June 18: Czechia 1, South Africa 1 Thursday, June 18: Mexico 1 South Korea 0 Wednesday, June 24: Mexico 3, Czechia 0 Wednesday, June 24: South Africa 1, South Korea 0.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/xFNW7Isp.C.QzzzVLIA8KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/a53a5892-d8f6-404e-855a-d98302fc792f",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "MARCA",
-   "title": "World Cup 2026: A historic halftime show brings music and football together on the biggest stage",
-   "iso": "2026-07-20T01:34:00.000Z",
-   "link": "https://www.marca.com/en/world-cup/2026/07/20/world-cup-2026-historic-halftime-show-brings-music-and-football-together-on-the-biggest-stage.html",
-   "lede": "The 2026 World Cup final was not only remembered for Spain defeating Argentina and claiming its second star. During halftime at MetLife Stadium in New Jersey, FIFA made history by presenting the first halftime show ever held during a World Cup match. The production aimed to bring the biggest soccer event in the world closer to the format of the planet’s most iconic sporting spectacles, with a show designed to unite different generations and musical styles. Under the creative direction of Chris Martin, Coldplay’s lead singer, in collaboration with Global Citizen, the stage welcomed some of the biggest names in international music.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/20/6a5d796b41848.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "Patience beats overreliance on Messi: how the final was won and lost",
    "iso": "2026-07-20T01:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/19/patience-beats-overreliance-on-messi-how-the-final-was-won-and-lost",
    "lede": "Argentina tried to kill the spectacle and make it a physical battle but Spain refused to take the bait and kept passing. A worrying thought as a tepid first half drew to a close: was the half-time show going to be better than the football? Argentina could not match Spain’s possession approach but they had ways to level the playing field. There was physicality from Lionel Scaloni’s side, whose aim was to kill the spectacle before taking control in the second half, and they were allowed to take it to the limit by the Slovenian referee, Slavko Vincic.",
    "image": "https://i.guim.co.uk/img/media/dbfde96c6168ca48533aa05f977e8ecb1874ec7e/271_0_3830_3064/master/3830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95fbfac828bcf070ac748b3ddef1a67a",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,16 +48,36 @@
    "link": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
    "lede": "It zipped along, cramming in Shakira, Madonna and Coldplay, but football fans may not be convinced of need for this mid-match spectacle. Like hydration breaks and Donald Trump’s ability to get refereeing decisions overturned by simply phoning up the president of Fifa and complaining, the final half-time show is an innovation of the 2026 World Cup that comes with a degree of controversy attached. For one thing, its existence automatically means the World Cup final breaks the International Football Association’s 15-minute half-time mandate. For another, its obvious antecedent lies in the NFL’s Super Bowl, where the half-time entertainment has mushroomed over the decades from a few marching bands to one of the big pop events of the year.",
    "image": "https://i.guim.co.uk/img/media/4f30015dbb1d64f2e18260419be6a91dba340ed0/349_255_3765_3013/master/3765.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84582eaddb23c011f4f452f07dd1bdd2",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘It was crap’: Wayne Rooney’s candour helps BBC in World Cup final TV battle",
+   "iso": "2026-07-20T01:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/19/world-cup-2026-final-tv-review-bbc-itv-wayne-rooney",
+   "lede": "BBC scored a late goal in head-to-head with ITV over the World Cup by being in the stadium for the final. “I thought it was crap,” Wayne Rooney surmised on BBC after enduring the half-time show. Amid a tense final, the interval was always going to be prominent, theoretically bringing light to the shade. Why the two UK broadcasters felt the need to transmit the karaoke session in full we will never know but at least the pundits struggled through it, too.",
+   "image": "https://i.guim.co.uk/img/media/a61f4ec2fbf83cafbf007d23aeae0a8b3d28498b/163_53_654_523/master/654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d54b828e8050c9406cd393dff178850",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer",
+   "iso": "2026-07-20T01:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
+   "lede": "Game’s greatest player will not see his legacy sullied by defeat to Spain but his team’s display destroyed the game. Playing on the grandest stage in sport for the last time, Lionel Messi seemed almost certain to provide one last memorable moment in this World Cup final. Yet as the sun ducked behind the west stand of New York New Jersey Stadium on Sunday, it became clearer and clearer that Argentina had lost the magic they had carried through this tournament. And as Spain gradually wrested control, one was left to confront reality: Messi, and Argentina, had finally run out of time, having long since given in to their worst instincts in a 1-0 defeat.",
+   "image": "https://i.guim.co.uk/img/media/9906000d595ac4ef008656ccf12b0118d739b3e9/0_0_5457_4366/master/5457.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4493b6331af53b27aa5a1886837ff90",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
-   "iso": "2026-07-20T03:28:00.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules",
-   "lede": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260709__B9T67GV__v1__HighRes__FblWc2026Match97FraMar-1783790846.jpg?resize=1920%2C1440",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Argentina disgraced themselves, and the World Cup final, with their charmless petulance",
+   "iso": "2026-07-20T04:07:30.000Z",
+   "link": "https://www.nytimes.com/athletic/7456935/2026/07/19/argentina-world-cup-fouls-disgrace/",
+   "lede": "Argentina's passion was an asset but too often in this World Cup it has spilled over into distasteful aggression.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/19220305/GettyImages-2286222356-scaled-e1784513020838.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
