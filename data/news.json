@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T15:16:44.634Z",
+ "updated": "2026-07-20T15:22:53.753Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -22,24 +22,34 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "More than a million people expected at Spain’s World Cup celebration in Madrid",
-   "iso": "2026-07-20T14:22:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
-   "lede": "Squad arrived home at 2.30pm local time on Monday. Victory festivities to centre around the Plaza de Cibeles. More than a million Spaniards, many still bleary-eyed and feeling a little delicate after the country’s historic World Cup victory over Argentina, are expected to descend on central Madrid on Monday night to welcome the triumphant national team home. La Roja, who beat Argentina 1-0 in the final in New Jersey on Sunday night, were afforded the first of many heroes’ welcomes when they touched down at Madrid’s Barajas airport at 2.30pm local time on Monday.",
-   "image": "https://i.guim.co.uk/img/media/8fd88589894df4e0abb20dfd6953d3fafa9cc8c1/473_0_2364_1891/master/2364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cb1e68568e1fd976bd40bde35a4484f",
+   "cat": "BBC",
+   "title": "Opta names select World Cup Team of the Tournament",
+   "iso": "2026-07-20T14:39:26.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cpd7vg3d801o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+   "lede": "Opta have named their World Cup Team of the Tournament. A host of familiar names feature, including Manchester United's Lisandro Martinez. Key names to depart both Arsenal and Chelsea this summer also make the list. Opta explained the selections as follows:.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec44/live/fa4757c0-8447-11f1-926f-c90d1bcfbc84.png",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
    "title": "Gangs of New Jersey: how the World Cup final descended into ugly scenes between Argentina and Spain",
-   "iso": "2026-07-20T14:11:00.000Z",
+   "iso": "2026-07-20T14:36:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/20/gangs-of-new-jersey-how-the-world-cup-final-descended-into-ugly-scenes-between-argentina-and-spain",
    "lede": "A blow-by-blow account of how players from both sides fought in the aftermath of Sunday’s showpiece. The World Cup final took an ugly turn at the end of extra time as Spain were crowned champions. Here’s what happened, frame by frame. As the referee, Slavko Vincic, blows the full-time whistle, Spain’s substitutes run onto the pitch to celebrate World Cup glory with their teammates.",
    "image": "https://i.guim.co.uk/img/media/89a464e095a8b70a92ba4b2679b6c88818bba917/505_162_2988_2391/master/2988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0e381131b20bba851211610e6da88b1",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "More than a million people expected at Spain’s World Cup celebration in Madrid",
+   "iso": "2026-07-20T14:22:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
+   "lede": "Squad arrived home at 2.30pm local time on Monday. Victory festivities to centre around the Plaza de Cibeles. More than a million Spaniards, many still bleary-eyed and feeling a little delicate after the country’s historic World Cup victory against Argentina, are expected to descend on central Madrid on Monday night to welcome the triumphant national team home. La Roja, who beat Argentina 1-0 in the final in New Jersey on Sunday night, were afforded the first of many heroes’ welcomes when they touched down at Madrid’s Barajas airport at 2.30pm local time on Monday.",
+   "image": "https://i.guim.co.uk/img/media/8fd88589894df4e0abb20dfd6953d3fafa9cc8c1/473_0_2364_1891/master/2364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cb1e68568e1fd976bd40bde35a4484f",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "UEFA.COM",
@@ -48,8 +58,8 @@
    "link": "https://www.uefa.com/european-qualifiers/news/02a6-20c3aa0fafe2-4a6b4459a3fc-1000--2026-world-cup-all-the-european-sides-results/",
    "lede": "Look back at all the European sides' results at the FIFA World Cup in Canada, Mexico and the United States. The 2026 FIFA World Cup in Canada, Mexico and the United States kicked off on 11 June and concluded with Spain's extra-time final victory against holders Argentina in East Rutherford on 19 July. Check out all the details of the European teams' matches. Wednesday 17 June: W 3-1 vs Jordan (San Francisco Bay Area) Monday 22 June: L 0-2 vs Argentina (Dallas) Sunday 28 June: D 3-3 vs Algeria (Kansas City) Thursday 2 July (R32): L 3-0 vs Spain (Los Angeles).",
    "image": "https://editorial.uefa.com/resources/02a7-2125d4708ff3-900eeb977e8c-1000/spain_v_argentina_final_-_fifa_world_cup_2026.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,8 +68,8 @@
    "link": "https://sports.yahoo.com/soccer/article/world-cup-golden-boot-kylian-mbappe-wins-after-lionel-messi-is-held-scoreless-in-final-010143798.html",
    "lede": "The stars were out throughout the 2026 World Cup, and they shined bright through the final days of the tournament. France's Kylian Mbappé was the last player to move out in front of the Golden Boot race, striking twice in Les Bleus' third-place match against England after they had stumbled to a 4-0 deficit in the first half Saturday. That put him two goals ahead of Lionel Messi before Argentina took the pitch in Sunday's final against Spain. Mbappé held on to win the Golden Boot, the award bestowed upon the World Cup's top goal scorer, after Messi was held scoreless in Argentina's 1-0 extra-time loss to Spain.",
    "image": "https://s.yimg.com/ny/api/res/1.2/UTAagC7l1gPH_nBDWplhJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/77dfc60e-6c59-4db5-b578-d4c6412cd240",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,16 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/20/trump-world-cup-trophy-lift-spain-infantino-fifa",
    "lede": "For the second time in as many years, the US president made sure he was a part of a moment of triumph he had little to do with. There was a world championship trophy, waiting to be held aloft at the same gargantuan stadium in East Rutherford, New Jersey. There was Gianni Infantino, waiting alongside the US president. And there was that same US president, Donald Trump, fresh off a round of stadium-wide booing and jeering, handing off the trophy with Infantino and then staying stubbornly in the frame as another team enjoyed the pinnacle of their professional careers with an octogenarian standing awkwardly in the shot.",
    "image": "https://i.guim.co.uk/img/media/202b9b8163a93e6255656f0704032b8d49ae8b02/756_0_4706_3767/master/4706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd6cfc9f4a001ca06d35aea80b337fd0",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘Beyond reproach’: Argentinian media praises Scaloni’s team despite World Cup final defeat",
-   "iso": "2026-07-20T13:31:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/20/beyond-reproach-argentinian-media-praises-scaloni-team-despite-world-cup-final-defeat",
-   "lede": "Clarín says team ‘gave it their all’ in losing effort. La Nación: ‘They are the pride of the nation’. After Argentina lost 1-0 against Spain in the final on Sunday, in what is likely to be Lionel Messi’s last World Cup, the nation’s media celebrated the team while admitting the Europeans had been the better side. The cover of Clarín, the country’s bestselling newspaper, showed a photo of Messi crying under the headline: “They gave it their all: [there is] nothing to blame them for.”",
-   "image": "https://i.guim.co.uk/img/media/fb2efb562f34725f1c538e15c89f78918c54ec0a/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a78f983fa29995aa3500faace32c8150",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
