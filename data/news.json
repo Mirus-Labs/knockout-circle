@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T23:32:48.858Z",
+ "updated": "2026-07-21T23:42:57.821Z",
  "news": [
   {
    "cat": "THE PRESS DEMOCRAT",
@@ -42,22 +42,22 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "World Cup becoming a 64-team tournament would create logistical challenges - so can Gianni Infantino's idea work?",
-   "iso": "2026-07-21T22:06:11.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
-   "lede": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger. FIFA president Gianni Infantino says any further expansion of the World Cup for 2030 - where six countries are set to host the tournament - ‌will be discussed now the 2026 World Cup has finished. And one solution FIFA are discussing is a 64-team tournament.",
-   "image": "https://e0.365dm.com/26/06/1600x900/skysports-gianni-infantino_7270331.jpg?20260610205832",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Eight things we learned from Spain’s 1-0 victory over Argentina in the 2026 World Cup final",
    "iso": "2026-07-21T21:45:00.000Z",
    "link": "https://www.bavarianfootballworks.com/fifa-world-cup/233342/eight-things-we-learned-from-spains-1-0-victory-over-argentina-in-the-2026-world-cup-final",
    "lede": "In yet another battle of attrition for this World Cup, Spain ousted the defending champs, Argentina, 1-0 in a tense, physical, and sometimes sloppy finale. An extra time banger from Ferran Torres was the difference, but it was much deeper than a timely goal. Argentina’s mastery of referees and the clock betrayed them on the biggest stage, while Spain’s consistency was the difference. Here are some things we learned from the World Cup finale.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286166643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup becoming a 64-team tournament would create logistical challenges - so can Gianni Infantino's idea work?",
+   "iso": "2026-07-21T21:38:16.000Z",
+   "link": "https://www.skysports.com/football/news/12098/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
+   "lede": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger. FIFA president Gianni Infantino says any further expansion of the World Cup for 2030 - where six countries are set to host the tournament - ‌will be discussed now the 2026 World Cup has finished. And one solution FIFA are discussing is a 64-team tournament.",
+   "image": "https://e0.365dm.com/26/06/1600x900/skysports-gianni-infantino_7270331.jpg?20260610205832",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
