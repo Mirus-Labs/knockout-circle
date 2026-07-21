@@ -1,14 +1,44 @@
 {
- "updated": "2026-07-21T22:28:05.011Z",
+ "updated": "2026-07-21T22:38:46.087Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘The scrutiny is constant’: referee Anthony Taylor retires from football",
+   "iso": "2026-07-21T22:20:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance",
+   "lede": "The 47-year-old took charge of five World Cup matches. Taylor has refereed in the Premier League for 16 years. Anthony Taylor has announced his retirement from elite refereeing after a distinguished career spanning more than two decades and 831 matches. One of England’s most accomplished officials, the 47-year-old officiated 668 matches in the professional game in England.",
+   "image": "https://i.guim.co.uk/img/media/87743246c149c5f168ea379f16c9440eb7b287a7/764_0_4429_3543/master/4429.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58ac2659e448fcb29d7037d8d0e4fa6a",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "DECCAN HERALD",
+   "title": "FIFA World Cup 2026 | Spain vs Argentina: A final where ideas clashed",
+   "iso": "2026-07-21T22:13:15.000Z",
+   "link": "https://www.deccanherald.com/opinion/fifa-world-cup-2026-spain-vs-argentina-a-final-where-ideas-clashed-4082250",
+   "lede": "The 2026 FIFA World Cup had unfolded like one of football’s great fairy tales, full of young stars, old masters, dramatic comebacks, and stadiums alive with hope. Yet the final itself felt different. For those who had followed Lionel Messi and Argentina through another remarkable campaign, it ended like an uncomfortable awakening. Spain deservedly defeated Argentina 1-0 after extra time through Ferran Torres’ goal, but the meaning of the evening went far beyond the scoreline.",
+   "image": "https://media.assettype.com/deccanherald%2F2024-05%2Fac067d9e-5f93-4b54-9d5e-e406955948c0%2Ffifa_reuters_1136547_1660638852.jpg?rect=0%2C2%2C700%2C368&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "World Cup becoming a 64-team tournament would create logistical challenges - so can Gianni Infantino's idea work?",
+   "iso": "2026-07-21T21:38:16.000Z",
+   "link": "https://www.skysports.com/football/news/12098/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
+   "lede": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger. FIFA president Gianni Infantino says any further expansion of the World Cup for 2030 - where six countries are set to host the tournament - ‌will be discussed now the 2026 World Cup has finished. And one solution FIFA are discussing is a 64-team tournament.",
+   "image": "https://e0.365dm.com/26/06/1600x900/skysports-gianni-infantino_7270331.jpg?20260610205832",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "REALNOEVREMYA.COM",
    "title": "Messi's tears and Spain's triumph: was the 2026 World Cup final boring?",
    "iso": "2026-07-21T21:00:00.000Z",
    "link": "https://realnoevremya.com/articles/9492-messis-tears-and-spains-triumph-was-the-2026-world-cup-final-boring",
    "lede": "“La Roja” reclaimed the trophy after 16 years! And Argentina's captain couldn't hold back his emotions. The World Cup in North America has officially ended. Spain became the world champion, beating Argentina in the final (1:0).",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DW.COM",
@@ -17,8 +47,8 @@
    "link": "https://www.dw.com/en/fact-check-trump-wasnt-edited-out-of-spain-world-cup-photo/a-78055221",
    "lede": "After Spain won the FIFA World Cup, the Spanish Football Federation posted a photo of the trophy celebrations, raising questions about whether Donald Trump had been edited out. Several posts have been circulating online claiming that US President Donald Trump was edited out of a photo postedby the Spanish Football Federation on its social media accounts. Claim: One post on the social media platform X gained more than 11 million views while making the same claim. \"Lol Spain edited Trump out of the photo,\" the caption read.",
    "image": "https://static.dw.com/image/78056439_6.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "SKY SPORTS",
@@ -27,8 +57,8 @@
    "link": "https://www.skysports.com/football/news/12098/13565780/enzo-fernandez-says-argentina-played-with-pride-and-humility-as-fifa-investigate-world-cup-final-behaviour",
    "lede": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour after the final. The defending champions were beaten 1-0 by Spain on Sunday , with Ferran Torres' strike in the 106th minute securing a second World Cup title. Fernandez was sent off in the game after receiving a second yellow card for a foul on Pau Cubarsi. In a message on Instagram on Tuesday evening, the Chelsea midfielder said: \"As time goes by, you realise there is something much bigger than just a result.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-enzo-fernandez-argentina_7303747.jpg?20260721212439",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "LOS ANGELES TIMES",
@@ -37,18 +67,8 @@
    "link": "https://www.latimes.com/sports/soccer/story/2026-07-21/messi-returns-to-argentina-for-rest-after-world-cup-final-loss-to-spain",
    "lede": "Lionel Messi arrived back in Argentina on Tuesday for a few days of rest following the World Cup final loss to Spain. Messi's private jet landed near his hometown of Rosario from Fort Lauderdale, Fla., at 6:27 a.m. Although many fans were waiting with signs and flags, he did not make a public appearance. “The pain is immense, and this wound will take time to heal,” he posted on his Instagram account.",
    "image": "https://ca-times.brightspotcdn.com/dims4/default/52b9189/2147483647/strip/true/crop/8640x4536+0+1121/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd3%2Fcd%2F053962db4d3db979ec60a510d175%2F23f88897a62b4b95ae0c5b974728a120.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘The scrutiny is constant’: referee Anthony Taylor retires from football",
-   "iso": "2026-07-21T19:59:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance",
-   "lede": "The 47-year-old took charge of five World Cup matches. Taylor has refereed in the Premier League for 16 years. Anthony Taylor has announced his retirement from elite refereeing after a distinguished career spanning more than two decades and 831 matches. One of England’s most accomplished officials, the 47-year-old officiated 668 matches in the professional game in England.",
-   "image": "https://i.guim.co.uk/img/media/87743246c149c5f168ea379f16c9440eb7b287a7/764_0_4429_3543/master/4429.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58ac2659e448fcb29d7037d8d0e4fa6a",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE JERUSALEM POST",
@@ -57,26 +77,6 @@
    "link": "https://www.jpost.com/israel-news/article-903234",
    "lede": "The World Cup final between Argentina and Spain did more than just break hearts on the pitch – it reset the standard for Israeli sports viewership. Even with a 10 p.m. kickoff, the Sunday match secured an extraordinary 40.6% rating for Kan 11, drawing 1,576,000 viewers. This phenomenal turnout easily surpassed the most recent Eurovision final featuring Noam Bettan, which garnered a 32.7% rating and averaged 1.042 million viewers throughout the evening. This impressive turnout makes the recent showdown the most-watched World Cup final in Israel in nearly three decades.",
    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730553",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DIARIO AS",
-   "title": "Rodri becomes 7th player to ‘complete’ football",
-   "iso": "2026-07-21T19:31:40.000Z",
-   "link": "https://en.as.com/soccer/world-cup/rodri-becomes-7th-player-to-complete-football-f202607-n/",
-   "lede": "On July 19, 2026, Spain defeated a resilient Argentina to sew a second star onto its shirt. Like the 2010 world champions, this generation boasts a midfield the envy of every other national team. The difference is that the player who anchors the side and keeps every piece in balance operates at the base of midfield: Rodrigo Hernández. For that reason, Rodri finished the tournament as the World Cup’s best player, adding the Golden Ball to a collection that already included the World Cup, European Championship, Ballon d’Or and Champions League.",
-   "image": "https://img.asmedia.epimg.net/resizer/v2/BB6E7U37BJL4VJI2W3MXP4VHJA.jpg?auth=6152aeee353d0c6b11b0859b3a07f97c5d9e931c85e5e4d1144ac9b285c677ce&width=1472&height=828&smart=true",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Lionel Messi sends emotional message to Argentina fans after World Cup final heartbreak",
-   "iso": "2026-07-21T19:30:00.000Z",
-   "link": "https://sports.yahoo.com/articles/lionel-messi-sends-emotional-message-193000681.html",
-   "lede": "Lionel Messi has sent an emotional message to Argentina supporters following La Albiceleste’s heartbreaking World Cup finale. Messi’s hopes of leading Argentina back-to-back World Cup titles ended with a painful 1-0 defeat to reigning European champions Spain in the final. The defeat left Messi visibly emotional, with the eight-time Balon d’Or winner seen in tears after the final whistle as Argentina’s dream came to an end. The match itself was filled with drama both during and after the game.",
-   "image": "https://s.yimg.com/os/en/football_today_articles_719/449bbec4c3b6020f7669387e933d97f1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
