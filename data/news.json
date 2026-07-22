@@ -1,6 +1,36 @@
 {
- "updated": "2026-07-22T23:17:34.552Z",
+ "updated": "2026-07-22T23:44:50.625Z",
  "news": [
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "How World Cup 2026 proved football has remarkable ability to cure all ills",
+   "iso": "2026-07-22T23:29:49.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
+   "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
+   "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "After the 2026 World Cup crises... the Argentine Federation reveals the truth about its president being summoned before the American judiciary",
+   "iso": "2026-07-22T22:43:25.000Z",
+   "link": "https://www.goal.com/en/lists/after-the-2026-world-cup-crises-the-argentine-federation-reveals-the-truth-about-its-president-being-summoned-before-the-american-judiciary/blt63ddb3a6936ab16a",
+   "lede": "What Did the Argentine Federation Say?!.. The Argentine Football Association settled the \"controversy\" on Wednesday evening over the US judiciary's summoning of its president, Claudio Tapia, on money laundering charges. US authorities are investigating commercial contracts linked to the Argentine Football Association, worth more than 300 million dollars, according to various media sources. These investigations follow the raids on the Argentine Football Association's offices last December.",
+   "image": "https://assets.goal.com/images/v3/getty-2285631020/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2285631020.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England cannot afford trip to amputee World Cup – and the FA will not help",
+   "iso": "2026-07-22T22:33:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help",
+   "lede": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico. Every time Scott Rogers walks into St George’s Park there is a sign on the wall that catches his eye. It boasts that the 330-acre site is the proud home of all England’s football teams. “I look at it every time and go, ‘Well, not all of them’” Rogers says.",
+   "image": "https://i.guim.co.uk/img/media/22fe591d75d8d7a8209b11042e7e33e245a8598c/0_278_1536_1229/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8f6b218a124a7668541a270ef908d08",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Trossard, Ramos, Dumfries: 10 transfers you may have missed during the World Cup",
@@ -8,8 +38,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/22/trossard-ramos-dumfries-10-transfers-you-may-have-missed-during-the-world-cup",
    "lede": "Too engrossed with the World Cup drama to keep up with goings-on in the transfer market? Announced just before England’s soul-sucking semi-final defeat by Argentina, it would have been easy to miss Trossard’s £15.3m move to Istanbul. While, after three and a half seasons and at the age of 31, it feels like his time at Arsenal has come to a natural conclusion, he will be remembered as a player who scored in clutch moments and, ultimately, played a crucial role in the club’s first league title in 22 years. Trossard departs after 174 appearances and 36 goals, a significant portion of which came from the bench in times of desperate need.",
    "image": "https://i.guim.co.uk/img/media/b9a3b9c60d2f80203c3d3f2161ca1ab5f9e4b0bd/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fecc82d6148cbed8f858750d4b3daf6c",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,18 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/22/a-tournament-that-crossed-borders-crunching-the-numbers-on-the-diaspora-world-cup",
    "lede": "Nationality in football is increasingly complex and the influence of players from the diaspora has never been higher at a World Cup. “Nationality says where you come from. And I actually come from four countries: France, Algeria, Nigeria and Great Britain. I consider myself very lucky to possess these four parts, which all enrich me.”",
    "image": "https://i.guim.co.uk/img/media/2260544f9bb477e3a6dcd92148434ae78f9da1ac/168_0_3617_2893/master/3617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6782af20f2615fe5fa49dce37cf05faf",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "MARCA",
-   "title": "The most unusual petition: they are collecting signatures in Argentina to have the final replayed!",
-   "iso": "2026-07-22T21:10:10.000Z",
-   "link": "https://www.marca.com/en/world-cup/2026/07/22/the-most-unusual-petition-they-are-collecting-signatures-in-argentina-to-have-the-final-replayed.html",
-   "lede": "Argentina's defeat against Spain in the 2026 World Cup final continues to generate repercussions. In recent hours, a petition for FIFA to replay the tournament's last match has gained momentum, in which Spain won 1-0 after Ferran Torres' goal in extra time. The initiative, created by a fan identified as Gisela Sánchez, has already gathered thousands of signatures and has reignited the controversy surrounding the outcome of the championship. In recent hours, a petition on the Change.org platform has gained momentum, calling on FIFA to replay the match, considering that the \"controversial and corrupt\" performance of the Slovenian referee Slavko Vincic harmed La Albiceleste in decisive moments of the match.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/22/6a606519a4662.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE DAILY STAR",
@@ -38,18 +58,8 @@
    "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-myth-surrounding-argentinas-victimhood-4229766",
    "lede": "Which team suffered the most at this World Cup? Ask that question and you'll quickly find yourself drowning in conspiracy theories. On one side stand the 2022 World Cup champions and three-time winners Argentina, proudly holding up pamphlets bearing the slogan \"Us against the world\" in bold red. On the other stand, well, the representatives of the other 47 teams at the tournament.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "ENIDLIVE!",
-   "title": "CTB Sports Game On! Features Football Interviews, World Cup, St. Louis Cardinals and More!",
-   "iso": "2026-07-22T20:59:51.000Z",
-   "link": "https://www.enidlive.com/sports-news/local-sports/ctb-sports-game-on-features-football-interviews-world-cup-st-louis-cardinals-and-more/",
-   "lede": "CTB Sports has another great episode coming your way! You can listen LIVE every Wednesday from 5 to 6 p.m. on 93.1, 1390 KCRC & 1640 KZLS, the CTB Sports app, and EnidLIVE.com. In the 1st Half, an interview with OBA Head Football Coach Chris Cayot. In the 2nd Half, interviews with the Kremlin-Hillsdale Head Football Coach James Worley and Timberlake Head Football Coach Garrett Powell.",
-   "image": "https://www.enidlive.com/wp-content/uploads/2025/09/gameonpromopicture-1-3-resized-e1769623145437.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,26 +68,16 @@
    "link": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup",
    "lede": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. Diego Maradona said he was “delighted by Gianni’s initiative” because it allowed each country to dream of reaching the tournament, renewing their passion for football. Joachim Löw, then in charge of the world champions Germany, said: “I don’t think it’s a good idea to dilute the sporting value … In the long term, the quality suffers.”",
    "image": "https://i.guim.co.uk/img/media/77803819668ef82e32e02b61224a52a8799d5392/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=298dbf6b120cdc612785ca699e512f4d",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SPORTSCAGE.COM",
-   "title": "Between The Lines: World Cup could prove the grass really is greener for football",
-   "iso": "2026-07-22T18:52:00.000Z",
-   "link": "https://www.sportscage.com/football/between-the-lines/between-the-lines-world-cup-could-prove-the-grass-really-is-greener-for-football-12577741",
-   "lede": "The 2026 FIFA World Cup may leave a lasting legacy beyond soccer, and it could eventually impact both the NFL and CFL. Many stadiums that typically feature artificial turf installed natural grass to host World Cup matches, reigniting the debate over playing surfaces in professional football. During Sunday's FIFA World Cup final, San Francisco 49ers star tight end George Kittle took to social media, praising the natural grass at MetLife Stadium and urging the NFL to make the switch permanently. Arash Madani believes Kittle's comments reflect a conversation that is only going to grow louder.",
-   "image": "https://www.vmcdn.ca/f/files/sportscage/images/daves-photos/between-the-lines/btl-generic-arash-madani.png;w=1074;h=768;mode=crop",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "Barcelona’s fans are not happy with the World Cup Team of the Tournament",
-   "iso": "2026-07-22T18:50:00.000Z",
-   "link": "https://sports.yahoo.com/articles/barcelona-fans-not-happy-world-185000279.html",
-   "lede": "Supporters of La Liga giants Barcelona the world over have been left bemused by the announcement of the official 2026 World Cup Team of the Tournament. This comes owing to the absence of a leading Blaugrana star, namely Pau Cubarsí. Stopper Cubarsí is for his part of course fresh off nothing short of a spectacular individual campaign at the World Cup. From his berth at the heart of Spain’s backline, the 19-year-old barely put a foot wrong throughout the entire tournament.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/OLFlmo_jiNQMOqzck5XAxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTA7Y2Y9d2VicA--/https://media.zenfs.com/en/get_spanish_football_news_articles_403/c179dcb21d0fa77d3e25586fa261d333",
+   "cat": "REUTERS",
+   "title": "Argentina's football association denies reports Tapia summoned by US courts",
+   "iso": "2026-07-22T20:58:00.000Z",
+   "link": "https://www.reuters.com/sports/soccer/argentina-football-association-denies-reports-tapia-summoned-by-us-courts-2026-07-22/",
+   "lede": "Reporting by Lucila Sigal in Buenos Aires and Maria Tsvetkova in ​New York, Writing by Natalia Siniawski, Editing by Daina Beth Solomon and Toby Davis. Our Standards: The Thomson Reuters Trust Principles., opens new tab. Maria Tsvetkova is an investigative journalist originally from Moscow who focuses on Russia’s invasion of Ukraine as part of an international team of reporters. She has reported from the conflict zones in Ukraine and Nagorno-Karabakh, as well as doing reporting stints in Armenia, Turkey and Iraq.",
+   "image": "https://www.reuters.com/resizer/v2/2RCRTE4LTVKRFEHBBX2K54JDG4.jpg?auth=d23f11a2a24a7696a395396a258ed25ac9cd9d324a4bdcbdc64a175217aed53d&height=1005&width=1920&quality=80&smart=true",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
