@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T22:42:33.841Z",
+ "updated": "2026-07-22T23:17:34.552Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -42,22 +42,22 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "ENIDLIVE!",
+   "title": "CTB Sports Game On! Features Football Interviews, World Cup, St. Louis Cardinals and More!",
+   "iso": "2026-07-22T20:59:51.000Z",
+   "link": "https://www.enidlive.com/sports-news/local-sports/ctb-sports-game-on-features-football-interviews-world-cup-st-louis-cardinals-and-more/",
+   "lede": "CTB Sports has another great episode coming your way! You can listen LIVE every Wednesday from 5 to 6 p.m. on 93.1, 1390 KCRC & 1640 KZLS, the CTB Sports app, and EnidLIVE.com. In the 1st Half, an interview with OBA Head Football Coach Chris Cayot. In the 2nd Half, interviews with the Kremlin-Hillsdale Head Football Coach James Worley and Timberlake Head Football Coach Garrett Powell.",
+   "image": "https://www.enidlive.com/wp-content/uploads/2025/09/gameonpromopicture-1-3-resized-e1769623145437.webp",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup | Billy Munday",
    "iso": "2026-07-22T20:58:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup",
    "lede": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. Diego Maradona said he was “delighted by Gianni’s initiative” because it allowed each country to dream of reaching the tournament, renewing their passion for football. Joachim Löw, then in charge of the world champions Germany, said: “I don’t think it’s a good idea to dilute the sporting value … In the long term, the quality suffers.”",
    "image": "https://i.guim.co.uk/img/media/77803819668ef82e32e02b61224a52a8799d5392/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=298dbf6b120cdc612785ca699e512f4d",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MIRROR",
-   "title": "Argentina coach explains reason behind Dani Olmo 'punch' amid FIFA's World Cup final investigation",
-   "iso": "2026-07-22T20:47:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/news/spain-argentina-fifa-world-cup-37465651",
-   "lede": "Argentina coach Roberto Ayala claimed it was ‘more of a push than anything else’ as he moved to shut down the suggestion he threw a punch at Dani Olmo. Spain secured their second World Cup on Sunday, thanks to Ferran Torres’ extra-time goal. However, the game will be remembered for some pretty disgraceful scenes that came immediately after the final whistle went. The violent scenes began when Nahuel Molina struck Rodri, and Argentina’s assistant coach Ayala was then involved in an altercation with Olmo.",
-   "image": "https://i2-prod.mirror.co.uk/article37454519.ece/ALTERNATES/s1200d/0_ACDO.png",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
