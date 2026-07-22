@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T04:35:15.444Z",
+ "updated": "2026-07-22T04:36:43.458Z",
  "news": [
   {
    "cat": "REDIFF",
@@ -22,24 +22,14 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "SCRIPPS NEWS",
-   "title": "Why Americans call it soccer while the rest of the world calls it football",
-   "iso": "2026-07-22T03:05:36.000Z",
-   "link": "https://www.scrippsnews.com/sports/why-americans-call-it-soccer-while-the-rest-of-the-world-calls-it-football",
-   "lede": "The World Cup Final is Sunday, with Lionel Messi and Lamine Yamal set to face off for the trophy. Millions of Americans have been watching the sport all month — but most of them have been calling it something different than the rest of the world.So why do Americans say \"soccer\" while nearly everyone else says \"football\"? It all starts in 1848, when students at Cambridge University wrote the first set of rules for the game we know today. Those rules centered on kicking a ball with your foot — hence, football.",
-   "image": "https://ewscripps.brightspotcdn.com/dims4/default/fa0e9be/2147483647/strip/true/crop/1024x538+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6b%2F69%2Fc79a299d4857a366b264ea5331cf%2Fap26197064341918.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "SKY SPORTS",
    "title": "World Cup becoming a 64-team tournament would create logistical challenges - so can Gianni Infantino's idea work?",
    "iso": "2026-07-22T02:08:16.000Z",
    "link": "https://www.skysports.com/football/news/12098/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
    "lede": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger. FIFA president Gianni Infantino says any further expansion of the World Cup for 2030 - where six countries are set to host the tournament - ‌will be discussed now the 2026 World Cup has finished. And one solution FIFA are discussing is a 64-team tournament.",
    "image": "https://e0.365dm.com/26/06/1600x900/skysports-gianni-infantino_7270331.jpg?20260610205832",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "CARIBBEANLIFE.COM",
@@ -48,8 +38,8 @@
    "link": "https://www.caribbeanlife.com/spain-fifa-world-cup-champions-argentina/",
    "lede": "Spain claimed the 2026 FIFA World Cup title after super sub Ferran Torres fired Spain to their second men’s World Cup in a dramatic 1-0 victory over Argentina in a thrilling final that captivated football fans around the world. Both sides entered the match in outstanding form, having produced impressive performances throughout the tournament with Argentina chasing yet another World Cup crown. Ferran Torres scored the decisive goal early in the second period of extra time as Spain dominated the match from start to finish. Argentina struggled throughout the final, failing to register a single shot in 120 minutes.",
    "image": "https://www.caribbeanlife.com/wp-content/uploads/2026/07/2026-07-19T233759Z_1011209946_UP1EM7J1TNARA_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?quality=51&w=1200&p=q",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance",
    "lede": "The 47-year-old took charge of five World Cup matches. Taylor has refereed in the Premier League for 16 years. Anthony Taylor has announced his retirement from elite refereeing after a distinguished career spanning more than two decades and 831 matches. One of England’s most accomplished officials, the 47-year-old officiated 668 matches in the professional game in England.",
    "image": "https://i.guim.co.uk/img/media/87743246c149c5f168ea379f16c9440eb7b287a7/764_0_4429_3543/master/4429.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58ac2659e448fcb29d7037d8d0e4fa6a",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,8 +58,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit",
    "lede": "Blatter attacks successor as Fifa president. Javier Tebas says system is ‘rotten at its core’. The Fifa president, Gianni Infantino, has come in for heavy criticism from his predecessor, Sepp Blatter, and the La Liga president, Javier Tebas, with the pair united in the belief that he should stand down. As Spain celebrated their World Cup win on Sunday, Tebas accused Infantino of “destroying the football industry” by prioritising the World Cup over national competitions.",
    "image": "https://i.guim.co.uk/img/media/0c0e829079f0a836e444de0b591f0bbd82847daf/369_0_3686_2949/master/3686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bafc62252594a86f8bd34d61dc3927b2",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -78,6 +68,16 @@
    "link": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
    "lede": "Explosion in ticketing and hospitality revenue goes along with a Fifa desire to recoup lost TV income in future deals. As is often the case, it has been left to Donald Trump to say the quiet bit out loud. “We have to do this again and we have to do it while I’m around, you hear that Gianni?” the US president told Fox News in an interview broadcast in the buildup to the World Cup final.",
    "image": "https://i.guim.co.uk/img/media/6c85b38b0218673516fd6998093449063f739125/382_0_4353_3483/master/4353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5011c2a77232711bc8a6ae99da884cbb",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Five players poised to make big transfers after the World Cup",
+   "iso": "2026-07-22T00:45:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/233442/five-players-poised-to-make-big-transfers-after-the-world-cup-bouaddi-barcola-diomande-lacroix-schjelderup",
+   "lede": "Besides the already established football stars who were expected to deliver great performances in the World Cup, the tournament also gave some other players the opportunity to break through and showcase their talents in the world’s greatest stage, getting the attention of European powerhouses. With the tournament already over, clubs will now focus their attention on bolstering their squads during the current transfer window in anticipation to the start of the domestic leagues. Here are five players expected to get big transfers thanks to their World Cup performances. Ayyoub Bouaddi (Morocco) The 18-year-old midfielder ended up his World Cup performance with an astounding 90% of his passes completed according to Sofascore.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2285419442.jpg?quality=90&strip=all&crop=0%2C10.729759606021%2C100%2C78.540480787959&w=1200",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
