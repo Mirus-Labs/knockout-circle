@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T22:40:29.827Z",
+ "updated": "2026-07-23T22:41:52.212Z",
  "news": [
   {
    "cat": "GOAL.COM",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "PENTICTON HERALD",
+   "title": "Numeris: 77% of Canada saw FIFA men's World Cup; average viewer watched 15 hours",
+   "iso": "2026-07-23T20:35:23.000Z",
+   "link": "https://www.pentictonherald.ca/sports/national_sports/article_5811a4c6-7226-5a98-8010-b19b150fa3fe.html",
+   "lede": "The 2026 FIFA men's World Cup was the most-watched edition of the international soccer tournament in Canadian history, according to an audience measurement organization. Numeris says that 77 per cent of Canada watched the tournament at some point this summer, up from 71 per cent in 2018 and 68 per cent in 2022. The number of hours watched was also up over the previous two tournaments in Russia and Qatar, with the average viewer taking in 15 hours of matches. Canada's men's national team was eliminated from the tournament with a 3-0 loss to Morocco on July 4 in the Round of 16.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/b/82/b82fcf21-3102-5be7-8e54-f9dbcfec916b/6a628124aab1d.image.jpg?crop=640%2C336%2C0%2C45",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "JOURNALISM UK",
    "title": "How the World Cup was really watched: Inside the data behind football's biggest live blogs",
    "iso": "2026-07-23T20:10:42.000Z",
    "link": "https://www.journalism.co.uk/how-the-world-cup-was-really-watched-inside-the-data-behind-footballs-biggest-live-blogs/",
    "lede": "From Curaçao's historic goal to Spain's final glory, analysis of 1,362 World Cup live blogs reveals what kept 24 publishers' audiences hooked (it wasn't just the scoreline). I watched it a lot when I was a kid, but found myself losing interest as I became an adult and increasingly unwilling to waste an afternoon watching a 1-0 game. In time I replaced watching TV with a live blog, typically booting up the Sky Sports News app on my phone or typing the fixture into a Google search bar. It became a much more convenient way to see the scoreline at a glance, the run of play and which players were having a blinder (or a game to forget).",
    "image": "https://storage.ghost.io/c/5c/e7/5ce74819-ead9-4ef3-8ecc-47e8bfde5535/content/images/size/w1200/2026/07/52919951793_66d6b93a56_b-1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "WORLD FOOTBALL INDEX",
@@ -38,8 +48,8 @@
    "link": "https://worldfootballindex.com/2026/07/5-weeks-48-teams-one-summer-to-remember-the-2026-world-cup-through-my-eyes/",
    "lede": "The 2026 World Cup has come to an end, with Spain becoming champions. Prior to the start of the tournament, I set out to write my first, first-person piece on my memories and experiences throughout the World Cup. I felt that after the 2026 World Cup, it would be a fantastic opportunity to do a follow-up and bring up some more memories and experiences that I’ve experienced across this summer’s edition. As I mentioned in the previous piece, the World Cup isn’t just four weeks- sorry, this time, five weeks of football.",
    "image": "https://worldfootballindex.com/wp-content/uploads/2026/07/Rodri-spain-lift-world-cup.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,16 +58,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10-womens-transfers-you-may-have-missed-during-the-mens-world-cup",
    "lede": "Sam Kerr’s and Alexia Putellas’s moves were hard to miss but these transfers may have escaped your attention. There were a host of big women’s football transfers which were hard to miss across June and July, despite the dominance of the men’s World Cup. Among them were Beth Mead’s move from Arsenal to Manchester City, Mary Earps and Georgia Stanway returning to the Women’s Super League with London City Lionesses and Arsenal, Sam Kerr leaving Chelsea to return to Gotham FC and, most prominently, Alexia Putellas’s game-changing switch from Barcelona to London City. But here are 10 transfers you might have missed while attention was focused on the action in the US, Canada and Mexico.",
    "image": "https://i.guim.co.uk/img/media/0e4b9a5efa81b2ec586d5d1c801c550bd750454f/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d0eb789520eddcb0535e2070ba2762e",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Bayern Munich star Michael Olise plays in NYC pickup game",
-   "iso": "2026-07-23T19:00:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/234654/bayern-munich-star-michael-olise-plays-in-nyc-pickup-game",
-   "lede": "You have to give it to Bayern Munich and France superstar Michael Olise, the man does love football. Well, after France lost the third-place game at the World Cup to England, the 24-year-old could not stay away from the game for long, so he joined a pickup game in New York City. Imagine you are stretching trying to get loose after sitting in a cube all day pouring through spreadsheets and you look across the field and have to defend Olise. Not just Olise, though, but Olise wearing some wild pants.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286092887.jpg?quality=90&strip=all&crop=0%2C10.735532279418%2C100%2C78.528935441163&w=1200",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
