@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T17:50:55.641Z",
+ "updated": "2026-07-23T17:51:31.977Z",
  "news": [
   {
    "cat": "THE TIMES OF INDIA",
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE INDEPENDENT",
-   "title": "Fifa World Cup free bets: Betting offers for 2027 Women’s World Cup",
-   "iso": "2026-07-23T15:55:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/world-cup/world-cup-free-bets-b3008344.html",
-   "lede": "Find the best World Cup free bet offers for the 2027 Women’s World Cup. Compare the best World Cup free bets available on the 2027 Women’s World Cup. We review betting offers from licensed UK bookies.",
-   "image": "https://static.independent.co.uk/2026/06/08/16/00/World-Cup-Betting-Sites-Free-Bet-Offers-6.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "YAHOO SPORTS",
    "title": "82,000 Argentina fans sign petition calling for World Cup Final replay over referee controversy",
    "iso": "2026-07-23T15:21:48.000Z",
    "link": "https://sports.yahoo.com/articles/82-000-argentina-fans-sign-152148276.html",
    "lede": "Thousands of furious Argentina supporters are calling for the FIFA World Cup Final to be replayed following what they describe as a \"corrupt\" officiating display. Argentina fell 1-0 to Spain in extra time of the tournament showpiece in New Jersey on Sunday. Ferran Torres' strike proved decisive for the commanding Spanish side, who relentlessly pressured the Argentina goal throughout the game. Defending champions Argentina failed to register a single shot on target in regulation and were reduced to 10 men after Enzo Fernández received a red card in the 93rd minute.",
    "image": "https://s.yimg.com/os/en/all_out_soccer_276/7c1792d6fda21e040001521ddc1759d7",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW ARAB",
@@ -78,6 +68,16 @@
    "link": "https://www.newarab.com/analysis/bright-future-world-cups-legacy-arab-football",
    "lede": "Food security in Gaza improves but remains fragile: UN. 'Sadistic move': Israel begins digging crocodile prison trenches. Inside Egypt's new constitution debate and Sisi's future. The struggle for Suweida's future: A test for Syria's transition.",
    "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2026-07/GettyImages-2224529392.jpg?itok=yoHpnSYB",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "WORLD FOOTBALL INDEX",
+   "title": "Argentina Equal Unwanted Germany Record With World Cup Final Defeat To Spain",
+   "iso": "2026-07-23T14:00:52.000Z",
+   "link": "https://worldfootballindex.com/2026/07/argentina-equal-unwanted-germany-record-with-world-cup-final-defeat-to-spain/",
+   "lede": "Argentina joined Germany in holding one of the least desirable records in FIFA World Cup history after suffering a heartbreaking 1-0 defeat to Spain in the 2026 FIFA World Cup Final. The narrow loss denied La Albiceleste a fourth world title and meant they equalled Germany’s record of four defeats in World Cup finals. Having now reached the final on seven occasions, Argentina’s record stands at three victories and four defeats. The 2026 FIFA World Cup Final proved to be a closely contested affair, with both nations looking to add another star to their famous footballing histories.",
+   "image": "https://worldfootballindex.com/wp-content/uploads/2026/07/scalogentina.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
