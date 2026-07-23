@@ -1,6 +1,56 @@
 {
- "updated": "2026-07-23T07:35:41.616Z",
+ "updated": "2026-07-23T10:06:20.316Z",
  "news": [
+  {
+   "cat": "INDIA TODAY",
+   "title": "How FIFA turned the football World Cup into a $15 billion money machine",
+   "iso": "2026-07-23T10:01:40.000Z",
+   "link": "https://www.indiatoday.in/amp/business/story/fifa-world-cup-2026-real-winner-revenue-15-billion-business-model-spain-messi-2954347-2026-07-23",
+   "lede": "Spain may have lifted the FIFA World Cup trophy, but the tournament's biggest winner never stepped onto the pitch.The Spanish players celebrated with medals around their necks and millions of dollars in prize money after beating Argentina in the final. Across the tournament, FIFA distributed nearly $1 billion in prize money to the 48 participating teams, rewarding performances on the field.Away from the stadiums, however, another number stood out. More than $15 billion.That's how much FIFA now expects to generate from its 2023-2026 commercial cycle, making the 2026 World Cup the most lucrative tournament in its history. Just a year ago, the governing body had projected revenues of around $8.9 billion before repeatedly revising its estimates upward as commercial demand exceeded expectations.The tournament showed that the modern World Cup is no longer just football's biggest spectacle.",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/fifa-world-cup-business-235636955-16x9_0.jpg?VersionId=IiwdBeAK9aKfc2gtsWz87qbvP3.JGoXk",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "ARAB NEWS PK",
+   "title": "Spain top FIFA rankings, Saudi 58th after World Cup",
+   "iso": "2026-07-23T09:17:26.000Z",
+   "link": "https://www.arabnews.pk/node/2651995/football",
+   "lede": "DUBAI: The Saudi Arabian national football team have jumped three places in the FIFA World Rankings, which were announced this week following the World Cup. Spain, who beat Argentina 1-0 on Sunday to claim their second World Cup triumph, climbed to top spot. The Saudi team are now in 58th place globally, and fifth in Asia. The highest-ranked nations from the Asian Football Federation are Japan in 17th, Iran (22nd), Australia (28th), and South Korea (32nd).",
+   "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/23/4734004-1664350831.jpg?itok=3-a4EGvU",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "The president of the Argentine Football Association breaks his silence: do not be fooled by \"conspiracy theories\"",
+   "iso": "2026-07-23T08:54:09.000Z",
+   "link": "https://www.goal.com/en/news/the-president-of-the-argentine-football-association-breaks-his-silence-do-not-be-fooled-by-conspiracy-theories/blta29710ae0aaf9e89",
+   "lede": "Tapia admits that Spain deserved the 2026 World Cup title. The 2026 World Cup final won't be forgotten in a hurry. Not just for the joy that swept across Spain after the coronation, but for the wave of controversy and the hundreds of conspiracy theories that erupted in Argentina after Ferran Torres's goal stripped the \"tango dancers\" of their world crown. Explanations for the defeat have spread like wildfire in Argentina over the past hours.",
+   "image": "https://assets.goal.com/images/v3/getty-2286813370/crop/MM5DENJWGA5DCNBUGA5G433XMU5DMMZRHI2DEMY=/GettyImages-2286813370.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC",
+   "title": "World Cup 2026: Fabian Ruiz and Gavi get weight in tomatoes for win",
+   "iso": "2026-07-23T07:54:03.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cvg840jye74o",
+   "lede": "Ruiz (left) and Gavi were greeted by a large crowd on their return to Los Palacios y Villafranca. Winning the World Cup brings many rewards for players... but receiving your own body weight in tomatoes is surely one of the more unusual. That is what Spain midfielders Fabian Ruiz and Gavi were presented with when they returned to their hometown after being part of the Spain squad that triumphed in North America. The pair come from Los Palacios y Villafranca - a town to the south of Seville that has a population lower than 40,000 - and returned there on Wednesday for an official reception at the town hall.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b526/live/da1a9c10-8662-11f1-93cb-95d7eb12ec49.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "The lie of the beautiful game and a mystery that killed the Arab dream.. 10 lessons learned from the 2026 World Cup",
+   "iso": "2026-07-23T07:46:24.000Z",
+   "link": "https://www.goal.com/en/lists/the-lie-of-the-beautiful-game-and-a-mystery-that-killed-the-arab-dream-10-lessons-learned-from-the-2026-world-cup/bltcdc047b8e31d6788",
+   "lede": "The World Cup that revealed the truth: the tournament that changed the rules of the game. The 2026 World Cup has closed on one of the richest editions for events and stories in the tournament's history. The first finals to feature 48 teams brought striking shifts that redrew parts of the world game, and laid bare truths hidden behind the results and figures. Arab and African teams struggled in the decisive moments.",
+   "image": "https://assets.goal.com/images/v3/bltf0c39ea8d9dda086/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/2286810185.jfif",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup",
@@ -8,75 +58,25 @@
    "link": "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics",
    "lede": "The joy, love, hope and fun provided by fans outweighed the commercialism, extortionate prices and ugly politics. This summer has been so vibrant and full of life. I had my doubts but, as the World Cup approached and Boston got ready to host its first game, I started feeling the excitement and enthusiasm in the air. That mainly had to do with the huge numbers of Scottish fans who arrived for their match against Haiti.",
    "image": "https://i.guim.co.uk/img/media/9500b16fda8961b42153408a7857fff62acb2571/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b15d77bdbab155f2d97613d9429da2ed",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Argentina embarrassed itself after losing to Spain in World Cup final",
-   "iso": "2026-07-23T06:15:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/233667/argentina-embarrassed-itself-after-losing-to-spain-in-world-cup-final",
-   "lede": "There was almost never a doubt that Argentina was going to be upset and maybe even angry after losing to Spain 1-0 in the World Cup final. Sadly, the biggest question was really on how bad things would get toward the end of the match if Argentina was losing, but — as it turns out — it was more about how irate and hostile Argentina would be after the game that really stole show. While not as terrible as some of those clutching their pearls have made it out to be, it was a bit embarrassing, with a dose of being classless mixed in for the 2022 World Cup champions. Here is Fox’s look at part of what happened: [Media: https://twitter.com/FOXSports/status/2078969205018534039?",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286797534.jpg?quality=90&strip=all&crop=0%2C9.2155188900191%2C100%2C81.568962219962&w=1200",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "YAHOO NEWS AUSTRALIA",
-   "title": "World Cup winner's shock claim about rivals following 'terrible' post-match scenes from Argentina",
-   "iso": "2026-07-23T04:02:00.000Z",
-   "link": "https://au.news.yahoo.com/world-cup-winners-shock-claim-about-rivals-following-terrible-post-match-scenes-from-argentina-040228349.html",
-   "lede": "Spain midfielder and World Cup winner Gavi has claimed Leandro Paredes shouldn't be sanctioned after the unsavoury scenes following the final. Spain were deserved winners of the World Cup after their 1-0 win over Argentina. Spain dominated the game with possession and managed to break the deadlock in extra-time thanks to a Ferran Torres goal. Argentina were left devastated after the defeat and unfortunately there were some poor scenes after the game.",
-   "image": "https://s.yimg.com/lo/mysterio/api/1e21f1447f16791f772a30b14334491b1c5ca1ecd6fbb72b4d880972a1ba7e4e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgavi6_9176.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "ONEFOOTBALL",
-   "title": "Record US TV audience for football as 63 million watch Spain beat Argentina in World Cup final",
-   "iso": "2026-07-23T02:37:22.000Z",
-   "link": "https://onefootball.com/en/news/record-us-tv-audience-for-football-as-63-million-watch-spain-beat-argentina-in-world-cup-final-43173669",
-   "lede": "Ronaldo Nazário tears into Argentina after Spain final: “A thrashing”. Spain’s World Cup stars rewarded with their bodyweight in tomatoes. Rodrigo De Paul hits back at critics after Argentina's World Cup final defeat to Spain. Spain vs Argentina Finalíssima ‘to be played’ in November at Lusail.",
-   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43173669%3Fdate=2026-07-23",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "'I'm sorry': Why Argentina's assistant coach Roberto Ayala apologised after FIFA World Cup final",
-   "iso": "2026-07-23T02:30:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/im-sorry-why-argentina-coach-roberto-ayala-apologised-after-fifa-world-cup-final-dani-olmo/articleshow/132570643.cms",
-   "lede": "NEW DELHI: Argentina assistant coach Roberto Ayala has apologised for his altercation with Spain midfielder Dani Olmo after the FIFA World Cup 2026 final, admitting that his actions were unacceptable. The ugly scenes unfolded after Spain defeated Argentina 1-0 in extra time on Sunday to lift the World Cup title. FIFA has since launched an investigation into the post-match brawl. Chaos after the final whistleTensions boiled over immediately after the final whistle as players and staff from both teams became involved in heated confrontations.Spain captain Rodri was seen arguing with Argentina defender Nicolas Otamendi.",
-   "image": "https://static.toiimg.com/thumb/msid-132570670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SPORTSGRID",
-   "title": "Brazil's Repeat World Cup Wins: A Rare Football Feat",
-   "iso": "2026-07-23T01:41:44.000Z",
-   "link": "https://www.sportsgrid.com/soccer/video/brazils-repeat-world-cup-wins-a-rare-football-feat",
-   "lede": "Winning back-to-back FIFA World Cups is an extraordinary achievement that only two nations have managed, with decades passing since these occurrences. However, winning two out of three World Cups is also notable, with Brazil achieving this twice (1962 and 1970, then 1994 and 2002) and Argentina once (1978 and 1986). The significant eight-year gaps between these wins often resulted in vastly different team rosters. For instance, Brazil's 1962 team and its 1970 squad shared only the legendary Pele, who missed the 1962 final due to injury.",
-   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/153185-1920x1080.webp",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Arsenal defender Saliba sidelined for ‘extended period’ due to back injury",
-   "iso": "2026-07-23T07:13:19.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup",
-   "lede": "Centre back William Saliba won't require surgery for injury sustained at World Cup, his club says.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-14T193418Z_605073168_UP1EM7E1ID5O5_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-1784788394_fae4b0-1784788637.jpg?resize=1200%2C630&quality=80",
+   "cat": "INSIDE WORLD FOOTBALL",
+   "title": "Gavi calls for leniency for Paredes after ugly World Cup final bust-up",
+   "iso": "2026-07-23T09:31:27.000Z",
+   "link": "https://www.insideworldfootball.com/2026/07/23/gavi-calls-for-leniency-for-paredes-after-ugly-world-cup-final-bust-up/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "DAZN",
-   "title": "What does the post-World Cup Ballon d'Or power ranking look like?",
-   "iso": "2026-07-23T07:00:19.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/ballon-dor-power-ranking-messi-kane-mbappe/12dfn3c8yr1j81nwtpaahl7vn1",
+   "cat": "FACEBOOK.COM",
+   "title": "The World Cup-bound Philippine women's national football team is gearing up for another major continental run after being drawn into Group G for the upcoming Asian Games. The squad will face a challenging group stage in Nagoya, Japan, sharing the brack",
+   "iso": "2026-07-23T09:17:49.000Z",
+   "link": "https://www.facebook.com/DailyGuardianPH/posts/the-world-cup-bound-philippine-womens-national-football-team-is-gearing-up-for-a/1471799481643497/",
    "lede": "",
+   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/753164386_1039140995528462_8072879686585726620_n.png?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=7vDaiYfKi_QQ7kNvwFgJZyp&_nc_oc=AdoQb22OuuQzCr-l4y5oZ-61hvgVABvWaFwjb7Mh4r47scbwh5yqREnxseMiS16PNFk&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=Qno_8pLFhumCKNl-9voFzg&_nc_ss=7f289&oh=00_AQCDY0dAMmyWhOz8PAuRm05AvCSU05U05TCJSNeZsxGLIg&oe=6A67C02C",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
