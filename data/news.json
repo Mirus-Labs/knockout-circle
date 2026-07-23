@@ -1,6 +1,56 @@
 {
- "updated": "2026-07-23T17:51:31.977Z",
+ "updated": "2026-07-23T19:25:27.874Z",
  "news": [
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Bayern Munich star Michael Olise plays in NYC pickup game",
+   "iso": "2026-07-23T19:00:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/234654/bayern-munich-star-michael-olise-plays-in-nyc-pickup-game",
+   "lede": "You have to give it to Bayern Munich and France superstar Michael Olise, the man does love football. Well, after France lost the third-place game at the World Cup to England, the 24-year-old could not stay away from the game for long, so he joined a pickup game in New York City. Imagine you are stretching trying to get loose after sitting in a cube all day pouring through spreadsheets and you look across the field and have to defend Olise. Not just Olise, though, but Olise wearing some wild pants.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286092887.jpg?quality=90&strip=all&crop=0%2C10.735532279418%2C100%2C78.528935441163&w=1200",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "MOTORSPORT WEEK",
+   "title": "WATCH: Spanish Formula E star talks football after World Cup triumph",
+   "iso": "2026-07-23T19:00:00.000Z",
+   "link": "https://www.motorsportweek.com/2026/07/23/formula-e-world-cup/",
+   "lede": "Cupra Kiro's Pepe Marti told Motorsport Week which member of Spain's victorious World Cup team he most like to take for a hot lap, ahead of this weekend's Formula E Tokyo E-Prix . The Japanese capital plays host to the all-electric championship for the third time, but for the first time, will take place under the city's glittering lights as a night race. Such an event has boosted interest in the race and the championship, and has contributed to the city being given a spot on the calendar for a fourth season in a row, in what will be the first campaign of the upcoming Gen4 era. Marti has excelled in his debut season with the American, Silverstone-based squad, with two podiums, taking him to a current haul of 58 points, 30 more than teammate Dan Ticktum.",
+   "image": "https://www.motorsportweek.com/wp-content/uploads/2026/07/Pepe-Marti-Formula-E-26.webp",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "The president of the Argentine Football Association breaks his silence: do not be fooled by \"conspiracy theories\"",
+   "iso": "2026-07-23T18:23:26.000Z",
+   "link": "https://www.goal.com/en/news/the-president-of-the-argentine-football-association-breaks-his-silence-do-not-be-fooled-by-conspiracy-theories/blta29710ae0aaf9e89",
+   "lede": "Tapia admits that Spain deserved the 2026 World Cup title. The 2026 World Cup final won't be forgotten in a hurry. Not just for the joy that swept across Spain after the coronation, but for the wave of controversy and the hundreds of conspiracy theories that erupted in Argentina after Ferran Torres's goal stripped the \"tango dancers\" of their world crown. Explanations for the defeat have spread like wildfire in Argentina over the past hours.",
+   "image": "https://assets.goal.com/images/v3/getty-2286813370/crop/MM5DENJWGA5DCNBUGA5G433XMU5DMMZRHI2DEMY=/GettyImages-2286813370.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SPORTSGRID",
+   "title": "North Africa's Football Rise: World Cup Dreams Ahead!",
+   "iso": "2026-07-23T17:42:45.000Z",
+   "link": "https://www.sportsgrid.com/soccer/video/north-africas-football-rise-world-cup-dreams-ahead",
+   "lede": "North African football is currently enjoying a significant upswing. As of early 2025, Egypt, Algeria, and Tunisia were all ranked within the top 50 in the FIFA world rankings, with Morocco comfortably positioned within the top 15 for three consecutive years. The forthcoming World Cup in Casablanca 2030 shines a spotlight on Morocco, presenting a potential opportunity for the Atlas Lions to claim football's most coveted trophy. Morocco's impressive performance in the 2022 World Cup solidified its position in football history.",
+   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/151593-1920x1080.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "England World Cup ratings: Every player ranked from first to worst",
+   "iso": "2026-07-23T17:33:38.000Z",
+   "link": "https://www.standard.co.uk/sport/football/england-world-cup-2026-ratings-b1290674.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. While England’s World Cup ended in disappointment, third place marked their best finish since 1966. The Three Lions secured the bronze medal with a 6-4 win over France in Miami, Florida, having been beaten 2-1 by Argentina in Atlanta, Georgia.",
+   "image": "https://static.standard.co.uk/2026/07/20/16/22/England-rankings.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE TIMES OF INDIA",
    "title": "Spain's World Cup triumph ends with players receiving their body weight in tomatoes",
@@ -8,8 +58,18 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spains-world-cup-triumph-ends-with-players-receiving-their-body-weight-in-tomatoes/articleshow/132588361.cms",
    "lede": "Spain's World Cup triumph has brought medals, global recognition and record prize money, but for Fabián Ruiz and Gavi, one of the most memorable rewards arrived hundreds of miles from New York New Jersey Stadium. Football News: After winning the 2026 FIFA World Cup, Spain's Fabián Ruiz and Gavi received a unique hometown honor: their body weight in tomatoes during a civic celebration in Los Palacios y Villafranca. This tradition marks a quirky yet heartfelt tribute to local football heroes following their historic triumph.",
    "image": "https://static.toiimg.com/thumb/msid-132588508,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "How World Cup 2026 proved football has remarkable ability to cure all ills",
+   "iso": "2026-07-23T17:29:51.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
+   "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
+   "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "VAVEL.COM",
@@ -18,66 +78,6 @@
    "link": "https://www.vavel.com/en/football/2026/07/23/1266345-matchwornshirt-auctions-luka-modric-shirt-from-his-final-world-cup-win.html",
    "lede": "MatchWornShirt has launched an exclusive auction offering football fans and collectors the opportunity to own one of the most significant pieces of modern international football memorabilia: Luka Modrić's match-worn and signed home shirt from Croatia's 2-1 victory over Ghana, marking the final FIFA World Cup victory of his iconic career with the Vatreni. The auction opens today and runs until 31st July, giving supporters and collectors worldwide the chance to bid on a shirt worn by one of the game's greatest midfielders during what is expected to be his final FIFA World Cup appearance. Widely regarded as Croatia's greatest-ever player, Modrić has defined an era for both club and country. During his illustrious spell at Real Madrid, he became one of the most decorated midfielders in football history, winning multiple UEFA Champions League titles and the 2018 Ballon d'Or.",
    "image": "https://img.vavel.com/credit-mws-1-1784826318000-43sz47.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Ismail Elfath: Morocco Has What It Takes to Fight for the 2030 World Cup",
-   "iso": "2026-07-23T17:08:44.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/07/331071/ismail-elfath-morocco-has-what-it-takes-to-fight-for-the-2030-world-cup/",
-   "lede": "Casablanca – Moroccan- born American referee Ismail Elfath believes Morocco has what it takes to challenge for the FIFA World Cup title in 2030, saying the Atlas Lions' recent success is the result of years of planning rather than a surprise rise. Speaking in an interview with Saudi newspaper Arriyadiyah, Elfath praised Morocco's long-term football project following the national team's strong performances at the 2026 FIFA World Cup. \"The results Morocco are achieving are no longer surprising,\" Ellfath said. \"They are the product of work that began more than ten years ago through a clear vision focused on investing in infrastructure and developing talent.\"",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-17.39.29.webp",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-   "iso": "2026-07-23T16:45:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card",
-   "lede": "Norwegian federation president: Fifa on a ‘slippery slope’. Trump called Infantino for review of Balogun’s red. Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
-   "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Domestic abuse reports reached record highs in the UK during the 2026 World Cup, figures have shown.",
-   "iso": "2026-07-23T16:07:51.000Z",
-   "link": "https://www.skysports.com/football/news/12098/13566371/world-cup-2026-domestic-abuse-reports-reached-record-high-in-uk-with-major-increase-in-incidents-around-england-games",
-   "lede": "In total, 384 domestic violence incidents were reported during the tournament - representing 17 per cent of the 2,322 incidents reported. Ninety-three per cent occurred around England's matches and only Euro 2020 (held in 2021) recorded more. The rise has been described as a worrying increase, with alcohol once again viewed as the lead contributing factor. \"The vast majority of it [incidents] we'd say were alcohol related and that's a real concern,\" Chief Constable Mark Roberts, the Football Policing National Lead in charge of policing football in the UK, told Sky Sports News .",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-dallas-police-world-cup_7305212.jpg?20260723170447",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "82,000 Argentina fans sign petition calling for World Cup Final replay over referee controversy",
-   "iso": "2026-07-23T15:21:48.000Z",
-   "link": "https://sports.yahoo.com/articles/82-000-argentina-fans-sign-152148276.html",
-   "lede": "Thousands of furious Argentina supporters are calling for the FIFA World Cup Final to be replayed following what they describe as a \"corrupt\" officiating display. Argentina fell 1-0 to Spain in extra time of the tournament showpiece in New Jersey on Sunday. Ferran Torres' strike proved decisive for the commanding Spanish side, who relentlessly pressured the Argentina goal throughout the game. Defending champions Argentina failed to register a single shot on target in regulation and were reduced to 10 men after Enzo Fernández received a red card in the 93rd minute.",
-   "image": "https://s.yimg.com/os/en/all_out_soccer_276/7c1792d6fda21e040001521ddc1759d7",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW ARAB",
-   "title": "A bright future? The World Cup's legacy for Arab football",
-   "iso": "2026-07-23T14:21:51.000Z",
-   "link": "https://www.newarab.com/analysis/bright-future-world-cups-legacy-arab-football",
-   "lede": "Food security in Gaza improves but remains fragile: UN. 'Sadistic move': Israel begins digging crocodile prison trenches. Inside Egypt's new constitution debate and Sisi's future. The struggle for Suweida's future: A test for Syria's transition.",
-   "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2026-07/GettyImages-2224529392.jpg?itok=yoHpnSYB",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "WORLD FOOTBALL INDEX",
-   "title": "Argentina Equal Unwanted Germany Record With World Cup Final Defeat To Spain",
-   "iso": "2026-07-23T14:00:52.000Z",
-   "link": "https://worldfootballindex.com/2026/07/argentina-equal-unwanted-germany-record-with-world-cup-final-defeat-to-spain/",
-   "lede": "Argentina joined Germany in holding one of the least desirable records in FIFA World Cup history after suffering a heartbreaking 1-0 defeat to Spain in the 2026 FIFA World Cup Final. The narrow loss denied La Albiceleste a fourth world title and meant they equalled Germany’s record of four defeats in World Cup finals. Having now reached the final on seven occasions, Argentina’s record stands at three victories and four defeats. The 2026 FIFA World Cup Final proved to be a closely contested affair, with both nations looking to add another star to their famous footballing histories.",
-   "image": "https://worldfootballindex.com/wp-content/uploads/2026/07/scalogentina.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
