@@ -1,15 +1,35 @@
 {
- "updated": "2026-07-23T04:53:48.087Z",
+ "updated": "2026-07-23T07:22:30.433Z",
  "news": [
   {
-   "cat": "YAHOO NEWS AUSTRALIA",
-   "title": "World Cup winner's shock claim about rivals following 'terrible' post-match scenes from Argentina",
-   "iso": "2026-07-23T04:02:00.000Z",
-   "link": "https://au.news.yahoo.com/world-cup-winners-shock-claim-about-rivals-following-terrible-post-match-scenes-from-argentina-040228349.html",
-   "lede": "Spain midfielder and World Cup winner Gavi has claimed Leandro Paredes shouldn't be sanctioned after the unsavoury scenes following the final. Spain were deserved winners of the World Cup after their 1-0 win over Argentina. Spain dominated the game with possession and managed to break the deadlock in extra-time thanks to a Ferran Torres goal. Argentina were left devastated after the defeat and unfortunately there were some poor scenes after the game.",
-   "image": "https://s.yimg.com/lo/mysterio/api/1e21f1447f16791f772a30b14334491b1c5ca1ecd6fbb72b4d880972a1ba7e4e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgavi6_9176.jpg",
+   "cat": "THE GUARDIAN",
+   "title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup",
+   "iso": "2026-07-23T07:01:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics",
+   "lede": "The joy, love, hope and fun provided by fans outweighed the commercialism, extortionate prices and ugly politics. This summer has been so vibrant and full of life. I had my doubts but, as the World Cup approached and Boston got ready to host its first game, I started feeling the excitement and enthusiasm in the air. That mainly had to do with the huge numbers of Scottish fans who arrived for their match against Haiti.",
+   "image": "https://i.guim.co.uk/img/media/9500b16fda8961b42153408a7857fff62acb2571/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b15d77bdbab155f2d97613d9429da2ed",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Argentina embarrassed itself after losing to Spain in World Cup final",
+   "iso": "2026-07-23T06:15:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/233667/argentina-embarrassed-itself-after-losing-to-spain-in-world-cup-final",
+   "lede": "There was almost never a doubt that Argentina was going to be upset and maybe even angry after losing to Spain 1-0 in the World Cup final. Sadly, the biggest question was really on how bad things would get toward the end of the match if Argentina was losing, but — as it turns out — it was more about how irate and hostile Argentina would be after the game that really stole show. While not as terrible as some of those clutching their pearls have made it out to be, it was a bit embarrassing, with a dose of being classless mixed in for the 2022 World Cup champions. Here is Fox’s look at part of what happened: [Media: https://twitter.com/FOXSports/status/2078969205018534039?",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286797534.jpg?quality=90&strip=all&crop=0%2C9.2155188900191%2C100%2C81.568962219962&w=1200",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "How World Cup 2026 proved football has remarkable ability to cure all ills",
+   "iso": "2026-07-23T05:29:51.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
+   "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
+   "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "ONEFOOTBALL",
@@ -18,8 +38,8 @@
    "link": "https://onefootball.com/en/news/record-us-tv-audience-for-football-as-63-million-watch-spain-beat-argentina-in-world-cup-final-43173669",
    "lede": "Ronaldo Nazário tears into Argentina after Spain final: “A thrashing”. Spain’s World Cup stars rewarded with their bodyweight in tomatoes. Rodrigo De Paul hits back at critics after Argentina's World Cup final defeat to Spain. Spain vs Argentina Finalíssima ‘to be played’ in November at Lusail.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43173669%3Fdate=2026-07-23",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -28,56 +48,35 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/im-sorry-why-argentina-coach-roberto-ayala-apologised-after-fifa-world-cup-final-dani-olmo/articleshow/132570643.cms",
    "lede": "NEW DELHI: Argentina assistant coach Roberto Ayala has apologised for his altercation with Spain midfielder Dani Olmo after the FIFA World Cup 2026 final, admitting that his actions were unacceptable. The ugly scenes unfolded after Spain defeated Argentina 1-0 in extra time on Sunday to lift the World Cup title. FIFA has since launched an investigation into the post-match brawl. Chaos after the final whistleTensions boiled over immediately after the final whistle as players and staff from both teams became involved in heated confrontations.Spain captain Rodri was seen arguing with Argentina defender Nicolas Otamendi.",
    "image": "https://static.toiimg.com/thumb/msid-132570670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "SOUTH CHINA MORNING POST",
-   "title": "Vozinha, Haaland named in World Cup dream team, but no place for Kane, Yamal",
-   "iso": "2026-07-23T00:31:01.000Z",
-   "link": "https://www.scmp.com/sport/football/article/3361520/vozinha-haaland-named-world-cup-dream-team-no-place-kane-yamal?utm_source=rss_feed",
-   "lede": "Cabo Verde goalkeeper Vozinha and ⁠Norway striker Erling ⁠Haaland have been ⁠named in the fan-voted Fifa World Cup dream team, with both rewarded for stand-out performances during unexpected runs by their teams. Vozinha topped the goalkeeper ‌vote with 39.6 per cent after a string of impressive displays for World Cup debutants Cabo Verde, taking the place in the team despite Spain’s Unai Simon winning the golden glove, which is selected by a ⁠Fifa technical group. The 40-year-old, who was without a club after ‌leaving Portuguese second-tier side Chaves before the tournament, made seven saves as Cabo Verde held ‌eventual champions Spain to a goalless draw. He also ⁠helped ⁠take eventual finalists Argentina into extra time in the last 32.",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/23/2cd61e1f-b312-49ab-ad71-e6bf3bb7588a_7fa2a41c.jpg?itok=ATpjeKM6&v=1784766652",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "RFI",
-   "title": "Argentine Football Association says US did not detain its president",
-   "iso": "2026-07-23T00:30:17.000Z",
-   "link": "https://www.rfi.fr/en/sports/20260723-argentine-football-association-says-us-did-not-detain-its-president",
-   "lede": "Buenos Aires (Argentina) (AFP) – Argentina's top football officials on Wednesday firmly denied reports that their federation's president and treasurer were detained and questioned upon leaving the United States after the World Cup final. Issued on: 23/07/2026 - 02:30Modified: 23/07/2026 - 02:49. The Argentine Football Association (AFA) did, however, acknowledge a US investigation into a third party with links to the association. The organization issued a statement following media reports that its president Claudio Tapia and treasurer Pablo Toviggino had been detained at New York's John F.",
-   "image": "https://s.rfi.fr/media/display/ad86f656-862d-11f1-b319-005056bfb2b6/w:1280/p:16x9/5ad4d57de9d81c777aa735359ae066a80752a9d0.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "Argentina Vs Spain World Cup Final Analysis | The myth surrounding Argentina’s victimhood",
-   "iso": "2026-07-23T00:10:42.000Z",
-   "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-myth-surrounding-argentinas-victimhood-4229766",
-   "lede": "Which team suffered the most at this World Cup? Ask that question and you'll quickly find yourself drowning in conspiracy theories. On one side stand the 2022 World Cup champions and three-time winners Argentina, proudly holding up pamphlets bearing the slogan \"Us against the world\" in bold red. On the other stand, well, the representatives of the other 47 teams at the tournament.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "cat": "SPORTSGRID",
+   "title": "Brazil's Repeat World Cup Wins: A Rare Football Feat",
+   "iso": "2026-07-23T01:41:44.000Z",
+   "link": "https://www.sportsgrid.com/soccer/video/brazils-repeat-world-cup-wins-a-rare-football-feat",
+   "lede": "Winning back-to-back FIFA World Cups is an extraordinary achievement that only two nations have managed, with decades passing since these occurrences. However, winning two out of three World Cups is also notable, with Brazil achieving this twice (1962 and 1970, then 1994 and 2002) and Argentina once (1978 and 1986). The significant eight-year gaps between these wins often resulted in vastly different team rosters. For instance, Brazil's 1962 team and its 1970 squad shared only the legendary Pele, who missed the 1962 final due to injury.",
+   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/153185-1920x1080.webp",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "Premier League to bring all 20 clubs to U.S. in activation after 2026 World Cup",
-   "iso": "2026-07-22T23:52:17.000Z",
-   "link": "https://sports.yahoo.com/articles/premier-league-bring-20-clubs-235217828.html",
-   "lede": "The 2026 World Cup saw records broken in viewership and attendance as football fans from across the globe descended on the United States, Canada and Mexico for 104 matches. Spain won its second men's World Cup after a summer that featured countless storylines. A quick glance in the streets of social media at any given moment of the tournament saw new fans asking \"Which Premier League team should I support?\" There's a reason that the Premier League, or the Prem, is the one that people want to be a part of.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/lFc35RXrRPkdag4aleWCcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/70d410483a68d8f8a09b3e28e138db51",
+   "cat": "AL JAZEERA",
+   "title": "Arsenal defender Saliba sidelined for ‘extended period’ due to back injury",
+   "iso": "2026-07-23T07:13:19.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup",
+   "lede": "Centre back William Saliba won't require surgery for injury sustained at World Cup, his club says.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-14T193418Z_605073168_UP1EM7E1ID5O5_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-1784788394_fae4b0-1784788637.jpg?resize=1200%2C630&quality=80",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Lionel Messi proved at the World Cup he is the GOAT. But has Rodri entered the conversation?",
-   "iso": "2026-07-23T04:12:30.000Z",
-   "link": "https://www.nytimes.com/athletic/7462942/2026/07/23/rodri-world-cup-goat-lionel-messi/",
-   "lede": "The Manchester City and Spain midfielder stops dreams being realised but made one of his come true at the World Cup.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/20054017/GettyImages-2286809024-1-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "DAZN",
+   "title": "What does the post-World Cup Ballon d'Or power ranking look like?",
+   "iso": "2026-07-23T07:00:19.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/ballon-dor-power-ranking-messi-kane-mbappe/12dfn3c8yr1j81nwtpaahl7vn1",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
