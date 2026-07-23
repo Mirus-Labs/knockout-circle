@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-23T21:45:04.027Z",
+ "updated": "2026-07-23T22:40:29.827Z",
  "news": [
+  {
+   "cat": "GOAL.COM",
+   "title": "The president of the Argentine Football Association breaks his silence: do not be fooled by \"conspiracy theories\"",
+   "iso": "2026-07-23T21:25:20.000Z",
+   "link": "https://www.goal.com/en/news/the-president-of-the-argentine-football-association-breaks-his-silence-do-not-be-fooled-by-conspiracy-theories/blta29710ae0aaf9e89",
+   "lede": "Tapia admits that Spain deserved the 2026 World Cup title. The 2026 World Cup final won't be forgotten in a hurry. Not just for the joy that swept across Spain after the coronation, but for the wave of controversy and the hundreds of conspiracy theories that erupted in Argentina after Ferran Torres's goal stripped the \"tango dancers\" of their world crown. Explanations for the defeat have spread like wildfire in Argentina over the past hours.",
+   "image": "https://assets.goal.com/images/v3/getty-2286813370/crop/MM5DENJWGA5DCNBUGA5G433XMU5DMMZRHI2DEMY=/GettyImages-2286813370.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE TIMES OF INDIA",
    "title": "'Replay the final': More than 88,000 Argentina fans call for replay after bitter World Cup final defeat",
@@ -8,16 +18,6 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/replay-the-final-more-than-88000-argentina-fans-call-for-replay-after-bitter-world-cup-final-defeat/articleshow/132591444.cms",
    "lede": "Spain's dramatic 1-0 extra-time victory over Argentina in the 2026 FIFA World Cup final may have settled the destination of the trophy, but the controversy surrounding the showpiece continues to gather momentum days after the final whistle. Football News: After Argentina's defeat in the World Cup final, over 88,000 fans have signed a petition calling for a replay, citing controversial refereeing decisions. The campaign highlights alleged misconduct by referee Slavko Vinčić, leading to accusations of corruption and demanding an investigation by FIFA.",
    "image": "https://static.toiimg.com/thumb/msid-132591584,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "PENTICTON HERALD",
-   "title": "Numeris: 77% of Canada saw FIFA men's World Cup; average viewer watched 15 hours",
-   "iso": "2026-07-23T20:35:23.000Z",
-   "link": "https://www.pentictonherald.ca/sports/national_sports/article_5811a4c6-7226-5a98-8010-b19b150fa3fe.html",
-   "lede": "The 2026 FIFA men's World Cup was the most-watched edition of the international soccer tournament in Canadian history, according to an audience measurement organization. Numeris says that 77 per cent of Canada watched the tournament at some point this summer, up from 71 per cent in 2018 and 68 per cent in 2022. The number of hours watched was also up over the previous two tournaments in Russia and Qatar, with the average viewer taking in 15 hours of matches. Canada's men's national team was eliminated from the tournament with a 3-0 loss to Morocco on July 4 in the Round of 16.",
-   "image": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/b/82/b82fcf21-3102-5be7-8e54-f9dbcfec916b/6a628124aab1d.image.jpg?crop=640%2C336%2C0%2C45",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Bayern Munich star Michael Olise plays in NYC pickup game",
+   "iso": "2026-07-23T19:00:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/234654/bayern-munich-star-michael-olise-plays-in-nyc-pickup-game",
+   "lede": "You have to give it to Bayern Munich and France superstar Michael Olise, the man does love football. Well, after France lost the third-place game at the World Cup to England, the 24-year-old could not stay away from the game for long, so he joined a pickup game in New York City. Imagine you are stretching trying to get loose after sitting in a cube all day pouring through spreadsheets and you look across the field and have to defend Olise. Not just Olise, though, but Olise wearing some wild pants.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286092887.jpg?quality=90&strip=all&crop=0%2C10.735532279418%2C100%2C78.528935441163&w=1200",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "MOTORSPORT WEEK",
    "title": "WATCH: Spanish Formula E star talks football after World Cup triumph",
    "iso": "2026-07-23T19:00:00.000Z",
    "link": "https://www.motorsportweek.com/2026/07/23/formula-e-world-cup/",
    "lede": "Cupra Kiro's Pepe Marti told Motorsport Week which member of Spain's victorious World Cup team he most like to take for a hot lap, ahead of this weekend's Formula E Tokyo E-Prix . The Japanese capital plays host to the all-electric championship for the third time, but for the first time, will take place under the city's glittering lights as a night race. Such an event has boosted interest in the race and the championship, and has contributed to the city being given a spot on the calendar for a fourth season in a row, in what will be the first campaign of the upcoming Gen4 era. Marti has excelled in his debut season with the American, Silverstone-based squad, with two podiums, taking him to a current haul of 58 points, 30 more than teammate Dan Ticktum.",
    "image": "https://www.motorsportweek.com/wp-content/uploads/2026/07/Pepe-Marti-Formula-E-26.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,16 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card",
    "lede": "Norwegian federation president: Fifa on a ‘slippery slope’. Trump called Infantino for review of Balogun’s red. Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
    "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SPORTSGRID",
-   "title": "North Africa's Football Rise: World Cup Dreams Ahead!",
-   "iso": "2026-07-23T17:42:45.000Z",
-   "link": "https://www.sportsgrid.com/soccer/video/north-africas-football-rise-world-cup-dreams-ahead",
-   "lede": "North African football is currently enjoying a significant upswing. As of early 2025, Egypt, Algeria, and Tunisia were all ranked within the top 50 in the FIFA world rankings, with Morocco comfortably positioned within the top 15 for three consecutive years. The forthcoming World Cup in Casablanca 2030 shines a spotlight on Morocco, presenting a potential opportunity for the Atlas Lions to claim football's most coveted trophy. Morocco's impressive performance in the 2022 World Cup solidified its position in football history.",
-   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/151593-1920x1080.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
