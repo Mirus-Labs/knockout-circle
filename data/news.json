@@ -1,6 +1,46 @@
 {
- "updated": "2026-07-23T01:17:47.353Z",
+ "updated": "2026-07-23T04:41:38.158Z",
  "news": [
+  {
+   "cat": "YAHOO NEWS AUSTRALIA",
+   "title": "World Cup winner's shock claim about rivals following 'terrible' post-match scenes from Argentina",
+   "iso": "2026-07-23T04:02:00.000Z",
+   "link": "https://au.news.yahoo.com/world-cup-winners-shock-claim-about-rivals-following-terrible-post-match-scenes-from-argentina-040228349.html",
+   "lede": "Spain midfielder and World Cup winner Gavi has claimed Leandro Paredes shouldn't be sanctioned after the unsavoury scenes following the final. Spain were deserved winners of the World Cup after their 1-0 win over Argentina. Spain dominated the game with possession and managed to break the deadlock in extra-time thanks to a Ferran Torres goal. Argentina were left devastated after the defeat and unfortunately there were some poor scenes after the game.",
+   "image": "https://s.yimg.com/lo/mysterio/api/1e21f1447f16791f772a30b14334491b1c5ca1ecd6fbb72b4d880972a1ba7e4e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgavi6_9176.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "ONEFOOTBALL",
+   "title": "Record US TV audience for football as 63 million watch Spain beat Argentina in World Cup final",
+   "iso": "2026-07-23T02:37:22.000Z",
+   "link": "https://onefootball.com/en/news/record-us-tv-audience-for-football-as-63-million-watch-spain-beat-argentina-in-world-cup-final-43173669",
+   "lede": "Ronaldo Nazário tears into Argentina after Spain final: “A thrashing”. Spain’s World Cup stars rewarded with their bodyweight in tomatoes. Rodrigo De Paul hits back at critics after Argentina's World Cup final defeat to Spain. Spain vs Argentina Finalíssima ‘to be played’ in November at Lusail.",
+   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43173669%3Fdate=2026-07-23",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "'I'm sorry': Why Argentina's assistant coach Roberto Ayala apologised after FIFA World Cup final",
+   "iso": "2026-07-23T02:30:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/im-sorry-why-argentina-coach-roberto-ayala-apologised-after-fifa-world-cup-final-dani-olmo/articleshow/132570643.cms",
+   "lede": "NEW DELHI: Argentina assistant coach Roberto Ayala has apologised for his altercation with Spain midfielder Dani Olmo after the FIFA World Cup 2026 final, admitting that his actions were unacceptable. The ugly scenes unfolded after Spain defeated Argentina 1-0 in extra time on Sunday to lift the World Cup title. FIFA has since launched an investigation into the post-match brawl. Chaos after the final whistleTensions boiled over immediately after the final whistle as players and staff from both teams became involved in heated confrontations.Spain captain Rodri was seen arguing with Argentina defender Nicolas Otamendi.",
+   "image": "https://static.toiimg.com/thumb/msid-132570670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SPORTSGRID",
+   "title": "Brazil's Repeat World Cup Wins: A Rare Football Feat",
+   "iso": "2026-07-23T01:41:44.000Z",
+   "link": "https://www.sportsgrid.com/soccer/video/brazils-repeat-world-cup-wins-a-rare-football-feat",
+   "lede": "Winning back-to-back FIFA World Cups is an extraordinary achievement that only two nations have managed, with decades passing since these occurrences. However, winning two out of three World Cups is also notable, with Brazil achieving this twice (1962 and 1970, then 1994 and 2002) and Argentina once (1978 and 1986). The significant eight-year gaps between these wins often resulted in vastly different team rosters. For instance, Brazil's 1962 team and its 1970 squad shared only the legendary Pele, who missed the 1962 final due to injury.",
+   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/153185-1920x1080.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "SOUTH CHINA MORNING POST",
    "title": "Vozinha, Haaland named in World Cup dream team, but no place for Kane, Yamal",
@@ -8,76 +48,36 @@
    "link": "https://www.scmp.com/sport/football/article/3361520/vozinha-haaland-named-world-cup-dream-team-no-place-kane-yamal?utm_source=rss_feed",
    "lede": "Cabo Verde goalkeeper Vozinha and ⁠Norway striker Erling ⁠Haaland have been ⁠named in the fan-voted Fifa World Cup dream team, with both rewarded for stand-out performances during unexpected runs by their teams. Vozinha topped the goalkeeper ‌vote with 39.6 per cent after a string of impressive displays for World Cup debutants Cabo Verde, taking the place in the team despite Spain’s Unai Simon winning the golden glove, which is selected by a ⁠Fifa technical group. The 40-year-old, who was without a club after ‌leaving Portuguese second-tier side Chaves before the tournament, made seven saves as Cabo Verde held ‌eventual champions Spain to a goalless draw. He also ⁠helped ⁠take eventual finalists Argentina into extra time in the last 32.",
    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/23/2cd61e1f-b312-49ab-ad71-e6bf3bb7588a_7fa2a41c.jpg?itok=ATpjeKM6&v=1784766652",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "How World Cup 2026 proved football has remarkable ability to cure all ills",
-   "iso": "2026-07-22T23:29:49.000Z",
-   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
-   "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
-   "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "After the 2026 World Cup crises... the Argentine Federation reveals the truth about its president being summoned before the American judiciary",
-   "iso": "2026-07-22T22:43:25.000Z",
-   "link": "https://www.goal.com/en/lists/after-the-2026-world-cup-crises-the-argentine-federation-reveals-the-truth-about-its-president-being-summoned-before-the-american-judiciary/blt63ddb3a6936ab16a",
-   "lede": "What Did the Argentine Federation Say?!.. The Argentine Football Association settled the \"controversy\" on Wednesday evening over the US judiciary's summoning of its president, Claudio Tapia, on money laundering charges. US authorities are investigating commercial contracts linked to the Argentine Football Association, worth more than 300 million dollars, according to various media sources. These investigations follow the raids on the Argentine Football Association's offices last December.",
-   "image": "https://assets.goal.com/images/v3/getty-2285631020/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2285631020.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "England cannot afford trip to amputee World Cup – and the FA will not help",
-   "iso": "2026-07-22T22:33:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help",
-   "lede": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico. Every time Scott Rogers walks into St George’s Park there is a sign on the wall that catches his eye. It boasts that the 330-acre site is the proud home of all England’s football teams. “I look at it every time and go, ‘Well, not all of them’” Rogers says.",
-   "image": "https://i.guim.co.uk/img/media/22fe591d75d8d7a8209b11042e7e33e245a8598c/0_278_1536_1229/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8f6b218a124a7668541a270ef908d08",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "A host of issues: World Cup focus turns to Morocco with costs and legacy topping agenda",
-   "iso": "2026-07-22T22:15:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/22/host-morocco-2030-world-cup-costs-infrastructure-legacy",
-   "lede": "With just over 1,400 days to go until 2030 kicks off, the co-hosts are facing a series of challenges familiar to their South African predecessors. Morocco’s World Cup adventure came to a halt with their quarter-final defeat by France. But taking a break, even for a brief post-season summer, is no option for officials of the FRMF, the country’s football federation. The Women’s Africa Cup of Nations (Wafcon), in its newly expanded 16-team format, begins in Rabat on Sunday, a week after the World Cup final in New Jersey, and Morocco then hosts the Under-17 Women’s World Cup in the autumn.",
-   "image": "https://i.guim.co.uk/img/media/85e91c45e3b3358548a780d0b360c70cb42b5bf7/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6629529157009b341d49b759a05522e5",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Trossard, Ramos, Dumfries: 10 transfers you may have missed during the World Cup",
-   "iso": "2026-07-22T21:59:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/22/trossard-ramos-dumfries-10-transfers-you-may-have-missed-during-the-world-cup",
-   "lede": "Too engrossed with the World Cup drama to keep up with goings-on in the transfer market? Announced just before England’s soul-sucking semi-final defeat by Argentina, it would have been easy to miss Trossard’s £15.3m move to Istanbul. While, after three and a half seasons and at the age of 31, it feels like his time at Arsenal has come to a natural conclusion, he will be remembered as a player who scored in clutch moments and, ultimately, played a crucial role in the club’s first league title in 22 years. Trossard departs after 174 appearances and 36 goals, a significant portion of which came from the bench in times of desperate need.",
-   "image": "https://i.guim.co.uk/img/media/b9a3b9c60d2f80203c3d3f2161ca1ab5f9e4b0bd/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fecc82d6148cbed8f858750d4b3daf6c",
+   "cat": "RFI",
+   "title": "Argentine Football Association says US did not detain its president",
+   "iso": "2026-07-23T00:30:17.000Z",
+   "link": "https://www.rfi.fr/en/sports/20260723-argentine-football-association-says-us-did-not-detain-its-president",
+   "lede": "Buenos Aires (Argentina) (AFP) – Argentina's top football officials on Wednesday firmly denied reports that their federation's president and treasurer were detained and questioned upon leaving the United States after the World Cup final. Issued on: 23/07/2026 - 02:30Modified: 23/07/2026 - 02:49. The Argentine Football Association (AFA) did, however, acknowledge a US investigation into a third party with links to the association. The organization issued a statement following media reports that its president Claudio Tapia and treasurer Pablo Toviggino had been detained at New York's John F.",
+   "image": "https://s.rfi.fr/media/display/ad86f656-862d-11f1-b319-005056bfb2b6/w:1280/p:16x9/5ad4d57de9d81c777aa735359ae066a80752a9d0.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Eight things we learned from Spain’s 1-0 victory over Argentina in the 2026 World Cup final",
-   "iso": "2026-07-22T21:45:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/233342/eight-things-we-learned-from-spains-1-0-victory-over-argentina-in-the-2026-world-cup-final",
-   "lede": "In yet another battle of attrition for this World Cup, Spain ousted the defending champs, Argentina, 1-0 in a tense, physical, and sometimes sloppy finale. An extra time banger from Ferran Torres was the difference, but it was much deeper than a timely goal. Argentina’s mastery of referees and the clock betrayed them on the biggest stage, while Spain’s consistency was the difference. Here are some things we learned from the World Cup finale.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286166643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "cat": "THE DAILY STAR",
+   "title": "Argentina Vs Spain World Cup Final Analysis | The myth surrounding Argentina’s victimhood",
+   "iso": "2026-07-23T00:10:42.000Z",
+   "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-myth-surrounding-argentinas-victimhood-4229766",
+   "lede": "Which team suffered the most at this World Cup? Ask that question and you'll quickly find yourself drowning in conspiracy theories. On one side stand the 2022 World Cup champions and three-time winners Argentina, proudly holding up pamphlets bearing the slogan \"Us against the world\" in bold red. On the other stand, well, the representatives of the other 47 teams at the tournament.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "A tournament that crossed borders: crunching the numbers on the diaspora World Cup",
-   "iso": "2026-07-22T21:16:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/22/a-tournament-that-crossed-borders-crunching-the-numbers-on-the-diaspora-world-cup",
-   "lede": "Nationality in football is increasingly complex and the influence of players from the diaspora has never been higher at a World Cup. “Nationality says where you come from. And I actually come from four countries: France, Algeria, Nigeria and Great Britain. I consider myself very lucky to possess these four parts, which all enrich me.”",
-   "image": "https://i.guim.co.uk/img/media/2260544f9bb477e3a6dcd92148434ae78f9da1ac/168_0_3617_2893/master/3617.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6782af20f2615fe5fa49dce37cf05faf",
+   "cat": "YAHOO SPORTS",
+   "title": "Premier League to bring all 20 clubs to U.S. in activation after 2026 World Cup",
+   "iso": "2026-07-22T23:52:17.000Z",
+   "link": "https://sports.yahoo.com/articles/premier-league-bring-20-clubs-235217828.html",
+   "lede": "The 2026 World Cup saw records broken in viewership and attendance as football fans from across the globe descended on the United States, Canada and Mexico for 104 matches. Spain won its second men's World Cup after a summer that featured countless storylines. A quick glance in the streets of social media at any given moment of the tournament saw new fans asking \"Which Premier League team should I support?\" There's a reason that the Premier League, or the Prem, is the one that people want to be a part of.",
+   "image": "https://s.yimg.com/ny/api/res/1.2/lFc35RXrRPkdag4aleWCcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/70d410483a68d8f8a09b3e28e138db51",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
