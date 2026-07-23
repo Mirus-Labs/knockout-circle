@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T23:42:36.395Z",
+ "updated": "2026-07-23T23:42:52.580Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ESPN PHILIPPINES",
-   "title": "Colombia backs Néstor Lorenzo with extension after World Cup",
-   "iso": "2026-07-23T23:20:09.000Z",
-   "link": "https://www.espn.ph/football/story/_/id/49435363/colombia-backs-nestor-lorenzo-extension-world-cup",
-   "lede": "",
+   "cat": "THE GUARDIAN",
+   "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
+   "iso": "2026-07-23T18:34:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card",
+   "lede": "Norwegian federation president: Fifa on a ‘slippery slope’. Trump called Infantino for review of Balogun’s red. Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
+   "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
