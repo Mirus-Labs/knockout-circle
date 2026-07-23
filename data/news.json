@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-23T12:03:30.333Z",
+ "updated": "2026-07-23T12:04:34.615Z",
  "news": [
   {
    "cat": "TALKSPORT",
    "title": "World's biggest football stadium built to fight Bernabéu for World Cup final",
    "iso": "2026-07-23T11:31:03.000Z",
    "link": "https://talksport.com/football/world-cup/4449822/2030-final-casablanca-worlds-biggest-stadium-morocco-spain-bernabeu/",
-   "lede": "Spain and Morocco are fighting for the right to host the 2030 World Cup final. Morocco is building the biggest football stadium on the planet in the hopes of landing the World Cup final. The 2030 edition is being held across six countries in three continents, 100 years after the iconic tournament made its debut. Real Madrid‘s renovated Santiago Bernabéu, which cost $1.91 billion, is the favorite to land the showpiece.",
+   "lede": "The 2030 edition is being held across six countries in three continents, 100 years after the iconic tournament made its debut. Real Madrid's renovated Santiago Bernabéu, which cost $1.91 billion, is the favorite to land the showpiece. But there is a growing movement calling for Morocco to be given the honor. New footage revealed The Grand Stade Hassan II taking shape in El Mansouria -- around 25 miles north of Casablanca.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/115-000-capacity-stade-hassan-926589065_abad68.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "⚽",
    "bg": "#1d6f42"
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "EUROVISION NEWS SPOTLIGHT",
-   "title": "Dispatch: Fact-checking the World Cup final's fallout",
-   "iso": "2026-07-23T09:33:19.000Z",
-   "link": "https://spotlight.ebu.ch/p/world-cup-2026-final-fact-check",
-   "lede": "When Spain overcame Argentina after a tense final to win the 2026 FIFA World Cup on Sunday evening, it capped off six weeks of fierce competition that was accompanied online by plenty of commentary, claims and politics. Months before the tournament even began, football’s governing body came under intense scrutiny for its ticket prices and its awarding of a new peace prize to U.S. As the tournament got underway, much of the focus returned to the football. But all the way to the end, the match-ups were being linked to geopolitical narratives while fake, AI-generated content continued to proliferate.",
-   "image": "https://substackcdn.com/image/fetch/$s_!lami!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dcd0b39-05b5-41c9-a587-d9f68194231f_1456x1048.png",
+   "cat": "ARAB NEWS PK",
+   "title": "Spain top FIFA rankings, Saudi 58th after World Cup",
+   "iso": "2026-07-23T09:17:26.000Z",
+   "link": "https://www.arabnews.pk/node/2651995/football",
+   "lede": "DUBAI: The Saudi Arabian national football team have jumped three places in the FIFA World Rankings, which were announced this week following the World Cup. Spain, who beat Argentina 1-0 on Sunday to claim their second World Cup triumph, climbed to top spot. The Saudi team are now in 58th place globally, and fifth in Asia. The highest-ranked nations from the Asian Football Federation are Japan in 17th, Iran (22nd), Australia (28th), and South Korea (32nd).",
+   "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/07/23/4734004-1664350831.jpg?itok=3-a4EGvU",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
