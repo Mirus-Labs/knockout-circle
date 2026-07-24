@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T11:49:31.162Z",
+ "updated": "2026-07-24T11:57:21.400Z",
  "news": [
   {
    "cat": "FLASHSCORE.COM",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "GOAL.COM",
-   "title": "With Yamal and Neymar taking part: Darbha begins Kings League World Cup with a clash against the title holders",
-   "iso": "2026-07-24T11:16:37.000Z",
-   "link": "https://www.goal.com/en/news/with-yamal-and-neymar-taking-part-derbache-begins-the-kings-league-world-cup-with-a-clash-against-the-defending-champions/bltbbcd909e941989c0",
-   "lede": "Teams captained by Yamal and Neymar to take part alongside an elite selection of football stars and content creators. The Kings League World Cup gets under way in Milan from 26 July to 1 August, bringing together the best 16 teams from across the world. This edition unites the elite champions of the global leagues and features teams headed by some of world football's biggest names, among them Spain's World Cup winner Lamine Yamal and Brazilian star Neymar. Two teams carry the flag for the Middle East and North Africa.",
-   "image": "https://assets.goal.com/images/v3/blt6a2b52ee8dbbe81c/crop/MM5DSNZWHI2TIOJ2NZXXOZJ2GU2DUMRVGU======/image00003.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente",
    "iso": "2026-07-24T10:59:00.000Z",
    "link": "https://www.theguardian.com/football/2026/jul/24/argentina-behaviour-world-cup-final-intolerable-de-la-fuente",
    "lede": "Spain head coach hits out at ‘acts of aggression’. Fifa investigation into incident yet to result in sanctions. Spain’s head coach, Luis de la Fuente, has hit out at the “intolerable, unacceptable” behaviour of Argentina players in the immediate aftermath of Sunday’s World Cup final. At the forefront were Nahuel Molina and Leandro Paredes, who attacked Rodri and Eric García respectively at New York New Jersey Stadium as Spain’s players celebrated winning the World Cup for a second time in the country’s history.",
    "image": "https://i.guim.co.uk/img/media/2976b2188908411e2a820c9394212a1ec316190e/599_203_2145_1716/master/2145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97b615adc6ea7e91c56063a7ff34f2d6",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach",
    "lede": "Former Liverpool coach replaces Julian Nagelsmann. Germany suffered exit to Paraguay at World Cup. Jürgen Klopp is to return to the dugout after being appointed head coach of the Germany men’s national side until 2030. The 59-year-old takes over from Julian Nagelsmann in the job after Germany’s humbling last-32 defeat by Paraguay at the World Cup.",
    "image": "https://i.guim.co.uk/img/media/0cde36a23ad3614db87654faf4fcc7808b6cfe9f/83_0_2958_2366/master/2958.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa603e09ec360839c892c1056cddba3b",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,36 +38,44 @@
    "link": "https://www.theguardian.com/football/picture/2026/jul/24/david-squires-on-the-notable-people-and-big-moments-from-world-cup-2026",
    "lede": "Our cartoonist looks back at the big stories and headline-generating characters at the biggest World Cup ever. Buy a cartoon | Some of David’s favourite works. And his latest book, Chaos in the Box: get it now.",
    "image": "https://i.guim.co.uk/img/media/286b967b17047216a8b7dae18debe32af2ee7b6d/0_1816_3968_3173/master/3968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d8963f59d639ec173789858b680d4c0",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "BEIN SPORTS",
+   "title": "Jürgen Klopp Appointed New Coach of Germany with Contract Until Euro 2028 and World Cup 2030",
+   "iso": "2026-07-24T11:47:02.000Z",
+   "link": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/j%C3%BCrgen-klopp-appointed-new-coach-of-germany-with-contract-until-euro-2028-and-world-cup-2030-2026-07-24",
+   "lede": "A return that promises to shake the history of German football, with Klopp at the helm and a horizon that is still being written.",
+   "image": "https://prod-media.beinsports.com/image/1784893110399_caf1c74e-1617-40b9-9fc3-11d6d84123dd.1080.JPG",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "TALKSPORT",
-   "title": "Paredes drops Messi retirement bombshell in rapid return to football",
-   "iso": "2026-07-24T10:07:54.000Z",
-   "link": "https://talksport.com/football/world-cup/4455754/leandro-paredes-lionel-messi-retirement-argentina-boca-juniors/",
-   "lede": "Speculation has been rife over Messi's international future after he was unable to inspire his country to World Cup glory, as they were beaten 1-0 by Spain after extra-time in a one-sided final. Ferran Torres scored the decisive goal in the 106th-minute, with the match being marred by ugly scenes afterwards. A mass brawl broke out when Argentina's players were involved in a series of bust-ups, with midfielder Paredes at the heart of this as he threw punches and grappled with Spain's Eric Garcia and Gavi. Meanwhile Messi was left heartbroken by the defeat in New York, breaking down in tears after receiving his runners-up medal.",
-   "image": "https://talksport.com/wp-content/uploads/2026/07/leandro-paredes-1097248260.jpg?strip=all&quality=100&w=1866&h=1045&crop=1",
+   "cat": "THE NEW YORK TIMES",
+   "title": "FIFA, global advisory body clash over potential betting irregularities at World Cup",
+   "iso": "2026-07-24T11:45:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7463768/2026/07/23/world-cup-betting-irregularities-fifa/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "ALL-STARMAGAZINE.COM",
-   "title": "Smart Communications powers unforgettable FIFA World Cup viewing parties across Kampai, Nolita Joe’s and Scratch",
-   "iso": "2026-07-24T09:52:24.000Z",
-   "link": "https://all-starmagazine.com/news-and-updates/smart-communications-fifa-world-cup-viewing-parties/",
-   "lede": "Football fans found more than just a place to watch the game—they found the party. Across the two FIFA World Cup semifinal matches and the highly anticipated final, Smart Communications, as co-presenter, teamed up with Kampai, Nolita Joe’s, and Scratch to transform match nights into one of the city’s most exciting football celebrations. The three venues welcomed hundreds of football fans, bringing together great food, flowing drinks, music, and an electric atmosphere that lasted until the final whistle. What made the experience stand out was its Double Party Concept—starting with a late-night pre-game party complete with DJs, cocktails, and football-themed activities before seamlessly transitioning into the live match screenings.",
-   "image": "https://all-starmagazine.com/wp-content/uploads/2026/07/WEB-BANNER_Scratch-Manila.jpg",
+   "cat": "REUTERS",
+   "title": "Moriyasu targets Asian Cup title after Japan extend coach's tenure",
+   "iso": "2026-07-24T11:35:44.000Z",
+   "link": "https://www.reuters.com/sports/soccer/moriyasu-targets-asian-cup-title-after-japan-extend-coachs-tenure-2026-07-24/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "DW.COM",
-   "title": "Klopp named new head coach of Germany men's football team",
-   "iso": "2026-07-24T09:51:34.000Z",
-   "link": "https://www.dw.com/en/klopp-named-new-head-coach-of-germany-mens-football-team/a-78095577",
-   "lede": "Germany has turned to Jürgen Klopp to lead a new era for the four-time world champions after their disappointing World Cup exit, with hopes of building toward future international tournaments. The German Football Association (DFB) has appointed Jürgen Klopp as the new head coach of the national team on Friday, ending speculation about who would succeed Julian Nagelsmann. DFB President Bernd Neuendorf said the association's governing bodies had unanimously approved Klopp's appointment, describing him as the \"ideal choice\" for the role. \"It is a great honor to sit here today,\" Klopp said at the press conference announcing his appointment, adding he was \"delighted.\"",
-   "image": "https://static.dw.com/image/78097392_6.jpg",
+   "cat": "BLEACHER REPORT",
+   "title": "BS Meter on the Latest Transfer Rumors After the 2026 World Cup",
+   "iso": "2026-07-24T11:30:29.000Z",
+   "link": "https://bleacherreport.com/articles/25457307-bs-meter-latest-transfer-rumors-after-2026-world-cup",
+   "lede": "The 2026 World Cup in Canada, Mexico, and the United States is over after a thrilling five weeks of action.",
+   "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2286162874_0_large_cropped.jpg?w=1120&h=630",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
