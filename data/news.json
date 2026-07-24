@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T22:44:05.455Z",
+ "updated": "2026-07-24T22:44:59.256Z",
  "news": [
   {
    "cat": "THE TIMES OF INDIA",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "LOCAL 3 NEWS",
+   "title": "Chattanooga hosting World Cup winner Team Spain ‘exceeds’ tourism expectations",
+   "iso": "2026-07-24T19:40:00.000Z",
+   "link": "https://www.local3news.com/local-news/chattanooga-hosting-world-cup-winner-team-spain-exceeds-tourism-expectations/article_57cf90dd-e913-4e2b-b73d-37198e4f2790.html",
+   "lede": "Chattanooga leaders believe the city’s welcoming hospitality played a role in the Spanish national team’s World Cup win. Soon, La Roja will add another star to their logo to symbolize their second FIFA World Cup win. Spanish soccer will forever leave a mark on the Scenic City. In a post from Selección Española Masculina de Fútbol, the team shared a message reading, “Thank you, Chattanooga.”",
+   "image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/5/7c/57cf90dd-e913-4e2b-b73d-37198e4f2790/6a63bebca52af.preview.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE BUSINESS STANDARD",
    "title": "Lionel Messi quietly made Vozinha's family's World Cup dream come true before final",
    "iso": "2026-07-24T19:30:07.000Z",
    "link": "https://www.tbsnews.net/sports/football/lionel-messi-quietly-made-vozinhas-familys-world-cup-dream-come-true-final-1495906",
    "lede": "Lionel Messi reportedly ensured that four members of Cabo Verde goalkeeper Vozinha's family could attend the 2026 FIFA World Cup final after arranging tickets for them at his own expense. The gesture took place before Argentina's title clash against Spain at the New York New Jersey Stadium, where Messi's side suffered a 1-0 defeat after extra time. The story only emerged after the final, with Messi having made no public mention of his involvement. Argentine journalist Yanina Latorre revealed that Messi purchased a large number of tickets during the tournament for people who could not afford to attend matches.",
    "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/27/vozinha_messi.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -68,16 +78,6 @@
    "link": "https://sports.yahoo.com/articles/aston-villa-reject-serie-club-134500494.html",
    "lede": "Aston Villa have turned down Juventus’ ‘tiny offer’ for Emiliano Martinez, per journalist Gianluca Di Marzio. The Serie A club are looking to sign a new goalkeeper to compete with Michele Di Gregorio for the starting role. They submitted a bid worth around £5 million for Martinez, which was quickly rebuffed. Villa are under no immediate pressure to sell, as the Argentinian is under contract until 2029.",
    "image": "https://s.yimg.com/os/en/football_today_articles_719/b210973467eab812a16ba7a4c4cfb6d3",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE MERCURY NEWS",
-   "title": "Mailbag: World Cup a flawed model for the College Football Playoff, Senate hurdles for PCSA, Big Ten scheduling and more",
-   "iso": "2026-07-24T21:49:23.000Z",
-   "link": "https://www.mercurynews.com/2026/07/24/college-football-playoff-expansion-world-cup-protect-college-sports-act/",
-   "lede": "If expansion improved the World Cup, why wouldn’t it do the same for the College Football Playoff? Allow us to explain the (massive) differences.",
-   "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/BNG-L-WORLDCUP-0621-43.jpg?w=1786&h=1268",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
