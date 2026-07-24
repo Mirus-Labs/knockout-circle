@@ -1,6 +1,46 @@
 {
- "updated": "2026-07-23T23:42:52.580Z",
+ "updated": "2026-07-24T01:13:19.828Z",
  "news": [
+  {
+   "cat": "GOAL.COM",
+   "title": "The president of the Argentine Football Association breaks his silence: do not be fooled by \"conspiracy theories\"",
+   "iso": "2026-07-24T00:27:55.000Z",
+   "link": "https://www.goal.com/en/news/the-president-of-the-argentine-football-association-breaks-his-silence-do-not-be-fooled-by-conspiracy-theories/blta29710ae0aaf9e89",
+   "lede": "Tapia admits that Spain deserved the 2026 World Cup title. The 2026 World Cup final won't be forgotten in a hurry. Not just for the joy that swept across Spain after the coronation, but for the wave of controversy and the hundreds of conspiracy theories that erupted in Argentina after Ferran Torres's goal stripped the \"tango dancers\" of their world crown. Explanations for the defeat have spread like wildfire in Argentina over the past hours.",
+   "image": "https://assets.goal.com/images/v3/getty-2286813370/crop/MM5DENJWGA5DCNBUGA5G433XMU5DMMZRHI2DEMY=/GettyImages-2286813370.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "STARNEWSKOREA.COM",
+   "title": "'World Cup Disaster → Attempt to Appoint Top Manager of All Time' Football Association Admits, Italian Legend \"Met and Spoke Directly, However...\"",
+   "iso": "2026-07-23T23:51:48.000Z",
+   "link": "https://www.starnewskorea.com/en/sports/2026/07/24/2026072407340446094",
+   "lede": "After failing to qualify for the World Cup finals three consecutive times since the 2014 Brazil tournament, the Italian national team reached out to world-class managers to fill its vacant coaching position. It was confirmed that the Italian Football Federation contacted former Manchester City manager Pep Guardiola and current Brazil national team coach Carlo Ancelotti in succession. British media outlet 'BBC' reported on the 24th (Korea time) that \"the Italian Football Federation has been negotiating with former Manchester City manager Pep Guardiola, who led the club for the past decade before resigning, and current Brazil national team head coach Carlo Ancelotti over the position of national team manager to rescue the struggling squad.\"",
+   "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=800,fit=cover,q=high,sharpen=2/21/2026/07/2026072407340446094_1.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE DAILY STAR",
+   "title": "Sleep, studies, and more: What this World Cup took from me!",
+   "iso": "2026-07-23T23:47:56.000Z",
+   "link": "https://www.thedailystar.net/life-living/news/sleep-studies-and-more-what-world-cup-took-me-4227671",
+   "lede": "Tonight, either Lionel Messi or Lamine Yamal will end the World Cup holding the trophy. After more than a month of football, the tournament will have its winner. I, meanwhile, will walk away with a ruined sleep schedule, questionable exam results, mental exhaustion and a lighter wallet. Everyone keeps asking who will win the World Cup.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "How World Cup 2026 proved football has remarkable ability to cure all ills",
+   "iso": "2026-07-23T23:29:51.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
+   "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
+   "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "Lionel Messi wins award days after controversial FIFA World Cup Final",
@@ -8,18 +48,8 @@
    "link": "https://sports.yahoo.com/articles/lionel-messi-wins-award-days-220400212.html",
    "lede": "Lionel Messi has secured an honor just days after Argentina fell short in the FIFA World Cup Final against Spain. Last weekend witnessed the conclusion of the World Cup, with Spain defeating Argentina 1-0 in extra time courtesy of Ferran Torres' 106th-minute strike at MetLife Stadium. The final was tarnished, however, by Argentina's attempts to disrupt proceedings throughout, with Lionel Scaloni's team trying to undermine Spain's dominance through deliberate fouls at every turn. They were also reduced to 10 men when Enzo Fernández received his marching orders for a second yellow card following his reckless and needless tackle on Spain's Pau Cubarsi in the 93rd minute.",
    "image": "https://s.yimg.com/os/en/all_out_soccer_276/95601edcc15fa10f49cd0b7d5141b046",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "The president of the Argentine Football Association breaks his silence: do not be fooled by \"conspiracy theories\"",
-   "iso": "2026-07-23T21:25:20.000Z",
-   "link": "https://www.goal.com/en/news/the-president-of-the-argentine-football-association-breaks-his-silence-do-not-be-fooled-by-conspiracy-theories/blta29710ae0aaf9e89",
-   "lede": "Tapia admits that Spain deserved the 2026 World Cup title. The 2026 World Cup final won't be forgotten in a hurry. Not just for the joy that swept across Spain after the coronation, but for the wave of controversy and the hundreds of conspiracy theories that erupted in Argentina after Ferran Torres's goal stripped the \"tango dancers\" of their world crown. Explanations for the defeat have spread like wildfire in Argentina over the past hours.",
-   "image": "https://assets.goal.com/images/v3/getty-2286813370/crop/MM5DENJWGA5DCNBUGA5G433XMU5DMMZRHI2DEMY=/GettyImages-2286813370.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "PENTICTON HERALD",
@@ -28,18 +58,8 @@
    "link": "https://www.pentictonherald.ca/sports/national_sports/article_5811a4c6-7226-5a98-8010-b19b150fa3fe.html",
    "lede": "The 2026 FIFA men's World Cup was the most-watched edition of the international soccer tournament in Canadian history, according to an audience measurement organization. Numeris says that nearly 31.5 million people — or 77 per cent of Canada — watched the tournament at some point this summer, up from 71 per cent in 2018 and 68 per cent in 2022. The number of hours watched was also up over the previous two tournaments in Russia and Qatar, with the average viewer taking in 15 hours of matches on Bell Media's TSN, RDS, CTV, Noovo and Crave. Canada's men's national team was eliminated from the tournament with a 3-0 loss to Morocco on July 4 in the Round of 16.",
    "image": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/b/82/b82fcf21-3102-5be7-8e54-f9dbcfec916b/6a628124aab1d.image.jpg?crop=640%2C336%2C0%2C45",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "JOURNALISM UK",
-   "title": "How the World Cup was really watched: Inside the data behind football's biggest live blogs",
-   "iso": "2026-07-23T20:10:42.000Z",
-   "link": "https://www.journalism.co.uk/how-the-world-cup-was-really-watched-inside-the-data-behind-footballs-biggest-live-blogs/",
-   "lede": "From Curaçao's historic goal to Spain's final glory, analysis of 1,362 World Cup live blogs reveals what kept 24 publishers' audiences hooked (it wasn't just the scoreline). I watched it a lot when I was a kid, but found myself losing interest as I became an adult and increasingly unwilling to waste an afternoon watching a 1-0 game. In time I replaced watching TV with a live blog, typically booting up the Sky Sports News app on my phone or typing the fixture into a Google search bar. It became a much more convenient way to see the scoreline at a glance, the run of play and which players were having a blinder (or a game to forget).",
-   "image": "https://storage.ghost.io/c/5c/e7/5ce74819-ead9-4ef3-8ecc-47e8bfde5535/content/images/size/w1200/2026/07/52919951793_66d6b93a56_b-1.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "WORLD FOOTBALL INDEX",
@@ -48,8 +68,8 @@
    "link": "https://worldfootballindex.com/2026/07/5-weeks-48-teams-one-summer-to-remember-the-2026-world-cup-through-my-eyes/",
    "lede": "The 2026 World Cup has come to an end, with Spain becoming champions. Prior to the start of the tournament, I set out to write my first, first-person piece on my memories and experiences throughout the World Cup. I felt that after the 2026 World Cup, it would be a fantastic opportunity to do a follow-up and bring up some more memories and experiences that I’ve experienced across this summer’s edition. As I mentioned in the previous piece, the World Cup isn’t just four weeks- sorry, this time, five weeks of football.",
    "image": "https://worldfootballindex.com/wp-content/uploads/2026/07/Rodri-spain-lift-world-cup.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,26 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/23/from-popp-to-diani-10-womens-transfers-you-may-have-missed-during-the-mens-world-cup",
    "lede": "Sam Kerr’s and Alexia Putellas’s moves were hard to miss but these transfers may have escaped your attention. There were a host of big women’s football transfers which were hard to miss across June and July, despite the dominance of the men’s World Cup. Among them were Beth Mead’s move from Arsenal to Manchester City, Mary Earps and Georgia Stanway returning to the Women’s Super League with London City Lionesses and Arsenal, Sam Kerr leaving Chelsea to return to Gotham FC and, most prominently, Alexia Putellas’s game-changing switch from Barcelona to London City. But here are 10 transfers you might have missed while attention was focused on the action in the US, Canada and Mexico.",
    "image": "https://i.guim.co.uk/img/media/0e4b9a5efa81b2ec586d5d1c801c550bd750454f/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d0eb789520eddcb0535e2070ba2762e",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MOTORSPORT WEEK",
-   "title": "WATCH: Spanish Formula E star talks football after World Cup triumph",
-   "iso": "2026-07-23T19:00:00.000Z",
-   "link": "https://www.motorsportweek.com/2026/07/23/formula-e-world-cup/",
-   "lede": "Cupra Kiro's Pepe Marti told Motorsport Week which member of Spain's victorious World Cup team he most like to take for a hot lap, ahead of this weekend's Formula E Tokyo E-Prix . The Japanese capital plays host to the all-electric championship for the third time, but for the first time, will take place under the city's glittering lights as a night race. Such an event has boosted interest in the race and the championship, and has contributed to the city being given a spot on the calendar for a fourth season in a row, in what will be the first campaign of the upcoming Gen4 era. Marti has excelled in his debut season with the American, Silverstone-based squad, with two podiums, taking him to a current haul of 58 points, 30 more than teammate Dan Ticktum.",
-   "image": "https://www.motorsportweek.com/wp-content/uploads/2026/07/Pepe-Marti-Formula-E-26.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-   "iso": "2026-07-23T18:34:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card",
-   "lede": "Norwegian federation president: Fifa on a ‘slippery slope’. Trump called Infantino for review of Balogun’s red. Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
-   "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
