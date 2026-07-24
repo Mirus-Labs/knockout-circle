@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T15:34:48.696Z",
+ "updated": "2026-07-24T15:50:05.671Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE MANILA TIMES",
-   "title": "Mengniu’s Chinese Culture Pavilion Captivates the World at the FIFA World Cup",
-   "iso": "2026-07-24T13:58:12.000Z",
-   "link": "https://www.manilatimes.net/2026/07/24/tmt-newswire/media-outreach-newswire/mengnius-chinese-culture-pavilion-captivates-the-world-at-the-fifa-world-cup/2391122",
-   "lede": "NEW YORK, US - Media OutReach Newswire - 24 July 2026 - On July 15 (EDT, GMT-4), the second semi-final of the 2026 FIFA World Cup took place in Atlanta. Meanwhile, outside New York New Jersey Stadium, the host venue for this year's World Cup Final, Mengniu, as an Official Sponsor of the 2026 FIFA World Cup, unveiled a 400-square-meter Chinese Culture Pavilion created in collaboration with multiple partners. Using football as its bridge, the brand as its platform, and Chinese culture as its heart, the immersive pavilion seamlessly blended the passion of the beautiful game with the elegance of traditional Chinese aesthetics, presenting China's stories to a global audience on one of the world's greatest sporting stages. Mengniu's Chinese Culture Pavilion Debuts at the FIFA World Cup, Showcasing Chinese Culture to the World.",
-   "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/24/1150216.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "TALKSPORT",
    "title": "US fans say we're a 'proper football country now' after booing World Cup villain",
    "iso": "2026-07-24T13:48:45.000Z",
    "link": "https://talksport.com/football/4457860/mls-crew-nycfc-matt-freese-booed-world-cup-usmnt/",
    "lede": "USMNT goalkeeper Matt Freese had a rough game in the defeat to Belgium, making a mess of things after rushing out of his box and allowing the Red Devils to go 3-1 up. In days gone by, Major League Soccer has been accused of being a bit of a soft touch compared to the top leagues in countries where The Beautiful Game is the national sport. Freese may be wishing that was still the case having been booed in a road game for New York City. Columbus Crew fans jeered him every time he touched the ball, apparently still angry about his perceived role in the USMNT's elimination.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/crop-4458230.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BLOOMBERG.COM",
@@ -78,6 +68,16 @@
    "link": "https://www.bloomberg.com/news/articles/2026-07-24/us-business-activity-picks-up-on-world-cup-july-4-spending",
    "lede": "Fans buy snacks and beverages at a concession stand during a World Cup football match at the Los Angeles Stadium in Inglewood on June 12. US business activity expanded at the fastest pace in eight months as strong domestic demand for services offset cooling factory production, growing supply chain delays and rising costs. The S&P Global flash composite purchasing managers index rose to 53.6 in July, according to data released Friday. Figures above 50 indicate expansion.",
    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_ThowoUCmEo/v1/1200x800.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Aston Villa reject Serie A club’s ‘tiny offer’ for World Cup finalist",
+   "iso": "2026-07-24T13:45:00.000Z",
+   "link": "https://sports.yahoo.com/articles/aston-villa-reject-serie-club-134500494.html",
+   "lede": "Aston Villa have turned down Juventus’ ‘tiny offer’ for Emiliano Martinez, per DiMarzio. The Serie A club are looking to sign a new goalkeeper to contest Michele Di Gregorio for the starting role. They submitted a bid worth around £5-6 million for Martinez, which was quickly rebuffed by Villa. The Lions are under no immediate pressure to sell, as the experienced keeper is under contract until 2029.",
+   "image": "https://s.yimg.com/os/en/football_today_articles_719/b210973467eab812a16ba7a4c4cfb6d3",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
