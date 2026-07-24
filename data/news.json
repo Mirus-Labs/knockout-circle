@@ -1,6 +1,56 @@
 {
- "updated": "2026-07-24T15:50:05.671Z",
+ "updated": "2026-07-24T17:12:40.901Z",
  "news": [
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "Argentina star behind throat-grab incident on Spain defender hints at international retirement after Worl",
+   "iso": "2026-07-24T16:44:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-star-behind-shameful-throat-grab-on-spain-defender-hints-at-international-retirement-after-world-cup-final/articleshow/132609743.cms",
+   "lede": "Leandro Paredes has admitted he is uncertain about his international future following Argentina's painful FIFA World Cup final defeat to Spain, with the midfielder reflecting on a tournament-ending loss overshadowed by his involvement in the chaotic post-match altercation. Football News: Argentina midfielder Leandro Paredes reflects on his uncertain future with the national team following a chaotic World Cup final loss to Spain, where he was involved in a post-match brawl. Paredes expresses pride in the team's journey but faces a tough decision about continuing his international career after epic disappointment.",
+   "image": "https://static.toiimg.com/thumb/msid-132610493,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "MARKETING BREW",
+   "title": "Inside Nike’s ‘Rip the Script’ World Cup campaign",
+   "iso": "2026-07-24T16:29:32.000Z",
+   "link": "https://www.marketingbrew.com/stories/nike-rip-the-script-world-cup-campaign",
+   "lede": "The World Cup wrapped last Sunday, with Spain beating Argentina in a nailbiter of a final that scored 62.8 million viewers in the US. For some soccer fans, the final whistle marked the end of a whirlwind few weeks. For Nike, the tournament was just the beginning. “The actual, most exciting challenge starts today,” Camilo Andrade, global VP and GM football/soccer at Nike, told Marketing Brew the week after the tournament.",
+   "image": "https://cdn.sanity.io/images/bl383u0v/production/cda32fee7bda4228d3bbc3f7dd2a3e9db1cb24dd-1280x720.jpg?rect=0,24,1280,672&w=1200&h=630&q=70&fit=crop&auto=format",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MAIZE N BREW",
+   "title": "Friday Discussion: Should college football be played on natural grass?",
+   "iso": "2026-07-24T16:00:00.000Z",
+   "link": "https://www.maizenbrew.com/football/118943/michigan-wolverines-football-turf-installation-natural-grass-world-cup",
+   "lede": "The FIFA World Cup wrapped up last weekend with Spain taking the crown on natural grass at MetLife Stadium in New Jersey. Per FIFA regulations, World Cup games are required to be played on natural surfaces, meaning that several of the large American stadiums had to lay down sod to meet those requirements. This sparked a debate on the internet as current NFL players decried the fact that they have to play on artificial turf while the stadiums they play at are capable of having natural grass. Coincidentally, it was announced earlier this week that new turf was installed at Michigan Stadium: [Media: https://twitter.com/UMichFootball/status/2079667369757004039?",
+   "image": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/07/gettyimages-2239183752.jpg?quality=90&strip=all&crop=0%2C10.756500292539%2C100%2C78.486999414922&w=1200",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE MIRROR",
+   "title": "Argentina players ripped apart over World Cup chaos as FIFA set to take action",
+   "iso": "2026-07-24T15:14:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/spain-argentina-world-cup-fifa-37473681.amp",
+   "lede": "Spain manager Luis de la Fuente has slammed the behaviour of Argentina’s players following their World Cup final victory. Spain needed extra time to claim a 1-0 win over Argentina at MetLife Stadium, with Ferran Torres scoring the winning goal in New Jersey. However, after the final whistle, there were chaotic scenes as Leandro Paredes was sent off for kicking Spain defender Eric Garcia to the floor before grabbing the Barcelona centre-back around the neck. It was subsequently reported by the BBC that the red card to Paredes has been removed, and there will be no disciplinary action from FIFA.",
+   "image": "https://i2-prod.mirror.co.uk/incoming/article37456777.ece/ALTERNATES/s1200/0_GettyImages-2286934142.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
+   "iso": "2026-07-24T15:12:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
+   "lede": "What to watch on TV plus other ways to occupy your time now that the party is over. The 2026 World Cup is over, and the millions of people who enjoyed it now find themselves presented with a yawning chasm this weekend. In the UK alone, ITV and the BBC broadcast approximately 275 hours of live coverage over the duration of the tournament, and something that colossal will be hard to replace. Just because the football is over, we are still brimming with things similarly designed to take our minds off the screaming hellpit that is the world around us.",
+   "image": "https://i.guim.co.uk/img/media/8ef2c1538fe297a5d80e185891cdf700b78896dd/194_0_1935_1548/master/1935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35e26b90021d023adfc45d20cea40c73",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente",
@@ -8,8 +58,18 @@
    "link": "https://www.theguardian.com/football/2026/jul/24/argentina-behaviour-world-cup-final-intolerable-de-la-fuente",
    "lede": "Spain head coach hits out at ‘acts of aggression’. Fifa investigation into incident yet to result in sanctions. Spain’s head coach, Luis de la Fuente, has hit out at the “intolerable, unacceptable” behaviour of Argentina players in the immediate aftermath of Sunday’s World Cup final. At the forefront were Nahuel Molina and Leandro Paredes, who attacked Rodri and Eric García respectively at New York New Jersey Stadium as Spain’s players celebrated winning the World Cup for a second time in the country’s history.",
    "image": "https://i.guim.co.uk/img/media/2976b2188908411e2a820c9394212a1ec316190e/599_203_2145_1716/master/2145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97b615adc6ea7e91c56063a7ff34f2d6",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "All 45 Major League Soccer players at the 2026 World Cup, ranked",
+   "iso": "2026-07-24T15:09:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/24/mls-players-world-cup-2026-ranked",
+   "lede": "From Lionel Messi’s final flourish to players who barely featured, we rank every MLS representative who appeared in the 2026 World Cup. Messi was always going to be No 1. In what was likely his last World Cup, the Argentinian put together an incredible tournament, registering eight goals, four assists and the most progressive passes of any player, according to Futi. With zero defensive responsibility on his shoulders, Messi was free to do as he liked.",
+   "image": "https://i.guim.co.uk/img/media/3e330e622d0f6bbbba9f5424f839c3794298d2a6/177_0_2458_1967/master/2458.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbce4c63520cc13cf84bfe97e77d871f",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "TALKSPORT",
@@ -18,66 +78,6 @@
    "link": "https://talksport.com/football/world-cup/4458031/argentina-president-javier-milei-jealous-fifa-investigation-fans/",
    "lede": "Javier Milei has been outspoken following La Albiceleste's 1-0 defeat to Spain in the final, and was embarrassed on Monday after he appeared to accidentally publish a scheduled X post celebrating victory. He also bizarrely announced a national holiday that the public might not get, much to the delight of many fans who believed Argentina didn't deserve to win the 2026 tournament based on their negative performances throughout. A turbulent summer, which featured a row over the Falkland Islands following a semi-final win over England, was capped when Leandro Paredes sparked a brawl by appearing to throw a punch at the final whistle in the World Cup final. Other players have been described as 'classless' for turning their backs on Spain's celebrations.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/presidential-candidate-javier-milei-la-1097293257.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE MIRROR",
-   "title": "Gianni Infantino's private thoughts World Cup final players' behaviour revealed",
-   "iso": "2026-07-24T14:38:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/news/world-cup-argentina-infantino-spain-37473258",
-   "lede": "Gianni Infantino has declared Spain a shining example to football, making the statement in the wake of the World Cup final's shocking scenes of violence triggered by Argentina's players. Argentina midfielder Leandro Paredes was at the centre of the brawl, throwing punches and kicks at rival players as they celebrated the 1-0 triumph in New Jersey An extra‑time winner from Ferran Torres sealed the win for La Roja, who lifted the iconic trophy. Argentina were already down to ten men after Enzo Fernandez was sent off for a reckless moment late in normal time. Tensions then exploded after the final whistle, with violence breaking out across the MetLife Stadium pitch.",
-   "image": "https://i2-prod.mirror.co.uk/article37473423.ece/ALTERNATES/s1200d/0_Spain-v-Argentina-Final-FIFA-World-Cup-2026.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
-   "iso": "2026-07-24T14:37:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
-   "lede": "What to watch on TV plus other ways to occupy your time now that the party is over. The 2026 World Cup is over, and the millions of people who enjoyed it now find themselves presented with a yawning chasm this weekend. In the UK alone, ITV and the BBC broadcast approximately 275 hours of live coverage over the duration of the tournament, and something that colossal will be hard to replace. Just because the football is over, we are still brimming with things similarly designed to take our minds off the screaming hellpit that is the world around us.",
-   "image": "https://i.guim.co.uk/img/media/8ef2c1538fe297a5d80e185891cdf700b78896dd/194_0_1935_1548/master/1935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35e26b90021d023adfc45d20cea40c73",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "METRO.CO.UK",
-   "title": "No muppets can spoil my World Cup memories but I’m not ready for goodbye",
-   "iso": "2026-07-24T14:35:00.000Z",
-   "link": "https://metro.co.uk/2026/07/24/no-muppets-can-spoil-world-cup-memories-im-not-ready-goodbye-29213663/",
-   "lede": "Spain walked away with the trophy after all the drama (Picture: Carl Recine/Getty Images) Are you over the World Cup? Have you seamlessly moved on: packed down the wall chart, dug back into Netflix for that series of the West Wing you were again rewatching, stopped being triggered by a FIFA-branded Coke can? I respect your level-headed attitude. As far as England are concerned, I’m still in the bargaining stage.",
-   "image": "https://metro.co.uk/wp-content/uploads/2026/07/GettyImages-2286822924_1784903722.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "TALKSPORT",
-   "title": "US fans say we're a 'proper football country now' after booing World Cup villain",
-   "iso": "2026-07-24T13:48:45.000Z",
-   "link": "https://talksport.com/football/4457860/mls-crew-nycfc-matt-freese-booed-world-cup-usmnt/",
-   "lede": "USMNT goalkeeper Matt Freese had a rough game in the defeat to Belgium, making a mess of things after rushing out of his box and allowing the Red Devils to go 3-1 up. In days gone by, Major League Soccer has been accused of being a bit of a soft touch compared to the top leagues in countries where The Beautiful Game is the national sport. Freese may be wishing that was still the case having been booed in a road game for New York City. Columbus Crew fans jeered him every time he touched the ball, apparently still angry about his perceived role in the USMNT's elimination.",
-   "image": "https://talksport.com/wp-content/uploads/2026/07/crop-4458230.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BLOOMBERG.COM",
-   "title": "US Business Activity Picks Up on World Cup, July 4 Spending",
-   "iso": "2026-07-24T13:45:00.000Z",
-   "link": "https://www.bloomberg.com/news/articles/2026-07-24/us-business-activity-picks-up-on-world-cup-july-4-spending",
-   "lede": "Fans buy snacks and beverages at a concession stand during a World Cup football match at the Los Angeles Stadium in Inglewood on June 12. US business activity expanded at the fastest pace in eight months as strong domestic demand for services offset cooling factory production, growing supply chain delays and rising costs. The S&P Global flash composite purchasing managers index rose to 53.6 in July, according to data released Friday. Figures above 50 indicate expansion.",
-   "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_ThowoUCmEo/v1/1200x800.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Aston Villa reject Serie A club’s ‘tiny offer’ for World Cup finalist",
-   "iso": "2026-07-24T13:45:00.000Z",
-   "link": "https://sports.yahoo.com/articles/aston-villa-reject-serie-club-134500494.html",
-   "lede": "Aston Villa have turned down Juventus’ ‘tiny offer’ for Emiliano Martinez, per DiMarzio. The Serie A club are looking to sign a new goalkeeper to contest Michele Di Gregorio for the starting role. They submitted a bid worth around £5-6 million for Martinez, which was quickly rebuffed by Villa. The Lions are under no immediate pressure to sell, as the experienced keeper is under contract until 2029.",
-   "image": "https://s.yimg.com/os/en/football_today_articles_719/b210973467eab812a16ba7a4c4cfb6d3",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
