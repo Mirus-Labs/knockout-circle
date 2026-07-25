@@ -1,25 +1,35 @@
 {
- "updated": "2026-07-25T11:39:18.012Z",
+ "updated": "2026-07-25T12:46:41.055Z",
  "news": [
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "‘It takes time’ — Dayot Upamecano’s journey to the top",
+   "iso": "2026-07-25T11:30:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/228297/dayot-upamecano-france-mens-national-team-didier-deschamps-world-cup-bayern-munich",
+   "lede": "Bayern Munich and France men’s national defender Dayot Upamecano is a mainstay these days for club and country — an incredible feat, especially considering the talent available over the years to both sides. But he did not always look like a lock to be a lock in each team’s XI. Bayern fans will recall when Upamecano was the target of criticism following some Champions League exits earlier in his tenure. His time at France was not the smoothest sailing either, in the beginning.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2281945495.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.597212452562&w=1200",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "ONEFOOTBALL",
    "title": "Wrexham target post-World Cup surge with US east coast tour",
    "iso": "2026-07-25T10:49:54.000Z",
    "link": "https://onefootball.com/en/news/wrexham-target-post-world-cup-surge-with-us-east-coast-tour-43183928",
-   "lede": "West Brom, Stoke City and Wrexham plotting move to sign Crystal Palace player. Steve Nickson to join Wrexham as sporting director. Wrexham to bring in Steve Nickson from Newcastle as new sporting director. Wrexham ready for Champions League debut this evening.",
+   "lede": "Leeds United predicted XI v Wrexham, new signings travel, keeper switch and youngster to start as Okafor misses out. West Brom, Stoke City and Wrexham plotting move to sign Crystal Palace player. Steve Nickson to join Wrexham as sporting director. Wrexham to bring in Steve Nickson from Newcastle as new sporting director.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43183928%3Fdate=2026-07-25",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "SMESTREET",
-   "title": "Mengniu’s Chinese Culture Pavilion Captivates the World at the FIFA World Cup",
-   "iso": "2026-07-25T10:49:37.000Z",
-   "link": "https://smestreet.in/global/mengnius-chinese-culture-pavilion-captivates-the-world-at-the-fifa-world-cup-12196901",
-   "lede": "\"On July 15 (EDT, GMT-4), the second semi-final of the 2026 FIFA World Cup took place in Atlanta. Meanwhile, outside New York New Jersey Stadium, the host venue for this year's World Cup Final, Mengniu, as an Official Sponsor of the 2026 FIFA World Cup, unveiled a 400-square-meter Chinese Culture Pavilion created in collaboration with multiple partners. Using football as its bridge, the brand as its platform, and Chinese culture as its heart, the immersive pavilion seamlessly blended the passion of the beautiful game with the elegance of traditional Chinese aesthetics, presenting China's stories to a global audience on one of the world's greatest sporting stages. Mengniu Traditional Chinese-style Cultural Pavilion Mengniu's Chinese Culture Pavilion Debuts at the FIFA World Cup, Showcasing Chinese Culture to the WorldOn the pitch, a single football captures the attention of billions.",
-   "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/2026/07/25/mengniu-traditional-chinese-style-cultural-pavilion-2026-07-25-16-06-22.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "SPORTSTAR",
+   "title": "World Cup winner Paralluelo joins Lyon from Barcelona",
+   "iso": "2026-07-25T09:18:04.000Z",
+   "link": "https://sportstar.thehindu.com/football/womens-football/salma-paralluelo-lyon-transfer-news-barcelona-spain-world-cup-winner/article71265737.ece",
+   "lede": "REUTERS REUTERS https://ss-i.thgim.com/public/incoming/p5hqb4/article71265741.ece/alternates/FREE_1200/2023-08-15T102224Z_137199647_UP1EJ8F0R2L7Q_RTRMADP_3_SOCCER-WORLDCUP-ESP-SWE-REPORT.JPG DAVID ROWLAND Soccer Football - FIFA Women’s World Cup Australia and New Zealand 2023 - Semi Final - Spain v Sweden - Eden Park, Auckland, New Zealand - August 15, 2023 Spain's Salma Paralluelo celebrates scoring their first goal REUTERS/David Rowland TPX IMAGES OF THE DAY Paralluelo joined Barcelona from Villarreal in 2022 and has won the Spanish league four times and the Spanish Copa de la Reina and the European Champions League three times each. Lyon Salma Paralluelo, a World Cup winner at three age levels, has joined Lyon from Barcelona, the French women’s football champion announced on Saturday. Barcelona had already said that the 22-year-old, whose contract expired in June, would be leaving.",
+   "image": "https://ss-i.thgim.com/public/incoming/p5hqb4/article71265741.ece/alternates/LANDSCAPE_1200/2023-08-15T102224Z_137199647_UP1EJ8F0R2L7Q_RTRMADP_3_SOCCER-WORLDCUP-ESP-SWE-REPORT.JPG",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "FRANCE 24",
@@ -28,8 +38,8 @@
    "link": "https://www.france24.com/en/tv-shows/sports/20260725-football-germany-unveils-new-head-coach-with-eyes-on-2030-world-cup",
    "lede": "The international coaching carousel is in full swing. Jurgen Klopp was officially unveiled as Germany head coach on Friday, tasked with reviving a national team that has struggled to recapture the heights of its 2014 World Cup triumph. Italy have also turned to a legend, appointing 2006 World Cup winner Andrea Pirlo to lead the Azzurri as they look to end years of disappointment on the global stage. And in France, Zinedine Zidane is expected to be named Les Bleus' new head coach on Tuesday.",
    "image": "https://s.france24.com/media/display/9a8fbd10-87c4-11f1-8db0-005056a90284/w:1280/p:16x9/000-C32U6KB.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/argentina-players-attacked-spain-stars-090000833.html",
    "lede": "Spain head coach Luis de la Fuente has publicly condemned the behaviour of Argentina players in the immediate aftermath of Sunday’s World Cup final, describing the incidents as “intolerable, unacceptable” in comments made to Spanish television. At the forefront of the controversy were Nahuel Molina and Leandro Paredes, both of Argentina, who attacked Rodri and Eric García respectively as Spain’s players celebrated winning the World Cup for the second time in the country’s history. Paredes also confronted Gavi during the flashpoint, with footage of the scenes subsequently circulating widely across social media. De la Fuente told Spanish television that he had not witnessed the confrontations in real time, having been caught up in the celebrations himself.",
    "image": "https://s.yimg.com/os/en/football_espana_articles_993/9a2ed31d08338c8f05abf1475026fb19",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -48,8 +58,8 @@
    "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
    "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
    "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FASHION UNITED",
@@ -58,8 +68,8 @@
    "link": "https://fashionunited.uk/news/culture/loewe-celebrates-spains-second-world-cup-with-a-commemorative-photo-collection/2026072489414",
    "lede": "Madrid – The Spanish national team's historic victory in the 2026 FIFA World Cup has dominated the news all week, including within the fashion sector. To celebrate this well-deserved triumph, Spanish house Loewe has released a collection of photographs by creative Hannah Coen. Coen, a London-based creative, has a well-established career in fashion, regularly collaborating with brands such as Paul Smith, Camperlab, Ferragamo and Loewe. She first worked with the historic Spanish house this past April 2026, on the launch of its 180th anniversary campaign.",
    "image": "https://r.fashionunited.com/4cY_xc_gd0ZkEishix9t-Ahx5a5-uVmlzQYP3BiJWtQ/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDcvMjQvbG9ld2UtZXNwYW4tYS1tdW5kaWFsLWZ1dGJvbC0xLXp2ZW4xeDZ6LTIwMjYtMDctMjQuanBlZw.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FOOTBALL365",
@@ -68,16 +78,6 @@
    "link": "https://www.football365.com/news/what-was-the-2026-world-cups-legacy-proving-that-relentless-expansion-is-unsustainable",
    "lede": "The 2026 World Cup was sold as football’s biggest celebration yet. By the time Spain lifted the trophy in New Jersey after dismantling Argentina in a one-sided final, it had certainly delivered on scale. One-hundred-and-four matches. Six weeks of football stretched across an entire continent.",
    "image": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2026/07/25064416/FIFA-president-Gianni-Infantino-and-United-States-president-Donald-Trump-hold-the-World-Cup.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "STAR BEACON",
-   "title": "Will World Cup inspire soccer more in the USA?",
-   "iso": "2026-07-25T04:00:00.000Z",
-   "link": "https://www.starbeacon.com/sports/will-world-cup-inspire-soccer-more-in-the-usa/article_d4c059fe-40a2-468a-b9b9-e69bedd06569.html",
-   "lede": "The Tartan Army from Scotland is gone, Norway’s fans shouting Viking Row, the Norweigan word for row (“Ro!”) But they will not soon be forgotten. Sorry, there are no recent results for popular videos. Sorry, there are no recent results for popular commented articles.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/assets/v3/editorial/c/50/c50990a6-2989-45d9-be3a-a826418cc70a/6a4ed8553d904.image.jpg?crop=297%2C297%2C0%2C31&resize=200%2C200&order=crop%2Cresize",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
