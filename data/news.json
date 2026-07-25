@@ -1,12 +1,12 @@
 {
- "updated": "2026-07-25T17:04:27.077Z",
+ "updated": "2026-07-25T18:09:21.659Z",
  "news": [
   {
    "cat": "TALKSPORT",
    "title": "Lionel Messi let himself down – failure to call out Argentina is an insult to football",
    "iso": "2026-07-25T16:44:14.000Z",
    "link": "https://talksport.com/football/world-cup/4462407/lionel-messi-let-himself-down-argentina-insult-to-football/",
-   "lede": "The South Americans were at the centre of various controversies during the tournament due to perceived over-physical tactics resulting in a number of tense confrontations. Argentina have long adopted football’s dark arts in a bid to gain a psychological advantage over their opponents. And that’s despite historically producing some of world football’s greatest-ever talents. Lionel Scaloni’s men were far from their best at the World Cup, often relying on the Messi's wizardry to pull themselves out of the mire.",
+   "lede": "Lionel Messi has come under fire for failing to condemn Argentina’s physical approach during the World Cup. The South Americans were at the centre of various controversies during the tournament due to perceived over-physical tactics resulting in a number of tense confrontations. Argentina have long adopted football’s dark arts in a bid to gain a psychological advantage over their opponents. And that’s despite historically producing some of world football’s greatest-ever talents.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/crop-4415784.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "⚽",
    "bg": "#1d6f42"
@@ -32,22 +32,22 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "Understanding autism: How Cucurella’s curls changed the conversation",
-   "iso": "2026-07-25T13:30:54.000Z",
-   "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/understanding-autism-how-cucurellas-curls-changed-the-conversation-4232121",
-   "lede": "When eventual champions Spain faced France in the World Cup semifinal, I half-expected a tight contest to hinge on a clumsy defensive slip. To be honest, I spent the opening minutes worried Marc Cucurella’s wild mane of hair might block his vision. But my own vision turned out to be the flawed one, as Spain’s relentless pass-and-move football suffocated France. Those untamed curls are one of football’s most instantly recognisable silhouettes, like the legendary manes of Carlos Valderrama.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "THE MIRROR",
    "title": "Arsenal plot return dates for World Cup stars as one trains at former club",
    "iso": "2026-07-25T13:25:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/arsenal-preseason-rice-saka-havertz-37475830",
    "lede": "Arsenal are readying for the return of several of their World Cup stars - but face decisions on how best to manage Declan Rice and Bukayo Saka . Several of the Gunners' players have been back as they're put through their paces, but the majority of their big-hitters were present at this summer's tournament. Those players are entitled to a minimum of three weeks off after their involvement for their countries. England stalwart Rice has been managing neural pain in his hamstring for more than six months.",
    "image": "https://i2-prod.mirror.co.uk/article37474680.ece/ALTERNATES/s1200d/1_GettyImages-2286923161.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "How World Cup 2026 proved football has remarkable ability to cure all ills",
+   "iso": "2026-07-25T11:31:34.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
+   "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
+   "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FRANCE 24",
-   "title": "Sports - Football: Germany unveils new head coach with eyes on 2030 World Cup",
-   "iso": "2026-07-25T09:01:02.000Z",
-   "link": "https://www.france24.com/en/tv-shows/sports/20260725-football-germany-unveils-new-head-coach-with-eyes-on-2030-world-cup",
-   "lede": "The international coaching carousel is in full swing. Jurgen Klopp was officially unveiled as Germany head coach on Friday, tasked with reviving a national team that has struggled to recapture the heights of its 2014 World Cup triumph. Italy have also turned to a legend, appointing 2006 World Cup winner Andrea Pirlo to lead the Azzurri as they look to end years of disappointment on the global stage. And in France, Zinedine Zidane is expected to be named Les Bleus' new head coach on Tuesday.",
-   "image": "https://s.france24.com/media/display/9a8fbd10-87c4-11f1-8db0-005056a90284/w:1280/p:16x9/000-C32U6KB.jpg",
+   "cat": "BEIN SPORTS",
+   "title": "Thousands of Fans Pay Emotional Tribute to Jayden Adams at His Funeral in South Africa",
+   "iso": "2026-07-25T16:58:09.000Z",
+   "link": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/thousands-of-fans-pay-emotional-tribute-to-jayden-adams-at-his-funeral-in-south-africa-2026-07-25",
+   "lede": "Thousands gathered in South Africa to honor Jayden Adams in an emotional funeral as authorities continue investigating his death.",
+   "image": "https://prod-media.beinsports.com/image/1783803328962_ddf8a84c-1ea5-43ab-9ade-d1d6aa6780ab.1080.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
