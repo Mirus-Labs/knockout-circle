@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-25T03:14:30.106Z",
+ "updated": "2026-07-25T03:42:10.136Z",
  "news": [
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Bayern Munich star Michael Olise plays in NYC pickup game",
+   "iso": "2026-07-25T01:45:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/234654/bayern-munich-star-michael-olise-plays-in-nyc-pickup-game",
+   "lede": "You have to give it to Bayern Munich and France superstar Michael Olise, the man does love football. Well, after France lost the third-place game at the World Cup to England, the 24-year-old could not stay away from the game for long, so he joined a pickup game in New York City. Imagine you are stretching trying to get loose after sitting in a cube all day pouring through spreadsheets and you look across the field and have to defend Olise. Not just Olise, though, but Olise wearing some wild pants.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286092887.jpg?quality=90&strip=all&crop=0%2C10.735532279418%2C100%2C78.528935441163&w=1200",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "ONEFOOTBALL",
    "title": "After Guardiola said no, Italy picked a World Cup winner",
@@ -8,8 +18,8 @@
    "link": "https://onefootball.com/en/news/after-guardiola-said-no-italy-picked-a-world-cup-winner-43182832",
    "lede": "Report Pirlo as Italy coach will be official soon, contract to 2030 World Cup. Ancelotti declines, Guardiola courted as Italy still seek head coach, Mancini and Pirlo wait. When Pirlo will be announced as new Italy coach and how much he’ll earn. Andrea Pirlo’s track record as he nears Italy job.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43182832%3Fdate=2026-07-25",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -18,8 +28,18 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/cape-verdes-world-cup-hero-vozinha-finds-new-club-its-not-lionel-messis-inter-miami/articleshow/132617462.cms",
    "lede": "Cape Verde goalkeeper Vozinha has found a new club after his memorable FIFA World Cup campaign, signing for Colo Colo as a free agent. The move ends weeks of speculation linking the veteran shot-stopper with Lionel Messi's Inter Miami during the summer transfer window.The 40-year-old was without a club after leaving Portuguese side Chaves on July 1. Following his standout performances at the World Cup, rumours suggested an MLS switch could be on the cards, with Inter Miami among the clubs reportedly interested. Instead, Vozinha has chosen to continue his career with Colo Colo, who announced the signing with the caption 'AURA' embedded in the announcement post on social media.",
    "image": "https://static.toiimg.com/thumb/msid-132617480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE BUSINESS STANDARD",
+   "title": "Lionel Messi quietly made Vozinha's family's World Cup dream come true before final",
+   "iso": "2026-07-25T01:33:47.000Z",
+   "link": "https://www.tbsnews.net/sports/football/lionel-messi-quietly-made-vozinhas-familys-world-cup-dream-come-true-final-1495906",
+   "lede": "Lionel Messi reportedly ensured that four members of Cabo Verde goalkeeper Vozinha's family could attend the 2026 FIFA World Cup final after arranging tickets for them at his own expense. The gesture took place before Argentina's title clash against Spain at the New York New Jersey Stadium, where Messi's side suffered a 1-0 defeat after extra time. The story only emerged after the final, with Messi having made no public mention of his involvement. Argentine journalist Yanina Latorre revealed that Messi purchased a large number of tickets during the tournament for people who could not afford to attend matches.",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/27/vozinha_messi.png",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -28,8 +48,8 @@
    "link": "https://www.standard.co.uk/sport/football/world-cup-2026-review-football-b1290873.html",
    "lede": "The trophy safely on display at the Spanish FA headquarters, England’s wounds no longer so raw, and the annual football calendar now into its miniscule vacuum, you’re left to reflect on the past six weeks and ponder whether the 2026 edition in the United States, Canada and Mexico was a resounding success or an unmitigated flop. This one really could have gone either way. The expansion from 32 teams to 48 had the potential for greater drama but also the risk of suffocating, of making the World Cup the one thing it should never be: tedious. Would North America buy into soccer in a way we hadn’t seen at USA 1994?",
    "image": "https://static.standard.co.uk/2026/07/22/10/38/CapeVerde22072026.jpeg?width=1200&auto=webp&quality=75",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "AL JAZEERA",
@@ -38,18 +58,18 @@
    "link": "https://www.aljazeera.com/amp/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues",
    "lede": "Argentina were beaten 1-0 in the final by Spain in what has been rumoured to be Lionel Messi’s final World Cup game. Thousands wait to greet the team, who return without captain Messi and a few other players after the World Cup. Tens of thousands of fans greet La Roja as they travel down Madrid’s historic avenues to Cibeles Square. Argentina’s Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain’s Yamal prayed calmly.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-10T100701Z_124816172_RC2Y7MAQJQJ7_RTRMADP_3_SOCCER-WORLDCUP-FANS-1784921479.jpg?resize=1920%2C1440",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ONEFOOTBALL",
    "title": "New World Cup rules to govern Argentine football from 2026 Clausura",
    "iso": "2026-07-24T23:20:09.000Z",
    "link": "https://onefootball.com/en/news/new-world-cup-rules-to-govern-argentine-football-from-2026-clausura-43182783",
-   "lede": "Unión impress and salvage a draw on debut against Platense. Corinthians reject Argentine bid for Pedro Milans. Unión begin the Clausura with a 2-2 draw v Platense, live on Radio Gol. Castillo to Dolavon and other standout Clausura moves.",
+   "lede": "Unión impress and nick a draw on debut against Platense. Corinthians reject Argentine bid for Pedro Milans. Unión begin the Clausura with a 2-2 draw v Platense, live on Radio Gol. Castillo to Dolavon and other standout Clausura moves.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43182783%3Fdate=2026-07-25",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "ONEFOOTBALL",
@@ -58,25 +78,6 @@
    "link": "https://onefootball.com/en/news/nicolas-otamendi-announces-international-retirement-after-argentinas-world-cup-final-loss-to-spain-43182768",
    "lede": "Nicolás Otamendi says goodbye to Argentina: «My last match was a final». World Cup Final: Spain vs. Argentina official line-ups, Juventus player starts. New World Cup rules to govern Argentine football from 2026 Clausura.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43182768%3Fdate=2026-07-25",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE BUSINESS STANDARD",
-   "title": "Lionel Messi quietly made Vozinha's family's World Cup dream come true before final",
-   "iso": "2026-07-24T22:31:00.000Z",
-   "link": "https://www.tbsnews.net/sports/football/lionel-messi-quietly-made-vozinhas-familys-world-cup-dream-come-true-final-1495906",
-   "lede": "Lionel Messi reportedly ensured that four members of Cabo Verde goalkeeper Vozinha's family could attend the 2026 FIFA World Cup final after arranging tickets for them at his own expense. The gesture took place before Argentina's title clash against Spain at the New York New Jersey Stadium, where Messi's side suffered a 1-0 defeat after extra time. The story only emerged after the final, with Messi having made no public mention of his involvement. Argentine journalist Yanina Latorre revealed that Messi purchased a large number of tickets during the tournament for people who could not afford to attend matches.",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/27/vozinha_messi.png",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "ONEFOOTBALL",
-   "title": "After Guardiola said no, Italy chose a World Cup winner as boss",
-   "iso": "2026-07-25T01:11:24.000Z",
-   "link": "https://onefootball.com/id/berita/after-guardiola-said-no-italy-chose-a-world-cup-winner-as-boss-43182832",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
