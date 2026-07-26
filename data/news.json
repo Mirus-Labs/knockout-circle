@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T14:18:15.556Z",
+ "updated": "2026-07-26T14:19:12.009Z",
  "news": [
   {
    "cat": "INDULGE EXPRESS",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "FOOTBALL-ASIAN.COM",
+   "title": "Japan’s World Cup Reality Check: Why the Samurai Blue Have Quietly Lowered Their 2030 Ambition",
+   "iso": "2026-07-26T12:30:55.000Z",
+   "link": "https://www.football-asian.com/news/articleView.html?idxno=6403",
+   "lede": "Japan entered the 2026 World Cup speaking openly about winning the tournament. They left in the round of 32. Now, the Japan Football Association is redefining success — not as a retreat from ambition, but as an admission that the gap between confidence and genuine elite status remains wider than expected. Japanese football has spent much of the past two decades presenting itself as Asia’s most systematic and forward-thinking project.",
+   "image": "https://cdn.football-asian.com/news/thumbnail/202607/6403_9089_300_v150.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "TALKSPORT",
    "title": "Lionel Messi avoids suspension alongside Argentina teammate thanks to World Cup loophole",
    "iso": "2026-07-26T11:58:00.000Z",
    "link": "https://talksport.com/football/world-cup/4463326/lionel-messi-rodrigo-miss-mls-all-star-game/",
    "lede": "Lionel Messi will not appear at the 30th edition of the marquee showdown. Messi and Inter Miami teammate Rodrigo De Paul have been granted special leave meaning the pair will miss the game at the Bank Of America Stadium. They fall under specific player welfare protections established by the global players' union, FIFPro. \"Prior to the start of the 2026 season, Major League Soccer and the MLS Players Association agreed that upon a player’s exit from the World Cup competition, clubs would have individual conversations with each player to determine the appropriate rest and return to training and competition timeline,\" the MLS wrote in its announcement.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/10-inter-miami-cf-pictured-1097702632.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TALKSPORT",
@@ -38,8 +48,8 @@
    "link": "https://talksport.com/football/world-cup/4463266/argentina-automatic-spot-world-cup-2030-petition-gianni-infantino/",
    "lede": "The 2030 World Cup, the competition's centenary edition, is being co-hosted by Spain, Portugal and Morocco – with three special anniversary games in Uruguay, Argentina and Paraguay. Uruguay won the inaugural 1930 World Cup, beating Argentina in the final. Paraguay, meanwhile, is home to the headquarters of South American governing body CONMEBOL, the oldest of the six continental football federations. As such, a match is set to be held in each of the three countries' capitals, Montevideo, Buenos Aires and Asuncion.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/lionel-messi-10-argentina-walks-1096446119.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE BUSINESS STANDARD",
@@ -48,8 +58,8 @@
    "link": "https://www.tbsnews.net/sports/football/lionel-messi-quietly-made-vozinhas-familys-world-cup-dream-come-true-final-1495906",
    "lede": "Lionel Messi reportedly ensured that four members of Cabo Verde goalkeeper Vozinha's family could attend the 2026 FIFA World Cup final after arranging tickets for them at his own expense. The gesture took place before Argentina's title clash against Spain at the New York New Jersey Stadium, where Messi's side suffered a 1-0 defeat after extra time. The story only emerged after the final, with Messi having made no public mention of his involvement. Argentine journalist Yanina Latorre revealed that Messi purchased a large number of tickets during the tournament for people who could not afford to attend matches.",
    "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/06/27/vozinha_messi.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TALKSPORT",
@@ -58,8 +68,8 @@
    "link": "https://talksport.com/football/world-cup/4460731/2034-final-venue-saudi-arabia-cost-location-capacity/",
    "lede": "Much like Qatar in 2022, a massive nationwide building program will create the necessary infrastructure from the ground up. The tournament will be held across 15 stadiums, with eight being built from scratch, three already in progress and four current venues being renovated. King Salman International Stadium will be the pick of the bunch. With around 92,000 seats, it will be one of the world's biggest football stadiums, albeit considerably smaller than the one Morocco hopes will host the 2030 final.",
    "image": "https://talksport.com/wp-content/uploads/2026/07/saudi-arabia-release-new-pictures-950455840-1.webp?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "AL JAZEERA",
@@ -68,16 +78,6 @@
    "link": "https://www.aljazeera.com/amp/sports/2026/7/26/japanese-football-legend-king-kazu-59-scores-first-goal-in-four-years",
    "lede": "COVID-19 affected every aspect of football in 2020, from how the game is watched, to how it’s played, to its finances. The 53-year-old became the oldest player to appear in Japan’s top flight, eclipsing the previous record by eight years. ‘King Kazu’ signs new deal with Yokohama FC to extend his contract by 12 months.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-01-09T095148Z_410344321_RC2LXIA9DDBN_RTRMADP_3_SOCCER-JAPAN-MIURA-1785056687_258ec9-1785059573.jpg?resize=1200%2C630&quality=80",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "GULF NEWS",
-   "title": "MLS allows Messi to skip All-Star Game after gruelling World Cup",
-   "iso": "2026-07-26T10:01:32.000Z",
-   "link": "https://gulfnews.com/sport/football/world-cup/mls-allows-messi-to-skip-all-star-game-after-gruelling-world-cup-1.500620599",
-   "lede": "Lionel Messi was allowed to skip the next week’s Major League Soccer (MLS) All-Star Game after representing Argentina in the recent FIFA World Cup final, the league confirmed on Saturday.The Inter Miami superstar had faced a one-game suspension last year for missing the annual showcase, which features MLS’ top players against a team from Mexico’s Liga MX. Players are generally required to participate unless they are injured.. However, this year’s World Cup was held midway through the MLS season, prompting the league to pause domestic action for seven weeks. MLS had previously agreed to make exceptions for players who progressed deep into the tournament.“.",
-   "image": "https://media.assettype.com/gulfnews%2F2026-07-19%2Fhg9s9ldl%2Fnewsml_afp_com_20260719T000000Z_PH_GTY_2286810432.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
