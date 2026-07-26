@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-26T01:01:29.037Z",
+ "updated": "2026-07-26T01:17:45.249Z",
  "news": [
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Bayern Munich among top five clubs to be compensated by FIFA following World Cup",
+   "iso": "2026-07-26T01:00:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/bavarian-financial-works/234017/fifa-world-cup-german-national-team-bayern-munich",
+   "lede": "The relationship between club and international football has always been shaky at best. Clubs fear injuries that could derail an entire season while international teams pine for their nation’s top talents — a complex conflict of interest. Nowhere is the conflict as prominent as the FIFA World Cup. Clubs have no choice but to surrender their talent to their national teams.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2284132112.jpg?quality=90&strip=all&crop=0%2C10.729289964874%2C100%2C78.541420070251&w=1200",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "GOAL.COM",
    "title": "De la Fuente: I have a sixth sense, Yamal is a genius, and I am not thinking about the 2030 World Cup",
@@ -8,16 +18,6 @@
    "link": "https://www.goal.com/en/lists/de-la-fuente-i-have-a-sixth-sense-yamal-is-a-genius-and-i-am-not-thinking-about-the-2030-world-cup/blt8009be2dd40e7086",
    "lede": "The Spain national team's door is open to Morata and Carvajal. Luis de la Fuente is the most talked-about manager on the planet right now, having steered Spain to World Cup glory at Argentina's expense. La Roja lifted the trophy for the second time in their history, edging Argentina 1-0 after extra time. Speaking to AS newspaper, De la Fuente laid bare the secrets behind a side that has now won Euro 2024 and the 2026 World Cup.",
    "image": "https://assets.goal.com/images/v3/getty-2286950435/crop/MM5DKMJWGE5DEOJQGM5G433XMU5DAORRGY2A====/GettyImages-2286950435.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE SPOKESMAN-REVIEW",
-   "title": "Mailbag: World Cup a flawed model for the College Football Playoff, Senate hurdles for PCSA, Big Ten scheduling and more",
-   "iso": "2026-07-25T21:48:45.000Z",
-   "link": "https://www.spokesman.com/stories/2026/jul/25/mailbag-world-cup-a-flawed-model-for-the-college-f/",
-   "lede": "The Hotline mailbag publishes weekly. Send questions to wilnerhotline@bayareanewsgroup.com and include “mailbag” in the subject line. Or hit me on the social media platform X: @WilnerHotline. Some questions have been edited for clarity and brevity.",
-   "image": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "Football’s broken clock: What Messi and Ronaldo waited decades for, Lamine Yamal already has",
-   "iso": "2026-07-25T19:15:00.000Z",
-   "link": "https://sports.yahoo.com/articles/football-broken-clock-messi-ronaldo-191500596.html",
-   "lede": "Because football can take a man carrying private grief and, for a few seconds, give him somewhere to put it. Take Liverpool star Cody Gakpo. He and his partner had suffered a personal loss during the World Cup and, days later, he scored against Morocco. He did not celebrate so much as collapse, falling to the ground in tears as his teammates gathered around him.",
-   "image": "https://s.yimg.com/ny/api/res/1.2/6lOhlP6vH78ITkHvDdRwpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/barca_universal_articles_732/152b05a98e85f5f9d0f1e120a9ffed61",
+   "cat": "BROBIBLE",
+   "title": "New York Giants Football Player Debunks Common Narrative About Frozen Grass Compared To Artificial Turf",
+   "iso": "2026-07-25T19:06:26.000Z",
+   "link": "https://brobible.com/sports/article/nfl-artificial-turf-natural-grass-world-cup-injuries-more-likely-frozen-weather-field/",
+   "lede": "NFL players were sad to see their employers remove the natural grass playing surface from the World Cup in a return to artificial turf for the upcoming football season. New York Giants offensive lineman Jermaine Eluemunor wants to set the record straight. Unfortunately, NFL owners do not seem to care. They are only focused on what serves their bank accounts instead of what serves their players.",
+   "image": "https://brobible.com/wp-content/uploads/2026/07/nfl-artificial-turf-natural-grass-world-cup-injuries-more-likely-frozen-weather-field.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
