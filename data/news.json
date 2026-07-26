@@ -1,15 +1,35 @@
 {
- "updated": "2026-07-26T20:31:53.367Z",
+ "updated": "2026-07-26T21:13:53.653Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Kazuyoshi Miura: World's oldest professional footballer, 59, scores first goal in nearly four years",
+   "iso": "2026-07-26T20:57:04.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3r087181ndo",
+   "lede": "Miura scored 55 goals for Japan, winning his last cap in 2000. Kazuyoshi Miura, the world's oldest professional footballer, scored his first goal in nearly four years at the age of 59 for Japanese third-tier side Fukushima United. Miura found the net in the 52nd minute to make it 5-0 to Fukushima in an eventual 7-0 win over Iwaki Furukawa in the Emperor's Cup on Saturday. It is his first competitive goal since netting for Suzuka PG, now Atletico Suzuka, against FC Osaka in November 2022.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e19d/live/3a982b90-8931-11f1-b684-d3f861a1f4cf.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "VIDEO: Lionel Messi's special World Cup gifts to Argentina squad revealed by Marco Senesi’s girlfriend Kelci-Rose Bowers",
+   "iso": "2026-07-26T20:49:43.000Z",
+   "link": "https://www.goal.com/en/lists/video-lionel-messi-special-world-cup-gifts-argentina-squad-revealed-marco-senesi-girlfriend-kelci-rose-bowers/blt7d18d51dc2c49ebf",
+   "lede": "Lionel Messi has presented his Argentina team-mates with personalised gifts following their 2026 World Cup campaign. The generous gesture was publicly revealed on social media by Kelci-Rose Bowers, the girlfriend of Tottenham Hotspur defender Marcos Senesi, showcasing a stunning golden mate set given to the squad by the captain. Messi gifted the entire Argentina squad with personalised mate sets following the conclusion of the World Cup. The extravagant present was brought to light by Bowers, who shared a video online displaying the items Senesi brought home from the national team camp.",
+   "image": "https://assets.goal.com/images/v3/getty-2287086954/crop/MM5DGOBSGE5DEMJUHE5G433XMU5DAORSGAYQ====/GettyImages-2287086954.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "ONEFOOTBALL",
    "title": "Paraguay’s World Cup Review: From Humiliation To A Historic Win",
-   "iso": "2026-07-26T20:28:50.000Z",
-   "link": "https://onefootball.com/id/berita/paraguays-world-cup-review-from-humiliation-to-a-historic-win-43189923",
+   "iso": "2026-07-26T20:30:48.000Z",
+   "link": "https://onefootball.com/de/news/paraguays-world-cup-review-from-humiliation-to-a-historic-win-43189923",
    "lede": "Paraguayan alliance 🤝 Verdão: Palmeiras win and stay clear at the top. Orlando Gill: €10m Paraguay Star on United’s Radar After World Cup Heroics. Barcelona star sets sights on Champions League glory after World Cup triumph – “Win everything”. Arsenal eye World Cup star who stunned England.",
-   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F43189923%3Fdate=2026-07-26",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fde%2F43189923%3Fdate=2026-07-26",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -18,8 +38,8 @@
    "link": "https://www.bavarianfootballworks.com/bavarian-financial-works/234017/fifa-world-cup-german-national-team-bayern-munich",
    "lede": "The relationship between club and international football has always been shaky at best. Clubs fear injuries that could derail an entire season while international teams pine for their nation’s top talents — a complex conflict of interest. Nowhere is the conflict as prominent as the FIFA World Cup. Clubs have no choice but to surrender their talent to their national teams.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2284132112.jpg?quality=90&strip=all&crop=0%2C10.729289964874%2C100%2C78.541420070251&w=1200",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE SUN",
@@ -28,8 +48,18 @@
    "link": "https://www.thesun.co.uk/sport/39878097/england-euro-2028-host-qualifying-argentina-world-cup/",
    "lede": "ENGLAND have to qualify for Euro 2028 despite being co-hosts – unlike Argentina at the next World Cup. With millions of fans signing a petition to have the 2022 Qatar winners BANNED from future tournaments, they are furious to know a place in four years is already guaranteed. And that comes with Lionel Scaloni’s side only hosting ONE game. Spain, Portugal and Morocco are the 2030 World Cup hosts and have been given automatic berths.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-39878184.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "SPORTSGRID",
+   "title": "New Zealand's Football Dominance & Challenges in OFC",
+   "iso": "2026-07-26T18:39:34.000Z",
+   "link": "https://www.sportsgrid.com/soccer/video/new-zealands-football-dominance-and-challenges-in-ofc",
+   "lede": "New Zealand currently stands as the dominant football nation within the Oceania Football Confederation (OFC), despite its small population and the national inclination towards rugby. The All Whites debuted at the World Cup in 1982, where they lost all three matches. They improved in 2010, drawing all their games. Interestingly, only Honduras and Egypt have played more World Cup games without a win.",
+   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/153180-1920x1080.webp",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE DAILY STAR",
@@ -38,8 +68,8 @@
    "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/spain-play-possession-based-football-not-tiki-taka-de-la-fuente-4233401",
    "lede": "Spain head coach Luis de la Fuente has dismissed the \"tiki-taka\" label often associated with his country's football, insisting that the identity behind the newly crowned world champions is better described as \"possession-based football\" -- a philosophy that has evolved with the modern game rather than being trapped in nostalgia. Speaking to Spanish newspaper AS following Spain's World Cup triumph, the 65-year-old coach reflected on the tactical identity that carried his side to a flawless tournament, while also reiterating the values that have shaped one of the most successful international teams in recent years. De la Fuente's Spain completed the World Cup unbeaten, conceding just one goal throughout the tournament while extending their remarkable unbeaten run to 38 matches.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,36 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup",
    "lede": "Those who knew the South African, who died aged 25 not long after playing at the World Cup, describe a humble and hard-working man who cared about friends and family. For Jayden Adams, the South Africa midfielder who died this month at the age of 25, football was a “safe space”. Those words, used by Adams’s junior coach Steve Barker at his memorial service 10 days ago, tell you everything you need to know about his life beyond the pitch. Adams’s battles were bestowed on him almost from birth.",
    "image": "https://i.guim.co.uk/img/media/e08e18a68540b6657373cf1b68b803fb8178054c/804_191_2507_2007/master/2507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c911c1a938fcd895f30971e65882c6b",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales",
-   "iso": "2026-07-26T18:27:00.000Z",
-   "link": "https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football",
-   "lede": "England’s progress provides best football-related uplift of recent years, with one pub too packed to host its Dolly Parton tribute. Late opening hours and England’s progress to the semi-final of an expanded World Cup helped provide the best football-related uplift of recent years for pubs, figures suggest. Pubs poured 30m extra pints over the course of the tournament compared with a normal trading period, with busy pumps delivering £150m in added sales, according to the British Beer & Pubs Association (BBPA). The World Cup-related increase in sales, as fans followed England and Scotland games, also appears to have outstripped that seen during previous competitions, including England’s run to the final of Euro 2024.",
-   "image": "https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=090b301e71c202920ef43bb878f7e961",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Former player and World Cup champion to join Jürgen Klopp in the German national setup",
-   "iso": "2026-07-26T17:00:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/235135/former-player-and-world-cup-champion-to-join-jurgen-klopp-in-the-german-national-setup",
-   "lede": "As part of the German national team’s backend overhaul, Per Mertesacker will be joining as the managing director for the DFB from January 2027. He will be bringing vital experience as a World Cup winner and youth coach after spending over 8 years at the helm of Arsenal’s youth academy. The DFB announced Mertesacker’s appointment on Friday. He will be succeeding Andreas Rettig, whose contract expires at the end of this year.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-452119834.jpg?quality=90&strip=all&crop=0%2C13.038460330104%2C100%2C73.923079339793&w=1200",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BUSINESS NEWS NIGERIA",
-   "title": "2030 starts now: Why countries shouldn't wait for qualification to prepare for the next FIFA World Cup",
-   "iso": "2026-07-26T16:36:58.000Z",
-   "link": "https://businessday.ng/opinion/article/2030-starts-now-why-countries-shouldnt-wait-for-qualification-to-prepare-for-the-next-fifa-world-cup/",
-   "lede": "Full FIFA 2026 World Cup quarter-final fixtures, dates and time confirmed. When people think about the FIFA World Cup, they think about football on the pitch. But for governments, businesses, destinations and sports organisations, the World Cup begins years before the opening whistle. It is a platform for trade, tourism, diplomacy, innovation, investment and international partnerships.",
-   "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Fifa-world-cup-2026-football.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
