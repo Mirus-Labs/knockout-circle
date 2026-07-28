@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-28T04:30:50.308Z",
+ "updated": "2026-07-28T06:14:42.337Z",
  "news": [
+  {
+   "cat": "REDIFF",
+   "title": "'Ultimately, Indian Football Has To Be Built By Indians'",
+   "iso": "2026-07-28T05:09:49.000Z",
+   "link": "https://www.rediff.com/sports/report/how-india-can-make-it-to-fifa-world-cup/20260728.htm",
+   "lede": "'Our biggest opportunity lies with the younger age-group teams.' 'If you look at the senior national team, our chances are about 50-50.' 'The gap becomes smaller as you move down the age groups.' 'At the Under-20 level, it's closer to 60-40.'",
+   "image": "https://im.rediff.com/1200-630/sports/2026/jul/07nivetha1.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "Rodri transfer news: Man City hopeful World Cup winner will sign new deal but braced for Real Madrid bid - Paper Talk",
+   "iso": "2026-07-28T04:55:51.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk",
+   "lede": "The top stories and transfer rumours from Tuesday's newspapers... Premier League Manchester City are hopeful that Rodri will sign a new contract, but the club are braced for a bid from Real Madrid for the midfielder as well as moves from other suitors - Guardian Man Utd's Joshua Zirkzee is a top target for Juventus after a deal for Randal Kolo Muani collapsed - The Sun Arsenal target Vinicius Jr will not return to Real Madrid training this week as doubts over his future rumble on - Daily Mail Arsenal are preparing to intensify talks with Newcastle over Bruno Guimaraes, as they look to finally secure the Brazilian midfielder - Mirror Transfer Centre LIVE! | Latest on YOUR PL club! Sky Sports Rewards - tickets, offers and more Download the Sky Sports app for expert analysis, best video & more Not got Sky?",
+   "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "GOAL.COM",
    "title": "'Sorry you were so consumed by hate' - Gianni Infantino blasts FIFA critics after 'most outstanding' World Cup",
@@ -8,18 +28,18 @@
    "link": "https://www.goal.com/en-us/lists/gianni-infantino-blasts-fifa-critics-world-cup/bltb0415c22f8e69021",
    "lede": "FIFA president Gianni Infantino has hit back at his detractors in extraordinary fashion, claiming that those who criticised the 2026 World Cup were \"consumed by hate.\" In a lengthy and defiant statement, the head of world football’s governing body defended the tournament’s legacy and urged his opponents to \"meditate or pray\" instead of spreading negativity. In the wake of a tournament that was as much defined by its off-field drama as its on-field heroics, Infantino has chosen to go on the offensive. The FIFA president used his personal Instagram and the organisation’s official channels to deliver a stinging rebuke to the journalists and critics who questioned the logistics and integrity of the 2026 World Cup across the United States, Canada, and Mexico.",
    "image": "https://assets.goal.com/images/v3/blt0fd095ee04648585/06.gif",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "Rodri transfer news: Man City hopeful World Cup winner will sign new deal but braced for Real Madrid bid - Paper Talk",
-   "iso": "2026-07-28T03:36:15.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk",
-   "lede": "The top stories and transfer rumours from Tuesday's newspapers... Premier League Manchester City are hopeful that Rodri will sign a new contract, but the club are braced for a bid from Real Madrid for the midfielder as well as moves from other suitors - Guardian Man Utd's Joshua Zirkzee is a top target for Juventus after a deal for Randal Kolo Muani collapsed - The Sun Arsenal target Vinicius Jr will not return to Real Madrid training this week as doubts over his future rumble on - Daily Mail Arsenal are preparing to intensify talks with Newcastle over Bruno Guimaraes, as they look to finally secure the Brazilian midfielder - Mirror Transfer Centre LIVE! | Latest on YOUR PL club! Sky Sports Rewards - tickets, offers and more Download the Sky Sports app for expert analysis, best video & more Not got Sky?",
-   "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "cat": "THE EDGE MALAYSIA",
+   "title": "My Say: Argentina loses World Cup and country",
+   "iso": "2026-07-28T03:30:00.000Z",
+   "link": "https://theedgemalaysia.com/node/812089",
+   "lede": "In the latest World Cup, Argentina committed the most fouls — largely in midfield to disrupt their opponents’ play — but only received a disputed red card in the final. It never conceded a penalty, and had the most opponents’ goals disallowed. Messi football Of course, there...",
+   "image": "https://assets.theedgemarkets.com/P51-Argentina-losing-TEM1637_Forum_reuters.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE DAILY STAR",
@@ -28,56 +48,35 @@
    "link": "https://www.thedailystar.net/opinion/views/macro-mirror/news/world-cup-economy-and-the-lessons-changing-world-4234231",
    "lede": "The recently concluded FIFA World Cup held a global audience for over a month, captivating millions. Despite ongoing geopolitical tensions, trade conflicts, and economic uncertainties, the tournament demonstrated football’s power to bring people together across borders, cultures, and languages. The World Cup has grown beyond being just the largest global sporting event, with economic factors playing a significant role behind the excitement. It has evolved into a major global enterprise, demonstrating how modern capitalism creates wealth through brands, media, technology, tourism, intellectual property, and human attention.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Infantino blasts World Cup critics for 'spreading hate' in long rant",
-   "iso": "2026-07-28T00:02:44.000Z",
-   "link": "https://www.standard.co.uk/sport/football/gianni-infantino-letter-world-cup-2026-b1291429.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Gianni Infantino has launched an extraordinary defence of FIFA’s handling of the World Cup, accusing critics of “spreading hate and false rumours” and telling them to “reflect, meditate and pray”. The expanded 48-team men’s 2026 tournament - co-hosted by the United States, Canada and Mexico - finished last weekend when Spain beat Argentina 1-0 in the final after extra time.",
-   "image": "https://static.standard.co.uk/2026/07/27/12/2285906192..?width=1200&auto=webp&quality=75",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "‘Enormous stain on football’: FIFA boss attacks WC critics in ‘world class tantrum’",
-   "iso": "2026-07-27T23:50:05.000Z",
-   "link": "https://www.foxsports.com.au/football/enormous-stain-on-football-fifa-boss-attacks-wc-critics-in-world-class-tantrum/news-story/bee8c5a333853ec3cb05a3c53630149d",
-   "lede": "FIFA President Gianni Infantino has unloaded on critics of the World Cup, accusing the media of spread false narratives and hailing the recently concluded tournament as a raging success. In a stunning 887-word, 15-part rant posted on Instagram, Infantino added several more astonishing quotes to his already extensive catalogue as he addressed several of the big issues that arose during the World Cup held in the United States, Canada and Mexico. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Infantino stunned the world before the 2022 World Cup in Qatar when he addressed human rights concerns in staggering fashion during a press conference in Doha.",
-   "image": "https://content.api.news/v3/images/bin/1d6225e32ec829217662d6a551a995eb",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "23 Million Fans Wanted Argentina Banned From The World Cup. It Changed Nothing",
-   "iso": "2026-07-27T23:43:00.000Z",
-   "link": "https://sports.yahoo.com/articles/23-million-fans-wanted-argentina-234300686.html",
-   "lede": "The numbers are staggering. More than 23 million people from around 170 countries signed an online petition demanding that FIFA permanently ban Argentina from future FIFA World Cups. The organizers were looking for just five million signatories, but ended up with a deluge of outraged soccer fans ...",
-   "image": "https://s.yimg.com/lo/mysterio/api/60cb3ae6769f4f5ab9b3309a5ec877b33930e7ea12d9e4d9abec0820057b33c4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fa2eb1182d45026e3930e6eef15b86b8d",
+   "cat": "KOREA JOONGANG DAILY",
+   "title": "Korea to host Venezuela and Uzbekistan for men's football friendlies",
+   "iso": "2026-07-28T02:54:29.000Z",
+   "link": "https://www.koreajoongangdaily.com/sports/korea-to-host-venezuela-and-uzbekistan-for-mens-football-friendlies/12794873",
+   "lede": "The matches will fall during the next FIFA international match window from Sept. 21 to Oct. Korea will host Venezuela and Uzbekistan for men’s football friendly matches in October, the national football federation announced on Tuesday. The Korea Football Association (KFA) said that the Taeguk Warriors will take on Venezuela on Oct. 2 and then play Uzbekistan four days later. Venues and kickoff times for the matches will be determined later.",
+   "image": "https://image.koreajoongangdaily.com/12794937.jpg?imageId=12794937&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Pirlo, Pep and Paolo: How a summer of self-inflicted controversy left new Italy feeling like the old Italy",
-   "iso": "2026-07-28T04:13:51.000Z",
-   "link": "https://www.nytimes.com/athletic/7472340/2026/07/28/italy-pirlo-pep-guardiola-maldini-ancelotti-malago/",
-   "lede": "After courting Guardiola and Ancelotti, Andrea Pirlo is no longer under consideration as head coach, raising questions of Paolo Maldini...",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/27125044/GettyImages-2282244045-scaled.jpg?width=1200&height=630&fit=cover",
+   "title": "Should the NWSL hold an All-Star Game? Plus: Hope Solo auctions World Cup gear",
+   "iso": "2026-07-28T05:48:23.000Z",
+   "link": "https://www.nytimes.com/athletic/7474426/2026/07/28/nwsl-all-star-game-full-time/",
+   "lede": "Welcome to Full Time, The Athletic's women's soccer newsletter.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/28013922/GettyImages-2248005515.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "조선일보",
-   "title": "Cabo Verde's Cabral Wins FIFA World Cup Best Goal Award",
-   "iso": "2026-07-28T04:07:57.000Z",
-   "link": "https://www.chosun.com/english/sports-en/2026/07/28/IZBN3YXZVFE73PI3FA3NX5ACRM/",
-   "lede": "Cabo Verdes Cabral Wins FIFA World Cup Best Goal Award Defenders spectacular goal against Argentina earns FIFA honor, capping rise from fifth-division obscurity. Cabo Verdes Cabral Wins FIFA World Cup Best Goal Award Defenders spectacular goal against Argentina earns FIFA honor, capping rise from fifth-division.",
-   "image": "https://www.chosun.com/resizer/v2/GRQTGNLFHA2WMMZTGAZTQNJUGM.jpg?auth=b802ca50fb3e2550341f798d3e027d0134a0861d585dac37e5c8968fac9c17a9&width=530&height=278&smart=true",
+   "cat": "MODERN GHANA",
+   "title": "Roger De Sa rates Ghana’s World Cup performance as ‘satisfactory’ despite Round of 32 exit",
+   "iso": "2026-07-28T05:28:26.000Z",
+   "link": "https://www.modernghana.com/sports/1514293/roger-de-sa-rates-ghanas-world-cup-performance.html",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
