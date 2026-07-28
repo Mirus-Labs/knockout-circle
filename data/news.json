@@ -1,6 +1,66 @@
 {
- "updated": "2026-07-28T21:41:12.505Z",
+ "updated": "2026-07-28T22:43:20.176Z",
  "news": [
+  {
+   "cat": "POLITICO.EU",
+   "title": "Burnham blasts FIFA plan to sell World Cup commercial rights",
+   "iso": "2026-07-28T22:39:08.000Z",
+   "link": "https://www.politico.eu/article/andy-burnham-blasts-fifa-plan-football-world-cup-commercial-rights/",
+   "lede": "“The World Cup is not a product,” said Britain’s prime minister. “Once you have sold a piece of it, you have sold out.” Prime Minister Andy Burnham has hit out at plans announced by FIFA to sell a chunk of commercial rights linked to the football World Cup. Under the plan, which has provoked a furious reaction from European football association governing body UEFA, FIFA would create an investment vehicle holding commercial rights related to the World Cup and sell a portion of it to investors for $4.2 billion.",
+   "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/29/GettyImages-2287931681-scaled.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "ONEFOOTBALL",
+   "title": "FIFA's World Cup plan that clashed with UEFA and sparked debate",
+   "iso": "2026-07-28T22:23:17.000Z",
+   "link": "https://onefootball.com/en/news/fifas-world-cup-plan-that-clashed-with-uefa-and-sparked-debate-43199190",
+   "lede": "IFAB clarification suggests Breel Embolo should not have been sent off against Argentina in World Cup quarter-final. Photo: Real Madrid star keeps his World Cup tattoo promise. Lucas Herrington credits Colorado Rapids for World Cup breakout. Is a World Cup boycott brewing?",
+   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43199190%3Fdate=2026-07-28",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "‘Not yours to sell’: WC plunged into turmoil as FIFA ‘nuclear bomb’ set to spark stunning revolt",
+   "iso": "2026-07-28T22:22:53.000Z",
+   "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-fifa-president-gianni-infantino-plans-to-sell-shares-in-world-cup-to-private-investors-including-donald-trumps-soninlaw-jared-kushner-sepp-blatter-and-uefa-angry-statements-outrage-latest-news/news-story/c1cd9c6b4e8a1a3f83f51ae49220b86b",
+   "lede": "FIFA said Tuesday it plans to sell a stake in the business operations of the World Cup and its other competitions through the creation of a semi-private subsidiary. World football’s governing body said it would retain a majority share in FIFA Forward Enterprise (FFE) but hoped to raise $4.2 billion later this year by “carefully selecting long-term investors who will purchase minority, non-controlling interests”. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. FIFA’s statement was a rapid response to a story in British newspapers The Times and The Financial Times based on leaks of the plan from two sources.",
+   "image": "https://content.api.news/v3/images/bin/c2ba2c362048c9bf2b0bfb387fd84cc3",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "CBS SPORTS",
+   "title": "FIFA wants to sell World Cup stake to private investors: UEFA isn't happy and here's why",
+   "iso": "2026-07-28T22:10:00.000Z",
+   "link": "https://www.cbssports.com/soccer/news/fifa-sell-world-cup-stake-to-private-investors-uefa-why-2026/",
+   "lede": "FIFA announced a controversial plan to sell stakes in the World Cup to private investors on Tuesday, one that UEFA quickly slammed as a \"line that football's governing institutions should never cross.\" FIFA boss Gianni Infantino unveiled the FIFA Forward Enterprise (FFE), a new organization that would oversee commercial rights and operational delivery via a $20 billion company with private investors including the Kushner family. UEFA, the European governing body of soccer, immediately reacted on the news saying it \"crosses a line that football's governing institutions should never cross.\" The proposal is subject to approval by a majority of those national associations and FIFA's 37-member council.",
+   "image": "https://sportshub.cbsistatic.com/i/r/2026/07/28/d79b7be9-00a5-4a6d-b105-afdf7b851bc2/thumbnail/1200x675/8f10eadad42b532191d2a231dd581f78/infantino-trump.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "TRT WORLD",
+   "title": "UEFA hits out at Infantino's $4.2B FIFA World Cup investment plan",
+   "iso": "2026-07-28T21:54:38.000Z",
+   "link": "https://www.trtworld.com/article/579a513e24e0",
+   "lede": "UEFA has criticised a reported plan by FIFA President Gianni Infantino to sell stakes in the FIFA World Cup to private investors, saying football's governance is \"not FIFA's to sell.\" TheTimesnewspaperreportedon Tuesday that Infantino was planning to sell stakes in the tournament to private investors. The report said he had held talks with investors and warned the move could have a \"devastating\" impact on football.According to the report, each of FIFA's 211 member associations would likely receive a stake worth about $20 million. The associations would be able to keep the stake or sell it to generate income.The report also cited sources as saying that Infantino was preparing to lead the company as commissioner after his final term as FIFA president.",
+   "image": "https://d341l694dl30ad.cloudfront.net/images/reuters/2026/07/28/6a68db803b445879cba4c999/original/f91fa65d-deb9-4a2c-8dbd-e8539b27149a-1785256832422.jpg?width=1080&format=jpg&quality=80",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Germany blocks America's path to hosting the 2038 World Cup",
+   "iso": "2026-07-28T21:26:56.000Z",
+   "link": "https://www.goal.com/en/news/germany-blocks-america-s-path-towards-hosting-the-2038-world-cup/bltffd9422820ffe20d",
+   "lede": "Germany have officially declared their ambition to host the 2038 World Cup, with talk in recent days growing over a possible joint bid alongside France. One of the most prominent figures in German football has confirmed the country's desire to stage the men's World Cup in 2042. The door remains open to a bid as early as 2038, though, should FIFA soften its stance on continental rotation. Axel Hellmann, a board member of the German Football Association, told \"Foot Mercato\": \"We strongly want it, and there is an initiative from Bernd Neuendorf, the association's president, and the German Football Association to submit a bid to host the 2042 edition, and perhaps even 2038.",
+   "image": "https://assets.goal.com/images/v3/blt1e97a3b6532b474f/GettyImages-1245700262%20(1).jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
   {
    "cat": "CARIBBEANLIFE.COM",
    "title": "Infantino: FIFA will examine possibility of 64-team World Cup",
@@ -8,76 +68,16 @@
    "link": "https://www.caribbeanlife.com/infantino-fifa-will-examine-possibility-of-64-team-world-cup/",
    "lede": "FIFA President Gianni Infantino has confirmed that the organization will consider expanding the men’s World Cup to 64 teams after the 2026 tournament. The 2026 edition, hosted by the United States, Canada, and Mexico, is already the first to feature 48 teams, up from 32. Infantino said the proposal is aimed at giving more countries the opportunity to qualify and dream of competing on football’s biggest stage. “This is certainly an issue that will be looked at and discussed in the relevant committees after this World Cup,” FIFA’s president told Swiss broadcaster Blue Sport when asked about the possibility of a 64-team tournament.",
    "image": "https://www.caribbeanlife.com/wp-content/uploads/2026/07/2026-07-28T162725Z_2108218854_RC2WBMA7W1GZ_RTRMADP_3_SOCCER-FIFA-STAKE.jpg?quality=51&w=1200&p=q",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Germany blocks America's path to hosting the 2038 World Cup",
-   "iso": "2026-07-28T21:24:07.000Z",
-   "link": "https://www.goal.com/en/news/germany-blocks-america-s-path-towards-hosting-the-2038-world-cup/bltffd9422820ffe20d",
-   "lede": "Germany have officially declared their ambition to host the 2038 World Cup, with talk in recent days growing over a possible joint bid alongside France. One of the most prominent figures in German football has confirmed the country's desire to stage the men's World Cup in 2042. The door remains open to a bid as early as 2038, though, should FIFA soften its stance on continental rotation. Axel Hellmann, a board member of the German Football Association, told \"Foot Mercato\": \"We strongly want it, and there is an initiative from Bernd Neuendorf, the association's president, and the German Football Association to submit a bid to host the 2042 edition, and perhaps even 2038.",
-   "image": "https://assets.goal.com/images/v3/blt1e97a3b6532b474f/GettyImages-1245700262%20(1).jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Is the World Cup for sale? Here’s what Fifa’s plans mean and what happens next | Paul MacInnes",
-   "iso": "2026-07-28T20:39:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/28/fifa-world-cup-plans-explained-gianni-infantino-uefa-football",
-   "lede": "Gianni Infantino is under fire from Uefa over plans to sell off commercial rights for the tournament but he says they are ‘about the democratisation of football worldwide’. A week after the World Cup finished, Fifa has yet to announce whether Argentina will be punished for the violence seen on the pitch at the end of the final. What it has been able to do, however, is devise an entirely new way of running international football, which – in the words of its president, Gianni Infantino – “is about the democratisation of football worldwide”. It is also an idea to allow private investors to take a stake in Fifa’s competitions and potentially make money from the World Cup.",
-   "image": "https://i.guim.co.uk/img/media/fa184bb09f1d1bafdb087a5a8355b4805cb06e50/85_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f5ba0268520680c13e7f60146f72866",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Fifa accused of ‘selling the soul of football’ over $20bn World Cup commercial rights sale plan",
-   "iso": "2026-07-28T20:02:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/28/fifa-plan-sell-world-cup-commercial-rights-uefa-hits-out",
-   "lede": "World governing body set to raise millions from venture. Uefa hits out at proposal and could take legal action. Explainer: what Fifa’s plans mean and what happens next. Fifa has announced plans to sell the commercial rights to its tournaments, including the World Cup, to private investors in a controversial move that triggered an immediate backlash from Uefa, leading European clubs and politicians.",
-   "image": "https://i.guim.co.uk/img/media/e1995e6b03773fa46931b05818f194bb70ed2e1a/114_98_1818_1453/master/1818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67762a43275d206521335d998933ca06",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "'Kick them out' Argentina face penalty punishment for fighting as fan fury erupts online",
-   "iso": "2026-07-28T19:40:31.000Z",
-   "link": "https://sports.yahoo.com/articles/kick-argentina-world-cup-petition-072709660.html",
-   "lede": "FIFA has confirmed that Argentina will face an investigation into the “disgusting” scenes at the end of the World Cup final. The team has gone viral for all the wrong reasons at this year’s tournament.View on euronews. The team has gone viral for all...",
-   "image": "https://s.yimg.com/lo/mysterio/api/0c2d357290dafc338a7c1e584365607c692e88671ccf6e19f5e3a47dadbc855c/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F7171f88816d17a01583b4d4cbb00422c",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MARCA",
-   "title": "German legend goes all out against Argentina: \"It didn’t have much to do with football\"",
-   "iso": "2026-07-28T19:40:24.000Z",
-   "link": "https://amp.marca.com/en/world-cup/2026/07/28/german-legend-goes-all-out-against-argentina-it-didn-t-have-much-to-do-with-football.html",
-   "lede": "The Argentina national team once again found itself at the center of international debate. This time, the criticism came from Germany and had Rudi Völler as its main figure. The historic world champion from Italy 1990 and current sporting director of the German Football Federation (DFB) harshly questioned the style of play of the team managed by Lionel Scaloni. Völler took advantage of his speech at the BDFL International Coaches Congress to launch harsh criticism at the Argentina National Team and its defensive and offensive play shown at the 2026 World Cup: \"I said that, as Germany, we need to defend better.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/28/6a6902d080927.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "World Cup: UEFA hit out at FIFA and Gianni Infantino amid plans to sell minority stakes linked to competition",
-   "iso": "2026-07-28T19:40:02.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition",
-   "lede": "A major row has broken out between football's governing bodies over FIFA's plans to seek private investment in the World Cup, with UEFA reacting angrily and European nations ready to discuss a potential boycott. FIFA announced on Tuesday that it was seeking to launch FIFA Forward Enterprise (FFE), which would bring together the sale of FIFA's commercial rights - including broadcasting, sponsorship, ticketing and licensing - with the operational delivery of its tournaments. Under the proposal, FIFA would raise up to $4.2bn (£3.1bn) from external investors through the sale of minority, non-controlling stakes in FFE, which it says would be valued at around $20bn (£15bn). The governing body says its plans - which need approval from member associations - could deliver more than $10bn in \"football development funding\" over the next four years.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-infantino-world-cup_7308724.jpg?20260728164237",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SMH.COM.AU",
-   "title": "FIFA president’s plan to sell World Cup stake met with fury",
-   "iso": "2026-07-28T21:12:39.000Z",
-   "link": "https://www.smh.com.au/business/companies/fifa-president-s-plan-to-sell-world-cup-stake-met-with-fury-20260729-p60jg6.html",
-   "lede": "An investment vehicle founded by Joshua Kushner, the brother of Jared Kushner, US President Donald Trump’s son-in-law, is expected to be a lead investor.",
-   "image": "https://static.ffx.io/images/$zoom_0.37513283740701375%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6fb937fd4f1cc444c4aa2aef3f6838eaf1f0bdca",
+   "cat": "THE GUARDIAN",
+   "title": "Fifa accused of ‘selling the soul of football’ over $20bn World Cup commercial rights sale plan",
+   "iso": "2026-07-28T21:14:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/28/fifa-plan-sell-world-cup-commercial-rights-uefa-hits-out",
+   "lede": "World governing body set to raise millions from venture. Uefa hits out at proposal and could take legal action. Explainer: what Fifa’s plans mean and what happens next. Fifa has announced plans to sell the commercial rights to its tournaments, including the World Cup, to private investors in a controversial move that triggered an immediate backlash from Uefa, leading European clubs and politicians.",
+   "image": "https://i.guim.co.uk/img/media/e1995e6b03773fa46931b05818f194bb70ed2e1a/114_98_1818_1453/master/1818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67762a43275d206521335d998933ca06",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
