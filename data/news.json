@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-28T11:28:31.372Z",
+ "updated": "2026-07-28T12:16:53.813Z",
  "news": [
+  {
+   "cat": "MARCA",
+   "title": "Neymar's heartbreaking decision after the painful World Cup failure",
+   "iso": "2026-07-28T11:36:45.000Z",
+   "link": "https://www.marca.com/en/football/2026/07/28/neymar-s-heartbreaking-decision-after-the-painful-world-cup-failure.html",
+   "lede": "'The elimination of Brazil from the World Cup shook the foundations of international football and left one of the most striking images of recent years. The legendary forward Neymar Jr once again found himself caught up in a whirlwind of uncertainty over whether he will continue enjoying pulling on his kit or hang up his boots forever.' According to the information revealed by the sports outlet Bitbol and signed by journalist Ezequiel Gasca, the forward is going through the most difficult crossroads of his career after leaving the international tournament in tears. The accumulated frustration after not being able to make the impact he wanted accelerated rumors of an abrupt ending.",
+   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/28/6a6893dd31c1f.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE HINDU",
+   "title": "Soccer rules panel clarifies VAR process that World Cup red card for Switzerland's Embolo was wrong",
+   "iso": "2026-07-28T11:30:16.000Z",
+   "link": "https://www.thehindu.com/sport/football/soccer-rules-panel-clarifies-var-process-that-world-cup-red-card-for-switzerlands-embolo-was-wrong/article71276522.ece",
+   "lede": "Football’s law-making panel clarified its guidance to referees which confirmed Switzerland forward Breel Embolo should not have been sent off in the World Cup quarter-finals against Argentina. Embolo's second yellow card, after a video review for simulating being fouled, changed the momentum of the game in the 72nd minute soon after Switzerland tied the score at 1-1. Argentina won 3-1 in extra time with help from the red-card decision that fuelled complaints, including from previous opponent Egypt, referees were favouring Lionel Messi's team with decisions. The FIFA-backed rules panel known as IFAB published a clarification on Monday (July 27, 2026) that VAR protocol for \"mistaken identity\" cases was not eligible for that type of incident at the World Cup, though it could be in future competitions.",
+   "image": "https://th-i.thgim.com/public/incoming/laxvyi/article71276569.ece/alternates/LANDSCAPE_1200/Switzerland_Argentina_WCup_Soccer_87_96.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "PROTHOM ALO ENGLISH",
    "title": "Zidane replaces Deschamps as France coach, signs through 2030 World Cup",
@@ -8,18 +28,8 @@
    "link": "https://en.prothomalo.com/sports/football/kot2dxdn8m",
    "lede": "France great Zinedine Zidane's long-held ambition to coach the national team became reality on Tuesday when the French Football Federation appointed the former captain and World Cup winner as Didier Deschamps' successor on a four-year contract. The appointment of former Real Madrid manager Zidane comes two weeks after Deschamps' tenure as coach ended following France's fourth-place finish at the World Cup. His final match in charge was a 6-4 defeat by England. \"The French team was the only thing I wanted to do,\" Zidane told reporters. .",
    "image": "https://media.prothomalo.com/prothomalo-english%2F2026-07-28%2Fnzbcfol6%2F2026-07-28T100611Z947912029UP1EM7S0S29HCRTRMADP3SOCCER-FRANCE.JPG?rect=0%2C0%2C3418%2C1794&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "SPORTSTAR",
-   "title": "Why has IFAB ruled that Embolo red card in FIFA World Cup 2026 was wrong?",
-   "iso": "2026-07-28T10:37:26.000Z",
-   "link": "https://sportstar.thehindu.com/football/fifa-world-cup/ifab-ruling-breel-embolo-red-card-var-mistaken-identity-switzerland-vs-argentina-world-cup-2026/article71276500.ece",
-   "lede": "left Referee Joao Pinheiro gives a red card to Switzerland's Breel Embolo after a VAR check for ‘mistaken identity’ in the quarterfinal against Argentina. AP AP https://ss-i.thgim.com/public/incoming/crwwlu/article71276546.ece/alternates/FREE_1200/APTOPIX_Switzerland_Argentina_WCup_Soccer_88595.jpg ED ZURGA Referee Joao Pinheiro, of Portugal, gives a red card to Switzerland's Breel Embolo (7), left, during the World Cup quarterfinal soccer match between Argentina and Switzerland in Kansas City, Mo., Saturday, July 11, 2026. (AP Photo/Ed Zurga) Embolo’s second yellow card, after a video review for simulating being fouled, changed the momentum of the game in the 72nd minute soon after Switzerland tied the score at 1-1 against Argentina.",
-   "image": "https://ss-i.thgim.com/public/incoming/crwwlu/article71276546.ece/alternates/LANDSCAPE_1200/APTOPIX_Switzerland_Argentina_WCup_Soccer_88595.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +38,8 @@
    "link": "https://www.theguardian.com/sport/no-helmets-required/2026/jul/28/world-cup-rugby-league-host-countries-england-semi-finals-diaspora-players-tickets-matches",
    "lede": "There are similarities between the tournaments – three co-hosts, England challenging and diaspora players – but tickets are cheaper and there are half as many matches. Gianni Infantino said the World Cup was like 104 Super Bowls. The men’s event at the Rugby League World Cup will be more like 18 Super League games. Some matches will attract four-figure crowds while others will be played in front of full houses of 50,000.",
    "image": "https://i.guim.co.uk/img/media/76ad6bc078b9349946e15bce89084edc0a9dca61/218_0_2897_2317/master/2897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62327086b89dd9db93ce2d24dec213d9",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SRILANKA.FACTCRESCENDO.COM",
@@ -38,8 +48,8 @@
    "link": "https://srilanka.factcrescendo.com/english/false-claims-that-went-viral-about-the-2026-fifa-world-cup/",
    "lede": "The 2026 FIFA World Cup made history both on and off the pitch. Hosted jointly by Canada, Mexico, and the United States, it was the first tournament to feature 48 teams and 104 matches, making it the largest FIFA World Cup ever held. Spain lifted the trophy after defeating Argentina 1-0 in extra time, concluding a tournament that broke multiple sporting records. However, the competition was also accompanied by an unprecedented wave of misinformation.",
    "image": "https://srilanka.factcrescendo.com/english/wp-content/uploads/2026/07/19-2607-cover.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GAMEREACTOR UK",
@@ -48,8 +58,18 @@
    "link": "https://www.gamereactor.eu/world-cup-final-referee-slavko-vincic-announces-his-retirement-1753063/",
    "lede": "Slavko Vinčić, the 46-year-old Slovenian referee who officiated the World Cup 2026 final between Spain and Argentina, has announced his retirement. The Slovenian Football Association (NZS) announced it on Monday: \"One week after the World Cup final in the USA, Slavko Vincic has officially ended his historic refereeing career at the top of the sport,\" adding that he \"consolidated his status as one of the best referees in history.\" Vinčić was named by the International Federation of Football History and Statistics (IFFHS) as the best referee of the World Cup for maintaining \"the clear and firm disciplinary control that characterizes elite refereeing\" and received the the prestigious 'Giulio Campanati' award in Italy.Vincic started officiating international matches in 2010 and worked in World Cups 2022 and 2026, and UEFA Euro 2020 and 2024.",
    "image": "https://www.gamereactor.eu/media/78/_4957843b.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "'Sorry you were so consumed by hate!' - Gianni Infantino blasts FIFA critics after 'most outstanding' World Cup",
+   "iso": "2026-07-28T10:17:08.000Z",
+   "link": "https://www.goal.com/en/lists/gianni-infantino-blasts-fifa-critics-world-cup/bltb0415c22f8e69021",
+   "lede": "FIFA president Gianni Infantino has hit back at his detractors in extraordinary fashion, claiming that those who criticised the 2026 World Cup were \"consumed by hate.\" In a lengthy and defiant statement, the head of world football’s governing body defended the tournament’s legacy and urged his opponents to \"meditate or pray\" instead of spreading negativity. In the wake of a tournament that was as much defined by its off-field drama as its on-field heroics, Infantino has chosen to go on the offensive. The FIFA president used his personal Instagram and the organisation’s official channels to deliver a stinging rebuke to the journalists and critics who questioned the logistics and integrity of the 2026 World Cup across the United States, Canada, and Mexico.",
+   "image": "https://assets.goal.com/images/v3/blt0fd095ee04648585/06.gif",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "GULF NEWS",
@@ -58,26 +78,6 @@
    "link": "https://gulfnews.com/sport/football/only-job-i-wanted-zidane-says-after-being-named-france-coach-2-1.500622657",
    "lede": "France’s prodigal son is back and how! After coaching Spanish giants Real Madrid to three consecutive Champions League titles in 2016, 2017 and 2018, an unprecedented achievement in the competition's modern era, Zinedine Zidane has now taken over as the coach of the France national team.The 54-year-old, who won the World Cup in 1998 and the European Championship in 2000, takes over from another player-turned-coach Didier Deschamps, who guided France to 2018 World Cup glory and the final four years later.. Get updated faster and for FREE: Download the Gulf News app now - simply click here.. Zidane also follows in the footsteps of former international team-mate Laurent Blanc, who coached the national side from 2010 to 2012.",
    "image": "https://media.assettype.com/gulfnews%2F2026-07-28%2F4wfxx1qw%2Fnewsml_afp_com_20260728T094330Z_doc_c3cw3hu.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "TIMES WEST VIRGINIAN",
-   "title": "Soccer rules panel clarifies VAR process that World Cup red card for Switzerland's Embolo was wrong",
-   "iso": "2026-07-28T10:00:00.000Z",
-   "link": "https://www.timeswv.com/sports/soccer-rules-panel-clarifies-var-process-that-world-cup-red-card-for-switzerlands-embolo-was/article_ec6be028-bb4f-5a97-bd08-a1de7b666e32.html",
-   "lede": "GENEVA (AP) — Soccer’s law-making panel clarified its guidance to referees which confirmed Switzerland forward Breel Embolo should not have been sent off in the World Cup quarterfinals against Argentina. Embolo’s second yellow card, after a video review for simulating being fouled, changed the momentum of the game in the 72nd minute soon after Switzerland tied the score at 1-1. Referee Joao Pinheiro, of Portugal, gives a red card to Switzerland's Breel Embolo (7), left, during the World Cup quarterfinal soccer match between Argentina and Switzerland in Kansas City, Mo., Saturday, July 11, 2026. Switzerland's Breel Embolo (7) reacts as he dives in a challenge from Argentina's Leandro Paredes (5) for which he got a second yellow card during the World Cup quarterfinal soccer match between Argentina and Switzerland in Kansas City, Mo., Saturday, July 11, 2026.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/3/5f/35fed3fb-567c-5532-a464-1792f00a1300/6a687a970cdae.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "TALKSPORT",
-   "title": "World Cup hero Vozinha forced to change name at new club",
-   "iso": "2026-07-28T09:48:18.000Z",
-   "link": "https://talksport.com/football/4469857/world-cup-hero-vozinha-change-name-new-club/",
-   "lede": "The 40-year-old became a World Cup hero after his sensational performances for the African nation, most notably against eventual finalists - Argentina and Spain. Following the group stage game against La Roja, Vozinha went from having 50,000 followers on Instagram to over 1 million within 24 hours. During that iconic performance, he made seven saves to earn his home nation a historic result, with Luis de la Fuente's side maintaining a perfect record for the rest of the competition. He currently boasts more than 29.6 million followers on the social media platform and was also named in FIFA's Dream World Cup XI having secured a whopping 40 per cent of the votes.",
-   "image": "https://talksport.com/wp-content/uploads/2026/06/NINTCHDBPICT001088654353.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
