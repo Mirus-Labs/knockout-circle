@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-28T18:04:33.095Z",
+ "updated": "2026-07-28T18:48:27.731Z",
  "news": [
+  {
+   "cat": "THE TELEGRAPH",
+   "title": "Everything we know about Fifa’s plan to sell the World Cup",
+   "iso": "2026-07-28T18:16:00.000Z",
+   "link": "https://www.telegraph.co.uk/football/2026/07/28/everything-we-know-about-fifas-plan-to-sell-the-world-cup/",
+   "lede": "What is Infantino proposing, who stands to benefit and what could it mean for football? Telegraph Sport breaks down the details. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent.",
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/07/28/TELEMMGLPICT000458438881_17852604756680_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf_4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "WORLD SOCCER TALK",
    "title": "UEFA issues scathing response to Infantino and FIFA’s reported plan to sell World Cup stakes: ‘None of us a...",
@@ -8,8 +18,8 @@
    "link": "https://worldsoccertalk.com/world-cup/uefa-issues-scathing-response-to-infantino-and-fifas-reported-plan-to-sell-world-cup-stakes-none-of-us-are-the-owners-of-football/",
    "lede": "The global soccer landscape suffered a massive shockwave following reports that FIFA president Gianni Infantino plans to sell commercial stakes in the World Cup to private investors. The proposal drew immediate, fierce backlash from rival governing bodies, with European confederation UEFA issuing a blistering response: “None of us are the owners of football.” According to an initial report by The Times‘ Martyn Ziegler, FIFA plans to sell minority equity stakes tied to World Cup commercial rights to private investors. The deal would center on establishing a new commercial subsidiary responsible for managing business and event operations across top men’s and women’s competitions.",
    "image": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/05/20162429/aleksander-ceferin-gianni-infantino-1200x740.webp",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/jul/28/fifa-plan-sell-world-cup-commercial-rights-uefa-hits-out",
    "lede": "World governing body set to raise millions from venture. Uefa hits out at proposal and could take legal action. Fifa has announced plans to sell the commercial rights to its tournaments, including the World Cup, to private investors in a controversial move that triggered an immediate backlash from Uefa and leading European clubs. Uefa released a strongly-worded statement accusing Fifa of “attempting to sell the soul of football” and is believed to be considering its legal position, while sources at numerous elite clubs were highly critical of the proposal in private.",
    "image": "https://i.guim.co.uk/img/media/e1995e6b03773fa46931b05818f194bb70ed2e1a/114_98_1818_1453/master/1818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67762a43275d206521335d998933ca06",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "DW.COM",
@@ -28,18 +38,28 @@
    "link": "https://www.dw.com/en/fifa-plans-to-form-new-commercial-subsidiary-and-sell-stake/a-78149348",
    "lede": "FIFA has announced plans to form a commercial subsidiary and to sell a non-controlling interest to private investors. It needs approval from member associations, but is claiming that it will benefit them financially. FIFA plans to create a new commercial subsidiary valued at $20 billion (roughly €17.5 billion) and sell non-controlling minority stakes to investors, world football's governing body announced on Tuesday. It called on its 211 member federations to back the plan, saying that if they voted in favor they \"would benefit immediately from increased funding.\"",
    "image": "https://static.dw.com/image/78032738_6.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SKY SPORTS",
    "title": "World Cup: UEFA hit out at FIFA and Gianni Infantino amid plans to sell minority stakes linked to competition",
-   "iso": "2026-07-28T17:37:30.000Z",
+   "iso": "2026-07-28T17:38:31.000Z",
    "link": "https://www.skysports.com/football/news/11095/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition",
    "lede": "UEFA have hit out at FIFA's plans to sell stakes linked to the World Cup to private investors. On Tuesday, FIFA released a detailed statement outlining plans to launch a new commercial company as it targets $10bn-plus (£7.5bn) development funding. FIFA says it could deliver more than $10bn in football development funding over the next four years through the creation of a new commercial subsidiary, subject to approval from its member associations. FIFA Forward Enterprise (FFE), a FIFA-owned company, would bring together its commercial rights, including broadcasting, sponsorship, ticketing and licensing, alongside the operational delivery of FIFA tournaments.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-infantino-world-cup_7308724.jpg?20260728164237",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "FORTUNE",
+   "title": "The Erling Haaland boom: Norway’s ‘pop-up economy’ during the World Cup revealed in Visa data",
+   "iso": "2026-07-28T17:32:00.000Z",
+   "link": "https://fortune.com/2026/07/28/erling-haaland-pop-up-economy-world-cup-visa-norway/",
+   "lede": "Erling Haaland may have been the biggest star to come out of this World Cup as fans all over the world became enamored with the big Norwegian striker as he raced for the Golden Boot and added to his 72 million-plus social media followers with adventures featuring Birkin Bags, Katz’s Deli, and a certain taxidermied raccoon. But he also drove what Visa called a “pop-up economy.” The deepest World Cup run in Norwegian football history tracked closely with the Manchester City striker’s own path through the tournament, and it turns out the spending followed him off the field as much as it followed the team on it. The credit card provider disclosed to Fortune that transaction volumes inside Norway nearly doubled during the team’s matches, and by the later rounds, spending activity rose in more than 60 countries whenever Norway played.",
+   "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285318303-e1785259890576.jpg?resize=1200,600",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "GULF NEWS",
@@ -48,36 +68,16 @@
    "link": "https://gulfnews.com/sport/football/world-cup/fifa-says-it-hopes-to-sell-42-billion-stake-in-its-tournaments-1.500623165",
    "lede": "Paris: FIFA said Tuesday it plans to sell a stake in the business operations of the World Cup and its other competitions through the creation of a semi-private subsidiary.World football's governing body said it would retain a majority share in FIFA Forward Enterprise (FFE) but hoped to raise $4.2 billion later this year by \"carefully selecting long-term investors who will purchase minority, non-controlling interests\".. Get updated faster and for FREE: Download the Gulf News app now - simply click here.. FIFA's statement was a rapid response to a story in British newspaper The Times based on leaks of the plan from two sources.The Times reported that FIFA president Gianni Infantino, 56, stood to profit from the scheme by becoming commissioner of the FFE after his expected next term expires in 2031.",
    "image": "https://media.assettype.com/gulfnews%2Fimport%2F2022%2F08%2F16%2FFIFA_182a4e88ebc_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Where To Find Algeria's Stars Following World Cup Elimination",
-   "iso": "2026-07-28T16:48:43.000Z",
-   "link": "https://www.foxsports.com/stories/soccer/where-find-algerias-stars-following-world-cup-elimination",
-   "lede": "Algeria earned a place in the knockout rounds of the 2026 World Cup. The team competed in Group J against Argentina, Jordan, and Austria, fielding a squad that advanced past the group stage. During the group stage, they lost their opening match 3-0 to Argentina before securing a 2-1 victory over Jordan. A 3-3 draw against Austria confirmed Algeria's progression to the knockout phase.",
-   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/gettyimages-2283226234-scaled.jpg?ve=1&tl=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE INDIAN EXPRESS",
-   "title": "Italy turn back to Roberto Mancini to end World Cup exile",
-   "iso": "2026-07-28T16:31:02.000Z",
-   "link": "https://indianexpress.com/article/sports/football/italy-turn-back-to-roberto-mancini-to-end-world-cup-exile-10807874/",
-   "lede": "Roberto Mancini has returned for a second spell as Italy's manager while Claudio Ranieri will be technical director, the country's football president told reporters on Tuesday. Mancini replaces Gennaro Gattuso, who left in April after Italy failed to secure qualification to the 2026 FIFA World Cup, an unprecedented third consecutive time that the four-time champions had failed to make it to the marquee tournament. \"Mancini is the coach,\" said Italian Football Federation (FIGC) President Giovanni Malago before confirming ? the decision at a press conference.",
-   "image": "https://images.indianexpress.com/2026/07/mancini-ap.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "HITC.COM",
-   "title": "How future World Cups would look if Gianni Infantino sells a stake to Donald Trump allies",
-   "iso": "2026-07-28T16:30:00.000Z",
-   "link": "https://www.hitc.com/how-future-world-cups-would-look-if-gianni-infantino-sells-a-stake-to-donald-trump-allies/",
-   "lede": "A commercial shake-up at the top of world football could reshape what attending and watching future World Cups actually looks like for supporters. Gianni Infantino seems ready to treat the World Cup less like a football tournament and more like a private equity play. The idea is to spin off FIFA’s biggest events into a new entity, selling stakes and bringing in big names to fund the whole thing. Once private cash starts calling the shots, don’t be shocked if the World Cup bloats to 64 teams or gets shuffled into desert winters whenever profit targets demand it.",
-   "image": "https://cdn3.hitc.com/uploads/1/2026/07/GettyImages-2286810511-scaled.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Zinedine Zidane defined France’s football history. Now he wants to shape its future",
+   "iso": "2026-07-28T18:33:04.000Z",
+   "link": "https://www.nytimes.com/athletic/7475256/2026/07/28/zinedine-zidane-france-manager/",
+   "lede": "'Zizou' is a hugely popular appointment to replace Didier Deschamps but remains an enigmatic figure.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/28123855/GettyImages-2287334657-scaled-e1785257064225.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
