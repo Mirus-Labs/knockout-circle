@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-29T12:30:47.740Z",
+ "updated": "2026-07-29T12:34:06.678Z",
  "news": [
+  {
+   "cat": "CBS SPORTS",
+   "title": "FIFA wants to sell World Cup stake to private investors: UEFA isn't happy and here's why",
+   "iso": "2026-07-29T12:17:00.000Z",
+   "link": "https://www.cbssports.com/soccer/news/fifa-sell-world-cup-stake-to-private-investors-uefa-why-2026/",
+   "lede": "FIFA announced a controversial plan to sell stakes in the World Cup to private investors on Tuesday, one that UEFA quickly slammed as a \"line that football's governing institutions should never cross.\" FIFA boss Gianni Infantino unveiled the FIFA Forward Enterprise (FFE), a new organization that would oversee commercial rights and operational delivery via a $20 billion company with private investors including the Kushner family. UEFA, the European governing body of soccer, immediately reacted on the news saying it \"crosses a line that football's governing institutions should never cross.\" The proposal is subject to approval by a majority of those national associations and FIFA's 37-member council.",
+   "image": "https://sportshub.cbsistatic.com/i/r/2026/07/28/d79b7be9-00a5-4a6d-b105-afdf7b851bc2/thumbnail/1200x675/8f10eadad42b532191d2a231dd581f78/infantino-trump.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE INDEPENDENT",
    "title": "Gianni Infantino tells countries to back Fifa’s World Cup plan – or miss out on $30m",
@@ -8,8 +18,8 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-world-cup-fifa-sale-vote-b3023654.html",
    "lede": "Infantino will use a ‘one-off’ payment of $20m to tempt Fifa’s 211 member associations into backing his plans to sell stakes in the World Cup and other major tournaments to external investors. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/07/29/09/01KYPGV0K2327VJ5X4T10YRM37.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -18,8 +28,8 @@
    "link": "https://www.independent.co.uk/sport/football/czech-fa-david-trunda-fifa-world-cup-gianni-infantino-b3023757.html",
    "lede": "The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission. Early plans for a Uefa boycott of Fifa competitions have suffered an early blow. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
    "image": "https://static.independent.co.uk/2026/07/29/10/2026-07-28T162725Z_2108218854_RC2WBMA7W1GZ_RTRMADP_3_SOCCER-FIFA-STAKE.JPG?trim=6,0,6,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SKY SPORTS",
@@ -28,8 +38,8 @@
    "link": "https://www.skysports.com/football/news/11095/13568022/world-cup",
    "lede": "Gianni Infantino has given football associations until September 19 to back his plan to sell off part of FIFA to private investors - with a $40m (£30.1m) incentive to accept, a letter has revealed. FIFA announced on Tuesday that it was seeking to launch FIFA Forward Enterprise (FFE), which would bring together the sale of FIFA's commercial rights - including broadcasting, sponsorship, ticketing and licensing - with the operational delivery of its tournaments. Under the proposal, FIFA would raise up to $4.2bn (£3.1bn) from external investors through the sale of minority, non-controlling stakes in FFE, which it says would be valued at around $20bn (£15bn). The governing body says its plans - which need approval from member associations - could deliver more than $10bn in \"football development funding\" over the next four years.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-infantino-world-cup_7308724.jpg?20260728164237",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -38,8 +48,18 @@
    "link": "https://www.independent.co.uk/sport/football/world-cup-boycott-infantino-trump-uefa-b3023516.html",
    "lede": "Senior figures in European football will discuss a boycott after Gianni Infantino revealed plans to sell off stakes in the World Cup, reports Miguel Delaney, but amid the outrage, will the federations have the courage to front up to Fifa? From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/06/10/19/2280936357..?trim=0,36,0,35&width=1200&height=800&crop=1200:800",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "'Kick them out' Argentina face penalty punishment for fighting as fan fury erupts online",
+   "iso": "2026-07-29T11:31:41.000Z",
+   "link": "https://sports.yahoo.com/articles/kick-argentina-world-cup-petition-072709660.html",
+   "lede": "FIFA has confirmed that Argentina will face an investigation into the “disgusting” scenes at the end of the World Cup final. The team has gone viral for all the wrong reasons at this year’s tournament.View on euronews. The team has gone viral for all...",
+   "image": "https://s.yimg.com/lo/mysterio/api/0c2d357290dafc338a7c1e584365607c692e88671ccf6e19f5e3a47dadbc855c/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F7171f88816d17a01583b4d4cbb00422c",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -48,8 +68,8 @@
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/236598/galatasaray-manager-defends-leroy-sane-after-world-cup-disaster",
    "lede": "It has been over a month since Germany crashed out of the World Cup in (a not so) spectacular fashion. Julian Nagelsmann was criticized for his erratic decisions with the team, setup, tactics, and everything in between. One of the primary points of contention was sticking with Leroy Sané despite the winger underperforming massively. Okan Buruk, Sané’s manager at Galatasaray, found it amusing that his player is being labeled as the poster boy for Germany’s disappointing campaign.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2283442228.jpg?quality=90&strip=all&crop=0%2C10.726295992102%2C100%2C78.547408015795&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "DIARIO AS",
@@ -58,26 +78,6 @@
    "link": "https://en.as.com/soccer/world-cup/outrage-over-fifas-attempt-to-sell-off-the-world-cup-f202607-n/",
    "lede": "FIFA is at the centre of football’s latest storm. The idea of selling stakes in its flagship tournaments, including the men’s and women’s World Cups and the Club World Cup, to private investors has triggered a fierce backlash in which president Gianni Infantino has emerged as the main target. “Football is not for sale”, “None of us owns football. It is not for FIFA to sell it” and “Once you have sold a part, you have sold yourself” are among the phrases now echoing across the game.",
    "image": "https://img.asmedia.epimg.net/resizer/v2/GDXB5WOI4JI5BE2XF22AXDLD3A.jpg?auth=a2365b6008aeb61cdb8d3142cee1acc8a139c99a664efd5fcb8599ba62aab5c4&width=1472&height=828&focal=1776%2C1128",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
-   "iso": "2026-07-29T11:20:22.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work",
-   "lede": "Football’s world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events. India failed to qualify for next year’s Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely. FIFA faced criticism over several issues during the tournament, including a debate over US visa restrictions for teams. IOC says the complaint against its member and FIFA chief Infantino fell outside its ethics committee’s jurisdiction.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-02-12T100240Z_1520571946_UP1EM2C0RWFCM_RTRMADP_3_SOCCER-UEFA-1785319028_38b51f-1785322305.jpg?resize=1200%2C630&quality=80",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THENATIONALNEWS.COM",
-   "title": "World Cup for sale: What is Fifa's plan, reaction and what happens next?",
-   "iso": "2026-07-29T11:13:46.000Z",
-   "link": "https://www.thenationalnews.com/sport/football/2026/07/29/world-cup-for-sale-what-is-fifas-plan-reaction-and-what-happens-next/",
-   "lede": "Fifa stunned world football on Tuesday night when it announced bombshell plans to seek private investment in the World Cup and its other tournaments. The move would have profound long-term consequences for world football. What has been the reaction, and will it succeed? Fifa wants to create a new company called Fifa Forward Enterprises (FFE) that will be responsible for its major events, including the World Cup and Club World Cup.",
-   "image": "https://www.thenationalnews.com/resizer/v2/RTAFR2J5T5B2YXZEZXXNJM7LWM.jpg?smart=true&auth=fa9ff91351a7a662d1cc886135196252b7ccf3be1de8f9e1e6e1f3226e1f6d7a&width=1200&height=630",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
