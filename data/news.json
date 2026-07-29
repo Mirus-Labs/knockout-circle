@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T14:58:12.254Z",
+ "updated": "2026-07-29T14:59:20.824Z",
  "news": [
   {
    "cat": "EURONEWS.COM",
@@ -22,24 +22,34 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "BBC",
+   "cat": "CBS SPORTS",
+   "title": "FIFA wants to sell World Cup stake to private investors: UEFA isn't happy and here's why",
+   "iso": "2026-07-29T13:50:00.000Z",
+   "link": "https://www.cbssports.com/soccer/news/fifa-sell-world-cup-stake-to-private-investors-uefa-why-2026/",
+   "lede": "FIFA announced a controversial plan to sell stakes in the World Cup to private investors on Tuesday, one that UEFA quickly slammed as a \"line that football's governing institutions should never cross.\" FIFA boss Gianni Infantino unveiled the FIFA Forward Enterprise (FFE), a new organization that would oversee commercial rights and operational delivery via a $20 billion company with private investors including the Kushner family. UEFA, the European governing body of soccer, immediately reacted on the news saying it \"crosses a line that football's governing institutions should never cross.\" The proposal is subject to approval by a majority of those national associations and FIFA's 37-member council.",
+   "image": "https://sportshub.cbsistatic.com/i/r/2026/07/28/d79b7be9-00a5-4a6d-b105-afdf7b851bc2/thumbnail/1200x675/8f10eadad42b532191d2a231dd581f78/infantino-trump.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC.CO.UK",
    "title": "Gianni Infantino: Why Fifa president is pushing World Cup sell off plan",
    "iso": "2026-07-29T13:48:10.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o",
    "lede": "Gianni Infantino is making the boldest move of his 10 years in charge of Fifa. Gianni Infantino is billing it as the democratisation of football. But Fifa's announcement that it aims to sell off stakes in its football competitions - including the World Cup - to private investors via associates of US President Donald Trump has been met with incredulity and rage from fans, politicians and regional governing bodies. The big selling point, according to Infantino, is $20m (£15m) in funding given to all Fifa countries to \"develop the game\" once the deal is finalised.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97ba/live/b13a4ae0-8b2e-11f1-bb9d-a754c466d213.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "INDEPENDENT.CO.UK",
+   "cat": "THE INDEPENDENT",
    "title": "Gianni Infantino tells countries to back Fifa’s World Cup plan – or miss out on $30m",
    "iso": "2026-07-29T13:44:00.000Z",
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-world-cup-fifa-sale-vote-b3023654.html",
    "lede": "Infantino will use a ‘one-off’ payment of $20m to tempt Fifa’s 211 member associations into backing his plans to sell stakes in the World Cup and other major tournaments to external investors. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/07/29/09/01KYPGV0K2327VJ5X4T10YRM37.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -48,18 +58,18 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/world-cup-final-referee-slavko-vini-makes-major-career-decision-one-week-after-spain-argentina-final/articleshow/132712885.cms",
    "lede": "Slovenian referee Slavko Vinčić has officially brought his refereeing career to an end, with the 2026 FIFA World Cup final between Spain and Argentina becoming the final match of a distinguished career that spanned nearly two decades at the highest level of world football. Football News: Slovenian referee Slavko Vinčić has announced his retirement from officiating just a week after managing the heated World Cup final between Spain and Argentina. His nearly two-decade career culminates with this iconic match, which has sparked debates in the football community.",
    "image": "https://static.toiimg.com/thumb/msid-132713423,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "INDEPENDENT.CO.UK",
+   "cat": "THE INDEPENDENT",
    "title": "Czech FA breaks ranks to back Gianni Infantino’s World Cup sell-off plan",
    "iso": "2026-07-29T13:26:00.000Z",
    "link": "https://www.independent.co.uk/sport/football/czech-fa-david-trunda-fifa-world-cup-gianni-infantino-b3023757.html",
    "lede": "The Independent's journalism is supported by our readers. When you purchase through links on our site, we may earn commission. Early plans for a Uefa boycott of Fifa competitions have suffered an early blow. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
    "image": "https://static.independent.co.uk/2026/07/29/10/2026-07-28T162725Z_2108218854_RC2WBMA7W1GZ_RTRMADP_3_SOCCER-FIFA-STAKE.JPG?trim=6,0,6,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "GOAL.COM",
@@ -68,16 +78,6 @@
    "link": "https://www.goal.com/en/news/the-afc-attacks-fifa-s-controversial-proposal-we-feel-disappointed/blte37ba20570d3e77f",
    "lede": "FIFA multiplies hostilities against its \"individual\" plan. A new proposal put forward by the International Federation of Association Football (FIFA) regarding the future management of the game's commercial and investment rights and its major competitions, foremost among them the World Cup, has sparked a wave of global controversy, amid mounting calls for greater transparency and consultation before proceeding with any project that could redraw the game's financial landscape. The Asian Football Confederation hit back with a clear stance, criticising both the way the proposal was presented and the mechanism for dealing with it. In an official statement, the confederation voiced its displeasure at FIFA's announcement of a plan to establish the \"FIFA Forward Enterprise\" company, whose task would be to unify FIFA's commercial operations and events.",
    "image": "https://assets.goal.com/images/v3/getty-2220174452/crop/MM5DEOBZGE5DCNRSGY5G433XMU5DAORRGUYA====/GettyImages-2220174452.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NLTIMES.NL",
-   "title": "KNVB \"very concerned\" by FIFA plans to sell World Cup shares",
-   "iso": "2026-07-29T13:20:44.000Z",
-   "link": "https://nltimes.nl/2026/07/29/knvb-concerned-fifa-plans-sell-world-cup-shares",
-   "lede": "The KNVB is very concerned about FIFA’s plans to sell shares in the World Cup. “Based on what has been released so far, we consider this a very worrying development for international football,” the Dutch Football Association told NU.nl. FIFA announced on Tuesday that it intends to consolidate the commercial rights of future World Cups and place them in a new subsidiary called FIFA Forward Enterprise (FFE). To raise funds for this initiative, FIFA plans to sell World Cup shares to private investors, up to a maximum of 20 percent of the shares.",
-   "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2025-11/Depositphotos_819448476_S.jpg?h=82f92a78",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
