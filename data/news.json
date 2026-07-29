@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T16:36:07.371Z",
+ "updated": "2026-07-29T16:39:52.080Z",
  "news": [
   {
    "cat": "EURONEWS.COM",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
-   "iso": "2026-07-29T15:52:06.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors",
-   "lede": "FIFA’s president lobbies for latest, and heavily criticised, proposal for investment in football’s governing body. Americas governing body ‘deeply concerned’ by lack of due process in FIFA private investment plan, AFC ‘disappointed’. How the proposed FIFA Forward Enterprise has provoked criticism, including from UEFA and Britain’s new Prime Minister. Football’s world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2025-03-25T103939Z_1602423633_UP1EL3P0TM1RM_RTRMADP_3_SOCCER-FIFA-TRIAL-1785338312.jpg?resize=1920%2C1440",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "THE CONVERSATION",
    "title": "Gianni Infantino wants to sell the World Cup – but it’s not his to sell",
    "iso": "2026-07-29T15:49:00.000Z",
    "link": "https://theconversation.com/gianni-infantino-wants-to-sell-the-world-cup-but-its-not-his-to-sell-288619",
    "lede": "It’s clear from the generally horrified reaction to Gianni Infantino’s plan to turn the World Cup into an investment vehicle that the Fifa boss has gone too far. For years Infantino has been the target of criticism. What is seen as his inapprioriate close relations with world leaders including Vladimir Putin of Russia, Mohammed bin Salman of Saudi Arabia and US president Donald Trump. Then there’s the controversial “peace prize” awarded to Trump and his recent bitter Instagram post hitting out against “haters” who criticised the way Fifa had organised the recent World Cup, which have been the subject of ridicule.",
    "image": "https://images.theconversation.com/files/750827/original/file-20260729-71-p90miv.jpg?ixlib=rb-4.1.1&rect=0%2C140%2C3383%2C1691&q=45&auto=format&w=1356&h=668&fit=crop",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,6 +48,16 @@
    "link": "https://www.theguardian.com/football/2026/jul/29/gianni-infantinos-big-world-cup-sale-and-fifas-race-to-the-bottom-line",
    "lede": "We begin Football Daily’s 29 July 2026 edition with a trip back to 26 February 2016. Gianni Infantino has been elected as the new Fifa president on a promise to clean up a disgraced organisation. “A good day for football,” says the FA director, David Gill. “A good day for the sport,” concurs the American Fifa executive committee member, Sunil Gulati.",
    "image": "https://i.guim.co.uk/img/media/a443a93e3ed8b860b0a52a488003642ed98a0a31/351_0_3092_2473/master/3092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2781ab121a0bec97f5e9998bf62886cb",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "FA 'deeply concerned' by FIFA plans as UEFA 'consider World Cup boycott'",
+   "iso": "2026-07-29T15:38:46.000Z",
+   "link": "https://www.standard.co.uk/sport/football/world-cup-boycott-fifa-uefa-fa-infantino-b1291667.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The Football Association (FA) says it is \"deeply concerned\" by FIFA's proposals to seek private investment in its competitions, including the World Cup. FIFA intends to \"invite third parties to make minority, non-controlling investments\" in a new commercial subsidiary.",
+   "image": "https://static.standard.co.uk/2026/07/29/10/2280275508..?width=1200&auto=webp&quality=75",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
