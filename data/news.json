@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T23:44:35.398Z",
+ "updated": "2026-07-29T23:45:33.163Z",
  "news": [
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -42,14 +42,23 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "BUENOS AIRES TIMES",
+   "title": "FIFA to probe Argentina over World Cup final ill-discipline, Malvinas banner",
+   "iso": "2026-07-29T22:06:49.000Z",
+   "link": "https://www.batimes.com.ar/news/amp/sports/fifa-to-probe-argentina-over-world-cup-final-ill-discipline-malvinas-banner.phtml",
+   "lede": "FIFA opens disciplinary proceedings against four Argentines and one Spaniard over incidents following World Cup final; AFA will also face probe over controversial Malvinas banner. FIFA announced Wednesday that it had opened proceedings into some Argentina players for their behaviour after losing the World Cup to Spain. A handful of Argentina players and staff confronted their Spanish rivals after the final whistle of the final in New York which Spain won 1–0 after extra time. Argentina players including Nahuel Molina, Thiago Almada and Leandro Paredes, as well as coach Roberto Ayala, were involved in the incidents, as was Spain's Pablo Martín Páez Gavira, commonly known as Gavi.",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "NZ HERALD",
    "title": "How NZ Football could get a $70m payday for backing Gianni Infantino's plan",
    "iso": "2026-07-29T22:02:40.000Z",
    "link": "https://www.nzherald.co.nz/sport/football/football-world-cup/fifa-world-cup-infantino-says-private-equity-proposal-is-opportunity-to-turbocharge-football/5XCOKJZDLNGK3OKQLDNHY3RC6M/",
    "lede": "Fifa president Gianni Infantino. Fifa president Gianni Infantino has said that the proposed launch of a private subsidiary to exploit the commercial benefits of the World Cup was “an opportunity but not an obligation”. If approved the proposal could be worth $70 million for New Zealand Football. In a video released amid a furious backlash to Fifa’s controversial plans to sell stakes in Fifa’s major competitions, Infantino argued that too little of football’s commercial value reached the parts of the game that need it most.",
    "image": "https://www.nzherald.co.nz/resizer/v2/S5N2NVLHTRA3FPMIVOEQGLWUDQ.jpg?auth=0a95937cf0ed18bf5bedaaf1a83b153d8ca32ccab3b6e70397aa41b9f155ae3c&width=1200&height=675&quality=70&focal=899%2C834&smart=false",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -58,8 +67,8 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-fifa-selling-world-cup-latest-news-b3024155.html",
    "lede": "Not even Infantino’s inner circle or closest advisors at Fifa knew his privatisation project, writes Miguel Delaney - but will anger from even his key strongholds derail him? From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/07/29/09/01KYPGV0K2327VJ5X4T10YRM37.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FLASHSCORE.COM",
@@ -68,16 +77,6 @@
    "link": "https://www.flashscore.com/news/fifa-open-investigation-itnp-argentina-fa-over-falklands-banner-world-cup-final-scrap/pn5U37te/",
    "lede": "Argentina managed to reach the World Cup final before ultimately losing 1-0 to Spain without having a single shot on target across the 120 minutes. Their campaign wasn’t without controversy though, and football’s governing body have now confirmed they are investigating Argentina. FIFA have opened proceeding against Leandro Paredes for three counts of assault, Nahuel Molina for two counts of the same offence, and Argentina coach Roberto Ayala for one count. Molina is also being investigated for one count of unsporting behaviour, while team-mate Thiago Almada and Spain midfielder Gavi face the same charge.",
    "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/fc2dea4d-2e43-4dde-9c38-16cc3edab9e8.jpeg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "ABC NEWS - BREAKING NEWS, LATEST NEWS AND VIDEOS",
-   "title": "FIFA announces disciplinary proceedings after World Cup brawl",
-   "iso": "2026-07-29T23:20:22.000Z",
-   "link": "https://abcnews.com/GMA/Culture/fifa-announces-disciplinary-proceedings-after-world-cup-brawl/story?id=134983486",
-   "lede": "FIFA has announced disciplinary proceedings after Spain and Argentina shared a heated exchange after the World Cup Final.",
-   "image": "https://i.abcnewsfe.com/a/d849d469-e4e4-490a-8f4c-20b0eb93e7db/wc-2-gty-gmh-260722_1784729865756_hpMain_16x9.jpg?w=1600",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
