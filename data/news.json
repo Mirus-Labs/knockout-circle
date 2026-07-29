@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T19:36:14.772Z",
+ "updated": "2026-07-29T19:47:16.229Z",
  "news": [
   {
    "cat": "EURONEWS.COM",
@@ -46,10 +46,20 @@
    "title": "FIFA's plan to sell World Cup to private investors met with shock and anger by the world of football",
    "iso": "2026-07-29T18:53:18.000Z",
    "link": "https://uk.news.yahoo.com/fifas-plan-sell-world-cup-145641320.html",
-   "lede": "A proposal that could reshape the commercial future of the World Cup has sparked fierce opposition from football's governing bodies. FIFA president Gianni Infantino on Tuesday unveiled plans to create a $20 billion (€17.5 billion) company, FIFA Forward Enterprise (FFE), to run competitions including the World Cup and Club World Cup with private investors, according to The Times of London. Former FIFA president Sepp Blatter voiced concern over the close ties between Infantino and US President Donald Trump, as one of the reported potential investors is the family of Trump's son-in-law, Jared Kushner. Meanwhile, EU Commissioner for Sport Glenn Micallef wrote on X: \"Hands off our game.\"",
+   "lede": "A proposal that could reshape the commercial future of the World Cup has sparked fierce opposition from football's governing bodies. FIFA president Gianni Infantino on Tuesday unveiled plans to create a $20 billion (€17.5 billion) company, FIFA Forward Enterprise (FFE), to run competitions including the World Cup and Club World Cup with private investors, according to The Times of London. Former FIFA president Sepp Blatter voiced concern over the close ties between Infantino and US President Donald Trump, as Thrive Eternal, led by Joshua Kushner, the brother of Trump's son-in-law Jared Kushner, is among the reported potential investors. Meanwhile, EU Commissioner for Sport Glenn Micallef wrote on X: \"Hands off our game.\"",
    "image": "https://s.yimg.com/lo/mysterio/api/d912f59bdb96779501fefb0c3bc10e8e2d0a06dca3ca251b6061c5fbfd458df8/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_uk_articles_973%2Fce16704935b93b6274b74b3dd541166d",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Dutch FA speaks out against FIFA's plan to sell off World Cup",
+   "iso": "2026-07-29T18:39:15.000Z",
+   "link": "https://www.goal.com/en/lists/dutch-fa-speaks-out-against-fifa-s-plan-to-sell-off-world-cup/blt75b9e1e94d5604fc",
+   "lede": "The Dutch Football (KNVB) has become the latest major governing body to voice its opposition to FIFA president Gianni Infantino's controversial proposal to sell off stakes in the World Cup. The plan, which involves private investors taking ownership in a new commercial subsidiary, has sparked a civil war within the global game. The KNVB has joined a growing chorus of disapproval from European football's heavyweights regarding FIFA's attempt to privatise its most prestigious assets. Under the drafted proposal, a new $20 billion subsidiary would be established to manage the commercial rights of the World Cup and the renovated Club World Cup, with 20 per cent of the company being offloaded to private equity firms.",
+   "image": "https://assets.goal.com/images/v3/getty-2280940528/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DAORVGQZA====/GettyImages-2280940528.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,8 +68,8 @@
    "link": "https://www.theguardian.com/commentisfree/2026/jul/29/the-guardian-view-on-selling-off-the-world-cup-a-red-card-offence-by-gianni-infantino",
    "lede": "Fifa’s president hopes to sell stakes in the planet’s most watched sporting event. In the wider interests of football, he must be resisted. Like a sporting Dr Pangloss, Fifa’s president, Gianni Infantino, would like to persuade football followers that they are living in the best of all possible worlds. Maddeningly for him, many disagree.",
    "image": "https://i.guim.co.uk/img/media/37a0831c4562f5276a58673f77cce55c899afbca/328_27_2582_2067/master/2582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5ee420fbbe2b22ddcec0ef2a8df4a08f",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FOX SPORTS",
@@ -68,16 +78,6 @@
    "link": "https://www.foxsports.com/stories/soccer/where-find-egypts-stars-after-2026-world-cup-elimination",
    "lede": "Egypt earned a place in the knockout rounds of the 2026 World Cup. The team advanced past the group stage to compete in the elimination rounds of the tournament. During the group stage, they defeated New Zealand and drew against Belgium and Iran. Mohamed Salah contributed an assist in the opening match against Belgium and recorded both a goal and an assist against New Zealand to help secure Egypt's progression.",
    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/salah-73.jpg?ve=1&tl=1",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Where To Find Colombia's Stars Following World Cup Elimination",
-   "iso": "2026-07-29T18:17:48.000Z",
-   "link": "https://www.foxsports.com/stories/soccer/where-find-colombias-stars-following-world-cup-elimination",
-   "lede": "Colombia earned a place in the knockout rounds of the 2026 World Cup. The team advanced past the group stage to compete in the elimination rounds of the tournament. During the group stage, they competed in matches against Uzbekistan, DR Congo, and Portugal. Colombia secured advancement to the knockout stage, where they defeated Ghana in the Round of 32 to progress further in the tournament.",
-   "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/luis-diaz.jpg?ve=1&tl=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
