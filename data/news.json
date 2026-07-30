@@ -1,15 +1,45 @@
 {
- "updated": "2026-07-30T04:23:47.602Z",
+ "updated": "2026-07-30T07:15:29.825Z",
  "news": [
   {
-   "cat": "THE GUARDIAN",
-   "title": "Football Australia pleads for more time to digest Fifa’s controversial World Cup plans",
-   "iso": "2026-07-30T04:15:00.000Z",
-   "link": "https://www.theguardian.com/sport/2026/jul/30/football-australia-position-fifa-world-cup-privatisation-plan",
-   "lede": "FA resists immediate criticism of privatisation push. More information requested to ‘properly assess’ implications. Football Australia has resisted immediate criticism of Fifa’s plan to seek private investment despite an international outcry, instead calling for more information about the controversial proposal. Football’s world governing body announced plans this week to sell a stake in the commercial rights to its tournaments, including the World Cup, to private investors, in a move led by the Fifa president, Gianni Infantino.",
-   "image": "https://i.guim.co.uk/img/media/32597d2685fd110ba8bd4b6926f1a5929fadb171/371_0_3324_2660/master/3324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02a46956e1933624b513adae58613998",
+   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
+   "title": "FIFA's controversial bid to sell the World Cup to a Trump associate",
+   "iso": "2026-07-30T06:21:05.000Z",
+   "link": "https://www.abc.net.au/news/2026-07-30/gianni-infantino-fifa-world-cup-sell-off-bid-explained/106976670",
+   "lede": "Gianni Infantino has proposed selling off the global football governing body's events and competitions arm to private investors. (Reuters: Dylan Martinez). Gianni Infantino's $US20 billion ($28.7 billion) proposal to sell stakes in FIFA's events and competitions arm to corporate investors has drawn condemnation from football's international organising confederations. On Tuesday the FIFA president announced a bid to form a commercial subsidiary called FIFA Forward Enterprise (FFE) that would grant private buyers control over competitions including the World Cup and Club World Cup.",
+   "image": "https://live-production.wcms.abc-cdn.net.au/7434b79119522ec116098c07c18b5709?impolicy=wcms_watermark_news&cropH=1519&cropW=2701&xPos=0&yPos=33&width=862&height=485&imformat=generic",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE CONVERSATION",
+   "title": "World game at war: why some European nations have threatened a World Cup boycott",
+   "iso": "2026-07-30T06:00:36.000Z",
+   "link": "https://theconversation.com/world-game-at-war-why-some-european-nations-have-threatened-a-world-cup-boycott-288596",
+   "lede": "A little over a week since the 2026 men’s World Cup final, world soccer appears on the brink of war. The main battleground is a proposal from FIFA president Gianni Infantino to sell off a key function of the not-for-profit association. It has even led to a threat from some European nations to boycott upcoming World Cups. So, why is Infantino’s proposal so controversial and why are so many nations against the plan?",
+   "image": "https://images.theconversation.com/files/751075/original/file-20260730-60-w0pqls.jpg?ixlib=rb-4.1.1&rect=0%2C246%2C5603%2C2801&q=45&auto=format&w=1356&h=668&fit=crop",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "INDEPENDENT AUSTRALIA",
+   "title": "World Cup 2026: When the spectator became the product",
+   "iso": "2026-07-30T06:00:00.000Z",
+   "link": "https://independentaustralia.net/life/life-display/world-cup-2026-when-the-spectator-became-the-product,21365",
+   "lede": "The 2026 World Cup exposed how modern sport increasingly treats fans not as spectators, but as products whose attention is constantly being sold, writes Jack Waters. I’D BEEN LOOKING FORWARD to this year’s World Cup for months. As a lifelong football fan, it’s always been one of those rare events that lets me completely switch off from the world and tune into the game I’ve grown up on. But this tournament was different.",
+   "image": "https://independentaustralia.net/_lib/slir/w900-c4x3/i/article/img/article-21365-hero.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC",
+   "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
+   "iso": "2026-07-30T05:20:36.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o",
+   "lede": "Uefa president Aleksander Ceferin will lead an emergency meeting of all 55 member associations on Thursday. Uefa will hold an emergency meeting on Thursday afternoon to discuss its response to the controversial World Cup stakeholder plans proposed by Fifa and its president Gianni Infantino. European football's governing body kept up its offensive over the plans after it was discovered Fifa had sent a letter, seen by the BBC, to all 211 member associations giving them until 19 September to decide if they want to accept the deal, and with it the first $20m (£15m) of an initial $40m (£30m). \"We have learned of Fifa's deadline to associations to support their proposals or have the one-off payout offer withdrawn,\" said Uefa.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a010/live/155283c0-8b80-11f1-a7ab-8b30adf0800a.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE-SUN.COM",
@@ -18,18 +48,8 @@
    "link": "https://www.the-sun.com/sport/16767230/infantino-world-cup-greed-football-brink-england-greatest-day/",
    "lede": "THE World Cup used to be so simple — and today serves as the perfect reminder of that. It was exactly 60 years ago that Bobby Moore was lifting the Jules Rimet trophy and being hoisted on the shoulders of his England team-mates. Those iconic scenes at Wembley came after a tournament that had just 16 teams and lasted only 20 days. There were no hydration breaks or half-time shows and certainly no private investors looking for a slice of the pie.",
    "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/tp-infantino-2907_OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
-   "iso": "2026-07-30T03:41:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos",
-   "lede": "Players held banner after semi-final against England. Paredes and Molina investigated over brawl after final. Fifa has opened disciplinary ­proceedings against Argentina over the Falkland Islands banner ­displayed after their World Cup semi‑final win against England in Atlanta. As Argentina celebrated ­reaching the final with their dramatic 2-1 ­victory, several players held a sign ­proclaiming “Las Malvinas son ­Argentinas” – the ­Malvinas are Argentinian – in ­reference to the ­British overseas territory in the south Atlantic.",
-   "image": "https://i.guim.co.uk/img/media/6f8f17beeffcea46310d72a725cb01070ce6a76d/1011_0_6018_4814/master/6018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecb05829f29b422957311e2a7e9c599f",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THENATIONALNEWS.COM",
@@ -38,46 +58,26 @@
    "link": "https://www.thenationalnews.com/sport/football/2026/07/30/infantino-defends-plan-to-sell-world-cup-stakes-but-could-uefa-launch-boycott/",
    "lede": "Fifa President Gianni Infantino called the plan to sell stakes in the World Cup a proposal but “not an obligation” after the idea provoked a furious response from football authorities. Fifa announced plans this week to create a $20 billion subsidiary to run the World Cup and its other events, ⁠and said it will offer stakes of up to ​20 per cent ⁠in it to ‌external investors. The proposal drew strong criticism from the ​sport's regional confederations, who said they were blindsided by the plan from the world governing body. But Infantino said strengthening the commercial side of the game is the natural next step in this evolution.",
    "image": "https://www.thenationalnews.com/resizer/v2/AGDMF3PNS4MX55EXKWNKOJQMBQ.jpg?smart=true&auth=65817fdc2d83b08d966b224ea61b522373be3c936ffdec7cb760ded323d8c400&width=1200&height=630",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Bastian Schweinsteiger, Oliver Kahn weren’t pleased with Jamal Musiala’s lack of reaction at World Cup",
-   "iso": "2026-07-30T02:30:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/236335/bastian-schweinsteiger-oliver-kahn-werent-pleased-with-jamal-musiala-s-lack-of-reaction-at-world-cup",
-   "lede": "There is an old school way of thinking about and playing the game, which pins players and teams against each other. While maybe not going as far to designate the opposition as enemies, they certainly were not friends. That mentality is starting to slowly erode in modern sports as more players are exposed to each other at younger ages, which can create a bond or a friendship rather than a rivalry. It is hard to say, but Bastian Schweinsteiger and Oliver Kahn sound like they would like to see a little more fire from German players moving forward — including Bayern Munich star Jamal Musiala.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2283948830.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Football Australia breaks silence on FIFA boss’ $40m World Cup shakedown as civil war erupts",
-   "iso": "2026-07-30T02:10:12.000Z",
-   "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-gianni-infantino-bribes-member-nations-with-40-million-if-they-sign-up-to-scheme-to-privatise-the-world-cup-uefa-and-other-confederations-share-outrage-at-plan-latest-news/news-story/62e6caede267d859efe619e0388727c4",
-   "lede": "Football Australia has broken its silence as governing bodies around the globe have shared their disbelief and outrage at being held to ransom over FIFA’s plans to sell a stake in the business operations of the World Cup and its other competitions to private investors. FIFA president Gianni Infantino plans to create a semi-private subsidiary called FIFA Forward Enterprise with FIFA holding a majority share, the 211 member nations having a 20 per cent share and 20 to 30 per cent stake sold off to private investors. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail.",
-   "image": "https://content.api.news/v3/images/bin/7b216ef98a41dd55f737d0c9a95411b1",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "TELESURENGLISH.NET",
-   "title": "Argentina Faces FIFA Sanctions Over Incidents at World Cup Final Match",
-   "iso": "2026-07-30T01:43:04.000Z",
-   "link": "https://www.telesurenglish.net/argentina-fifa-sanctions-world-cup-final/",
-   "lede": "The FIFA Disciplinary Commission opened proceedings against the Argentine Football Association (AFA), footballers and technical staff. The world football governing body confirmed this Wednesday the opening of an expedited investigation evaluating potential violations of Articles 13, 14, 15, and 17 of the FIFA Disciplinary Code. The ruling covers the misuse of a sporting event for non-competition demonstrations, inappropriate conduct by delegations, expressions of discrimination, and racist aggressions. According to the official statement, the commission is also examining breaches related to order and security protocols during the tournament.",
-   "image": "https://ikona.telesurenglish.net/content/uploads/2026/07/078efad4b76cfe9e245f3ac67d226f69c27c47abw.jpg.webp",
+   "cat": "THE KOREA HERALD",
+   "title": "Disgraced soccer figures apologize for World Cup group stage elimination",
+   "iso": "2026-07-30T02:53:18.000Z",
+   "link": "https://www.koreaherald.com/article/10825665",
+   "lede": "Disgraced soccer figures on Thursday apologized for the South Korean men's national team's group stage elimination from the World Cup. They were summoned to a parliamentary hearing on alleged corruption in the Korea Football Association, including its head coach hiring process. The figures in the hearing, however, denied allegations of nepotism linked to Hong Myung-bo's controversial appointment as head coach of the men's national football team in 2024. At the hearing held by the National Assembly's Culture, Sports and Tourism Committee, former KFA chair Chung Mong-gyu said, \"I am sorry for the series of controversies and the poor performance in the 2026 World Cup.\"",
+   "image": "https://wimg.heraldcorp.com/news/cms/2026/07/30/news-p.v1.20260730.9799c6ee06424c8e8165643e136ef561_T1.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MARCA",
-   "title": "Argentina's Nicolás Tagliafico and Caro Calvagni escape to paradise after the World Cup",
-   "iso": "2026-07-30T00:54:00.000Z",
-   "link": "https://www.marca.com/en/football/2026/07/30/argentina-s-nicolas-tagliafico-and-caro-calvagni-escape-to-paradise-after-the-world-cup-video.html",
-   "lede": "After Argentina's World Cup run, Nicolás Tagliafico and his wife Caro Calvagni traded the pressure of football for a relaxing getaway in Greece. The couple shared stunning moments from their vacation, enjoying crystal-clear waters, breathtaking coastal views and the slower pace of the Greek islands as they recharge before the new club season begins. With preseason just around the corner, Tagliafico is making the most of his time off before returning to Lyon, while fans continue celebrating the defender's World Cup journey.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/30/WBc1gQfvrkuTcuG.jpeg",
+   "cat": "AL JAZEERA",
+   "title": "Messi returns to MLS training 10 days after World Cup final heartbreak",
+   "iso": "2026-07-30T06:48:58.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak",
+   "lede": "Lionel Messi returns to Inter Miami after Argentina's World Cup final defeat by Spain, which led to retirement rumours.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-07T145653Z_1934347551_UP1EM7715IS9D_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY-1785392430.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
