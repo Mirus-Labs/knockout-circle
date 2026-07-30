@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T07:15:29.825Z",
+ "updated": "2026-07-30T07:22:32.743Z",
  "news": [
   {
    "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
@@ -32,14 +32,34 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "KOREA JOONGANG DAILY",
+   "title": "Ex-football czar, Hong Myung-bo apologize for World Cup debacle in parliamentary hearing",
+   "iso": "2026-07-30T05:23:50.000Z",
+   "link": "https://www.koreajoongangdaily.com/sports/exfootball-czar-hong-myungbo-apologize-for-world-cup-debacle-in-parliamentary-hearing/12800010",
+   "lede": "Chung Mong-gyu and the ex-national team manager appeared before the sports committee, which is probing operations at the Korea Football Association. Former Korea Football Association (KFA) President Chung Mong-gyu and former national team manager Hong Myung-bo apologized for Korea's disappointing World Cup campaign during a parliamentary hearing Thursday. \"During my tenure, I did my utmost to develop Korean football, but I am deeply sorry for the series of controversies and the disappointing result at the FIFA World Cup 2026,\" Chung said. The hearing was held by the National Assembly's Culture, Sports and Tourism Committee to examine the KFA following the national team's group stage elimination.",
+   "image": "https://image.koreajoongangdaily.com/12800019.jpg?imageId=12800019&x=0&y=0&cropw=100&croph=82.69&panox=0&panoy=0&panow=100&panoh=82.69&width=1200&height=683",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "BBC",
    "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
    "iso": "2026-07-30T05:20:36.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o",
    "lede": "Uefa president Aleksander Ceferin will lead an emergency meeting of all 55 member associations on Thursday. Uefa will hold an emergency meeting on Thursday afternoon to discuss its response to the controversial World Cup stakeholder plans proposed by Fifa and its president Gianni Infantino. European football's governing body kept up its offensive over the plans after it was discovered Fifa had sent a letter, seen by the BBC, to all 211 member associations giving them until 19 September to decide if they want to accept the deal, and with it the first $20m (£15m) of an initial $40m (£30m). \"We have learned of Fifa's deadline to associations to support their proposals or have the one-off payout offer withdrawn,\" said Uefa.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a010/live/155283c0-8b80-11f1-a7ab-8b30adf0800a.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Football Australia pleads for more time to digest Fifa’s controversial World Cup plans",
+   "iso": "2026-07-30T05:12:00.000Z",
+   "link": "https://www.theguardian.com/sport/2026/jul/30/football-australia-position-fifa-world-cup-privatisation-plan",
+   "lede": "FA resists immediate criticism of privatisation push. More information requested to ‘properly assess’ implications. Football Australia has resisted immediate criticism of Fifa’s plan to seek private investment despite an international outcry, instead calling for more information about the controversial proposal. Football’s world governing body announced plans this week to sell a stake in the commercial rights to its tournaments, including the World Cup, to private investors, in a move led by the Fifa president, Gianni Infantino.",
+   "image": "https://i.guim.co.uk/img/media/32597d2685fd110ba8bd4b6926f1a5929fadb171/371_0_3324_2660/master/3324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02a46956e1933624b513adae58613998",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE-SUN.COM",
@@ -48,8 +68,8 @@
    "link": "https://www.the-sun.com/sport/16767230/infantino-world-cup-greed-football-brink-england-greatest-day/",
    "lede": "THE World Cup used to be so simple — and today serves as the perfect reminder of that. It was exactly 60 years ago that Bobby Moore was lifting the Jules Rimet trophy and being hoisted on the shoulders of his England team-mates. Those iconic scenes at Wembley came after a tournament that had just 16 teams and lasted only 20 days. There were no hydration breaks or half-time shows and certainly no private investors looking for a slice of the pie.",
    "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/tp-infantino-2907_OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THENATIONALNEWS.COM",
@@ -58,26 +78,6 @@
    "link": "https://www.thenationalnews.com/sport/football/2026/07/30/infantino-defends-plan-to-sell-world-cup-stakes-but-could-uefa-launch-boycott/",
    "lede": "Fifa President Gianni Infantino called the plan to sell stakes in the World Cup a proposal but “not an obligation” after the idea provoked a furious response from football authorities. Fifa announced plans this week to create a $20 billion subsidiary to run the World Cup and its other events, ⁠and said it will offer stakes of up to ​20 per cent ⁠in it to ‌external investors. The proposal drew strong criticism from the ​sport's regional confederations, who said they were blindsided by the plan from the world governing body. But Infantino said strengthening the commercial side of the game is the natural next step in this evolution.",
    "image": "https://www.thenationalnews.com/resizer/v2/AGDMF3PNS4MX55EXKWNKOJQMBQ.jpg?smart=true&auth=65817fdc2d83b08d966b224ea61b522373be3c936ffdec7cb760ded323d8c400&width=1200&height=630",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE KOREA HERALD",
-   "title": "Disgraced soccer figures apologize for World Cup group stage elimination",
-   "iso": "2026-07-30T02:53:18.000Z",
-   "link": "https://www.koreaherald.com/article/10825665",
-   "lede": "Disgraced soccer figures on Thursday apologized for the South Korean men's national team's group stage elimination from the World Cup. They were summoned to a parliamentary hearing on alleged corruption in the Korea Football Association, including its head coach hiring process. The figures in the hearing, however, denied allegations of nepotism linked to Hong Myung-bo's controversial appointment as head coach of the men's national football team in 2024. At the hearing held by the National Assembly's Culture, Sports and Tourism Committee, former KFA chair Chung Mong-gyu said, \"I am sorry for the series of controversies and the poor performance in the 2026 World Cup.\"",
-   "image": "https://wimg.heraldcorp.com/news/cms/2026/07/30/news-p.v1.20260730.9799c6ee06424c8e8165643e136ef561_T1.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Messi returns to MLS training 10 days after World Cup final heartbreak",
-   "iso": "2026-07-30T06:48:58.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak",
-   "lede": "Lionel Messi returns to Inter Miami after Argentina's World Cup final defeat by Spain, which led to retirement rumours.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-07T145653Z_1934347551_UP1EM7715IS9D_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY-1785392430.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
