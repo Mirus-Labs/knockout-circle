@@ -1,16 +1,6 @@
 {
- "updated": "2026-07-31T07:16:54.222Z",
+ "updated": "2026-07-31T07:38:43.390Z",
  "news": [
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Are FIFA and UEFA in a forever war?",
-   "iso": "2026-07-31T07:08:51.000Z",
-   "link": "https://www.nytimes.com/athletic/7480469/2026/07/31/fifa-uefa-world-cup-stake-war/",
-   "lede": "Editor’s note: This is an updated version of an article that first appeared on The Athletic in May 2025. For an insight into the one-upmanship between FIFA, the world football governing body, and UEFA, its European counterpart, let us begin with an anecdote about the prize money for last summer’s FIFA Club World Cup. A pet project of FIFA president Gianni Infantino, he described the newly expanded 32-team tournament, held in the United States, as the “most coveted” trophy in club football. According to multiple people briefed on FIFA’s planning for the...",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/31014450/0521_FifaUefa-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "SKY SPORTS",
    "title": "FIFA insists 'nobody is selling football' after UEFA threatens to boycott tournaments if plans to sell off stake in World Cup go ahead",
@@ -18,8 +8,28 @@
    "link": "https://www.skysports.com/football/news/12098/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
    "lede": "FIFA insists \"nobody is selling football\" amid criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors. However, football's global governing body stopped short of withdrawing the controversial plan and insisted it would press ahead with the consultation period. UEFA reacted furiously when the plans to create FIFA Forward Enterprise (FFE) first emerged in media reports in The Times and the Financial Times on Tuesday. Q&A: Why is UEFA boycotting FIFA tournaments and can it stop Gianni Infantino?",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Football Australia and Fifa’s controversial World Cup sell-off plans – explained",
+   "iso": "2026-07-31T06:23:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-sell-off-plans-football-australia-explainer",
+   "lede": "FA is yet to formalise a position after being advised by the Asian Football Confederation to await further details. Gianni Infantino’s proposal to sell chunks of the World Cup to US-based private investment has sent shockwaves through football, with Fifa accused of putting the sport’s “soul” up for sale. How is Australia involved and what are the likely ramifications? Football Australia issued a statement on Thursday, pleading for more time to digest Fifa’s proposal.",
+   "image": "https://i.guim.co.uk/img/media/52875b51279cffe0697946cff4ac747334124f7b/456_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55fe166cc377afafeb69a93ecb54ac3e",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Inside Uefa’s extraordinary World Cup boycott plans – and what Fifa might do next",
+   "iso": "2026-07-31T06:17:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup-boycott-uefa-fifa-gianni-infantino-sell-off-b3024862.html",
+   "lede": "Uefa’s constituent nations agreed to a boycott over Fifa’s plans to sell off stakes in the World Cup – a decision that, Miguel Delaney writes, could have ramifications right across the game. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/07/29/21/2026-07-27T075009Z_1004120551_RC25HMA47LHT_RTRMADP_3_SOCCER-WORLDCUP-INFANTINO.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BRIXTON BUZZ",
@@ -28,16 +38,6 @@
    "link": "https://www.brixtonbuzz.com/2026/07/what-working-at-the-oval-taught-me-about-the-world-cup-and-footballs-soul/",
    "lede": "This week UEFA and the FA are at war with FIFA over its plan to sell commercial stakes in the World Cup to private investors. It got me thinking about my week working hospitality at the Oval – where I expected snobbery but found something that made me wonder if any sport really belongs to its fans. In June, while England was gearing up to play Croatia in the World Cup, I worked in the hospitality section at The Oval as England’s cricketers faced New Zealand in a five-day Test. On day one, I arrived at the tube station, stunned by the number of people brimming with joy at the prospect of their ‘lavish’ week ahead.",
    "image": "https://i0.wp.com/www.brixtonbuzz.com/wp-content/uploads/2026/07/Oval-cricket-ground-May-2026.jpg?fit=735%2C400&ssl=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Football Australia and Fifa’s controversial World Cup sell-off plans – explained",
-   "iso": "2026-07-31T05:51:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-sell-off-plans-football-australia-explainer",
-   "lede": "FA is yet to formalise a position after being advised by the Asian Football Confederation to await further details. Gianni Infantino’s proposal to sell chunks of the World Cup to US-based private investment has sent shockwaves through football, with Fifa accused of putting the sport’s “soul” up for sale. How is Australia involved and what are the likely ramifications? Football Australia issued a statement on Thursday, pleading for more time to digest Fifa’s proposal.",
-   "image": "https://i.guim.co.uk/img/media/52875b51279cffe0697946cff4ac747334124f7b/456_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55fe166cc377afafeb69a93ecb54ac3e",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NINE.COM.AU",
-   "title": "‘Nobody is selling football’: FIFA hit back as Europe vows to boycott World Cup",
-   "iso": "2026-07-31T05:12:41.000Z",
-   "link": "https://www.nine.com.au/sport/football/europe-vows-to-boycott-world-cup-over-infantino-s-secret-private-equity-plan-20260731-p60k72.html",
-   "lede": "Updated July 31, 2026 - 4.49am. First published July 30, 2026 - 5.56pm. FIFA insist their plan to sell stakes in football’s biggest tournaments will “not come at the cost of the spirit or governance” of the sport, as the organisation prepares for the impact of European nations threats to boycott upcoming FIFA-run competitions. An urgent meeting held on Friday (AEST) by UEFA ended in all 55 of its member nations electing to boycott any further FIFA run tournaments, including the World Cup, as a result of Gianni Infantino’s private equity investment proposal.",
-   "image": "https://static.ffx.io/images/$zoom_0.239%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_35/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ca5b27c79176b7d28e7c575f3d50cc0c2e0626d0",
+   "cat": "AL JAZEERA",
+   "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
+   "iso": "2026-07-31T07:28:52.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott",
+   "lede": "European football's governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26208397057010-1-1785481543.jpg?resize=1920%2C1440",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "‘Nobody is selling football’: Fifa issues response to Uefa’s threat of World Cup boycott",
-   "iso": "2026-07-31T06:54:00.000Z",
-   "link": "https://sports.yahoo.com/articles/nobody-selling-football-fifa-issues-065431840.html",
-   "lede": "Football’s governing body wants to sell minority stakes in the World Cup to private investors - a move which has drawn criticism from member associations.",
-   "image": "https://s.yimg.com/lo/mysterio/api/bcd12ee5676e2ecb5f6807e4f84b59409a5ef92f327b6e1e75edcce68eefff58/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F29978ff4586f9f0945173e900ec2303e",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Are FIFA and UEFA in a forever war?",
+   "iso": "2026-07-31T07:08:51.000Z",
+   "link": "https://www.nytimes.com/athletic/7480469/2026/07/31/fifa-uefa-world-cup-stake-war/",
+   "lede": "UEFA announced a boycott of FIFA tournaments on Thursday, increasing the tension between the two governing bodies.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/31014450/0521_FifaUefa-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
