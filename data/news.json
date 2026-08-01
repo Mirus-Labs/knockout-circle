@@ -1,25 +1,35 @@
 {
- "updated": "2026-08-01T07:30:16.013Z",
+ "updated": "2026-08-01T07:38:36.960Z",
  "news": [
+  {
+   "cat": "FRIENDS OF FOOTBALL",
+   "title": "Global body backtracks on proposal to sell stake in FIFA Men’s World Cup",
+   "iso": "2026-08-01T07:26:49.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/08/01/global-body-backtracks-on-proposal-to-sell-stake-in-fifa-mens-world-cup/",
+   "lede": "FIFA have abandoned plans to sell a minority stake in the commercial rights of the men’s World Cup after widespread opposition forced president Gianni Infantino into a swift retreat. The governing body confirmed on Saturday (NZT) it would not proceed with its proposed FIFA Forward Enterprise project, ending a controversial idea that dominated world football this week. The proposal would have allowed outside investors to buy into the commercial operation behind FIFA’s flagship tournaments, with billions of dollars earmarked for future football development. Main photo: FIFA president Gianni Infantino … a tumultuous week.",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/08/Gianni-Infantino.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Fifa scraps proposal to sell off stakes in World Cup after widespread backlash",
    "iso": "2026-08-01T07:04:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash",
    "lede": "Gianni ⁠Infantino issues statement on controversial plan. ‘This proposal will not proceed,’ confirms Fifa president. Gianni Infantino’s proposal to sell chunks of the World Cup to private investors has sensationally collapsed, with the Fifa president admitting the project “has created divisions of a nature that are no longer in the interest of the objective”, amid widespread anger globally. The plan had caused ructions within football around the world, leading Uefa to threaten a boycott of future Fifa tournaments if it was not shelved.",
-   "image": "https://i.guim.co.uk/img/media/fa8a8bd0142431c078d3937f11faa42c43e0d165/505_406_1992_1594/master/1992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c03e0e0713fb3192e0647e8dda25bef",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "image": "https://i.guim.co.uk/img/media/03ee83f154ed7023f1497a913d31efb7fe6eb1c9/108_0_1945_1556/master/1945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7e1bb2c9a7573a1a2de307f919eb03c",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "SKYSPORTS.COM",
+   "cat": "SKY SPORTS",
    "title": "Gianni Infantino abandons plans to sell World Cup profits to private equity after widespread criticism",
    "iso": "2026-08-01T06:51:17.000Z",
    "link": "https://www.skysports.com/football/news/11095/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism",
    "lede": "FIFA president Gianni Infantino has abandoned his controversial plan to sell a stake in future World Cup profits to private equity investors after fierce opposition from football's governing bodies. FIFA had announced on Tuesday that it was seeking to launch FIFA Forward Enterprise (FFE), which would bring together the sale of FIFA's commercial rights - including broadcasting, sponsorship, ticketing and licensing - with the operational delivery of its tournaments. Infantino had then given football associations until September 19 to back his proposals to sell off part of FIFA to private investors with a £30.1m incentive to accept. But the controversial proposals received fierce criticism from UEFA, CONCACAF and the Asian Football Confederation (AFC), with Prime Minister Andy Burnham adding his condemnation by calling for \"FIFA to undertake an urgent review of its governance\".",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "A NEWS",
@@ -28,8 +38,8 @@
    "link": "https://www.anews.com.tr/sport/2026/08/01/fifa-president-scraps-plans-to-sell-world-cup-stake",
    "lede": "FIFA President Gianni Infantino has abandoned plans to sell a stake in the World Cup, Sky News reported Friday, citing exclusive comments from the football body's chief. Infantino said the initiative had become too contentious to pursue. 'Having listened carefully to all the views, it has become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place,' he told Sky News. 'Our purpose has always been - and will always be - to unite and improve,' he said, adding that FIFA's mission remained unchanged.",
    "image": "https://ia.tmgrup.com.tr/060b5a/806/378/0/0/864/404?u=https://i.tmgrup.com.tr/anews/v1/2026/08/01/fifa-president-scraps-plans-to-sell-world-cup-stake-1785564401148.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -38,8 +48,8 @@
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/236901/ranking-world-cup-performances-by-bayern-munich-players",
    "lede": "From 1982 to 2022, every single FIFA World Cup Final featured at least one Bayern Munich player. That streak came to an end in 2026, as France lost to Spain and England lost to Argentina in the semifinals. However, that doesn’t mean that Bayern didn’t have plenty of representation in the World Cup. Today, we’re taking a look at Bayern Munich’s World Cup performances from worst to best (Nathaniel Brown and Ismael Saibari are not included as they only joined Bayern midway through the tournament).",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2283406690.jpg?quality=90&strip=all&crop=0%2C10.73652856756%2C100%2C78.52694286488&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FOX SPORTS",
@@ -48,8 +58,8 @@
    "link": "https://www.foxsports.com.au/football/world-cup/uefa-boycotts-fifa-events-over-world-cup-private-investor-plan-gianni-infantino-job-in-jeopardy-nasser-alkhelaifi-floated-as-new-president-latest-news/news-story/6f169ab291f206f09f625a579ea949ce",
    "lede": "World football governing body FIFA said it was scrapping a plan to allow private investment in flagship events after fierce backlash from football officials worldwide. Football Australia “welcomed” the decision on Saturday, saying “trust is earned not simply through good decisions, but through the integrity of the processes that lead to them”. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo? Join now and get your first month for just $1.",
    "image": "https://content.api.news/v3/images/bin/99fe2776006c4809aac331ae7002e8b6",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,8 +68,8 @@
    "link": "https://www.theguardian.com/sport/2026/aug/01/football-australia-and-afc-welcome-fifa-climbdown-on-world-cup-sell-off-plan",
    "lede": "FA says some principles of the game ‘should never change’. AFC calls for ‘proper consultation, collective dialogue and respect’. Football Australia and the Asian Football Confederation have welcomed Fifa’s climbdown over its failed plan to sell chunks of the World Cup to private investors, with FA chair Anter Isaac saying some principles of football “should never change”. Fifa president Gianni Infantino on Saturday confirmed the controversial Fifa Forward Enterprise (FFE) proposal had been scrapped following widespread backlash led by Uefa, which asserted its member nations would boycott all Fifa tournaments unless the plan was withdrawn.",
    "image": "https://i.guim.co.uk/img/media/45700adeddff7542989b1a2f2665664de42ee780/0_0_4059_3249/master/4059.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=adfb73d9f47549ef5543f0053c0e7ffb",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -68,16 +78,6 @@
    "link": "https://www.bavarianfootballworks.com/fifa-world-cup/238027/amid-threat-of-boycotts-fifa-ditches-commercialization-plan",
    "lede": "FIFA’s controversial plan to bring private investment into the World Cup is officially off the table. FIFA president Gianni Infantino announced that the governing body will no longer pursue a proposal that would have created a new commercial subsidiary valued at approximately $20 billion. Under the plan, FIFA would have transferred the commercial rights to its biggest competitions, including the men’s and women’s World Cups and Club World Cups, into the new entity before selling a 20 percent stake to private investors. The proposal quickly became one of the most divisive issues in recent FIFA history.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2287053177.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "Gianni Infantino drops FIFA World Cup private equity plan after global backlash",
-   "iso": "2026-08-01T04:30:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/gianni-infantino-drops-fifa-world-cup-private-equity-plan-after-global-backlash/articleshow/132781227.cms",
-   "lede": "FIFA president Gianni Infantino has withdrawn his proposal to sell a stake in the commercial rights of the FIFA World Cup after facing widespread opposition from football bodies across the world.The decision came after several major football organisations, including UEFA, CONCACAF and the Asian Football Confederation, opposed the proposal. FIFA also saw senior adviser Carlos Cordeiro resign, while chief operating officer Kevin Lamour publicly criticised the plan.Announcing the decision on Friday, Infantino admitted the proposal had become too divisive.\" Having listened carefully to all the views, it has become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place. Our purpose has always been - and will always be - to unite and improve.",
-   "image": "https://static.toiimg.com/thumb/msid-132781242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
