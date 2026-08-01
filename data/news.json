@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T19:58:55.725Z",
+ "updated": "2026-08-01T20:00:16.660Z",
  "news": [
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "GOAL.COM",
+   "title": "'Nobody is selling football!' - FIFA responds to controversy and offers explanation after Gianni Infantino's World Cup plan sparks outrage",
+   "iso": "2026-08-01T16:58:06.000Z",
+   "link": "https://www.goal.com/en/lists/fifa-responds-world-cup-plan-controversy-gianni-infantino/bltde9f4d4157c5057e",
+   "lede": "FIFA has issued a firm response to the mounting backlash surrounding its controversial World Cup spin-off proposal, insisting that \"nobody is selling football.\" The governing body claims media reports mischaracterised the plans and reaffirmed its commitment to a democratic process. FIFA has officially responded to the fierce opposition surrounding its proposed FIFA Forward Enterprise (FFE) project. The governing body released a public statement attempting to clear up what it described as \"incorrect media reports\" that disrupted the planned consultation process.",
+   "image": "https://assets.goal.com/images/v3/blt0fd095ee04648585/06.gif",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "Gianni Infantino ‘has lost Uefa’s confidence’ after Fifa chief scraps World Cup sell-off plan",
    "iso": "2026-08-01T16:51:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football",
    "lede": "Infantino ditched proposals after widespread backlash. Uefa adds: ‘We cannot keep going on with secret schemes’. Uefa has warned Gianni Infantino that his style of leadership cannot continue in demanding a thorough and fundamental review of Fifa’s governance. In a strongly worded statement that referred to “secret schemes”, “shabby backroom deals” and “faceless individuals”, the Uefa leadership made clear it wants change at the top of Fifa, despite the world governing body’s overnight U-turn in abandoning Infantino’s plan to sell off stakes in the World Cup and other competitions.",
    "image": "https://i.guim.co.uk/img/media/98c488cf95b17c0d620a279067c8487ae9a6938b/208_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=108ff65d73b3e7e8ab8f76ba811bfe1b",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SKY SPORTS",
@@ -58,8 +68,8 @@
    "link": "https://www.skysports.com/football/news/12098/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism",
    "lede": "FIFA president Gianni Infantino has abandoned his controversial plan to sell a stake in future World Cup profits to private equity investors after fierce opposition from football's governing bodies. But, despite walking back on his plans, UEFA has declared a loss of confidence in Infantino, with the Football Association supportive of the stance taken by European football's governing body. FIFA had announced on Tuesday that it was seeking to launch FIFA Forward Enterprise (FFE), which would bring together the sale of FIFA's commercial rights - including broadcasting, sponsorship, ticketing and licensing - with the operational delivery of its tournaments.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BOLAVIP.COM",
@@ -68,16 +78,6 @@
    "link": "https://bolavip.com/en/soccer/uefa-welcomes-fifa-dropping-world-cup-commercial-plans-questions-gianni-infantinos-strategy",
    "lede": "The football world was shaken in recent hours after UEFA pushed for a boycott of FIFA following the announcement of Gianni Infantino‘s proposal to use private investment to fund tournaments such as the World Cup. It was eventually confirmed that the commercial proposals would not move forward, and European football’s governing body criticized the strategy promoted by FIFA’s president. In a strongly worded statement published on its official Instagram page, UEFA criticized Infantino’s failure to deliver on the promises he made when he was elected president, while also outlining the changes FIFA will need to face moving forward. “UEFA welcomes FIFA’s decision to withdraw its plan to sell a stake in its competitions, including the World Cup, into private hands,” the statement began.",
    "image": "https://media.bolavip.com/wp-content/uploads/sites/10/2026/08/01115257/gianni-infantino-3-1200x740.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "LE MONDE.FR",
-   "title": "UEFA targets Infantino after FIFA shelves World Cup private investment plan",
-   "iso": "2026-08-01T16:19:12.000Z",
-   "link": "https://www.lemonde.fr/en/sports/article/2026/08/01/uefa-targets-infantino-after-fifa-shelves-world-cup-private-investment-plan_6756070_9.html",
-   "lede": "FIFA president Gianni Infantino failed to calm the stormy waters surrounding his position despite on Saturday, August 1, scrapping a plan to allow private investment in the World Cup. European football's governing body UEFA had led the opposition to the plan, saying they would boycott all FIFA competitions. While welcoming the withdrawal of the proposal, UEFA said that Infantino had lost their and other football family members' \"confidence\" with his \"shabby, back room, opaque deal.\" Their response came hours after Infantino, whose previous smooth path to unopposed re-election for a final term next year is being openly questioned, had issued a statement announcing the humiliating climbdown after a furious backlash since the plan was first revealed on Tuesday.",
-   "image": "https://img.lemde.fr/2026/08/01/0/0/8256/5504/1440/960/60/0/9b2cad3_ftp-1-jtz2qmbb0jiv-5754170-01-06.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
