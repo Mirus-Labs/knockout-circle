@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T11:06:35.634Z",
+ "updated": "2026-08-01T11:06:52.005Z",
  "news": [
   {
    "cat": "THENATIONALNEWS.COM",
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
+   "cat": "RFI",
+   "title": "Fifa boss Infantino scraps plan to sell off World Cup profits to private equity",
+   "iso": "2026-08-01T09:34:58.000Z",
+   "link": "https://www.rfi.fr/en/sports/20260801-fifa-boss-infantino-scraps-plan-to-sell-off-world-cup-profits-to-private-equity-world-cup-2026",
+   "lede": "Gianni Infantino, the boss of world football's governing body Fifa, caved in to international pressure on Saturday and abandoned his brainchild to sell World Cup profits to private equity. The move followed savage critiques of his plans from the organisations overseeing football in Asia, Europe and North America. Infantino had proposed spinning off Fifa commercial businesses — including World Cups and Club World Cups for men and women — into a €17 billion subsidiary with 20 percent owned by private investors including the Kushner family who have links to the American president Donald Trump. “Having listened carefully to all the views, it has become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place,” Infantino said in a statement.",
+   "image": "https://s.rfi.fr/media/display/6187729e-8d3a-11f1-919e-005056a90284/w:1280/p:16x9/2026-07-28T162945Z-1037867588-RC28KJAED3SY-RTRMADP-3-SOCCER-FIFA-STAKE.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "DAILY MIRROR",
    "title": "Football fans' power still strong as FIFA's World Cup plot follows Super League to scrap heap",
    "iso": "2026-08-01T09:22:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/fifa-plan-scrapped-gianni-infantino-37502563",
    "lede": "FIFA’s embarrassing plan to sell the World Cup lasted less than four days before it was scrapped. Under-fire president Gianni Infantino , whose position now appears to be untenable, only unveiled the woeful plot on Thursday. The reaction was instant. Football didn’t want this.",
    "image": "https://i2-prod.mirror.co.uk/article37502556.ece/ALTERNATES/s1200d/0_GettyImages-2250040541.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "GULF NEWS",
-   "title": "How FIFA's World Cup private investment plan imploded",
-   "iso": "2026-08-01T09:14:24.000Z",
-   "link": "https://gulfnews.com/sport/football/world-cup/how-fifas-world-cup-private-investment-plan-imploded-1.500627553",
-   "lede": "FIFA president Gianni Infantino has pulled the plug on the plan to allow private investment in the World Cup which had sparked a furious global backlash even among his allies.AFP Sport details the timeline of the dramatic few days which significantly weakened Infantino, who had been basking in the warm afterglow of a highly successful 48-team World Cup spread over three countries: Tuesday The Times newspaper breaks the story, sparking UEFA to issue a strongly-worded statement \"None of us are the owners of football. It is not FIFA's to sell.\" FIFA, having issued a no comment to The Times, finally breaks cover with details of the plan saying: \"It would retain a majority share in FIFA Forward Enterprise (FFE)\" but hoped to raise $4.2 billion later this year by \"carefully selecting long-term investors who will purchase minority, non-controlling interests\".",
-   "image": "https://media.assettype.com/gulfnews%2F2026-07-31%2F9fpp83xs%2Fpreview.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
