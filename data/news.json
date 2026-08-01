@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T14:00:02.897Z",
+ "updated": "2026-08-01T14:01:18.773Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -52,22 +52,22 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "UEFA will boycott FIFA tournaments if Gianni Infantino continues with plans to sell off stake in World Cup",
-   "iso": "2026-08-01T12:40:57.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
-   "lede": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup. The decision was taken at an emergency meeting of all of UEFA's 55 member associations on Thursday afternoon, with a 55-0 vote. In a statement released on Thursday afternoon, UEFA said: \"We unanimously and unequivocally reject FIFA's proposal to transfer ownership interests in the World Cup and other FIFA competitions to private investors.\" Q&A: Why is UEFA boycotting FIFA tournaments and can it stop Gianni Infantino?",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-uefa-infantino_7310610.png?20260730174215",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "DW.COM",
    "title": "UEFA 'rebuilding trust' after FIFA scraps World Cup plans",
    "iso": "2026-08-01T12:16:32.000Z",
    "link": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144",
    "lede": "Europe's governing body, UEFA has called Gianni Infantino's decision to abandon his plans to sell stakes in FIFA competitions to private equity investors a \"victory for the whole game.\" FIFA President Gianni Infantino has withdrawn his plans to sell stakes in FIFA competitions to private investors after widespread condemnation from across the football world. European football's governing body UEFA welcomed the news on Saturday, calling it a \"victory for the whole game.\" In a statement on Saturday, Infantino said: \"Having listened carefully to all the views, it has become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place.\"",
    "image": "https://static.dw.com/image/77405779_6.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
+   "iso": "2026-08-01T11:58:50.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign",
+   "lede": "What do the charges brought against Argentina’s FA, their players and their fans mean, and what action could FIFA take? Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino’s private investment plan. FIFA’s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams. How the proposed FIFA Forward Enterprise has provoked criticism, including from UEFA and Britain’s new Prime Minister.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-10-01T185802Z_1436339955_UP1ELA11GOP94_RTRMADP_3_SOCCER-CHAMPIONS-BAR-PSG-1785583868.jpg?resize=1739%2C1080",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
