@@ -1,15 +1,45 @@
 {
- "updated": "2026-08-01T14:01:18.773Z",
+ "updated": "2026-08-01T15:30:00.927Z",
  "news": [
+  {
+   "cat": "GOAL.COM",
+   "title": "'Shabby and opaque!' - UEFA declares loss of confidence in Gianni Infantino after FIFA backs down on £15bn World Cup sell-off plot",
+   "iso": "2026-08-01T14:48:32.000Z",
+   "link": "https://www.goal.com/en/lists/uefa-loss-of-confidence-gianni-infantino-fifa-world-cup-deal/blt30cc27baafd8db20",
+   "lede": "UEFA has launched a blistering attack on FIFA president Gianni Infantino, describing a recently abandoned plan to sell off a stake in the World Cup as 'shabby' and 'opaque'. The European governing body officially declared a total loss of confidence in the FIFA leadership after the controversial £15 billion private investment plot collapsed under intense global pressure. The relationship between football’s most powerful governing bodies has reached a new low following the fallout from FIFA's attempt to sell a 20 per cent stake in its commercial assets. In a remarkably blunt statement, UEFA welcomed FIFA’s decision to withdraw the proposal but made it clear that the damage to Infantino’s reputation is permanent.",
+   "image": "https://assets.goal.com/images/v3/getty-2159209953/crop/MM5DENZSGA5DCNJTGA5G433XMU5DGOBRHI3DM===/GettyImages-2159209953.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THENATIONALNEWS.COM",
+   "title": "What happens next to Fifa president Gianni Infantino after World Cup sale controversy?",
+   "iso": "2026-08-01T14:35:11.000Z",
+   "link": "https://www.thenationalnews.com/sport/football/2026/08/01/what-happens-next-to-fifa-president-gianni-infantino-after-world-cup-sale-controversy/",
+   "lede": "Fifa president Gianni Infantino found himself on the back foot this week after the governing body's stunning proposal to sell stakes in commercial rights for the World Cup was met with swift and stiff opposition, resulting in an almost immediate withdrawal of the controversial plan. The world governing body planned to raise up to $4.2 billion by selling a 20 per cent stake in ​a new entity that would run Fifa events, including the ‌World Cup, to private investors. The plan, announced earlier this week , was opposed by major football bodies. European football’s Uefa led the way, stating that it will boycott the World Cup and all Fifa competitions if the proposal was not taken back.",
+   "image": "https://www.thenationalnews.com/resizer/v2/ANRVTJ3LCFTJC4W47625KKFMYY.jpg?smart=true&auth=173ddb669132df44f181ec5e4a42b52e1dec889f20a9fda0f40851a7108ca990&width=1200&height=630",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Gianni Infantino ‘has lost Uefa’s confidence’ after Fifa chief scraps World Cup sell-off plan",
-   "iso": "2026-08-01T13:42:00.000Z",
+   "iso": "2026-08-01T14:24:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football",
    "lede": "Infantino ditched proposals after widespread backlash. Uefa adds: ‘We cannot keep going on with secret schemes’. Uefa has warned Gianni Infantino that his style of leadership cannot continue in demanding a thorough and fundamental review of Fifa’s governance. In a strongly worded statement that referred to “secret schemes”, “shabby backroom deals” and “faceless individuals”, the Uefa leadership made clear it wants change at the top of Fifa, despite the world governing body’s overnight U-turn in abandoning Infantino’s plan to sell off stakes in the World Cup and other competitions.",
    "image": "https://i.guim.co.uk/img/media/98c488cf95b17c0d620a279067c8487ae9a6938b/208_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=108ff65d73b3e7e8ab8f76ba811bfe1b",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Amid threat of boycotts, FIFA ditches commercialization plan",
+   "iso": "2026-08-01T13:45:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/238027/amid-threat-of-boycotts-fifa-ditches-commercialization-plan",
+   "lede": "FIFA’s controversial plan to bring private investment into the World Cup is officially off the table. FIFA president Gianni Infantino announced that the governing body will no longer pursue a proposal that would have created a new commercial subsidiary valued at approximately $20 billion. Under the plan, FIFA would have transferred the commercial rights to its biggest competitions, including the men’s and women’s World Cups and Club World Cups, into the new entity before selling a 20 percent stake to private investors. The proposal quickly became one of the most divisive issues in recent FIFA history.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2287053177.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "REDIFF",
@@ -18,8 +48,28 @@
    "link": "https://www.rediff.com/sports/report/fifa-president-gianni-infantino-private-equity-world-cup-plan-collapses-amid-backlash/20260801.htm",
    "lede": "FIFA President Gianni Infantino's ambitious proposal to sell a 20% stake in a commercial entity managing the World Cup and other tournaments to private investors has been decisively abandoned following a significant backlash from key football stakeholders, including a boycott threat from UEFA. FIFA president Gianni Infantino, hitherto untouchable at the helm of soccer's global governing body, suffered a crushing blow on Friday when his bold reach for private equity riches was brought to an end in the face of a ferocious backlash. A FIFA statement, attributed to Infantino, conceded that the proposal to create a commercial entity to run the World Cup and other tournaments, 20% of which would be sold to private investors, was divisive and dead in the water.",
    "image": "https://im.rediff.com/1200-630/sports/2026/aug/01infantino1.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "WNWN-FM",
+   "title": "Soccer-Reaction to FIFA backing down on World Cup sell-off plans",
+   "iso": "2026-08-01T13:33:25.000Z",
+   "link": "https://wincountry.com/2026/08/01/soccer-reaction-to-fifa-backing-down-on-world-cup-sell-off-plans/",
+   "lede": "Aug 1 (Reuters) – FIFA President Gianni Infantino said on Friday that world soccer’s governing body had scrapped plans to sell a stake in the World Cup to private investors after widespread backlash. The following are quotes and reactions:. GERMAN FOOTBALL ASSOCIATION PRESIDENT BERND NEUENDORF. “The events surrounding this project initiated by Gianni Infantino must now be ​fully investigated.",
+   "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/01/2026-08-01T091208Z_1_LYNXMPEM702AX_RTROPTP_3_SOCCER-WORLDCUP.JPG",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "SPORTSNET.CA",
+   "title": "UEFA loses confidence in FIFA’s Infantino after failed World Cup equity plan",
+   "iso": "2026-08-01T13:27:00.000Z",
+   "link": "https://www.sportsnet.ca/fifa-world-cup/article/uefa-loses-confidence-in-fifas-infantino-after-failed-world-cup-equity-plan/",
+   "lede": "GENEVA — Successfully stopping Gianni Infantino’s FIFA plan to sell World Cup profits to private investors was the first half of a high-stakes game in global soccer politics. The second half kicked off Saturday with what seemed a clear aim of ending Infantino’s decade-long presidency. “No option should be off the table,” said European soccer body UEFA, whose president Aleksander Čeferin has led the fight against Infantino in a seismic week for FIFA. “The current FIFA leadership has not only lost UEFA’s confidence but also that of many other members of the football family.”",
+   "image": "https://www.sportsnet.ca/wp-content/uploads/2025/12/Gianni-Infantino-FIFA-World-Cup-Draw.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE I PAPER",
@@ -28,56 +78,6 @@
    "link": "https://inews.co.uk/news/infantino-isnt-only-villain-in-fifa-world-cup-sell-off-4680635",
    "lede": "JPMorgan faces backlash after advising Fifa on controversial fundraising plan to sell a minority stake in a new commercial entity. In a perhaps rare example of corporate contrition, JPMorgan Chase issued a public apology in 2021 over its involvement in a scheme to form a breakaway elite European football league. America’s richest bank pledged: “We will learn from this.” Some five years later, the financial giant finds itself in the teeth of another controversy embroiling elite football after it was this week revealed to be the main adviser to global governing body Fifa over its hotly-disputed plan to sell a stake in the World Cup and its other competitions to private investors.",
    "image": "https://inews.co.uk/wp-content/uploads/2026/07/SEI_305832917.jpg?crop=491px%2C113px%2C1407px%2C795px&resize=1200%2C675",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "A NEWS",
-   "title": "Asian Football Confederation welcomes FIFA decision to scrap World Cup stake sale",
-   "iso": "2026-08-01T12:59:41.000Z",
-   "link": "https://www.anews.com.tr/sport/2026/08/01/asian-football-confederation-welcomes-fifa-decision-to-scrap-world-cup-stake-sale",
-   "lede": "Asian Football Confederation (AFC) President Shaikh Salman bin Ebrahim Al Khalifa on Saturday welcomed FIFA's decision to scrap plans to sell a stake in the World Cup. In a statement released by the AFC, Shaikh Salman said proposals with the potential to impact global football should be presented and discussed with the confederations, the FIFA Council, member associations and other stakeholders in a 'timely, transparent and meaningful manner.' 'The future of global football must always be shaped through proper consultation, collective dialogue and respect for the established governance structures of our game,' he said. He added that the AFC remains ready to support initiatives that strengthen unity across the sport.",
-   "image": "https://ia.tmgrup.com.tr/c155ce/806/378/0/13/864/418?u=https://i.tmgrup.com.tr/anews/v1/2026/08/01/asian-football-confederation-welcomes-fifa-decision-to-scrap-world-cup-stake-sale-1785586789573.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "BBC",
-   "title": "Fifa's World Cup plan never stacked up - here are 4 reasons why",
-   "iso": "2026-08-01T12:41:17.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo",
-   "lede": "Documents that set out Fifa's plan to part-privatise the World Cup and seen by the BBC show why the deal may have fallen apart. The sales pitch was circulated to Fifa members this week, setting out the case for Gianni Infantino's controversial plan featuring pictures of the Spain team lifting the trophy and Argentina's fans. The 25-page deck of slides painted a picture of American football-level revenue expectations, which pointed to a potential continuation and extension of the controversial 2026 US-influenced World Cup model. It suggested there was the potential for $1,000+ tickets, dynamic pricing, and pressure to put broadcasting of the world's biggest sports tournament behind a paywall.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DW.COM",
-   "title": "UEFA 'rebuilding trust' after FIFA scraps World Cup plans",
-   "iso": "2026-08-01T12:16:32.000Z",
-   "link": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144",
-   "lede": "Europe's governing body, UEFA has called Gianni Infantino's decision to abandon his plans to sell stakes in FIFA competitions to private equity investors a \"victory for the whole game.\" FIFA President Gianni Infantino has withdrawn his plans to sell stakes in FIFA competitions to private investors after widespread condemnation from across the football world. European football's governing body UEFA welcomed the news on Saturday, calling it a \"victory for the whole game.\" In a statement on Saturday, Infantino said: \"Having listened carefully to all the views, it has become clear that the project has created divisions of a nature that, regardless of the level of support, are no longer in the interest of the objective set out in the first place.\"",
-   "image": "https://static.dw.com/image/77405779_6.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-   "iso": "2026-08-01T11:58:50.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign",
-   "lede": "What do the charges brought against Argentina’s FA, their players and their fans mean, and what action could FIFA take? Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino’s private investment plan. FIFA’s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams. How the proposed FIFA Forward Enterprise has provoked criticism, including from UEFA and Britain’s new Prime Minister.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-10-01T185802Z_1436339955_UP1ELA11GOP94_RTRMADP_3_SOCCER-CHAMPIONS-BAR-PSG-1785583868.jpg?resize=1739%2C1080",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NL TIMES",
-   "title": "Dutch football body happy with FIFA’s abandonment of World Cup commercialization plan",
-   "iso": "2026-08-01T11:55:00.000Z",
-   "link": "https://nltimes.nl/2026/08/01/dutch-football-body-happy-fifas-abandonment-world-cup-commercialization-plan",
-   "lede": "The Royal Dutch Football Association (KNVB) said Saturday it is pleased FIFA withdrew its controversial proposal to create a company that would manage and issue shares for the World Cup. However, the KNVB sees no future with Gianni Infantino as president of FIFA, AD reports. “The way this process has unfolded has led to a fundamental breach of trust in the leadership of FIFA President Gianni Infantino. The KNVB no longer has confidence in his leadership,” the Dutch association said in a written statement.",
-   "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2025-07/Depositphotos_10744656_XL.jpg?h=ffbed35d",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
