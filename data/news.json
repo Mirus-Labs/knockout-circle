@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T10:52:08.413Z",
+ "updated": "2026-08-02T11:07:35.591Z",
  "news": [
   {
    "cat": "FOOTBALL ITALIA",
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE BUSINESS STANDARD",
-   "title": "Infantino under pressure as Uefa demands accountability over failed World Cup plan",
-   "iso": "2026-08-02T04:40:00.000Z",
-   "link": "https://www.tbsnews.net/sports/football/infantino-under-pressure-uefa-demands-accountability-over-failed-world-cup-plan",
-   "lede": "Uefa has declared it has no confidence in Fifa President Gianni Infantino after he abandoned a controversial plan to sell a stake in World Cup profits to private investors, deepening a leadership crisis in world football. The proposal sought to place Fifa's commercial operations, including the men's and women's World Cups, into a $20 billion company with 20% owned by private investors. The plan collapsed yesterday (2 August) following strong opposition from Uefa, the Asian Football Confederation (AFC), CONCACAF and an internal revolt within Fifa. Aleksander Čeferin, Uefa President, said the current Fifa leadership had lost the confidence of Europe and many others in global football, insisting those responsible for the proposal must be held accountable.",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_payment_means_bKash_Jul26/public/images/2026/07/29/infantino.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "LONDON EVENING STANDARD",
    "title": "UEFA to boycott World Cup if Infantino sell-off plan goes ahead",
    "iso": "2026-08-02T03:05:42.000Z",
    "link": "https://www.standard.co.uk/sport/football/england-uefa-world-cup-boycott-infantino-b1291868.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. England, its fellow UEFA nations and CONCACAF have unanimously voted to boycott the upcoming men’s and women’s World Cups if Gianni Infantino goes ahead with plans to sell off shares in the tournament to private investors. UEFA’s 55 member nations held a virtual crisis meeting on Thursday to discuss Infantino’s recently announced plans to privatise and sell shares in the World Cup.",
    "image": "https://static.standard.co.uk/2026/07/30/15/01KYPMZF5SAV4HT4M8MYADNFT8.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "COLOMBIAONE.COM",
@@ -78,6 +68,16 @@
    "link": "https://colombiaone.com/2026/08/01/zidane-begins-era-france-coach/",
    "lede": "Zinedine Zidane has waited years for the opportunity he describes as the biggest challenge in football. On Tuesday, 28 July, the French Football Federation appointed the former World Cup winner as head coach of France on a contract running through the 2030 FIFA World Cup, completing a succession plan that had been anticipated for several seasons. Zidane replaces Didier Deschamps after France’s 2026 World Cup campaign ended with a semifinal defeat to Spain and a 6-4 loss to England in the third-place match. His first assignment comes quickly, with UEFA Nations League away fixtures against Turkey on Sept. 25 and Belgium three days later before France hosts Italy and Belgium in early October.",
    "image": "https://colombiaone.com/wp-content/uploads/2026/07/Zinedine-Zidane.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "'Nobody is selling football!' - FIFA responds to controversy and offers explanation after Gianni Infantino's World Cup plan sparks outrage",
+   "iso": "2026-08-02T02:48:17.000Z",
+   "link": "https://www.goal.com/en/lists/fifa-responds-world-cup-plan-controversy-gianni-infantino/bltde9f4d4157c5057e",
+   "lede": "FIFA has issued a firm response to the mounting backlash surrounding its controversial World Cup spin-off proposal, insisting that \"nobody is selling football.\" The governing body claims media reports mischaracterised the plans and reaffirmed its commitment to a democratic process. FIFA has officially responded to the fierce opposition surrounding its proposed FIFA Forward Enterprise (FFE) project. The governing body released a public statement attempting to clear up what it described as \"incorrect media reports\" that disrupted the planned consultation process.",
+   "image": "https://assets.goal.com/images/v3/blt0fd095ee04648585/06.gif",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
