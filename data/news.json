@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T16:14:02.399Z",
+ "updated": "2026-08-02T16:39:13.808Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "COMMONDREAMS.ORG",
+   "cat": "COMMON DREAMS",
    "title": "Opinion | A FIFA World Cup and a Village's Stolen Dream",
    "iso": "2026-08-02T12:56:38.000Z",
    "link": "https://www.commondreams.org/opinion/fifa-and-west-bank",
@@ -53,31 +53,30 @@
   },
   {
    "cat": "LONDON EVENING STANDARD",
-   "title": "FIFA scrap World Cup sell-off plan after backlash",
-   "iso": "2026-08-02T11:16:12.000Z",
-   "link": "https://www.standard.co.uk/sport/football/fifa-scrap-world-cup-investment-plan-b1292038.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA “will not proceed” with plans to sell stakes in a company which would run the commercial and operational aspects of its competitions, a statement from president Gianni Infantino said. The plan, which would include the men’s and women’s World Cups, has been rejected by three continental confederations with UEFA insisting its nations would boycott FIFA events.",
-   "image": "https://static.standard.co.uk/2026/08/01/06/01KXYD52X0QDG9AMHPJWYPXZ7R.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
    "title": "UEFA to boycott World Cup if Infantino sell-off plan goes ahead",
    "iso": "2026-08-02T11:00:11.000Z",
    "link": "https://www.standard.co.uk/sport/football/england-uefa-world-cup-boycott-infantino-b1291868.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. England, its fellow UEFA nations and CONCACAF have unanimously voted to boycott the upcoming men’s and women’s World Cups if Gianni Infantino goes ahead with plans to sell off shares in the tournament to private investors. UEFA’s 55 member nations held a virtual crisis meeting on Thursday to discuss Infantino’s recently announced plans to privatise and sell shares in the World Cup.",
    "image": "https://static.standard.co.uk/2026/07/30/15/01KYPMZF5SAV4HT4M8MYADNFT8.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "FINANCIAL TIMES",
+   "title": "A red card for the boss of world football",
+   "iso": "2026-08-02T16:17:32.000Z",
+   "link": "https://www.ft.com/content/162287ce-0267-47e9-aeee-16f93d3fc309?syn-25a6b1a6=1",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "FIFA boss Infantino’s position looks unacceptable: European Leagues head",
-   "iso": "2026-08-02T10:31:50.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league",
-   "lede": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis? UEFA, who were the strongest opponents of FIFA’s plan, slam the Gianni Infantino-led governing body despite standdown. Asian Football Confederation says FIFA future must be ‘shaped through proper consultation’ after World Cup plan fallout. How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2261253371-1785664378_f0503f-1785666630.jpg?resize=1200%2C630&quality=80",
+   "cat": "VANGUARD NEWS",
+   "title": "‘Good news’, Real Madrid hails FIFA’s reversal on World Cup investment plan",
+   "iso": "2026-08-02T16:07:51.000Z",
+   "link": "https://www.vanguardngr.com/2026/08/good-news-real-madrid-hails-fifas-reversal-on-world-cup-investment-plan/",
+   "lede": "Spanish giants Real Madrid on Sunday welcomed FIFA's decision to scrap their controversial plan to allow private investment in the World Cup.",
+   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/AFP__20260729__C3FX29G__v2__MidRes__FblEuFifaWc.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
