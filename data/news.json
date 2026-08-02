@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-02T20:00:52.161Z",
+ "updated": "2026-08-02T21:03:19.341Z",
  "news": [
+  {
+   "cat": "BUSINESS NEWS NIGERIA",
+   "title": "Real Madrid backs FIFA’s World Cup stake sale U-turn",
+   "iso": "2026-08-02T20:10:42.000Z",
+   "link": "https://businessday.ng/sports/article/real-madrid-backs-fifas-world-cup-stake-sale-u-turn/",
+   "lede": "Real Madrid have backed FIFA‘s decision to withdraw plans to sell a minority stake in the commercial rights of the men’s and women’s World Cups, as pressure mounted on FIFA president Gianni Infantino over the controversial proposal. The 15-time UEFA Champions League winners described the move as “good news for football” after widespread opposition forced FIFA to abandon plans to open its flagship competitions to private investors. Read Also: UEFA threatens FIFA boycott over Infantino’s plan to sell World Cup stake Real Madrid backs FIFA U-turn. Infantino’s proposal had sought to create a new commercial entity through which FIFA would sell minority stakes in the commercial rights of its major tournaments, including the men’s and women’s World Cups.",
+   "image": "https://cdn.businessday.ng/wp-content/uploads/2026/08/Gianni-Infantino-FIFA.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE DAILY STAR",
    "title": "Bruno Guimaraes: From Brazil's World Cup villain to the verge of Arsenal's record signing",
@@ -8,18 +18,18 @@
    "link": "https://www.thedailystar.net/sports/football/news/bruno-guimaraes-brazils-world-cup-villain-the-verge-arsenals-record-signing-4238211",
    "lede": "Just weeks after being singled out for Brazil's painful World Cup exit, Bruno Guimaraes is set to become Arsenal's record signing in a reported £80 million move from Newcastle United. The Brazil midfielder, who endured intense criticism after missing a crucial penalty in his country's last-16 defeat to Norway, is expected to sign a five-year contract until 2031, subject to a medical and official confirmation from both clubs. Guimaraes was one of Carlo Ancelotti's standout performers throughout the tournament, but his campaign became defined by one moment. With Brazil level against Norway in the round of 16, the 28-year-old saw his first-half penalty, awarded after a foul on Matheus Cunha, saved by goalkeeper Orjan Nyland.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "THESUN.CO.UK",
+   "cat": "THE SUN",
    "title": "Uefa threaten Gianni Infantino and Joshua Kushner with legal action over abandoned World Cup sale plan",
    "iso": "2026-08-02T19:11:00.000Z",
    "link": "https://www.thesun.co.uk/sport/39945146/uefa-gianni-infantino-joshua-kushner-legal-action-world-cup/",
    "lede": "UEFA is considering legal action after Gianni Infantino’s failed plan to flog shares in the World Cup, a letter sent on Friday says. The Fifa supremo, 56, sent shockwaves through football when it emerged he wanted to sell stakes in the sport’s biggest tournament to private investors. But Infantino was forced to scrap his proposal in a humiliating U-turn after intense pressure. And Uefa, who declared a loss of confidence in the Swiss millionaire, declared that it was mulling taking the matter to court.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-39945156.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -28,16 +38,6 @@
    "link": "https://www.independent.co.uk/sport/football/valentin-barco-chelsea-transfer-news-world-cup-jude-bellingham-b3026079.html",
    "lede": "Barco, who was involved in a viral heated exchange with Jude Bellingham after the World Cup semi-final, has moved to Stamford Bridge on a seven-year deal. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/07/16/08/2026-07-03T204009Z_601070949_UP1EM731LEWE4_RTRMADP_3_SOCCER-WORLDCUP-ARG-CPV.JPG?trim=0,10,0,10&width=1200&height=800&crop=1200:800",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "FIFA must rebuild trust after scrapping World Cup investor proposal, says Boyce",
-   "iso": "2026-08-02T17:27:02.000Z",
-   "link": "https://www.straitstimes.com/sport/football/fifa-must-rebuild-trust-after-scrapping-world-cup-investor-proposal-says-boyce",
-   "lede": "FILE PHOTO: The logo of FIFA is seen in front of its headquarters in Zurich, Switzerland September 26, 2017. REUTERS/Arnd Wiegmann/File Photo. Aug 2 - Former FIFA vice-president Jim Boyce said on Sunday world soccer's governing body should focus on the interests of fans after President Gianni Infantino abandoned plans to sell a stake in the World Cup to private investors, calling the proposal \"ludicrous\". FIFA had proposed raising up to $4.2 billion by selling a roughly 20% stake in a new entity that would oversee FIFA competitions, including the World Cup.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9eb2757c2bf63400bad3359bdfcaec0b352c2ae9123406b45d799f8d07183434",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
