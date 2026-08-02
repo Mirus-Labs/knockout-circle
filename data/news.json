@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-02T11:07:35.591Z",
+ "updated": "2026-08-02T12:06:28.461Z",
  "news": [
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "FIFA scrap World Cup sell-off plan after backlash",
+   "iso": "2026-08-02T11:16:12.000Z",
+   "link": "https://www.standard.co.uk/sport/football/fifa-scrap-world-cup-investment-plan-b1292038.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA “will not proceed” with plans to sell stakes in a company which would run the commercial and operational aspects of its competitions, a statement from president Gianni Infantino said. The plan, which would include the men’s and women’s World Cups, has been rejected by three continental confederations with UEFA insisting its nations would boycott FIFA events.",
+   "image": "https://static.standard.co.uk/2026/08/01/06/01KXYD52X0QDG9AMHPJWYPXZ7R.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "UEFA to boycott World Cup if Infantino sell-off plan goes ahead",
+   "iso": "2026-08-02T11:00:11.000Z",
+   "link": "https://www.standard.co.uk/sport/football/england-uefa-world-cup-boycott-infantino-b1291868.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. England, its fellow UEFA nations and CONCACAF have unanimously voted to boycott the upcoming men’s and women’s World Cups if Gianni Infantino goes ahead with plans to sell off shares in the tournament to private investors. UEFA’s 55 member nations held a virtual crisis meeting on Thursday to discuss Infantino’s recently announced plans to privatise and sell shares in the World Cup.",
+   "image": "https://static.standard.co.uk/2026/07/30/15/01KYPMZF5SAV4HT4M8MYADNFT8.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "FIFA boss Infantino’s position looks unacceptable: European Leagues head",
+   "iso": "2026-08-02T10:31:50.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league",
+   "lede": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis? UEFA, who were the strongest opponents of FIFA’s plan, slam the Gianni Infantino-led governing body despite standdown. Asian Football Confederation says FIFA future must be ‘shaped through proper consultation’ after World Cup plan fallout. How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2261253371-1785664378_f0503f-1785666630.jpg?resize=1200%2C630&quality=80",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "FOOTBALL ITALIA",
    "title": "Buffon reveals who he would have chosen as Italy head coach: ‘World Cup main goal’",
@@ -8,8 +38,8 @@
    "link": "https://football-italia.net/buffon-reveals-who-he-would-have-chosen-italy/",
    "lede": "Gianluigi Buffon has spoken about the offer he received to return to the Italy national team set-up under Paolo Maldini, has explained why it is important to have a figure like Claudio Ranieri involved and has revealed who he would have chosen instead of Roberto Mancini as the next head coach. The legendary former goalkeeper and former Italy delegation chief spoke all things Nazionale in an in-depth interview with La Gazzetta dello Sport, published on Sunday. It has been a hectic few weeks for the Italy national team and its supporters. Maldini was appointed as the new technical director of the FIGC only to resign just over a fortnight later.",
    "image": "https://icdn.football-italia.net/wp-content/uploads/2025/08/france-v-italy-uefa-nations-leag.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "NZ HERALD",
@@ -18,8 +48,8 @@
    "link": "https://www.nzherald.co.nz/sport/football/football-ferns/football-ferns-legend-abby-erceg-explains-decision-to-walk-away-from-2023-fifa-womens-world-cup/premium/2TJ2VXP4W5HIBKRSVTLK5W5O4I/",
    "lede": "Reminder, this is a Premium article and requires a subscription to read. Former Football Ferns captain Abby Erceg, pictured during one of her last international appearances. Former Football Ferns captain Abby Erceg has no regrets over her absence from the 2023 Fifa Women’s World Cup in New Zealand and Australia, even if it was one of the toughest decisions of her career. Erceg, who will feature as a guest player for Auckland FC’s invitational team against Chelsea Women on Saturday at Eden Park, was the biggest name missing from Jitka Klimkova’s squad three years ago.",
    "image": "https://www.nzherald.co.nz/resizer/v2/6DE53HPMDNBAXAQ2UQ2PG3CVZA.JPG?auth=59777f210b33832c30b617fb6a5b5b53b36b775849ff4b23a665bd3705fc9996&width=1200&height=675&quality=70&focal=1862%2C424&smart=false",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -28,8 +58,8 @@
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/236901/ranking-world-cup-performances-by-bayern-munich-players",
    "lede": "From 1982 to 2022, every single FIFA World Cup Final featured at least one Bayern Munich player. That streak came to an end in 2026, as France lost to Spain and England lost to Argentina in the semifinals. However, that doesn’t mean that Bayern didn’t have plenty of representation in the World Cup. Today, we’re taking a look at Bayern Munich’s World Cup performances from worst to best (Nathaniel Brown and Ismael Saibari are not included as they only joined Bayern midway through the tournament).",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2283406690.jpg?quality=90&strip=all&crop=0%2C10.73652856756%2C100%2C78.52694286488&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "GULF NEWS",
@@ -38,46 +68,16 @@
    "link": "https://gulfnews.com/sport/football/lionel-messi-returns-after-world-cup-heartbreak-in-miami-draw-1.500628155",
    "lede": "Lionel Messi made his long-awaited return to competitive football after Argentina’s World Cup final defeat to Spain, but Inter Miami were forced to settle for a 2-2 draw against the Columbus Crew in Major League Soccer.The Argentine captain came off the bench in the 53rd minute, marking his first appearance since the World Cup final. Fellow Argentina international Rodrigo De Paul also returned to action, starting in midfield for Miami.Messi was unable to make an immediate impact on the scoresheet, although he went close twice in the second half. His best chance came deep into stoppage time, but his effort drifted wide as Miami failed to snatch a late winner.. The match had kicked off 40 minutes late due to a weather delay.Instead, Luis Suarez continued his rich vein of form.",
    "image": "https://media.assettype.com/gulfnews%2F2026-08-02%2Fvogy4qzz%2Fnewsml_afp_com_20260801T000000Z_PH_GTY_2288659826.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "JACARANDA FM",
-   "title": "UEFA, CONCACAF target Infantino after FIFA shelve World Cup private investment plan",
-   "iso": "2026-08-02T05:44:00.000Z",
-   "link": "https://www.jacarandafm.com/news/sport/uefa-concacaf-target-infantino/",
-   "lede": "Updated Aug. 2, 2026, 7:44 a.m. FIFA president Gianni Infantino came under increasing fire from continental governing bodies on Saturday despite scrapping a widely-derided plan to allow private investment in the World Cup. European football's governing body UEFA had led the opposition to the plan by threatening to boycott all FIFA competitions if it went ahead. Although welcoming the withdrawal of the proposal, UEFA said that Infantino had lost their \"confidence\" and that of other members of the football family with a \"shabby, back room, opaque deal\".",
-   "image": "https://turntable.kagiso.io/images/INFANTINO_TRUMP.width-400.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "UEFA to boycott World Cup if Infantino sell-off plan goes ahead",
-   "iso": "2026-08-02T03:05:42.000Z",
-   "link": "https://www.standard.co.uk/sport/football/england-uefa-world-cup-boycott-infantino-b1291868.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. England, its fellow UEFA nations and CONCACAF have unanimously voted to boycott the upcoming men’s and women’s World Cups if Gianni Infantino goes ahead with plans to sell off shares in the tournament to private investors. UEFA’s 55 member nations held a virtual crisis meeting on Thursday to discuss Infantino’s recently announced plans to privatise and sell shares in the World Cup.",
-   "image": "https://static.standard.co.uk/2026/07/30/15/01KYPMZF5SAV4HT4M8MYADNFT8.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "COLOMBIAONE.COM",
-   "title": "Zinedine Zidane Begins a New Era as France Coach After 2026 World Cup",
-   "iso": "2026-08-02T03:00:00.000Z",
-   "link": "https://colombiaone.com/2026/08/01/zidane-begins-era-france-coach/",
-   "lede": "Zinedine Zidane has waited years for the opportunity he describes as the biggest challenge in football. On Tuesday, 28 July, the French Football Federation appointed the former World Cup winner as head coach of France on a contract running through the 2030 FIFA World Cup, completing a succession plan that had been anticipated for several seasons. Zidane replaces Didier Deschamps after France’s 2026 World Cup campaign ended with a semifinal defeat to Spain and a 6-4 loss to England in the third-place match. His first assignment comes quickly, with UEFA Nations League away fixtures against Turkey on Sept. 25 and Belgium three days later before France hosts Italy and Belgium in early October.",
-   "image": "https://colombiaone.com/wp-content/uploads/2026/07/Zinedine-Zidane.webp",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "GOAL.COM",
-   "title": "'Nobody is selling football!' - FIFA responds to controversy and offers explanation after Gianni Infantino's World Cup plan sparks outrage",
-   "iso": "2026-08-02T02:48:17.000Z",
-   "link": "https://www.goal.com/en/lists/fifa-responds-world-cup-plan-controversy-gianni-infantino/bltde9f4d4157c5057e",
-   "lede": "FIFA has issued a firm response to the mounting backlash surrounding its controversial World Cup spin-off proposal, insisting that \"nobody is selling football.\" The governing body claims media reports mischaracterised the plans and reaffirmed its commitment to a democratic process. FIFA has officially responded to the fierce opposition surrounding its proposed FIFA Forward Enterprise (FFE) project. The governing body released a public statement attempting to clear up what it described as \"incorrect media reports\" that disrupted the planned consultation process.",
-   "image": "https://assets.goal.com/images/v3/blt0fd095ee04648585/06.gif",
+   "cat": "THE BUSINESS STANDARD",
+   "title": "Infantino under pressure as Uefa demands accountability over failed World Cup plan",
+   "iso": "2026-08-02T04:40:00.000Z",
+   "link": "https://www.tbsnews.net/sports/football/infantino-under-pressure-uefa-demands-accountability-over-failed-world-cup-plan",
+   "lede": "Uefa has declared it has no confidence in Fifa President Gianni Infantino after he abandoned a controversial plan to sell a stake in World Cup profits to private investors, deepening a leadership crisis in world football. The proposal sought to place Fifa's commercial operations, including the men's and women's World Cups, into a $20 billion company with 20% owned by private investors. The plan collapsed yesterday (2 August) following strong opposition from Uefa, the Asian Football Confederation (AFC), CONCACAF and an internal revolt within Fifa. Aleksander Čeferin, Uefa President, said the current Fifa leadership had lost the confidence of Europe and many others in global football, insisting those responsible for the proposal must be held accountable.",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_payment_means_bKash_Jul26/public/images/2026/07/29/infantino.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
