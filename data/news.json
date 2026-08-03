@@ -1,25 +1,55 @@
 {
- "updated": "2026-08-03T15:20:02.573Z",
+ "updated": "2026-08-03T16:41:37.042Z",
  "news": [
   {
-   "cat": "THE DAILY STAR",
+   "cat": "THE ECONOMIC TIMES",
+   "title": "UEFA considering legal action against FIFA prez Infantino over World Cup sell-off plan",
+   "iso": "2026-08-03T15:54:45.000Z",
+   "link": "https://m.economictimes.com/news/sports/football/uefa-considering-legal-action-against-fifa-prez-infantino-over-world-cup-sell-off-plan/articleshow/132836120.cms",
+   "lede": "RBI has quietly changed how it defends the rupee. Weddings are changing: Why Manyavar needs to look beyond sherwanis. Who did India’s ethanol boom actually benefit? Sebi’s new conduct code tightens norms for top officials, but gaps remain.",
+   "image": "https://img.etimg.com/thumb/msid-132836120,width-1200,height-630,imgsize-49114,overlay-economictimes/articleshow.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Radio presenters were 1966 World Cup heroes too",
+   "iso": "2026-08-03T15:29:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/03/radio-presenters-were-1966-world-cup-heroes-too",
+   "lede": "Andrew Keeley will never forget Brian Moore and Alan Clarke’s commentary on BBC radio. Garry Richardson (England’s 1966 World Cup heroes were fun, humble and unlike today’s stars, 30 July) appears to make the assumption that everyone watched the 1966 World Cup final on television with Kenneth Wolstenholme’s iconic commentary. As a football-mad 10-year-old, I had the misfortune on the day of the final to be on our family summer holiday in the then sleepy village of Goathland, staying in a house with no TV. Hope rose when my dad was invited to watch the final at a neighbour’s who had one of the few TVs in the village and he asked if he could bring his children.",
+   "image": "https://i.guim.co.uk/img/media/db06b29c7519122b775c0edbaaed8d4a3435fb93/90_0_2779_2224/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d891372e7bc790312b4c4056a692e25",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "OPEN MAGAZINE",
+   "title": "Explained: Why Is Gianni Infantino Suddenly Fighting for His FIFA Presidency?",
+   "iso": "2026-08-03T14:49:20.000Z",
+   "link": "https://openthemagazine.com/sports/explained-why-is-gianni-infantino-suddenly-fighting-for-his-fifa-presidency",
+   "lede": "Gianni Infantino has survived corruption scandals, Super League battles and World Cup controversies. Now, the FIFA president faces perhaps his biggest political challenge yet. England's Football Association is preparing to withdraw its support for Infantino's re-election, joining a growing European revolt after FIFA's controversial proposal to sell minority stakes in a commercial entity managing the World Cup and other tournaments. Why is the Football Association withdrawing support for Gianni Infantino?",
+   "image": "https://media.openthemagazine.com/openthemagazine/2026-08-03/it9ammut/New-Project-2026-05-01T094124.557.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THEDAILYSTAR.NET",
    "title": "Pochettino to stay as USA coach until 2030 World Cup",
    "iso": "2026-08-03T14:42:23.000Z",
    "link": "https://www.thedailystar.net/sports/football/news/pochettino-stay-usa-coach-until-2030-world-cup-4239211",
    "lede": "Mauricio Pochettino has signed a contract extension to remain the head coach of the United States national team until the 2030 World Cup, US Soccer announced Monday. The 54-year-old took over in 2024 and led the USA to the last 16 at the recent World Cup, which they co-hosted with Canada and Mexico. \"It has become clear to us that there is tremendous potential to make the men's national team program even stronger,\" said Argentinian Pochettino, whose coaching staff have also agreed new contracts. \"The passion we experienced from the fans throughout the World Cup only strengthened our belief in what is possible here...",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "MOROCCO WORLD NEWS",
+   "cat": "MOROCCOWORLDNEWS.COM",
    "title": "Morocco Mourns Pioneering World Cup Referee Jilali Gharib",
    "iso": "2026-08-03T14:08:30.000Z",
    "link": "https://www.moroccoworldnews.com/2026/08/332880/morocco-mourns-pioneering-world-cup-referee-jilali-gharib/",
    "lede": "Rabat – The Royal Moroccan Football Federation (FRMF) announced on Sunday the death of former international referee Jilali Gharib, a pioneering figure in Moroccan football officiating. In a statement published on its official website, the federation extended its condolences to Gharib’s family and paid tribute to his contribution to Moroccan football. FRMF president Fouzi Lekjaa also honored the late referee, describing him as one of the country’s most distinguished officials and recalling his historic achievement as the first Moroccan referee to participate in a FIFA World Cup.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-12.39.21.webp",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GOAL.COM",
@@ -28,8 +58,18 @@
    "link": "https://www.goal.com/en/news/infantino-addresses-the-egyptian-football-association-with-a-special-message-about-the-world-cup/blt7b2166658963107e",
    "lede": "What the FIFA president said about an Egypt national team legend. FIFA president Gianni Infantino sent an official message to the Egyptian Football Association on Monday. In his telegram, Infantino offered his sincere congratulations to Al Ahly's current football director and wished him continued health, happiness and success on both a personal and professional level, praising his great career as a player and administrator. The message singled out the role played by former Egypt and Al Ahly star Wael Gomaa, with Infantino affirming that his support and cooperation contributed directly to the success of the first World Cup staged under its new 48-team format.",
    "image": "https://assets.goal.com/images/v3/blt1908fd63881de25e/06.gif",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "INFORMAT.RO",
+   "title": "The general director of the German Football Federation states that the relationship between the German federation and FIFA is impossible to repair, following the scandal involving the investors from the World Cup.",
+   "iso": "2026-08-03T13:51:28.000Z",
+   "link": "https://informat.ro/en/sport/dfb-the-relationship-with-fifa-is-impossible-to-repair-after-the-investors-scandal-133216",
+   "lede": "Andreas Rettig, the CEO of the German Football Association (DFB), stated that the relationship between the DFB and FIFA is impossible to repair, following the scandal related to investors at the World Cup and other governance issues. In an interview with Stern magazine, Rettig emphasized that there has been an \"irreparable loss\" of trust. He criticized the decisions made behind closed doors and the dishonest tactics used to attract investors. Rettig mentioned that FIFA President Gianni Infantino has surrounded himself with business people, which is incompatible with the principles of football.",
+   "image": "https://media-storage.informat.ro/6a709cd879ec0_thumbnail_large_6a2d0eef28c21_shutterstock_1650885247.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE STAR",
@@ -38,46 +78,6 @@
    "link": "https://www.thestar.com.my/sport/football/2026/08/03/soccer-us-mens-coach-pochettino-agrees-to-new-contract-through-2030-world-cup",
    "lede": "NEW YORK, Aug 3 (Reuters) - United ⁠States coach Mauricio Pochettino has agreed to lead the men's team through ⁠the 2030 World Cup, U.S. Soccer said on Monday, after taking them ‌to the last 16 at this year's finals. The 54-year-old Argentine, who favours a high-pressing, attacking style of play, took over the U.S. side in 2024 after parting ways with Chelsea earlier that year, and ​had a contract that ran through the 2026 World ⁠Cup. \"Mauricio and his staff believe ⁠in the future of soccer in the United States and our new project allows ⁠us ‌to build on progress of the USMNT and the momentum of U.S.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/08/03/4041945.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SABC NEWS",
-   "title": "ANALYSIS: Why Africa still falls short at the FIFA World Cup – Part 3",
-   "iso": "2026-08-03T13:32:28.000Z",
-   "link": "https://www.sabcnews.com/sabcnews/analysis-why-africa-still-falls-short-at-the-fifa-world-cup-part-3-2/",
-   "lede": "Leagues: The Environment That Shapes the National Team. “If you always do what you always did, you will always get what you always got.” — Albert Einstein. Youth development produces the player. Domestic leagues complete the player.",
-   "image": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/08/SABC-News-YouthDeve-Reuters.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SPORTINGNEWS.COM",
-   "title": "Forget the World Cup flop — re-hiring Mauricio Pochettino was by far the best call for the USMNT",
-   "iso": "2026-08-03T13:32:06.000Z",
-   "link": "https://www.sportingnews.com/in/football/news/re-hiring-mauricio-pochettino-usmnt-best-call-world-cup-flop/1564d4b98321c493c7c13f80",
-   "lede": "Mauricio Pochettino's first two years in charge of the United States national team may have come to a disappointing end, but that clearly has not dissuaded U.S. Soccer from their belief in the head man. They made the right call.",
-   "image": "https://library.sportingnews.com/styles/crop_style_16_9_1200_webp/s3/2026-07/2026-07-02T022338Z_1296666340_UP1EM7206ND58_RTRMADP_3_SOCCER-WORLDCUP-USA-BIH.JPG.webp?itok=PCpQJEvt",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SOUTH CHINA MORNING POST",
-   "title": "Uefa threatens Fifa with legal action over World Cup plan, Infantino sought Trump’s backing",
-   "iso": "2026-08-03T13:30:06.000Z",
-   "link": "https://amp.scmp.com/sport/football/article/3362796/uefa-threatens-fifa-legal-action-over-world-cup-plan-infantino-sought-trumps-backing",
-   "lede": "Fifa president Gianni Infantino sought support ⁠from the Trump ⁠administration amid mounting criticism ⁠after his abandoned plan to sell a stake in World Cup commercial rights, the New York Post said on Monday, citing sources familiar with the matter. European football body Uefa, meanwhile, has threatened football’s governing body with legal action over Infantino’s failed plan, and said any potential evidence should not be destroyed. And in more bad news for the Fifa chief, the English Football Association is set to write to Infantino withdrawing its support amid the fallout, the Football Association of Wales (FAW) has already withdrawn its support and German Football Federation (DFB) managing director Andreas Rettig said the relationship between the association and football’s governing body was beyond repair.",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/03/971a3665-4d32-47bf-8b0f-3c84c95e77bf_403ca8e9.jpg?itok=EW9dHDTa&v=1785751957",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SPORTSTAR",
-   "title": "Mauricio Pochettino to stay USA head coach till 2030",
-   "iso": "2026-08-03T13:24:51.000Z",
-   "link": "https://sportstar.thehindu.com/football/mauricio-pochettino-contract-extended-till-2030-us-soccer-fifa-world-cup-success/article71301365.ece",
-   "lede": "AP AP https://ss-i.thgim.com/public/incoming/lwlm6i/article71301415.ece/alternates/FREE_1200/Belgium_US_WCup_Soccer_99259.jpg ABBIE PARR United States head coach Mauricio Pochettino walks off the field after the United States lost a World Cup round of 16 soccer match against Belgium in Seattle, Monday, July 6, 2026. (AP Photo/Abbie Parr) Pochettino’s last contract expired after the FIFA World Cup, where he led USA to the Round of 16 and registered four wins, the most for the nation at a single World Cup. CHENNAI USA head coach Mauricio Pochettino on Monday extended his contract till 2030, the country’s football body announced. The Argentine’s previous contract expired after the FIFA World Cup 2026.",
-   "image": "https://ss-i.thgim.com/public/incoming/lwlm6i/article71301415.ece/alternates/LANDSCAPE_1200/Belgium_US_WCup_Soccer_99259.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
