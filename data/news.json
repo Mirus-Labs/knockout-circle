@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-03T16:41:37.042Z",
+ "updated": "2026-08-03T17:29:33.696Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Radio presenters were 1966 World Cup heroes too",
+   "iso": "2026-08-03T16:51:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/03/radio-presenters-were-1966-world-cup-heroes-too",
+   "lede": "Andrew Keeley will never forget Brian Moore and Alan Clarke’s commentary on BBC radio. Garry Richardson (England’s 1966 World Cup heroes were fun, humble and unlike today’s stars, 30 July) appears to make the assumption that everyone watched the 1966 World Cup final on television with Kenneth Wolstenholme’s iconic commentary. As a football-mad 10-year-old, I had the misfortune on the day of the final to be on our family summer holiday in the then sleepy village of Goathland, staying in a house with no TV. Hope rose when my dad was invited to watch the final at a neighbour’s who had one of the few TVs in the village and he asked if he could bring his children.",
+   "image": "https://i.guim.co.uk/img/media/db06b29c7519122b775c0edbaaed8d4a3435fb93/90_0_2779_2224/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d891372e7bc790312b4c4056a692e25",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE SUN",
+   "title": "Gianni Infantino opponents 'plotting rival World Cup competition' to 'paralyse' Fifa until he quits",
+   "iso": "2026-08-03T16:47:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/39954767/gianni-infantino-opponents-plotting-world-cup-rival/",
+   "lede": "UEFA has joined forces with other confederations and threatened to set up their own version of the World Cup if disgraced Fifa supremo Gianni Infantino refuses to quit. The Swiss millionaire, 56, sensationally vowed to desperately cling onto his job after sending shockwaves through football. Infantino made shock plans to flog shares in the World Cup to private investors before being forced into a humiliating U-turn. And Uefa president Aleksander Ceferin, along with Concacaf and the Asian Football Confederation chiefs, is pushing for him to resign.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-39955124.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE ECONOMIC TIMES",
    "title": "UEFA considering legal action against FIFA prez Infantino over World Cup sell-off plan",
@@ -8,41 +28,21 @@
    "link": "https://m.economictimes.com/news/sports/football/uefa-considering-legal-action-against-fifa-prez-infantino-over-world-cup-sell-off-plan/articleshow/132836120.cms",
    "lede": "RBI has quietly changed how it defends the rupee. Weddings are changing: Why Manyavar needs to look beyond sherwanis. Who did India’s ethanol boom actually benefit? Sebi’s new conduct code tightens norms for top officials, but gaps remain.",
    "image": "https://img.etimg.com/thumb/msid-132836120,width-1200,height-630,imgsize-49114,overlay-economictimes/articleshow.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Radio presenters were 1966 World Cup heroes too",
-   "iso": "2026-08-03T15:29:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/03/radio-presenters-were-1966-world-cup-heroes-too",
-   "lede": "Andrew Keeley will never forget Brian Moore and Alan Clarke’s commentary on BBC radio. Garry Richardson (England’s 1966 World Cup heroes were fun, humble and unlike today’s stars, 30 July) appears to make the assumption that everyone watched the 1966 World Cup final on television with Kenneth Wolstenholme’s iconic commentary. As a football-mad 10-year-old, I had the misfortune on the day of the final to be on our family summer holiday in the then sleepy village of Goathland, staying in a house with no TV. Hope rose when my dad was invited to watch the final at a neighbour’s who had one of the few TVs in the village and he asked if he could bring his children.",
-   "image": "https://i.guim.co.uk/img/media/db06b29c7519122b775c0edbaaed8d4a3435fb93/90_0_2779_2224/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d891372e7bc790312b4c4056a692e25",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "OPEN MAGAZINE",
+   "cat": "OPENTHEMAGAZINE.COM",
    "title": "Explained: Why Is Gianni Infantino Suddenly Fighting for His FIFA Presidency?",
    "iso": "2026-08-03T14:49:20.000Z",
    "link": "https://openthemagazine.com/sports/explained-why-is-gianni-infantino-suddenly-fighting-for-his-fifa-presidency",
    "lede": "Gianni Infantino has survived corruption scandals, Super League battles and World Cup controversies. Now, the FIFA president faces perhaps his biggest political challenge yet. England's Football Association is preparing to withdraw its support for Infantino's re-election, joining a growing European revolt after FIFA's controversial proposal to sell minority stakes in a commercial entity managing the World Cup and other tournaments. Why is the Football Association withdrawing support for Gianni Infantino?",
    "image": "https://media.openthemagazine.com/openthemagazine/2026-08-03/it9ammut/New-Project-2026-05-01T094124.557.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THEDAILYSTAR.NET",
-   "title": "Pochettino to stay as USA coach until 2030 World Cup",
-   "iso": "2026-08-03T14:42:23.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/pochettino-stay-usa-coach-until-2030-world-cup-4239211",
-   "lede": "Mauricio Pochettino has signed a contract extension to remain the head coach of the United States national team until the 2030 World Cup, US Soccer announced Monday. The 54-year-old took over in 2024 and led the USA to the last 16 at the recent World Cup, which they co-hosted with Canada and Mexico. \"It has become clear to us that there is tremendous potential to make the men's national team program even stronger,\" said Argentinian Pochettino, whose coaching staff have also agreed new contracts. \"The passion we experienced from the fans throughout the World Cup only strengthened our belief in what is possible here...",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "MOROCCOWORLDNEWS.COM",
+   "cat": "MOROCCO WORLD NEWS",
    "title": "Morocco Mourns Pioneering World Cup Referee Jilali Gharib",
    "iso": "2026-08-03T14:08:30.000Z",
    "link": "https://www.moroccoworldnews.com/2026/08/332880/morocco-mourns-pioneering-world-cup-referee-jilali-gharib/",
@@ -52,32 +52,31 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "GOAL.COM",
-   "title": "Infantino addresses the Egyptian Football Association with a special message about the World Cup",
-   "iso": "2026-08-03T13:54:33.000Z",
-   "link": "https://www.goal.com/en/news/infantino-addresses-the-egyptian-football-association-with-a-special-message-about-the-world-cup/blt7b2166658963107e",
-   "lede": "What the FIFA president said about an Egypt national team legend. FIFA president Gianni Infantino sent an official message to the Egyptian Football Association on Monday. In his telegram, Infantino offered his sincere congratulations to Al Ahly's current football director and wished him continued health, happiness and success on both a personal and professional level, praising his great career as a player and administrator. The message singled out the role played by former Egypt and Al Ahly star Wael Gomaa, with Infantino affirming that his support and cooperation contributed directly to the success of the first World Cup staged under its new 48-team format.",
-   "image": "https://assets.goal.com/images/v3/blt1908fd63881de25e/06.gif",
+   "cat": "MODERN GHANA",
+   "title": "4 Timeless Life Lessons To Learn From The 2026 Fifa World Cup",
+   "iso": "2026-08-03T17:15:02.000Z",
+   "link": "https://www.modernghana.com/news/1516146/4-timeless-life-lessons-to-learn-from-the-2026.html",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "INFORMAT.RO",
-   "title": "The general director of the German Football Federation states that the relationship between the German federation and FIFA is impossible to repair, following the scandal involving the investors from the World Cup.",
-   "iso": "2026-08-03T13:51:28.000Z",
-   "link": "https://informat.ro/en/sport/dfb-the-relationship-with-fifa-is-impossible-to-repair-after-the-investors-scandal-133216",
-   "lede": "Andreas Rettig, the CEO of the German Football Association (DFB), stated that the relationship between the DFB and FIFA is impossible to repair, following the scandal related to investors at the World Cup and other governance issues. In an interview with Stern magazine, Rettig emphasized that there has been an \"irreparable loss\" of trust. He criticized the decisions made behind closed doors and the dishonest tactics used to attract investors. Rettig mentioned that FIFA President Gianni Infantino has surrounded himself with business people, which is incompatible with the principles of football.",
-   "image": "https://media-storage.informat.ro/6a709cd879ec0_thumbnail_large_6a2d0eef28c21_shutterstock_1650885247.webp",
+   "cat": "AL JAZEERA",
+   "title": "FIFA’s Infantino sought Trump backing after World Cup selloff plan: Report",
+   "iso": "2026-08-03T16:52:08.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/3/fifas-infantino-sought-trump-backing-after-failed-world-cup-stakes-sell-off-plan",
+   "lede": "FIFA boss Gianni Infantino turned to Donald Trump to save his job amid revolt against World Cup privatisation plan.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-19T231127Z_612203009_UP1EM7J1SF1LV_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1785766080_f84bba-1785766601.jpg?resize=1200%2C630&quality=80",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-US men’s coach Pochettino agrees new contract through 2030 World Cup",
-   "iso": "2026-08-03T13:37:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/08/03/soccer-us-mens-coach-pochettino-agrees-to-new-contract-through-2030-world-cup",
-   "lede": "NEW YORK, Aug 3 (Reuters) - United ⁠States coach Mauricio Pochettino has agreed to lead the men's team through ⁠the 2030 World Cup, U.S. Soccer said on Monday, after taking them ‌to the last 16 at this year's finals. The 54-year-old Argentine, who favours a high-pressing, attacking style of play, took over the U.S. side in 2024 after parting ways with Chelsea earlier that year, and ​had a contract that ran through the 2026 World ⁠Cup. \"Mauricio and his staff believe ⁠in the future of soccer in the United States and our new project allows ⁠us ‌to build on progress of the USMNT and the momentum of U.S.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/03/4041945.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "English FA to withdraw support for Gianni Infantino’s FIFA re-election",
+   "iso": "2026-08-03T16:21:37.000Z",
+   "link": "https://www.nytimes.com/athletic/7488445/2026/08/03/gianni-infantino-fifa-support-fa/",
+   "lede": "The move comes following the collapse of Infantino's proposal to sell a stake in FIFA's commercial operations to private investors.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/03065632/infantino-sad-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
