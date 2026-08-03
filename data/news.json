@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T04:02:52.642Z",
+ "updated": "2026-08-03T04:07:24.846Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "BUSINESSLINE",
+   "cat": "THEHINDUBUSINESSLINE.COM",
    "title": "Five lessons for startups from football World Cup",
    "iso": "2026-08-03T00:35:00.000Z",
    "link": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/five-lessons-for-startups-from-football-world-cup/article71298957.ece",
@@ -32,34 +32,44 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "TRINIDAD EXPRESS NEWSPAPERS",
+   "title": "A case for a Windies football team",
+   "iso": "2026-08-03T00:06:00.000Z",
+   "link": "https://trinidadexpress.com/opinion/columnists/a-case-for-a-windies-football-team/article_c4a742db-0cd9-494d-b0ed-396dc7ba63f2.amp.html",
+   "lede": "After the month of World Cup football, with a match playing almost every day, I am so having withdrawal. It is not that I am so into football. This is like the Summer and Winter Olympics. Even if it is not your sport, it is difficult to resist the athletics at such a high level, occurring only once every four years.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/0/df/0df99ca8-9534-11ed-ae05-b3df1e9a649c/63c4992d4151a.image.jpg?crop=280%2C280%2C60%2C0&resize=200%2C200&order=crop%2Cresize",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Is Concacaf ready to make challenge to FIFA presidency?",
    "iso": "2026-08-03T00:00:00.000Z",
    "link": "https://www.bavarianfootballworks.com/fifa-world-cup/238268/is-concacaf-making-challenge-to-fifa-presidency",
    "lede": "When news broke that FIFA was scrapping its commercialization plans, there was rampant celebration globally. Now, though, there is likely to be a fallout from the proposal and its driver, FIFA president Gianni Infantino. Within a statement released by Concacaf, it sure seems like the organization could be making a run at the throne: > Concacaf and its 41 Member Associations welcome the withdrawal of the proposed FIFA Forward Enterprise (FFE). > The Confederation also commends its 41 Member Associations and the wider football family for the courage and unity they have shown this week.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2285906192.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "LONDON EVENING STANDARD",
+   "cat": "STANDARD.CO.UK",
    "title": "FIFA scrap World Cup sell-off plan after backlash",
    "iso": "2026-08-02T23:16:12.000Z",
    "link": "https://www.standard.co.uk/sport/football/fifa-scrap-world-cup-investment-plan-b1292038.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA “will not proceed” with plans to sell stakes in a company which would run the commercial and operational aspects of its competitions, a statement from president Gianni Infantino said. The plan, which would include the men’s and women’s World Cups, has been rejected by three continental confederations with UEFA insisting its nations would boycott FIFA events.",
    "image": "https://static.standard.co.uk/2026/08/01/06/01KXYD52X0QDG9AMHPJWYPXZ7R.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "LONDON EVENING STANDARD",
+   "cat": "STANDARD.CO.UK",
    "title": "UEFA declare loss of confidence in Infantino after World Cup sell-off controversy",
    "iso": "2026-08-02T21:54:29.000Z",
    "link": "https://www.standard.co.uk/sport/football/uefa-declare-loss-of-confidence-in-gianni-infantino-after-world-cup-selloff-debacle-b1292052.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA president Gianni Infantino has “lost the confidence” of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said. Infantino announced overnight that the plan would not proceed after three confederations rejected it, with UEFA going further and saying it would boycott FIFA competitions until the proposal was scrapped.",
    "image": "https://static.standard.co.uk/2026/07/27/12/2285906192..?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "NBC NEW YORK",
@@ -68,16 +78,6 @@
    "link": "https://www.nbcnewyork.com/news/sports/soccer/british-prime-minister-infantino-lead-fifa/6532883/",
    "lede": "British Prime Minister Andy Burnham said Sunday that FIFA President Gianni Infantino was not the right man to lead world soccer’s governing body in the latest fallout from the now abandoned plan to sell stakes in the World Cup to private investors. “I do not believe that he is the right man to lead football forward on the world stage,\" Burnham said. “The plan that was put forward was offensive to many people, football people, around the world, and it can’t be the case that we just move on and forget that, it wasn’t acceptable.\" On Saturday, European soccer's governing body UEFA said it had lost confidence in FIFA’s leadership — possibly paving the way for a challenge to Infantino’s presidency.",
    "image": "https://media.nbcnewyork.com/2026/08/GettyImages-2282646249-e1785704726839.jpg?quality=85&strip=all&resize=1200%2C675",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MARCA",
-   "title": "Behind the Scenes: The untold story of the Falklands flag and Argentina’s World Cup squad",
-   "iso": "2026-08-02T21:07:19.000Z",
-   "link": "https://amp.marca.com/en/world-cup/2026/08/02/behind-the-scenes-the-untold-story-of-the-falklands-flag-and-argentina-s-world-cup-squad.html",
-   "lede": "A video circulated in recent hours by an Argentine fan shows the moment when the flag bearing the inscription \"The Malvinas are Argentine\" was thrown from the stands onto the field and ended up in the hands of players from the Argentina National Team after the 2-1 victory over England in the semifinals of the 2026 World Cup. The images, shared on social media by an Argentine fan who claimed to have discovered the recording while reviewing the material captured during the tournament, show the moment when the flag falls onto the grass during the celebrations following the match played on July 15. As seen in the video, midfielder Giovani Lo Celso picked up the flag and, after reading the message, held it up toward the stands together with defenders Lisandro Martínez and Cristian Romero, before leaving it unfurled on the pitch.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/02/6a6fb08e25b65.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
