@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T22:43:09.810Z",
+ "updated": "2026-08-03T23:28:49.680Z",
  "news": [
   {
    "cat": "FOX SPORTS",
@@ -12,24 +12,54 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "YAHOO SPORTS UK",
+   "title": "World Cup sensation Vozinha receives hero’s welcome at airport after completing summer transfer",
+   "iso": "2026-08-03T22:24:31.000Z",
+   "link": "https://uk.sports.yahoo.com/news/world-cup-sensation-vozinha-receives-222431701.html",
+   "lede": "World Cup star Vozinha is set to continue his incredible football journey with a summer transfer move to Chile. The goalkeeper had an unbelievable tournament for Cape Verde, keeping clean sheets against Spain and Saudi Arabia. The goalkeeper had an unbelievable tournament...",
+   "image": "https://s.yimg.com/lo/mysterio/api/02e3b83139555aff68367ddb6ec68e8092efd78703474e93a87d8678464bd8a9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F3c1aa98e1173eb8f38e393c2157c168e",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "1NEWS",
    "title": "UEFA warns FIFA of legal action over failed World Cup sell-off plan",
    "iso": "2026-08-03T22:12:14.000Z",
    "link": "https://www.1news.co.nz/2026/08/04/uefa-warns-fifa-of-legal-action-over-failed-world-cup-sell-off-plan/",
    "lede": "European football body UEFA has threatened FIFA with legal action over Gianni Infantino’s failed plan to sell a stake in future World Cup profits to private investors, and said any potential evidence should not be destroyed. Infantino’s secretive proposal to raise US$4.2 billion (NZ$7.1 billion) from investors including the New York investment firm of Joshua Kushner was dropped Saturday, days after the revelation in media reports provoked a global furore. UEFA led the backlash, and on Friday its 55 member federations met to agree to boycott all FIFA events and competitions while the proposal was active. Now lawyers for UEFA have informed FIFA that the European body is “actively considering legal action, arbitration, and/or regulatory complaints ... arising out of and in connection with the FFE (FIFA Forward Enterprise) plan proposed by FIFA and all related matters”.",
    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-right-talks-to-uefa-presiden-SE72B7X42NCRZALVWUYY4FEPBY.jpg?auth=39894e45455f3a755b1f48ed37a53c0748761cef6c3a5f0102f577c9d2299ef3&quality=70&width=600&height=315&focal=3049%2C1153",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "AFRICA TOP SPORTS",
+   "cat": "EN.AFRICATOPSPORTS.COM",
    "title": "Vladimir Petkovic leaves Algeria after World Cup failure !",
    "iso": "2026-08-03T22:00:56.000Z",
    "link": "https://en.africatopsports.com/vladimir-petkovic-leaves-algeria-after-world-cup-failure/",
    "lede": "Vladimir Petkovic is no longer Algeria’s head coach. The Algerian Football Federation (FAF) announced on Monday evening that it had reached a mutual agreement with the Swiss-Bosnian coach to end their collaboration. Petkovic’s position had become increasingly uncertain after Algeria’s disappointing 2026 FIFA World Cup campaign and weeks of criticism over his tactical choices. The FAF confirmed the departure in an official statement, thanking Petkovic and his coaching staff for their professionalism, commitment and work during their 29 months with the national team.",
    "image": "https://en.africatopsports.com/wp-content/uploads/2026/08/Vladimir-Petkovic-leaves-Algeria-after-World-Cup-failure--e1785794200555.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "UEFA declare loss of confidence in Infantino after World Cup sell-off controversy",
+   "iso": "2026-08-03T21:54:29.000Z",
+   "link": "https://www.standard.co.uk/sport/football/uefa-declare-loss-of-confidence-in-gianni-infantino-after-world-cup-selloff-debacle-b1292052.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA president Gianni Infantino has “lost the confidence” of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said. Infantino announced overnight that the plan would not proceed after three confederations rejected it, with UEFA going further and saying it would boycott FIFA competitions until the proposal was scrapped.",
+   "image": "https://static.standard.co.uk/2026/07/27/12/2285906192..?width=1200&auto=webp&quality=75",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Fresh bombshell raises questions over France's 1998 World Cup glory",
+   "iso": "2026-08-03T21:49:20.000Z",
+   "link": "https://www.goal.com/en/lists/fresh-bombshell-france-1998-world-cup-glory/blt1b4c2123ff6a6e09",
+   "lede": "A shocking confession from former French Sports Minister Marie-George Buffet has rocked the football world, revealing that surprise anti-doping tests were suspended for the national team prior to their 1998 World Cup triumph. Despite years of denials, the former official admitted that the government halted controls to avoid \"disturbing\" the squad's preparation for the home tournament. In a revelation that has sent shockwaves through French football, former Sports Minister Buffet has confessed that her ministry suspended surprise anti-doping controls for the national team ahead of the 1998 World Cup. The admission, made during a documentary titled 'Zidane, the creation of a legend,' contradicts testimony she gave under oath to a Senate commission in 2013, where she denied any such intervention.",
+   "image": "https://assets.goal.com/images/v3/bltbded2ffba4e7d5ee/ba7f352fef0ef48914f42b31f430428c32f985c8.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE DAILY STAR",
@@ -38,8 +68,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/the-women-behind-uefas-stand-against-infantinos-world-cup-sell-4239006",
    "lede": "UEFA vice-president Laura McAllister and Norwegian Football Federation president Lise Klaveness emerged as two of the leading figures behind European football's opposition to FIFA's abandoned World Cup investment proposal. Citing multiple sources familiar with UEFA's emergency meeting involving around 150 officials, The Athletic reported that McAllister was among the first senior figures to call for a full boycott of FIFA competitions if president Gianni Infantino pressed ahead with plans to sell a minority stake in the commercial rights of the World Cup through the proposed FIFA Forward Enterprise (FFE). The report added that, apart from UEFA president Aleksander Ceferin, no officials were more vocal in calling for decisive action than McAllister and Klaveness.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "PLANET FOOTBALL",
@@ -48,36 +78,6 @@
    "link": "https://www.planetfootball.com/lists-and-rankings/best-wingers-world-football-2026-ranked",
    "lede": "Who is the best winger in world football right now? Superstars from Barcelona, PSG and Bayern Munich are all up there and the World Cup has boosted their reputations. Europe’s biggest clubs are packed with elite wide attackers, yet only a select few can claim to be the very best. Narrowing our ranking down to just 10 names wasn’t easy, but we got there in the end.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/07/03135414/Best-wingers-world-football-ranked-1.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "UEFA declare loss of confidence in Infantino after World Cup sell-off controversy",
-   "iso": "2026-08-03T19:50:11.000Z",
-   "link": "https://www.standard.co.uk/sport/football/uefa-declare-loss-of-confidence-in-gianni-infantino-after-world-cup-selloff-debacle-b1292052.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA president Gianni Infantino has “lost the confidence” of UEFA over a plan to sell stakes in a World Cup company to private investors, the European football governing body has said. Infantino announced overnight that the plan would not proceed after three confederations rejected it, with UEFA going further and saying it would boycott FIFA competitions until the proposal was scrapped.",
-   "image": "https://static.standard.co.uk/2026/07/27/12/2285906192..?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE HINDU",
-   "title": "Pochettino to stay as USA coach until 2030 World Cup",
-   "iso": "2026-08-03T19:22:19.000Z",
-   "link": "https://www.thehindu.com/sport/football/pochettino-to-stay-as-usa-coach-until-2030-world-cup/article71302810.ece/amp/",
-   "lede": "Mauricio Pochettino has signed a contract extension to remain the head coach of the United States national team until the 2030 World Cup, U.S. football announced on Monday (August 3, 2026). The 54-year-old took over in 2024 and led the USA to the last 16 at the recent World Cup, which they co-hosted with Canada and Mexico. \"It has become clear to us that there is tremendous potential to make the men's national team program even stronger,\" said Argentinian Pochettino, whose coaching staff have also agreed new contracts. \"The passion we experienced from the fans throughout the World Cup only strengthened our belief in what is possible here...”",
-   "image": "https://th-i.thgim.com/public/incoming/mdir5c/article71302813.ece/alternates/FREE_1200/2026-08-03T131907Z_1109504674_RC2X7MAX9HF2_RTRMADP_3_SOCCER-USA.JPG",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Gianni Infantino: English FA set to withdraw support for FIFA president as UEFA considers legal action",
-   "iso": "2026-08-03T19:20:24.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
-   "lede": "UEFA has threatened legal action against FIFA over Gianni Infantino's World Cup sell-off plan. In a letter addressed to Infantino dated Friday July 31, European football's governing body said it was \"actively considering legal action, arbitration, and/or regulatory complaints\" in relation to FIFA's scrapped plan. Key members of the FIFA administration have been warned not to destroy any evidence which may be required during potential litigation proceedings. FIFA end plans to sell off stake in World Cup after widespread FIFA backlash World Cup 2030: Dates, schedule, hosts, stadiums and how qualification works World Cup latest news | Saudi Arabia to host 2034 World Cup The news follows the loss of confidence in Infantino's leadership after the botched attempt to sell off stakes in the World Cup.",
-   "image": "https://e0.365dm.com/26/06/1600x900/skysports-gianni-infantino_7270331.jpg?20260610205832",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
