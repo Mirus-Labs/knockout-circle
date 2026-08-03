@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-03T19:10:44.121Z",
+ "updated": "2026-08-03T20:15:25.413Z",
  "news": [
   {
-   "cat": "REDIFF",
-   "title": "Mauricio Pochettino to lead US men's team through 2030 World Cup",
-   "iso": "2026-08-03T18:53:47.000Z",
-   "link": "https://www.rediff.com/sports/report/mauricio-pochettino-extends-us-mens-football-team-coaching-deal-to-2030-world-cup/20260804.htm",
-   "lede": "United States coach Mauricio Pochettino has committed to leading the men's national team through the 2030 World Cup, extending his contract after guiding them to the last 16 in this year's tournament and demonstrating a belief in the future of US soccer. United States coach Mauricio Pochettino has agreed to lead the men's team through the 2030 World Cup, US Soccer said on Monday, after taking them to the last 16 at this year's finals. The 54-year-old Argentine, who favours a high-pressing, attacking style of play, took over the US side in 2024 after parting ways with Chelsea earlier that year, and had a contract that ran through the 2026 World Cup. \"Mauricio and his staff believe in the future of soccer in the United States and our new project allows us to build on progress of the USMNT and the momentum of US Soccer,” US Soccer CEO JT Batson said in a press release.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/jun/13pochettino.jpg",
+   "cat": "THE HINDU",
+   "title": "Pochettino to stay as USA coach until 2030 World Cup",
+   "iso": "2026-08-03T19:22:19.000Z",
+   "link": "https://www.thehindu.com/sport/football/pochettino-to-stay-as-usa-coach-until-2030-world-cup/article71302810.ece",
+   "lede": "Mauricio Pochettino has signed a contract extension to remain the head coach of the United States national team until the 2030 World Cup, U.S. football announced on Monday (August 3, 2026). The 54-year-old took over in 2024 and led the USA to the last 16 at the recent World Cup, which they co-hosted with Canada and Mexico. \"It has become clear to us that there is tremendous potential to make the men's national team program even stronger,\" said Argentinian Pochettino, whose coaching staff have also agreed new contracts. \"The passion we experienced from the fans throughout the World Cup only strengthened our belief in what is possible here...”",
+   "image": "https://th-i.thgim.com/public/incoming/mdir5c/article71302813.ece/alternates/LANDSCAPE_1200/2026-08-03T131907Z_1109504674_RC2X7MAX9HF2_RTRMADP_3_SOCCER-USA.JPG",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -16,7 +16,7 @@
    "title": "Aleksander Ceferin wants Club World Cup boycott as he plots Gianni Infantino downfall with Nasser Al-Khelaifi talks",
    "iso": "2026-08-03T18:25:54.000Z",
    "link": "https://talksport.com/football/4488854/alexander-ceferin-nasser-al-khelaifi-talks-club-world-cup-boycott-gianni-infantino/",
-   "lede": "Al-Khelaifi is one of Ceferin’s key allies and talkSPORT understands the UEFA President is pushing for European Football Clubs (EFC), chaired by Al-Khelaifi, to boycott the 2029 Club World Cup. However, this would require club-wide engagement with the 850+ members. The inaugural edition was won by Chelsea last summer, but plans for the 2029 event remain complete up in the air. No location or financing has yet been determined, and it is not covered by any current FIFA/EFC agreement.",
+   "lede": "Al-Khelaifi is one of Ceferin’s key allies and talkSPORT understands the UEFA President is pushing for European Football Clubs (EFC), chaired by Al-Khelaifi, to boycott the 2029 Club World Cup. However, this would require club-wide engagement with the 850+ members. Ceferin has made no secret of his own opposition to the Club World Cup, calling it a 'selfish endeavour' by Infantino back in May 2018. The inaugural 32-team edition was won by Chelsea last summer, but plans for the 2029 event remain complete up in the air.",
    "image": "https://talksport.com/wp-content/uploads/2026/08/JW-TS-WC-FEATURE-CWC-BOYCOTT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "🏆",
    "bg": "#3a2d6b"
@@ -32,52 +32,52 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE GUARDIAN",
+   "cat": "WASHINGTON EXAMINER",
+   "title": "Title IX didn’t ruin men’s soccer. Football did",
+   "iso": "2026-08-03T18:00:00.000Z",
+   "link": "https://www.washingtonexaminer.com/in_focus/4670818/title-ix-didnt-ruin-mens-soccer-football-did/",
+   "lede": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America. Published daily by senior writers and experts, these in-depth pieces go beyond the headlines to give readers the full picture. You can find our full list of In Focus pieces here. The 2026 World Cup is now over, leaving the nation, and the world, with countless wonderful feel-good stories that helped many Americans fall back in love with their country.",
+   "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26163039611994-e1782150432169.jpg?resize=1200,683",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE-SUN.COM",
+   "title": "Gianni Infantino opponents 'plotting rival World Cup competition' to 'paralyse' Fifa until he quits",
+   "iso": "2026-08-03T17:49:32.000Z",
+   "link": "https://www.the-sun.com/sport/16787797/gianni-infantino-opponents-plotting-world-cup-rival",
+   "lede": "UEFA has joined forces with other confederations and threatened to set up their own version of the World Cup if disgraced Fifa supremo Gianni Infantino refuses to quit. The Swiss millionaire, 56, sensationally vowed to desperately cling onto his job after sending shockwaves through football. Infantino made shock plans to flog shares in the World Cup to private investors before being forced into a humiliating U-turn. And Uefa president Aleksander Ceferin, along with Concacaf and Asian Football Confederation chiefs, is pushing for him to resign.",
+   "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/08/TM-03-08-Infantino-v2_OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THEGUARDIAN.COM",
    "title": "Socceroos on the move: Herrington headlines post-World Cup transfers",
    "iso": "2026-08-03T17:40:00.000Z",
    "link": "https://www.theguardian.com/football/blog/2026/aug/03/lucas-herrington-transfers-hull-premier-league-socceroos-transfer-news-fee-australian-players",
    "lede": "The defender is set to become one of Australia’s most expensive players with a Premier League deal nearly done while some international teammates have already made moves. Lucas Herrington, fresh off becoming the youngest Australian to start a game at a men’s World Cup, is set to become the second-most expensive footballer in Australian history with a move to newly-promoted Premier League side Hull City. Latest reports suggest a fee of approximately £12.6m ($24.1m), with a further £4.4m ($8.4m) in add-ons, which comes in just shy of the Australian record of £15m plus £5m in add-ons ($38.3m in total) that Leicester paid Stoke City to sign Harry Souttar in 2023. It would set a new selling high-water mark for his current club, Colorado Rapids, and eclipses the decade-old record Hull set when they paid just over £10m for Ryan Mason.",
    "image": "https://i.guim.co.uk/img/media/f4583160d7f2e6cc05f945919f3a69c9366dda25/0_449_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ef8ce936e6d10b64c57eb3ef227c263",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "THE GUARDIAN",
+   "cat": "LONDON EVENING STANDARD",
+   "title": "FIFA scrap World Cup sell-off plan after backlash",
+   "iso": "2026-08-03T17:16:12.000Z",
+   "link": "https://www.standard.co.uk/sport/football/fifa-scrap-world-cup-investment-plan-b1292038.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA “will not proceed” with plans to sell stakes in a company which would run the commercial and operational aspects of its competitions, a statement from president Gianni Infantino said. The plan, which would include the men’s and women’s World Cups, has been rejected by three continental confederations with UEFA insisting its nations would boycott FIFA events.",
+   "image": "https://static.standard.co.uk/2026/08/01/06/01KXYD52X0QDG9AMHPJWYPXZ7R.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THEGUARDIAN.COM",
    "title": "Radio presenters were 1966 World Cup heroes too | Letters",
    "iso": "2026-08-03T16:51:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/03/radio-presenters-were-1966-world-cup-heroes-too",
    "lede": "Andrew Keeley will never forget Brian Moore and Alan Clarke’s commentary on BBC radio. Garry Richardson (England’s 1966 World Cup heroes were fun, humble and unlike today’s stars, 30 July) appears to make the assumption that everyone watched the 1966 World Cup final on television with Kenneth Wolstenholme’s iconic commentary. As a football-mad 10-year-old, I had the misfortune on the day of the final to be on our family summer holiday in the then sleepy village of Goathland, staying in a house with no TV. Hope rose when my dad was invited to watch the final at a neighbour’s who had one of the few TVs in the village and he asked if he could bring his children.",
    "image": "https://i.guim.co.uk/img/media/db06b29c7519122b775c0edbaaed8d4a3435fb93/90_0_2779_2224/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d891372e7bc790312b4c4056a692e25",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE SUN",
-   "title": "Gianni Infantino opponents 'plotting rival World Cup competition' to 'paralyse' Fifa until he quits",
-   "iso": "2026-08-03T16:47:00.000Z",
-   "link": "https://www.thesun.co.uk/sport/39954767/gianni-infantino-opponents-plotting-world-cup-rival/",
-   "lede": "UEFA has joined forces with other confederations and threatened to set up their own version of the World Cup if disgraced Fifa supremo Gianni Infantino refuses to quit. The Swiss millionaire, 56, sensationally vowed to desperately cling onto his job after sending shockwaves through football. Infantino made shock plans to flog shares in the World Cup to private investors before being forced into a humiliating U-turn. And Uefa president Aleksander Ceferin, along with Concacaf and Asian Football Confederation chiefs, is pushing for him to resign.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/TM-03-08-Infantino-v2_OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MARCA",
-   "title": "UEFA warns FIFA of legal action over Infantino's failed plan to sell the World Cup",
-   "iso": "2026-08-03T16:37:48.000Z",
-   "link": "https://amp.marca.com/en/football/2026/08/03/uefa-warns-fifa-of-legal-action-over-infantino-s-failed-plan-to-sell-the-world-cup.html",
-   "lede": "\"The UEFA, the governing body of European football, threatened FIFA with taking legal action over Gianni Infantino's failed plan to sell a stake in future World Cup profits to private investors, and said that no potential evidence should be destroyed. The proposal, kept secret by Infantino to raise $4.2 billion from investors, including Joshua Kushner's New York investment firm, was abandoned early on Saturday, days after its revelation in press reports caused a global uproar. 'UEFA led the reaction and on Thursday its 55 member associations met to agree to boycott all FIFA events and competitions while the proposal remained in force.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/03/6a70c37cba349.jpeg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Mauricio Pochettino returns as USMNT coach on new deal through 2030 World Cup - The Athletic",
-   "iso": "2026-08-03T18:28:39.000Z",
-   "link": "https://www.nytimes.com/athletic/7480204/2026/08/03/mauricio-pochettino-usmnt-coach-return-2030-contract/",
-   "lede": "Pochettino's previous contract expired after the 2026 World Cup, but U.S. Soccer is bringing back the Argentine manager for another cycle.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/30102231/2026-07-02T022338Z_1296666340_UP1EM7206ND58_RTRMADP_3_SOCCER-WORLDCUP-USA-BIH-1-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
