@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-03T23:52:29.994Z",
+ "updated": "2026-08-04T01:09:02.051Z",
  "news": [
+  {
+   "cat": "FOX SPORTS",
+   "title": "‘Paralyse FIFA’: Breakaway WC threat in stunning ultimatum as Trump card played",
+   "iso": "2026-08-04T00:21:07.000Z",
+   "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-us-president-donald-trump-to-help-gianni-infantino-remain-fifa-president-uefa-wants-clubs-to-boycott-club-world-cup-as-they-push-for-infantino-to-resign-latest-news/news-story/ae496fe9fffcd4291829b5d3e389d05f",
+   "lede": "US president Donald Trump will allegedly do “everything possible” to help Gianni Infantino remain as FIFA president as massive pressure comes from European governing body UEFA. Infantino’s presidency is under threat after his failed scheme to sell off 20 to 30 per cent of a new subsidiary to private investors. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. The plan was met with widespread condemnation around the football world with the severe backlash ultimately leading to Infantino and FIFA to scrap the plan - which would have resulted in Trump’s son-in-law Jared Kushner’s company owning part of the World Cup.",
+   "image": "https://content.api.news/v3/images/bin/13af1465a4351f4171a1838004d36bc5",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "1NEWS",
    "title": "UEFA warns FIFA of legal action over failed World Cup sell-off plan",
-   "iso": "2026-08-03T23:42:35.000Z",
+   "iso": "2026-08-04T00:13:04.000Z",
    "link": "https://www.1news.co.nz/2026/08/04/uefa-warns-fifa-of-legal-action-over-failed-world-cup-sell-off-plan/",
    "lede": "European football body UEFA has threatened FIFA with legal action over Gianni Infantino’s failed plan to sell a stake in future World Cup profits to private investors, and said any potential evidence should not be destroyed. Infantino’s secretive proposal to raise US$4.2 billion (NZ$7.1 billion) from investors including the New York investment firm of Joshua Kushner was dropped Saturday, days after the revelation in media reports provoked a global furore. UEFA led the backlash, and on Friday its 55 member federations met to agree to boycott all FIFA events and competitions while the proposal was active. Now lawyers for UEFA have informed FIFA that the European body is “actively considering legal action, arbitration, and/or regulatory complaints ... arising out of and in connection with the FFE (FIFA Forward Enterprise) plan proposed by FIFA and all related matters”.",
    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-right-talks-to-uefa-presiden-SE72B7X42NCRZALVWUYY4FEPBY.jpg?auth=39894e45455f3a755b1f48ed37a53c0748761cef6c3a5f0102f577c9d2299ef3&quality=70&width=600&height=315&focal=3049%2C1153",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "PLANET FOOTBALL",
@@ -18,24 +28,14 @@
    "link": "https://www.planetfootball.com/lists-and-rankings/best-wingers-world-football-2026-ranked",
    "lede": "Who is the best winger in world football right now? Superstars from Barcelona, PSG and Bayern Munich are all up there and the World Cup has boosted their reputations. Europe’s biggest clubs are packed with elite wide attackers, yet only a select few can claim to be the very best. Narrowing our ranking down to just 10 names wasn’t easy, but we got there in the end.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/07/03135414/Best-wingers-world-football-ranked-1.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Trump to do ‘everything possible’ to save under fire FIFA boss as new boycott threat emerges",
-   "iso": "2026-08-03T22:29:36.000Z",
-   "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-us-president-donald-trump-to-help-gianni-infantino-remain-fifa-president-uefa-wants-clubs-to-boycott-club-world-cup-as-they-push-for-infantino-to-resign-latest-news/news-story/ae496fe9fffcd4291829b5d3e389d05f",
-   "lede": "US president Donald Trump will allegedly do “everything possible” to help Gianni Infantino remain as FIFA president as massive pressure comes from European governing body UEFA. Infantino’s presidency is under threat after his failed scheme to sell off 20 to 30 per cent of a new subsidiary to private investors. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. The plan was met with widespread condemnation around the football world with the severe backlash ultimately leading to Infantino and FIFA to scrap the plan - which would have resulted in Trump’s son-in-law Jared Kushner’s company owning part of the World Cup.",
-   "image": "https://content.api.news/v3/images/bin/13af1465a4351f4171a1838004d36bc5",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "YAHOO SPORTS UK",
+   "cat": "YAHOO SPORTS",
    "title": "World Cup sensation Vozinha receives hero’s welcome at airport after completing summer transfer",
    "iso": "2026-08-03T22:24:31.000Z",
-   "link": "https://uk.sports.yahoo.com/news/world-cup-sensation-vozinha-receives-222431701.html",
+   "link": "https://sports.yahoo.com/articles/world-cup-sensation-vozinha-receives-222431701.html",
    "lede": "World Cup star Vozinha is set to continue his incredible football journey with a summer transfer move to Chile. The goalkeeper had an unbelievable tournament for Cape Verde, keeping clean sheets against Spain and Saudi Arabia. The goalkeeper had an unbelievable tournament...",
    "image": "https://s.yimg.com/lo/mysterio/api/02e3b83139555aff68367ddb6ec68e8092efd78703474e93a87d8678464bd8a9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F3c1aa98e1173eb8f38e393c2157c168e",
    "emoji": "🔥",
@@ -52,7 +52,7 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "AFRICA TOP SPORTS",
+   "cat": "EN.AFRICATOPSPORTS.COM",
    "title": "Vladimir Petkovic leaves Algeria after World Cup failure !",
    "iso": "2026-08-03T22:00:56.000Z",
    "link": "https://en.africatopsports.com/vladimir-petkovic-leaves-algeria-after-world-cup-failure/",
