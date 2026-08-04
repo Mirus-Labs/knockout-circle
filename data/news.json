@@ -1,25 +1,45 @@
 {
- "updated": "2026-08-04T02:56:31.486Z",
+ "updated": "2026-08-04T04:33:12.696Z",
  "news": [
   {
-   "cat": "THE IRISH TIMES",
-   "title": "More European countries withdraw support for Gianni Infantino as pressure intensifies",
-   "iso": "2026-08-04T02:47:35.000Z",
-   "link": "https://www.irishtimes.com/sport/soccer/2026/08/03/wales-becomes-first-country-to-withdraw-support-for-fifa-president-gianni-infantino/",
-   "lede": "European countries began turning their backs on Gianni Infantino as moves intensified across the globe to end his crisis-hit tenure as Fifa president. The Football Association was the highest-profile of several Uefa member associations to drop its support for Infantino’s proposed re-election next year. It will write to Fifa confirming it no longer endorses Infantino for a fourth term in charge after the intense controversy surrounding his failed plan to sell a stake in the World Cup to private investors. Wales and Serbia publicly confirmed that they had withdrawn their backing, following a lead taken by Finland last week.",
-   "image": "https://www.irishtimes.com/resizer/v2/QMGOFAWBCMCKLJWLQB4U5L75M4.jpg?smart=true&auth=52a68a999f9e1c9497b7d7573080933e78604200309b740e4ac0762ddd516728&width=1200&height=630",
+   "cat": "1NEWS",
+   "title": "UEFA warns FIFA of legal action over failed World Cup sell-off plan",
+   "iso": "2026-08-04T04:12:05.000Z",
+   "link": "https://www.1news.co.nz/2026/08/04/uefa-warns-fifa-of-legal-action-over-failed-world-cup-sell-off-plan/",
+   "lede": "European football body UEFA has threatened FIFA with legal action over Gianni Infantino’s failed plan to sell a stake in future World Cup profits to private investors, and said any potential evidence should not be destroyed. Infantino’s secretive proposal to raise US$4.2 billion (NZ$7.1 billion) from investors including the New York investment firm of Joshua Kushner was dropped Saturday, days after the revelation in media reports provoked a global furore. UEFA led the backlash, and on Friday its 55 member federations met to agree to boycott all FIFA events and competitions while the proposal was active. Now lawyers for UEFA have informed FIFA that the European body is “actively considering legal action, arbitration, and/or regulatory complaints ... arising out of and in connection with the FFE (FIFA Forward Enterprise) plan proposed by FIFA and all related matters”.",
+   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-right-talks-to-uefa-presiden-SE72B7X42NCRZALVWUYY4FEPBY.jpg?auth=39894e45455f3a755b1f48ed37a53c0748761cef6c3a5f0102f577c9d2299ef3&quality=70&width=600&height=315&focal=3049%2C1153",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "1NEWS",
-   "title": "UEFA warns FIFA of legal action over failed World Cup sell-off plan",
-   "iso": "2026-08-04T02:16:23.000Z",
-   "link": "https://www.1news.co.nz/2026/08/04/uefa-warns-fifa-of-legal-action-over-failed-world-cup-sell-off-plan/",
-   "lede": "European football body UEFA has threatened FIFA with legal action over Gianni Infantino’s failed plan to sell a stake in future World Cup profits to private investors, and said any potential evidence should not be destroyed. Infantino’s secretive proposal to raise US$4.2 billion (NZ$7.1 billion) from investors including the New York investment firm of Joshua Kushner was dropped Saturday, days after the revelation in media reports provoked a global furore. UEFA led the backlash, and on Friday its 55 member federations met to agree to boycott all FIFA events and competitions while the proposal was active. Now lawyers for UEFA have informed FIFA that the European body is “actively considering legal action, arbitration, and/or regulatory complaints ... arising out of and in connection with the FFE (FIFA Forward Enterprise) plan proposed by FIFA and all related matters”.",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-right-talks-to-uefa-presiden-SE72B7X42NCRZALVWUYY4FEPBY.jpg?auth=39894e45455f3a755b1f48ed37a53c0748761cef6c3a5f0102f577c9d2299ef3&quality=70&width=600&height=315&focal=3049%2C1153",
+   "cat": "PUNCH NEWSPAPERS",
+   "title": "Atlanta ‘96 gold felt like World Cup — Lawal",
+   "iso": "2026-08-04T03:22:30.000Z",
+   "link": "https://punchng.com/atlanta-96-gold-felt-like-world-cup-lawal/?amp",
+   "lede": "Garba Lawal, a member of Nigeria’s historic 1996 Olympic gold medal-winning football team, has told PUNCH Sports Extra that the Dream Team’s triumph in Atlanta remains the closest feeling to winning the World Cup, describing the achievement as the pinnacle of his football career. The 52-year-old insisted that the achievement cannot be compared with anything else Nigerian football has produced. Nigeria fielded a golden generation of players between 1994 and 1998 who could compete with any team in the world, reaching the World Cup on both occasions but falling short at the knockout stage each time. In between those campaigns, however, the Olympic Eagles won football gold at the 1996 Atlanta Games, a feat Lawal rates above what a World Cup run could have delivered.",
+   "image": "https://punchng.com/wp-content/uploads/2026/08/Lawal_1785800893-565x630.webp",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE KOREA TIMES",
+   "title": "Korea's football reckoning may yet turn World Cup disaster into reform",
+   "iso": "2026-08-04T02:18:02.000Z",
+   "link": "https://www.koreatimes.co.kr/sports/20260804/koreas-football-reckoning-may-yet-turn-world-cup-disaster-into-reform",
+   "lede": "Former national football team head coach Hong Myung-bo, right, answers lawmakers' questions while former Korea Football Association (KFA) President Chung Mong-gyu listens during a parliamentary hearing on alleged irregularities involving the KFA at the National Assembly in Seoul, Thursday. Yonhap Hong Myung-bo’s second spell in charge of Korea’s national team started amid jeers and boos at Seoul World Cup Stadium in September 2024. It ended with his resignation in late June and what followed was a reckoning just a few kilometers down the Han River at the National Assembly building in Yeouido. As a head coach, you know something has gone wrong on the football field when you end up in parliament.",
+   "image": "https://newsimg.koreatimes.co.kr/2026/08/04/2b113dd9-bbe6-4ac6-8507-e42ed7f849ea.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "Marcus Rashford transfer news: Fenerbahce eye shock move for Manchester United forward - Paper Talk",
+   "iso": "2026-08-04T01:13:35.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk",
+   "lede": "The top stories and transfer rumours from Tuesday's newspapers... Premier League Fenerbahce are ready to break the bank to lure Manchester United forward Marcus Rashford to Turkey in one of the biggest moves of the summer - The Sun Newcastle United have turned down an opening offer from Arsenal for Bruno Guimaraes , believed to be in the region of £75m - The Times Arsenal are hoping to finally snap up Blackburn wonderkid Igor Tyjon this summer - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "STARNEWSKOREA.COM",
@@ -28,18 +48,8 @@
    "link": "https://www.starnewskorea.com/en/sports/2026/08/04/2026080408224151433",
    "lede": "Pressure for the resignation of FIFA President Gianni Infantino, who is facing fierce backlash over plans to sell stakes in the World Cup, has reached its peak. Opposition forces centered on the Union of European Football Associations (UEFA) have drawn a line in the sand, warning that they will boycott if In Pan-ti-no (Chairman) does not step down. The British media outlet 'BBC' reported on the 4th (Korea time), \"According to senior officials at UEFA, opponents of In Pan-ti-no (Chairman) are prepared to refuse cooperation with FIFA if he does not resign,\" and added, \"Some opposition factions, facing severe repercussions from the withdrawal of the stake sale proposal, have vowed to fight to the end, stating they have nowhere left to retreat as long as In Pan-ti-no (Chairman) remains in office.\"",
    "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=795,fit=cover,q=high,sharpen=2/21/2026/08/2026080408224151433_1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Marcus Rashford transfer news: Fenerbahce eye shock move for Manchester United forward - Paper Talk",
-   "iso": "2026-08-04T00:29:16.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk",
-   "lede": "The top stories and transfer rumours from Tuesday's newspapers... Premier League Fenerbahce are ready to break the bank to lure Manchester United forward Marcus Rashford to Turkey in one of the biggest moves of the summer - The Sun Newcastle United have turned down an opening offer from Arsenal for Bruno Guimaraes , believed to be in the region of £75m - The Times Arsenal are hoping to finally snap up Blackburn wonderkid Igor Tyjon this summer - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
-   "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FOX SPORTS",
@@ -48,8 +58,18 @@
    "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-us-president-donald-trump-to-help-gianni-infantino-remain-fifa-president-uefa-wants-clubs-to-boycott-club-world-cup-as-they-push-for-infantino-to-resign-latest-news/news-story/ae496fe9fffcd4291829b5d3e389d05f",
    "lede": "US president Donald Trump will allegedly do “everything possible” to help Gianni Infantino remain as FIFA president as massive pressure comes from European governing body UEFA. Infantino’s presidency is under threat after his failed scheme to sell off 20 to 30 per cent of a new subsidiary to private investors. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. The plan was met with widespread condemnation around the football world with the severe backlash ultimately leading to Infantino and FIFA to scrap the plan - which would have resulted in Trump’s son-in-law Jared Kushner’s company owning part of the World Cup.",
    "image": "https://content.api.news/v3/images/bin/13af1465a4351f4171a1838004d36bc5",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "TRIBALFOOTBALL",
+   "title": "Algeria and head coach Vladimir Petkovic part ways after World Cup disappointment",
+   "iso": "2026-08-03T23:18:20.000Z",
+   "link": "https://www.tribalfootball.com/article/algeria-and-head-coach-vladimir-petkovic-part-ways-after-world-cup-disappointment-935b3580-14c7-4249-aa84-4541564d56f7",
+   "lede": "The ‌62-year-old took the helm in ‌February 2024 and renewed his contract until 2028 before ‌the World Cup got ⁠underway. \"The ‌Algerian Football Federation announce that their ​contractual relationship with the national team head ​coach, Mr. Vladimir Petkovic, and his coaching staff has officially ⁠come ​to an end today, on a mutual agreement between the two parties,\" the local ‌soccer governing body said in a statement. Algeria made it to the round of 32 at the 48-team World Cup in North America as one of the best eight third-placed teams, ‌losing 2-0 to Switzerland.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/a07047c5-07c2-4b48-b4ae-8b38635b31e9.jpeg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -58,26 +78,6 @@
    "link": "https://www.standard.co.uk/sport/football/fifa-scrap-world-cup-investment-plan-b1292038.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA “will not proceed” with plans to sell stakes in a company which would run the commercial and operational aspects of its competitions, a statement from president Gianni Infantino said. The plan, which would include the men’s and women’s World Cups, has been rejected by three continental confederations with UEFA insisting its nations would boycott FIFA events.",
    "image": "https://static.standard.co.uk/2026/08/01/06/01KXYD52X0QDG9AMHPJWYPXZ7R.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GDNONLINE.COM",
-   "title": "Football: Pochettino to coach US through 2030 World Cup",
-   "iso": "2026-08-03T23:08:56.000Z",
-   "link": "https://www.gdnonline.com/Details/1402446/Pochettino-to-coach-US-through-2030-World-Cup",
-   "lede": "FOOTBALL – United States coach Mauricio Pochettino has agreed to lead the men’s team through the 2030 World Cup, US Soccer said yesterday, after taking them to the last 16 at this year’s finals. The 54-year-old Argentine, who favours a high-pressing, attacking style of play, took over the US side in 2024 after parting ways with Chelsea earlier that year, and had a contract that ran through the 2026 World Cup. “Mauricio and his staff believe in the future of soccer in the United States and our new project allows us to build on progress of the USMNT and the momentum of US Soccer,” US Soccer CEO JT Batson said in a Press release. Under Pochettino’s leadership, the US finished first in their World Cup group ahead of Australia, Paraguay and Turkey, and the six points they collected were the highest-ever total for the men’s team at the tournament.",
-   "image": "https://www.gdnonline.com/gdnimages/20260803/20260803230321WebsiteSize(5).jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "PLANET FOOTBALL",
-   "title": "Ranking the 10 best wingers in world football: Where does Vini Jr rank?",
-   "iso": "2026-08-03T23:00:37.000Z",
-   "link": "https://www.planetfootball.com/lists-and-rankings/best-wingers-world-football-2026-ranked",
-   "lede": "Who is the best winger in world football right now? Superstars from Barcelona, PSG and Bayern Munich are all up there and the World Cup has boosted their reputations. Europe’s biggest clubs are packed with elite wide attackers, yet only a select few can claim to be the very best. Narrowing our ranking down to just 10 names wasn’t easy, but we got there in the end.",
-   "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/07/03135414/Best-wingers-world-football-ranked-1.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
