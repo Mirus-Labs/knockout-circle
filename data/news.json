@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T17:58:13.797Z",
+ "updated": "2026-08-04T18:56:37.011Z",
  "news": [
   {
    "cat": "THE STAR",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "AL JAZEERA",
+   "title": "UEFA’s threatened legal action against Infantino and FIFA: What we know",
+   "iso": "2026-08-04T16:37:20.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know",
+   "lede": "Claudius Schafer says there can be ‘only one consequence’ to Infantino’s actions over his World Cup privatisation plan. Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino’s private investment plan. How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football. Asian Football Confederation says FIFA future must be ‘shaped through proper consultation’ after World Cup plan fallout.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T162613Z_1425526232_RC25HMAVO4I3_RTRMADP_3_SOCCER-FIFA-STAKE-1785847229.jpg?resize=1920%2C1440",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
    "iso": "2026-08-04T16:31:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa",
-   "lede": "Senior Fifa duo pile pressure on under-fire president. Wenger reveals he knew nothing about investment plan. Gianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general, Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”. In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”.",
-   "image": "https://i.guim.co.uk/img/media/3e6e8459eb4fd26969df11fd89e951d87007c120/1327_323_4115_3292/master/4115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b576498553e0bfbfe5a4c8ec7b137489",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "lede": "Jordan FA president says Fifa threatened to block funds. Secretary general calls selloff plan ‘sad and reproachable’. The Jordan Football Association president, Prince Ali bin Al Hussein, has accused Gianni Infantino’s administration of “blackmail”, claiming Fifa threatened to withhold financial assistance from his federation if it refused to back the president’s bid for re-election. In a major intervention Prince Ali, who ran for the Fifa presidency against Infantino in 2016 and finished third, listed a number of problems dogging the global governing body and said Jordan’s players have not yet been paid for appearing in the Arab Cup last year.",
+   "image": "https://i.guim.co.uk/img/media/48717bc59f1fbbe17de31930f7a6ffbff0da3441/0_0_1961_1568/master/1961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39c768420a55554949be6ed780117034",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/04/usmnt-friendlies-mexico-canada",
    "lede": "Fall opponents also include Peru and Chile. Matches set for 26 September to 6 October. First games since Pochettino agreed to return. The US men’s national team will kick off the next World Cup cycle with four matches over 11 days on home soil.",
    "image": "https://i.guim.co.uk/img/media/57324805983a091dffd8c8c66e0e5bbc56321b80/298_0_2722_2177/master/2722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc15c0ac0a5c618966c89ca2e4a6fb5",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "REAL BROADCASTING NETWORK",
@@ -48,8 +58,8 @@
    "link": "https://therealmediang.com/sports/wenger-backs-fifa-decision-to-scrap-infantinos-world-cup-stake-sale-plan",
    "lede": "FIFA’s Chief of Global Football Development, Arsene Wenger, has described the decision to withdraw President Gianni Infantino’s controversial plan to sell stakes in the World Cup to private equity investors as “absolutely necessary and beyond question.” Wenger, the former Arsenal manager, made his position known on Tuesday, becoming the latest high-profile football figure to publicly oppose the proposal. Infantino had sought to sell a 20 per cent stake in the World Cup to private equity investors through FIFA Forward Enterprise, a plan that triggered widespread criticism from football stakeholders. The proposal was rejected by three continental confederations, while UEFA, European football’s governing body, reportedly threatened to boycott the World Cup and other FIFA competitions if Infantino proceeded with the scheme.",
    "image": "https://editor.therealmediang.com/wp-content/uploads/2026/07/Infantino.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE STRAITS TIMES",
@@ -58,26 +68,15 @@
    "link": "https://www.straitstimes.com/sport/football/us-world-cup-host-cities-say-fifa-owes-them-millions-report?ref=latest",
    "lede": "US cities that hosted the 2026 World Cup contend that FIFA owes them US$1 million (S$1.3 million) in “legacy” funds to build mini-pitches and support “social projects” in their cities. NEW YORK – US cities that hosted the 2026 World Cup contend FIFA owes them millions of dollars promised to them, The Athletic reported on Aug 4. Four executives from World Cup cities, speaking anonymously, told the outlet that FIFA management told them they would each receive US$1 million (S$1.3 million) in “legacy” funds to build mini-pitches and support “social projects” in their cities. That was the same amount of money that cities hosting the Club World Cup in 2025 were promised by Gianni Infantino, FIFA president, in a public announcement.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9f37e01343b91c74533813861856f2815d13d4f8a03bc65bf14315aae9f37d50",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AA.COM.TR",
-   "title": "US host cities seek FIFA payments promised ahead of 2026 World Cup",
-   "iso": "2026-08-04T17:28:03.000Z",
-   "link": "https://www.aa.com.tr/en/sports/us-host-cities-seek-fifa-payments-promised-ahead-of-2026-world-cup/4018443",
-   "lede": "11 US host cities ask world football's governing body for update on individual $1M payments pledged by President Gianni Infantino | Anadolu. 11 US host cities ask world football's governing body for update on individual $1M payments pledged by President Gianni Infantino.",
-   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/04/thumbs_b_c_661569301ba00d4b7cc56a2efdcfa418.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "UEFA’s threatened legal action against Infantino and FIFA: What we know",
-   "iso": "2026-08-04T16:41:13.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know",
-   "lede": "What UEFA's legal letter to FIFA could mean for its president Gianni Infantino after World Cup private investment plan.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T162613Z_1425526232_RC25HMAVO4I3_RTRMADP_3_SOCCER-FIFA-STAKE-1785847229.jpg?resize=1920%2C1440",
+   "cat": "LATEST NEWS FROM AZERBAIJAN",
+   "title": "Where is FIFA’s $11m? US World Cup host cities demand answers",
+   "iso": "2026-08-04T18:46:02.000Z",
+   "link": "https://news.az/news/where-is-fifas-11m-us-world-cup-host-cities-demand-answers",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
