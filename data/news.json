@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T04:30:11.581Z",
+ "updated": "2026-08-05T04:31:30.322Z",
  "news": [
   {
    "cat": "GOAL.COM",
@@ -42,22 +42,21 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "CARIBBEANLIFE.COM",
-   "title": "All Concacaf members reject FIFA’s Infantino $20 million offer",
-   "iso": "2026-08-04T21:17:47.000Z",
-   "link": "https://www.caribbeanlife.com/concacaf-reject-fifa-infantino-20-million/",
-   "lede": "Concacaf has unanimously rejected FIFA’s proposal to sell a minority stake in the World Cup and other major tournaments to private investors. The decision followed an emergency meeting involving all 41 member associations after FIFA announced plans to sell up to 21% of its new commercial entity, FIFA Forward Enterprises, for US$4.2 billion. While the proposal aimed to provide immediate funding for member associations, Concacaf raised concerns about governance, transparency, and FIFA’s decision-making process. Sources also said many members have lost confidence in FIFA President Gianni Infantino’s leadership, with widespread unease over the organisation’s current direction.",
-   "image": "https://www.caribbeanlife.com/wp-content/uploads/2026/08/2026-07-28T161944Z_1525169996_RC25HMAOGHWG_RTRMADP_3_SOCCER-FIFA-STAKE.jpg?quality=51&w=1200&p=q",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "THE NEW YORK TIMES",
    "title": "The England World Cup-winning cricketer who tried his hand at baseball",
    "iso": "2026-08-05T04:05:38.000Z",
    "link": "https://www.nytimes.com/athletic/7472291/2026/08/05/liam-plunkett-cricket-baseball-world-cup/",
    "lede": "Liam Plunkett took over 200 wickets for England across formats but, having moved to the U.S, found his skills transferable to baseball.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/31065423/0731_Plunkett.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "ENCYCLOPEDIA BRITANNICA",
+   "title": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained",
+   "iso": "2026-08-05T03:00:38.000Z",
+   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
@@ -71,7 +70,7 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TRTWORLD.COM",
+   "cat": "TRT WORLD",
    "title": "Infantino saga continues as US World Cup cities reportedly seek 'legacy' funds promised by FIFA",
    "iso": "2026-08-04T23:41:16.000Z",
    "link": "https://www.trtworld.com/article/fd48ed96a9d2",
