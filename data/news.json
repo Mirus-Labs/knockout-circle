@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-05T04:31:30.322Z",
+ "updated": "2026-08-05T07:19:52.244Z",
  "news": [
   {
    "cat": "GOAL.COM",
    "title": "The Club World Cup deals the knockout blow to Infantino",
-   "iso": "2026-08-05T04:09:16.000Z",
+   "iso": "2026-08-05T07:11:00.000Z",
    "link": "https://www.goal.com/en/news/club-world-cup-deals-the-knockout-blow-to-infantino/blt1bf7835a40b7197a",
    "lede": "Aleksander Ceferin, president of European football's governing body (UEFA), and Nasser Al-Khelaifi, chairman of the European Club Association, are holding an anticipated meeting in the city of Salzburg. Tension is rising between their organisations and world football's governing body (FIFA), specifically against its president Gianni Infantino. According to the \"talkSPORT\" network, the root of that tension lies in the possibility of the European clubs withdrawing from the 2029 Club World Cup, following UEFA's decision regarding the national teams in relation to the World Cup. Spanish newspaper \"AS\" reported that there is as yet no agreement between the European Club Association and FIFA to stage the 2029 Club World Cup, which makes talk of boycotting the tournament inaccurate for now.",
    "image": "https://assets.goal.com/images/v3/getty-2285906192/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2285906192.jpg",
@@ -12,70 +12,71 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE GUARDIAN",
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Oliver Baumann says Julian Nagelsmann apologized after World Cup benching",
+   "iso": "2026-08-05T05:45:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/233141/oliver-baumann-says-julian-nagelsmann-apologized-after-world-cup-benching",
+   "lede": "Germany goalkeeper Oliver Baumann has opened up about one of the toughest moments of his career after Julian Nagelsmann opted to restore Manuel Neuer as the starting goalkeeper for the World Cup. Baumann had established himself as Germany’s No. 1 leading up to the tournament, but Nagelsmann, leaning on input from some key players, ultimately turned back to Neuer for football’s biggest stage. While the decision was undoubtedly disappointing for Baumann, the goalkeeper sayid that the ex-Germany coach, who was recently replaced by Jürgen Klopp, reached out afterward to discuss everything openly. “He [Nagelsmann] was sorry about how everything turned out in the end.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2282881054.jpg?quality=90&strip=all&crop=0%2C10.723976030815%2C100%2C78.552047938369&w=1200",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "Wenger breaks silence on Infantino's World Cup sell-off plan",
+   "iso": "2026-08-05T04:17:42.000Z",
+   "link": "https://www.standard.co.uk/sport/football/wenger-infantino-world-cup-sell-off-b1292296.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA’s chief of global football development Arsene Wenger says Gianni Infantino’s decision to withdraw from a plan to sell stakes in a World Cup company to private investors was “absolutely necessary and beyond question”. Former Arsenal manager Wenger issued a statement on Tuesday morning a week on from the first reports emerging about Infantino’s plan to create FIFA Forward Enterprise (FFE) and sell a 20 per cent stake in it to private equity.",
+   "image": "https://static.standard.co.uk/2026/08/04/11/01KZ62W8Z77HBS66QKTZFXDQDD.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE KOREA TIMES",
+   "title": "World Cup star lives in Korea's wealthiest neighborhood, alongside BTS, G-Dragon",
+   "iso": "2026-08-05T02:48:03.000Z",
+   "link": "https://www.koreatimes.co.kr/sports/20260805/world-cup-star-lives-in-koreas-wealthiest-neighborhood-alongside-bts-g-dragon",
+   "lede": "Footballer Kim Young-gwon speaks after receiving the K League 1 Most Valuable Player award during the K League Awards ceremony at Lotte Hotel World in Songpa District, Seoul, Dec. Courtesy of Korea Professional Football League Korean football player Kim Young-gwon made headlines after it was revealed he resides in Nine One Hannam, one of the wealthiest neighborhoods in Seoul. Built in 2019, the 341-unit luxury complex houses prominent business executives and celebrities, including Big Bang's G-Dragon and BTS members Jimin and RM. The Ulsan HD defender shared a glimpse of his family life at the complex in March 2020 during an appearance on the network variety show \"The Return of Superman.\"",
+   "image": "https://newsimg.koreatimes.co.kr/2026/08/05/b820eff1-9419-4e34-93d0-f647c80adf79.png",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "SPORTSTAR",
+   "title": "Vozinha after joining Colo-Colo: Deep down, I knew I was always a ‘big club’ player",
+   "iso": "2026-08-05T02:29:10.000Z",
+   "link": "https://sportstar.thehindu.com/football/vozinha-cape-verde-chile-colo-colo-visa-issues-fifa-world-cup-instagram-following-news/article71307901.ece",
+   "lede": "AP AP https://ss-i.thgim.com/public/incoming/g099o/article71307900.ece/alternates/FREE_1200/Chile_Vozinha_Soccer_92392.jpg ESTEBAN FELIX Cape Verde goalkeeper Vozinha poses for photos during his presentation as a new player for Colo Colo at Monumental stadium in Santiago, Chile, Tuesday, Aug. (AP Photo/Esteban Felix) Following a breakout World Cup with Cape Verde that won over fans worldwide, the 40-year-old goalkeeper has secured his high-profile move. Santiago Although he spent most of his career with smaller clubs in lower divisions — most recently Chaves in Portugal’s second tier — Vozinha always believed he belonged on a bigger stage. Following a breakout World Cup with Cape Verde that won over fans worldwide, the 40-year-old goalkeeper has secured his high-profile move.",
+   "image": "https://ss-i.thgim.com/public/incoming/g099o/article71307900.ece/alternates/LANDSCAPE_1200/Chile_Vozinha_Soccer_92392.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THEGUARDIAN.COM",
    "title": "The Fifa family: which confederations could support Infantino or turn against him?",
    "iso": "2026-08-05T01:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/04/fifa-which-confederations-could-support-gianni-infantino-or-turn-against-him",
    "lede": "Gianni Infantino is under increasing scrutiny following his World Cup sell-off plan. We look at each confederation’s relationship with the president. The pressure is growing on the Fifa president, Gianni Infantino, with many countries withdrawing their support following the bungled World Cup sell-off. However, how key is Infantino’s relationship with each confederation and is it likely that an election contest will actually happen?",
    "image": "https://i.guim.co.uk/img/media/03ad211d947699676d92524205b82895b284ac74/17_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b88b4f72afaa1256389c24313f4a63e",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Claims of ‘blackmail’, unpaid millions as senior figures turn on embattled FIFA boss in fresh blow",
-   "iso": "2026-08-04T23:27:43.000Z",
-   "link": "https://www.foxsports.com.au/football/world-cup/football-news-fifa-president-gianni-infantino-accused-of-blackmail-senior-fifa-figures-including-arsene-wenger-turn-on-president/news-story/2fd45ca247fa9c5c467acaeb57d246b0",
-   "lede": "Gianni Infantino is facing the biggest crisis of his decade-long FIFA presidency with senior figures publicly distancing themselves, a former FIFA presidential rival levelling explosive blackmail allegations and World Cup host cities reportedly still waiting on millions in promised funding. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo? Join now and get your first month for just $1. The FIFA president has been under intense pressure since abandoning plans to sell a stake in a new commercial entity that would have controlled the World Cup and Club World Cup, following fierce backlash from UEFA and football associations around the world.",
-   "image": "https://content.api.news/v3/images/bin/858669ddc866502168934208693489c9",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Oliver Baumann says Julian Nagelsmann apologized after World Cup benching",
-   "iso": "2026-08-04T22:45:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/233141/oliver-baumann-says-julian-nagelsmann-apologized-after-world-cup-benching",
-   "lede": "Germany goalkeeper Oliver Baumann has opened up about one of the toughest moments of his career after Julian Nagelsmann opted to restore Manuel Neuer as the starting goalkeeper for the World Cup. Baumann had established himself as Germany’s No. 1 leading up to the tournament, but Nagelsmann, leaning on input from some key players, ultimately turned back to Neuer for football’s biggest stage. While the decision was undoubtedly disappointing for Baumann, the goalkeeper sayid that the ex-Germany coach, who was recently replaced by Jürgen Klopp, reached out afterward to discuss everything openly. “He [Nagelsmann] was sorry about how everything turned out in the end.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2282881054.jpg?quality=90&strip=all&crop=0%2C10.723976030815%2C100%2C78.552047938369&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The England World Cup-winning cricketer who tried his hand at baseball",
-   "iso": "2026-08-05T04:05:38.000Z",
-   "link": "https://www.nytimes.com/athletic/7472291/2026/08/05/liam-plunkett-cricket-baseball-world-cup/",
-   "lede": "Liam Plunkett took over 200 wickets for England across formats but, having moved to the U.S, found his skills transferable to baseball.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/31065423/0731_Plunkett.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "ENCYCLOPEDIA BRITANNICA",
-   "title": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained",
-   "iso": "2026-08-05T03:00:38.000Z",
-   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "MODERN GHANA",
-   "title": "FIFA’s World Cup sell-off sparks backlash against Gianni Infantino",
-   "iso": "2026-08-05T00:27:08.000Z",
-   "link": "https://www.modernghana.com/amp/videonews/693866",
-   "lede": "",
+   "cat": "NINE.COM.AU",
+   "title": "FIFA boss accused of ‘blackmail’ amid panicked calls to Trump",
+   "iso": "2026-08-05T01:18:19.000Z",
+   "link": "https://www.nine.com.au/sport/football/news-fifa-president-gianni-infantino-future-donald-trump-ignores-phone-calls-jordan-blackmail-claim-20260805-p60lkk.html",
+   "lede": "Gianni Infantino’s attempt to seek the support of US President Donald Trump has reportedly failed, as the FIFA boss prepares to host a crisis meeting in Morocco. Pressure has been mounting on Infantino since he announced he was abandoning his plan to sell a stake of the commercial rights of all major FIFA run competitions. Infantino remains at the centre of a political storm. A number of member associations have spoken out against Infantino and withdrawn support for him as FIFA president.",
+   "image": "https://static.ffx.io/images/$zoom_0.7586%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/7b381026684889ebf85b3b3dbe6007020b9034a7",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TRT WORLD",
-   "title": "Infantino saga continues as US World Cup cities reportedly seek 'legacy' funds promised by FIFA",
-   "iso": "2026-08-04T23:41:16.000Z",
-   "link": "https://www.trtworld.com/article/fd48ed96a9d2",
-   "lede": "Four executives say FIFA chief Infantino promised to pay $1 million for each city to build football-related infrastructure.",
-   "image": "https://d341l694dl30ad.cloudfront.net/images/cms/2026/08/01/6a6dc661fa01af78b2ac4ef1/original/64bd959b-02bc-4129-92f2-dbb5ac456ead-1785579105302.jpg?width=1080&format=jpg&quality=80",
+   "cat": "DAZN",
+   "title": "Who is Gonzalo Garcia, the Club World Cup breakout star swapping Real Madrid for Fulham?",
+   "iso": "2026-08-05T07:00:26.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/who-is-gonzalo-garcia-the-club-world-cup-breakout-star-swapping-real-madrid-for-fulham/1tb5axgl57mhp1ckv7dtxvzli5",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
