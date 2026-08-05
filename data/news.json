@@ -1,16 +1,6 @@
 {
- "updated": "2026-08-05T23:20:08.428Z",
+ "updated": "2026-08-05T23:41:45.845Z",
  "news": [
-  {
-   "cat": "FOX SPORTS",
-   "title": "FIFA war escalates over leaked Infantino letter, explosive whack as fresh bribery claim emerges",
-   "iso": "2026-08-05T23:09:32.000Z",
-   "link": "https://www.foxsports.com.au/football/fifa/fifa-world-cup-and-gianni-infantino-latest-apology-letter-revealed-after-luis-figo-attack-bribery-claims-over-morocco/news-story/16b32f2af9ccb5379f376aae0ce18d2b",
-   "lede": "Embattled FIFA president Gianni Infantino has defied growing calls to resign, issuing a threat to any future questions over his “integrity”. However, the 56-year old has issued an apology to FIFA Council members over the ill-fated plan to sell a stake in a new commercial venture that would have taken control of the World Cup and other major tournaments. The proposal, named the FIFA Forward Enterprise (FFE), was mooted to raise up to $4.2 billion, provide $20 million for all 211 FIFA Member Nations – and net Infantino a $30 million salary. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
-   "image": "https://content.api.news/v3/images/bin/e586394509aab7332c8e569ea32e2d45",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "SOUTH CHINA MORNING POST",
    "title": "Fifa bosses back Infantino to stay as president, sorry for World Cup sell-off plan",
@@ -18,6 +8,16 @@
    "link": "https://www.scmp.com/sport/football/article/3363100/fifa-bosses-back-infantino-stay-president-apologise-world-cup-sell-plan",
    "lede": "Fifa apologised for errors made over Gianni Infantino’s failed plan to sell stakes in the World Cup, and said that senior staff in attendance at a crisis meeting in Morocco on Wednesday “reaffirmed their full support” for his presidency. Football’s world governing body attempted to present a unified front amid the turbulence caused by Infantino’s controversial plans, with calls for him to step down. In a statement, Fifa said Secretary General Mattias Grafstrom and members of the management board in Rabat had given their support to the embattled president. Referring to the plans to sell profits in the World Cup through a commercial subsidiary called Fifa Forward Enterprise (FFE), the statement said “mistakes made were acknowledged” and that the “process should have been handled differently.”",
    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/06/b67ef50e-42ef-46f9-9d38-97076e6516e2_8d34cae2.jpg?itok=o7sdaPNZ&v=1785971138",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "Gianni Infantino: FIFA leaders back under-fire president following crisis meeting as he apologises for 'mistakes' over World Cup sell-off",
+   "iso": "2026-08-05T23:04:19.000Z",
+   "link": "https://www.skysports.com/football/news/33694/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off",
+   "lede": "Under-fire FIFA president Gianni Infantino has shaken off calls to resign - for now - with the backing of the governing body's leaders, though apologised for \"mistakes\" in his botched attempts to sell off a stake in the World Cup. In a statement released after seven hours of crisis talks in Morocco, FIFA said its management board had re-affirmed their \"full support\" for Infantino - including secretary general Mattias Grafstrom, only days after he had labelled the World Cup plans \"a sad and reproachable series of events\". The pair were later seen laughing together watching a Women's AFCON game in Rabat. Infantino had faced mounting calls to resign following the leak of previously undiscussed proposals, after it was revealed national associations had not been consulted and had been given a deadline barely a month away in mid-September and the promise of a £30.1m incentive to back them .",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -44,22 +44,12 @@
   {
    "cat": "THE INDEPENDENT",
    "title": "Gianni Infantino apologises for ‘mistakes’ over World Cup sell-off plan but retains Fifa support",
-   "iso": "2026-08-05T22:07:00.000Z",
+   "iso": "2026-08-05T22:09:00.000Z",
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-apology-fifa-resign-mattias-grafstrom-b3028281.html",
    "lede": "Infantino admitted ‘mistakes were made’ in the process of trying to sell off the World Cup to private investment but Fifa bigwigs ‘reaffirmed full support’ for him after a crisis meeting in Morocco. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/01/09/466eb2686c0d2c84bd12ea6bd062b0c4Y29udGVudHNlYXJjaGFwaSwxNzg1NjU3Mjc0-2.85355300.jpg?trim=464,1238,664,455&width=1200&height=800&crop=1200:800",
    "emoji": "🌎",
    "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Gianni Infantino: FIFA leaders back under-fire president following crisis meeting as he apologises for 'mistakes' over World Cup sell-off",
-   "iso": "2026-08-05T21:50:28.000Z",
-   "link": "https://www.skysports.com/football/news/33694/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off",
-   "lede": "Under-fire FIFA president Gianni Infantino has shaken off calls to resign - for now - with the backing of the governing body's leaders, though apologised for \"mistakes\" in his botched attempts to sell off a stake in the World Cup. In a statement released after seven hours of crisis talks in Morocco, FIFA said its management board had re-affirmed their \"full support\" for Infantino - including secretary general Mattias Grafstrom, only days after he had labelled the World Cup plans \"a sad and reproachable series of events\". The pair were later seen laughing together watching a Women's AFCON game in Rabat. Infantino had faced mounting calls to resign following the leak of previously undiscussed proposals, after it was revealed national associations had not been consulted and had been given a deadline barely a month away in mid-September and the promise of a £30.1m incentive to back them .",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -68,8 +58,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
    "lede": "Gianni Infantino was first elected Fifa president in 2016. Gianni Infantino has apologised for \"errors\" he made in controversial plans to sell off stakes in competitions to private investors, but will remain Fifa president after receiving the backing of senior executives in a meeting in Morocco. Infantino summoned members of the management board to Fifa's Africa office in Rabat on Wednesday following mounting criticism of his aborted proposals, with world football's governing body releasing a statement of support four hours after the meeting ended. European football's governing body Uefa said at the weekend that it has lost confidence in Infantino, calling the Fifa Forward Enterprise (FFE) proposal a \"shabby, back room, opaque deal\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DAILY MIRROR",
@@ -78,6 +68,16 @@
    "link": "https://www.mirror.co.uk/sport/football/news/gianni-infantino-fifa-world-cup-37519107.amp",
    "lede": "Grovelling Gianni Infantino has apologised for attempting to sell the World Cup, confirming that the controversial plan has been SCRAPPED. Infantino has faced intense backlash since FIFA announced last week - after media reports broke the news - a proposal for its competitions to be sold to private investors, sparking anger among the football community at all levels. UEFA members unanimously voted to boycott FIFA tournaments if the plan was allowed to go ahead, while FIFA chief Arsene Wenger spoke out against it. A crisis meeting was held in Morocco on Wednesday amid the unrelenting criticism and constant leaks regarding the plans.",
    "image": "https://i2-prod.mirror.co.uk/incoming/article36940678.ece/ALTERNATES/s1200/0_GettyImages-2250369492.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
+   "iso": "2026-08-05T21:28:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup",
+   "lede": "Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup. In recent decades the city of Salé, just across the river from Rabat on Morocco’s Atlantic coast, has undergone a remarkable transformation. At the start of this century it was a gritty working-class area, whose old town was still weathered enough to serve as a body double for the Somali capital Mogadishu in the film Black Hawk Down. But in recent decades, under the country’s autocratic government, the area has been transformed beyond measure, and largely beyond control.",
+   "image": "https://i.guim.co.uk/img/media/3deae4b96f96bb626bdb753000ddb7171a54c47d/171_0_1707_1365/master/1707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6f3d736e912bd890bf82a973b393f2c3",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
