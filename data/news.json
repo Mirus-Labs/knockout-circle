@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-06T14:55:07.697Z",
+ "updated": "2026-08-06T15:00:37.630Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Uefa planning to check if Infantino tried to sell stakes in World Cup on cheap",
+   "iso": "2026-08-06T14:53:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/06/uefa-gianni-infantino-world-cup-stakes-cheap-valuation-fifa",
+   "lede": "European body to commission independent valuation. Uefa unmoved by Infantino apology for ‘mistake’. Uefa is planning to commission an independent valuation of Fifa’s World Cup sale plans after concerns that Gianni Infantino agreed to sell the tournament’s future profits to a private equity firm at below the market rate. The European governing body is unmoved by the written apology issued by Infantino to Fifa’s 211 member associations on Tuesday after crisis talks in Morocco.",
+   "image": "https://i.guim.co.uk/img/media/57daa48358778387b75da68c5fa6aa85288bef1e/1046_126_1679_1344/master/1679.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1986dbbcfaa99031b881b393c67416a",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Uefa maintains that World Cup boycott still stands despite Infantino’s apology",
@@ -8,18 +18,18 @@
    "link": "https://www.theguardian.com/football/2026/aug/06/uefa-world-cup-boycott-still-stands-gianni-infantino",
    "lede": "European body says Fifa statement ‘changes nothing’. ‘Conditions not met’ to call off boycott of competitions. Uefa has doubled down on its threat to boycott Fifa-run competitions and reiterated its loss of confidence in Gianni Infantino’s presidency. European football’s governing body said Fifa’s public backing of Infantino on Wednesday night “changes nothing” and explained it had not been provided with certainty that repeats of the past nine days’ crisis will not occur.",
    "image": "https://i.guim.co.uk/img/media/dc4febde10098a5389d53dd6b54854e8ef7b029e/141_0_1716_1373/master/1716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89945a7fbc4613d6739820b82d4fd841",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "BBC.COM",
+   "cat": "BBC",
    "title": "Diego Forlan to become interim Uruguay head coach after Marcelo Bielsa's exit",
    "iso": "2026-08-06T14:38:33.000Z",
    "link": "https://www.bbc.com/sport/football/articles/clyrddd2y2no",
    "lede": "Diego Forlan scored 10 goals for Manchester United between 2002 and 2004. Former Manchester United striker Diego Forlan has agreed to become Uruguay head coach on an interim basis. Forlan succeeds Marcelo Bielsa, who stepped down after Uruguay failed to qualify from the group stage at the World Cup. The 47-year-old is set to be in charge for the national team's friendlies this autumn before a permanent manager is appointed at the end of this year or the start of 2027.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb3d/live/ce17b950-7ef3-11f1-83a7-0959f8cc10cc.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "RFI",
@@ -28,8 +38,8 @@
    "link": "https://www.rfi.fr/en/sports/20260806-fifa-executives-rally-behind-infantino-despite-commercial-plan-fiasco",
    "lede": "Gianni Infantino’s position as world football’s most powerful administrator appeared more secure on Thursday after senior Fifa executives backed him to remain president despite his failed attempt to overhaul the commercial operations behind competitions including the World Cup. Following a meeting with Fifa secretary general Mattias Grafström and members of the organisation’s management board in the Moroccan capital Rabat, Fifa issued a statement apologising for the way the proposals had been presented. “It was agreed that it was not the intention for the Fifa Council and Fifa Member Associations to feel excluded from the process and that the process should have been handled differently. It was further acknowledged that errors were also made after the proposal was leaked to media.”",
    "image": "https://s.rfi.fr/media/display/e1b7d5d4-9187-11f1-8fbe-005056a90284/w:1280/p:16x9/giann.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE SUN",
@@ -38,8 +48,8 @@
    "link": "https://www.thesun.co.uk/sport/39985613/england-world-cup-boycott-uefa-fifa/",
    "lede": "ENGLAND are still on course to boycott the World Cup, despite Fifa’s hated bid to sell off the World Cup collapsing. Gianni Infantino plunged world football into chaos last week with his plot to create, and sell off a chunk of, a new Fifa subsidiary in charge of money-making assets including the World Cup. Uefa nations vowed to boycott Fifa competitions unless the project was dropped. Infantino’s plot subsequently collapsed on Friday night.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/DD-30-07-uefa-fifa-v2_OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "SPORTSTAR",
@@ -48,8 +58,8 @@
    "link": "https://sportstar.thehindu.com/football/fifa-womens-world-cup/fifa-brazil-womens-world-cup-alex-morgan-most-competitive/article71313796.ece",
    "lede": "Alex Morgan says 2027 FIFA World Cup in Brazil will be most competitive yet left Alex Morgan retired in 2024 after ⁠scoring 123 goals for the U.S. national team. Getty Images Getty Images https://ss-i.thgim.com/public/incoming/s8s7iw/article71313823.ece/alternates/FREE_1200/GettyImages-2256947133.jpg Brad Smith/ISI Photos/USSF LOS ANGELES, CA - JANUARY 17: Alex Morgan talks to the crowd during the Goal Cup celebrity soccer match at Rawlinson Stadium on January 17, 2026 in Los Angeles, California. (Photo by Brad Smith/ISI Photos/USSF/Getty Images) California The two-time World Cup-winning striker said Brazil’s passion for the sport would provide a vibrant backdrop for the 2027 tournament, while the depth of the U.S. squad should leave ‌it well placed for a tough challenge.",
    "image": "https://ss-i.thgim.com/public/incoming/s8s7iw/article71313823.ece/alternates/LANDSCAPE_1200/GettyImages-2256947133.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TELANGANA TODAY",
@@ -58,8 +68,8 @@
    "link": "https://telanganatoday.com/argentina-to-observe-national-football-teams-day-every-july-15-after-2026-world-cup-triumph",
    "lede": "Buenos Aires: Argentina has officially declared July 15 as 'National Football Teams Day', commemorating the national side's dramatic victory over England in the 2026 FIFA World Cup semi-final and extending the tribute to every national team representing the country. The decision was approved unanimously during the Executive Committee meeting of the Argentine Football Association held at its training centre in Ezeiza. The date marks Argentina's memorable 2-1 comeback victory over England in the 2026 FIFA World Cup semifinal. After falling behind to Anthony Gordon's second-half strike, Lionel Scaloni's side fought back through an 85th-minute equaliser from Enzo Fernandez before Lautaro Martinez scored the winner in stoppage time to book a place in the final.",
    "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Argentina-.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -68,16 +78,6 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-says-sorry-after-failed-world-cup-plan-but-makes-huge-decision-on-infantinos-future/articleshow/133004474.cms",
    "lede": "FIFA has publicly apologised for the way Gianni Infantino's controversial FIFA Forward Enterprise (FFE) proposal was handled, while reaffirming its backing for the embattled president following a high-level meeting in Morocco. The governing body acknowledged mistakes in the process that led to the failed plan but confirmed Infantino will remain in charge despite mounting criticism from inside and outside FIFA. Football News: FIFA publicly apologizes for mishandling the FIFA Forward Enterprise proposal, yet reaffirms its support for Gianni Infantino as president despite ongoing criticism from member associations and football authorities.",
    "image": "https://static.toiimg.com/thumb/msid-133007466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "DECCAN CHRONICLE",
-   "title": "Argentina FA Declare July 15 as National Football Teams Day to Honour World Cup Win Over England",
-   "iso": "2026-08-06T13:12:27.000Z",
-   "link": "https://www.deccanchronicle.com/amp/sports/argentina-fa-declare-july-15-as-national-football-teams-day-to-honour-world-cup-win-over-england-1977096",
-   "lede": "The Argentine Football Association (AFA) on Thursday has unanimously approved July 15 as \"National Football Teams Day\" to commemorate the Albiceleste's 2-1 victory over England in the semifinals of the FIFA World Cup 2026. Argentina staged a remarkable comeback to reach its second consecutive World Cup final after trailing England 1-0 until the 85th minute of the semifinal.\" The date was chosen to commemorate the Albiceleste's great and historic victory over England in the semi-final of the 2026 World Cup,” the AFA said in statement.\"",
-   "image": "https://www.deccanchronicle.com/h-upload/2026/08/06/2073163-toda-la-gloria-a-diosargentinos-esto-es-para-ustedes-todos-queriamos-ganar-este-partido-y-.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
