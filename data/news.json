@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T10:12:39.808Z",
+ "updated": "2026-08-06T10:18:18.361Z",
  "news": [
   {
    "cat": "BBC",
@@ -62,7 +62,7 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
+   "cat": "BAVARIANFOOTBALLWORKS.COM",
    "title": "Oliver Baumann says Julian Nagelsmann apologized after World Cup benching",
    "iso": "2026-08-06T07:15:00.000Z",
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/233141/oliver-baumann-says-julian-nagelsmann-apologized-after-world-cup-benching",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "INSIDE WORLD FOOTBALL",
-   "title": "Infantino under fire from European Leagues over 64-team World Cup proposal",
-   "iso": "2026-08-06T09:40:27.000Z",
-   "link": "https://www.insideworldfootball.com/2026/08/06/infantino-under-fire-from-european-leagues-over-64-team-world-cup-proposal/",
-   "lede": "",
+   "cat": "THEGUARDIAN.COM",
+   "title": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body?",
+   "iso": "2026-08-06T07:00:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/06/how-to-fix-fifa-gianni-infantino-world-cup",
+   "lede": "Gianni Infantino followed World Cup controversies with a widely scorned plan to let private investors in. Here’s how the game’s leaders can find a path forward. How can an organisation that runs the biggest sporting event in the world also be the one that sets the rules for the entire game? We saw the reality of such a conflict at the recent World Cup as Fifa ran roughshod over its rulebook – be it over the length of suspensions or the duration of half-time – in an attempt to generate more attention for its competition.",
+   "image": "https://i.guim.co.uk/img/media/6802706ff35dd30ef26cd9d3f1e20757d23b8e6a/170_0_2447_1958/master/2447.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aaf7edc57c915a43fb2e1bf8c1ac3855",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
