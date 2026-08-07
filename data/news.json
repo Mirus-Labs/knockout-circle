@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-07T19:18:35.889Z",
+ "updated": "2026-08-07T20:07:03.840Z",
  "news": [
   {
-   "cat": "THEGUARDIAN.COM",
+   "cat": "GULF NEWS",
+   "title": "Did a suicide bomb plot target Messi and Ronaldo at 2026 World Cup?",
+   "iso": "2026-08-07T19:27:46.000Z",
+   "link": "https://gulfnews.com/sport/football/did-a-suicide-bomb-plot-target-messi-and-ronaldo-at-2026-world-cup-1.500634228",
+   "lede": "A leaked police dossier has revealed the extent of the security threats that surrounded the 2026 FIFA World Cup, including alleged terror plots and death threats targeting some of the tournament’s biggest stars and match officials.The United States co-hosted the tournament alongside Mexico and Canada, with Spain lifting the trophy after defeating Argentina 1-0 in the final.According to a report by The Sun, citing Spanish outlet Informacion.es, Argentina captain Lionel Messi was at the centre of several serious threats. Ahead of Argentina’s group-stage match against Jordan, a man allegedly called Dallas Airport and threatened to storm the stadium with two accomplices armed with hand grenades and a rifle. He vowed to attack police officers and players from both teams, while also issuing a death threat against Messi..",
+   "image": "https://media.assettype.com/gulfnews%2F2026-08-06%2Fs3rqfwiw%2Fnewsml_afp_com_20260805T000000Z_PH_GTY_2289254702.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
    "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
    "iso": "2026-08-07T19:00:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
    "lede": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010. There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not even a fortnight ago, Gianni Infantino was taking his victory lap on Instagram, attacking “those behind their pens and papers, behind their screens spreading hate and false rumours” who had dared to question elements of his World Cup, which had generated a record $15bn in revenues. But the next day came the revelation of his plan to sell the World Cup to outside investors and a backlash that has him scrabbling to save his presidency.",
    "image": "https://i.guim.co.uk/img/media/05a8c2cbf08a0e008801a5c3c7c6c89e9c979f53/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9449afca87f3247b3d216807e7a6f02e",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "GOAL.COM",
@@ -18,8 +28,8 @@
    "link": "https://www.goal.com/en/news/president-of-the-argentine-federation-beating-england-is-like-winning-the-world-cup-and-the-match-against-egypt-left-its-mark-on-us/blt9b464e1750959eaf",
    "lede": "Tabia highlighted the immense pressure against England. Claudio \"Chiqui\" Tapia, president of the Argentine Football Association, said on Friday that the World Cup semi-final against England in 2026 piled immense psychological pressure on the Tango dancers. The scale of the responsibility towards the Argentine fans, he reckoned, made the match harder than facing Spain in the final. Number 3: who is FIFA's hidden man who shook Infantino's throne?",
    "image": "https://assets.goal.com/images/v3/getty-2286091931/crop/MM5DGMZTGM5DCOBXGU5G433XMU5DAORTGA3A====/GettyImages-2286091931.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -28,8 +38,18 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/a-man-of-his-word-spains-gavi-finally-reveals-world-cup-promise-everyone-was-waiting-for/articleshow/133030356.cms",
    "lede": "Spain midfielder Gavi has fulfilled one of the more memorable promises made during his country's victorious FIFA World Cup campaign, unveiling a striking new pink hairstyle after La Roja lifted the trophy in New York last month. The Barcelona star had vowed to dye his hair if Spain became world champions, and this week he followed through, joining a growing list of teammates who have honoured their own World Cup pledges.\" A man of his word\"Gavi revealed his new look on social media on Tuesday, posting photographs of himself with bright pink hair alongside the caption:\"A man of his word.\" ID@undefined Caption not available.ID@undefined Caption not available.ID@undefined Caption not available.ID@undefined Caption not available.The 22-year-old had made the promise before the tournament, saying he would dye his hair pink if Spain went all the way and won the World Cup.",
    "image": "https://static.toiimg.com/thumb/msid-133030779,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "President of the Argentine Football Association: beating England is like winning the World Cup, and the match against Egypt left its mark on us",
+   "iso": "2026-08-07T18:23:35.000Z",
+   "link": "https://www.goal.com/en/news/president-of-the-argentine-football-association-beating-england-is-like-winning-the-world-cup-and-the-match-against-egypt-left-its-mark-on-us/blt9b464e1750959eaf",
+   "lede": "Tabia highlighted the immense pressure against England. Claudio \"Chiqui\" Tapia, president of the Argentine Football Association, said on Friday that the World Cup semi-final against England in 2026 piled immense psychological pressure on the Tango dancers. The scale of the responsibility towards the Argentine fans, he reckoned, made the match harder than facing Spain in the final. Number 3: who is FIFA's hidden man who shook Infantino's throne?",
+   "image": "https://assets.goal.com/images/v3/getty-2286091931/crop/MM5DGMZTGM5DCOBXGU5G433XMU5DAORTGA3A====/GettyImages-2286091931.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BBC",
@@ -38,28 +58,18 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo",
    "lede": "Gianni Infantino, pictured with Colombian FA president Ramon Jesurun, is attending the inauguration of the country's new president Abelardo de la Espriella. Gianni Infantino stepped off a plane in Cali and was greeted on the runway by the president of the Colombian Football Federation. Ramon Jesurun, a close ally of Infantino's, saw it as a chance to show his support, with the two men smiling in a photo opportunity for the federation's Instagram account. Infantino had not travelled to Colombia for any run-of-the-mill meeting on Friday.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2912/live/c99e72f0-928b-11f1-870d-5d08c49babb2.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "THE TIMES OF INDIA",
-   "title": "'Blow up Messi with four bombs strapped to my body': Leaked police file reveals alleged World Cup terror",
-   "iso": "2026-08-07T17:18:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/blow-up-messi-with-four-bombs-strapped-to-my-body-leaked-police-file-reveals-alleged-world-cup-terror-plot/articleshow/133036749.cms",
-   "lede": "A leaked police dossier has reportedly revealed the scale of security threats investigated during the 2026 FIFA World Cup, with Argentina captain Lionel Messi allegedly emerging as the primary target of multiple terror threats throughout the tournament. The documents, first reported by a Spanish newspaper, describe a series of incidents involving bomb threats, stalking cases and online abuse directed at players, referees and officials as security agencies worked throughout the competition. Football News: A leaked police file uncovers serious terror threats against Lionel Messi and other players during the 2026 FIFA World Cup, including bomb threats and stalking incidents.",
-   "image": "https://static.toiimg.com/thumb/msid-133038682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BAVARIANFOOTBALLWORKS.COM",
+   "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Vincent Kompany says Bayern Munich star Joshua Kimmich still dealing with lingering issue from World Cup",
    "iso": "2026-08-07T16:30:00.000Z",
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/240576/vincent-kompany-says-bayern-munich-star-joshua-kimmich-still-dealing-with-lingering-issue-from-world-cup",
    "lede": "Bayern Munich fans can breathe a little easier after Vincent Kompany provided an update on Joshua Kimmich’s fitness following the club’s 2-1 preseason win over Aston Villa. Although Kimmich did not feature in the friendly, Kompany revealed that the midfielder’s absence was purely a precaution as he continues to manage a lingering issue dating back to the World Cup. ”He has a little bit something he still carries from the World Cup. He trained this morning but wasn’t involved in the game.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2289168508.jpg?quality=90&strip=all&crop=0%2C31.683961351964%2C100%2C34.93738299981&w=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "TALKSPORT",
@@ -68,16 +78,6 @@
    "link": "https://talksport.com/football/world-cup/4497387/bixente-lizarazu-bayern-munich-gym-physique-workout-tips/",
    "lede": "The ex-Bayern Munich star, now 56, won it all as a player. He scooped the Champions League, European Championship, World Cup and six Bundesliga titles, plus the Intercontinental Cup and individual awards from UEFA and FIFA. And the left-back did it in the era of Roberto Carlos too. Since retiring in 2006, Lizarazu hasn't taken his foot off the gas, rather he's put his foot to the floor.",
    "image": "https://talksport.com/wp-content/uploads/2026/08/HB-TS-OP-BIXENTE.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "INDEPENDENT.CO.UK",
-   "title": "Who is supporting Gianni Infantino? Every country’s stance on Fifa president crisis",
-   "iso": "2026-08-07T15:47:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3029205.html",
-   "lede": "Countries are beginning to officially withdraw their support for Infantino’s re-election as Fifa president after his failed attempt to privatise the World Cup. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
