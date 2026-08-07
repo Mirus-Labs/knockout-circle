@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T13:54:11.670Z",
+ "updated": "2026-08-07T14:00:53.262Z",
  "news": [
   {
    "cat": "A NEWS",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "FRONTLINE.THEHINDU.COM",
+   "cat": "FRONTLINE MAGAZINE",
    "title": "Why FIFA’s Failed Privatisation Bid Matters for Football",
    "iso": "2026-08-07T12:16:59.000Z",
    "link": "https://frontline.thehindu.com/columns/fifa-gianni-infantino-football-finance-jpmorgan-deal-uefa/article71305062.ece",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "BBC",
+   "title": "Caf back Gianni Infantino: Why Africa dey support Fifa president Infantino wen oda federations dey withdraw?",
+   "iso": "2026-08-07T10:46:42.000Z",
+   "link": "https://www.bbc.com/pidgin/articles/c86nv1q9265o",
+   "lede": "Fifa president Gianni Infantino dey under pressure afta im failed proposal to sell stakes for di World Cup to private investors. Some FAs don withdraw dia support for di 56-year-old, but odas like Caf dey support am. Infantino fit survive dis storm?",
+   "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/c39f/live/c70d9f70-924a-11f1-b2ab-0dd01740f9f6.png",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE TIMES OF INDIA",
    "title": "Ivan Toney assault charge details: England striker’s representative respond as court date is set followin",
    "iso": "2026-08-07T10:44:00.000Z",
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ivan-toney-assault-charge-details-england-strikers-representative-respond-as-court-date-is-set-following-fifa-world-cup-2026-appearance/articleshow/133031376.cms",
    "lede": "England international Ivan Toney has been charged with assault following an alleged incident at a nightclub in central London. The charge was confirmed by the Metropolitan Police and relates to an incident that reportedly took place on Wardour Street in Soho on December 6, 2025. The 30-year-old is due to appear at Westminster Magistrates’ Court on September 24. Toney, who currently plays for Saudi Pro League club Al-Ahli, recently returned from the FIFA World Cup, where he represented England under head coach Thomas Tuchel.",
    "image": "https://static.toiimg.com/thumb/msid-133031454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BBC",
@@ -68,16 +78,6 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo",
    "lede": "Lucy Bronze is a two-time European champion with England. England defender Lucy Bronze says a Uefa boycott of Fifa competitions would be the \"right thing\" for the future of the game, despite the impact it could have on women's football. After Fifa president Gianni Infantino announced a plan to sell stakes in competitions to private investors, European football's 55 member associations voted to boycott all Fifa competitions until the proposals were dropped. The plans have since been aborted - with Infantino apologising for his \"errors\" - but in a statement on Thursday, Uefa said the boycott could still go ahead.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/724d/live/fdd27430-9246-11f1-afba-01cbe043dea0.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Players union slams FIFA 'abuse of power' as UEFA doubles down on boycott",
-   "iso": "2026-08-07T10:39:50.000Z",
-   "link": "https://www.skysports.com/football/news/11095/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott",
-   "lede": "Mexico and Argentina's football associations are the latest to have thrown their support behind embattled FIFA president Gianni Infantino despite his botched World Cup stake sale plans. On Wednesday night, Infantino was also given the \"full support\" of FIFA's management board in a statement despite being forced to abandon his plan to sell stakes in a company to run the World Cup to private investors. African football's governing body, CAF - a long-time supporter of Infantino - \"unanimously reconfirmed\" its support for the president and went as far as thanking him \"for his contribution to African football\" as well as endorsing the statement released by FIFA.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
