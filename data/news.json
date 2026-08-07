@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-07T17:11:00.615Z",
+ "updated": "2026-08-07T18:03:28.763Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Gianni Infantino: Politicians, private jets and power - the life of a Fifa president",
+   "iso": "2026-08-07T17:45:06.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cx2rp0n9pydo",
+   "lede": "Gianni Infantino, pictured with Colombian FA president Ramon Jesurun, is in Bogota to attend the inauguration of the country's new president Abelardo de la Espriella. Gianni Infantino stepped off a plane in Bogota and was greeted on the runway by the president of the Colombian Football Federation. Ramon Jesurun, a close ally of Infantino's, saw it as a chance to show his support, with the two men smiling in a photo opportunity for the federation's Instagram account. Infantino had not travelled to Colombia for any run-of-the-mill meeting on Friday.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e8a4/live/28754c30-9279-11f1-879d-679b9dc5b3bc.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "'Blow up Messi with four bombs strapped to my body': Leaked police file reveals alleged World Cup terror",
+   "iso": "2026-08-07T17:18:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/blow-up-messi-with-four-bombs-strapped-to-my-body-leaked-police-file-reveals-alleged-world-cup-terror-plot/articleshow/133036749.cms",
+   "lede": "A leaked police dossier has reportedly revealed the scale of security threats investigated during the 2026 FIFA World Cup, with Argentina captain Lionel Messi allegedly emerging as the primary target of multiple terror threats throughout the tournament. The documents, first reported by a Spanish newspaper, describe a series of incidents involving bomb threats, stalking cases and online abuse directed at players, referees and officials as security agencies worked throughout the competition. Football News: A leaked police file uncovers serious terror threats against Lionel Messi and other players during the 2026 FIFA World Cup, including bomb threats and stalking incidents.",
+   "image": "https://static.toiimg.com/thumb/msid-133038682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "TALKSPORT",
    "title": "World Cup winner showcases incredible physique aged 56 and gives fans achievable workout tip",
@@ -8,8 +28,8 @@
    "link": "https://talksport.com/football/world-cup/4497387/bixente-lizarazu-bayern-munich-gym-physique-workout-tips/",
    "lede": "The ex-Bayern Munich star, now 56, won it all as a player. He scooped the Champions League, European Championship, World Cup and six Bundesliga titles, plus the Intercontinental Cup and individual awards from UEFA and FIFA. And the left-back did it in the era of Roberto Carlos too. Since retiring in 2006, Lizarazu hasn't taken his foot off the gas, rather he's put his foot to the floor.",
    "image": "https://talksport.com/wp-content/uploads/2026/08/HB-TS-OP-BIXENTE.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -18,8 +38,8 @@
    "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3029205.html",
    "lede": "Countries are beginning to officially withdraw their support for Infantino’s re-election as Fifa president after his failed attempt to privatise the World Cup. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/arsenal-eye-world-cup-winner-130500564.html",
    "lede": "Arsenal have turned their attention to Barcelona forward Ferran Torres after missing out on Vinicius Junior. The Gunners had expressed interest in signing Vinicius Junior from Real Madrid, but hopes o... The Gunners had expressed interest in signing Vi...",
    "image": "https://s.yimg.com/lo/mysterio/api/8322b7377b55cd27a845923c69882564a5bbd8b0daee6d90fcdb6d79d05c1345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2Faec264aca48188d4412aecbef55385a9",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DAZED",
@@ -38,31 +58,11 @@
    "link": "https://www.dazeddigital.com/life-culture/article/70776/1/football-is-not-for-sale-drama-following-the-2026-world-cup-explainer-fifa",
    "lede": "The World Cup is over, but the fallout from the most thrilling and controversial tournament in years continues. Sky News reported that this year’s competition saw the highest recorded level of domestic abuse incidents in the UK compared with similar tournaments, with 384 incidents recorded. Meanwhile, FIFA has opened an investigation into Argentina over the Falkland Islands banner displayed after their semi-final victory over England. The disciplinary proceedings also extend to the chaotic scenes following Argentina’s defeat to Spain in the final.",
    "image": "https://images-prod.dazeddigital.com/1024/0-0-1024-682/azure/dazed-prod/1450/0/1450903.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know",
-   "iso": "2026-08-07T12:23:16.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide",
-   "lede": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA’s Gianni Infantino. FIFA president survives crisis meeting over his leadership. What’s next for him after UEFA holds firm to its boycott? What UEFA’s legal letter to FIFA could mean for its president Gianni Infantino after World Cup private investment plan.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T191511Z_256455535_UP1EM7U1HH8WA_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1786103167.jpg?resize=1920%2C1440",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FRONTLINE MAGAZINE",
-   "title": "Why FIFA’s Failed Privatisation Bid Matters for Football",
-   "iso": "2026-08-07T12:16:59.000Z",
-   "link": "https://frontline.thehindu.com/columns/fifa-gianni-infantino-football-finance-jpmorgan-deal-uefa/article71305062.ece",
-   "lede": "A plan hatched by Gianni Infantino, the president of football’s not-for-profit global platform FIFA, to “steal the game” rather than run with the ball has failed. The plan was to divest the management of the revenue-spinning operations of FIFA—ticketing, broadcasting, licencing, and sponsorship—to a corporate entity named FIFA Forward Enterprise (FFE), 20 per cent of the equity in which was to be sold to private investors. That amounts to extracting money upfront today by “capitalising” projected future revenues. To win the vote of a majority of FIFA’s 211 national member associations, which was needed to see the plan through, a part of the $4.2 billion expected to be raised was to be used to make one-off payments of $20 million to each of these associations.",
-   "image": "https://fl-i.thgim.com/public/incoming/gxogly/article71314393.ece/alternates/LANDSCAPE_1200/gianni-fifa.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NYTIMES.COM",
+   "cat": "THE NEW YORK TIMES",
    "title": "WAFCON quarterfinals preview: World Cup spots on the line, players to watch and more key stories",
    "iso": "2026-08-07T16:30:56.000Z",
    "link": "https://www.nytimes.com/athletic/7498458/2026/08/07/wafcon-quarterfinal-preview-world-cup-qualification/",
@@ -72,12 +72,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TAIPEI TIMES",
-   "title": "Mexico, Argentina back Infantino as FIFA fight rages on",
-   "iso": "2026-08-07T16:00:00.000Z",
-   "link": "https://www.taipeitimes.com/News/sport/archives/2026/08/08/2003862140",
-   "lede": "Mexico and Argentina’s football associations have thrown their support behind FIFA president Gianni Infantino as he faces a fierce backlash over a now-abandoned proposal to sell off some of the commercial rights to the FIFA World Cup.The Mexican Football Federation (FMF), cohosts of the recently con.",
-   "image": "https://img.taipeitimes.com/images/2026/08/08/P06-260808-305.jpg",
+   "cat": "REUTERS",
+   "title": "Infantino allies rally as Norway FA demands FIFA president's resignation",
+   "iso": "2026-08-07T16:07:28.000Z",
+   "link": "https://www.reuters.com/sports/soccer/mexico-argentina-back-infantino-fifa-fight-rages-2026-08-07/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
