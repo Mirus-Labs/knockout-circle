@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-07T15:11:35.696Z",
+ "updated": "2026-08-07T16:02:29.624Z",
  "news": [
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Qatar whistleblower arrested before testifying in 2022 World Cup human trafficking case",
+   "iso": "2026-08-07T15:15:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/qatar-world-cup-whistleblower-arrested-abdullah-ibhais-human-trafficking-b3029410.html",
+   "lede": "Ibhais, who spent three years in a Doha jail, is scheduled to testify as a witness in a US District Court deposition in two weeks. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2021/12/15/19/202110mena_qatar_abdullah_ibahis.jpeg?width=1200&height=800&crop=1200:800",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Who is supporting Gianni Infantino? Every country’s stance on Fifa president crisis",
+   "iso": "2026-08-07T13:48:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3029205.html",
+   "lede": "Countries are beginning to officially withdraw their support for Infantino’s re-election as Fifa president after his failed attempt to privatise the World Cup. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE STRAITS TIMES",
+   "title": "FIFA’s top executives were given an ultimatum to sell stake in World Cup",
+   "iso": "2026-08-07T13:10:07.000Z",
+   "link": "https://www.straitstimes.com/sport/fifas-top-executives-were-given-an-ultimatum-to-sell-stake-in-world-cup?ref=latest",
+   "lede": "The project purported to sell a 20 per cent stake in FIFA to a group of investors led by Joshua Kushner, the brother of US President Donald Trump’s son-in-law Jared Kushner. NEW YORK – The five men should have been in a celebratory mood. FIFA had just pulled off a World Cup that broke records on a number of fronts. Its spectacular culmination, the final, was a day away from the July 19 kick-off.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/005e3b6638ebc239f0d4d9d6f04dd46c018c792cb3dacf5fc74456225568beaf",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "A NEWS",
    "title": "Norway football federation calls on FIFA chief to resign over failed World Cup plan",
@@ -8,18 +38,18 @@
    "link": "https://www.anews.com.tr/sport/2026/08/07/norway-football-federation-calls-on-fifa-chief-to-resign-over-failed-world-cup-plan",
    "lede": "Norwegian Football Federation (NFF) President Lise Klaveness called Friday for FIFA President Gianni Infantino to resign, saying he had lost the federation's confidence. 'We decided that there is no trust in Infantino now,' Klaveness told The Guardian following the NFF's monthly board meeting. 'We have been worried consistently and there has been one more step in worrying direction every year, every part of the year. The trust is now gone for us, there is no way back for Infantino.'",
    "image": "https://ia.tmgrup.com.tr/c375af/806/378/0/0/820/384?u=https://i.tmgrup.com.tr/anews/v1/2026/08/07/norway-football-federation-calls-on-fifa-chief-to-resign-over-failed-world-cup-plan-1786107027894.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "DAZEDDIGITAL.COM",
+   "cat": "DAZED",
    "title": "‘Football is not for sale’: All the drama following the 2026 World Cup",
    "iso": "2026-08-07T12:30:00.000Z",
    "link": "https://www.dazeddigital.com/life-culture/article/70776/1/football-is-not-for-sale-drama-following-the-2026-world-cup-explainer-fifa",
    "lede": "The World Cup is over, but the fallout from the most thrilling and controversial tournament in years continues. Sky News reported that this year’s competition saw the highest recorded level of domestic abuse incidents in the UK compared with similar tournaments, with 384 incidents recorded. Meanwhile, FIFA has opened an investigation into Argentina over the Falkland Islands banner displayed after their semi-final victory over England. The disciplinary proceedings also extend to the chaotic scenes following Argentina’s defeat to Spain in the final.",
    "image": "https://images-prod.dazeddigital.com/1024/0-0-1024-682/azure/dazed-prod/1450/0/1450903.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "AL JAZEERA",
@@ -28,8 +58,8 @@
    "link": "https://www.aljazeera.com/amp/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide",
    "lede": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA’s Gianni Infantino. FIFA president survives crisis meeting over his leadership. What’s next for him after UEFA holds firm to its boycott? What UEFA’s legal letter to FIFA could mean for its president Gianni Infantino after World Cup private investment plan.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T191511Z_256455535_UP1EM7U1HH8WA_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1786103167.jpg?resize=1920%2C1440",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FRONTLINE MAGAZINE",
@@ -38,44 +68,16 @@
    "link": "https://frontline.thehindu.com/columns/fifa-gianni-infantino-football-finance-jpmorgan-deal-uefa/article71305062.ece",
    "lede": "A plan hatched by Gianni Infantino, the president of football’s not-for-profit global platform FIFA, to “steal the game” rather than run with the ball has failed. The plan was to divest the management of the revenue-spinning operations of FIFA—ticketing, broadcasting, licencing, and sponsorship—to a corporate entity named FIFA Forward Enterprise (FFE), 20 per cent of the equity in which was to be sold to private investors. That amounts to extracting money upfront today by “capitalising” projected future revenues. To win the vote of a majority of FIFA’s 211 national member associations, which was needed to see the plan through, a part of the $4.2 billion expected to be raised was to be used to make one-off payments of $20 million to each of these associations.",
    "image": "https://fl-i.thgim.com/public/incoming/gxogly/article71314393.ece/alternates/LANDSCAPE_1200/gianni-fifa.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
+   "cat": "BAVARIANFOOTBALLWORKS.COM",
    "title": "Bayern Munich legend Thomas Müller thinks MLS has gained prestige because of the World Cup",
    "iso": "2026-08-07T12:15:00.000Z",
    "link": "https://www.bavarianfootballworks.com/bayern-munich-alumni/238896/bayern-munich-legend-thomas-muller-thinks-mls-has-gained-prestige-because-of-the-world-cup",
    "lede": "In his personal monthly newspaper, Bayern Munich legend Thomas Müller spoke about the upcoming MLS season and what he’s been focused on these last few weeks. In it, he included hope that the World Cup and an influx of new star players has helped MLS raise its profile on the global stage. “I’m really burning to be on the pitch for 90 minutes regularly and help my lads with everything I’ve got,” wrote Müller. “We have six games in three weeks.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2288231732.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "Caf back Gianni Infantino: Why Africa dey support Fifa president Infantino wen oda federations dey withdraw?",
-   "iso": "2026-08-07T11:32:32.000Z",
-   "link": "https://www.bbc.com/pidgin/articles/c86nv1q9265o.amp",
-   "lede": "Fifa president Gianni Infantino dey under pressure afta im failed proposal to sell stakes for di World Cup to private investors. Some FAs don withdraw dia support for di 56-year-old, but odas like Caf dey support am. Infantino fit survive dis storm?",
-   "image": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/c39f/live/c70d9f70-924a-11f1-b2ab-0dd01740f9f6.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GET FRENCH FOOTBALL NEWS",
-   "title": "French FA says \"serious questions remain\" on FIFA's governance after World Cup sell-off crisis",
-   "iso": "2026-08-07T14:59:02.000Z",
-   "link": "https://www.getfootballnewsfrance.com/2026/french-fa-says-serious-questions-remain-on-fifas-governance-after-world-cup-sell-off-crisis/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE INDIAN EXPRESS",
-   "title": "England’s World Cup star charged with assault at nightclub",
-   "iso": "2026-08-07T14:37:28.000Z",
-   "link": "https://indianexpress.com/article/sports/football/england-world-cup-star-ivan-toney-charged-with-assault-at-nightclub-10822866/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
