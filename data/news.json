@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-07T21:23:00.379Z",
+ "updated": "2026-08-07T21:50:54.897Z",
  "news": [
+  {
+   "cat": "FOX SPORTS",
+   "title": "‘You have to fire him’: FIFA boss’ alleged affair exposes fresh twist in football’s civil war",
+   "iso": "2026-08-07T21:33:15.000Z",
+   "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-gianni-infantino-alleged-affair-with-junior-employee-at-uefa-african-federation-mexico-and-argentina-publicly-support-infantino-latest-news-in-footballs-civil-war/news-story/de2476b510252b9e3f788a1eb6e5bfdd",
+   "lede": "Beleaguered FIFA president Gianni Infantino is under more pressure following a report that UEFA paid off an alleged mistress during his time as general secretary of the European governing body. The Telegraph report comes after Infantino received some much-needed support, following more than a week of scathing criticism revolving around the now shelved private investment plan - FIFA said it could raise up to US$4.2 billion based on a valuation of US$20 billion for a new commercial subsidiary, called the FIFA Forward Enterprise (FFE), which it proposed would run events such as the World Cup and Club World Cup. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail.",
+   "image": "https://content.api.news/v3/images/bin/9d5d8a61d611ca56d51e0dde3f231730",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
@@ -8,8 +18,18 @@
    "link": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
    "lede": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010. There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not even a fortnight ago, Gianni Infantino was taking his victory lap on Instagram, attacking “those behind their pens and papers, behind their screens spreading hate and false rumours” who had dared to question elements of his World Cup, which had generated a record $15bn in revenues. But the next day came the revelation of his plan to sell the World Cup to outside investors and a backlash that has him scrabbling to save his presidency.",
    "image": "https://i.guim.co.uk/img/media/05a8c2cbf08a0e008801a5c3c7c6c89e9c979f53/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9449afca87f3247b3d216807e7a6f02e",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "TIMESOFINDIA.INDIATIMES.COM",
+   "title": "Spain's Bernabéu 'preferred' for 2030 World Cup final ahead of Morocco's much larger 115,000-seat stadium",
+   "iso": "2026-08-07T19:35:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spains-bernabu-preferred-for-2030-world-cup-final-ahead-of-moroccos-much-larger-115000-seat-stadium-says-report/articleshow/133032245.cms",
+   "lede": "The race to host the 2030 FIFA World Cup final appears to have taken another significant turn, with fresh reports suggesting Real Madrid's Santiago Bernabéu has moved into pole position to stage football's biggest match. Although FIFA has yet to announce an official decision, recent developments from Spain have strengthened the belief that Madrid is currently leading the contest ahead of Morocco's proposed Hassan II Stadium. Football News: Recent reports suggest that Spain's Santiago Bernabéu is FIFA's top choice to host the 2030 World Cup final, competing against Morocco's larger stadium. Discover the latest updates on this competitive selection process.",
+   "image": "https://static.toiimg.com/thumb/msid-133033108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GULF NEWS",
@@ -18,8 +38,8 @@
    "link": "https://gulfnews.com/sport/football/did-a-suicide-bomb-plot-target-messi-and-ronaldo-at-2026-world-cup-1.500634228",
    "lede": "A leaked police dossier has revealed the extent of the security threats that surrounded the 2026 FIFA World Cup, including alleged terror plots and death threats targeting some of the tournament’s biggest stars and match officials.The United States co-hosted the tournament alongside Mexico and Canada, with Spain lifting the trophy after defeating Argentina 1-0 in the final.According to a report by The Sun, citing Spanish outlet Informacion.es, Argentina captain Lionel Messi was at the centre of several serious threats. Ahead of Argentina’s group-stage match against Jordan, a man allegedly called Dallas Airport and threatened to storm the stadium with two accomplices armed with hand grenades and a rifle. He vowed to attack police officers and players from both teams, while also issuing a death threat against Messi..",
    "image": "https://media.assettype.com/gulfnews%2F2026-08-06%2Fs3rqfwiw%2Fnewsml_afp_com_20260805T000000Z_PH_GTY_2289254702.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +48,8 @@
    "link": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go",
    "lede": "The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds insult to injury. “How did you go bankrupt?” a character is asked in Ernest Hemingway’s novel The Sun Also Rises. “Gradually, then suddenly” comes the reply.",
    "image": "https://i.guim.co.uk/img/media/a966fe0cdb73681fe873259309e441019baa8f28/78_0_2193_1754/master/2193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=cbd760d768c753285a7eb41ff9fec125",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +58,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/07/lucy-bronze-uefa-boycott-fifa-for-good-of-the-game-womens-football",
    "lede": "Chelsea defender speaking in Auckland before friendly. September’s Under-20 Women’s World Cup under threat. Lucy Bronze has backed Uefa’s stance on boycotting all Fifa competitions for the “good of the game” and to safeguard football for future generations. On Thursday Europe’s governing body doubled down on its threat – including next summer’s Women’s World Cup – amid the furore surrounding the Fifa president Gianni Infantino and his shelved plan for a privately funded Fifa Forward Enterprise scheme.",
    "image": "https://i.guim.co.uk/img/media/8de751da6c2fd3af022e7c6c663484da958dc77d/225_0_2645_2116/master/2645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5c108e04ed9f75af0b2984b55ca690e",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "GOAL.COM",
@@ -48,8 +68,8 @@
    "link": "https://www.goal.com/en/news/president-of-the-argentine-federation-beating-england-is-like-winning-the-world-cup-and-the-match-against-egypt-left-its-mark-on-us/blt9b464e1750959eaf",
    "lede": "Tabia highlighted the immense pressure against England. Claudio \"Chiqui\" Tapia, president of the Argentine Football Association, said on Friday that the World Cup semi-final against England in 2026 piled immense psychological pressure on the Tango dancers. The scale of the responsibility towards the Argentine fans, he reckoned, made the match harder than facing Spain in the final. Number 3: who is FIFA's hidden man who shook Infantino's throne?",
    "image": "https://assets.goal.com/images/v3/getty-2286091931/crop/MM5DGMZTGM5DCOBXGU5G433XMU5DAORTGA3A====/GettyImages-2286091931.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -58,26 +78,6 @@
    "link": "https://www.independent.co.uk/sport/football/andy-burnham-world-cup-ellis-platten-b3029561.html",
    "lede": "‘It makes you wonder whether the authorities at the European and global level have something against us,’ Burnham said. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/05/09/2286544926..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "'A man of his word': Spain's Gavi finally reveals World Cup promise everyone was waiting for",
-   "iso": "2026-08-07T18:30:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/a-man-of-his-word-spains-gavi-finally-reveals-world-cup-promise-everyone-was-waiting-for/articleshow/133030356.cms",
-   "lede": "Spain midfielder Gavi has fulfilled one of the more memorable promises made during his country's victorious FIFA World Cup campaign, unveiling a striking new pink hairstyle after La Roja lifted the trophy in New York last month. The Barcelona star had vowed to dye his hair if Spain became world champions, and this week he followed through, joining a growing list of teammates who have honoured their own World Cup pledges.\" A man of his word\"Gavi revealed his new look on social media on Tuesday, posting photographs of himself with bright pink hair alongside the caption:\"A man of his word.\" ID@undefined Caption not available.ID@undefined Caption not available.ID@undefined Caption not available.ID@undefined Caption not available.The 22-year-old had made the promise before the tournament, saying he would dye his hair pink if Spain went all the way and won the World Cup.",
-   "image": "https://static.toiimg.com/thumb/msid-133030779,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "President of the Argentine Football Association: beating England is like winning the World Cup, and the match against Egypt left its mark on us",
-   "iso": "2026-08-07T18:23:35.000Z",
-   "link": "https://www.goal.com/en/news/president-of-the-argentine-football-association-beating-england-is-like-winning-the-world-cup-and-the-match-against-egypt-left-its-mark-on-us/blt9b464e1750959eaf",
-   "lede": "Tabia highlighted the immense pressure against England. Claudio \"Chiqui\" Tapia, president of the Argentine Football Association, said on Friday that the World Cup semi-final against England in 2026 piled immense psychological pressure on the Tango dancers. The scale of the responsibility towards the Argentine fans, he reckoned, made the match harder than facing Spain in the final. Number 3: who is FIFA's hidden man who shook Infantino's throne?",
-   "image": "https://assets.goal.com/images/v3/getty-2286091931/crop/MM5DGMZTGM5DCOBXGU5G433XMU5DAORTGA3A====/GettyImages-2286091931.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
