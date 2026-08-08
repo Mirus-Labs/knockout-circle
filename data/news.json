@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T10:38:26.433Z",
+ "updated": "2026-08-08T10:55:05.402Z",
  "news": [
   {
    "cat": "INDIA TODAY",
@@ -12,14 +12,43 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "FOURFOURTWO.COM",
+   "cat": "AL JAZEERA",
+   "title": "Messi will decide when he retires, says Argentina FA chief",
+   "iso": "2026-08-08T08:59:54.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires",
+   "lede": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence. Memphis Grizzlies ⁠forward Brandon Clarke’s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited. Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games. Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-19T224207Z_799602868_UP1EM7J1R25CK_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1786176870.jpg?resize=1920%2C1440",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "Wenger breaks silence on Infantino's World Cup sell-off plan",
+   "iso": "2026-08-08T08:57:36.000Z",
+   "link": "https://www.standard.co.uk/sport/football/wenger-infantino-world-cup-sell-off-b1292296.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA’s chief of global football development Arsene Wenger says Gianni Infantino’s decision to withdraw from a plan to sell stakes in a World Cup company to private investors was “absolutely necessary and beyond question”. Former Arsenal manager Wenger issued a statement on Tuesday morning a week on from the first reports emerging about Infantino’s plan to create FIFA Forward Enterprise (FFE) and sell a 20 per cent stake in it to private equity.",
+   "image": "https://static.standard.co.uk/2026/08/04/11/01KZ62W8Z77HBS66QKTZFXDQDD.jpg?width=1200&auto=webp&quality=75",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BUENOS AIRES TIMES",
+   "title": "FIFA chief Infantino gets backing of AFA, South American football",
+   "iso": "2026-08-08T08:41:23.000Z",
+   "link": "https://www.batimes.com.ar/news/amp/sports/fifa-chief-infantino-gets-backing-of-afa-south-american-football.phtml",
+   "lede": "CONMEBOL, which has only 10 FIFA-affiliated members but includes iconic federations such as Argentina and Brazil, expresses concern but backs FIFA chief. FIFA president Gianni Infantino on Friday received support from several leading South American football figures as he visited Colombia amidst the crisis engulfing world football's governing body. Infantino arrived early on Friday in the Colombian city of Cali to attend hard-right president Abelardo de la Espriella's inauguration. Photos released by the Colombian Football Federation show a smiling Infantino standing alongside South American Football Confederation (CONMEBOL) president Alejandro Domínguez and the president of the Colombian federation, Ramón Jesurún.",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "FOURFOURTWO",
    "title": "Sepp Blatter lecturing Gianni Infantino is embarrassing for him, for FIFA and for football",
    "iso": "2026-08-08T08:00:00.000Z",
    "link": "https://www.fourfourtwo.com/person/sepp-blatter-lecturing-gianni-infantino-is-embarrassing-for-him-for-fifa-and-for-football",
    "lede": "The former FIFA President’s constant digs at his successor is a sad reflection of the state of the game. When you purchase through links on our site, we may earn an affiliate commission. “Now it is up to the fans, players and national associations to reclaim football and bring it back to its roots under new leadership.” So said Sepp Blatter in a post on X on July 21, as the former FIFA President suggested World Cup 2026 was the year that the competition had “lost its credibility” in his latest dig at successor, Gianni Infantino.",
    "image": "https://cdn.mos.cms.futurecdn.net/6dK75wDRiMbtXMgw36Jxc-810-80.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "AL JAZEERA",
@@ -28,18 +57,8 @@
    "link": "https://www.aljazeera.com/amp/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations",
    "lede": "Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback. Memphis Grizzlies ⁠forward Brandon Clarke’s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited. FIFA president Gianni Infantino gets South American football’s backing while at Abelardo de la Espriella’s inauguration. Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2024-02-02T153713Z_1949921767_UP1EK2217DZGT_RTRMADP_3_SOCCER-ASIANCUP-AUS-KOR-REPORT-1786174460.jpg?resize=1920%2C1440",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Wenger breaks silence on Infantino's World Cup sell-off plan",
-   "iso": "2026-08-08T07:09:26.000Z",
-   "link": "https://www.standard.co.uk/sport/football/wenger-infantino-world-cup-sell-off-b1292296.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. FIFA’s chief of global football development Arsene Wenger says Gianni Infantino’s decision to withdraw from a plan to sell stakes in a World Cup company to private investors was “absolutely necessary and beyond question”. Former Arsenal manager Wenger issued a statement on Tuesday morning a week on from the first reports emerging about Infantino’s plan to create FIFA Forward Enterprise (FFE) and sell a 20 per cent stake in it to private equity.",
-   "image": "https://static.standard.co.uk/2026/08/04/11/01KZ62W8Z77HBS66QKTZFXDQDD.jpg?width=1200&auto=webp&quality=75",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE BUSINESS STANDARD",
@@ -48,36 +67,16 @@
    "link": "https://www.tbsnews.net/sports/football/messi-faced-terror-threats-during-fifa-world-cup-2026-1509411",
    "lede": "Argentina captain Lionel Messi reportedly faced threats of terror attacks during the recently concluded Fifa World Cup 2026, with some callers warning of a plot to kill the football great. He was among a long list of players who encountered menacing attempts at attacks during the tournament. According to a Spanish newspaper, which cited a leaked police dossier, several cases of bomb threats, stalking, and online abuse were reported. One of the most serious incidents occurred ahead of Argentina's June 28 match against Jordan in Texas, when a man claimed to be heading towards the Dallas Stadium with bombs.",
    "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/07/20/messiiii.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "NEWS18",
+   "cat": "NEWS18.COM",
    "title": "England's FIFA World Cup Player Charged With Assault",
    "iso": "2026-08-08T06:05:00.000Z",
    "link": "https://www.news18.com/sports/football/ivan-toney-englands-fifa-world-cup-player-charged-with-assault-london-nightclub-ws-l-10260593.html",
    "lede": "England striker Ivan Toney has been charged with assault causing actual bodily harm following an alleged incident at a London nightclub last year, the Metropolitan Police confirmed on Friday. The 30-year-old forward, who currently plays for Saudi Pro League side Al-Ahli, is accused of being involved in an incident that allegedly took place at a nightclub on Wardour Street in Soho on December 6, 2025, according to the BBC. The Metropolitan Police said officers launched an investigation after receiving reports of an assault at the central London venue. Following the investigation, Toney was formally charged on July 31 and is due to appear before Westminster Magistrates’ Court on September 24.",
    "image": "https://images.news18.com/ibnlive/uploads/2026/08/Ivan-Toney-reuters-2026-08-5d1dcdc056e07e48649938da10b3e33c-1200x675.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE KOREA TIMES",
-   "title": "Kim Min-jae speaks out on World Cup showing, preferred traits for next Korea coach",
-   "iso": "2026-08-08T04:53:00.000Z",
-   "link": "https://www.koreatimes.co.kr/amp/sports/20260808/kim-min-jae-speaks-out-on-world-cup-showing-preferred-traits-for-next-korea-coach",
-   "lede": "Bayern Munich's Kim Min-jae, a defender for Korea's national football team, appears on the latest episode of broadcaster Kim Jong-kook's YouTube channel GYM JONG KOOK. Captured from YouTube Korea national football team defender Kim Min-jae, 30, of Bayern Munich, has finally addressed the controversy surrounding his apparent protest over being substituted during the team's third group-stage match at the 2026 FIFA World Cup. With Korea trailing at the time, Kim was taken off and another defender was brought on, prompting speculation that he had questioned why an attacker was not being introduced instead. Kim explained the circumstances surrounding his substitution in the 20th minute of the second half against South Africa on June 25 in the third Group A match of this year's World Cup, in a video released Thursday on broadcaster Kim Jong-kook's YouTube channel GYM JONG KOOK.",
-   "image": "https://newsimg.koreatimes.co.kr/2026/08/08/ba1f4fe5-b5c3-45d2-bbc1-5bf286c22c8d.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "GULF NEWS",
-   "title": "Call for FIFA president Gianni Infantino to resign comes amid wave of support",
-   "iso": "2026-08-08T10:04:58.000Z",
-   "link": "https://gulfnews.com/sport/football/call-for-fifa-president-gianni-infantino-to-resign-comes-amid-wave-of-support-1.500631303",
-   "lede": "Infantino’s future as FIFA president hangs in the balance amid fierce criticism, a possible no-confidence vote and a global divide over his leadership.",
-   "image": "https://media.assettype.com/gulfnews%2F2026-08-01%2Fh8vk97ko%2Fnewsml_afp_com_20260801T100809Z_doc_c3qu8nr.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
