@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-08T13:33:58.249Z",
+ "updated": "2026-08-08T13:51:02.707Z",
  "news": [
   {
-   "cat": "BBC",
-   "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-   "iso": "2026-08-08T12:36:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
-   "lede": "Joshua Kushner runs the investment group behind the plan to buy a minority stake in the World Cup. Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit. But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable? In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
+   "cat": "TALKSPORT",
+   "title": "Lionel Messi subjected to World Cup murder threat, US authorities reveal",
+   "iso": "2026-08-08T13:16:21.000Z",
+   "link": "https://talksport.com/football/4499610/lionel-messi-world-cup-murder-threat-us-police-report/",
+   "lede": "Spanish newspaper Marca has disclosed details from a chilling American police report, which lists all the security threats faced by the FBI and the International Police Cooperation Center (IPCC) this summer. According to the news outlet, Argentina superstar Messi received more threats than any other player throughout the tournament. The risk extended to his national teammates, with the report revealing one plot during their final group game against Jordan. One man is said to have rung up Dallas Airport and warned that he and two others would storm the stadium with \"homemade bombs and an AR-15 [rifle].\"",
+   "image": "https://talksport.com/wp-content/uploads/2026/07/crop-4441950.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "TBSNEWS.NET",
-   "title": "Argentine football prez: Lionel Messi alone will decide when to retire",
-   "iso": "2026-08-08T12:20:00.000Z",
-   "link": "https://www.tbsnews.net/sports/football/argentine-football-prez-lionel-messi-alone-will-decide-when-retire-1509706",
-   "lede": "Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of the Argentina Football Association is not rushing the all-time great out the door. Claudio \"Chiqui\" ​Tapia said in an interview on Argentine TV that Messi is the only person ‌making the decision when to hang up his boots. \"It's a decision that is purely and personally his,\" Tapia said, according to a translation. \"You have to let him relax.",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_payment_means_bKash_Jul26/public/images/2022/11/22/dl.beatsnoop.com-3000-56des1hloo.jpg",
+   "cat": "BBC",
+   "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+   "iso": "2026-08-08T12:36:29.000Z",
+   "link": "http://www.bbc.com/news/articles/cd7l4e3v238o",
+   "lede": "Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit. But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable? In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet. The football World Cup was seen as the latest in a new strategy from firm, which believes that sport will not only survive the AI revolution, but grow in value.",
+   "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,27 +52,27 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "EN.PROTHOMALO.COM",
+   "cat": "AMMON NEWS",
+   "title": "Argentine football prez: Lionel Messi alone will decide when to retire",
+   "iso": "2026-08-08T11:02:32.000Z",
+   "link": "http://en.ammonnews.net/article/94068",
+   "lede": "Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of... Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of the Argentina Football Association is not rushing the all-time great out the door. Claudio Chiqui ​Tapia said in an interview on Argentine TV that Messi is the only person...",
+   "image": "http://en.ammonnews.net/image.php?token=503a18dd37f5d3d491a0831bdddd874e&c=3650231&size=xxlarge",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "PROTHOM ALO ENGLISH",
    "title": "Messi was target of bomb threats during World Cup, leaked FBI files reveal",
    "iso": "2026-08-08T10:58:38.000Z",
    "link": "https://en.prothomalo.com/sports/football/op6vvh6ax4",
    "lede": "A portion of the classified reports has been published by the investigative crime channel of Spain-based media outlet Prensa Ibérica. The documents, prepared jointly by the FBI and the International Police Cooperation Centre (IPCC), detail a series of security incidents involving footballers, coaches and match officials before and during the tournament. Among the players, Messi appears to have faced the most serious threats. One of the most alarming incidents occurred on the day of Argentina’s match against Jordan.",
    "image": "https://media.prothomalo.com/prothomalo-english%2F2026-08-08%2Fguoyn3d6%2Fmessi.avif?rect=0%2C42%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "INDIA TODAY",
-   "title": "Ranjit Bajaj or Bibiano Fernandes? India's World Cup dream needs a quick AIFF answer",
-   "iso": "2026-08-08T10:18:05.000Z",
-   "link": "https://www.indiatoday.in/sports/football/story/india-fifa-world-cup-u15-coach-ranjit-bajaj-bibiano-fernandes-aiff-2966499-2026-08-08",
-   "lede": "India have finally got the kind of opportunity their youth football system has been waiting for: a place at a FIFA World Cup. Yet, with the inaugural U-15 World Cup and Festival in Azerbaijan only months away, the biggest uncertainty around the team is not the players or the format, but who is actually going to run it.After previously announcing his will to reject the offer, Minerva Academy owner Ranjit Bajaj is now willing to take up the India U-15 manager’s role, but only if he is given complete charge. Bibiano Fernandes, meanwhile, is understood to have reservations about accepting the head coach’s position amid differences over the structure of the support staff and the appointment of the manager. What should have been a decision over the best footballing structure for a historic tournament has instead turned into a Bajaj versus Bibiano narrative.And that is the problem.",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/ranjit-bajaj-and-bibiano-fernandes-have-found-themselves-at-the-centre-of-uncertainty-over-indias-u-081143525-16x9_0.jpeg?VersionId=NhFTixWOIuHNKoL1b4RjV3_kOo1B1hH.",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NEWINDIANEXPRESS.COM",
+   "cat": "THE NEW INDIAN EXPRESS",
    "title": "Lionel Messi alone will decide when to retire: Argentina football chief",
    "iso": "2026-08-08T09:16:00.000Z",
    "link": "https://www.newindianexpress.com/amp/story/sport/football/2026/Aug/08/lionel-messi-alone-will-decide-when-to-retire-argentina-football-chief",
