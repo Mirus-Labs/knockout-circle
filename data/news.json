@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T05:06:10.484Z",
+ "updated": "2026-08-08T05:10:51.667Z",
  "news": [
   {
    "cat": "THE STRAITS TIMES",
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "USA TODAY",
-   "title": "Norwegian Football Federation president calls for Infantino to resign",
-   "iso": "2026-08-07T22:52:00.000Z",
-   "link": "https://www.usatoday.com/story/sports/soccer/2026/08/07/norway-fa-president-infantino-resign-fifa/91220109007/",
-   "lede": "Norway FA president Lise Klaveness has called on FIFA president Gianni Infantino to resign, saying there is no trust in his leadership, even after he walked back his plan to sell shares of the World Cup to private investors. Infantino unveiled the scheme, branded FIFA Forward Enterprise, shortly after a financially successful Men's World Cup in the United States, Mexico and Canada. But the idea generated a backlash, with UEFA threatening to boycott FIFA competitions - a threat still on the table even after Infantino withdrew the proposal and said Wednesday, August 5 that he apologized. But Klaveness said the apology didn't feel sincere, and the Norwegian Football Federation board is calling for the president to step down.",
-   "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/07/USAT/91221557007-gty-2288677948.jpg?crop=3935,2215,x0,y204&width=3200&height=1802&format=pjpg&auto=webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "PREMIUM TIMES NIGERIA",
    "title": "Infantile Infantino should exit for trying to sell the World Cup, By Owei Lakemfa",
    "iso": "2026-08-08T04:53:20.000Z",
    "link": "https://www.premiumtimesng.com/opinion/901430-infantile-infantino-should-exit-for-trying-to-sell-the-world-cup-by-owei-lakemfa.html",
    "lede": "The UEFA knockout punch was its decision to boycott FIFA if the Infantino team went ahead with its greedy plans.",
    "image": "https://media.premiumtimesng.com/wp-content/files/2023/04/Owei-Lakemfa.jpeg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "INDIA TODAY",
+   "title": "Lionel Messi target of bomb threat in chilling USA World Cup terror plot",
+   "iso": "2026-08-08T04:25:32.000Z",
+   "link": "https://www.indiatoday.in/sports/football/story/lionel-messi-fifa-world-cup-bomb-threats-police-dossier-terror-plans-2966287-2026-08-08",
+   "lede": "A Spanish outlet has revealed a series of chilling threats against Lionel Messi and other football stars during the 2026 FIFA World Cup in USA. The reports detail alleged bomb plots, stalking and thousands of threatening messages sent to players and officials.",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/lionel-messi-082445958-16x9_0.jpg?VersionId=vH93fzowe14Ll4Os5uom3_ym6akc4Bnr",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
