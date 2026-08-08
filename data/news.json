@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T09:01:43.254Z",
+ "updated": "2026-08-08T09:22:28.015Z",
  "news": [
   {
    "cat": "FOURFOURTWO",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "TBSNEWS.NET",
+   "cat": "THE BUSINESS STANDARD",
    "title": "Messi faced terror threats during Fifa World Cup 2026: Report",
    "iso": "2026-08-08T07:00:00.000Z",
    "link": "https://www.tbsnews.net/sports/football/messi-faced-terror-threats-during-fifa-world-cup-2026-1509411",
@@ -32,21 +32,22 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "GMA NETWORK",
-   "title": "Argentine football president: Lionel Messi alone will decide when to retire",
-   "iso": "2026-08-08T06:29:28.000Z",
-   "link": "https://www.gmanetwork.com/news/sports/football/997818/argentine-football-president-lionel-messi-alone-will-decide-when-to-retire/story/?amp",
-   "lede": "Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of the Argentina Football Association is not rushing the all-time great out the door. Claudio \"Chiqui\" Tapia said in an interview on Argentine TV that Messi is the only person making the decision when to hang up his boots. \"It's a decision that is purely and personally his,\" Tapia said, according to a translation. \"You have to let him relax.",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "KUWAIT TIMES",
    "title": "Call for Infantino to resign comes amid wave of support",
    "iso": "2026-08-08T06:25:14.000Z",
    "link": "https://kuwaittimes.com/article/47769/sports/call-for-infantino-to-resign-comes-amid-wave-of-support/",
    "lede": "PARIS: Beleaguered FIFA president Gianni Infantino has received some much-needed support after over a week of scathing criticism revolving around the now shelved private investment plan but there was again a call Friday for him to resign. The 56-year-old Italian-Swiss lawyer's position remains far from assured despite support from friends he has made during his 10 years in power, the Confederation of African Football (CAF) and leading figures in South American football. FIFA said it could raise up to $4.2 billion based on a valuation of $20 billion for a new commercial subsidiary, called the FIFA Forward Enterprise (FFE), which it proposed would run events such as the World Cup and Club World Cup. However, old ties have been cut loose.",
-   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/08/426809.jpg",
+   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/08/426808.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "NEWS18",
+   "title": "England's FIFA World Cup Player Charged With Assault",
+   "iso": "2026-08-08T06:05:00.000Z",
+   "link": "https://www.news18.com/sports/football/ivan-toney-englands-fifa-world-cup-player-charged-with-assault-london-nightclub-ws-l-10260593.html",
+   "lede": "England striker Ivan Toney has been charged with assault causing actual bodily harm following an alleged incident at a London nightclub last year, the Metropolitan Police confirmed on Friday. The 30-year-old forward, who currently plays for Saudi Pro League side Al-Ahli, is accused of being involved in an incident that allegedly took place at a nightclub on Wardour Street in Soho on December 6, 2025, according to the BBC. The Metropolitan Police said officers launched an investigation after receiving reports of an assault at the central London venue. Following the investigation, Toney was formally charged on July 31 and is due to appear before Westminster Magistrates’ Court on September 24.",
+   "image": "https://images.news18.com/ibnlive/uploads/2026/08/Ivan-Toney-reuters-2026-08-5d1dcdc056e07e48649938da10b3e33c-1200x675.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
@@ -61,7 +62,7 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "REDIFF",
+   "cat": "REDIFF.COM",
    "title": "Mexico, Argentina back Infantino amid FIFA World Cup rights row",
    "iso": "2026-08-08T04:36:33.000Z",
    "link": "https://www.rediff.com/sports/report/mexico-and-argentina-support-fifa-president-infantino-amid-world-cup-commercial-rights-controversy/20260808.htm",
