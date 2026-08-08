@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T05:57:55.780Z",
+ "updated": "2026-08-08T05:59:20.882Z",
  "news": [
   {
    "cat": "THE STRAITS TIMES",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "MALAYSIA-CHINA INSIGHT",
-   "title": "Norway Football Federation Calls on FIFA Chief to Resign Over Failed World Cup Plan",
-   "iso": "2026-08-08T02:06:04.000Z",
-   "link": "https://mcigroup.my/world-news/norway-football-federation-calls-on-fifa-chief-to-resign-over-failed-world-cup-plan/",
-   "lede": "ISTANBUL, Aug 8 – Norwegian Football Federation (NFF) President Lise Klaveness called on Friday for FIFA President Gianni Infantino to resign, saying he had lost the federation’s confidence, Anadolu Ajansi reported, citing media reports. “We decided that there is no trust in Infantino now,” Klaveness told The Guardian following the NFF’s monthly board meeting. “We have been worried consistently and there has been one more step in worrying direction every year, every part of the year. The trust is now gone for us, there is no way back for Infantino,” she said.",
-   "image": "https://mcigroup.my/wp-content/uploads/2026/08/Screenshot-2026-08-08-at-10.05.13%E2%80%AFAM.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "THE STRAITS TIMES",
    "title": "Lionel Messi alone will decide when to retire: Argentine football president",
    "iso": "2026-08-08T01:48:00.000Z",
    "link": "https://www.straitstimes.com/sport/football/lionel-messi-alone-will-decide-when-to-retire-argentine-football-president?ref=latest",
    "lede": "Messi would turn 43 years old during the 2030 World Cup. Especially after witnessing what Lionel Messi was still capable of at this summer’s World Cup, the president of the Argentina Football Association is not rushing the all-time great out the door. Claudio “Chiqui” Tapia said in an interview on Argentine TV uploaded on Aug 7 that Messi is the only person making the decision when to hang up his boots. “It’s a decision that is purely and personally his,” Tapia said, according to a translation.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bf06e60c57a52d6c280ad1fbb365f7aff9f16bd31aa6e15d2b64d6ec2b00a179",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
    "lede": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010. There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not even a fortnight ago, Gianni Infantino was taking his victory lap on Instagram, attacking “those behind their pens and papers, behind their screens spreading hate and false rumours” who had dared to question elements of his World Cup, which had generated a record $15bn in revenues. But the next day came the revelation of his plan to sell the World Cup to outside investors and a backlash that has him scrabbling to save his presidency.",
    "image": "https://i.guim.co.uk/img/media/05a8c2cbf08a0e008801a5c3c7c6c89e9c979f53/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9449afca87f3247b3d216807e7a6f02e",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "PREMIUM TIMES NIGERIA",
@@ -68,8 +58,8 @@
    "link": "https://www.premiumtimesng.com/opinion/901430-infantile-infantino-should-exit-for-trying-to-sell-the-world-cup-by-owei-lakemfa.html",
    "lede": "The UEFA knockout punch was its decision to boycott FIFA if the Infantino team went ahead with its greedy plans.",
    "image": "https://media.premiumtimesng.com/wp-content/files/2023/04/Owei-Lakemfa.jpeg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "INDIA TODAY",
@@ -78,6 +68,16 @@
    "link": "https://www.indiatoday.in/sports/football/story/lionel-messi-fifa-world-cup-bomb-threats-police-dossier-terror-plans-2966287-2026-08-08",
    "lede": "A Spanish outlet has revealed a series of chilling threats against Lionel Messi and other football stars during the 2026 FIFA World Cup in USA. The reports detail alleged bomb plots, stalking and thousands of threatening messages sent to players and officials.",
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/lionel-messi-082445958-16x9_0.jpg?VersionId=vH93fzowe14Ll4Os5uom3_ym6akc4Bnr",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Football is too powerful to have one king. It’s time to abolish the FIFA presidency",
+   "iso": "2026-08-08T04:12:15.000Z",
+   "link": "https://www.nytimes.com/athletic/7498726/2026/08/08/gianni-infantino-fifa-president-column/",
+   "lede": "Gianni Infantino seems to exist independently of FIFA rather than as an extension of it, doing with the game whatever he believes is right.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/07095402/GettyImages-805221736-scaled-e1786110913299.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
