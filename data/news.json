@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T16:39:00.773Z",
+ "updated": "2026-08-08T16:55:23.641Z",
  "news": [
   {
    "cat": "PUNCH NEWSPAPERS",
@@ -32,22 +32,22 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "BBC",
-   "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-   "iso": "2026-08-08T13:41:32.000Z",
-   "link": "https://www.bbc.com/news/articles/cd7l4e3v238o",
-   "lede": "Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit. But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable? In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet. The football World Cup was seen as the latest in a new strategy from the firm, which believes that sport will not only survive the AI revolution, but grow in value.",
-   "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "TALKSPORT",
    "title": "Lionel Messi subjected to World Cup murder threat, US authorities reveal",
    "iso": "2026-08-08T13:16:21.000Z",
    "link": "https://talksport.com/football/4499610/lionel-messi-world-cup-murder-threat-us-police-report/",
    "lede": "Spanish newspaper Marca has disclosed details from a chilling American police report, which lists all the security threats faced by the FBI and the International Police Cooperation Center (IPCC) this summer. According to the news outlet, Argentina superstar Messi received more threats than any other player throughout the tournament. The risk extended to his national teammates, with the report revealing one plot during their final group game against Jordan. One man is said to have rung up Dallas Airport and warned that he and two others would storm the stadium with \"homemade bombs and an AR-15 [rifle].\"",
    "image": "https://talksport.com/wp-content/uploads/2026/07/crop-4441950.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "BBC",
+   "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+   "iso": "2026-08-08T12:36:29.000Z",
+   "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
+   "lede": "Joshua Kushner runs the investment group behind the plan to buy a minority stake in the World Cup. Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit. But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable? In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
