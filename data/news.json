@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-08T14:36:14.003Z",
+ "updated": "2026-08-08T15:07:44.830Z",
  "news": [
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Pitso Mosimane Returns for Bafana Bafana Head Coach Role After Historic World Cup Campaign",
+   "iso": "2026-08-08T15:04:34.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/08/333750/pitso-mosimane-returns-for-bafana-bafana-head-coach-role-after-historic-world-cup-campaign/",
+   "lede": "Rabat - The South African Football Association (SAFA) National Executive Committee has approved the appointment of Pitso Mosimane as the new Bafana Bafana head coach, paving the way for his return to the national team more than a decade after his first spell in charge. SAFA confirmed the decision following an extraordinary NEC meeting held at SAFA House on Saturday, August 8, 2026. Danny Jordaan, the president of the South African Football Association (SAFA), said the NEC had backed Mosimane, although some administrative details still need to be completed before the appointment is formally announced. “The NEC has approved the appointment of coach Pitso to Bafana Bafana, but we still need to tie up some loose ends,” Jordaan said.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/Bafana-Bafana-new-coach-.webp",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "TALKSPORT",
    "title": "Lionel Messi subjected to World Cup murder threat, US authorities reveal",
@@ -8,26 +18,16 @@
    "link": "https://talksport.com/football/4499610/lionel-messi-world-cup-murder-threat-us-police-report/",
    "lede": "Spanish newspaper Marca has disclosed details from a chilling American police report, which lists all the security threats faced by the FBI and the International Police Cooperation Center (IPCC) this summer. According to the news outlet, Argentina superstar Messi received more threats than any other player throughout the tournament. The risk extended to his national teammates, with the report revealing one plot during their final group game against Jordan. One man is said to have rung up Dallas Airport and warned that he and two others would storm the stadium with \"homemade bombs and an AR-15 [rifle].\"",
    "image": "https://talksport.com/wp-content/uploads/2026/07/crop-4441950.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "BBC",
    "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
    "iso": "2026-08-08T12:36:29.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o",
-   "lede": "Joshua Kushner runs the investment group behind the plan to buy a minority stake in the World Cup. Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit. But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable? In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE BUSINESS STANDARD",
-   "title": "Argentine football prez: Lionel Messi alone will decide when to retire",
-   "iso": "2026-08-08T12:20:00.000Z",
-   "link": "https://www.tbsnews.net/sports/football/argentine-football-prez-lionel-messi-alone-will-decide-when-retire-1509706?amp",
-   "lede": "Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of the Argentina Football Association is not rushing the all-time great out the door. Claudio \"Chiqui\" ​Tapia said in an interview on Argentine TV that Messi is the only person ‌making the decision when to hang up his boots. \"It's a decision that is purely and personally his,\" Tapia said, according to a translation. \"You have to let him relax.",
-   "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_payment_means_bKash_Jul26/public/images/2022/11/22/dl.beatsnoop.com-3000-56des1hloo.jpg",
+   "link": "http://www.bbc.com/news/articles/cd7l4e3v238o",
+   "lede": "Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit. But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable? In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet. The football World Cup was seen as the latest in a new strategy from firm, which believes that sport will not only survive the AI revolution, but grow in value.",
+   "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,31 +52,32 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "AMMON NEWS",
+   "title": "Argentine football prez: Lionel Messi alone will decide when to retire",
+   "iso": "2026-08-08T11:02:32.000Z",
+   "link": "http://en.ammonnews.net/article/94068",
+   "lede": "Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of... Especially after witnessing what Lionel Messi was still capable of at this summer's World Cup, the president of the Argentina Football Association is not rushing the all-time great out the door. Claudio Chiqui ​Tapia said in an interview on Argentine TV that Messi is the only person...",
+   "image": "http://en.ammonnews.net/image.php?token=503a18dd37f5d3d491a0831bdddd874e&c=3650231&size=xxlarge",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "PROTHOM ALO ENGLISH",
    "title": "Messi was target of bomb threats during World Cup, leaked FBI files reveal",
    "iso": "2026-08-08T10:58:38.000Z",
    "link": "https://en.prothomalo.com/sports/football/op6vvh6ax4",
    "lede": "A portion of the classified reports has been published by the investigative crime channel of Spain-based media outlet Prensa Ibérica. The documents, prepared jointly by the FBI and the International Police Cooperation Centre (IPCC), detail a series of security incidents involving footballers, coaches and match officials before and during the tournament. Among the players, Messi appears to have faced the most serious threats. One of the most alarming incidents occurred on the day of Argentina’s match against Jordan.",
    "image": "https://media.prothomalo.com/prothomalo-english%2F2026-08-08%2Fguoyn3d6%2Fmessi.avif?rect=0%2C42%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW INDIAN EXPRESS",
-   "title": "Lionel Messi alone will decide when to retire: Argentina football chief",
-   "iso": "2026-08-08T09:16:00.000Z",
-   "link": "https://www.newindianexpress.com/amp/story/sport/football/2026/Aug/08/lionel-messi-alone-will-decide-when-to-retire-argentina-football-chief",
-   "lede": "BUENOS AIRES: Especially after witnessing what Lionel Messi was still capable of at this summer’s World Cup, the president of the Argentina Football ​Association is not rushing the all-time great out the door.Claudio “Chiqui” Tapia said in ‌an interview on Argentine TV that Messi is the only ​person making the decision when to hang up ⁠his boots.“. It’s a decision that is purely and personally his,” Tapia said, according to a translation.“. You have to let him relax. In 2022, we didn’t ‌know if he’d play in 2026.",
-   "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-08%2Fwh2efttm%2F2286949140.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "INSIDE THE GAMES",
-   "title": "FIFA divided over leadership, World Cup future",
-   "iso": "2026-08-08T14:23:25.000Z",
-   "link": "https://www.insidethegames.biz/articles/fifa-divided-over-leadership-world-cup-future",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Lionel Messi’s father dies aged 68 after a long illness",
+   "iso": "2026-08-08T14:37:19.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness",
+   "lede": "Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7738359b5e-1786198069.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
