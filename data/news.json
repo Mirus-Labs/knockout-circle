@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T08:00:42.335Z",
+ "updated": "2026-08-08T08:22:05.037Z",
  "news": [
   {
    "cat": "TBSNEWS.NET",
@@ -26,7 +26,7 @@
    "iso": "2026-08-08T06:25:14.000Z",
    "link": "https://kuwaittimes.com/article/47769/sports/call-for-infantino-to-resign-comes-amid-wave-of-support/",
    "lede": "PARIS: Beleaguered FIFA president Gianni Infantino has received some much-needed support after over a week of scathing criticism revolving around the now shelved private investment plan but there was again a call Friday for him to resign. The 56-year-old Italian-Swiss lawyer's position remains far from assured despite support from friends he has made during his 10 years in power, the Confederation of African Football (CAF) and leading figures in South American football. FIFA said it could raise up to $4.2 billion based on a valuation of $20 billion for a new commercial subsidiary, called the FIFA Forward Enterprise (FFE), which it proposed would run events such as the World Cup and Club World Cup. However, old ties have been cut loose.",
-   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/08/426809.jpg",
+   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/08/426808.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -41,14 +41,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "REDIFF",
+   "title": "Mexico, Argentina back Infantino amid FIFA World Cup rights row",
+   "iso": "2026-08-08T04:36:33.000Z",
+   "link": "https://www.rediff.com/sports/report/mexico-and-argentina-support-fifa-president-infantino-amid-world-cup-commercial-rights-controversy/20260808.htm",
+   "lede": "Mexico and Argentina's football associations have publicly declared their support for FIFA President Gianni Infantino, even as he faces widespread criticism and a fierce backlash over a now-abandoned proposal to sell off some of the commercial rights to the World Cup. Mexico and Argentina's football associations have thrown their support behind FIFA President Gianni Infantino, as the world soccer chief faces a fierce backlash over a now-abandoned proposal to sell off some of the commercial rights to the World Cup. The Mexican Football Federation (FMF), co-hosts of the recently concluded World Cup, has broken ranks with its own regional confederation by backing Infantino after CONCACAF called for a \"comprehensive reckoning\" with his presidency.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/aug/07infantino.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE STRAITS TIMES",
    "title": "South Korea’s football association apologises, vows ‘sweeping reform’ after World Cup debacle",
    "iso": "2026-08-08T04:30:00.000Z",
    "link": "https://www.straitstimes.com/sport/football/south-koreas-football-association-apologises-vows-sweeping-reform-after-world-cup-debacle",
    "lede": "The association has been engulfed in a widening crisis since South Korea’s disappointing 2026 World Cup campaign. SEOUL – The Korea Football Association (KFA) formally apologised to football fans and officials and pledged sweeping reforms on Aug 8 as controversies over its governance and alleged misconduct continued to mount. The fallout has included the first National Assembly hearing on the KFA, a police raid and newly surfaced allegations involving sexual entertainment for foreign referees and match officials more than a decade ago. The KFA’s governance and management came under scrutiny at the National Assembly hearing on July 30, which examined, among other issues, the contentious appointments of former national team coaches Hong Myung-bo and Jurgen Klinsmann.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8d430038baa3e68a2e05aaca0f48faea3f65c03dcbc0b420b2fd63181df283ed",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "NEWS18",
@@ -57,8 +67,8 @@
    "link": "https://www.news18.com/sports/football/will-blow-up-messi-with-four-bombs-dossier-reveals-chilling-fifa-world-cup-plot-targeting-argentine-star-ws-kl-10260363.html",
    "lede": "Argentine captain Lionel Messi was among the footballers singled out in a series of serious security threats during the recent FIFA World Cup 2026 that was co-hosted by Canada, Mexico and USA. Citing a police dossier detailing incidents that they monitored during the tournament, a report claimed there were threats against players, officials and their families, with Messi reportedly facing some of the most specific threats recorded. One threat involved a caller who allegedly told authorities that he and two other people were travelling to the stadium in Dallas carrying homemade bombs and an AR-15 rifle. The caller reportedly said the intended targets included police officers and players from both teams, while specifically naming Messi.",
    "image": "https://images.news18.com/ibnlive/uploads/2026/08/lionel-messi-AP-12-2026-08-e7366b0dfbec65b6d4b1df8c3c1b8f6c-1200x675.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THEMARYSUE.COM",
@@ -67,16 +77,6 @@
    "link": "https://www.themarysue.com/from-bomb-threats-against-messi-to-a-ronaldo-hotel-breach-a-secret-dossier-reveals-how-close-the-world-cup-came-to-being-a-catastrophe/",
    "lede": "From bomb threats targeting Lionel Messi to a stalker breaching Cristiano Ronaldo’s hotel, a leaked police dossier has exposed just how close the 2026 FIFA World Cup came to disaster. According to The Sun, the chilling document, obtained by Informacion.es, reveals a wave of terror plots, death threats, and security breaches that turned the tournament into a high-stakes game of cat-and-mouse with extremists, overzealous fans, and even disgruntled referees. The most alarming threats centered on Argentina’s national team, with Messi bearing the brunt. Before Argentina’s match against Jordan, a man called Dallas airport and declared he and two accomplices would storm the stadium armed with “homemade bombs and an AR-15.”",
    "image": "https://www.themarysue.com/wp-content/uploads/2026/08/CC-Lionel-Messi-during-Argentina-vs-Spain-at-the-2026-FIFA-World-Cup-Final-on-July-19-2026.jpg?fit=1200%2C675",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MALAYSIA-CHINA INSIGHT",
-   "title": "Norway Football Federation Calls on FIFA Chief to Resign Over Failed World Cup Plan",
-   "iso": "2026-08-08T02:06:04.000Z",
-   "link": "https://mcigroup.my/world-news/norway-football-federation-calls-on-fifa-chief-to-resign-over-failed-world-cup-plan/",
-   "lede": "ISTANBUL, Aug 8 – Norwegian Football Federation (NFF) President Lise Klaveness called on Friday for FIFA President Gianni Infantino to resign, saying he had lost the federation’s confidence, Anadolu Ajansi reported, citing media reports. “We decided that there is no trust in Infantino now,” Klaveness told The Guardian following the NFF’s monthly board meeting. “We have been worried consistently and there has been one more step in worrying direction every year, every part of the year. The trust is now gone for us, there is no way back for Infantino,” she said.",
-   "image": "https://mcigroup.my/wp-content/uploads/2026/08/Screenshot-2026-08-08-at-10.05.13%E2%80%AFAM.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
