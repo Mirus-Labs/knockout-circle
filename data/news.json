@@ -1,15 +1,35 @@
 {
- "updated": "2026-08-08T23:07:35.553Z",
+ "updated": "2026-08-08T23:46:10.210Z",
  "news": [
+  {
+   "cat": "SBS",
+   "title": "New claims against Infantino deepen a turbulent period for world football's governing body",
+   "iso": "2026-08-08T23:31:02.000Z",
+   "link": "https://www.sbs.com.au/news/article/new-claims-against-infantino-deepen-turbulent-period-world-football-governing-body/mgf3sexwc",
+   "lede": "According to The Telegraph, the Italian-Swiss lawyer, who served as secretary general of European football's governing body from 2009 to 2016, also previously used his influence to secure a promotion for the same UEFA employee with whom he was in an intimate relationship. Infantino has categorically denied the allegations, according to the article, which was published on Saturday. When contacted by the Agence France-Presse (AFP) news agency on Saturday, a FIFA spokesperson had not responded. According to The Telegraph, which did not cite its sources, this employee received a \"six-figure sum\" upon her departure — at an unspecified time — in addition to the payment of tuition fees for a business school amounting to around £45,000 (AU$86,000).",
+   "image": "https://assets.sbs.com.au/dims4/default/c232bd6/2147483647/strip/true/crop/6708x3773+1+162/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F2c%2Fd8%2Fca5c045a48c7b31ef89556a33dcb%2F20260808162846149710-original.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FOX SPORTS",
    "title": "‘Will not tolerate’: FIFA dig heels in as feisty statement fires back at president’s enemies",
-   "iso": "2026-08-08T23:05:05.000Z",
+   "iso": "2026-08-08T23:06:31.000Z",
    "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-fifa-respond-to-efforts-to-oust-president-gianni-infantino-in-feisty-statement-alleged-affair-during-time-at-uefa-support-from-african-and-south-american-federations-latest-news/news-story/64ed2d1eadbd15363b5e67e058308829",
    "lede": "FIFA have condemned efforts to oust Gianni Infantino as the governing body’s president in a statement released in response to allegations of an affair with a colleague during Infantino’s time as UEFA’s secretary-general. A FIFA spokesperson told the Telegraph, who originally reported the details of the alleged affair, promotion to a managerial role, six-figure sum payout upon departure and payment for business school, that Infantino “strongly denies” the allegations and that they are “categorically untrue”. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. The organisation went a step further on Saturday with a feisty statement targeting what it claims are “unsubstantiated assertions and demonstrably false claims” about Infantino.",
    "image": "https://content.api.news/v3/images/bin/c4b4868a72bb85caa4e033e1e961c7a9",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "ARAB NEWS PK",
+   "title": "Morocco, Algeria reach WAFCON semis, book World Cup spots",
+   "iso": "2026-08-08T22:10:27.000Z",
+   "link": "https://www.arabnews.pk/node/2653935/football",
+   "lede": "JOHANNESBURG: A triumphant night for north Africa ended Saturday with hosts Morocco and Algeria reaching the Women’s Africa Cup of Nations (WAFCON) semifinals and securing places at next year’s Women’s World Cup in Brazil. They took contrasting paths to quarter-final success, with Morocco building a two-goal lead before defending resolutely against South Africa for a 2-1 victory in Rabat, while Algeria came from behind against Ivory Coast in Casablanca to win by the same scoreline. The four WAFCON semifinalists qualify automatically for the World Cup, which will be held from June 24 to July 25, 2027. For Algeria, the victory secured a historic first appearance at the women’s World Cup.",
+   "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/08/4739141-2127875438.jpg?itok=N4HoTHKV",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "STARNEWSKOREA.COM",
@@ -18,8 +38,8 @@
    "link": "https://www.starnewskorea.com/en/sports/2026/08/09/2026080906475410577",
    "lede": "'God of Football' Lionel Messi (39, Inter Miami)'s father and long-time supporter, Jorge Messi, has passed away at the age of 68. According to Argentine media outlets Clarin and Infobae on the 8th (local time), Jorge Messi died in a hospital in Rosario, Argentina, after battling a chronic illness for a long time. He was more than just a father; he was the person who raised Messi into the world's best soccer player. In 2000, at age 13 when Messi required growth hormone treatment, Jorge traveled directly to Spain to secure Messi's signing and support contract with FC Barcelona.",
    "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=800,fit=cover,q=high,sharpen=2/21/2026/08/2026080906475410577_3.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "STARNEWSKOREA.COM",
@@ -28,8 +48,8 @@
    "link": "https://www.starnewskorea.com/en/sports/2026/08/09/2026080817411722266",
    "lede": "This is an unprecedented international disgrace. Shocking revelations that the former Korea Football Association (KFA) provided sexual favors to foreign referees during international matches have drawn intense attention from overseas media outlets. On the 7th, Japanese outlet \"Tokyo Sports\" focused heavily on the issue, reporting, \"It has been confirmed that the Korea Football Association provided sexual favors to foreign referees, sparking widespread controversy.\" The outlet added, \"On social networking services (SNS), reactions such as 'Investigate this incident thoroughly,' 'As we feared,' and 'Didn't there also be referee-related misconduct during the 2002 World Cup?'",
    "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=803,fit=cover,q=high,sharpen=2/21/2026/08/2026080817411722266_4.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GOAL.COM",
@@ -38,8 +58,8 @@
    "link": "https://www.goal.com/en/news/mosimane-takes-charge-of-a-world-cup-national-team/blte0171b61b72e7eb7",
    "lede": "South Africa's National Executive Committee has approved the return of Pitso Mosimane to lead the Bafana Bafana national team, following the departure of Hugo Broos. Africa Soccer reported that the committee settled the decision during an extraordinary meeting at the football association's headquarters. Mosimane won strong backing to return and succeed Broos, who announced his exit from the head coach role last month after leading Bafana Bafana to the round of 32 at the 2026 World Cup. South African Football Association president Danny Jordaan said a few final matters still needed sorting before the appointment becomes official.",
    "image": "https://assets.goal.com/images/v3/getty-1241008185/crop/MM5DCNJVGI5DQNZTHJXG653FHIZTOMZ2HA2A====/GettyImages-1241008185.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -48,8 +68,8 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-alumni/238896/bayern-munich-legend-thomas-muller-thinks-mls-has-gained-prestige-because-of-the-world-cup",
    "lede": "In his personal monthly newspaper, Bayern Munich legend Thomas Müller spoke about the upcoming MLS season and what he’s been focused on these last few weeks. In it, he included hope that the World Cup and an influx of new star players has helped MLS raise its profile on the global stage. “I’m really burning to be on the pitch for 90 minutes regularly and help my lads with everything I’ve got,” wrote Müller. “We have six games in three weeks.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2288231732.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MARCA",
@@ -58,26 +78,6 @@
    "link": "https://amp.marca.com/en/football/spanish-football/2026/08/08/world-cup-winner-gavi-surprises-barcelona-fans-with-bold-new-look-ahead-of-new-season.html",
    "lede": "FC Barcelona fans were already eager to see Gavi back on the training ground after his World Cup triumph with Spain national football team, but the young midfielder gave supporters another reason to talk this week by unveiling a striking new look as preparations for the season intensify. Barcelona held another training session Friday at the Ciutat Esportiva Joan Gamper, the club’s final workout before traveling to Udine for Saturday’s triangular tournament. While much of the attention was on tactics and squad readiness, Gavi’s refreshed appearance quickly became a major talking point among fans and Spanish media. The 22-year-old recently returned from vacation following Spain’s World Cup victory and only resumed training this week.",
    "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/08/6a774ca83c4ba.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SPORTSGRID",
-   "title": "FIFA World Cup Revenue Hits $15 Billion, Doubles Games",
-   "iso": "2026-08-08T16:37:13.000Z",
-   "link": "https://www.sportsgrid.com/soccer/video/fifa-world-cup-revenue-hits-15-billion-doubles-games",
-   "lede": "FIFA is about to announce a significant increase in revenue for the latest World Cup cycle, totaling an impressive $15 billion. This amount not only doubles the revenue from previous cycles but also significantly exceeds the projected $11 billion. The surge in revenue highlights the robust health and ongoing expansion of global football. In light of this financial success, the Women’s World Cup slated for 2031 will expand its format, increasing from 32 to 48 teams.",
-   "image": "https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/thumnbail-webp/video/155701-1920x1080.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "PUNCH NEWSPAPERS",
-   "title": "Messi Targeted in Bomb Threats During World Cup – Report",
-   "iso": "2026-08-08T15:58:25.000Z",
-   "link": "https://punchng.com/messi-targeted-in-bomb-threats-during-world-cup-report/",
-   "lede": "Argentina's forward #10 Lionel Messi has tears in his eyes as celebrates winning the 2026 World Cup round of 16 football match between Argentina and Egypt at Atlanta Stadium in Atlanta on July 7, 2026. (Photo by Odd ANDERSEN / AFP). A police report has uncovered a plot to assassinate Argentine football icon, Lionel Messi, during the 2026 FIFA World Cup hosted by the United States, Mexico and Canada, according to Spanish newspaper MARCA. According to the report, several suspects allegedly threatened to detonate explosives and storm stadiums where Messi was playing.",
-   "image": "https://punchng.com/wp-content/uploads/2026/07/AFP__20260708__B9JU2GZ__v1__Mockup__FblWc2026Match95ArgEgy_1783492063-1200x630.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
