@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T19:50:37.966Z",
+ "updated": "2026-08-09T20:37:58.380Z",
  "news": [
   {
    "cat": "DAILY STAR",
@@ -12,24 +12,44 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "BBC",
+   "title": "Arsenal 2-3 Borussia Dortmund: Arsenal lose to Borussia Dortmund as Odegaard returns",
+   "iso": "2026-08-09T16:45:32.000Z",
+   "link": "https://www.bbc.com/sport/football/live/ck79g7p232jvt",
+   "lede": "Summer signing Christos Tzolis had a hand in both Arsenal goals. Arsenal returned to Emirates Stadium for the first time since they were crowned Premier League champions but were defeated 3-2 by Borussia Dortmund in the Emirates Cup. Samuele Inacio opened the scoring with a neat finish before Konstantino Karetsas curled in an excellent second. Substitute Ethan Nwaneri pulled one back for Arsenal after some good work from Christos Tzolis.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57f7/live/4bd04110-9406-11f1-a7ab-8b30adf0800a.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "YAHOO SPORTS",
    "title": "Ranking the 10 best footballers in the world right now",
    "iso": "2026-08-09T16:20:00.000Z",
    "link": "https://sports.yahoo.com/articles/ranking-10-best-footballers-world-162000017.html",
    "lede": "The 2026 World Cup was a tournament where the game's true superstars stood up to be counted. Football's biggest names all spent time in the spotlight in North America, so what better time to take stoc... Football's biggest names all spent time in the spotlight in Nort...",
    "image": "https://s.yimg.com/lo/mysterio/api/6db3a5eae7c1493072bcfb535983bdd7d9b13baa9463abd531bc2744e99957f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_muse_articles_776%2Fd0d8b76c7b5333920d3dec99d65b25ff",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "FREE MALAYSIA TODAY",
+   "cat": "THE SUN",
+   "title": "England World Cup hero Jude Bellingham watches from stands as brother Jobe takes on Arsenal in pre-season battle",
+   "iso": "2026-08-09T16:01:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40009908/jude-bellingham-jobe-arsenal-borussia-dortmund-real-madrid/",
+   "lede": "ENGLAND superstar Jude Bellingham was spotted watching his brother Jobe Bellingham and former club Borussia Dortmund take on Arsenal. Dortmund defeated Arsenal 3-2 in a blockbuster pre-season friendly at the Emirates. And Jude, 23, made his presence known in the VIP section of the Gunners’ stadium keeping an eye on the action. The versatile midfielder got to see Jobe, 20, starting for BVB and playing the entirety of the game against the Premier League champions.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/AH-OP-JUDE-BELLINGHAM-ARSENAL.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "FREEMALAYSIATODAY.COM",
    "title": "Infantino’s era is over, says La Liga boss as pressure mounts on Fifa",
    "iso": "2026-08-09T15:48:59.000Z",
    "link": "https://www.freemalaysiatoday.com/category/sports/2026/08/09/infantino-s-era-is-over-says-la-liga-boss-as-pressure-mounts-on-fifa",
    "lede": "Associations such as Uefa and the Football Association have called for Gianni Infantino to resign as Fifa president. (EPA Images pic) LONDON: La Liga president Javier Tebas claims Gianni Infantino is “destroying the very essence” of football and believes his time as Fifa president has come to an end, PA Media/dpa reported. Infantino has faced criticism following his failed plan to seek private investment in a company which would run Fifa’s competitions and sell stakes in the World Cup to private investors. Fifa then revealed it “will not proceed” with plans, and Infantino on Wednesday apologised to national associations over how the plan was developed.",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/ec453c37-world-cup-gianni-infantino.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -38,18 +58,18 @@
    "link": "https://www.moroccoworldnews.com/2026/08/333837/vilda-moroccos-world-cup-qualification-is-the-result-of-a-womens-football-project/",
    "lede": "Rabat - Morocco women’s national team coach Jorge Vilda has hailed the country’s long-term investment in women’s football after the Atlas Lionesses qualified for the 2027 FIFA Women’s World Cup in Brazil. Morocco booked their place at the global tournament by reaching the semi-finals of the 2026 Women’s Africa Cup of Nations (WAFCON), following a 2-1 victory over South Africa on Saturday in Rabat. Speaking at the post-match press conference, Vilda said World Cup qualification had been one of the team’s main objectives from the beginning of the competition, describing the achievement as the result of the development project implemented by the Royal Moroccan Football Federation (FRMF). He stressed that the qualification was not the product of chance, but rather the outcome of sustained work and planning aimed at developing women’s football in Morocco.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/joge-vilda.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "CAFONLINE.COM",
-   "title": "Faith Chinzimu relishing Malawi’s rise",
-   "iso": "2026-08-09T13:10:57.000Z",
-   "link": "https://www.cafonline.com/caf-womens-africa-cup-of-nations/news/faith-chinzimu-relishing-malawi-s-rise/",
-   "lede": "Malawi have taken the TotalEnergies Women’s Africa Cup of Nations 2026 by storm. The Scorchers, who are competing at the continental stage for the very first time since the tournament was created in 1998, mean business. A historic feat in their opener saw them stun record 10-time winners and reigning champions Nigeria 3-2 and since then, it has been a roller coaster. With these three points, they continued to believe that anything is possible.",
-   "image": "https://www.cafonline.com//media/5hfh0seh/dsc08116.jpg?width=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "cat": "BBC",
+   "title": "Manchester City 3-1 Atletico Madrid: Marmoush double helps Enzo Maresca's side secure win",
+   "iso": "2026-08-09T13:17:33.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c980ge2kzzko",
+   "lede": "Omar Marmoush played in all five of Egypt's matches in the World Cup, with his country losing to Argentina in the last 16. Omar Marmoush scored twice in a three-minute spell in the second half as Manchester City came from behind to beat Atletico Madrid in a friendly in Seoul, South Korea. The Spanish side took the lead just before half-time when City failed to properly clear Koke's corner and Morten Hjulmand set up 16-year-old Jorge Dominguez, who shot past goalkeeper Gianluigi Donnarumma. But City equalised in the 57th minute.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fd1/live/5e711330-93f7-11f1-a10f-45ed743c6e4b.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "WION",
@@ -58,26 +78,6 @@
    "link": "https://www.wionews.com/videos/maradona-s-hand-of-god-ball-to-be-auctioned-iconic-1986-world-cup-ball-could-fetch-10-million-1786273247168",
    "lede": "Diego Maradona’s legendary “Hand of God” match ball from the 1986 FIFA World Cup quarterfinal between Argentina and England is set to go under the hammer in the United States this month. Heritage Auctions is scheduled to auction the iconic football from August 21 to 23, with an opening bid of $2.5 million. The auction house reportedly expects the historic ball to fetch around $10 million or more. The ball has been authenticated through photo matching, including detailed analysis of video footage and still images from the famous Argentina-England clash.",
    "image": "https://www.wionews.com/videos/maradona-s-hand-of-god-ball-to-be-auctioned-iconic-1986-world-cup-ball-could-fetch-10-million-1786273247168",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Fouzi Lekjaa and the ‘World Cup 2030 Government’: From Pitch to Premiership",
-   "iso": "2026-08-09T10:06:29.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/08/333806/fouzi-lekjaa-and-the-world-cup-2030-government-from-pitch-to-premiership/",
-   "lede": "This past July 25, Fouzi Lekjaa — Morocco's Minister Delegate for the Budget and, since 2014, president of the Royal Moroccan Football Federation (RMFF) — formally joined the Party of Authenticity and Modernity (PAM) , taking an immediate seat on its Political Bureau . PAM's national coordinator Fatima-Zahra El Mansouri announced the news during the party's National Council in Salé, ending weeks of speculation and instantly becoming one of the most consequential political stories of Morocco's pre-electoral season. It arrived seven weeks before the legislative elections of 23 September 2026, which PAM has openly declared its ambition to finish first. Le Monde captured the moment by describing Lekjaa as \"putting on the suit of a prime-ministerial contender,\" and Moroccan outlets have floated the idea, however speculative, of a future \"World Cup 2030 government\" led by the FRMF chief.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-09-at-10.53.18-AM.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "LEADERSHIP.NG",
-   "title": "Super Falcons’ World Cup Dream Shattered As Cameroon End WAFCON Title Defence",
-   "iso": "2026-08-09T19:17:52.000Z",
-   "link": "https://leadership.ng/super-falcons-world-cup-dream-shattered-as-cameroon-end-wafcon-title-defence/",
-   "lede": "Nigeria’s Super Falcons suffered a devastating 1-0 defeat to Cameroon’s Lionesses in the quarter-finals of the Women’s Africa Cup of Nations, ending their.",
-   "image": "https://leadership.ng/wp-content/uploads/2026/08/IMG_1363.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
