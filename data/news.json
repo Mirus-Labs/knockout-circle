@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T11:15:21.946Z",
+ "updated": "2026-08-09T11:48:09.462Z",
  "news": [
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "365SCORES",
+   "title": "Heartbreak for the GOAT: The Football World Mourns the Loss of Jorge Messi",
+   "iso": "2026-08-09T07:48:42.000Z",
+   "link": "https://www.365scores.com/news/heartbreak-for-the-goat-the-football-world-mourns-the-loss-of-jorge-messi",
+   "lede": "The footballing world stood still this week as news broke from Rosario, Argentina. Jorge Messi, the father, agent, and guiding light behind the greatest career in soccer history, passed away early Saturday morning at the age of 68. As the man who envisioned the genius of Lionel Messi before the world ever saw him touch a ball, Jorge’s passing represents a profound personal loss for the Messi family and marks the end of an era for the sport. For Lionel Messi, Jorge was far more than just a father.",
+   "image": "https://www.365scores.com/news/wp-content/uploads/2026/08/breaking_news_Leo_Messis_father_Jorge_has_passed_away_at_the_age-e1786260093255.png",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE KOREA TIMES",
    "title": "Sexual favor scandal revives doubts over Korea's historic 2002 World Cup semifinal run",
    "iso": "2026-08-09T06:50:04.000Z",
    "link": "https://www.koreatimes.co.kr/sports/20260809/sexual-favor-scandal-revives-doubts-over-koreas-historic-2002-world-cup-semifinal-run",
    "lede": "Police officers leave the Korea Football Association (KFA) headquarters in Seoul, Friday, after searching the office to investigate whether KFA executives unlawfully intervened in the hiring process of former national team head coach Hong Myung-bo. Yonhap The disclosure of the national football association’s alleged provision of sexual entertainment to foreign referees between 2011 and 2012 is expanding beyond national disgrace toward doubts over the legitimacy of Korea’s landmark 2002 World Cup semifinal advancement. It has revived the 24-year-old suspicions that the Korean national team had been favored during the World Cup matches and thus gained the exceptional result, although there were no grounds to back the suspicion of any illegality involved.",
    "image": "https://newsimg.koreatimes.co.kr/2026/08/09/94798b1f-f1c4-4526-bfc7-74af5b2b5078.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE KOREA TIMES",
@@ -38,8 +48,8 @@
    "link": "https://www.koreatimes.co.kr/amp/opinion/editorial/20260809/ed-korean-football-needs-reckoning-not-another-apology",
    "lede": "The area around Korea Football Park in Cheonan, South Chungcheong Province, was quiet Thursday as police conducted a search and seizure of the Korea Football Association. Police began the operation at about 9 a.m., sending all employees outside. Yonhap The Korea Football Association (KFA) has apologized. Following Korea’s disappointing 2026 World Cup campaign, a parliamentary hearing, a police search of KFA headquarters and renewed scrutiny of long-buried allegations, the KFA has acknowledged that public trust in the institution has been badly damaged.",
    "image": "https://newsimg.koreatimes.co.kr/2026/08/09/67e0a51e-77de-4f99-9172-b28d4f68255f.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "EDEXLIVE",
@@ -48,16 +58,6 @@
    "link": "https://www.edexlive.com/news/infantino-admits-world-cup-sell-off-errors-but-wins-full-backing-to-stay-fifa-president",
    "lede": "Rabat (IANS): Gianni Infantino admitted mistakes were made in the process of trying to sell off the World Cup to private investment and apologised for \"errors\" he made, but the senior executives \"reaffirmed their full support\" for him to remain FIFA president after a crisis meeting in Morocco. . Infantino was forced to withdraw his plan to create FIFA Forward Enterprise (FFE), a company to run the commercial and operational aspects of FIFA's tournaments, after it triggered widespread opposition from UEFA, Concacaf, the Asian Football Confederation (AFC) and several national associations, as well as criticism from within FIFA.. Secretary general Mattias Grafstrom, who was at Wednesday's meeting, wrote in an internal memo sent to Fifa staff on Tuesday that the situation is \"a sad and reproachable series of events\"..",
    "image": "https://cf-images.assettype.com/edexlive%2F2026-08-01%2Fza5l8nxa%2F202607073854463.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "NEWS.INBOX.LV",
-   "title": "Tragedy Beyond Football: Lionel Messi's Father Passes Away, Causing Him to Cry at the World Cup",
-   "iso": "2026-08-09T06:00:12.000Z",
-   "link": "https://news.inbox.lv/150lppu-tragedy-beyond-football-lionel-messi-s-father-passes-away-causing-him-to-cry-at-the-world-cup?language=en&source=portal",
-   "lede": "The health problems of Jorge Messi became known during the 2026 FIFA World Cup. In June, the family reported that he was undergoing treatment and was under medical supervision. At that time, relatives noted that his condition was improving and requested respect for the family's right to privacy. It was during that period that Lionel Messi could not hold back tears after the Argentina national team's match against Algeria.",
-   "image": "https://news.inbox.eu/w/img/d7/25/d72525d24d7b1bd0fd.webp",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
