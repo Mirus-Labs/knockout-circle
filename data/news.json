@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T17:50:02.625Z",
+ "updated": "2026-08-09T18:14:37.753Z",
  "news": [
   {
    "cat": "DAILY STAR",
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THENATIONALNEWS.COM",
-   "title": "Morocco and Algeria qualify for 2027 Women’s World Cup",
-   "iso": "2026-08-09T12:06:32.000Z",
-   "link": "https://www.thenationalnews.com/sport/football/2026/08/09/morocco-and-algeria-qualify-for-2027-womens-world-cup/",
-   "lede": "Algeria earned a historic first-time qualification for the Fifa Women’s World Cup, while Morocco punched their ticket to the quadrennial showpiece for a second consecutive time, thanks to their quarter-final victories in the Women's Africa Cup of Nations on Saturday. The Fennecs erased the heartbreak of their Wafcon quarter-final exit against Ghana on penalties from 12 months ago by defeating Ivory Coast 2-1 at Moulay Rachid Stadium in Casablanca on Saturday. Second-half goals from Ines Khiri and Amira Ould Braham cancelled Ivory Coast’s early lead via Ines Konan to send Algeria to the final four of the continental competition for the first time, where they will face Malawi or Ghana on Wednesday in Rabat. All four Wafcon semi-finalists gain automatic qualification to next year’s World Cup in Brazil.",
-   "image": "https://www.thenationalnews.com/resizer/v2/WZGS5ZH3GRGVGW7WNZLWXIZK3Y.jpg?smart=true&auth=f71158b9da5a0386465cfbbb928110cd8ebde867d38a585f8bb5c54e9969b6a5&width=1200&height=630",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "WION",
    "title": "Maradona’s ‘Hand of God’ Ball to Be Auctioned | Iconic 1986 World Cup Ball Could Fetch $10 Million",
    "iso": "2026-08-09T11:01:00.000Z",
    "link": "https://www.wionews.com/videos/maradona-s-hand-of-god-ball-to-be-auctioned-iconic-1986-world-cup-ball-could-fetch-10-million-1786273247168",
    "lede": "Diego Maradona’s legendary “Hand of God” match ball from the 1986 FIFA World Cup quarterfinal between Argentina and England is set to go under the hammer in the United States this month. Heritage Auctions is scheduled to auction the iconic football from August 21 to 23, with an opening bid of $2.5 million. The auction house reportedly expects the historic ball to fetch around $10 million or more. The ball has been authenticated through photo matching, including detailed analysis of video footage and still images from the famous Argentina-England clash.",
    "image": "https://www.wionews.com/videos/maradona-s-hand-of-god-ball-to-be-auctioned-iconic-1986-world-cup-ball-could-fetch-10-million-1786273247168",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -78,6 +68,16 @@
    "link": "https://www.moroccoworldnews.com/2026/08/333806/fouzi-lekjaa-and-the-world-cup-2030-government-from-pitch-to-premiership/",
    "lede": "This past July 25, Fouzi Lekjaa — Morocco's Minister Delegate for the Budget and, since 2014, president of the Royal Moroccan Football Federation (RMFF) — formally joined the Party of Authenticity and Modernity (PAM) , taking an immediate seat on its Political Bureau . PAM's national coordinator Fatima-Zahra El Mansouri announced the news during the party's National Council in Salé, ending weeks of speculation and instantly becoming one of the most consequential political stories of Morocco's pre-electoral season. It arrived seven weeks before the legislative elections of 23 September 2026, which PAM has openly declared its ambition to finish first. Le Monde captured the moment by describing Lekjaa as \"putting on the suit of a prime-ministerial contender,\" and Moroccan outlets have floated the idea, however speculative, of a future \"World Cup 2030 government\" led by the FRMF chief.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-09-at-10.53.18-AM.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Qatar whistleblower arrested before testifying in 2022 World Cup human trafficking case",
+   "iso": "2026-08-09T09:31:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/qatar-world-cup-whistleblower-arrested-abdullah-ibhais-human-trafficking-b3029410.html",
+   "lede": "Ibhais, who spent three years in a Doha jail, is scheduled to testify as a witness in a US District Court deposition in two weeks. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2021/12/15/19/202110mena_qatar_abdullah_ibahis.jpeg?width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
