@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-09T20:37:58.380Z",
+ "updated": "2026-08-09T20:54:05.478Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Arsenal 2-3 Borussia Dortmund: Arsenal lose to Borussia Dortmund as Odegaard returns",
+   "iso": "2026-08-09T19:41:44.000Z",
+   "link": "https://www.bbc.com/sport/football/live/ck79g7p232jvt",
+   "lede": "Summer signing Christos Tzolis had a hand in both Arsenal goals. Arsenal returned to Emirates Stadium for the first time since they were crowned Premier League champions but were defeated 3-2 by Borussia Dortmund in the Emirates Cup. Samuele Inacio opened the scoring with a neat finish before Konstantino Karetsas curled in an excellent second. Substitute Ethan Nwaneri pulled one back for Arsenal after some good work from Christos Tzolis.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57f7/live/4bd04110-9406-11f1-a7ab-8b30adf0800a.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "DAILY STAR",
    "title": "Gianni Infantino is 'destroying the very essence' of football after World Cup plan",
@@ -8,16 +18,6 @@
    "link": "https://www.dailystar.co.uk/sport/football/gianni-infantino-destroying-very-essence-37530904",
    "lede": "Gianni Infantino is the victim of a smear campaign to boot him out of football, according to FIFA. The sport’s world governing body has blasted a ‘concerted and ongoing effort’ to ‘undermine’ both it and its president. It comes after it was claimed UEFA had to pay off Infantino’s former lover when he worked for the European football association. Infantino, 56, who worked for UEFA for 16 years before being elected FIFA president in 2016, has vehemently denied the allegation.",
    "image": "https://i2-prod.dailystar.co.uk/article37529849.ece/ALTERNATES/s1200d/1_Abelardo-De-La-Espriella-Takes-Office-As-President-Of-Colombia.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "BBC",
-   "title": "Arsenal 2-3 Borussia Dortmund: Arsenal lose to Borussia Dortmund as Odegaard returns",
-   "iso": "2026-08-09T16:45:32.000Z",
-   "link": "https://www.bbc.com/sport/football/live/ck79g7p232jvt",
-   "lede": "Summer signing Christos Tzolis had a hand in both Arsenal goals. Arsenal returned to Emirates Stadium for the first time since they were crowned Premier League champions but were defeated 3-2 by Borussia Dortmund in the Emirates Cup. Samuele Inacio opened the scoring with a neat finish before Konstantino Karetsas curled in an excellent second. Substitute Ethan Nwaneri pulled one back for Arsenal after some good work from Christos Tzolis.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57f7/live/4bd04110-9406-11f1-a7ab-8b30adf0800a.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE SUN",
+   "cat": "THESUN.CO.UK",
    "title": "England World Cup hero Jude Bellingham watches from stands as brother Jobe takes on Arsenal in pre-season battle",
    "iso": "2026-08-09T16:01:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40009908/jude-bellingham-jobe-arsenal-borussia-dortmund-real-madrid/",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "FREEMALAYSIATODAY.COM",
+   "cat": "FREE MALAYSIA TODAY",
    "title": "Infantino’s era is over, says La Liga boss as pressure mounts on Fifa",
    "iso": "2026-08-09T15:48:59.000Z",
    "link": "https://www.freemalaysiatoday.com/category/sports/2026/08/09/infantino-s-era-is-over-says-la-liga-boss-as-pressure-mounts-on-fifa",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "WION",
-   "title": "Maradona’s ‘Hand of God’ Ball to Be Auctioned | Iconic 1986 World Cup Ball Could Fetch $10 Million",
-   "iso": "2026-08-09T11:01:00.000Z",
-   "link": "https://www.wionews.com/videos/maradona-s-hand-of-god-ball-to-be-auctioned-iconic-1986-world-cup-ball-could-fetch-10-million-1786273247168",
-   "lede": "Diego Maradona’s legendary “Hand of God” match ball from the 1986 FIFA World Cup quarterfinal between Argentina and England is set to go under the hammer in the United States this month. Heritage Auctions is scheduled to auction the iconic football from August 21 to 23, with an opening bid of $2.5 million. The auction house reportedly expects the historic ball to fetch around $10 million or more. The ball has been authenticated through photo matching, including detailed analysis of video footage and still images from the famous Argentina-England clash.",
-   "image": "https://www.wionews.com/videos/maradona-s-hand-of-god-ball-to-be-auctioned-iconic-1986-world-cup-ball-could-fetch-10-million-1786273247168",
+   "cat": "CAFONLINE.COM",
+   "title": "Faith Chinzimu relishing Malawi’s rise",
+   "iso": "2026-08-09T13:10:57.000Z",
+   "link": "https://www.cafonline.com/caf-womens-africa-cup-of-nations/news/faith-chinzimu-relishing-malawi-s-rise/",
+   "lede": "Malawi have taken the TotalEnergies Women’s Africa Cup of Nations 2026 by storm. The Scorchers, who are competing at the continental stage for the very first time since the tournament was created in 1998, mean business. A historic feat in their opener saw them stun record 10-time winners and reigning champions Nigeria 3-2 and since then, it has been a roller coaster. With these three points, they continued to believe that anything is possible.",
+   "image": "https://www.cafonline.com//media/5hfh0seh/dsc08116.jpg?width=1200",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
