@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T05:45:00.865Z",
+ "updated": "2026-08-10T06:02:44.011Z",
  "news": [
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -12,24 +12,34 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "VANGUARD NEWS",
+   "title": "Football is not for sale",
+   "iso": "2026-08-10T05:02:18.000Z",
+   "link": "https://www.vanguardngr.com/2026/08/football-is-not-for-sale/",
+   "lede": "Football is the world’s most popular sport. From dusty neighbourhood pitches to the grandeur of the FIFA World Cup, its appeal has always rested on the belief that sporting merit, not financial engineering, determines its destiny. That is why the reported proposal by FIFA under President Gianni Infantino to create a [&hellip;].",
+   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/AFP__20260729__C3FX29G__v2__MidRes__FblEuFifaWc.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "SPORTSTAR",
    "title": "WAFCON 2026 — Cameroon, Malawi clinch semifinal, FIFA World Cup spots on day of upsets",
    "iso": "2026-08-10T03:28:12.000Z",
    "link": "https://sportstar.thehindu.com/football/womens-football/womens-africa-cup-of-nations-2026-cameroon-malawi-world-cup-slots-semifinals-latest-results/article71326902.ece",
    "lede": "Getty Images Getty Images https://ss-i.thgim.com/public/incoming/go1mwn/article71326901.ece/alternates/FREE_1200/toolxox.com-free-ai-tools-3k-WtoZzknVTR.jpg All four semifinalists qualify automatically for the tournament in Brazil, while Nigeria and the other losing quarterfinal teams play on Thursday with two spots in an intercontinental playoff tournament up for grabs. CASABLANCA Cameroon shocked defending champion Nigeria and Malawi stunned Ghana to reach the semifinals of the Women’s Africa Cup of Nations on Sunday and seal World Cup qualification. Cameroon goalkeeper Michaely Bihina excelled and her team held on as the 19-year-old Myriam Nyadjou’s early goal was enough for the Indomitable Lionesses’ 1-0 win over 10-time champion Nigeria. It is the first time that Nigeria has failed to reach the semifinals, where Cameroon will face host nation Morocco on Wednesday.",
    "image": "https://ss-i.thgim.com/public/incoming/go1mwn/article71326901.ece/alternates/LANDSCAPE_1200/toolxox.com-free-ai-tools-3k-WtoZzknVTR.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE GUARDIAN",
+   "cat": "THEGUARDIAN.COM",
    "title": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
    "iso": "2026-08-10T01:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul",
    "lede": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches. It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was watching Egypt when he picked up his phone and messaged his manager, Fatih Tekke. “Do you want Mohamed Salah?”",
    "image": "https://i.guim.co.uk/img/media/949980634fe26cf0d0a3349f74d4134224eebedc/91_0_2118_1694/master/2118.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95d3e9f4eada811614911bfc0c9f2c14",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "NYASA TIMES",
@@ -38,8 +48,8 @@
    "link": "https://www.nyasatimes.com/haiya-football-transformation-on-track-after-malawis-historic-world-cup-berth/",
    "lede": "Football Association of Malawi (FAM) president Fleetwood Haiya has hailed the Scorchers’ historic qualification for the FIFA Women’s World Cup, declaring that the country’s football transformation is well and truly on track. Taking to Facebook following Malawi’s stunning 2-1 victory over Ghana in the Women’s Africa Cup of Nations quarter-finals, Haiya congratulated the team on securing the nation’s first ever appearance at football’s biggest stage. ‘Football Transformation is on track!’ ‘Congratulations to our Scorchers on securing Malawi’s first ever FIFA Women’s World Cup appearance.",
    "image": "https://www.nyasatimes.com/wp-content/uploads/FB_IMG_1786317731896-scaled.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FLASHSCORE.COM",
@@ -48,8 +58,8 @@
    "link": "https://www.flashscore.com/news/malawi-stun-ghana-to-reach-semi-finals-of-2026-wafcon-and-qualify-for-women-s-world-cup/nHnb5HAr/",
    "lede": "The result also doubles as a historic qualification to the 2027 Women's World Cup for WAFCON debutants Malawi. Ghana and Malawi had previously faced off in a pre-tournament friendly just weeks prior with the Black Queens easily winning 4-0. However, it was always going to be a different encouter this time especially after the Scorchers topped Group C with Nigeria, Zambia, and Egypt. It was a dream start for Kim Lars Bjorkegren's women after Chantelle Boye Hlorkah volleyed home just 7 minutes into the game to give Ghana the lead after seven minutes.",
    "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/a4032553-3661-4f59-8779-580b4d30ed14.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "CAFONLINE.COM",
@@ -58,16 +68,6 @@
    "link": "https://www.cafonline.com/caf-womens-africa-cup-of-nations/news/malawi-stun-ghana-to-reach-historic-womens-afcon-semi-finals-and-seal-first-ever-world-cup-place/",
    "lede": "Malawi completed one of the greatest stories in the history of the TotalEnergies CAF Women's Africa Cup of Nations by defeating Ghana 2-1 on Sunday to secure a historic place in the semi-finals and qualify for the FIFA Women's World Cup Brazil 2027 for the first time. A dramatic second-half winner from Rose Kadzere capped another unforgettable night for the tournament debutants, whose remarkable run continued after earlier victories over defending champions Nigeria and Egypt in the group stage. Having topped Group C on their maiden appearance, the Scorchers have now become one of only a handful of debutants to reach the semi-finals of the Women's AFCON, while simultaneously booking one of Africa's four automatic places at next year's FIFA Women's World Cup. For Ghana, the defeat was a bitter blow to their hopes of returning to the global finals for the first time since 2007.",
    "image": "https://www.cafonline.com//media/mwwkp04v/temwa-chawinga-of-malawi-celebrates-goal-with-teammates-during-the-2026-womens-africa-cup-of-nations-quarterfinal-match-between-malawi-and-ghana.jpg?width=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BBC",
-   "title": "Women's World Cup 2027: Algeria, Cameroon, Malawi & Morocco qualify",
-   "iso": "2026-08-09T22:06:43.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c4gw456e3xxo",
-   "lede": "Morocco have qualified for the Women's World Cup for the second time after losing to France in the last 16 in 2023. Algeria, Morocco, Cameroon and Malawi have all qualified for the 2027 Women's World Cup in Brazil. The Women's Africa Cup of Nations (Wafcon) in Morocco is also acting as a qualifying tournament for next summer's tournament, with any country that makes the semi-finals earning their places at the World Cup. Algeria beat 10-player Ivory Coast 2-1, with goals from Ines Khiri and Amira Ould Braham - after N'Sira Oudraogo was sent off when the Ivorians were 1-0 ahead - to reach the Wafcon last four and qualify for a Women's World Cup for the first time.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b716/live/bc5f3650-9435-11f1-8115-21d8ce2e9f35.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
