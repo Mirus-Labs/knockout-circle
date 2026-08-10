@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T11:27:58.225Z",
+ "updated": "2026-08-10T11:30:54.181Z",
  "news": [
   {
    "cat": "THE JOURNAL",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "LA GAZZETTA DELLO SPORT",
+   "title": "UEFA and Allies Attack Infantino: \"Football Isn't His, Trust Betrayed by Deceit\"",
+   "iso": "2026-08-10T09:26:51.000Z",
+   "link": "https://www.gazzetta.it/en/football/world-cup/10-08-2026/uefa-concacaf-and-afc-against-infantino-football-isn-t-his_amp.shtml",
+   "lede": "Another broadside has been fired at Gianni Infantino, but more significantly, the first real considerations for alternative competitions are emerging. The FIFA president's idea to privatise the World Cup has been met with widespread disapproval. As a result, UEFA, Concacaf, and AFC – the confederations for Europe, North America, and Asia – have issued a joint statement against the FIFA chief. The statement was signed by Aleksander Ceferin, UEFA President; Salman Bin Ibrahim Al Khalifa, AFC President; and Victor Montagliani, Concacaf President, along with the general secretaries of all three confederations.",
+   "image": "https://www.gazzetta.it/images/default.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "تسنیم",
    "title": "FIFA Leadership Accused of Breach of Trust over World Cup Rights Plan",
    "iso": "2026-08-10T10:53:18.000Z",
    "link": "https://www.tasnimnews.ir/en/news/2026/08/10/3667888/fifa-leadership-accused-of-breach-of-trust-over-world-cup-rights-plan",
    "lede": "TEHRAN (Tasnim) – UEFA, the Asian Football Confederation (AFC) and CONCACAF on Monday accused FIFA leadership of a “fundamental breach of trust” over its handling of a proposal to sell a stake in World Cup commercial rights, calling for greater accountability and an independent review.",
    "image": "https://newsmedia.tasnimnews.ir/Tasnim/Uploaded/Image/1405/05/19/1405051913442394637802904.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "PROSPECT MAGAZINE",
@@ -68,15 +78,6 @@
    "link": "https://www.prospectmagazine.co.uk/world/europe/74338/fifa-gianni-infantino-football-world-cup-corruption",
    "lede": "Gianni Infantino is the latest in a line of corrupt leaders. Real change means structural reform.",
    "image": "https://media.prospectmagazine.co.uk/prod/images/gm_preview/d4ac47fa23e2-fifaimg.png",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "REUTERS.COM",
-   "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale",
-   "iso": "2026-08-10T10:29:27.000Z",
-   "link": "https://www.reuters.com/sports/soccer/uefa-afc-concacaf-hit-out-infantino-over-world-cup-stake-sale-2026-08-10/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
