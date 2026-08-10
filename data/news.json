@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T04:07:56.207Z",
+ "updated": "2026-08-10T04:18:56.177Z",
  "news": [
   {
    "cat": "SPORTSTAR",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "CAFONLINE.COM",
+   "title": "Malawi stun Ghana to reach historic Women's AFCON semi-finals and seal first-ever World Cup place",
+   "iso": "2026-08-09T22:15:19.000Z",
+   "link": "https://www.cafonline.com/caf-womens-africa-cup-of-nations/news/malawi-stun-ghana-to-reach-historic-womens-afcon-semi-finals-and-seal-first-ever-world-cup-place/",
+   "lede": "Malawi completed one of the greatest stories in the history of the TotalEnergies CAF Women's Africa Cup of Nations by defeating Ghana 2-1 on Sunday to secure a historic place in the semi-finals and qualify for the FIFA Women's World Cup Brazil 2027 for the first time. A dramatic second-half winner from Rose Kadzere capped another unforgettable night for the tournament debutants, whose remarkable run continued after earlier victories over defending champions Nigeria and Egypt in the group stage. Having topped Group C on their maiden appearance, the Scorchers have now become one of only a handful of debutants to reach the semi-finals of the Women's AFCON, while simultaneously booking one of Africa's four automatic places at next year's FIFA Women's World Cup. For Ghana, the defeat was a bitter blow to their hopes of returning to the global finals for the first time since 2007.",
+   "image": "https://www.cafonline.com//media/mwwkp04v/temwa-chawinga-of-malawi-celebrates-goal-with-teammates-during-the-2026-womens-africa-cup-of-nations-quarterfinal-match-between-malawi-and-ghana.jpg?width=1200",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "BBC",
    "title": "Women's World Cup 2027: Algeria, Cameroon, Malawi & Morocco qualify",
    "iso": "2026-08-09T22:06:43.000Z",
    "link": "https://www.bbc.com/sport/football/articles/c4gw456e3xxo",
    "lede": "Morocco have qualified for the Women's World Cup for the second time after losing to France in the last 16 in 2023. Algeria, Morocco, Cameroon and Malawi have all qualified for the 2027 Women's World Cup in Brazil. The Women's Africa Cup of Nations (Wafcon) in Morocco is also acting as a qualifying tournament for next summer's tournament, with any country that makes the semi-finals earning their places at the World Cup. Algeria beat 10-player Ivory Coast 2-1, with goals from Ines Khiri and Amira Ould Braham - after N'Sira Oudraogo was sent off when the Ivorians were 1-0 ahead - to reach the Wafcon last four and qualify for a Women's World Cup for the first time.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b716/live/bc5f3650-9435-11f1-8115-21d8ce2e9f35.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -58,8 +68,8 @@
    "link": "https://www.bbc.com/sport/football/live/ck79g7p232jvt",
    "lede": "Summer signing Christos Tzolis had a hand in both Arsenal goals. Arsenal returned to Emirates Stadium for the first time since they were crowned Premier League champions but were defeated 3-2 by Borussia Dortmund in the Emirates Cup. Samuele Inacio opened the scoring with a neat finish before Konstantino Karetsas curled in an excellent second. Substitute Ethan Nwaneri pulled one back for Arsenal after some good work from Christos Tzolis.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57f7/live/4bd04110-9406-11f1-a7ab-8b30adf0800a.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,16 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa",
    "lede": "Tebas says Swiss is ‘destroying essence of football’. Any reform at highest levels must be ‘genuine’. Javier Tebas says Gianni Infantino’s position as Fifa president is untenable, claiming he is “destroying the very essence of football” while calling for reform at the highest levels of the game. The La Liga president, who is a longstanding and vociferous critic of the current Fifa regime, said “the Infantino era is over” and called for control of the game to be expanded beyond the current “elite”.",
    "image": "https://i.guim.co.uk/img/media/f47ef33e9fe9c8e36356543458eb75995af743c4/308_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cd06a6f51720ca79ab7f8830821d831",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "PHILSTAR.COM",
-   "title": "SM Cinema brings FIFA World Cup Final 2026 to the big screen",
-   "iso": "2026-08-10T01:38:00.000Z",
-   "link": "https://qa.philstar.com/lifestyle/on-the-radar/2026/08/10/2545341/sm-cinema-brings-fifa-world-cup-final-2026-big-screen",
-   "lede": "The event gave fans an unforgettable way to witness football history together.",
-   "image": "https://media.philstar.com/photos/2026/07/28/photo-1_2026-07-28_10-39-45.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
