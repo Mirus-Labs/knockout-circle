@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T15:17:59.342Z",
+ "updated": "2026-08-10T15:18:20.473Z",
  "news": [
   {
    "cat": "MOROCCOWORLDNEWS.COM",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "UEFA-led group discusses rival tournaments in challenge to FIFA",
-   "iso": "2026-08-10T12:56:27.000Z",
-   "link": "https://www.straitstimes.com/sport/football/uefa-led-group-discusses-rival-tournaments-in-challenge-to-fifa?ref=latest",
-   "lede": "Rival competitions are the latest challenge to FIFA president Gianni Infantino after his failed plan to spin off the world football governing body’s commercial operations in a deal involving JPMorgan Chase & Co. Football organisations led by the European governing body UEFA have begun discussions over holding rival international tournaments to FIFA, according to people familiar with the matter. The conversations between the governing bodies of European football (UEFA), North and Central America and the Caribbean (CONCACAF) and Asia (AFC) are at a preliminary stage, the people said, asking not to be named discussing private information. They would threaten FIFA’s lucrative tournament circuit, which includes the World Cup that brought in over US$9 billion (S$11.5 billion) during the 2026 edition, a record.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c2f6bc46d7cdf7af463f74371b3255b9bdde5c8862baf0f436fa653804ce60c6",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "BBC",
    "title": "Women's World Cup 2027: Nigeria 'still have hope' after Wafcon 2026 exit",
    "iso": "2026-08-10T12:28:00.000Z",
    "link": "https://www.bbc.com/sport/football/articles/cg4d0qd33gwo",
    "lede": "Nigeria's quarter-final exit at Wafcon 2026 is their worst performance at the finals, with the defending champions previously lifting the trophy 10 times in total. Goalkeeper Chiamaka Nnadozie says Nigeria have to \"go back to the drawing board\" after missing out on automatic qualification for the 2027 Fifa Women's World Cup. The Super Falcons failed to reach the semi-finals of the ongoing 2026 Women's Africa Cup of Nations (Wafcon) in Morocco, falling to a 1-0 defeat by Cameroon in the last eight on Sunday. By reaching the last four, Cameroon have now guaranteed a ticket to next year's World Cup in Brazil alongside fellow semi-finalists Algeria, Malawi and Morocco.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b5a/live/65d7fc30-94ae-11f1-afe9-fb1a837ec5d9.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "FOOTBALL LONDON",
@@ -58,26 +48,35 @@
    "link": "https://www.football.london/tottenham-hotspur-fc/transfer-news/three-tottenham-players-set-return-34432527",
    "lede": "Cristian Romero, Pedro Porro and Djed Spence are set to return to Tottenham this week to meet back up with Roberto De Zerbi and their team-mates. Porro returns as a World Cup winner, having starred at the competition with Spain and beaten Romero's Argentina in the final. The right-back was named in the team of the tournament and ensured it was the third consecutive World Cup that a Tottenham player emerged as a winner after Hugo Lloris and Romero triumphed in 2018 and 2022 respectively.",
    "image": "https://i2-prod.football.london/article34432666.ece/ALTERNATES/s1200d/0_GettyImages-2287054801.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "REUTERS.COM",
+   "title": "UEFA, AFC, CONCACAF hit out at Infantino over failed World Cup stake sale proposal",
+   "iso": "2026-08-10T14:39:53.000Z",
+   "link": "https://www.reuters.com/sports/soccer/uefa-afc-concacaf-hit-out-infantino-over-world-cup-stake-sale-2026-08-10/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "METRO.CO.UK",
-   "title": "Man Utd and Arsenal set asking price for new transfer target Joaquin Seys",
-   "iso": "2026-08-10T12:08:00.000Z",
-   "link": "https://metro.co.uk/2026/08/10/man-utd-arsenal-set-asking-price-new-transfer-target-joaquin-seys-29342328/",
-   "lede": "Joaquin Seys is catching the eye of a lot of big clubs (Picture: Getty Images) Arsenal and Manchester United are among the many admirers of Club Brugge left-back Joaquin Seys and they now know how much he will cost. The 21-year-old has become a regular for his club side, already racking up 97 first team appearances in all competitions. 23 of those games have come in the Champions League, so he has been competing at the elite level, also picking up six caps for Belgium and playing at the World Cup this summer. There is little surprise that big clubs have come calling and the Red Devils and Gunners are not the only ones who have taken note. The Sun report that Newcastle United and Aston Villa have also been tracking his progress, while Porto and Benfica have also been touted as interested parties.",
-   "image": "https://metro.co.uk/wp-content/uploads/2026/08/SEI_304861321-db78_1786363738.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+   "cat": "THE NEW YORK TIMES",
+   "title": "UEFA, Concacaf and AFC maintain pressure on FIFA president Gianni Infantino to resign - The Athletic",
+   "iso": "2026-08-10T14:35:44.000Z",
+   "link": "https://www.nytimes.com/athletic/7503475/2026/08/10/gianni-infantino-fifa-resign-uefa-concacaf/",
+   "lede": "On Monday, the three confederations released a joint letter, critical of Infantino and signed by their presidents and general secretaries.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/31031300/GettyImages-2262878452-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE INDEPENDENT",
-   "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
-   "iso": "2026-08-10T11:58:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
-   "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
+   "cat": "CSRWIRE.COM",
+   "title": "Street Child World Cup 2026: Technology, Inclusion and Youth Empowerment in Mexico",
+   "iso": "2026-08-10T14:04:53.000Z",
+   "link": "https://csrwire.com/press-release/street-child-world-cup-2026-technology-inclusion-and-youth-empowerment-mexico/",
+   "lede": "In May, Mexico hosted the 2026 Street Child World Cup, bringing together young people from 20 countries in a celebration that goes far beyond football. The event provided a platform for youth in vulnerable situations to share their stories, advocate for their rights, and demonstr.",
+   "image": "https://csrwire.com/wp-content/uploads/sites/2/2026/08/Street-Child-United_Lenovo_072026_2_1785442887.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
