@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-10T02:08:52.251Z",
+ "updated": "2026-08-10T02:36:56.490Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
+   "iso": "2026-08-10T01:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul",
+   "lede": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches. It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was watching Egypt when he picked up his phone and messaged his manager, Fatih Tekke. “Do you want Mohamed Salah?”",
+   "image": "https://i.guim.co.uk/img/media/949980634fe26cf0d0a3349f74d4134224eebedc/91_0_2118_1694/master/2118.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95d3e9f4eada811614911bfc0c9f2c14",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "La Liga president Javier Tebas says ‘Infantino era is over’ at Fifa",
@@ -8,16 +18,6 @@
    "link": "https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa",
    "lede": "Tebas says Swiss is ‘destroying essence of football’. Any reform at highest levels must be ‘genuine’. Javier Tebas says Gianni Infantino’s position as Fifa president is untenable, claiming he is “destroying the very essence of football” while calling for reform at the highest levels of the game. The La Liga president, who is a longstanding and vociferous critic of the current Fifa regime, said “the Infantino era is over” and called for control of the game to be expanded beyond the current “elite”.",
    "image": "https://i.guim.co.uk/img/media/f47ef33e9fe9c8e36356543458eb75995af743c4/308_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cd06a6f51720ca79ab7f8830821d831",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
-   "iso": "2026-08-10T00:36:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul",
-   "lede": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches. It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was watching Egypt when he picked up his phone and messaged his manager, Fatih Tekke. “Do you want Mohamed Salah?”",
-   "image": "https://i.guim.co.uk/img/media/949980634fe26cf0d0a3349f74d4134224eebedc/91_0_2118_1694/master/2118.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95d3e9f4eada811614911bfc0c9f2c14",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -54,7 +54,7 @@
   {
    "cat": "BBC",
    "title": "Arsenal 2-3 Borussia Dortmund: Arsenal lose to Borussia Dortmund as Odegaard returns",
-   "iso": "2026-08-09T19:34:14.000Z",
+   "iso": "2026-08-09T20:22:30.000Z",
    "link": "https://www.bbc.com/sport/football/live/ck79g7p232jvt",
    "lede": "Summer signing Christos Tzolis had a hand in both Arsenal goals. Arsenal returned to Emirates Stadium for the first time since they were crowned Premier League champions but were defeated 3-2 by Borussia Dortmund in the Emirates Cup. Samuele Inacio opened the scoring with a neat finish before Konstantino Karetsas curled in an excellent second. Substitute Ethan Nwaneri pulled one back for Arsenal after some good work from Christos Tzolis.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57f7/live/4bd04110-9406-11f1-a7ab-8b30adf0800a.jpg",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "Ranking the 10 best footballers in the world right now",
-   "iso": "2026-08-09T16:20:00.000Z",
-   "link": "https://sports.yahoo.com/articles/ranking-10-best-footballers-world-162000017.html",
-   "lede": "The 2026 World Cup was a tournament where the game's true superstars stood up to be counted. Football's biggest names all spent time in the spotlight in North America, so what better time to take stoc... Football's biggest names all spent time in the spotlight in Nort...",
-   "image": "https://s.yimg.com/lo/mysterio/api/6db3a5eae7c1493072bcfb535983bdd7d9b13baa9463abd531bc2744e99957f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_muse_articles_776%2Fd0d8b76c7b5333920d3dec99d65b25ff",
+   "cat": "PHILSTAR.COM",
+   "title": "SM Cinema brings FIFA World Cup Final 2026 to the big screen",
+   "iso": "2026-08-10T01:38:00.000Z",
+   "link": "https://qa.philstar.com/lifestyle/on-the-radar/2026/08/10/2545341/sm-cinema-brings-fifa-world-cup-final-2026-big-screen",
+   "lede": "The event gave fans an unforgettable way to witness football history together.",
+   "image": "https://media.philstar.com/photos/2026/07/28/photo-1_2026-07-28_10-39-45.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
