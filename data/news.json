@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-11T21:54:08.341Z",
+ "updated": "2026-08-11T22:07:31.106Z",
  "news": [
   {
-   "cat": "MOROCCO WORLD NEWS",
+   "cat": "THE GUARDIAN",
+   "title": "Infantino’s opponents developing new framework for running world football",
+   "iso": "2026-08-11T21:33:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
+   "lede": "Uefa, Concacaf and AFC working together on system. Fifa has ignored calls for an independent review. Gianni Infantino’s opponents are working together to produce a new framework for running world football to replace what they regard as a system of patronage that Fifa has adopted since he replaced Sepp Blatter as president 10 years ago. Repeated calls from Uefa, Concacaf and the Asian Football Confederation for an independent review of Fifa’s governance have been ignored by Infantino since his plan to sell off 21% of the World Cup was made public a fortnight ago, and the rebels are now understood to have taken matters into their own hands.",
+   "image": "https://i.guim.co.uk/img/media/117c0bd322cd5713ab751c08cbfd31132d082ffe/320_0_3781_3025/master/3781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad479e639c6a28024972d45c2c3dd574",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "MOROCCOWORLDNEWS.COM",
    "title": "When Does European Club Football Return? Key Dates for La Liga, Ligue 1, Premier League and More",
    "iso": "2026-08-11T21:15:27.000Z",
    "link": "https://www.moroccoworldnews.com/2026/08/334285/when-does-european-club-football-return-key-dates-for-la-liga-ligue-1-premier-league-and-more/",
    "lede": "Rabat - The 2026 FIFA World Cup may have just concluded, but football fans will not have to wait long for the return of the club game. The new European season is about to begin, with the continent’s biggest leagues preparing for another campaign filled with title races, major transfers, new managers and high-profile rivalries. From La Liga and the Premier League to Ligue 1, Serie A and the Bundesliga, Europe's top domestic competitions will once again attract millions of viewers worldwide. The UEFA Champions League, Europa League and Conference League will then add another layer of continental competition.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/When-Does-European-Club-Football-Return.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "FOX SPORTS",
@@ -18,8 +28,8 @@
    "link": "https://www.foxsports.com.au/football/fifa/world-cup-2026-donald-trump-sends-message-of-support-gianni-infantino-urges-fifa-to-stick-with-president-south-americas-reason-for-backing-him-revealed/news-story/f102bf97ddb6fe3b3ffe351938120633",
    "lede": "US President Donald Trump has at last voiced his support for Gianni Infantino, amid mounting pressure on the embattled FIFA boss. Infantino has a close relationship with the controversial leader of the free world. He awarded the 80-year old with the inaugural FIFA Peace Prize in late 2025, while Trump publicly boasted of personally calling Infantino to defer Team USA star Folarin Balogun’s red card suspension midway through the 2026 World Cup. That relationship is among a long list of black marks against the 56-year old’s name in the eyes of his long list of critics.",
    "image": "https://content.api.news/v3/images/bin/895f2780850d7ea3f480ae27ee57bae2",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +38,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino",
    "lede": "US president backs ‘fantastic’ Infantino in Truth Social post. Infantino under pressure following doomed World Cup sell-off plan. US president Donald Trump has warned Fifa would be making a “terrible mistake” if they get rid of Gianni Infantino as the head of world football’s governing body. Infantino has come under pressure following his doomed plan to sell off stakes in the men’s World Cup to private investors.",
    "image": "https://i.guim.co.uk/img/media/cdc20e12c7eef91057bb960d1f5e10890b6d7c54/156_0_2673_2139/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e82067ecd2f83faf0a2c7cad2f25b17",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TIMES WEST VIRGINIAN",
@@ -38,16 +48,6 @@
    "link": "https://www.timeswv.com/sports/a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history/article_6c399ed8-4d67-461f-97ce-9c1046c2f1f1.html",
    "lede": "LOS ANGELES (TNS) — \"So close to glory.\" That's how Iván Barton described the moment he heard his last name called during the 2026 World Cup referee assignment meeting. It wasn't to ask a question or to correct some administrative detail. Spain's defender Aymeric Laporte (14) listens to the ruling of Salvadoran referee Ivan Barton during the 2026 World Cup football tournament semi-final match between France and Spain at the Dallas Stadium in Arlington, Texas, on July 14, 2026.",
    "image": "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/2/3c/23c714f9-7100-413d-b127-84841943de08/6a7b8645c1141.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Infantino’s opponents developing new framework for running world football",
-   "iso": "2026-08-11T20:15:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
-   "lede": "Uefa, Concacaf and AFC working together on system. Fifa has ignored calls for an independent review. Gianni Infantino’s opponents are working together to produce a new framework for running world football to replace what they regard as a system of patronage that Fifa has adopted since he replaced Sepp Blatter as president 10 years ago. Repeated calls from Uefa, Concacaf and the Asian Football Confederation for an independent review of Fifa’s governance have been ignored by Infantino since his plan to sell off 21% of the World Cup was made public a fortnight ago, and the rebels are now understood to have taken matters into their own hands.",
-   "image": "https://i.guim.co.uk/img/media/117c0bd322cd5713ab751c08cbfd31132d082ffe/320_0_3781_3025/master/3781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad479e639c6a28024972d45c2c3dd574",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
