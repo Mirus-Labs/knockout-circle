@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-11T17:43:53.427Z",
+ "updated": "2026-08-11T18:39:25.816Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Women's football shouldn't be penalised by Uefa boycott - Nandy",
+   "iso": "2026-08-11T18:06:45.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2grg84lzmo",
+   "lede": "Lisa Nandy wants Gianni Infantino to resign but would not support an U20 Women's World Cup boycott. Culture Secretary Lisa Nandy says women's footballers should not be \"penalised\" by a potential boycott of next month's Under-20 Women's World Cup, as hosts Poland say they have received no notice of any withdrawals from European teams. European governing body Uefa and its 55 members have threatened to boycott Fifa competitions over its president Gianni Infantino's plan to sell off stakes in the World Cup. Poland are due to host the tournament from 5-27 September, but are not the only Uefa nation involved - with England, Italy, Spain, Portugal and France all due to take part.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/502d/live/28193bb0-95a9-11f1-969e-eb6036cb8925.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Infantino’s opponents developing new framework for running world football",
@@ -8,18 +18,28 @@
    "link": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
    "lede": "Uefa, Concacaf and AFC working together on system. Fifa has ignored calls for an independent review. Gianni Infantino’s opponents are working together to produce a new framework for running world football to replace what they regard as a system of patronage that Fifa has adopted since he replaced Sepp Blatter as president 10 years ago. Repeated calls from Uefa, Concacaf and the Asian Football Confederation for an independent review of Fifa’s governance have been ignored by Infantino since this plan to sell off 21% of the World Cup was made public a fortnight ago, and the rebels are now understood to have taken matters into their own hands.",
    "image": "https://i.guim.co.uk/img/media/117c0bd322cd5713ab751c08cbfd31132d082ffe/320_0_3781_3025/master/3781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad479e639c6a28024972d45c2c3dd574",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "INDEPENDENT.CO.UK",
+   "cat": "THE INDEPENDENT",
    "title": "Women’s Under-20 World Cup hosts Poland speak out amid Uefa boycott threat over Infantino row",
    "iso": "2026-08-11T17:16:00.000Z",
    "link": "https://www.independent.co.uk/sport/football/uefa-boycott-infantino-fifa-poland-women-under-20-world-cup-b3031304.html",
    "lede": "Uefa’s member associations voted to support a boycott of Fifa competitions. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/10/10/9ecbb4d4da2921b8767300ea27f62c1bY29udGVudHNlYXJjaGFwaSwxNzg2NDM5NjMz-2.76957128.jpg?width=1200&height=800&crop=1200:800",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
+   "iso": "2026-08-11T17:14:07.000Z",
+   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
+   "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,8 +48,18 @@
    "link": "https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino",
    "lede": "US president backs ‘fantastic’ Infantino in Truth Social post. Infantino under pressure following doomed World Cup sell-off plan. US president Donald Trump has warned Fifa would be making a “terrible mistake” if they get rid of Gianni Infantino as the head of world football’s governing body. Infantino has come under pressure following his doomed plan to sell off stakes in the men’s World Cup to private investors.",
    "image": "https://i.guim.co.uk/img/media/cdc20e12c7eef91057bb960d1f5e10890b6d7c54/156_0_2673_2139/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e82067ecd2f83faf0a2c7cad2f25b17",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "BBC",
+   "title": "Haissem Hassan: World Cup pedigree & La Liga experience - who is reported Celtic target?",
+   "iso": "2026-08-11T16:08:58.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c980kg4xnxeo",
+   "lede": "Haissem Hassan featured for Egypt against Argentina at this year's World Cup. Having burst on to the World Cup stage this summer, breakout star Haissem Hassan now appears bound for Celtic. The Egypt winger is reportedly set for a medical in Glasgow after Celtic agreed an initial £6m transfer fee, external, that could rise to £9m, with Real Oviedo. It would end a saga and take Celtic's haul of new recruits this summer to three as the hugely-important Champions League play-off with LASK looms large.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d1bc/live/6f37ffd0-9596-11f1-af19-5b895ed53d0f.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -38,8 +68,8 @@
    "link": "https://www.moroccoworldnews.com/2026/08/334178/morocco-leads-four-african-teams-to-2027-womens-world-cup/",
    "lede": "Rabat - Four continental contenders have officially booked their spots for the 2027 Women's World Cup in Brazil following intense quarter-final action at the Women's Africa Cup of Nations (WAFCON) in Morocco from late July through August 16. Morocco defeated South Africa 2-1 to seal a second consecutive tournament berth. Sakina Ouzraoui Diki and Hanane Ait El Haj found the net to send the Atlas Lionesses into the semi-finals on home soil. Speaking in a post-match press conference, head coach Jorge Vilda attributed the World Cup qualification to systemic institutional support.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/WAFCON.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE REGISTER",
@@ -48,36 +78,6 @@
    "link": "https://www.theregister.com/security/2026/08/11/two-wars-and-a-world-cup-lead-to-epic-ddos-attacks-on-publishers/5286278",
    "lede": "Ukraine, Iran, and football inspire geopolitically motivated DDoS attacks, while 1 Tbps traffic jams up 519 percent. Ongoing wars in Ukraine and Iran and the FIFA World Cup all contributed to a DDoS walloping of media organizations throughout 2026 so far, according to Cloudflare’s latest data, which identified the sector as the most targeted this year. Attacks on media, production, and publishing accounted for 14.2 percent of all DDoS attacks launched since January 1. Over the first six months of the year, the sector saw nearly four times the number of attacks leveled at the second most-targeted sector, gambling and casinos, and six times more in Q2 alone.",
    "image": "https://image.theregister.com/254502.jpg?imageId=254502&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE CONVERSATION",
-   "title": "Who does sport really belong to – the fans or the funders?",
-   "iso": "2026-08-11T15:15:37.000Z",
-   "link": "https://theconversation.com/who-does-sport-really-belong-to-the-fans-or-the-funders-288999",
-   "lede": "Football’s world governing body, Fifa, has come under fire for attempting to “sell the World Cup”. Its president, Gianni Infantino, had plans to sell a stake in future World Cup profits to investors, with substantial incentives offered to member associations if they backed the proposal. Europe’s confederation, Uefa, made clear that “none of us are the owners of football”. At the same time, fan organisation Football Supporters Europe and players’ union FifPro Europe said the sport should remain in the hands of the public.",
-   "image": "https://images.theconversation.com/files/753135/original/file-20260810-59-p1ph0z.jpg?ixlib=rb-4.1.1&rect=0%2C391%2C3999%2C1999&q=45&auto=format&w=1356&h=668&fit=crop",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-New Zealand joins France in committing to FIFA Under-20 Women's World Cup",
-   "iso": "2026-08-11T15:14:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/08/11/soccer-new-zealand-joins-france-in-committing-to-fifa-under-20-women039s-world-cup",
-   "lede": "Aug 11 (Reuters) - Hosts Poland said ⁠on Tuesday that preparations for next month's Under-20 Women's World Cup remain on schedule, as the tournament prepares ⁠to become the first FIFA event staged amid the backlash against global football chief Gianni Infantino. It will be ‌the first FIFA competition since UEFA's 55 member associations unanimously voted to support a boycott of FIFA events after Infantino proposed and then abandoned a plan to carve off the commercial rights to the World Cup and sell 20% of them to private investors to raise about $4.2 billion. That triggered a ​massive football governance dispute. \"Preparations for the FIFA U-20 Women's World Cup are progressing ⁠according to the agreed schedule and have now ⁠entered their final stage,\" the Polish federation said in a statement to Reuters.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/11/4054945.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "VIEWS BANGLADESH",
-   "title": "Alternative tournament plan outside World Cup: Is FIFA facing a split?",
-   "iso": "2026-08-11T14:31:06.000Z",
-   "link": "https://viewsbangladesh.com/alternative-tournament-plan-outside-world-cup-is-fifa-facing-a-split/",
-   "lede": "Rarely has world football witnessed a scene quite like this: FIFA’s president facing an open vote of no confidence from three of his own vice-presidents, with the dispute escalating to discussions about an alternative tournament to the World Cup. Under Gianni Infantino’s leadership, a failed attempt to sell stakes in the commercial rights to FIFA competitions is no longer merely a dispute over a business decision. It has evolved into an open confrontation over power, trust and control of the global game. The heads of UEFA, the AFC and Concacaf have accused Infantino of breaching their trust through what they describe as a “deceptive” process and have raised the prospect of a change in leadership.",
-   "image": "https://imagedelivery.net/HRs_9pnDDn9uipVGixpHsg/52051575-ac70-4a5c-286c-0a13a936c200/public",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
