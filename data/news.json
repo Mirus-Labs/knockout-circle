@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-11T07:58:23.059Z",
+ "updated": "2026-08-11T09:09:32.498Z",
  "news": [
+  {
+   "cat": "THE SUN",
+   "title": "Donald Trump says Fifa axing Gianni Infantino would be 'terrible mistake' after 'most successful World Cup ever'",
+   "iso": "2026-08-11T07:55:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40022982/donald-trump-gianni-infantino-fifa-mistake/",
+   "lede": "DONALD TRUMP says axing Gianni Infantino as Fifa president would be a “terrible mistake”. Infantino, 56, has come under increasing pressure following the collapse of his disgraceful scheme to sell off a chunk of the World Cup to private investors. Yesterday, Uefa and their Asian and North American counterparts, the AFC and Concacaf, teamed up to release a damning statement against Infantino. It accused the Swiss football administrator of “breaking trust through deception” and was seen as a call on him to resign.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-40023039_ca6143.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE STRAITS TIMES",
    "title": "World Cup co-hosts US and Canada oppose FIFA’s Gianni Infantino",
@@ -8,26 +18,16 @@
    "link": "https://www.straitstimes.com/sport/football/world-cup-co-hosts-us-and-canada-oppose-fifas-gianni-infantino",
    "lede": "FIFA president Gianni Infantino waving on arrival for the swearing-in of Colombia's new president, Abelardo de la Espriella, in Cali, Colombia, on Aug 7. LOS ANGELES – The football federations of the United States and Canada – two of the 2026 World Cup host nations – on Aug 10 backed a statement from three confederations criticising FIFA president Gianni Infantino. US Soccer, Canada Soccer, the CFU (Caribbean Football Union) and UNCAF (Central American Football Union) said they “stand together, along with our colleagues around the world, in calling for meaningful change that strengthens FIFA’s governance, transparency and accountability”. That puts the US and Canada at odds with the third co-host of this year’s World Cup, Mexico, which has given Infantino its backing.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5988f4050be94b99018f8398656c4fd4a101fae77314ded2d569fc3998b1a8e9",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "FOOTBALLAUSTRALIA.COM.AU",
-   "title": "CommBank Young Socceroos Squad for the AFC U20 Asian Cup China 2027™ Qualification phase confirmed",
-   "iso": "2026-08-11T06:59:56.000Z",
-   "link": "https://footballaustralia.com.au/news/commbank-young-socceroos-squad-afc-u20-asian-cup-china-2027tm-qualification-phase-confirmed",
-   "lede": "Australia will face Laos, Malaysia and Indonesia as they look to secure their place at the AFC U20 Asian Cup China 2027™, where the continent’s representatives for the FIFA U-20 World Cup 2027™ will be determined. The qualification phase also provides players with valuable competitive international experience, an opportunity to build momentum ahead of the domestic season, and a platform to showcase their talent to a broader international audience. The 23-player squad features a strong domestic presence, with 17 players drawn from Australian clubs, while a further six are based with clubs in Europe and Japan.",
-   "image": "https://footballaustralia.com.au/sites/default/files/2026-08/Young_Socceroos_BPP_9019.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
-   "cat": "YAHOO NEWS AUSTRALIA",
-   "title": "Performers to have hydration breaks during parade",
-   "iso": "2026-08-11T06:55:00.000Z",
-   "link": "https://au.news.yahoo.com/performers-hydration-breaks-during-parade-065542727.html",
-   "lede": "People performing in the Battle of Flowers this Friday will be given hydration breaks every 25 minutes to help deal with the hot weather. Organisers said walking and working around the floats could be physically demanding and with the heat set to reach 27C (80.6F), according to Jersey Met, it will be necessary to have breaks. The Battle of Flowers Association announced its fireworks finale would go ahead on Saturday despite a higher risk of wildfires, whilst private displays have been cancelled due to the dry summer Jersey has experienced. The association said, like the football World Cup, water breaks would last three minutes.",
-   "image": "https://s.yimg.com/lo/mysterio/api/71c25b36e7c0a07fdb2eeed5599430e1c18b2d4c933d4b72c9d858544c320cb3/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcbbea120bd22ecaaf057f3530475635c",
+   "cat": "THE INDEPENDENT",
+   "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
+   "iso": "2026-08-11T06:44:05.000Z",
+   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
+   "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -62,22 +62,21 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BBC",
-   "title": "US President Donald Trump issues backing for under pressure Fifa chief Gianni Infantino",
-   "iso": "2026-08-11T05:30:03.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cg7m3nk013mo",
-   "lede": "US President Donald Trump was awarded the Fifa Peace Prize by Infantino in 2025. US President Donald Trump says it would be a \"terrible mistake\" if under-pressure Fifa president Gianni Infantino was ousted from his position. Trump's backing followed Uefa, Concacaf and the Asian Football Confederation (AFC) issuing an open letter accusing Infantino of breaking trust \"through deception\" with his aborted Fifa Forward Enterprise (FFE) proposal. FFE would have meant a new company being created to manage commercial and ticketing rights of all Fifa competitions, including World Cups, with 21% sold off to a private investment company.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24f/live/d54d33b0-9543-11f1-bfbd-932e148affb5.jpg",
+   "cat": "TNT SPORTS",
+   "title": "Trump says it would be 'terrible mistake' if FIFA removes 'fantastic' Infantino",
+   "iso": "2026-08-11T07:32:00.000Z",
+   "link": "https://www.tntsports.co.uk/football/world-cup/2026/donald-trump-gianni-infantino-fifa-terrible-mistake_sto23327071/story.shtml",
+   "lede": "US President Donald Trump has warned FIFA would be making a \"terrible mistake\" if they remove Gianni Infantino as president after recent controversies.",
+   "image": "https://imgresizer.tntsports.io/unsafe/2400x1260/filters:format(jpeg):focal(125x50:127x48)/origin-imgresizer.tntsports.io/2026/08/11/image-f497f164-0244-4047-b2c6-8a333e840fab-85-2560-1440.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NINE.COM.AU",
-   "title": "‘Terrible mistake’: Trump backs Infantino after explosive letter revealed",
-   "iso": "2026-08-11T05:23:26.000Z",
-   "link": "https://www.nine.com.au/sport/football/news-gianni-infantino-fifa-quit-letter-uefa-asia-concacaf-world-cup-stakes-selling-affair-controversy-20260811-p60n54.html",
-   "lede": "Updated August 11, 2026 - 4.53am. First published August 10, 2026 - 10.05pm. Long-time supporter of Gianni Infantino, US President Donald Trump has explosively backed the FIFA president, posting on his Truth Social account that the federation would “be making a terrible mistake” if they replaced him. The post came after the European football’s governing body UEFA, the Asian Football Confederation and CONCACAF issued an open letter attacking the FIFA chief’s conduct during the proposed sale of a stake in World Cup commercial rights.",
-   "image": "https://static.ffx.io/images/$zoom_0.2436%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_160%2C$y_189/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/d64bca26226d2d43b1e0fbf611d422d51925b0d7",
+   "cat": "THE NEWS INTERNATIONAL",
+   "title": "Trump backs Gianni Infantino as FIFA boss faces World Cup sell-off fallout",
+   "iso": "2026-08-11T07:22:00.000Z",
+   "link": "https://www.thenews.com.pk/latest/1411914-trump-backs-gianni-infantino-as-fifa-boss-faces-world-cup-sell-off-fallout",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
