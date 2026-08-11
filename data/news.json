@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-11T14:37:21.115Z",
+ "updated": "2026-08-11T14:46:19.738Z",
  "news": [
   {
    "cat": "VIEWS BANGLADESH",
-   "title": "Alternative tournament plan outside World Cup: Is FIFA facing a sp",
+   "title": "Alternative tournament plan outside World Cup: Is FIFA facing a split?",
    "iso": "2026-08-11T14:31:06.000Z",
    "link": "https://viewsbangladesh.com/alternative-tournament-plan-outside-world-cup-is-fifa-facing-a-split/",
    "lede": "Rarely has world football witnessed a scene quite like this: FIFA’s president facing an open vote of no confidence from three of his own vice-presidents, with the dispute escalating to discussions about an alternative tournament to the World Cup. Under Gianni Infantino’s leadership, a failed attempt to sell stakes in the commercial rights to FIFA competitions is no longer merely a dispute over a business decision. It has evolved into an open confrontation over power, trust and control of the global game. The heads of UEFA, the AFC and Concacaf have accused Infantino of breaching their trust through what they describe as a “deceptive” process and have raised the prospect of a change in leadership.",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
-   "iso": "2026-08-11T13:10:09.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup",
-   "lede": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup. As Champions League and Europa League winners face off, here is everything to know on the venue, history and more. Three confederations release letter criticising FIFA’s president over his proposal to sell off stakes in the World Cup. Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-12T173058Z_800276006_RC2BSLAW9FE0_RTRMADP_3_SOCCER-WORLDCUP-IMMIGRATION-SOMALIA-1786449465.jpg?resize=1920%2C1440",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "AFFPAPA",
    "title": "FIFA faces backlash over plans to sell World Cup stakes",
    "iso": "2026-08-11T12:57:06.000Z",
    "link": "https://affpapa.com/fifa-accused-of-deception-over-world-cup-sale-proposals/",
    "lede": "Grandstand launches Rollcard, a purpose-built high-limit debit card. Australian Prime Minister pushes for strict gambling reforms. Top 5 Online Casino Review Sites in Ontario. AffPapa and BiggerZ announce new partnership.",
    "image": "https://affpapa.com/wp-content/uploads/2026/08/FIFA-accused-of-deception-over-World-Cup-sale-proposals.png?OG=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -38,6 +28,16 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
    "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "MARCA",
+   "title": "Infantino's offer: take Mexico out of Concacaf and put it into Conmebol in exchange for its vote",
+   "iso": "2026-08-11T11:24:27.000Z",
+   "link": "https://amp.marca.com/en/world-cup/2026/08/11/infantino-s-offer-take-mexico-out-of-concacaf-and-put-it-into-conmebol-in-exchange-for-its-vote.html",
+   "lede": "The FMF would have received a proposal from Gianni Infantino: he would help Mexico leave Concacaf to join Conmebol, in exchange for guaranteeing him their vote in the next FIFA presidential election. This information was revealed by journalist Martín del Palacio, who stated that the support of the Mexican Football Federation (FMF) would be key for the Swiss official to remain at the helm of the highest governing body of world football. However, the change of confederation would not be easy, as it would require approval through different filters. Despite this, in Mexico they view favorably an option that would happen only and exclusively if the current president remains in office.",
+   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/11/6a7b054767fc4.jpeg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -70,11 +70,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BUSINESS STANDARD",
-   "title": "Trump warns FIFA of 'terrible mistake' if Gianni Infantino is replaced",
-   "iso": "2026-08-11T12:29:22.000Z",
-   "link": "https://www.business-standard.com/sports/football-news/trump-warns-fifa-of-terrible-mistake-if-gianni-infantino-is-replaced-126081101542_1.html",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
+   "iso": "2026-08-11T13:16:04.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup",
+   "lede": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-12T173058Z_800276006_RC2BSLAW9FE0_RTRMADP_3_SOCCER-WORLDCUP-IMMIGRATION-SOMALIA-1786449465.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
