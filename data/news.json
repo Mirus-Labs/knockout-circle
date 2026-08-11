@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-11T23:06:05.601Z",
+ "updated": "2026-08-11T23:47:56.977Z",
  "news": [
   {
    "cat": "BBC",
    "title": "Doku 'not against' journalist who criticised him at World Cup",
    "iso": "2026-08-11T22:21:56.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c20e3q4l4pgo",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c20e3q4l4pgo",
    "lede": "Jeremy Doku was part of the Belgium side that reached the quarter-finals of the World Cup. Jeremy Doku says he is \"not against\" the journalist who criticised his plan to leave the Belgium camp during the World Cup to attend the birth of his first child. Doku's wife Shireen was due to give birth during the second week of July and he told Reuters, external before the start of the tournament he intended to leave the camp to be at the birth even if his side were still in contention. But it brought fierce criticism from L'Equipe channel presenter France Pierron, who labelled a father \"completely useless\" at the time of their child's birth.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5625/live/c06ad8c0-95d0-11f1-ab15-735761c39e28.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Donald Trump says it would be a ‘terrible mistake’ to replace Fifa’s Gianni Infantino",
+   "iso": "2026-08-11T22:19:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino",
+   "lede": "US president backs ‘fantastic’ Infantino in Truth Social post. Infantino under pressure following doomed World Cup sell-off plan. US president Donald Trump has warned Fifa would be making a “terrible mistake” if they get rid of Gianni Infantino as the head of world football’s governing body. Infantino has come under pressure following his doomed plan to sell off stakes in the men’s World Cup to private investors.",
+   "image": "https://i.guim.co.uk/img/media/cdc20e12c7eef91057bb960d1f5e10890b6d7c54/156_0_2673_2139/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e82067ecd2f83faf0a2c7cad2f25b17",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -18,28 +28,8 @@
    "link": "https://www.moroccoworldnews.com/2026/08/334310/real-betis-hand-abde-ezzalzouli-boost-ahead-of-new-season/",
    "lede": "Rabat - Real Betis received a major boost on Tuesday as Moroccan international Abde Ezzalzouli was given the green light to rejoin his teammates in group training after completing an intensive individual rehabilitation program. Ezzalzouli was spotted during the media-open portion of Betis’ training session wearing a medical bandage around his right knee, indicating that he is continuing to progress in his recovery from the injury he suffered in early June. The injury forced the winger to miss Morocco’s recent World Cup campaign, adding to the frustration for a player who had been an important part of the national team setup. His return to collective training comes at an important moment for Betis, with the Spanish club preparing for the start of the new La Liga season.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/abdz-ezzalzuli-backs-to-group-training-.webp",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
-   "iso": "2026-08-11T21:44:07.000Z",
-   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
-   "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
    "emoji": "🏟️",
    "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Infantino’s opponents developing new framework for running world football",
-   "iso": "2026-08-11T21:33:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/11/gianni-infantino-opponents-world-football-fifa-uefa",
-   "lede": "Uefa, Concacaf and AFC working together on system. Fifa has ignored calls for an independent review. Gianni Infantino’s opponents are working together to produce a new framework for running world football to replace what they regard as a system of patronage that Fifa has adopted since he replaced Sepp Blatter as president 10 years ago. Repeated calls from Uefa, Concacaf and the Asian Football Confederation for an independent review of Fifa’s governance have been ignored by Infantino since his plan to sell off 21% of the World Cup was made public a fortnight ago, and the rebels are now understood to have taken matters into their own hands.",
-   "image": "https://i.guim.co.uk/img/media/117c0bd322cd5713ab751c08cbfd31132d082ffe/320_0_3781_3025/master/3781.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad479e639c6a28024972d45c2c3dd574",
-   "emoji": "🔥",
-   "bg": "#7a2424"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -48,8 +38,8 @@
    "link": "https://www.moroccoworldnews.com/2026/08/334285/when-does-european-club-football-return-key-dates-for-la-liga-ligue-1-premier-league-and-more/",
    "lede": "Rabat - The 2026 FIFA World Cup may have just concluded, but football fans will not have to wait long for the return of the club game. The new European season is about to begin, with the continent’s biggest leagues preparing for another campaign filled with title races, major transfers, new managers and high-profile rivalries. From La Liga and the Premier League to Ligue 1, Serie A and the Bundesliga, Europe's top domestic competitions will once again attract millions of viewers worldwide. The UEFA Champions League, Europa League and Conference League will then add another layer of continental competition.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/When-Does-European-Club-Football-Return.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "FOX SPORTS",
@@ -58,18 +48,8 @@
    "link": "https://www.foxsports.com.au/football/fifa/world-cup-2026-donald-trump-sends-message-of-support-gianni-infantino-urges-fifa-to-stick-with-president-south-americas-reason-for-backing-him-revealed/news-story/f102bf97ddb6fe3b3ffe351938120633",
    "lede": "US President Donald Trump has at last voiced his support for Gianni Infantino, amid mounting pressure on the embattled FIFA boss. Infantino has a close relationship with the controversial leader of the free world. He awarded the 80-year old with the inaugural FIFA Peace Prize in late 2025, while Trump publicly boasted of personally calling Infantino to defer Team USA star Folarin Balogun’s red card suspension midway through the 2026 World Cup. That relationship is among a long list of black marks against the 56-year old’s name in the eyes of his long list of critics.",
    "image": "https://content.api.news/v3/images/bin/895f2780850d7ea3f480ae27ee57bae2",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Donald Trump says it would be a ‘terrible mistake’ to replace Fifa’s Gianni Infantino",
-   "iso": "2026-08-11T21:09:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino",
-   "lede": "US president backs ‘fantastic’ Infantino in Truth Social post. Infantino under pressure following doomed World Cup sell-off plan. US president Donald Trump has warned Fifa would be making a “terrible mistake” if they get rid of Gianni Infantino as the head of world football’s governing body. Infantino has come under pressure following his doomed plan to sell off stakes in the men’s World Cup to private investors.",
-   "image": "https://i.guim.co.uk/img/media/cdc20e12c7eef91057bb960d1f5e10890b6d7c54/156_0_2673_2139/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e82067ecd2f83faf0a2c7cad2f25b17",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "TIMES WEST VIRGINIAN",
@@ -78,6 +58,26 @@
    "link": "https://www.timeswv.com/sports/a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history/article_6c399ed8-4d67-461f-97ce-9c1046c2f1f1.html",
    "lede": "LOS ANGELES (TNS) — \"So close to glory.\" That's how Iván Barton described the moment he heard his last name called during the 2026 World Cup referee assignment meeting. It wasn't to ask a question or to correct some administrative detail. Spain's defender Aymeric Laporte (14) listens to the ruling of Salvadoran referee Ivan Barton during the 2026 World Cup football tournament semi-final match between France and Spain at the Dallas Stadium in Arlington, Texas, on July 14, 2026.",
    "image": "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/2/3c/23c714f9-7100-413d-b127-84841943de08/6a7b8645c1141.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
+   "iso": "2026-08-11T20:14:07.000Z",
+   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
+   "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Germany’s Jonathan Tah on his missed World Cup penalty",
+   "iso": "2026-08-11T18:30:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/239064/germany-jonathan-tah-missed-world-cup-penalty-bayern-munich",
+   "lede": "Jonathan Tah stepped up to take the pivotal penalty in Germany’s World Cup shootout loss to Paraguay, but it went all went awry — in fact, it went absolute chimneys. But the Bayern Munich defender has taken it all in stride. “My general approach is to prepare myself for situations like that,” Tah relayed in an interview with Sky Germany’s Torben Hoffmann (as captured by @iMiaSanMia). “In life, you’re always going to experience difficult moments and setbacks.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283571258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
