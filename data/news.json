@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T11:59:50.014Z",
+ "updated": "2026-08-11T13:24:40.797Z",
  "news": [
   {
    "cat": "ESQUIREINDIA.CO.IN",
@@ -12,10 +12,10 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "BBC",
+   "cat": "BBC.CO.UK",
    "title": "Gianni Infantino: Division over Fifa president shown in map of support and opposition",
    "iso": "2026-08-11T11:02:42.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c0l5e18063lo",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo",
    "lede": "Gianni Infantino's previously untouchable status at the top of world football is now under significant pressure. As recently as mid-July, Gianni Infantino was considered a shoo-in to be re-elected as Fifa president next March. All but a handful of Fifa's 210 members had endorsed his bid for a fourth term in charge of world football, and he faced no meaningful challenge from any quarter. But that picture looks very different now, after two weeks of relentless fallout to his now-abandoned plan to sell off stakes in the World Cup and other competitions to private investors.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f85/live/1eb1a3e0-94f6-11f1-9181-85140b8ce01b.jpg",
    "emoji": "🏆",
@@ -32,33 +32,42 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE SUN",
-   "title": "Donald Trump says Fifa axing Gianni Infantino would be 'terrible mistake' after 'most successful World Cup ever'",
-   "iso": "2026-08-11T07:55:00.000Z",
-   "link": "https://www.thesun.co.uk/sport/40022982/donald-trump-gianni-infantino-fifa-mistake/",
-   "lede": "DONALD TRUMP says axing Gianni Infantino as Fifa president would be a “terrible mistake”. Infantino, 56, has come under increasing pressure following the collapse of his disgraceful scheme to sell off a chunk of the World Cup to private investors. Yesterday, Uefa and their Asian and North American counterparts, the AFC and Concacaf, teamed up to release a damning statement against Infantino. It accused the Swiss football administrator of “breaking trust through deception” and was seen as a call on him to resign.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-40023039_ca6143.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "cat": "NDTV SPORTS",
+   "title": "Somalian Referee, Sent Back From FIFA World Cup In US, Set To Officiate UEFA Super Cup",
+   "iso": "2026-08-11T13:16:59.000Z",
+   "link": "https://sports.ndtv.com/football/super-cup-psg-vs-aston-villa-uefa-vs-fifa-and-the-somali-ref-barred-from-the-world-cup-11894841",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "‘It was a bit surreal’: When World Cup star Michael Olise joined a New York pick-up game… in socks",
-   "iso": "2026-08-11T11:04:36.000Z",
-   "link": "https://www.nytimes.com/athletic/7504955/2026/08/11/michael-olise-pick-up-game-new-york/",
-   "lede": "All involved in the game at Gansevoort Peninsula Field in Manhattan were stunned when the France and Bayern Munich star joined in.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/11022317/GettyImages-2284154722-scaled-e1786429435216.jpg?width=1200&height=630&fit=cover",
+   "cat": "AL JAZEERA",
+   "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
+   "iso": "2026-08-11T13:09:44.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup",
+   "lede": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-12T173058Z_800276006_RC2BSLAW9FE0_RTRMADP_3_SOCCER-WORLDCUP-IMMIGRATION-SOMALIA-1786449465.jpg?resize=1920%2C1440",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "NEWS.COM.AU",
-   "title": "World Cup rocked by sex trafficker links",
-   "iso": "2026-08-11T10:09:31.000Z",
-   "link": "https://www.news.com.au/sport/football/world-cup/fifa-backer-who-led-infantinos-controversial-world-cup-selloff-linked-to-paedophile-jeffrey-epstein/news-story/79f2722be500e4b2e69473fcc6bd6a1b",
-   "lede": "",
+   "cat": "THE NEW YORK TIMES",
+   "title": "‘It was a bit surreal’: When World Cup star Michael Olise joined a New York pick-up game… in socks",
+   "iso": "2026-08-11T11:22:27.000Z",
+   "link": "https://www.nytimes.com/athletic/7504955/2026/08/11/michael-olise-pick-up-game-new-york/",
+   "lede": "All involved in the game at Gansevoort Peninsula Field in Manhattan were stunned when the France and Bayern Munich star joined in.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/11022317/GettyImages-2284154722-scaled-e1786429435216.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "NEWS.COM.AU",
+   "title": "World Cup rocked by sex trafficker links",
+   "iso": "2026-08-11T10:13:43.000Z",
+   "link": "https://www.news.com.au/sport/football/world-cup/fifa-backer-who-led-infantinos-controversial-world-cup-selloff-linked-to-paedophile-jeffrey-epstein/news-story/79f2722be500e4b2e69473fcc6bd6a1b",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "INDIA TODAY",
@@ -67,15 +76,6 @@
    "link": "https://www.indiatoday.in/sports/football/story/donald-trump-fifa-against-gianni-infantino-replace-world-cup-stake-2968562-2026-08-11",
    "lede": "Donald Trump has backed Gianni Infantino as FIFA faces growing pressure over its failed World Cup investment plan. UEFA, AFC and Concacaf are demanding an independent review of the controversial proposal.",
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino--donald-trump-115305693-16x9_0.jpg?VersionId=mKAQMheGeKj9nZ3k9aH3Xox1vvSQE.Yz",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "ARGENTINA Vs AUSTRIA - Final FIFA World Cup 2026 | Full Match All Goals | Football Match Windsor Weather (6yjdopLltw)",
-   "iso": "2026-08-11T09:47:47.000Z",
-   "link": "https://mshale.com/9438055d/7492844bOickGDkSZBc1Ag4",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
