@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T18:39:25.816Z",
+ "updated": "2026-08-11T18:39:55.004Z",
  "news": [
   {
    "cat": "BBC",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "AL JAZEERA",
+   "title": "Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA",
+   "iso": "2026-08-11T17:05:23.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa",
+   "lede": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate. Trump’s comments are the first time he has spoken in FIFA president’s defence since FFE plans were leaked on July 28. Statement comes after Infantino denies UEFA paid off his alleged lover while he was the body’s general secretary. However, UEFA says a ‘departure payment’ was made to a female employee when Infantino was the body’s general-secretary.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-11T090244Z_107454915_RC256X9H1RCG_RTRMADP_3_SOCCER-FIFA-OCEANIA-1786466605.jpg?resize=1920%2C1440",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "Donald Trump says it would be a ‘terrible mistake’ to replace Fifa’s Gianni Infantino",
    "iso": "2026-08-11T16:51:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/11/donald-trump-fifa-gianni-infantino",
    "lede": "US president backs ‘fantastic’ Infantino in Truth Social post. Infantino under pressure following doomed World Cup sell-off plan. US president Donald Trump has warned Fifa would be making a “terrible mistake” if they get rid of Gianni Infantino as the head of world football’s governing body. Infantino has come under pressure following his doomed plan to sell off stakes in the men’s World Cup to private investors.",
    "image": "https://i.guim.co.uk/img/media/cdc20e12c7eef91057bb960d1f5e10890b6d7c54/156_0_2673_2139/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e82067ecd2f83faf0a2c7cad2f25b17",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -58,8 +68,8 @@
    "link": "https://www.bbc.com/sport/football/articles/c980kg4xnxeo",
    "lede": "Haissem Hassan featured for Egypt against Argentina at this year's World Cup. Having burst on to the World Cup stage this summer, breakout star Haissem Hassan now appears bound for Celtic. The Egypt winger is reportedly set for a medical in Glasgow after Celtic agreed an initial £6m transfer fee, external, that could rise to £9m, with Real Oviedo. It would end a saga and take Celtic's haul of new recruits this summer to three as the hugely-important Champions League play-off with LASK looms large.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d1bc/live/6f37ffd0-9596-11f1-af19-5b895ed53d0f.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -68,16 +78,6 @@
    "link": "https://www.moroccoworldnews.com/2026/08/334178/morocco-leads-four-african-teams-to-2027-womens-world-cup/",
    "lede": "Rabat - Four continental contenders have officially booked their spots for the 2027 Women's World Cup in Brazil following intense quarter-final action at the Women's Africa Cup of Nations (WAFCON) in Morocco from late July through August 16. Morocco defeated South Africa 2-1 to seal a second consecutive tournament berth. Sakina Ouzraoui Diki and Hanane Ait El Haj found the net to send the Atlas Lionesses into the semi-finals on home soil. Speaking in a post-match press conference, head coach Jorge Vilda attributed the World Cup qualification to systemic institutional support.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/WAFCON.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE REGISTER",
-   "title": "Two wars and a World Cup lead to epic DDoS attacks on publishers",
-   "iso": "2026-08-11T15:33:00.000Z",
-   "link": "https://www.theregister.com/security/2026/08/11/two-wars-and-a-world-cup-lead-to-epic-ddos-attacks-on-publishers/5286278",
-   "lede": "Ukraine, Iran, and football inspire geopolitically motivated DDoS attacks, while 1 Tbps traffic jams up 519 percent. Ongoing wars in Ukraine and Iran and the FIFA World Cup all contributed to a DDoS walloping of media organizations throughout 2026 so far, according to Cloudflare’s latest data, which identified the sector as the most targeted this year. Attacks on media, production, and publishing accounted for 14.2 percent of all DDoS attacks launched since January 1. Over the first six months of the year, the sector saw nearly four times the number of attacks leveled at the second most-targeted sector, gambling and casinos, and six times more in Q2 alone.",
-   "image": "https://image.theregister.com/254502.jpg?imageId=254502&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
