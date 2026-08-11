@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T10:12:09.337Z",
+ "updated": "2026-08-11T10:15:02.787Z",
  "news": [
   {
    "cat": "THENATIONALNEWS.COM",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE SUN",
+   "cat": "THESUN.CO.UK",
    "title": "Donald Trump says Fifa axing Gianni Infantino would be 'terrible mistake' after 'most successful World Cup ever'",
    "iso": "2026-08-11T07:55:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40022982/donald-trump-gianni-infantino-fifa-mistake/",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "POLITICO.EU",
+   "title": "Trump backs Infantino after fury over FIFA chief’s World Cup sale plan",
+   "iso": "2026-08-11T06:28:57.000Z",
+   "link": "https://www.politico.eu/article/donald-trump-backs-gianni-infantino-fifa-world-cup-sale-plan-fury/",
+   "lede": "It would be a “terrible mistake” to replace the football boss after the success of the 2026 World Cup, the U.S. president posted on Truth Social. President Donald Trump backed under-pressure football chief Gianni Infantino, after calls grew for the FIFA boss to quit following his aborted plan to sell off parts of the World Cup tournament to private investors. “FIFA would be making a terrible mistake if, for any reason, they even considered replacing President Gianni Infantino. He is fantastic, having just presided over the most successful World Cup, by four times, ever presented,” Trump posted Tuesday morning on Truth Social.",
+   "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/08/11/GettyImages-2286811745-scaled.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "INDIA TODAY",
    "title": "Donald Trump backs Gianni Infantino as world football turns against FIFA president",
    "iso": "2026-08-11T09:53:49.000Z",
    "link": "https://www.indiatoday.in/sports/football/story/donald-trump-fifa-against-gianni-infantino-replace-world-cup-stake-2968562-2026-08-11",
    "lede": "Donald Trump has backed Gianni Infantino as FIFA faces growing pressure over its failed World Cup investment plan. UEFA, AFC and Concacaf are demanding an independent review of the controversial proposal.",
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino--donald-trump-115305693-16x9_0.jpg?VersionId=mKAQMheGeKj9nZ3k9aH3Xox1vvSQE.Yz",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE INDIAN EXPRESS",
@@ -57,23 +67,14 @@
    "iso": "2026-08-11T09:46:14.000Z",
    "link": "https://indianexpress.com/article/sports/football/us-president-donald-trump-ousting-fifa-president-gianni-infantino-terrible-mistake-10828035/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "REUTERS",
    "title": "'Flawed' funding system behind silence of smaller nations in FIFA's civil war, says ex-PNG player",
    "iso": "2026-08-11T09:10:54.000Z",
    "link": "https://www.reuters.com/sports/soccer/flawed-funding-system-behind-silence-smaller-nations-fifas-civil-war-says-ex-png-2026-08-11/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "My OFFICIAL World Cup 2026 Predictions Juventus Football Club (1W4uhhaATs)",
-   "iso": "2026-08-11T08:14:50.000Z",
-   "link": "https://mshale.com/ade2c8c7/5ce8c8adITZfGAohTS45ITw",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
