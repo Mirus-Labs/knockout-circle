@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T06:37:52.444Z",
+ "updated": "2026-08-11T06:39:08.504Z",
  "news": [
   {
    "cat": "POLITICO.EU",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "THE INDEPENDENT",
+   "cat": "INDEPENDENT.CO.UK",
    "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
    "iso": "2026-08-11T05:14:05.000Z",
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
@@ -52,7 +52,7 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "SCMP.COM",
+   "cat": "SOUTH CHINA MORNING POST",
    "title": "Trump jumps to Infantino’s defence as Fifa split widens, rival tourneys planned",
    "iso": "2026-08-11T04:07:33.000Z",
    "link": "https://www.scmp.com/sport/football/article/3363607/trump-jumps-infantino-defence-fifa-split-widens-rival-tournaments-planned",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "SHAKIRA & PITBULL Perform At FIFA World Cup 2026™ Opening Match 🔥⚽ | Opening Ceremony 4K Royals Vs White Sox (RRXwJQLm5G)",
-   "iso": "2026-08-11T05:20:39.000Z",
-   "link": "https://mshale.com/85519d1d/94fa58d2mMAH-XROHFA",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
+   "iso": "2026-08-11T05:12:21.000Z",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826",
+   "lede": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1786425048.jpg?resize=1920%2C1080&quality=80",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
