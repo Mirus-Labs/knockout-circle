@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-11T15:44:06.614Z",
+ "updated": "2026-08-11T16:39:14.799Z",
  "news": [
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco Leads Four African Teams to 2027 Women’s World Cup",
+   "iso": "2026-08-11T16:01:45.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/08/334178/morocco-leads-four-african-teams-to-2027-womens-world-cup/",
+   "lede": "Rabat - Four continental contenders have officially booked their spots for the 2027 Women's World Cup in Brazil following intense quarter-final action at the Women's Africa Cup of Nations (WAFCON) in Morocco from late July through August 16. Morocco defeated South Africa 2-1 to seal a second consecutive tournament berth. Sakina Ouzraoui Diki and Hanane Ait El Haj found the net to send the Atlas Lionesses into the semi-finals on home soil. Speaking in a post-match press conference, head coach Jorge Vilda attributed the World Cup qualification to systemic institutional support.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/08/WAFCON.webp",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE REGISTER",
+   "title": "Two wars and a World Cup lead to epic DDoS attacks on publishers",
+   "iso": "2026-08-11T15:33:00.000Z",
+   "link": "https://www.theregister.com/security/2026/08/11/two-wars-and-a-world-cup-lead-to-epic-ddos-attacks-on-publishers/5286278",
+   "lede": "Ukraine, Iran, and football inspire geopolitically motivated DDoS attacks, while 1 Tbps traffic jams up 519 percent. Ongoing wars in Ukraine and Iran and the FIFA World Cup all contributed to a DDoS walloping of media organizations throughout 2026 so far, according to Cloudflare’s latest data, which identified the sector as the most targeted this year. Attacks on media, production, and publishing accounted for 14.2 percent of all DDoS attacks launched since January 1. Over the first six months of the year, the sector saw nearly four times the number of attacks leveled at the second most-targeted sector, gambling and casinos, and six times more in Q2 alone.",
+   "image": "https://image.theregister.com/254502.jpg?imageId=254502&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE CONVERSATION",
    "title": "Who does sport really belong to – the fans or the funders?",
@@ -8,8 +28,18 @@
    "link": "https://theconversation.com/who-does-sport-really-belong-to-the-fans-or-the-funders-288999",
    "lede": "Football’s world governing body, Fifa, has come under fire for attempting to “sell the World Cup”. Its president, Gianni Infantino, had plans to sell a stake in future World Cup profits to investors, with substantial incentives offered to member associations if they backed the proposal. Europe’s confederation, Uefa, made clear that “none of us are the owners of football”. At the same time, fan organisation Football Supporters Europe and players’ union FifPro Europe said the sport should remain in the hands of the public.",
    "image": "https://images.theconversation.com/files/753135/original/file-20260810-59-p1ph0z.jpg?ixlib=rb-4.1.1&rect=0%2C391%2C3999%2C1999&q=45&auto=format&w=1356&h=668&fit=crop",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE STAR",
+   "title": "Football: Soccer-New Zealand joins France in committing to FIFA Under-20 Women's World Cup",
+   "iso": "2026-08-11T15:14:00.000Z",
+   "link": "https://www.thestar.com.my/sport/football/2026/08/11/soccer-new-zealand-joins-france-in-committing-to-fifa-under-20-women039s-world-cup",
+   "lede": "Aug 11 (Reuters) - New Zealand ⁠have joined France in confirming they intend to compete at next month's Under-20 Women's World Cup ⁠in Poland, as the tournament prepares to become the first FIFA event staged amid the ‌backlash against global football chief Gianni Infantino. It will be the first FIFA competition since UEFA's 55 member associations unanimously voted to support a boycott of FIFA events after Infantino proposed and then abandoned a plan to carve off the commercial rights to the World ​Cup and sell 20% of them to private investors to raise ⁠about $4.2 billion. That triggered a massive football governance ⁠dispute. \"New Zealand Football is sending a team to the U20 FIFA Women's World Cup in Poland next month, ⁠the ‌tournament is critical in the development for the women's game,\" a New Zealand Football spokesperson told Reuters on Tuesday.",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/11/4054945.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "GULF TIMES",
@@ -18,64 +48,36 @@
    "link": "https://www.gulf-times.com/article/730887/sport/football/100-days-to-go-until-fifa-u-17-world-cup-qatar-2026",
    "lede": "With just 100 days to go until the FIFA U-17 World Cup Qatar 2026, excitement is building for the prestigious youth tournament taking place in Qatar from 19 November to 13 December 2026. This year marks the second of five consecutive editions that Qatar will host annually through 2029, reaffirming its commitment to delivering world-class sporting events while strengthening the country’s long-term football legacy. Building on the success of the landmark 2025 tournament, which saw Qatar host the first-ever FIFA competition featuring 48 teams, this year’s edition will once again welcome 48 nations competing across 104 matches. Fans can look forward to up to eight matches per day during an action-packed group stage.",
    "image": "https://www.gulf-times.com/gulftimes/uploads/images/2026/08/11/478040.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "VIEWSBANGLADESH.COM",
+   "cat": "VIEWS BANGLADESH",
    "title": "Alternative tournament plan outside World Cup: Is FIFA facing a split?",
    "iso": "2026-08-11T14:31:06.000Z",
    "link": "https://viewsbangladesh.com/alternative-tournament-plan-outside-world-cup-is-fifa-facing-a-split/",
    "lede": "Rarely has world football witnessed a scene quite like this: FIFA’s president facing an open vote of no confidence from three of his own vice-presidents, with the dispute escalating to discussions about an alternative tournament to the World Cup. Under Gianni Infantino’s leadership, a failed attempt to sell stakes in the commercial rights to FIFA competitions is no longer merely a dispute over a business decision. It has evolved into an open confrontation over power, trust and control of the global game. The heads of UEFA, the AFC and Concacaf have accused Infantino of breaching their trust through what they describe as a “deceptive” process and have raised the prospect of a change in leadership.",
    "image": "https://imagedelivery.net/HRs_9pnDDn9uipVGixpHsg/52051575-ac70-4a5c-286c-0a13a936c200/public",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "MARCA",
-   "title": "Infantino's offer: take Mexico out of Concacaf and put it into Conmebol in exchange for its vote",
-   "iso": "2026-08-11T11:24:27.000Z",
-   "link": "https://amp.marca.com/en/world-cup/2026/08/11/infantino-s-offer-take-mexico-out-of-concacaf-and-put-it-into-conmebol-in-exchange-for-its-vote.html",
-   "lede": "The FMF would have received a proposal from Gianni Infantino: he would help Mexico leave Concacaf to join Conmebol, in exchange for guaranteeing him their vote in the next FIFA presidential election. This information was revealed by journalist Martín del Palacio, who stated that the support of the Mexican Football Federation (FMF) would be key for the Swiss official to remain at the helm of the highest governing body of world football. However, the change of confederation would not be easy, as it would require approval through different filters. Despite this, in Mexico they view favorably an option that would happen only and exclusively if the current president remains in office.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/11/6a7b054767fc4.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Key dates to decide Gianni Infantino’s future as Fifa reaffirms support following crisis meeting",
-   "iso": "2026-08-11T11:14:05.000Z",
-   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-out-fifa-president-election-dates-world-cup-b3027714.html",
-   "lede": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/08/03/11/dbdb938cc977e8d0658182b9fb9bea3fY29udGVudHNlYXJjaGFwaSwxNzg1ODM3NzA2-2.71229487.jpg?width=1200&height=800&crop=1200:800",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC.CO.UK",
-   "title": "Gianni Infantino: Division over Fifa president shown in map of support and opposition",
-   "iso": "2026-08-11T11:02:42.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo",
-   "lede": "Gianni Infantino's previously untouchable status at the top of world football is now under significant pressure. As recently as mid-July, Gianni Infantino was considered a shoo-in to be re-elected as Fifa president next March. All but a handful of Fifa's 210 members had endorsed his bid for a fourth term in charge of world football, and he faced no meaningful challenge from any quarter. But that picture looks very different now, after two weeks of relentless fallout to his now-abandoned plan to sell off stakes in the World Cup and other competitions to private investors.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f85/live/1eb1a3e0-94f6-11f1-9181-85140b8ce01b.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "LATEST NEWS FROM AZERBAIJAN",
-   "title": "Somali referee gets UEFA Super Cup assignment after World Cup exclusion",
-   "iso": "2026-08-11T14:48:31.000Z",
-   "link": "https://news.az/news/somali-referee-gets-uefa-super-cup-assignment-after-world-cup-exclusion",
-   "lede": "",
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Germany’s Jonathan Tah on his missed World Cup penalty",
+   "iso": "2026-08-11T14:15:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/239064/germany-jonathan-tah-missed-world-cup-penalty-bayern-munich",
+   "lede": "Jonathan Tah stepped up to take the pivotal penalty in Germany’s World Cup shootout loss to Paraguay, but it went all went awry — in fact, it went absolute chimneys. But the Bayern Munich defender has taken it all in stride. “My general approach is to prepare myself for situations like that,” Tah relayed in an interview with Sky Germany’s Torben Hoffmann (as captured by @iMiaSanMia). “In life, you’re always going to experience difficult moments and setbacks.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283571258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NDTV SPORTS",
-   "title": "Orjan Nyland Determined To \"Achieve The Impossible\" At RB Leipzig After Dream World Cup With Norway",
-   "iso": "2026-08-11T13:35:41.000Z",
-   "link": "https://sports.ndtv.com/football/orjan-nyland-determined-to-achieve-the-impossible-at-rb-leipzig-after-dream-world-cup-with-norway-11895715",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
+   "iso": "2026-08-11T13:10:09.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup",
+   "lede": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup. As Champions League and Europa League winners face off, here is everything to know on the venue, history and more. Three confederations release letter criticising FIFA’s president over his proposal to sell off stakes in the World Cup. Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-12T173058Z_800276006_RC2BSLAW9FE0_RTRMADP_3_SOCCER-WORLDCUP-IMMIGRATION-SOMALIA-1786449465.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
