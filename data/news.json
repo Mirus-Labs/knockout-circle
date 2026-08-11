@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T10:15:02.787Z",
+ "updated": "2026-08-11T11:08:58.367Z",
  "news": [
   {
    "cat": "THENATIONALNEWS.COM",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THESUN.CO.UK",
+   "cat": "THE SUN",
    "title": "Donald Trump says Fifa axing Gianni Infantino would be 'terrible mistake' after 'most successful World Cup ever'",
    "iso": "2026-08-11T07:55:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40022982/donald-trump-gianni-infantino-fifa-mistake/",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "POLITICO.EU",
+   "title": "Trump backs Infantino after fury over FIFA chief’s World Cup sale plan",
+   "iso": "2026-08-11T07:24:00.000Z",
+   "link": "https://www.politico.eu/article/donald-trump-backs-gianni-infantino-fifa-world-cup-sale-plan-fury/",
+   "lede": "It would be a “terrible mistake” to replace the football boss after the success of the 2026 World Cup, the U.S. president posted on Truth Social. President Donald Trump backed under-pressure football chief Gianni Infantino, after calls grew for the FIFA boss to quit following his aborted plan to sell off parts of the World Cup tournament to private investors. “FIFA would be making a terrible mistake if, for any reason, they even considered replacing President Gianni Infantino. He is fantastic, having just presided over the most successful World Cup, by four times, ever presented,” Trump posted Tuesday morning on Truth Social.",
+   "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/08/11/GettyImages-2286811745-scaled.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "AL JAZEERA",
    "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
    "iso": "2026-08-11T07:14:30.000Z",
    "link": "https://www.aljazeera.com/amp/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake",
    "lede": "Three confederations release letter criticising FIFA’s president over his proposal to sell off stakes in the World Cup. Statement comes after Infantino denies UEFA paid off his alleged lover while he was the body’s general secretary. FIFA president Gianni Infantino gets South American football’s backing while at Abelardo de la Espriella’s inauguration. European football’s governing body says FIFA has not met conditions to end the boycott of their return to global game.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-19T230320Z_207857920_UP1EM7J1S1JJJ_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1786429748_b7fb5e-1786432328.jpg?resize=1200%2C630&quality=80",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -38,18 +48,18 @@
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/239064/germany-jonathan-tah-missed-world-cup-penalty-bayern-munich",
    "lede": "Jonathan Tah stepped up to take the pivotal penalty in Germany’s World Cup shootout loss to Paraguay, but it went all went awry — in fact, it went absolute chimneys. But the Bayern Munich defender has taken it all in stride. “My general approach is to prepare myself for situations like that,” Tah relayed in an interview with Sky Germany’s Torben Hoffmann (as captured by @iMiaSanMia). “In life, you’re always going to experience difficult moments and setbacks.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283571258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "POLITICO.EU",
-   "title": "Trump backs Infantino after fury over FIFA chief’s World Cup sale plan",
-   "iso": "2026-08-11T06:28:57.000Z",
-   "link": "https://www.politico.eu/article/donald-trump-backs-gianni-infantino-fifa-world-cup-sale-plan-fury/",
-   "lede": "It would be a “terrible mistake” to replace the football boss after the success of the 2026 World Cup, the U.S. president posted on Truth Social. President Donald Trump backed under-pressure football chief Gianni Infantino, after calls grew for the FIFA boss to quit following his aborted plan to sell off parts of the World Cup tournament to private investors. “FIFA would be making a terrible mistake if, for any reason, they even considered replacing President Gianni Infantino. He is fantastic, having just presided over the most successful World Cup, by four times, ever presented,” Trump posted Tuesday morning on Truth Social.",
-   "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/08/11/GettyImages-2286811745-scaled.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "‘It was a bit surreal’: When World Cup star Michael Olise joined a New York pick-up game… in socks",
+   "iso": "2026-08-11T11:04:36.000Z",
+   "link": "https://www.nytimes.com/athletic/7504955/2026/08/11/michael-olise-pick-up-game-new-york/",
+   "lede": "All involved in the game at Gansevoort Peninsula field in Manhattan were stunned when the France and Bayern Munich star joined in.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/11022317/GettyImages-2284154722-scaled-e1786429435216.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "INDIA TODAY",
@@ -58,23 +68,14 @@
    "link": "https://www.indiatoday.in/sports/football/story/donald-trump-fifa-against-gianni-infantino-replace-world-cup-stake-2968562-2026-08-11",
    "lede": "Donald Trump has backed Gianni Infantino as FIFA faces growing pressure over its failed World Cup investment plan. UEFA, AFC and Concacaf are demanding an independent review of the controversial proposal.",
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino--donald-trump-115305693-16x9_0.jpg?VersionId=mKAQMheGeKj9nZ3k9aH3Xox1vvSQE.Yz",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE INDIAN EXPRESS",
    "title": "Trump says ousting Infantino as FIFA president would be ‘terrible mistake’",
    "iso": "2026-08-11T09:46:14.000Z",
-   "link": "https://indianexpress.com/article/sports/football/us-president-donald-trump-ousting-fifa-president-gianni-infantino-terrible-mistake-10828035/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "REUTERS",
-   "title": "'Flawed' funding system behind silence of smaller nations in FIFA's civil war, says ex-PNG player",
-   "iso": "2026-08-11T09:10:54.000Z",
-   "link": "https://www.reuters.com/sports/soccer/flawed-funding-system-behind-silence-smaller-nations-fifas-civil-war-says-ex-png-2026-08-11/",
+   "link": "https://indianexpress.com/article/sports/football/us-president-donald-trump-ousting-fifa-president-gianni-infantino-terrible-mistake-10828035/lite/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
