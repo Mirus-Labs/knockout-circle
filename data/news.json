@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T17:16:53.980Z",
+ "updated": "2026-08-12T18:10:18.957Z",
  "news": [
   {
    "cat": "NINE.COM.AU",
@@ -22,22 +22,22 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
-   "iso": "2026-08-12T14:47:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
-   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "THE HINDU",
    "title": "Messi says not certain to play ‘much longer’ after father’s death",
    "iso": "2026-08-12T14:22:26.000Z",
    "link": "https://www.thehindu.com/sport/football/messi-says-not-certain-to-play-much-longer-after-fathers-death/article71337195.ece/amp/",
    "lede": "Argentina superstar and inspiration behind his country’s 2022 World Cup victory, Lionel Messi, said on Wednesday (August 12, 2026) he has “serious doubts” about continuing to play football for “much longer” after the death of his father Jorge Messi. “I don’t know what I’ll do without you, I don’t know how to go on. I just played football, and now I have serious doubts about continuing to do so for much longer,” Messi, 39, wrote in a message on social media after his father, who was also his agent, died last week aged 68. In the message, Messi, whose contract with Major League Soccer outfit Inter Miami runs till the end of the 2028 season, reflected on the final months of his father’s life, which coincided with the 2026 World Cup.",
    "image": "https://th-i.thgim.com/public/news/national/b66kr8/article71337206.ece/alternates/FREE_1200/AFP__20260812__C4GP9T3__v1__HighRes__FilesFblArgMessiDeath.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THEGUARDIAN.COM",
+   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
+   "iso": "2026-08-12T14:16:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
+   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
+   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -65,7 +65,7 @@
    "cat": "BBC",
    "title": "Messi unsure he will play 'much longer' after father's death",
    "iso": "2026-08-12T13:48:23.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c78gqj2dqyno",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno",
    "lede": "Jorge Messi watched his son Lionel Messi lead Argentina to victory at the 2022 World Cup. Lionel Messi said he is unsure how much longer he will continue playing football as he posted an emotional tribute after his father's death. Messi's father Jorge was 68 when he died last week following a long illness. Jorge had been the Argentina forward's agent since he was 14 and watched him become one of the sport's greatest ever players.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a53f/live/2137b990-9656-11f1-9743-c91876572530.jpg",
    "emoji": "📣",
