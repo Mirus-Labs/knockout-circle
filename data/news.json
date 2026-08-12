@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-12T23:04:02.154Z",
+ "updated": "2026-08-12T23:24:22.649Z",
  "news": [
   {
-   "cat": "FOX SPORTS",
+   "cat": "THE GUARDIAN",
+   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
+   "iso": "2026-08-12T22:55:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
+   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
+   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "FOXSPORTS.COM.AU",
    "title": "‘Tried to push past’: GOAT’s heartbreaking WC reveal, retirement hint in emotional tribute",
    "iso": "2026-08-12T22:44:43.000Z",
    "link": "https://www.foxsports.com.au/football/world-cup/teams/australia/football-news-lionel-messi-hints-at-retirement-following-father-jorges-death-reveals-he-tried-to-win-world-cup-for-him-releases-emotional-tribute/news-story/e5087792fb98b40c5e2967967dd73f3e",
    "lede": "Lionel Messi said he has “serious doubts” about continuing to play football for “much longer” after the death of his father Jorge, in an emotional tribute posted on social media. “I don’t know what I’ll do without you, I don’t know how to go on. I just played football, and now I have serious doubts about continuing to do so for much longer,” the Argentinian champion wrote. Messi’s father, who was also his agent, died last week aged 68.",
    "image": "https://content.api.news/v3/images/bin/7156c357404d512be3bcb1ab1c5f1e0d",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "DEVDISCOURSE",
@@ -18,16 +28,6 @@
    "link": "https://www.devdiscourse.com/article/sports-games/3963189-clash-on-the-pitch-nations-reject-boycott-to-attend-u-20-womens-world-cup",
    "lede": "Canada and Brazil have committed to participating in the upcoming Under-20 Women's World Cup in Poland, despite a significant governance dispute shaking world football. This latest development comes as a part of a broader conflict concerning FIFA's management strategies. Canada Soccer confirmed its plans to compete, stating, \"Nothing has changed from our end.\" Similarly, Brazil’s federation spokesperson affirmed their national team's attendance.",
    "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_03_2025_10_54_10_5062479.png&width=920&format=jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
-   "iso": "2026-08-12T21:44:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
-   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
