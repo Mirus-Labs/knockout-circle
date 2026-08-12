@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T21:22:00.787Z",
+ "updated": "2026-08-12T21:29:54.680Z",
  "news": [
   {
    "cat": "THESUN.CO.UK",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE GUARDIAN",
+   "cat": "THEGUARDIAN.COM",
    "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
    "iso": "2026-08-12T16:39:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
@@ -62,22 +62,21 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "SPORTS.YAHOO.COM",
+   "cat": "NEWS.COM.AU",
+   "title": "World Cup hero makes Aussie soccer history",
+   "iso": "2026-08-12T21:17:20.000Z",
+   "link": "https://www.news.com.au/sport/football/world-cup-hero-lucas-herrington-joins-hull-city-in-recordbreaking-deal-for-an-australian-footballer/news-story/b3922f3b0e4f55a13832722885c5661f",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
    "title": "NBA Cup Schedule Sets Up Clashes With World Series, NFL, College Football",
    "iso": "2026-08-12T20:37:21.000Z",
    "link": "https://sports.yahoo.com/articles/nba-cup-schedule-sets-clashes-203721806.html",
    "lede": "The league will be part of a packed late fall sports calendar.",
    "image": "https://s.yimg.com/lo/mysterio/api/f94bf10d43bfbf598389b482c5f5144a2b621974f1629f6a8cd1fbfec9581a27/lightyear_networkapi/resizefill_w1024_h682%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffront_office_sports_190%2Fed70d85448dd91176ea30ebd4bd333f0.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NYTIMES.COM",
-   "title": "Xavi appointed new Netherlands head coach on four-year deal",
-   "iso": "2026-08-12T19:44:24.000Z",
-   "link": "https://www.nytimes.com/athletic/7507952/2026/08/12/netherlands-xavi-appoint-manager/",
-   "lede": "It is the 46-year-old's first management job since his departure from Barcelona in the summer of 2024.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2025/03/04134421/GettyImages-2153966298-scaled-e1786563190702.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
