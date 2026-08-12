@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T11:12:02.161Z",
+ "updated": "2026-08-12T11:34:33.521Z",
  "news": [
   {
    "cat": "BBC",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ACLSPORTS",
-   "title": "WAFCON 2026 Semi-finals: World Cup berths secured, final places at stake",
-   "iso": "2026-08-12T10:55:53.000Z",
-   "link": "https://www.aclsports.com/wafcon-2026-semi-finals-world-cup-berths-secured-final-places-at-stake/",
-   "lede": "",
+   "cat": "NZHERALD.CO.NZ",
+   "title": "NZ Football to send team to U20 World Cup despite calls for Fifa boycott",
+   "iso": "2026-08-12T03:39:00.000Z",
+   "link": "https://www.nzherald.co.nz/sport/football/new-zealand-football-commits-to-fifa-tournament-despite-boycott-calls-over-gianni-infantino-leadership/AY3XYVJEF5HUVB5DUGEX7SDFZ4/",
+   "lede": "New Zealand Football has committed to sending a team to the Fifa Under-20 Women’s World Cup, despite calls to boycott the competition. The tournament in Poland is the first Fifa competition since Uefa member associations unanimously supported a boycott of events staged by football’s global governing body because of plans by Fifa president Gianni Infantino to sell commercial rights in its competitions to private investors. New Zealand Football confirmed to Reuters a team will be sent despite the backlash against Infantino. “New Zealand Football is sending a team to the U20 Fifa Women’s World Cup in Poland next month.",
+   "image": "https://www.nzherald.co.nz/resizer/v2/YNJA3HVDPVB7NGCHKMNU2CN4CY.jpg?auth=44d765d0eb45095158d4de1b210c08e8467e251c357f7e2c475ba0968b56373a&width=1200&height=675&quality=70&focal=2504%2C808&smart=false",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
