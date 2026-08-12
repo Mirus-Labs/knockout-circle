@@ -1,6 +1,46 @@
 {
- "updated": "2026-08-12T18:11:36.361Z",
+ "updated": "2026-08-12T19:28:05.483Z",
  "news": [
+  {
+   "cat": "INDIA TODAY",
+   "title": "FIFA president Gianni Infantino gets support from Malawi amid pressure",
+   "iso": "2026-08-12T18:14:12.000Z",
+   "link": "https://www.indiatoday.in/amp/sports/football/story/gianni-infantino-fifa-president-malawi-fa-backing-uefa-2969842-2026-08-12",
+   "lede": "Malawi's historic qualification for the 2027 Women's World Cup is a reflection of the increased investment in African football during Gianni Infantino's tenure as FIFA president, according to Malawi Football Association president Fleetwood Haiya.Speaking to Reuters, Haiya said the progress made under Infantino's leadership was a key reason he continues to back the FIFA chief. Malawi have emerged as one of the biggest surprises at the ongoing Women's Africa Cup of Nations in Morocco. Their run to the semi-finals has secured their place at next year's Women's World Cup, marking a significant milestone for the country's women's football team.\"",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino-092355540-16x9_1.jpg?VersionId=9oAuZfW6Ed7K1Pcc37ydSeVj9ddKIfPh",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE MIRROR",
+   "title": "Who is Omar Artan? UEFA Super Cup ref who was refused entry to USA in World Cup chaos",
+   "iso": "2026-08-12T17:00:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/omar-artan-super-cup-referee-37537093",
+   "lede": "Omar Artan profile: Omar Abdulkadir Artan is a 34-year-old professional football referee from Somalia who has steadily built a strong reputation over the past few years. His profile rose significantly when he was named the 2025 Confederation of African Football (CAF) Men's Referee of the Year, an award he received shortly after becoming the first Somali to oversee a CAF Champions League final. Background : His consistent performance on the continent led to him being selected by FIFA as a match official for the 2026 World Cup, representing a major historic achievement for his nation. He was set to become the very first referee from Somalia to officiate at a World Cup finals tournament, a milestone that brought immense pride to the Somali sporting community and resulted in a warm reception upon his recent return to Mogadishu.",
+   "image": "https://i2-prod.mirror.co.uk/article37274612.ece/ALTERNATES/s1200d/2_FILES-FBL-WC-2026-SOM-REFEREE.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
+   "iso": "2026-08-12T16:39:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
+   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
+   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THESTAR.COM.MY",
+   "title": "Football: Soccer-Malawi FA chief backs Infantino, credits FIFA investment for World Cup breakthrough",
+   "iso": "2026-08-12T16:24:00.000Z",
+   "link": "https://www.thestar.com.my/sport/football/2026/08/13/soccer-malawi-fa-chief-backs-infantino-credits-fifa-investment-for-world-cup-breakthrough",
+   "lede": "RABAT, Aug 12 (Reuters) - Malawi's qualification for the ⁠2027 Women's World Cup is a result of investment in African football made by FIFA under President Gianni Infantino and why he will ⁠likely enjoy the support of the continent, the country's football association President Fleetwood Haiya told Reuters. Malawi have been the surprise package of ‌the ongoing Women's Africa Cup of Nations (WAFCON) in Morocco, and earned their World Cup berth by reaching the semi-finals. Haiya credits Infantino's focus on investing in African football during his tenure, and what he perceives as an attempt to level the playing field, as the reason why he will continue to support the beleaguered FIFA president.",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4056753.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "NINE.COM.AU",
    "title": "Messi drops massive retirement hint in emotional tribute to father",
@@ -8,8 +48,8 @@
    "link": "https://www.nine.com.au/sport/football/football-news-2026-lionel-messi-drops-retirement-hint-in-emotional-tribute-to-father-20260813-p60nv8.html",
    "lede": "Lionel Messi has shared a tribute to his late father, Jorge, on social media, opening up about how difficult it was to lead Argentina to the World Cup final and expressing uncertainty about whether he will continue playing football. “I don’t know what I’m going to do without you,” the post said in Spanish, shared on the footballer’s Instagram on Wednesday. Argentina’s Lionel Messi reacts to the team’s loss in the World Cup final. “I don’t know how to keep going.",
    "image": "https://static.ffx.io/images/$zoom_0.5195%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_85%2C$y_49/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c311a42d57e250942eddf5dd62b0297eda4ed65e",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "OPEN MAGAZINE",
@@ -18,8 +58,18 @@
    "link": "https://openthemagazine.com/world/dad-i-still-cant-believe-youre-gone-messis-heartbreaking-goodbye",
    "lede": "Lionel Messi has spent most of his life finding ways to express himself with a football. On Wednesday, he was searching for words to say goodbye to the man who had been there almost from the first kick. Jorge Messi, Lionel Messi's father, longtime agent, adviser and one of the central figures in his extraordinary football journey, died at a clinic in Rosario after a prolonged illness. For Messi, the grief is intertwined with one final football memory: the 2026 World Cup.",
    "image": "https://media.openthemagazine.com/openthemagazine/2026-08-12/4teshsso/MESSIDAD.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "FOOTBALL ITALIA",
+   "title": "De Zerbi: ‘Tonali a leader at Tottenham, can learn from Argentina at 2026 World Cup’",
+   "iso": "2026-08-12T15:50:13.000Z",
+   "link": "https://football-italia.net/de-zerbi-tonali-a-leader-at-tottenham-learn/",
+   "lede": "Roberto De Zerbi explains why Sandro Tonali can be ‘a leader’ at his new Tottenham Hotspur project, bringing Italian techniques to the Premier League, and learning from Argentina at the World Cup. The Italian tactician is only 47 years old, but has already worked in Italy, Ukraine, France and England, taking over the Spurs job in March 2026. He had to drag them out of the relegation zone in the final weeks of the campaign, and is now determined to start afresh in the Premier League with an expensive transfer strategy. That includes the arrival of fellow Italian Tonali, who cost over €115m to buy from Newcastle United, and it’s reported the coach helped convince him to choose them ahead of Manchester City or Arsenal.",
+   "image": "https://icdn.football-italia.net/wp-content/uploads/2026/08/Roberto-De-Zerbi.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE HINDU",
@@ -28,56 +78,6 @@
    "link": "https://www.thehindu.com/sport/football/messi-says-not-certain-to-play-much-longer-after-fathers-death/article71337195.ece/amp/",
    "lede": "Argentina superstar and inspiration behind his country’s 2022 World Cup victory, Lionel Messi, said on Wednesday (August 12, 2026) he has “serious doubts” about continuing to play football for “much longer” after the death of his father Jorge Messi. “I don’t know what I’ll do without you, I don’t know how to go on. I just played football, and now I have serious doubts about continuing to do so for much longer,” Messi, 39, wrote in a message on social media after his father, who was also his agent, died last week aged 68. In the message, Messi, whose contract with Major League Soccer outfit Inter Miami runs till the end of the 2028 season, reflected on the final months of his father’s life, which coincided with the 2026 World Cup.",
    "image": "https://th-i.thgim.com/public/news/national/b66kr8/article71337206.ece/alternates/FREE_1200/AFP__20260812__C4GP9T3__v1__HighRes__FilesFblArgMessiDeath.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THEGUARDIAN.COM",
-   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
-   "iso": "2026-08-12T14:16:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
-   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "'I wanted to win another World Cup, I coudn't': Lionel Messi pens emotional post after father's demise",
-   "iso": "2026-08-12T14:15:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/i-wanted-to-win-another-world-cup-i-coudnt-lionel-messi-pens-emotional-post-after-fathers-demise/articleshow/133184899.cms",
-   "lede": "For the first time since the death of his father Jorge Messi earlier this month, Lionel Messi has spoken publicly, sharing an emotional tribute that offered a deeply personal look at the grief he has been carrying throughout one of the most difficult periods of his life. The Argentina captain posted a photograph with his father alongside the simple caption, \"Te amo, pa\" (\"I love you, Dad\"), before accompanying it with a heartfelt letter reflecting on their relationship, the 2026 FIFA World Cup, and the uncertainty he now feels about life without the man who had been beside him since the very beginning.\" Dad, I still can't believe you're gone\"Messi began by admitting that he is still struggling to accept his father's passing.\" Dad, I still can't believe you're gone.",
-   "image": "https://static.toiimg.com/thumb/msid-133185400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "🚨 Reports: €30m deal after strong World Cup, Inter raid the PL",
-   "iso": "2026-08-12T14:08:00.000Z",
-   "link": "https://sports.yahoo.com/articles/reports-30m-deal-strong-world-140800498.html",
-   "lede": "After the deal had been taking shape over the past few days, it now appears to be done. As transfer expert Fabrizio Romano reports, Djed Spence is moving from Tottenham Hotspur to Serie A side Inter M... As transfer expert Fabrizio Romano reports, Djed Spence is moving fro...",
-   "image": "https://s.yimg.com/lo/mysterio/api/0853d6200d97167e12294a6065f10d93a20292d3c6dcefe8d52fe248a5235831/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F8c30628a7681adbb76cb46fe69a5c987.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BBC",
-   "title": "Messi unsure he will play 'much longer' after father's death",
-   "iso": "2026-08-12T13:48:23.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno",
-   "lede": "Jorge Messi watched his son Lionel Messi lead Argentina to victory at the 2022 World Cup. Lionel Messi said he is unsure how much longer he will continue playing football as he posted an emotional tribute after his father's death. Messi's father Jorge was 68 when he died last week following a long illness. Jorge had been the Argentina forward's agent since he was 14 and watched him become one of the sport's greatest ever players.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a53f/live/2137b990-9656-11f1-9743-c91876572530.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BBC",
-   "title": "Inter in advanced talks for Spurs full-back Spence",
-   "iso": "2026-08-12T13:43:30.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cvgxz9xd95zo",
-   "lede": "Spence can play at right and left-back. Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros). The 26-year-old has emerged as a key target for the Serie A champions, having enhanced his reputation at the World Cup, at which he made eight appearances. Despite coming under criticism early in the tournament, Spence ended up starting and impressing in England's World Cup semi-final defeat by Argentina.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8147/live/d8725e40-9650-11f1-bcb3-97b92581837a.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
