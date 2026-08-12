@@ -1,15 +1,35 @@
 {
- "updated": "2026-08-12T21:29:54.680Z",
+ "updated": "2026-08-12T22:12:05.997Z",
  "news": [
   {
-   "cat": "THESUN.CO.UK",
+   "cat": "THE GUARDIAN",
+   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
+   "iso": "2026-08-12T21:44:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
+   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
+   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SPORTS.YAHOO.COM",
+   "title": "🚨 Reports: World Cup starter! Atlético sign Argentine for €40m",
+   "iso": "2026-08-12T21:33:00.000Z",
+   "link": "https://sports.yahoo.com/articles/reports-world-cup-starter-atl-213300363.html",
+   "lede": "Atlético Madrid are adding another one! As journalist Gastón Edul and transfer expert Fabrizio Romano are both reporting, Argentina international Christian Romero is set to move from Tottenham Hotsp... As journalist Gastón Edul and transfer expert Fabrizio Romano are both reporting, Argentina international Christian R...",
+   "image": "https://s.yimg.com/lo/mysterio/api/afc6ca4987a1f2c87ada43263066b61226c58fa5004641c40fc3a17039f4b07f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F6f9db942d9c13c2b424c4a3d2113f2b4.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE SUN",
    "title": "Xavi makes shock return to football as manager of former World Cup finalists",
    "iso": "2026-08-12T19:51:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40043565/xavi-agrees-shock-return-to-football-as-netherlands-manager/",
    "lede": "XAVI HERNANDEZ has agreed a shock return to management as the new boss of the Netherlands. The Barcelona legend, 46, is set to take charge of the Oranje on a four-year deal, marking his return to management. Xavi has been out of work since leaving Barcelona at the end of the 2023-24 season. The official Netherlands X account posted: “We proudly present our new head coach.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/newspress-collage-uennobn2d-1786564258452.jpg?quality=90&strip=all&1786567874&w=1920&h=1080&crop=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GULF NEWS",
@@ -18,8 +38,8 @@
    "link": "https://gulfnews.com/sport/football/netherlands-appoint-xavi-as-coach-through-2030-world-cup-1.500639095",
    "lede": "The Netherlands have appointed former Barcelona coach Xavi Hernandez as their new men's national team head coach, with the 46-year-old Spaniard signing a contract through the 2030 FIFA World Cup.Xavi takes over from Ronald Koeman, bringing an end to the Dutch Football Federation's search for a new coach.. Get updated faster and for FREE: Download the Gulf News app now - simply click here..\" It is an honor to become the coach of the Dutch national team,\" Xavi said. \"As someone who came through Barcelona's academy, with the strong influence of figures like Johan Cruyff and Rinus Michels, I feel a special connection to Dutch football.",
    "image": "https://media.assettype.com/gulfnews%2F2026-08-12%2Fsp3sxqtp%2FHPiztRAX0AAic4j.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TALKSPORT",
@@ -28,38 +48,27 @@
    "link": "https://talksport.com/football/4509083/roberto-martinez-snubbed-netherlands-manager-job-xavi/",
    "lede": "Roberto Martinez had looked the favourite to take the reins of the Dutch national team, who had been without a manager following Ronald Koeman's departure. Having stepped down as Portugal boss after their World Cup exit, Martinez was free to make an immediate return to management. However, though the 53-year-old was interviewed for the Netherlands vacancy, he was ultimately turned down. And in the Spaniard's place, the Netherlands have now appointed footballing legend and former Barcelona manager, Xavi.",
    "image": "https://talksport.com/wp-content/uploads/2026/08/OQ-TS-OP-XAVI-MARTINEZ.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THEGUARDIAN.COM",
-   "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
-   "iso": "2026-08-12T16:39:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-   "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
-   "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "NINE.COM.AU",
-   "title": "Messi drops massive retirement hint in emotional tribute to father",
-   "iso": "2026-08-12T16:20:57.000Z",
-   "link": "https://www.nine.com.au/sport/football/football-news-2026-lionel-messi-drops-retirement-hint-in-emotional-tribute-to-father-20260813-p60nv8.html",
-   "lede": "Lionel Messi has shared a tribute to his late father, Jorge, on social media, opening up about how difficult it was to lead Argentina to the World Cup final and expressing uncertainty about whether he will continue playing football. “I don’t know what I’m going to do without you,” the post said in Spanish, shared on the footballer’s Instagram on Wednesday. Argentina’s Lionel Messi reacts to the team’s loss in the World Cup final. “I don’t know how to keep going.",
-   "image": "https://static.ffx.io/images/$zoom_0.5195%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_85%2C$y_49/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c311a42d57e250942eddf5dd62b0297eda4ed65e",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "OPEN MAGAZINE",
-   "title": "Dad, I Still Can't Believe You're Gone: Messi's Heartbreaking Goodbye",
-   "iso": "2026-08-12T16:08:46.000Z",
-   "link": "https://openthemagazine.com/world/dad-i-still-cant-believe-youre-gone-messis-heartbreaking-goodbye",
-   "lede": "Lionel Messi has spent most of his life finding ways to express himself with a football. On Wednesday, he was searching for words to say goodbye to the man who had been there almost from the first kick. Jorge Messi, Lionel Messi's father, longtime agent, adviser and one of the central figures in his extraordinary football journey, died at a clinic in Rosario after a prolonged illness. For Messi, the grief is intertwined with one final football memory: the 2026 World Cup.",
-   "image": "https://media.openthemagazine.com/openthemagazine/2026-08-12/4teshsso/MESSIDAD.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "cat": "INDIATODAY.IN",
+   "title": "FIFA president Gianni Infantino gets support from Malawi amid pressure",
+   "iso": "2026-08-12T18:14:12.000Z",
+   "link": "https://www.indiatoday.in/amp/sports/football/story/gianni-infantino-fifa-president-malawi-fa-backing-uefa-2969842-2026-08-12",
+   "lede": "Malawi's historic qualification for the 2027 Women's World Cup is a reflection of the increased investment in African football during Gianni Infantino's tenure as FIFA president, according to Malawi Football Association president Fleetwood Haiya.Speaking to Reuters, Haiya said the progress made under Infantino's leadership was a key reason he continues to back the FIFA chief. Malawi have emerged as one of the biggest surprises at the ongoing Women's Africa Cup of Nations in Morocco. Their run to the semi-finals has secured their place at next year's Women's World Cup, marking a significant milestone for the country's women's football team.\"",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino-092355540-16x9_1.jpg?VersionId=9oAuZfW6Ed7K1Pcc37ydSeVj9ddKIfPh",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE WASHINGTON POST",
+   "title": "Netherlands hires Spain great Xavi Hernandez as first foreign-born coach since 1978",
+   "iso": "2026-08-12T21:39:04.000Z",
+   "link": "https://www.washingtonpost.com/sports/soccer/2026/08/12/netherlands-xavi-hernandez/d192304a-9688-11f1-9ef9-1be722184483_story.html",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "NEWS.COM.AU",
@@ -67,16 +76,6 @@
    "iso": "2026-08-12T21:17:20.000Z",
    "link": "https://www.news.com.au/sport/football/world-cup-hero-lucas-herrington-joins-hull-city-in-recordbreaking-deal-for-an-australian-footballer/news-story/b3922f3b0e4f55a13832722885c5661f",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "NBA Cup Schedule Sets Up Clashes With World Series, NFL, College Football",
-   "iso": "2026-08-12T20:37:21.000Z",
-   "link": "https://sports.yahoo.com/articles/nba-cup-schedule-sets-clashes-203721806.html",
-   "lede": "The league will be part of a packed late fall sports calendar.",
-   "image": "https://s.yimg.com/lo/mysterio/api/f94bf10d43bfbf598389b482c5f5144a2b621974f1629f6a8cd1fbfec9581a27/lightyear_networkapi/resizefill_w1024_h682%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffront_office_sports_190%2Fed70d85448dd91176ea30ebd4bd333f0.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
