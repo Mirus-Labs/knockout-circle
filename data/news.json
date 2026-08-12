@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-12T23:24:22.649Z",
+ "updated": "2026-08-12T23:59:43.449Z",
  "news": [
+  {
+   "cat": "REDIFF",
+   "title": "Spain great Xavi Hernandez named Netherlands' first foreign-born coach",
+   "iso": "2026-08-12T23:25:18.000Z",
+   "link": "https://www.rediff.com/sports/report/xavi-hernandez-becomes-new-netherlands-head-coach-until-2030-world-cup/20260813.htm",
+   "lede": "Legendary Spanish midfielder Xavi Hernandez was officially named the new head coach of the Netherlands national football team, signing a long-term contract extending through the 2030 World Cup. Xavi Hernandez has been appointed as the Netherlands' head coach on a contract through the 2030 World Cup, the Dutch football federation said. The 46-year-old Spaniard replaces Ronald Koeman and takes charge of a national team for the first time. Xavi has been out of coaching since leaving Barcelona in 2024, where he spent three seasons in charge.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/aug/13xavi-hernandez.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
@@ -8,26 +18,16 @@
    "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
    "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
    "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "FOXSPORTS.COM.AU",
+   "cat": "FOX SPORTS",
    "title": "‘Tried to push past’: GOAT’s heartbreaking WC reveal, retirement hint in emotional tribute",
    "iso": "2026-08-12T22:44:43.000Z",
    "link": "https://www.foxsports.com.au/football/world-cup/teams/australia/football-news-lionel-messi-hints-at-retirement-following-father-jorges-death-reveals-he-tried-to-win-world-cup-for-him-releases-emotional-tribute/news-story/e5087792fb98b40c5e2967967dd73f3e",
    "lede": "Lionel Messi said he has “serious doubts” about continuing to play football for “much longer” after the death of his father Jorge, in an emotional tribute posted on social media. “I don’t know what I’ll do without you, I don’t know how to go on. I just played football, and now I have serious doubts about continuing to do so for much longer,” the Argentinian champion wrote. Messi’s father, who was also his agent, died last week aged 68.",
    "image": "https://content.api.news/v3/images/bin/7156c357404d512be3bcb1ab1c5f1e0d",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "DEVDISCOURSE",
-   "title": "Clash on the Pitch: Nations Reject Boycott to Attend U-20 Women's World Cup",
-   "iso": "2026-08-12T22:16:34.000Z",
-   "link": "https://www.devdiscourse.com/article/sports-games/3963189-clash-on-the-pitch-nations-reject-boycott-to-attend-u-20-womens-world-cup",
-   "lede": "Canada and Brazil have committed to participating in the upcoming Under-20 Women's World Cup in Poland, despite a significant governance dispute shaking world football. This latest development comes as a part of a broader conflict concerning FIFA's management strategies. Canada Soccer confirmed its plans to compete, stating, \"Nothing has changed from our end.\" Similarly, Brazil’s federation spokesperson affirmed their national team's attendance.",
-   "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_03_2025_10_54_10_5062479.png&width=920&format=jpeg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "Netherlands name Xavi as new coach",
-   "iso": "2026-08-12T20:14:55.000Z",
-   "link": "https://www.straitstimes.com/sport/football/netherlands-name-xavi-as-new-coach",
-   "lede": "Soccer Football - FIFA 2026 World Cup Draw Welcome Reception - Hall of Nations, John F. Kennedy Memorial Center for the Performing Arts, Washington D.C., District of Columbia, U.S. - December 4, 2025 Xavi Hernandez arrives at the Welcome Reception ahead of the FIFA 2026 World Cup Draw REUTERS/Jeenah Moon. Aug 12 - Xavi Hernandez has been appointed as the Netherlands' head coach on a contract through the 2030 World Cup, the Dutch football federation said on Wednesday. The 46-year-old Spaniard replaces Ronald Koeman and takes charge of a national team for the first time.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/14435d63b4f5bd9e3b1a941ea33819d4eb998079c82c037e8d3e063c7227fea7",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "THE SUN",
    "title": "Xavi makes shock return to football as manager of former World Cup finalists",
    "iso": "2026-08-12T19:51:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40043565/xavi-agrees-shock-return-to-football-as-netherlands-manager/",
    "lede": "XAVI HERNANDEZ has agreed a shock return to management as the new boss of the Netherlands. The Barcelona legend, 46, is set to take charge of the Oranje on a four-year deal, marking his return to management. Xavi has been out of work since leaving Barcelona at the end of the 2023-24 season. The official Netherlands X account posted: “We proudly present our new head coach.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/newspress-collage-uennobn2d-1786564258452.jpg?quality=90&strip=all&1786567874&w=1920&h=1080&crop=1",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "GULF NEWS",
@@ -78,6 +68,15 @@
    "link": "https://gulfnews.com/sport/football/netherlands-appoint-xavi-as-coach-through-2030-world-cup-1.500639095",
    "lede": "The Netherlands have appointed former Barcelona coach Xavi Hernandez as their new men's national team head coach, with the 46-year-old Spaniard signing a contract through the 2030 FIFA World Cup.Xavi takes over from Ronald Koeman, bringing an end to the Dutch Football Federation's search for a new coach.. Get updated faster and for FREE: Download the Gulf News app now - simply click here..\" It is an honor to become the coach of the Dutch national team,\" Xavi said. \"As someone who came through Barcelona's academy, with the strong influence of figures like Johan Cruyff and Rinus Michels, I feel a special connection to Dutch football.",
    "image": "https://media.assettype.com/gulfnews%2F2026-08-12%2Fsp3sxqtp%2FHPiztRAX0AAic4j.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "WASHINGTONPOST.COM",
+   "title": "Netherlands hires Spain great Xavi Hernandez as first foreign-born coach since 1978",
+   "iso": "2026-08-12T23:14:07.000Z",
+   "link": "https://www.washingtonpost.com/sports/soccer/2026/08/12/netherlands-xavi-hernandez/d192304a-9688-11f1-9ef9-1be722184483_story.html",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
