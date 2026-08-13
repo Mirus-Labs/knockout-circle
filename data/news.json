@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-13T20:24:40.164Z",
+ "updated": "2026-08-13T20:49:21.271Z",
  "news": [
   {
-   "cat": "APNEWS.COM",
-   "title": "Ghana beats Ivory Coast 2-1 at WAFCON to keep Women's World Cup qualification hopes alive",
-   "iso": "2026-08-13T19:16:00.000Z",
-   "link": "https://apnews.com/article/womens-world-cup-nigeria-south-africa-ghana-ivory-cc36a078914b1f379032ba0eb8561a59",
-   "lede": "Ghana has come from behind to beat Ivory Coast 2-1 and earn one of Africa’s last two chances to qualify for the Women’s World Cup. Nigeria is to play South Africa for the other later Thursday as the four beaten quarterfinalists at the Women’s Africa Cup of Nations were pitted against each other to decide which two progress to the World Cup intercontinental playoffs. The four semifinalists – Cameroon, Malawi, Morocco and Algeria – have all qualified directly for next year’s tournament in Brazil. Cameroon and tournament debutant Malawi will contest the WAFCON final on Sunday.",
-   "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+   "cat": "CAFONLINE.COM",
+   "title": "Ghana fight back to beat Côte d’Ivoire and keep World Cup dream alive",
+   "iso": "2026-08-13T19:12:33.000Z",
+   "link": "https://www.cafonline.com/caf-womens-africa-cup-of-nations/news/ghana-fight-back-to-beat-cote-d-ivoire-and-keep-world-cup-dream-alive/",
+   "lede": "Ghana came from behind to defeat Côte d’Ivoire 2-1 and secure a place in the FIFA Women’s World Cup 2027 inter-confederation play-offs after a dramatic TotalEnergies CAF Women’s Africa Cup of Nations play-off in Casablanca. The Black Queens trailed after just four minutes at the Larbi Zaouli Stadium when Ines Konan converted a penalty to give Côte d’Ivoire the perfect start. But Ghana produced a determined second-half response, with Princess Marfo equalising in the 59th minute before Josephine Bonsu scored from the penalty spot in the 72nd minute to complete the turnaround. The result keeps alive Ghana’s hopes of returning to the Women’s World Cup for the first time since 2007 and gives the Black Queens another route towards qualification for Brazil 2027.",
+   "image": "https://www.cafonline.com//media/ybwkorqr/princess-dankwa-of-ghana-celebrates-goal-with-teammates-during-the-2026-womens-africa-cup-of-nations-match-between-cote-divoire-and-ghana.jpg?width=1200",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "LSE BLOGS",
+   "cat": "BLOGS.LSE.AC.UK",
    "title": "The EU has a duty to reform football - LSE European Politics",
    "iso": "2026-08-13T17:14:16.000Z",
    "link": "https://blogs.lse.ac.uk/europpblog/2026/08/13/uefa-fifa-football-ticket-prices-eu/",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "BAVARIANFOOTBALLWORKS.COM",
+   "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Bayern Munich’s Manuel Neuer on ‘very bitter’ World Cup exit",
    "iso": "2026-08-13T16:15:00.000Z",
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/242490/bayern-munich-manuel-neuer-germany-world-cup-exit",
@@ -62,22 +62,20 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BBC",
-   "title": "Why half of England's World Cup defenders are on the move",
-   "iso": "2026-08-13T14:41:24.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cj63p367gpyo",
-   "lede": "Will Djed Spence (left) and Ezri Konsa (middle) be the next England players to be involved in transfers this summer? England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market. Of the 27 players that went out to North America - 26 in the original squad and Trevoh Chalobah, who replaced the injured Tino Livramento - seven have moved clubs this summer, with another two linked with transfers. Morgan Rogers went from Aston Villa to Chelsea in a £117m deal, midfielder Elliot Anderson moved for £116m from Nottingham Forest to Manchester City and winger Anthony Gordon cost Barcelona almost £70m when transferring from Newcastle.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8dab/live/9375d440-971b-11f1-bb91-6bb44c42ed47.jpg",
+   "cat": "GHANA SPORTS ONLINE",
+   "title": "Dominic Adiyiah reflects on historic 2009 U-20 World Cup triumph",
+   "iso": "2026-08-13T18:57:08.000Z",
+   "link": "https://ghanasportsonline.com/dominic-adiyiah-reflects-on-historic-2009-u-20-world-cup-triumph/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SPORTSTAR",
-   "title": "‘This was my World Cup’ says Somali referee Omar Artan after Super Cup final",
-   "iso": "2026-08-13T17:10:17.000Z",
-   "link": "https://sportstar.thehindu.com/football/omar-artan-referee-super-cup-final-links-feeling-to-world-cup-psg-vs-aston-villa/article71342566.ece",
-   "lede": "Somali referee Omar Artan calls the UEFA Super Cup his \"World Cup\" after being denied entry to the actual tournament.",
-   "image": "https://ss-i.thgim.com/public/incoming/9j9813/article71342534.ece/alternates/LANDSCAPE_1200/Austria_UEFA_Super_Cup_Soccer_8642_.jpg",
+   "cat": "ESPN PHILIPPINES",
+   "title": "Man United boss Michael Carrick backs Kobbie Mainoo after 'challenging' World Cup",
+   "iso": "2026-08-13T18:33:45.000Z",
+   "link": "https://www.espn.ph/football/story/_/id/49600275/man-united-boss-michael-carrick-backs-kobbie-mainoo-challenging-world-cup",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
