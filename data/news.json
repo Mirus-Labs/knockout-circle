@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-13T10:37:32.996Z",
+ "updated": "2026-08-13T11:12:30.726Z",
  "news": [
   {
-   "cat": "AL JAZEERA",
-   "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
-   "iso": "2026-08-13T09:19:04.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco",
-   "lede": "Poland says their preparations to host the Women’s Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout. Trump’s comments are the first time he has spoken in FIFA president’s defence since FFE plans were leaked on July 28. Three confederations release letter criticising FIFA’s president over his proposal to sell off stakes in the World Cup. However, UEFA says a ‘departure payment’ was made to a female employee when Infantino was the body’s general-secretary.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-18T220953Z_1845672574_UP1EM6I1PKGDT_RTRMADP_3_SOCCER-WORLDCUP-CAN-QAT-1786610934.jpg?resize=1920%2C1440",
+   "cat": "THE STRAITS TIMES",
+   "title": "Xavi Hernandez named first foreign coach of the Netherlands since 1978",
+   "iso": "2026-08-13T09:28:06.000Z",
+   "link": "https://www.straitstimes.com/sport/football/xavi-hernandez-named-first-foreign-coach-of-the-netherlands-since-1978",
+   "lede": "Former Barcelona player and Spanish international Xavi Hernandez has been appointed manager of the Netherlands, succeeding Ronald Koeman, who resigned after the World Cup. PARIS – Barcelona great Xavi Hernandez hailed a “special connection” to Dutch football after he was named as the new coach of the Netherlands national team on Aug 12, becoming their first foreign boss in 48 years. The former midfielder, who played a key role in Spain’s 2010 World Cup-winning campaign, has not held a head coaching job since leaving the Camp Nou in 2024. Xavi, who replaces Ronald Koeman, has signed a four-year deal, which means he will lead the Oranje’s Euro 2028 and 2030 World Cup campaigns.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e9c9ee2f8a7579f0d4c8889b7b1882bfd3369cc4010599ba96720330eb478b62",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -22,22 +22,20 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THE EDGE MALAYSIA",
-   "title": "My Say: The World Cup and the world: 2026 edition",
-   "iso": "2026-08-13T03:30:00.000Z",
-   "link": "https://theedgemalaysia.com/node/813953",
-   "lede": "I generally experience a wave of sadness after the Fifa World Cup ends. After over a month or so of near-daily football, especially up to the quarterfinals, I always feel rather empty after the final. A couple of friends I know had the good fortune of being at the World Cup, even attending a matc...",
-   "image": "https://assets.theedgemarkets.com/P52-Spain-World-Cup-TEM1639_Forum_reuters.jpg",
+   "cat": "REUTERS.COM",
+   "title": "CAF support for Infantino is no guarantee of African votes at FIFA election",
+   "iso": "2026-08-13T10:57:54.000Z",
+   "link": "https://www.reuters.com/world/africa/caf-support-infantino-is-no-guarantee-african-votes-fifa-election-2026-08-13/",
+   "lede": "",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "FOX SPORTS",
-   "title": "Aussie ‘Rolls Royce’ just landed a massive PL move. It might only be the start for the teen ‘phenom’",
-   "iso": "2026-08-13T03:08:51.000Z",
-   "link": "https://www.foxsports.com.au/football/epl-2026-lucas-herrington-joins-hull-city-teenagers-rise-to-the-premier-league-socceroos-world-cup-debut-missed-penalty-against-egypt-feature/news-story/3dc3130289969994331f36b37388b1b5",
-   "lede": "The “Rolls Royce” many in Australian football did not even know we had has just put the nation back on the world map. Following in the footsteps of several of the nation’s greatest ever players, 18-year-old Lucas Herrington has just inked an Australian transfer record move to the English Premier League. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Freshly promoted Hull City is believed to have coughed up £17 million - that’s AUD $32.5 million – to the Colorado Rapids for the teenager with £12.6 million to be paid upfront and the remainder in add-ons.",
-   "image": "https://content.api.news/v3/images/bin/a876743faae3bbdb75336495bf6e1a8f",
+   "cat": "THE INDIAN EXPRESS",
+   "title": "Netherlands announce Spain and Barcelona legend Xavi as head coach",
+   "iso": "2026-08-13T10:53:30.000Z",
+   "link": "https://indianexpress.com/article/sports/football/netherlands-announce-spain-barcelona-legend-xavi-head-coach-10831548/",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -52,31 +50,31 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "ALJAZEERA.COM",
+   "title": "La Liga: What to know ahead of new 2026-27 football season",
+   "iso": "2026-08-13T09:41:33.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season",
+   "lede": "Predictions, news and transfer latest ahead of the new La Liga season, as Barcelona and Real Madrid renew title rivalry.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20251221__88T29UN__v1__HighRes__FblEspLigaVillarrealBarcelona-1786429302_c12014-1786431209.jpg?resize=1200%2C630&quality=80",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "REUTERS.COM",
    "title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino",
    "iso": "2026-08-13T09:41:26.000Z",
    "link": "https://www.reuters.com/sports/soccer/qatar-morocco-among-six-arab-federations-backing-fifas-infantino-2026-08-13/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DAILY SABAH",
-   "title": "Barca legend Xavi named Netherlands coach through 2030 World Cup | Daily Sabah",
-   "iso": "2026-08-13T07:57:33.000Z",
-   "link": "https://www.dailysabah.com/sports/football/barca-legend-xavi-named-netherlands-coach-through-2030-world-cup",
-   "lede": "Xavi Hernandez has been appointed coach of the Netherlands, taking charge of the Dutch national team on a four-year contract that will run through the 2030...",
-   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/13/thumbs/1200x675/455538.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
-   "iso": "2026-08-13T07:46:31.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final",
-   "lede": "Malawi will face Cameroon in the Women's Africa Cup of Nations final after respective wins over Algeria and Morocco.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14177914-1786605764.jpg?resize=1920%2C1440",
+   "cat": "ALJAZEERA.COM",
+   "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+   "iso": "2026-08-13T09:31:38.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco",
+   "lede": "Football's top official boosted by further support for his presidency after proposed private investment in game nixed.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-18T220953Z_1845672574_UP1EM6I1PKGDT_RTRMADP_3_SOCCER-WORLDCUP-CAN-QAT-1786610934.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
