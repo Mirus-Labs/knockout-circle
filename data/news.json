@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T20:49:21.271Z",
+ "updated": "2026-08-13T21:30:07.569Z",
  "news": [
   {
    "cat": "CAFONLINE.COM",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "BLOGS.LSE.AC.UK",
+   "cat": "SKY SPORTS",
+   "title": "Rodri transfer news: Man City reject £55m bid from Barcelona for World Cup-winning midfielder",
+   "iso": "2026-08-13T18:47:56.000Z",
+   "link": "https://www.skysports.com/football/news/11679/13567985/rodri-transfer-news-man-city-reject-lb55m-bid-from-barcelona-for-world-cup-winning-midfielder",
+   "lede": "Manchester City have rejected a new £55m bid from Barcelona for Rodri. Last week Barcelona had an initial offer in the region of £40m knocked back . On Wednesday, Sky Sports News reported that Barca were expected to raise their offer to between £50m and £60m, but their new offer is still not enough for City. Barcelona remain determined to sign Rodri and are considering their next move.",
+   "image": "https://e0.365dm.com/26/01/1600x900/skysports-man-city-rodri-premier-league_7126378.jpg?20260104190636",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "LSE BLOGS",
    "title": "The EU has a duty to reform football - LSE European Politics",
    "iso": "2026-08-13T17:14:16.000Z",
    "link": "https://blogs.lse.ac.uk/europpblog/2026/08/13/uefa-fifa-football-ticket-prices-eu/",
    "lede": "Bridging research, policy and public debate on Europe. High ticket prices at the 2026 FIFA World Cup were heavily criticised by football supporters, but the price of European club football also merits attention. Tsjalle van der Burg argues the EU has failed to apply competition law where it can help football fans most, but special EU sports legislation could help redress the balance. Sky-high ticket prices at this year’s FIFA World Cup sparked much discussion.",
    "image": "https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2026/08/bruno-fernandes-football-featured.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -38,8 +48,8 @@
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/242490/bayern-munich-manuel-neuer-germany-world-cup-exit",
    "lede": "Retirement has been a topic hovering around Manuel Neuer lately. The legendary goalkeeper came out of international retirement for a last run with Germany this summer, which ended in heartbreak at the Men’s World Cup. And the upcoming Bayern Munich season may be his last. But the 40-year-old just can’t get enough of football so far — and that’s a good thing.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288031054.jpg?quality=90&strip=all&crop=0%2C5.9329840002249%2C100%2C78.534031413613&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MANCHESTER EVENING NEWS",
@@ -48,34 +58,26 @@
    "link": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-told-manchester-34454510",
    "lede": "Michael Carrick revealed he was in touch with Kobbie Mainoo throughout the World Cup as he tried to keep his spirits up during a summer that turned into a challenging experience for the young midfielder. Mainoo was included in Thomas Tuchel's 26-man squad for the tournament after a superb second half of the season at Manchester United , where he took his game to new levels under the guidance of Carrick. But his World Cup dream turned into a nightmare, with Tuchel preferring other options in midfield. Jordan Henderson and Reece James both played in that position ahead of Mainoo during the tournament.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/article34454605.ece/ALTERNATES/s1200d/1_GettyImages-2290036225.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "INVESTORS' CHRONICLE",
-   "title": "Entain scores a World Cup win",
-   "iso": "2026-08-13T15:26:21.000Z",
-   "link": "https://www.investorschronicle.co.uk/content/6dd3e655-9954-45f2-8cf3-df541b9770a0",
-   "lede": "Eastern European arm is up for sale. Interim results for Entain (ENT) came in better than analysts expected. Underlying cash profit was £10mn lower at £479mn – a credible performance given the hit to earnings following an increase in the UK’s online gambling tax rates. Broker Shore Capital had expected an underlying Ebitda decline of £40mn.",
-   "image": "https://d2iztrg3kgqpue.cloudfront.net/production/5b9a0163-2799-48af-830c-acc7ecdf29eb.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "GHANA SPORTS ONLINE",
-   "title": "Dominic Adiyiah reflects on historic 2009 U-20 World Cup triumph",
-   "iso": "2026-08-13T18:57:08.000Z",
-   "link": "https://ghanasportsonline.com/dominic-adiyiah-reflects-on-historic-2009-u-20-world-cup-triumph/",
-   "lede": "",
+   "cat": "INVESTORS' CHRONICLE",
+   "title": "Entain scores a World Cup win",
+   "iso": "2026-08-13T15:42:01.000Z",
+   "link": "https://www.investorschronicle.co.uk/content/6dd3e655-9954-45f2-8cf3-df541b9770a0",
+   "lede": "Eastern European arm is up for sale. Interim results for Entain (ENT) came in better than analysts expected. Underlying cash profit was £10mn lower at £479mn – a credible performance given the hit to earnings following an increase in the UK’s online gambling tax rates. Broker Shore Capital had expected an underlying Ebitda decline of £40mn.",
+   "image": "https://d2iztrg3kgqpue.cloudfront.net/production/5b9a0163-2799-48af-830c-acc7ecdf29eb.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ESPN PHILIPPINES",
-   "title": "Man United boss Michael Carrick backs Kobbie Mainoo after 'challenging' World Cup",
-   "iso": "2026-08-13T18:33:45.000Z",
-   "link": "https://www.espn.ph/football/story/_/id/49600275/man-united-boss-michael-carrick-backs-kobbie-mainoo-challenging-world-cup",
-   "lede": "",
+   "cat": "RFI",
+   "title": "Sister act ushers underdogs Malawi into WAFCON final against Cameroon",
+   "iso": "2026-08-13T15:04:06.000Z",
+   "link": "https://www.rfi.fr/en/sports/20260813-sister-act-ushers-underdogs-malawi-into-wafcon-final-against-cameroon",
+   "lede": "Goals from sisters Tabitha and Temwa Chawinga on Wednesday gave tournament outsiders Malawi a 3-1 victory over Algeria, sending them to the Women's Africa Cup of Nations final – after they qualified for the tournament for the first time this year. Malawi are ranked 153rd in the world and qualified for the Women's Africa Cup of Nations (WAFCON) tournament for the first time this year. They will now face Cameroon on Sunday, after the Indomitable Lionesses defeated hosts Morocco 3-1 on penalties following a 0-0 draw after extra time. Malawi took advantage of Algeria's Morgane Belkhiter's red card for a foul on the last defender midway through the first half to build a 2-0 lead at the break.",
+   "image": "https://s.rfi.fr/media/display/312c7342-967c-11f1-a5ad-005056bf30b7/w:1280/p:16x9/malawi-2.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
