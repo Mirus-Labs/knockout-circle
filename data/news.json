@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-13T19:46:26.067Z",
+ "updated": "2026-08-13T20:24:40.164Z",
  "news": [
+  {
+   "cat": "APNEWS.COM",
+   "title": "Ghana beats Ivory Coast 2-1 at WAFCON to keep Women's World Cup qualification hopes alive",
+   "iso": "2026-08-13T19:16:00.000Z",
+   "link": "https://apnews.com/article/womens-world-cup-nigeria-south-africa-ghana-ivory-cc36a078914b1f379032ba0eb8561a59",
+   "lede": "Ghana has come from behind to beat Ivory Coast 2-1 and earn one of Africa’s last two chances to qualify for the Women’s World Cup. Nigeria is to play South Africa for the other later Thursday as the four beaten quarterfinalists at the Women’s Africa Cup of Nations were pitted against each other to decide which two progress to the World Cup intercontinental playoffs. The four semifinalists – Cameroon, Malawi, Morocco and Algeria – have all qualified directly for next year’s tournament in Brazil. Cameroon and tournament debutant Malawi will contest the WAFCON final on Sunday.",
+   "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "DAILYRECORDNEWS.COM",
    "title": "A World Cup referee shares his view of red cards, hydration breaks and soccer history",
@@ -8,8 +18,8 @@
    "link": "https://www.dailyrecordnews.com/sports/a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history/article_302820b7-77ba-49a6-9dad-b9588304a17a.html",
    "lede": "That’s how Iván Barton described the moment he heard his last name called during the 2026 World Cup referee assignment meeting. It wasn’t to ask a question or to correct some administrative detail. The next sentence changed his career forever: “Barton, your match is France vs. … After that, I didn’t hear anything else.",
    "image": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/f/06/f066de1c-e80f-468a-be8e-9edcb1fc3f92/6a7bb080ca3ba.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "LSE BLOGS",
@@ -18,18 +28,18 @@
    "link": "https://blogs.lse.ac.uk/europpblog/2026/08/13/uefa-fifa-football-ticket-prices-eu/",
    "lede": "Bridging research, policy and public debate on Europe. High ticket prices at the 2026 FIFA World Cup were heavily criticised by football supporters, but the price of European club football also merits attention. Tsjalle van der Burg argues the EU has failed to apply competition law where it can help football fans most, but special EU sports legislation could help redress the balance. Sky-high ticket prices at this year’s FIFA World Cup sparked much discussion.",
    "image": "https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2026/08/bruno-fernandes-football-featured.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
+   "cat": "BAVARIANFOOTBALLWORKS.COM",
    "title": "Bayern Munich’s Manuel Neuer on ‘very bitter’ World Cup exit",
    "iso": "2026-08-13T16:15:00.000Z",
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/242490/bayern-munich-manuel-neuer-germany-world-cup-exit",
    "lede": "Retirement has been a topic hovering around Manuel Neuer lately. The legendary goalkeeper came out of international retirement for a last run with Germany this summer, which ended in heartbreak at the Men’s World Cup. And the upcoming Bayern Munich season may be his last. But the 40-year-old just can’t get enough of football so far — and that’s a good thing.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288031054.jpg?quality=90&strip=all&crop=0%2C5.9329840002249%2C100%2C78.534031413613&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "MANCHESTER EVENING NEWS",
@@ -38,8 +48,8 @@
    "link": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-told-manchester-34454510",
    "lede": "Michael Carrick revealed he was in touch with Kobbie Mainoo throughout the World Cup as he tried to keep his spirits up during a summer that turned into a challenging experience for the young midfielder. Mainoo was included in Thomas Tuchel's 26-man squad for the tournament after a superb second half of the season at Manchester United , where he took his game to new levels under the guidance of Carrick. But his World Cup dream turned into a nightmare, with Tuchel preferring other options in midfield. Jordan Henderson and Reece James both played in that position ahead of Mainoo during the tournament.",
    "image": "https://i2-prod.manchestereveningnews.co.uk/article34454605.ece/ALTERNATES/s1200d/1_GettyImages-2290036225.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "INVESTORS' CHRONICLE",
@@ -48,18 +58,18 @@
    "link": "https://www.investorschronicle.co.uk/content/6dd3e655-9954-45f2-8cf3-df541b9770a0",
    "lede": "Eastern European arm is up for sale. Interim results for Entain (ENT) came in better than analysts expected. Underlying cash profit was £10mn lower at £479mn – a credible performance given the hit to earnings following an increase in the UK’s online gambling tax rates. Broker Shore Capital had expected an underlying Ebitda decline of £40mn.",
    "image": "https://d2iztrg3kgqpue.cloudfront.net/production/5b9a0163-2799-48af-830c-acc7ecdf29eb.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "RFI",
-   "title": "Sister act ushers underdogs Malawi into WAFCON final against Cameroon",
-   "iso": "2026-08-13T15:04:06.000Z",
-   "link": "https://www.rfi.fr/en/sports/20260813-sister-act-ushers-underdogs-malawi-into-wafcon-final-against-cameroon",
-   "lede": "Goals from sisters Tabitha and Temwa Chawinga on Wednesday gave tournament outsiders Malawi a 3-1 victory over Algeria, sending them to the Women's Africa Cup of Nations final – after they qualified for the tournament for the first time this year. Malawi are ranked 153rd in the world and qualified for the Women's Africa Cup of Nations (WAFCON) tournament for the first time this year. They will now face Cameroon on Sunday, after the Indomitable Lionesses defeated hosts Morocco 3-1 on penalties following a 0-0 draw after extra time. Malawi took advantage of Algeria's Morgane Belkhiter's red card for a foul on the last defender midway through the first half to build a 2-0 lead at the break.",
-   "image": "https://s.rfi.fr/media/display/312c7342-967c-11f1-a5ad-005056bf30b7/w:1280/p:16x9/malawi-2.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "BBC",
+   "title": "Why half of England's World Cup defenders are on the move",
+   "iso": "2026-08-13T14:41:24.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cj63p367gpyo",
+   "lede": "Will Djed Spence (left) and Ezri Konsa (middle) be the next England players to be involved in transfers this summer? England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market. Of the 27 players that went out to North America - 26 in the original squad and Trevoh Chalobah, who replaced the injured Tino Livramento - seven have moved clubs this summer, with another two linked with transfers. Morgan Rogers went from Aston Villa to Chelsea in a £117m deal, midfielder Elliot Anderson moved for £116m from Nottingham Forest to Manchester City and winger Anthony Gordon cost Barcelona almost £70m when transferring from Newcastle.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8dab/live/9375d440-971b-11f1-bb91-6bb44c42ed47.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "SPORTSTAR",
@@ -68,15 +78,6 @@
    "link": "https://sportstar.thehindu.com/football/omar-artan-referee-super-cup-final-links-feeling-to-world-cup-psg-vs-aston-villa/article71342566.ece",
    "lede": "Somali referee Omar Artan calls the UEFA Super Cup his \"World Cup\" after being denied entry to the actual tournament.",
    "image": "https://ss-i.thgim.com/public/incoming/9j9813/article71342534.ece/alternates/LANDSCAPE_1200/Austria_UEFA_Super_Cup_Soccer_8642_.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "CALIBER.AZ",
-   "title": "Six Arab football associations back Infantino amid FIFA investment crisis",
-   "iso": "2026-08-13T17:06:05.000Z",
-   "link": "https://caliber.az/en/post/six-arab-football-associations-back-infantino-amid-fifa-investment-crisis",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
