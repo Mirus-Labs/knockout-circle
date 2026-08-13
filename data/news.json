@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T15:16:13.201Z",
+ "updated": "2026-08-13T15:17:42.094Z",
  "news": [
   {
    "cat": "BBC",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "TURKIYETODAY.COM",
+   "cat": "TÜRKIYE TODAY",
    "title": "Can Infantino survive as half of FIFA's confederations turn against him?",
    "iso": "2026-08-13T12:53:21.000Z",
    "link": "https://www.turkiyetoday.com/sports/can-infantino-survive-as-half-of-fifas-confederations-turn-against-him-3226029",
@@ -52,32 +52,32 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "DECCAN CHRONICLE",
+   "title": "Infantino Receives Support From 6 Arab Federations Amid Revolt Over World Cup Plan",
+   "iso": "2026-08-13T12:49:55.000Z",
+   "link": "https://www.deccanchronicle.com/sports/infantino-receives-support-from-6-arab-federations-amid-revolt-over-world-cup-plan-1978892?utm_source=home&utm_medium=justIn",
+   "lede": "Zurich: The heads of six Arab football federations expressed their \"full support\" and \"confidence\" in Gianni Infantino on Thursday as the embattled FIFA president fights to keep his job after his failed World Cup private investment plan.The backing came from 2030 World Cup co-host Morocco, Qatar, Egypt, Mauritania, Lebanon and Sudan, with four of the signatories being FIFA council members.\" We, the undersigned leaders of our respective football associations, express our full support for Mr Gianni Infantino, President of FIFA, and reaffirm our confidence in his leadership and continued commitment to the development of football worldwide,\" the statement read.\" We deeply appreciate Mr Infantino's sustained efforts to advance football globally, expand opportunities across all regions and strengthen the game's role in bringing people and communities together.\"",
+   "image": "https://www.deccanchronicle.com/h-upload/2026/08/13/2075677-aa-7903813.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "BROBIBLE",
    "title": "South Korea's Football Assoc. Bribed International Referees With Escorts In The Early 2010s: Report",
    "iso": "2026-08-13T12:00:02.000Z",
    "link": "https://brobible.com/sports/article/south-koreas-football-assoc-ref-bribery-scheme/",
    "lede": "The KFA has apologized for bribing refs with escort services. The Korea Football Association has issued a public apology after it was reported that it had bribed referees with escort services in the early 2010s. South Korea has qualified for 11 straight World Cups since 1986. According to a government report that was recently made public, the Korea Football Association (KFA) spent approximately $3,950 (5.6 million Korean won) on sexual services for foreign referees on eight separate occasions surrounding World Cup and Olympic qualifying matches between 2011 and 2012.",
    "image": "https://brobible.com/wp-content/uploads/2026/08/south-korea-2014-world-cup.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "THE SUN",
+   "cat": "THESUN.CO.UK",
    "title": "Former Man Utd star and World Cup winner joins Zinedine Zidane's new France set-up in shock selection",
    "iso": "2026-08-13T11:56:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40048677/fabien-barthez-joins-zinedine-zidane-france-backroom-man-utd/",
    "lede": "FABIEN BARTHEZ has linked back up with old pal Zinedine Zidane after being handed a surprise role with France. The former Manchester United keeper, 55, has been named as Les Bleus’ new goalkeeping coach. France officially unveiled Zidane’s brand new backroom team on Thursday morning after he replaced Didier Deschamps in the top job. And Barthez is one of the standout names joining the Real Madrid legend as France look ahead to Euro 2028 in England, Scotland, Wales and the Republic of Ireland.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/former-french-football-players-fabien-1100952546.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "REDIFF.COM",
-   "title": "Why India Chose Brazil Over FIFA ASEAN Cup",
-   "iso": "2026-08-13T11:48:29.000Z",
-   "link": "https://www.rediff.com/sports/report/india-withdraws-from-asean-cup-for-brazil-friendly/20260813.htm",
-   "lede": "The Indian football team has made a strategic decision to withdraw from the inaugural FIFA ASEAN Cup, opting instead for a high-profile international friendly against five-time world champions Brazil, aiming to enhance its global football experience. India have withdrawn from the inaugural FIFA ASEAN Cup, opting to prioritise their high-profile international friendly against five-time world champions Brazil in October, All India Football Federation deputy secretary general M Satyanarayanan said on Thursday. India's withdrawal from the upcoming tournament also means they will miss the opportunity to face some of Southeast Asia's leading sides in a FIFA-sanctioned competition. \"We have pulled out of the FIFA ASEAN Cup since we can't play both Brazil and FIFA ASEAN Cup,\" Satyanarayanan told PTI.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/jul/30india-brazil.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
