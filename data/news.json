@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-13T14:08:49.427Z",
+ "updated": "2026-08-13T15:16:13.201Z",
  "news": [
   {
-   "cat": "THE LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
-   "title": "The EU has a duty to reform football - LSE European Politics",
-   "iso": "2026-08-13T13:40:27.000Z",
-   "link": "https://blogs.lse.ac.uk/europpblog/2026/08/13/uefa-fifa-football-ticket-prices-eu/",
-   "lede": "Bridging research, policy and public debate on Europe. High ticket prices at the 2026 FIFA World Cup were heavily criticised by football supporters, but the price of European club football also merits attention. Tsjalle van der Burg argues the EU has failed to apply competition law where it can help football fans most, but special EU sports legislation could help redress the balance. Sky-high ticket prices at this year’s FIFA World Cup sparked much discussion.",
-   "image": "https://blogsmedia.lse.ac.uk/blogs.dir/28/files/2026/08/bruno-fernandes-football-featured.jpg",
+   "cat": "BBC",
+   "title": "Why half of England's World Cup defenders are on the move",
+   "iso": "2026-08-13T14:41:24.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj63p367gpyo",
+   "lede": "Will Djed Spence (left) and Ezri Konsa (middle) be the next England players to be involved in transfers this summer? England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market. Of the 27 players that went out to North America - 26 in the original squad and Trevoh Chalobah, who replaced the injured Tino Livramento - seven have moved clubs this summer, with another two linked with transfers. Morgan Rogers went from Aston Villa to Chelsea in a £117m deal, midfielder Elliot Anderson moved for £116m from Nottingham Forest to Manchester City and winger Anthony Gordon cost Barcelona almost £70m when transferring from Newcastle.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8dab/live/9375d440-971b-11f1-bb91-6bb44c42ed47.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "TÜRKIYE TODAY",
+   "cat": "ADWEEK",
+   "title": "The Premier League Looks to Score World Cup Audiences With US Campaign",
+   "iso": "2026-08-13T13:00:00.000Z",
+   "link": "https://www.adweek.com/convergent-tv/the-premier-league-looks-to-score-world-cup-audiences-with-us-campaign/",
+   "lede": "Fans still suffering from the post-World Cup blues can rejoice! Top-tier soccer will soon be gracing our screens with the return of another season of the English Premier League. The season kicks off on Friday, August 21, pitting Arsenal against the other 19 teams as they look to defend their long-sought-after crown. Coming off a wildly successful World Cup, the league is hoping its players, including Erling Haaland, and its storylines can replicate the excitement from the tournament.",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/08/DSC4840-e1786568510908.jpg?w=600&h=315&crop=1",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "TURKIYETODAY.COM",
    "title": "Can Infantino survive as half of FIFA's confederations turn against him?",
    "iso": "2026-08-13T12:53:21.000Z",
    "link": "https://www.turkiyetoday.com/sports/can-infantino-survive-as-half-of-fifas-confederations-turn-against-him-3226029",
    "lede": "FIFA President Gianni Infantino is facing growing resistance from three of world football's six continental confederations as the 2027 presidential race draws closer, putting both his electoral support and his authority inside the organization under renewed pressure. UEFA, the Asian Football Confederation (AFC), and Concacaf, which oversee football in Europe, Asia, and North and Central America and the Caribbean, sharply stepped up their confrontation with FIFA on Monday. In a joint statement, they accused FIFA's leadership of a \"fundamental breach of trust\" and \"deception\" over the handling of an abandoned proposal to sell a stake in the FIFA World Cup to private investors. The three confederations rejected the idea that the dispute could be put down simply to poor communication or procedural mistakes.",
    "image": "https://img.turkiyetoday.com/images/2026/8/13/can-infantino-survive-as-half-of-fifas-confederations-turn-against-him-3226029_20260813154422.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BROBIBLE",
@@ -48,16 +58,6 @@
    "link": "https://brobible.com/sports/article/south-koreas-football-assoc-ref-bribery-scheme/",
    "lede": "The KFA has apologized for bribing refs with escort services. The Korea Football Association has issued a public apology after it was reported that it had bribed referees with escort services in the early 2010s. South Korea has qualified for 11 straight World Cups since 1986. According to a government report that was recently made public, the Korea Football Association (KFA) spent approximately $3,950 (5.6 million Korean won) on sexual services for foreign referees on eight separate occasions surrounding World Cup and Olympic qualifying matches between 2011 and 2012.",
    "image": "https://brobible.com/wp-content/uploads/2026/08/south-korea-2014-world-cup.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Who is supporting Gianni Infantino? Every country’s stance on Fifa president crisis",
-   "iso": "2026-08-13T11:58:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3032486.html",
-   "lede": "The Republic of Ireland are the latest to withdraw their endorsement of Infantino after his botched World Cup sell-off plan. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
@@ -72,7 +72,7 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "REDIFF",
+   "cat": "REDIFF.COM",
    "title": "Why India Chose Brazil Over FIFA ASEAN Cup",
    "iso": "2026-08-13T11:48:29.000Z",
    "link": "https://www.rediff.com/sports/report/india-withdraws-from-asean-cup-for-brazil-friendly/20260813.htm",
