@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-13T06:06:40.762Z",
+ "updated": "2026-08-13T07:03:21.873Z",
  "news": [
   {
-   "cat": "DECCAN HERALD",
+   "cat": "DECCANHERALD.COM",
    "title": "Netherlands appoint Spain great Xavi Hernandez as first foreign-born coach since 1978",
    "iso": "2026-08-13T05:15:11.000Z",
    "link": "https://www.deccanherald.com/sports/football/netherlands-appoint-spain-great-xavi-hernandez-as-first-foreign-born-coach-since-1978-4109426",
@@ -52,24 +52,14 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "DE ÚLTIMO MINUTO",
-   "title": "Xavi Hernández is named the new head coach of the Netherlands until the 2030 World Cup",
-   "iso": "2026-08-13T01:55:45.000Z",
-   "link": "https://deultimominuto.net/en/sports/football/xavi-hernandez-is-named-the-new-head-coach-of-the-netherlands-until-the-2030-world-cup/",
-   "lede": "Portada | Xavi Hernández is named the new head coach of the Netherlands until the 2030 World Cup. AMSTERDAM.- Xavi Hernández was appointed this Wednesday as the new head coach of the Netherlands men’s national team, replacing Ronald Koeman, who left the position after the Dutch team’s elimination in the 2026 World Cup. You might be interested in:PSG wins its second consecutive European Super Cup after defeating Aston Villa. The Royal Dutch Football Association (KNVB) confirmed that the 46-year-old Spanish coach signed a contract that will extend until the 2030 FIFA World Cup.",
-   "image": "https://cdn.deultimominuto.net/en/wp-content/uploads/sites/2/2026/08/xavi-hernandez-paises-bajos-1.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
    "iso": "2026-08-13T01:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
    "lede": "Messi’s father, ⁠Jorge, died last week at age of 68. Argentinian suggests he may not play on much longer. Lionel Messi has hinted that the end of his career may be near after ­admitting to “quite a few doubts” about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer’s World Cup appearing to take a toll on Argentina’s 39-year-old captain.",
    "image": "https://i.guim.co.uk/img/media/1f356d168038ff60e448992d3420c02c605762be/176_56_2648_2118/master/2648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400745b7e6427e7bfa1865366f8fa567",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DEVDISCOURSE",
@@ -78,6 +68,15 @@
    "link": "https://www.devdiscourse.com/article/sports-games/3963206-malawis-historic-world-cup-journey-a-testament-to-fifas-african-investment",
    "lede": "Malawi's unprecedented qualification for the 2027 Women's World Cup is credited to FIFA's investment in African football under President Gianni Infantino. The country's Football Association President, Fleetwood Haiya, asserts that Infantino's focus on leveling the playing field has been instrumental in their success. Haiya praises Infantino for prioritizing football development in undervalued associations, citing the decision to withdraw proposals that could detract from supporting poorer member associations. His unwavering loyalty to Infantino is based on shared values, promoting grassroots and women's football across Malawi.",
    "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/07_08_2026_10_36_04_8751481.jpg&width=920&format=jpeg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "BLOOMBERG.COM",
+   "title": "UK Economy Weathers Early Months of Iran War With 0.4% Growth",
+   "iso": "2026-08-13T06:05:00.000Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-13/uk-economy-weathers-early-months-of-iran-war-with-0-4-growth",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
