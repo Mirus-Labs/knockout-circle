@@ -1,6 +1,56 @@
 {
- "updated": "2026-08-14T05:09:32.973Z",
+ "updated": "2026-08-14T05:58:00.379Z",
  "news": [
+  {
+   "cat": "1NEWS",
+   "title": "NZ Football pulls support for Infantino as FIFA President",
+   "iso": "2026-08-14T05:33:29.000Z",
+   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
+   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
+   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "WKZO",
+   "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff",
+   "iso": "2026-08-14T05:32:11.000Z",
+   "link": "https://wkzo.com/2026/08/14/soccer-fifa-crisis-timeline-from-world-cup-final-to-global-standoff/",
+   "lede": "Aug 14 (Reuters) – Here is a timeline of events where FIFA president Gianni Infantino introduced a proposal to sell a slice of the World Cup’s commercial future that backfired and sparked a global revolt in the sport:. July 19 – The first 48-team World Cup concludes at New York New Jersey stadium with Infantino and U.S. President Donald Trump, booed as they walked onto the pitch, presenting the trophy to Spain after their 1-0 win over Argentina. July 28 – Shortly after a leak in the British media, FIFA announces it wants to create a $20 billion subsidiary to run the World Cup and other competitions, raising $4.2 billion for soccer development by selling a 20% stake to external investors.",
+   "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/14/2026-08-14T051335Z_2_LYNXMPEM702C5_RTROPTP_3_SOCCER-FIFA-STAKE.JPG",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "HYUNDAI.COM",
+   "title": "How the ASEAN Hyundai Cup™ Is Bringing Southeast Asia Together Through Football",
+   "iso": "2026-08-14T05:26:15.000Z",
+   "link": "https://www.hyundai.com/worldwide/en/brand-journal/lifestyle/asean-hyundai-cup-2026",
+   "lede": "The ASEAN Hyundai Cup™, title-sponsored by Hyundai Motor, officially kicked off on July 24, marking the start of Southeast Asia’s biggest football celebration. As part of its growing global football portfolio alongside FIFA and CONMEBOL, Hyundai is connecting with millions of fans through the tournament, celebrating the passion, unity, and sense of belonging that sport inspires across communities. Now in its 30th year anniversary, the ASEAN Hyundai Cup™ remains Southeast Asia’s premier football tournament. Bringing together 11 ASEAN Member Associations, the competition opens with Cambodia hosting Singapore before continuing across the region in a home-and-away format.",
+   "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/lifestyle/260812-asean-cup/thumbnail/hyundai-asean-cup-artice-social.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "‘Breakdown in trust’: Fresh calls for Infantino to fall on sword as Kiwis take aim at FIFA",
+   "iso": "2026-08-14T05:21:53.000Z",
+   "link": "https://www.foxsports.com.au/football/fifa/world-cup-2026-new-zealand-football-withdraws-support-for-gianni-infantino-fifa-president-faces-further-critics-over-selloff-scheme-latest-news/news-story/162efc7c8e10ef03f3ff3560d5b05fb2",
+   "lede": "New Zealand Football has joined the growing list of federations calling for sweeping changes at FIFA, withdrawing their support for embattled president Gianni Infantino. Infantino is facing the threat of civil war in the aftermath of his abandoned plan to sell off a 20 per cent stake in major FIFA tournaments, including the World Cup, to private equity. Called the FIFA Forward Enterprise, or FFE, the proposal united the football world in condemnation, with Infantino quickly aborting the scheme. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
+   "image": "https://content.api.news/v3/images/bin/d94f87d03e5c49e25c5773e236675d2e",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "DEVDISCOURSE",
+   "title": "Global Football Governance Crisis: Infantino's Controversial World Cup Proposal Unravels",
+   "iso": "2026-08-14T05:13:16.000Z",
+   "link": "https://www.devdiscourse.com/article/sports-games/3963691-global-football-governance-crisis-infantinos-controversial-world-cup-proposal-unravels",
+   "lede": "FIFA President Gianni Infantino's recent proposal to sell a 20% stake in the World Cup's commercial future has caused significant upheaval in the global football community. The plan, which sought to raise $4.2 billion for soccer development, bypassed the six regional confederations, sparking criticism over the lack of transparency and consultation. The controversial move drew ire from football bodies such as UEFA and CONCACAF, which criticized the absence of governance and transparency. Despite the initial pushback, Infantino eventually scrapped the plan on August 1, acknowledging the divisions it created within the football community.",
+   "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_08_2026_19_57_21_6595466.jpg&width=920&format=jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE TIMES OF INDIA",
    "title": "‘Full support’ for Infantino: Six Arab federations defy growing revolt over World Cup plan",
@@ -8,8 +58,8 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/full-support-for-infantino-six-arab-federations-defy-growing-revolt-over-world-cup-plan/articleshow/133229239.cms",
    "lede": "Six Arab football federations have thrown their weight behind Gianni Infantino, declaring their “full support” for the embattled FIFA president as opposition to his controversial World Cup investment plan continues to grow.The backing came from Morocco, Qatar, Egypt, Mauritania, Lebanon and Sudan on Thursday, with four of the six federation chiefs also serving on the FIFA Council. Their public show of support comes days after Infantino withdrew a proposed USD 20 billion private investment plan linked to the World Cup following a fierce backlash from football officials around the world.“. We, the undersigned leaders of our respective football associations, express our full support for Mr.",
    "image": "https://static.toiimg.com/thumb/msid-133229257,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DAILY NATION",
@@ -18,28 +68,8 @@
    "link": "https://nation.africa/kenya/sports/football/referee-yiembe-from-dusty-fields-of-nakuru-to-fifa-club-world-cup-and-uefa-super-cup-5557254",
    "lede": "Aston Villa's John McGinn remonstrates to assistant referee Stephen Yiembe during UEFA Super Cup final on Wednesday. Assistant referee Stephen Yiembe from Kenya boasts an impressive medal haul from officiating at major sporting championships across the globe. But Yembe’s story can’t be told without stating one caveat: Fifa does not allow referees to grant interviews to the media without clearance from the headquarters in Zurich. The latest addition to Yiembe’s medal collection is undoubtedly one of his most prestigious - the medal he received on Wednesday night after officiating the 2026 Uefa Super Cup final as one of two assistant referees.",
    "image": "https://nation.africa/resource/image/5557256/landscape_ratio3x2/1200/800/101cd72fbb98e73155bea7e6142860c5/gj/yiembe-1.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "1NEWS",
-   "title": "NZ Football pulls support for Infantino as FIFA President",
-   "iso": "2026-08-14T02:54:50.000Z",
-   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
-   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "SPORTSTAR",
-   "title": "Barcelona agrees deal to sell World Cup winner Ferran Torres to PSG — reports",
-   "iso": "2026-08-14T02:25:51.000Z",
-   "link": "https://sportstar.thehindu.com/football/la-liga/barcelona-agrees-deal-to-sell-ferran-torres-psg-world-cup-transfer-news-latest/article71343914.ece",
-   "lede": "Getty Images Getty Images via AFP https://ss-i.thgim.com/public/incoming/z4mqid/article71343912.ece/alternates/FREE_1200/2287294345.jpg DAVID RAMOS EAST RUTHERFORD, NEW JERSEY - JULY 19: Ferran Torres #7 of Spain celebrates scoring his team's first goal during the FIFA World Cup 2026 Final match between Spain and Argentina at New York New Jersey Stadium on July 19, 2026 in East Rutherford, New Jersey. David Ramos/Getty Images/AFP (Photo by David Ramos / GETTY IMAGES NORTH AMERICA / Getty Images via AFP) Often decisive as a substitute, Torres, who came through Valencia’s youth system, has scored 40 goals in 94 matches in all competitions over the last two seasons. Madrid Barcelona has agreed to sell Spain’s World Cup final hero Ferran Torres to Paris Saint-Germain for almost 50 million euros, Spanish media reported on Thursday.",
-   "image": "https://ss-i.thgim.com/public/incoming/z4mqid/article71343912.ece/alternates/LANDSCAPE_1200/2287294345.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FREE MALAYSIA TODAY",
@@ -48,36 +78,6 @@
    "link": "https://www.freemalaysiatoday.com/category/sports/2026/08/14/new-zealand-football-withdraws-support-for-infantino-urges-review",
    "lede": "Gianni Infantino came under renewed fire this week after three confederations signed an open letter accusing the world football boss of breaking trust 'through deception'. (EPA Images pic) WELLINGTON: New Zealand Football said on Friday it had withdrawn support for Fifa boss Gianni Infantino and called for an independent review into his aborted plan to sell off part of the World Cup. Infantino came under renewed fire this week in an open letter signed by three confederations – Uefa, North and Central America's CONCACAF and Asia's AFC – accusing the world football boss of breaking trust \"through deception\". It is believed they want the Swiss official to resign before he has the chance to seek re-election in March next year.",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/30940d12-13870155_1_cropped_1.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO CREATORS",
-   "title": "Norway's Viking Row took over the World Cup — here's how the viral fan tradition began",
-   "iso": "2026-08-14T01:23:37.000Z",
-   "link": "https://creators.yahoo.com/lifestyle/story/norways-viking-row-took-over-the-world-cup--heres-how-the-viral-fan-tradition-began-180807494.html",
-   "lede": "Norway did not win the 2026 FIFA World Cup. But it may have created the tournament's most enduring tradition. During the tournament, thousands of fans sat on streets, in stadiums and even inside subway cars, pulling imaginary oars in perfect unison while shouting \"Ro!\" Videos spread from Oslo to Times Square, airport terminals, fighter jets, beaches and eventually the World Cup champions' own victory celebration.",
-   "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "PUNCH NEWSPAPERS",
-   "title": "Banyana end Falcons’ World Cup hopes",
-   "iso": "2026-08-13T23:43:23.000Z",
-   "link": "https://punchng.com/banyana-end-falcons-world-cup-hopes/",
-   "lede": "Super Falcons’ hopes of qualifying for the 2027 FIFA Women’s World Cup in Brazil ended on Thursday after they lost 2-1 to South Africa in the Confederation of African Football play-off match at the 2026 WAFCON in Morocco, PUNCH Sports Extra reports. The Falcons had missed out on an automatic World Cup ticket after their quarter-final defeat by Cameroon on Sunday. The defeat to Cameroon also ended Nigeria’s run of reaching at least the semi-finals at every previous edition of the WAFCON and handed the 10-time African champions their worst-ever finish in the competition. However, Nigeria had another opportunity to revive their hopes of maintaining their record of featuring at every edition of the FIFA Women’s World Cup, but the Falcons were unable to overcome South Africa.",
-   "image": "https://punchng.com/wp-content/uploads/2026/08/falcons_1786661418.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Bayern Munich president Herbert Hainer relieved FIFA’s privatization plan is dead",
-   "iso": "2026-08-13T23:30:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/238427/bayern-munich-s-president-herbert-hainer-relieved-fifa-s-privatization-plan-is-dead",
-   "lede": "Bayern Munich president Herbert Hainer expressed his relief over the scrapping of FIFA’s recent proposal to sell the rights to the men’s and women’s World Cups and Club World Cups to private investors. FIFA president Gianni Infantino announced on Tuesday a plan with private investors to create a $20 billion company which would be in charge of running major football tournaments. The idea was met with immediate backlash from governing bodies like UEFA and CONCACAF and eventually cancelled. In an interview with Abendzeitung, Hainer expressed his relief over the dismissal of the initiative.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2289434886.jpg?quality=90&strip=all&crop=0%2C10.728221190852%2C100%2C78.543557618296&w=1200",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
