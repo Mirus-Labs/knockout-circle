@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-14T14:32:26.747Z",
+ "updated": "2026-08-14T15:34:49.494Z",
  "news": [
   {
-   "cat": "1NEWS",
-   "title": "NZ Football pulls support for Infantino as FIFA President",
-   "iso": "2026-08-14T14:04:48.000Z",
-   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
-   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
+   "cat": "THE INDEPENDENT",
+   "title": "Every country opposing and supporting Gianni Infantino in Fifa crisis",
+   "iso": "2026-08-14T14:44:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3032486.html",
+   "lede": "The Republic of Ireland and New Zealand are the latest to withdraw their endorsement of Infantino after his botched World Cup sell-off plan. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "GULF NEWS",
+   "cat": "GULFNEWS.COM",
    "title": "India football ‘closer than ever’ to overseas players representing the nation",
    "iso": "2026-08-14T11:40:55.000Z",
    "link": "https://gulfnews.com/sport/india-football-closer-than-ever-to-overseas-players-representing-the-nation-1.500640998",
@@ -52,14 +52,23 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "LONDON BOROUGH OF BARKING AND DAGENHAM COUNCIL",
+   "title": "Local football heroes celebrated in new World Cup exhibition at Valence House Museum",
+   "iso": "2026-08-14T15:30:28.000Z",
+   "link": "https://www.lbbd.gov.uk/news/2026/local-football-heroes-celebrated-new-world-cup-exhibition-valence-house-museum",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "PULSE GHANA",
    "title": "Black Queens learn play-off fate as FIFA sets 2027 Women’s World Cup draw date",
    "iso": "2026-08-14T14:26:09.000Z",
    "link": "https://www.pulse.com.gh/story/black-queens-learn-play-off-fate-as-fifa-sets-2027-womens-world-cup-draw-date-2026081414170608654",
    "lede": "FIFA sets the 2027 Women's World Cup play-off draw date for August 20 in Zurich. Ghana's Black Queens in Pot 3 discover their pathway to Brazil.",
    "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/03082026/3a3bc4bd-8bb7-443a-972a-281266ed0c7e.png?operations=crop(0:0:969:545),autocrop(1200:630)",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "ANADOLU AJANSI",
@@ -68,16 +77,6 @@
    "link": "https://www.aa.com.tr/en/sports/former-white-house-world-cup-task-force-director-defends-infantino/4027507",
    "lede": "‘If Gianni Infantino doesn’t get re-elected unanimously, then whoever voted against him needs to get their head examined,’ Andrew Giuliani says | Anadolu. ‘If Gianni Infantino doesn’t get re-elected unanimously, then whoever voted against him needs to get their head examined,’ Andrew Giuliani says.",
    "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/14/thumbs_b_c_f99a00e8c9b1df73dc93fbed3cf400e5.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Continental clash: where world football stands on Fifa and Infantino – explained",
-   "iso": "2026-08-14T13:28:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/14/continental-clash-where-world-football-stands-on-fifa-and-infantino-explained",
-   "lede": "With Oceania praising Fifa on Friday, all six confederations have finally had their say on the fallout from the World Cup sell-off plan. The Oceania Football Confederation’s (OFC) decision to belatedly issue a statement following this week’s executive committee meeting praising Fifa’s “progress achieved over the last decade” means all six continental confederations have finally had their say on the fallout from the World Cup sell-off plan that has split world football, with the votes seeming tied at three apiece on the key issue of whether Gianni Infantino should remain as Fifa president.",
-   "image": "https://i.guim.co.uk/img/media/07874693598962b68db82806bd3a22c9b504ee58/574_0_6659_5327/master/6659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd323759ef08d498ce8c63df3c5b18b9",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
