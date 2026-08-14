@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T09:29:26.640Z",
+ "updated": "2026-08-14T10:08:05.602Z",
  "news": [
   {
    "cat": "1NEWS",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "SPORTINGTRIBUNE.COM",
-   "title": "Seven countries secure places in 2027 Women’s World Cup play-offs",
-   "iso": "2026-08-14T08:15:00.000Z",
-   "link": "https://sportingtribune.com/seven-countries-secure-places-in-2027-womens-world-cup-play-offs/",
-   "lede": "Seven countries have now secured places in the FIFA Women’s World Cup 2027 Play-Off Tournament, with Ghana and South Africa becoming the latest additions after their victories in the 2026 Women’s Africa Cup of Nations (WAFCON) play-offs. Ghana defeated Côte d’Ivoire 2-1, while South Africa beat Nigeria 2-1 in Casablanca on Thursday to claim the two places allocated to the Confederation of African Football (CAF). The other five teams already confirmed for the play-off tournament are Chinese Taipei, Uzbekistan, Ecuador, Venezuela and Papua New Guinea. FIFA’s official qualification format confirms that 10 teams will eventually contest the play-off tournament for the three remaining World Cup places.",
-   "image": "https://i0.wp.com/sportingtribune.com/wp-content/uploads/2026/08/FIFA-Womens-World-Cup_1786279533-e1786447727929.webp?fit=1200%2C675&ssl=1",
+   "cat": "LIVESCORE",
+   "title": "Celtic tracking Bosnian World Cup hero Ermin Mahmic",
+   "iso": "2026-08-14T08:01:20.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/celtic-tracking-bosnian-world-cup-hero-ermin-mahmic-celtic-shorts/",
+   "lede": "“Ermin Mahmić is a rockstar! Gets off the bench, scores nonchalantly! (Photo by Richard Heathcote/Getty Images)%Celtic have been credited with an interest in Bosnian World Cup star Ermin Mahmic, according to reports in the Czech Republic.21 year old Mahmic who plays his club football for Slovan Liberec, impressed at the World Cup finals, scoring two goals in five appearances in the United States, and in doing so became the highest World Cup goalscorer in Bosnian and Herzegovina history.",
+   "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
    "emoji": "🏆",
    "bg": "#3a2d6b"
-  },
-  {
-   "cat": "SPORTS.YAHOO.COM",
-   "title": "Celtic tracking Bosnian World Cup hero Ermin Mahmic",
-   "iso": "2026-08-14T08:00:00.000Z",
-   "link": "https://sports.yahoo.com/articles/celtic-tracking-bosnian-world-cup-080000131.html",
-   "lede": "Celtic reportedly tracking World Cup wonder boy Ermin Mahmic alongside two recent adversaries…“Ermin Mahmić is a rockstar! Gets off the bench, scores nonchalantly! We gotta have him in Celtic,��...",
-   "image": "https://s.yimg.com/lo/mysterio/api/fc11c5dec599a4a821bdf27bda25818a0c88ffe6849beec32e1e781c8accfb1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_celtic_star_articles_180%2F9afb7232e58463a56a48472626c3eab7.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
   },
   {
    "cat": "DECCAN HERALD",
@@ -38,6 +28,16 @@
    "link": "https://www.deccanherald.com/amp/story/sports%2Ffootball%2Fcanada-brazil-pressing-ahead-with-under-20-womens-world-cup-amid-fifa-turmoil-4110842",
    "lede": "Canada and Brazil have confirmed they will compete at next month's FIFA Under-20 Women's World Cup in Poland, becoming the latest federations to back participation despite an escalating governance dispute that has engulfed world football. . FIFA's Under-17 Women's World Cup is scheduled to take place in Morocco in October, while European teams including reigning European champions England have upcoming qualifying games for the 2027 Women's World Cup in Brazil. \"We're forging ahead with plans to compete at the upcoming U-20 Women's World Cup. Nothing has changed from our end,\" a Canada Soccer statement read. .",
    "image": "https://cf-images.assettype.com/deccanherald%2F2026-08-14%2Fi0kappro%2F0136835f-7048-4b35-bd95-19a91bbd3a60.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Every country opposing and supporting Gianni Infantino in Fifa crisis",
+   "iso": "2026-08-14T07:34:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3032486.html",
+   "lede": "The Republic of Ireland and New Zealand are the latest to withdraw their endorsement of Infantino after his botched World Cup sell-off plan. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -55,29 +55,29 @@
    "cat": "BBC",
    "title": "New Zealand break with OFC to withdraw Infantino support",
    "iso": "2026-08-14T06:19:11.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/crl7wdkxdd7o",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o",
    "lede": "Infantino would require 106 votes to win a fourth term as Fifa president. New Zealand have broken rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino. Infantino has lost support from three regional confederations - Europe's Uefa, the Asian Football Confederation (AFC) and Concacaf (North and Central America and the Caribbean) - over his aborted plans to sell 20% of the World Cup's commercial rights to private investors. The Confederation of African Football (Caf) and South American governing body Conmebol have backed the 56-year-old to win a fourth presidential term at the Fifa Congress in March.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f1c6/live/2c9dcb20-97a6-11f1-b9b1-c18c7ed25243.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NEWS18.COM",
-   "title": "Spain's World Cup Hero To Join PSG In USD 57 Million Deal",
-   "iso": "2026-08-14T06:14:34.000Z",
-   "link": "https://www.news18.com/sports/football/spains-world-cup-hero-to-join-psg-in-usd-57-million-deal-ws-l-10272620.html",
-   "lede": "Barcelona have agreed to sell Spain’s World Cup final hero Ferran Torres to Paris Saint-Germain for almost 50 million euros ($57 million), Spanish media reported on Thursday. The two European giants have reached a deal in principle for the 26-year-old forward to move to France on a five-year contract, media reported quoting Barcelona sources. The remaining paperwork and the medical should be a formality, they said. Torres had only one year left on his contract with the Spanish champions, who rejected an initial offer of 40 million euros on Monday, a club source told AFP.",
-   "image": "https://images.news18.com/ibnlive/uploads/2026/08/Ferran-Torres-Reuters-2026-08-d53a7d9c13e024df21eb47bc5ef1eacc-1200x675.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Burnley terminate deal with front-of-shirt sponsor on eve of new season",
+   "iso": "2026-08-14T09:08:45.000Z",
+   "link": "https://www.nytimes.com/athletic/7512992/2026/08/14/burnley-shirt-sponsor-deal/",
+   "lede": "Vertu Motors will now replace Finotive One, who were previously announced as the sponsor on a one-year deal back in July.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14050701/GettyImages-2288793431-scaled-e1786698450453.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BUSINESS INSIDER AFRICA",
-   "title": "A Gulf nation, 2030 FIFA World Cup host and four Arab nations rally behind Infantino as his FIFA future hangs in the balance",
-   "iso": "2026-08-14T06:00:00.000Z",
-   "link": "https://africa.businessinsider.com/local/markets/a-gulf-nation-2030-fifa-world-cup-host-and-four-arab-nations-rally-behind-infantino/892czsw",
-   "lede": "Qatar and Morocco are part of a group of six Arab football federations that have pledged their full support to FIFA President Gianni Infantino. This move comes at a critical time for the FIFA leader, who is currently navigating a major governing crisis that has put his future at the top of world soccer in doubt. Along with Egypt, Sudan, Lebanon, and Mauritania, these nations are standing firmly by Infantino as he prepares for a reelection bid next year, despite growing pressure from other major international football bodies for him to step down. DON’ T MISS THIS: Morocco, Egypt, DR Congo and 3 other African countries back Infantino as Europe turns against him over $20 billion FIFA plan.",
-   "image": "https://ocdn.eu/pulscms-transforms/1/34LktkpTURBXy80ZDBkZDQwMmRjNjA5NGMyZGMxOGFmMGJjOTE5NjdkZC5qcGeSlQMAHM0DmM0CBZMFzQSwzQJ2",
+   "cat": "THE INDEPENDENT",
+   "title": "Infantino suffers another blow as World Cup nation withdraws support for Fifa boss",
+   "iso": "2026-08-14T09:07:00.000Z",
+   "link": "https://www.independent.co.uk/bulletin/sport/infantino-new-zealand-withdraw-support-fifa-b3033033.html",
+   "lede": "",
+   "image": "https://static.independent.co.uk/2026/08/08/22/f737804b3fc1dab30c28df05f7f461a6Y29udGVudHNlYXJjaGFwaSwxNzg2MzExNTIy-2.76934833.jpg?width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
