@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-14T12:29:18.929Z",
+ "updated": "2026-08-14T13:25:09.948Z",
  "news": [
+  {
+   "cat": "1NEWS",
+   "title": "NZ Football pulls support for Infantino as FIFA President",
+   "iso": "2026-08-14T12:27:30.000Z",
+   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
+   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
+   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "EWN",
    "title": "Ghana clear major hurdle in bid to end 20-year World Cup absence",
@@ -8,8 +18,8 @@
    "link": "https://www.ewn.co.za/2026/08/14/ghana-clear-major-hurdle-in-bid-to-end-20-year-world-cup-absence",
    "lede": "Ghana's women's football team, the Black Queens. Ghana's women's football team, the Black Queens, showed great courage to come from behind and defeat Côte d'Ivoire 2-1 in Casablanca. This victory keeps their dream of playing in the 2027 FIFA Women's World Cup alive. The match started badly for Ghana.",
    "image": "https://media-cache.primedia-service.com/media/wsskpd31/screenshot-2026-08-14-134204.png?width=1200&height=630",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "GULF NEWS",
@@ -18,16 +28,6 @@
    "link": "https://gulfnews.com/sport/india-football-closer-than-ever-to-overseas-players-representing-the-nation-1.500640998",
    "lede": "Dubai: A major development for Indian football is on the horizon, with the country’s football authorities increasingly confident that players of Indian heritage based in Europe could soon be eligible to represent the national team.. Current rules bar Indian-heritage footballers based overseas from representing the national team unless they give up their foreign passport.. The rules have so far denied Indian footballers living abroad the chance to earn international caps and help the country climb back into the FIFA top 100.. However, one senior official told Sky Sports News he is “convinced” the way will soon be cleared for eligible overseas-based players to represent India..",
    "image": "https://media.assettype.com/gulfnews%2F2026-08-14%2Fuorkirug%2F202603243720167.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "1NEWS",
-   "title": "NZ Football pulls support for Infantino as FIFA President",
-   "iso": "2026-08-14T11:34:20.000Z",
-   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
-   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,32 +52,31 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "INSIDE THE GAMES",
+   "title": "FIFA unity frays over growing crisis of confidence",
+   "iso": "2026-08-14T13:22:00.000Z",
+   "link": "https://www.insidethegames.biz/articles/fifa-unity-frays-over-growing-crisis-of-confidence",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Andrew Giuliani backs Gianni Infantino, takes aim at FIFA president’s critics",
    "iso": "2026-08-14T11:52:11.000Z",
    "link": "https://www.nytimes.com/athletic/7513147/2026/08/14/gianni-infantino-fifa-andrew-giuliani/",
    "lede": "Giuliani was executive director of the White House Task Force for the 2026 World Cup and believes Infantino should stay in post.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14072657/GettyImages-2250149671-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Jayden Daniels and LSU are feeling the friction of college football’s eroding sense of legacy",
-   "iso": "2026-08-14T11:00:09.000Z",
-   "link": "https://www.nytimes.com/athletic/7512033/2026/08/14/jayden-daniels-lsu-career-nil-jersey-number/",
-   "lede": "Daniels went pro after a 2023 season with LSU that earned him a Heisman and all the accompanying accolades. It seemingly wasn't enough.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/13174223/GettyImages-1435646251-scaled-e1786657456680.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "PREMIUM TIMES NIGERIA",
-   "title": "Gusau’s resignation calls thicken after Super Falcons’ World Cup miss",
-   "iso": "2026-08-14T10:59:26.000Z",
-   "link": "https://www.premiumtimesng.com/news/headlines/902820-gusaus-resignation-calls-thicken-after-super-falcons-world-cup-miss.html",
-   "lede": "For a country that has traditionally expected its two senior national teams to be present at the biggest football tournaments, the double failure has become a major talking point.",
-   "image": "https://media.premiumtimesng.com/wp-content/files/2026/08/Untitled-design-25.jpg",
+   "cat": "AL JAZEERA",
+   "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+   "iso": "2026-08-14T11:31:34.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link",
+   "lede": "Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-22T095903Z_46446975_RC2YHMAOG1HK_RTRMADP_3_ASIA-SPORT-DEALS-1786705932.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
