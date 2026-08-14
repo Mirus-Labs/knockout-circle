@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-14T14:03:35.376Z",
+ "updated": "2026-08-14T14:32:26.747Z",
  "news": [
   {
-   "cat": "CROATIA WEEK",
-   "title": "Croatian football takeover underway in the United Arab Emirates",
-   "iso": "2026-08-14T13:57:34.000Z",
-   "link": "https://www.croatiaweek.com/croatian-football-dalic-biscan-ivankovic-uae-2030-world-cup/",
-   "lede": "The United Arab Emirates wants to reach the 2030 World Cup. To get there, it has turned to Croatia. As the UAE begins building towards the 2030 FIFA World Cup, it has placed its trust and gone all in on a group of coaches. Zlatko Dalić, Igor Bišćan and Branko Ivanković have all been appointed important roles, creating an unusually strong Croatian presence at the heart of the UAE’s football project.",
-   "image": "https://www.croatiaweek.com/wp-content/uploads/2026/06/anthem.jpg",
+   "cat": "1NEWS",
+   "title": "NZ Football pulls support for Infantino as FIFA President",
+   "iso": "2026-08-14T14:04:48.000Z",
+   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
+   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
+   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "1NEWS",
-   "title": "NZ Football pulls support for Infantino as FIFA President",
-   "iso": "2026-08-14T12:27:30.000Z",
-   "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
-   "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
+   "cat": "CROATIA WEEK",
+   "title": "Croatian football takeover underway in the United Arab Emirates",
+   "iso": "2026-08-14T13:57:11.000Z",
+   "link": "https://www.croatiaweek.com/croatian-football-dalic-biscan-ivankovic-uae-2030-world-cup/",
+   "lede": "The United Arab Emirates wants to reach the 2030 World Cup. To get there, it has turned to Croatia. As the UAE begins building towards the 2030 FIFA World Cup, it has placed its trust and gone all in on a group of coaches. Zlatko Dalić, Igor Bišćan and Branko Ivanković have all been appointed important roles, creating an unusually strong Croatian presence at the heart of the UAE’s football project.",
+   "image": "https://www.croatiaweek.com/wp-content/uploads/2026/06/anthem.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,12 +52,12 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "BBC",
-   "title": "VAR, timewasting and subs - new rules for the new season",
-   "iso": "2026-08-14T11:00:52.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo",
-   "lede": "Michael Oliver is the Premier League's number one referee after Anthony Taylor announced his retirement. The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker. These rules were all initially rolled out at the World Cup, but still caused confusion in the first round of the Carabao Cup last weekend. These changes will be deployed right through English football, from the EFL kick off this weekend, Sunday's Community Shield between Arsenal and Manchester City, to the Premier League and right down to Sunday league - apart from the video assistant referee (VAR), of course.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1b11/live/96fea260-6582-11f1-b1db-af71d47507d6.jpg",
+   "cat": "PULSE GHANA",
+   "title": "Black Queens learn play-off fate as FIFA sets 2027 Women’s World Cup draw date",
+   "iso": "2026-08-14T14:26:09.000Z",
+   "link": "https://www.pulse.com.gh/story/black-queens-learn-play-off-fate-as-fifa-sets-2027-womens-world-cup-draw-date-2026081414170608654",
+   "lede": "FIFA sets the 2027 Women's World Cup play-off draw date for August 20 in Zurich. Ghana's Black Queens in Pot 3 discover their pathway to Brazil.",
+   "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/03082026/3a3bc4bd-8bb7-443a-972a-281266ed0c7e.png?operations=crop(0:0:969:545),autocrop(1200:630)",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
