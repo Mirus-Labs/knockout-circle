@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-14T19:16:47.567Z",
+ "updated": "2026-08-14T19:38:25.437Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Europe’s top clubs threatened Club World Cup boycott before Fifa plan collapsed",
+   "iso": "2026-08-14T19:09:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/14/europe-top-clubs-threatened-club-world-cup-boycott-fifa-plan-collapsed",
+   "lede": "Ultimatum issued hours before plan was scrapped. European Football Clubs demanded Infantino back down. Europe’s leading clubs threatened not to participate in future Club World Cups unless Gianni Infantino withdrew his Fifa Forward Enterprise scheme, issuing their ultimatum hours before the plan was scrapped. In a letter to the Fifa secretary general, Mattias Grafström, seen by the Guardian, the influential European Football Clubs (EFC) group warned its cooperation with future tournaments would hinge on Infantino backing down.",
+   "image": "https://i.guim.co.uk/img/media/0073d06176f69062323f7b27fd6862ecb297e26b/1032_173_2511_2009/master/2511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c05d849f83d5e2e0e2273a8b66aff7e2",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
@@ -8,8 +18,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
    "lede": "OFC’s 11 votes could prove crucial in Fifa election. Stance shows continued backing from smaller nations. The Oceania Football Confederation (OFC) has declared its support for Gianni Infantino following demands from Uefa, Concacaf and the Asian Football Confederation for the Fifa president to resign, in a development that further highlights world football’s civil war. After a meeting of its executive committee in Fiji on Wednesday, the OFC issued a statement on Friday praising “the progress achieved over the last decade” by Fifa in its first public comments since the abandoned World Cup sell-off plan emerged this month.",
    "image": "https://i.guim.co.uk/img/media/fecb596d2d0b84eec2e515b5e54f543386d643b5/0_124_4060_3249/master/4060.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=957c3053422a7cfcb82cd5eb46985ab4",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "ARISE NEWS",
@@ -18,16 +28,6 @@
    "link": "https://www.arise.tv/nff-probes-nigerias-football-setbacks-after-super-falcons-world-cup-failure/",
    "lede": "NFF sets up committee to investigate national teams’ poor international run after Falcons miss 2027 World Cup qualification. The Nigeria Football Federation has set up a fact-finding committee to investigate the poor performance of the country’s national teams in international competitions. The move follows the Super Falcons’ failure to qualify for the 2027 FIFA Women’s World Cup, according to a statement by the NFF Communications Department. The federation said the committee would examine the “unwholesome poor run” of Nigeria’s national teams, with particular attention to the Super Falcons’ failure to secure a place at next year’s World Cup.",
    "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/05/NFF.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Europe’s top clubs threatened Club World Cup boycott before Fifa plan collapsed",
-   "iso": "2026-08-14T18:01:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/14/europe-top-clubs-threatened-club-world-cup-boycott-fifa-plan-collapsed",
-   "lede": "Ultimatum issued hours before plan was scrapped. European Football Clubs demanded Infantino back down. Europe’s leading clubs threatened not to participate in future Club World Cups unless Gianni Infantino withdrew his Fifa Forward Enterprise scheme, issuing their ultimatum hours before the plan was scrapped. In a letter to the Fifa secretary general, Mattias Grafström, seen by the Guardian, the influential European Football Clubs (EFC) group warned its cooperation with future tournaments would hinge on Infantino backing down.",
-   "image": "https://i.guim.co.uk/img/media/0073d06176f69062323f7b27fd6862ecb297e26b/1032_173_2511_2009/master/2511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c05d849f83d5e2e0e2273a8b66aff7e2",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NORTH WEST LONDONER",
-   "title": "Brad Friedel: World Cup won’t transform US soccer on its own",
-   "iso": "2026-08-14T15:44:37.000Z",
-   "link": "https://www.nwlondoner.co.uk/sport/14082026-brad-friedel-world-cup-wont-transform-us-soccer-on-its-own",
-   "lede": "Brad Fridal, former US and Premier League goalkeeper, knows better than most what it takes for an American player to succeed at football’s highest level. Friedel helped the United States reach the 2002 World Cup quarterfinals and spent nearly two decades in English football, including a then-record run of 310 consecutive Premier League appearances. Now, after another World Cup ended, with the US falling short of the last eight, Friedel believes the US’s failings aren’t within its funding or infrastructure. Instead, he believes the country must build a deeper football culture and warns that his own route to the Premier League might not even be possible for a young player today.",
-   "image": "https://www.nwlondoner.co.uk/wp-content/uploads/sites/2/2026/06/my-profit-tutor-bdJ8Kxaz-mQ-unsplash.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "AL JAZEERA",
    "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
    "iso": "2026-08-14T15:37:20.000Z",
    "link": "https://www.aljazeera.com/amp/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino",
    "lede": "Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row. CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March’s election. Football’s top official boosted by further support for his presidency after proposed private investment in game nixed. Poland says their preparations to host the Women’s Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-14T145659Z_22400928_RC25VX94SXMT_RTRMADP_3_SOCCER-FIFA-QATAR-AFC-1786720679.jpg?resize=1920%2C1440",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Who is supporting Gianni Infantino? Every country’s stance on Fifa president crisis",
+   "iso": "2026-08-14T15:22:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3032486.html",
+   "lede": "The Republic of Ireland and New Zealand are the latest to withdraw their endorsement of Infantino after his botched World Cup sell-off plan. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
