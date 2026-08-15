@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T15:38:12.430Z",
+ "updated": "2026-08-15T15:57:54.559Z",
  "news": [
   {
    "cat": "THE INDEPENDENT",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "TIMESOFINDIA.INDIATIMES.COM",
+   "cat": "THE TIMES OF INDIA",
    "title": "Spain's FIFA World Cup final hero Ferran Torres leaves Barcelona for new challenge in France",
    "iso": "2026-08-15T11:42:00.000Z",
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/spains-fifa-world-cup-final-hero-ferran-torres-leaves-barcelona-for-new-challenge-in-france/articleshow/133261775.cms",
@@ -42,22 +42,22 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "CNA",
+   "title": "CNA938 Rewind - World Football Day: Is the excitement for World Cup 2026 fading?",
+   "iso": "2026-08-15T11:37:59.000Z",
+   "link": "https://www.channelnewsasia.com/listen/cna938-rewind/world-football-day-excitement-world-cup-2026-fading-6139771?field_season_value=620426&page=4",
+   "lede": "As FIFA and organisers ramp up preparations across North America, reports of softer ticket demand and price adjustments have sparked debate about whether the expanded tournament is diluting the World Cup experience. On World Football Day, Genevieve Woo and Hairianto Diman discuss the logistical challenges facing World Cup organiser countries, the pressure on infrastructure and security, as well as the emerging favourites, dark horses and players who could define the tournament. For that, they speak with Dez Corkhill, Sports Commentator, Sports Centred Media Services. You might have seen these creative – even, entertaining – AI videos depicting global political figures and conflicts.",
+   "image": "https://dam.mediacorp.sg/image/upload/s--eY590iK5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/29/cna938-rewind-thumb-square-1080-1080.png?itok=3G4nmaZK",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "Women’s U20 World Cup boycott may hurt in short term but can send Fifa a vital message | Tom Garry",
    "iso": "2026-08-15T11:02:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/15/womens-u20-world-cup-boycott-may-hurt-in-short-term-but-can-send-fifa-a-vital-message",
    "lede": "Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on. “And I say to all the women … Pick the right battles. You have the power to change.",
    "image": "https://i.guim.co.uk/img/media/5c5b44a54dfbaeb189ba739ae97be421e66979d9/363_0_3833_3066/master/3833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b8b2779797c0797f49bcde8b35a2787",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SPORTSTAR",
-   "title": "Paris Saint-Germain signs World Cup hero Ferran Torres from Barcelona",
-   "iso": "2026-08-15T10:12:11.000Z",
-   "link": "https://sportstar.thehindu.com/football/paris-saint-germain-sign-ferran-torres-from-barcelona-transfer-news-latest/article71349193.ece/amp/",
-   "lede": "Getty Images Getty Images via AFP https://ss-i.thgim.com/public/incoming/x0jyxq/article71349176.ece/alternates/FREE_1200/2286944865.jpg DAVID RAMOS EAST RUTHERFORD, NEW JERSEY - JULY 19: Ferran Torres #7 of Spain celebrates scoring his team's first goal during the FIFA World Cup 2026 Final match between Spain and Argentina at New York New Jersey Stadium on July 19, 2026 in East Rutherford, New Jersey. David Ramos/Getty Images/AFP (Photo by David Ramos / GETTY IMAGES NORTH AMERICA / Getty Images via AFP) Spain’s World ​Cup hero arrives in the French capital after scoring ⁠an extra-time winning goal in the World Cup final against Argentina. PARIS Paris St Germain has signed Spain’s World Cup-winning ​forward Ferran Torres from Barcelona on ‌a contract until 2031, the ​two clubs announced on Saturday.",
-   "image": "https://ss-i.thgim.com/public/incoming/x0jyxq/article71349176.ece/alternates/FREE_1200/2286944865.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
