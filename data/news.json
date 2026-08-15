@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-15T04:57:55.455Z",
+ "updated": "2026-08-15T05:33:20.242Z",
  "news": [
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
+   "cat": "BAVARIANFOOTBALLWORKS.COM",
    "title": "Tom Bischof rates Bayern Munich’s new World Cup signings",
    "iso": "2026-08-15T01:00:00.000Z",
    "link": "https://www.bavarianfootballworks.com/bayern-munich-transfer-rumors-news/241841/tom-bischof-bayern-munich-world-cup-transfers-nathaniel-brown-ismael-saibari",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
+   "cat": "SPORTS.YAHOO.COM",
    "title": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S.",
    "iso": "2026-08-15T00:18:00.000Z",
    "link": "https://sports.yahoo.com/articles/world-cup-kicks-off-pivotal-001808654.html",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "1NEWS.CO.NZ",
+   "cat": "1NEWS",
    "title": "NZ Football pulls support for Infantino as FIFA President",
    "iso": "2026-08-14T23:22:08.000Z",
    "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "WSAU",
-   "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff",
-   "iso": "2026-08-14T18:18:40.000Z",
-   "link": "https://wsau.com/2026/08/14/soccer-fifa-crisis-timeline-from-world-cup-final-to-global-standoff/",
-   "lede": "Aug 14 (Reuters) – Here is a timeline of events where FIFA president Gianni Infantino introduced a proposal to sell a slice of the World Cup’s commercial future that backfired and sparked a global revolt in the sport:. July 19 – The first 48-team World Cup concludes at New York New Jersey stadium with Infantino and U.S. President Donald Trump, booed as they walked onto the pitch, presenting the trophy to Spain after their 1-0 win over Argentina. July 28 – Shortly after a leak in the British media, FIFA announces it wants to create a $20 billion subsidiary to run the World Cup and other competitions, raising $4.2 billion for soccer development by selling a 20% stake to external investors.",
-   "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/14/2026-08-14T051335Z_2_LYNXMPEM702C5_RTROPTP_3_SOCCER-FIFA-STAKE.JPG",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "ARISE NEWS",
    "title": "NFF Probes Nigeria’s Football Setbacks After Super Falcons’ World Cup Failure",
    "iso": "2026-08-14T18:06:28.000Z",
    "link": "https://www.arise.tv/nff-probes-nigerias-football-setbacks-after-super-falcons-world-cup-failure/",
    "lede": "NFF sets up committee to investigate national teams’ poor international run after Falcons miss 2027 World Cup qualification. The Nigeria Football Federation has set up a fact-finding committee to investigate the poor performance of the country’s national teams in international competitions. The move follows the Super Falcons’ failure to qualify for the 2027 FIFA Women’s World Cup, according to a statement by the NFF Communications Department. The federation said the committee would examine the “unwholesome poor run” of Nigeria’s national teams, with particular attention to the Super Falcons’ failure to secure a place at next year’s World Cup.",
    "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/05/NFF.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Europe’s top clubs threatened Club World Cup boycott before Fifa plan collapsed",
+   "iso": "2026-08-14T18:00:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/14/europe-top-clubs-threatened-club-world-cup-boycott-fifa-plan-collapsed",
+   "lede": "Ultimatum issued hours before plan was scrapped. European Football Clubs demanded Infantino back down. Europe’s leading clubs threatened not to participate in future Club World Cups unless Gianni Infantino withdrew his Fifa Forward Enterprise scheme, issuing their ultimatum hours before the plan was scrapped. In a letter to the Fifa secretary general, Mattias Grafström, the influential European Football Clubs (EFC) group warned that its cooperation with future tournaments would hinge on Infantino backing down.",
+   "image": "https://i.guim.co.uk/img/media/0073d06176f69062323f7b27fd6862ecb297e26b/1032_173_2511_2009/master/2511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c05d849f83d5e2e0e2273a8b66aff7e2",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
