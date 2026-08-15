@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-15T15:59:40.157Z",
+ "updated": "2026-08-15T16:34:49.342Z",
  "news": [
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "Ferran Torres leaves Barcelona for PSG weeks after scoring Spain’s World Cup-winning goal",
+   "iso": "2026-08-15T16:18:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ferran-torres-leaves-barcelona-for-psg-weeks-after-scoring-spains-world-cup-winning-goal/articleshow/133258702.cms",
+   "lede": "Ferran Torres has left Barcelona for Paris Saint-Germain less than two months after becoming a World Cup hero for Spain. The 26-year-old forward arrives in Paris at the height of his career after scoring the extra-time winner against Argentina in the final, with the reigning European champions committing to a long-term deal for a player whose career has taken him from Valencia to Manchester City, Barcelona and now Paris. Football News: Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal for Spain. The forward signs a long-term contract with PSG, marking a significant move in his career.",
+   "image": "https://static.toiimg.com/thumb/msid-133265573,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "TALKSPORT.COM",
+   "title": "World Cup star Suzuki in talks over Premier League move as PSG deal collapses",
+   "iso": "2026-08-15T15:54:51.000Z",
+   "link": "https://talksport.com/football/4515068/aston-villa-zion-suzuki-psg-emi-martinez-juventus-rumours/",
+   "lede": "The Villans' pursuit of Suzuki comes as Juventus revived their interest in Emi Martinez. Suzuki was poised to join European champions Paris Saint-Germain, who beat Villa 2-1 in the Super Cup on Wednesday. PSG and Parma had reached an agreement of approximately £29million for Suzuki, only for the deal to collapse on Saturday. It is understood a change in commissions surrounding the deal prompted PSG to withdraw.",
+   "image": "https://talksport.com/wp-content/uploads/2025/04/zion-suzuki-japan-applauds-fans-982424538.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE INDEPENDENT",
    "title": "World Cup final match-winner Ferran Torres makes big-money move to PSG",
@@ -8,8 +28,8 @@
    "link": "https://www.independent.co.uk/sport/football/ferran-torres-transfer-fee-psg-barcelona-spain-b3033613.html",
    "lede": "The Spain forward has completed a €50m switch from Barcelona to the two-time reigning Champions League winners. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/15/15/2026-08-15T094612Z_1020402290_RC29HMA8HG8L_RTRMADP_3_SOCCER-FRANCE-PSG-TORRES.JPG?trim=0,33,0,33&width=1200&height=800&crop=1200:800",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,18 +38,18 @@
    "link": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
    "lede": "Spain World Cup winner signs five-year deal. ‘I’m delighted to be beginning a new adventure’. Paris Saint-Germain have signed Spain’s World Cup-winning ⁠forward Ferran Torres from Barcelona on a contract until 2031. Financial ​details were not disclosed, but reports said PSG paid €50m (£42.7m) ⁠for the 26-year-old.",
    "image": "https://i.guim.co.uk/img/media/a8f95e85c6862c866b38fa88db10ad392de1d5a0/79_0_2695_2156/master/2695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6efa2b652d39bbaae7c510206855c144",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "TALKSPORT",
+   "cat": "TALKSPORT.COM",
    "title": "Gianni Infantino threatened with Club World Cup boycott by powerful domestic football body",
    "iso": "2026-08-15T12:21:50.000Z",
    "link": "https://talksport.com/football/4514693/gianni-infantino-club-world-cup-boycott-efc/",
    "lede": "A letter, signed by EFC CEO Charlie Marshall, was sent to FIFA General Secretary Mattias Grafström on July 31 just hours before Infantino's controversial plans to privatise FIFA were shelved. The news was first reported by The Guardian. talkSPORT previously revealed UEFA President Aleksander Čeferin was pushing for a Club World Cup boycott. UEFA's threat to not participate in FIFA tournaments remains in place and Ceferin wants the EFC to support this until Infantino resigns or removes himself from re-election next March.",
    "image": "https://talksport.com/wp-content/uploads/2025/03/f-d-ration-internationale-de-978070475.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -38,18 +58,8 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/spains-fifa-world-cup-final-hero-ferran-torres-leaves-barcelona-for-new-challenge-in-france/articleshow/133261775.cms",
    "lede": "Champions League holders Paris Saint-Germain have strengthened their already powerful attack by signing Spain star Ferran Torres from Barcelona on a five-year contract.PSG confirmed the transfer on Saturday but did not reveal the fee. French sports newspaper L’Equipe reported that the club paid around 50 million euros ($58 million) for the 26-year-old forward, who will wear the No. 9 shirt.Torres’ big move to PSGTorres became a World Cup hero after scoring Spain’s winning goal in extra time of the final against Argentina. Coming on as a substitute, he reacted quickly to a loose ball and fired a left-footed shot into the net.Reflecting on the goal, Torres said it was “scored by 47 million people,” referring to Spain’s population.The PSG move is the second major transfer of Torres’ career. Barcelona signed him from Manchester City in January 2022 for a reported 55 million euros.",
    "image": "https://static.toiimg.com/thumb/msid-133261850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "CNA",
-   "title": "CNA938 Rewind - World Football Day: Is the excitement for World Cup 2026 fading?",
-   "iso": "2026-08-15T11:37:59.000Z",
-   "link": "https://www.channelnewsasia.com/listen/cna938-rewind/world-football-day-excitement-world-cup-2026-fading-6139771?field_season_value=620426&page=4",
-   "lede": "As FIFA and organisers ramp up preparations across North America, reports of softer ticket demand and price adjustments have sparked debate about whether the expanded tournament is diluting the World Cup experience. On World Football Day, Genevieve Woo and Hairianto Diman discuss the logistical challenges facing World Cup organiser countries, the pressure on infrastructure and security, as well as the emerging favourites, dark horses and players who could define the tournament. For that, they speak with Dez Corkhill, Sports Commentator, Sports Centred Media Services. You might have seen these creative – even, entertaining – AI videos depicting global political figures and conflicts.",
-   "image": "https://dam.mediacorp.sg/image/upload/s--eY590iK5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/29/cna938-rewind-thumb-square-1080-1080.png?itok=3G4nmaZK",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,25 +68,16 @@
    "link": "https://www.theguardian.com/football/2026/aug/15/womens-u20-world-cup-boycott-may-hurt-in-short-term-but-can-send-fifa-a-vital-message",
    "lede": "Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on. “And I say to all the women … Pick the right battles. You have the power to change.",
    "image": "https://i.guim.co.uk/img/media/5c5b44a54dfbaeb189ba739ae97be421e66979d9/363_0_3833_3066/master/3833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b8b2779797c0797f49bcde8b35a2787",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "NYTIMES.COM",
+   "cat": "THE NEW YORK TIMES",
    "title": "Sebastien Pocognoli set to be appointed new Scotland head coach",
    "iso": "2026-08-15T14:20:10.000Z",
    "link": "https://www.nytimes.com/athletic/7515142/2026/08/15/sebastien-pocognoli-scotland-head-coach/",
    "lede": "The Belgian will become the first foreign appointment since Berti Vogts’s spell in charge between 2002 and 2004.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/15095149/GettyImages-2270146655-scaled-e1786801933622.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE SUN MALAYSIA",
-   "title": "World Cup hero Ferran Torres signs for PSG in €50 million deal",
-   "iso": "2026-08-15T14:06:45.000Z",
-   "link": "https://thesun.my/sports/football/ferran-torres-signs-for-psg-50m-euro-deal/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
