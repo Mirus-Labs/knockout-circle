@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-15T19:04:18.691Z",
+ "updated": "2026-08-15T19:35:52.371Z",
  "news": [
   {
-   "cat": "TALKSPORT",
+   "cat": "TALKSPORT.COM",
    "title": "Chelsea fans divided on Enzo Fernandez during first appearance since World Cup and transfer deadline",
    "iso": "2026-08-15T17:04:29.000Z",
    "link": "https://talksport.com/football/4515175/chelsea-fans-reaction-enzo-fernandez-return-future-rumours/",
@@ -22,8 +22,8 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "TALKSPORT",
-   "title": "World Cup star Zion Suzuki in talks over Premier League transfer as PSG move collapses",
+   "cat": "TALKSPORT.COM",
+   "title": "World Cup star Zion Suzuki in advanced talks over Premier League transfer as PSG move collapses",
    "iso": "2026-08-15T15:54:51.000Z",
    "link": "https://talksport.com/football/4515068/aston-villa-zion-suzuki-psg-emi-martinez-juventus-rumours/",
    "lede": "The Villans' pursuit of Suzuki comes as Juventus revived their interest in Emi Martinez. Suzuki was poised to join European champions Paris Saint-Germain, who beat Villa 2-1 in the Super Cup on Wednesday. PSG and Parma had reached an agreement of approximately £29million for Suzuki, only for the deal to collapse on Saturday. It is understood a change in commissions surrounding the deal prompted PSG to withdraw.",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "TALKSPORT",
+   "cat": "TALKSPORT.COM",
    "title": "Gianni Infantino threatened with Club World Cup boycott by powerful domestic football body",
    "iso": "2026-08-15T12:21:50.000Z",
    "link": "https://talksport.com/football/4514693/gianni-infantino-club-world-cup-boycott-efc/",
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
+   "cat": "CNA",
+   "title": "CNA938 Rewind - World Football Day: Is the excitement for World Cup 2026 fading?",
+   "iso": "2026-08-15T11:37:59.000Z",
+   "link": "https://www.channelnewsasia.com/listen/cna938-rewind/world-football-day-excitement-world-cup-2026-fading-6139771?field_season_value=620426&page=4",
+   "lede": "As FIFA and organisers ramp up preparations across North America, reports of softer ticket demand and price adjustments have sparked debate about whether the expanded tournament is diluting the World Cup experience. On World Football Day, Genevieve Woo and Hairianto Diman discuss the logistical challenges facing World Cup organiser countries, the pressure on infrastructure and security, as well as the emerging favourites, dark horses and players who could define the tournament. For that, they speak with Dez Corkhill, Sports Commentator, Sports Centred Media Services. You might have seen these creative – even, entertaining – AI videos depicting global political figures and conflicts.",
+   "image": "https://dam.mediacorp.sg/image/upload/s--eY590iK5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/29/cna938-rewind-thumb-square-1080-1080.png?itok=3G4nmaZK",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Men’s 1,500-meter freestyle world record demolished by Germany’s Johannes Liebmann at Euros",
    "iso": "2026-08-15T17:48:53.000Z",
    "link": "https://www.nytimes.com/athletic/7515537/2026/08/15/johannes-liebmann-1500-meter-freestyle-world-record-swimming-germany/",
    "lede": "Liebmann, 19, added 1,500-meter gold to his 800-meter win and lowered the previous record by almost four seconds.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/15134328/GettyImages-2290064976-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SPORTINGNEWS.COM",
-   "title": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament",
-   "iso": "2026-08-15T17:18:00.000Z",
-   "link": "https://www.sportingnews.com/in/tsn/news/hockey-world-cup-2026-points-table-schedule-results-mens-womens/a4989cc6fdb53f235bcd1847",
-   "lede": "Get the updated 2026 FIH Hockey World Cup points table, live pool standings, match results, and schedule for both men's and women's tournaments in Europe.",
-   "image": "https://library.sportingnews.com/styles/crop_style_16_9_1200_webp/s3/2026-08/WhatsApp%20Image%202026-07-21%20at%2011.31.17%20%281%29.jpeg.webp?itok=PkYMeYus",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
