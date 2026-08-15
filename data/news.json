@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T17:38:41.560Z",
+ "updated": "2026-08-15T17:58:17.485Z",
  "news": [
   {
    "cat": "TALKSPORT",
@@ -42,24 +42,14 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Paris Saint-Germain sign Ferran Torres from Barcelona in €50m deal",
-   "iso": "2026-08-15T12:32:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
-   "lede": "Spain World Cup winner Torres leaves Barcelona. England’s Spence completes move from Tottenham. Paris Saint-Germain have signed Spain’s World Cup-winning ⁠forward Ferran Torres from Barcelona on a contract until 2031. Financial ​details were not disclosed, but reports said PSG paid €50m (£42.7m) ⁠for the 26-year-old.",
-   "image": "https://i.guim.co.uk/img/media/a8f95e85c6862c866b38fa88db10ad392de1d5a0/79_0_2695_2156/master/2695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6efa2b652d39bbaae7c510206855c144",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "TALKSPORT",
    "title": "Gianni Infantino threatened with Club World Cup boycott by powerful domestic football body",
    "iso": "2026-08-15T12:21:50.000Z",
    "link": "https://talksport.com/football/4514693/gianni-infantino-club-world-cup-boycott-efc/",
    "lede": "A letter, signed by EFC CEO Charlie Marshall, was sent to FIFA General Secretary Mattias Grafström on July 31 just hours before Infantino's controversial plans to privatise FIFA were shelved. The news was first reported by The Guardian. talkSPORT previously revealed UEFA President Aleksander Čeferin was pushing for a Club World Cup boycott. UEFA's threat to not participate in FIFA tournaments remains in place and Ceferin wants the EFC to support this until Infantino resigns or removes himself from re-election next March.",
    "image": "https://talksport.com/wp-content/uploads/2025/03/f-d-ration-internationale-de-978070475.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -68,8 +58,8 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/spains-fifa-world-cup-final-hero-ferran-torres-leaves-barcelona-for-new-challenge-in-france/articleshow/133261775.cms",
    "lede": "Champions League holders Paris Saint-Germain have strengthened their already powerful attack by signing Spain star Ferran Torres from Barcelona on a five-year contract.PSG confirmed the transfer on Saturday but did not reveal the fee. French sports newspaper L’Equipe reported that the club paid around 50 million euros ($58 million) for the 26-year-old forward, who will wear the No. 9 shirt.Torres’ big move to PSGTorres became a World Cup hero after scoring Spain’s winning goal in extra time of the final against Argentina. Coming on as a substitute, he reacted quickly to a loose ball and fired a left-footed shot into the net.Reflecting on the goal, Torres said it was “scored by 47 million people,” referring to Spain’s population.The PSG move is the second major transfer of Torres’ career. Barcelona signed him from Manchester City in January 2022 for a reported 55 million euros.",
    "image": "https://static.toiimg.com/thumb/msid-133261850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "CNA",
@@ -78,6 +68,16 @@
    "link": "https://www.channelnewsasia.com/listen/cna938-rewind/world-football-day-excitement-world-cup-2026-fading-6139771?field_season_value=620426&page=4",
    "lede": "As FIFA and organisers ramp up preparations across North America, reports of softer ticket demand and price adjustments have sparked debate about whether the expanded tournament is diluting the World Cup experience. On World Football Day, Genevieve Woo and Hairianto Diman discuss the logistical challenges facing World Cup organiser countries, the pressure on infrastructure and security, as well as the emerging favourites, dark horses and players who could define the tournament. For that, they speak with Dez Corkhill, Sports Commentator, Sports Centred Media Services. You might have seen these creative – even, entertaining – AI videos depicting global political figures and conflicts.",
    "image": "https://dam.mediacorp.sg/image/upload/s--eY590iK5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/29/cna938-rewind-thumb-square-1080-1080.png?itok=3G4nmaZK",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "SPORTINGNEWS.COM",
+   "title": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament",
+   "iso": "2026-08-15T17:18:00.000Z",
+   "link": "https://www.sportingnews.com/in/tsn/news/hockey-world-cup-2026-points-table-schedule-results-mens-womens/a4989cc6fdb53f235bcd1847",
+   "lede": "Get the updated 2026 FIH Hockey World Cup points table, live pool standings, match results, and schedule for both men's and women's tournaments in Europe.",
+   "image": "https://library.sportingnews.com/styles/crop_style_16_9_1200_webp/s3/2026-08/WhatsApp%20Image%202026-07-21%20at%2011.31.17%20%281%29.jpeg.webp?itok=PkYMeYus",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
