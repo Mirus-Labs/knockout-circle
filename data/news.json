@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T10:42:04.520Z",
+ "updated": "2026-08-15T11:00:08.025Z",
  "news": [
   {
    "cat": "BBC",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "BBC.CO.UK",
+   "cat": "BBC",
    "title": "Why Michaely Bihina is the keeper making waves at Wafcon",
    "iso": "2026-08-15T07:38:19.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S.",
-   "iso": "2026-08-15T00:18:00.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-kicks-off-pivotal-001808654.html",
-   "lede": "Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United States. Strategic advisor Samuel Hymes looks back at the 2026 World Cup and forward to what could be a pivotal decade of international sporting events in the United... Samuel Hymes understands the importance of sports diplomacy at big international events such as the World Cup.",
-   "image": "https://s.yimg.com/lo/mysterio/api/84cb3bbf402ef0f621e1d10d6d876762ba6347e589024cbf3de48e3ede49087c/lightyear_networkapi/resizefill_w959_h527%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F2c96b795856e96a871efb827b2e2d33a.jpg",
+   "cat": "AL JAZEERA",
+   "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+   "iso": "2026-08-15T10:52:06.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona",
+   "lede": "The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five year deal.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8042379264-1786790455_3998cb-1786790508.jpg?resize=1200%2C630&quality=80",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
