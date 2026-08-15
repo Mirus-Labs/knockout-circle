@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T17:59:34.026Z",
+ "updated": "2026-08-15T18:40:58.183Z",
  "news": [
   {
    "cat": "TALKSPORT",
@@ -13,9 +13,9 @@
   },
   {
    "cat": "THE TIMES OF INDIA",
-   "title": "Ferran Torres begins PSG chapter as World Cup hero trains for first time after 2031 deal",
+   "title": "Ferran Torres leaves Barcelona for PSG weeks after scoring Spain’s World Cup-winning goal",
    "iso": "2026-08-15T16:18:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ferran-torres-begins-psg-chapter-as-world-cup-hero-trains-for-first-time-after-2031-deal/articleshow/133258702.cms",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ferran-torres-leaves-barcelona-for-psg-weeks-after-scoring-spains-world-cup-winning-goal/articleshow/133258702.cms",
    "lede": "Ferran Torres has begun life at Paris Saint-Germain, joining his new team-mates in training for the first time after completing his move from Barcelona. The Spain international was pictured in PSG training kit on Saturday, shortly after his transfer to the reigning European champions was made official, beginning a new chapter alongside some of Europe's most prominent attacking players. Football News: Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal for Spain. The forward signs a long-term contract with PSG, marking a significant move in his career.",
    "image": "https://static.toiimg.com/thumb/msid-133265573,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🏆",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE INDEPENDENT",
+   "cat": "INDEPENDENT.CO.UK",
    "title": "World Cup final match-winner Ferran Torres makes big-money move to PSG",
    "iso": "2026-08-15T14:05:00.000Z",
    "link": "https://www.independent.co.uk/sport/football/ferran-torres-transfer-fee-psg-barcelona-spain-b3033613.html",
@@ -62,12 +62,12 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "CNA",
-   "title": "CNA938 Rewind - World Football Day: Is the excitement for World Cup 2026 fading?",
-   "iso": "2026-08-15T11:37:59.000Z",
-   "link": "https://www.channelnewsasia.com/listen/cna938-rewind/world-football-day-excitement-world-cup-2026-fading-6139771?field_season_value=620426&page=4",
-   "lede": "As FIFA and organisers ramp up preparations across North America, reports of softer ticket demand and price adjustments have sparked debate about whether the expanded tournament is diluting the World Cup experience. On World Football Day, Genevieve Woo and Hairianto Diman discuss the logistical challenges facing World Cup organiser countries, the pressure on infrastructure and security, as well as the emerging favourites, dark horses and players who could define the tournament. For that, they speak with Dez Corkhill, Sports Commentator, Sports Centred Media Services. You might have seen these creative – even, entertaining – AI videos depicting global political figures and conflicts.",
-   "image": "https://dam.mediacorp.sg/image/upload/s--eY590iK5--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/09/29/cna938-rewind-thumb-square-1080-1080.png?itok=3G4nmaZK",
+   "cat": "NYTIMES.COM",
+   "title": "Men’s 1,500-meter freestyle world record demolished by Germany’s Johannes Liebmann at Euros",
+   "iso": "2026-08-15T17:48:53.000Z",
+   "link": "https://www.nytimes.com/athletic/7515537/2026/08/15/johannes-liebmann-1500-meter-freestyle-world-record-swimming-germany/",
+   "lede": "Liebmann, 19, added 1,500-meter gold to his 800-meter win and lowered the previous record by almost four seconds.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/15134328/GettyImages-2290064976-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
