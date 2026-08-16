@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:46:27.605Z",
+ "updated": "2026-08-16T14:00:36.657Z",
  "news": [
   {
    "cat": "FLASHSCORE.COM",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "INDEPENDENT NEWSPAPER NIGERIA",
+   "title": "WAFCON Exit, World Cup Miss: Has Nigeria Lost It Completely?",
+   "iso": "2026-08-16T05:24:07.000Z",
+   "link": "https://independent.ng/wafcon-exit-world-cup-miss-has-nigeria-lost-it-completely/",
+   "lede": "This may not be the best period in Nigerian football as the Super Falcons, unarguably one of the most decorated national teams in the world, set two records, albeit negatively, in less than seven days. For the first time since the inception of the Women Africa Cup of Nations (WAFCON), the serial winners, Super Falcons of Nigeria, failed to reach the semifinal. Similarly, the ten times African champions, for the first time since the start of the FIFA Women World Cup in China in 1991, failed to qualify for the quadrennial competition, all these happening at the ongoing WAFCON in Morocco where the team was billed to defend its title, having won the competition for the record tenth time two years ago in the same Morocco.",
+   "image": "https://independent.ng/wp-content/uploads/2026/08/images-31-1.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "QATAR TRIBUNE",
    "title": "From football legacy to basketball: Al Janoub Arena opens with Qatar-China clash on 27th",
    "iso": "2026-08-16T02:17:49.000Z",
    "link": "https://www.qatar-tribune.com/article/248866/sports/from-football-legacy-to-basketball-al-janoub-arena-opens-with-qatar-china-clash-on-27th",
    "lede": "The Al Janoub Stadium will enter a new chapter when on August 27 the iconic venue will officially open its doors to basketball hosting Qatar’s clash with China in the fourth window of the Asian qualifiers for the FIBA Basketball World Cup Qatar 2027. More than a competitive fixture, the game will provide an early test of readiness and offer fans a glimpse of the World Cup experience, exactly one year before the global tournament begins.2022 to 2027: Qatar’s sporting legacy moves forward The FIBA Basketball World Cup Qatar 2027 will stand apart as a landmark edition in the history of the competition. It will be the first World Cup hosted by an Arab country and the Middle East and North Africa region, and the first to be staged entirely within a single city, Doha. For fans, this unique format will create the opportunity to attend more than one game in a single day.",
    "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/08/16/381845.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FOX SPORTS",
@@ -58,26 +68,16 @@
    "link": "https://www.foxsports.com.au/nrl/football-2026-uefa-champions-league-how-nestory-irankuna-went-from-watford-to-historic-sporting-transfer-background/news-story/d84dd83e813f337c71a64bd18d3556ec",
    "lede": "Australian football fans’ midweek mornings just got a whole lot more interesting. With Nestory Irankunda’s £17 million ($32.5 million) move – with a whopping $130 million release clause - from Watford to Sporting CP finalised, Australians have got a new reason to set an early alarm with the 20-year-old set to feature in the UEFA Champions League. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. If fellow World Cup hero Jordy Bos returns from his knee injury in time – he is expected to miss the first three months of Dutch club Feyenoord’s season – Australians will have two superstars to keep an eye before the sun rises on a weekday.",
    "image": "https://content.api.news/v3/images/bin/adbba4f0c2f0f5e179a44869e0fa009a",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "CHANNEL4.COM",
+   "cat": "CHANNEL 4",
    "title": "Watch Live WAFCON Final: Cameroon v Malawi",
    "iso": "2026-08-16T00:00:00.000Z",
    "link": "https://www.channel4.com/programmes/live-wafcon-final-cameroon-v-malawi",
    "lede": "Live coverage of the 2026 WAFCON final between Cameroon and Malawi in Rabat. Live coverage of the 2026 WAFCON final between Cameroon and Malawi in the Moroccan capital Rabat. Neither of these teams has lifted the title before, so we're guaranteed a new champion...",
    "image": "https://ic.c4assets.com/vps/live-wafcon-final/30035414-63B6-40A9-ACD4D7CC98DA308A.jpg?imformat=chrome&resize=1200px:*",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE MIRROR",
-   "title": "England star Djed Spence completes Tottenham exit after shining at World Cup",
-   "iso": "2026-08-15T20:59:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/transfer-news/djed-spence-tottenham-inter-milan-37556490",
-   "lede": "Tottenham have confirmed that Djed Spence has completed a permanent move to Inter Milan . Spence, 26, has joined the Italian giants in a deal worth €30million (£26m) weeks after his standout performances for England at the World Cup . The full-back, who can play on both sides of defence, has signed a five-year contract with Inter and links up with international team-mate John Stones at San Siro. Spence featured in all eight of England's games at the World Cup, helping Thomas Tuchel's side finish third.",
-   "image": "https://i2-prod.mirror.co.uk/article37556543.ece/ALTERNATES/s1200d/0_GettyImages-2285740833.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
