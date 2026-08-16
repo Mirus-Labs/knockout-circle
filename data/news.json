@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T17:35:01.939Z",
+ "updated": "2026-08-16T17:36:59.552Z",
  "news": [
   {
    "cat": "FOX SPORTS",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "STRAITSTIMES.COM",
+   "cat": "THE STRAITS TIMES",
    "title": "Ronaldo hints at retirement, says upcoming year could be his last",
    "iso": "2026-08-16T15:51:03.000Z",
    "link": "https://www.straitstimes.com/sport/football/ronaldo-hints-at-retirement-says-upcoming-year-could-be-his-last?ref=latest-headlines",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "GULF NEWS",
-   "title": "Ronaldo drops retirement bombshell after World Cup heartbreak: ‘My last year of football’",
-   "iso": "2026-08-16T16:30:46.000Z",
-   "link": "https://gulfnews.com/sport/football/ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak-my-last-year-of-football-1.500642885",
-   "lede": "Cristiano Ronaldo hints this could be his final season, reflecting on World Cup heartbreak, legacy, family life and his future beyond football.",
-   "image": "https://media.assettype.com/gulfnews%2F2026-08-16%2Fjfsyeoyw%2Fronaldo.PNG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "cat": "THE DAILY STAR",
+   "title": "New Zealand Football withdraws support for Infantino, urges review",
+   "iso": "2026-08-16T09:50:48.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/new-zealand-football-withdraws-support-infantino-urges-review-4247521",
+   "lede": "New Zealand Football said on Friday it had withdrawn support for FIFA boss Gianni Infantino and called for an independent review into his aborted plan to sell off part of the World Cup. Infantino came under renewed fire this week in an open letter signed by three confederations -- UEFA, North and Central America's CONCACAF and Asia's AFC -- accusing the world football boss of breaking trust \"through deception\". It is believed they want the Swiss official to resign before he has the chance to seek re-election in March next year. New Zealand Football became the latest FIFA member to withdraw support on Friday.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
