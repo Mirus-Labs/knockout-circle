@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T16:36:00.655Z",
+ "updated": "2026-08-16T16:44:05.762Z",
  "news": [
   {
    "cat": "NEW YORK POST",
@@ -14,7 +14,7 @@
   {
    "cat": "GOAL.COM",
    "title": "Risky Ronald Araujo swoop is an act of pure desperation from Liverpool: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-16T15:12:09.000Z",
+   "iso": "2026-08-16T14:13:02.000Z",
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/blte6e033dbb2aab731/16-9%20(13).jpg",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "INDIANEXPRESS.COM",
-   "title": "Ronaldo drops retirement hint: ‘This is probably my last year of football’",
-   "iso": "2026-08-16T15:41:23.000Z",
-   "link": "https://indianexpress.com/article/sports/football/cristiano-ronaldo-retirement-hint-last-year-football-10836100/",
-   "lede": "",
+   "cat": "GULF NEWS",
+   "title": "Ronaldo drops retirement bombshell after World Cup heartbreak: ‘My last year of football’",
+   "iso": "2026-08-16T16:30:46.000Z",
+   "link": "https://gulfnews.com/sport/football/ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak-my-last-year-of-football-1.500642885",
+   "lede": "Cristiano Ronaldo hints this could be his final season, reflecting on World Cup heartbreak, legacy, family life and his future beyond football.",
+   "image": "https://media.assettype.com/gulfnews%2F2026-08-11%2F0rutkclw%2Fnewsml_afp_com_20260811T214017Z_doc_c4fa7g3.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
