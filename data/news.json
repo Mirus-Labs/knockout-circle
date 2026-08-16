@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-16T21:37:03.885Z",
+ "updated": "2026-08-16T21:50:46.669Z",
  "news": [
+  {
+   "cat": "NINE.COM.AU",
+   "title": "World Cup hero’s $125m Premier League exit on eve of season",
+   "iso": "2026-08-16T21:38:19.000Z",
+   "link": "https://www.nine.com.au/sport/football/english-premier-league-news-rodri-leaving-manchester-city-barcelona-signing-transfer-fee-20260817-p60ovq.html",
+   "lede": "Manchester City have accepted a £65.4 million ($125 million) bid from Barcelona for their World Cup-winning Spain midfielder Rodri, British media reported. The 2024 Ballon d’Or winner has agreed a four-year deal with the Spanish champions, Sky Sports said, and will head to the Nou Camp to complete the transfer next week. Spain’s Rodri is presented the FIFA World Cup. It comes a week after City knocked back a $75m offer from Barcelona.",
+   "image": "https://static.ffx.io/images/$zoom_0.1817%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/bfc1c90772b6c64ebdf2acf3c2ea31d63a191548",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "CHANNEL 4",
    "title": "Watch Live WAFCON Final: Cameroon v Malawi",
@@ -8,16 +18,6 @@
    "link": "https://www.channel4.com/programmes/live-wafcon-final-cameroon-v-malawi",
    "lede": "Live coverage of the 2026 WAFCON final between Cameroon and Malawi in Rabat. Live coverage of the 2026 WAFCON final between Cameroon and Malawi in the Moroccan capital Rabat. Neither of these teams has lifted the title before, so we're guaranteed a new champion...",
    "image": "https://ic.c4assets.com/vps/live-wafcon-final/30035414-63B6-40A9-ACD4D7CC98DA308A.jpg?imformat=chrome&resize=1200px:*",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-16T19:31:02.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blte803f7cbd1bbf186/16-9%20(8).jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "DAILY MIRROR",
+   "cat": "THE MIRROR",
    "title": "World Cup final referee's unheard plea to Lionel Messi exposed in new footage",
    "iso": "2026-08-16T16:45:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/world-cup-final-spain-argentina-37557969",
@@ -62,22 +62,21 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NEW YORK POST",
-   "title": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
-   "iso": "2026-08-16T16:13:00.000Z",
-   "link": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/",
-   "lede": "See more of our coverage in your search results. Fans better cherish what’s to come because it may just be Cristiano Ronaldo’s swan song. In an exclusive interview with Vogue alongside his wife Georgina Rodríguez about their wedding, the Portuguese soccer star admitted “this is probably my last year of football.” “I want to leave a spectacular legacy,” he continued to the outlet.",
-   "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-3px3p6t5h-1786896096220.jpg?quality=75&strip=all&1786881741&w=1200",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "BLEACHER REPORT",
    "title": "Rodri to Barcelona Transfer Confirmed in Latest Rumors as World Cup Star Leaves Manchester City",
    "iso": "2026-08-16T20:21:49.000Z",
    "link": "https://bleacherreport.com/articles/25472838-rodri-barcelona-transfer-confirmed-latest-rumors-world-cup-star-leaves-manchester-city",
    "lede": "Manchester City, fresh off a 3-0 loss to Arsenal in the Community Shield, reportedly finalized Rodri's long-rumored transfer to Barcelona on Sunday, per The Athletic's David Ornstein.",
    "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2286962722_large_cropped.jpg?w=1120&h=630",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "MSHALE",
+   "title": "Germany Appoint Jurgen Klopp After World Cup Disappointment Ponzi (HqqSzsWsZC)",
+   "iso": "2026-08-16T20:09:25.000Z",
+   "link": "https://mshale.com/7f7b2aa0/31e08b97gw84pV4_1UY",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
