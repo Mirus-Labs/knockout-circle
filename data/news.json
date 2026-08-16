@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T08:01:48.605Z",
+ "updated": "2026-08-16T08:48:20.827Z",
  "news": [
   {
    "cat": "THE HERALD",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "AWANI INTERNATIONAL",
+   "cat": "INTERNATIONAL.ASTROAWANI.COM",
    "title": "FIFA crisis timeline: From World Cup final to global standoff",
    "iso": "2026-08-16T06:41:07.000Z",
    "link": "https://international.astroawani.com/global-news/fifa-crisis-timeline-world-cup-final-global-standoff",
@@ -24,7 +24,7 @@
   {
    "cat": "CHANNEL 4",
    "title": "Watch Live WAFCON Final: Cameroon v Malawi",
-   "iso": "2026-08-15T22:20:19.000Z",
+   "iso": "2026-08-16T00:00:00.000Z",
    "link": "https://www.channel4.com/programmes/live-wafcon-final-cameroon-v-malawi",
    "lede": "Live coverage of the 2026 WAFCON final between Cameroon and Malawi in Rabat. Live coverage of the 2026 WAFCON final between Cameroon and Malawi in the Moroccan capital Rabat. Neither of these teams has lifted the title before, so we're guaranteed a new champion...",
    "image": "https://ic.c4assets.com/vps/live-wafcon-final/30035414-63B6-40A9-ACD4D7CC98DA308A.jpg?imformat=chrome&resize=1200px:*",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "KUWAITTIMES.COM",
+   "title": "World Cup winner Ferran Torres signs for PSG from Barcelona",
+   "iso": "2026-08-15T18:56:52.000Z",
+   "link": "https://kuwaittimes.com/article/48183/sports/football/world-cup-winner-ferran-torres-signs-for-psg-from-barcelona/",
+   "lede": "PARIS: Spain international Ferran Torres, who scored the only goal in last month’s World Cup final, signed for reigning European champions Paris Saint-Germain from Barcelona on Saturday. The 26-year-old forward cost the Ligue 1 title-holders a reported 50 million euros ($58 million). “Paris Saint-Germain is delighted to announce it has secured the services of Ferran Torres. The Spanish World Cup-winning forward has signed with the Club until 2031,” read the club statement.",
+   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/15/430521.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "1NEWS",
    "title": "NZ Football pulls support for Infantino as FIFA President",
    "iso": "2026-08-15T18:50:04.000Z",
    "link": "https://www.1news.co.nz/2026/08/14/nz-football-pulls-support-for-infantino-as-fifa-president/",
    "lede": "New Zealand Football has pulled its support for Gianni Infantino as FIFA President amid the fallout from the embattled executive's failed World Cup sell-off plan. NZ Football, which governs the game in Aotearoa, also called for an independent review of the steps taken during the plan's development. \"After careful consideration, NZF has formed the view that decisions and actions within FIFA have contributed to a breakdown in trust and increased division within international football, and that an independent review is required to restore confidence and trust,\" it said in a statement. \"NZF believes this point in time represents an opportunity for all FIFA member associations to advocate for stronger governance, accountability and transparency which are fundamental in maintaining confidence of the administration of the global game.\"",
    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaks-during-a-news-confere-OJFTHYSQKNH3LKLDZ4MSKZHXD4.jpg?auth=778c90f307fd92600f3241505083a6f2d566bf2d25a5e6cc1cd73cbe5edc7390&quality=70&width=600&height=315&focal=2801%2C1868",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FOURFOURTWO",
@@ -58,8 +68,8 @@
    "link": "https://www.fourfourtwo.com/person/player/zinedine-zidane-had-the-toughest-start-in-life-but-he-made-it-he-made-people-fall-in-love-with-french-football-playing-alongside-him-was-an-honour-djibril-cisse-on-what-its-like-to-line-up-alongside-a-legend",
    "lede": "The former Liverpool striker was a France team-mate of the Ballon d’Or winner. When you purchase through links on our site, we may earn an affiliate commission. As Zinedine Zidane gets set to return to the France national team setup as head coach, it is worth remembering just how big an impact the 54-year-old has had on his nation’s football culture. From his upbringing in Marseille to becoming the face of France’s historic 1998 World Cup victory, few players have left such an indelible mark on the game.",
    "image": "https://cdn.mos.cms.futurecdn.net/GyikMJrZwHTZaNPqa2AYNK-2560-80.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -68,16 +78,6 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ferran-torres-leaves-barcelona-for-psg-weeks-after-scoring-spains-world-cup-winning-goal/amp_articleshow/133258702.cms",
    "lede": "Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal for Spain. The forward signs a long-term contract with PSG, marking a significant move in his career. Football News: Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal for Spain. Football News: Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal.",
    "image": "https://static.toiimg.com/thumb/msid-133265573,width-1280,height-720,imgsize-70206,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-   "iso": "2026-08-16T07:50:01.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls",
-   "lede": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260816__2290655448__v1__HighRes__NashvilleScVInterMiamiCf-1786863412_cd79ca-1786863988.jpg?resize=1200%2C630&quality=80",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
