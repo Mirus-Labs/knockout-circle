@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-16T15:59:59.531Z",
+ "updated": "2026-08-16T16:36:00.655Z",
  "news": [
+  {
+   "cat": "NEW YORK POST",
+   "title": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
+   "iso": "2026-08-16T16:13:00.000Z",
+   "link": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/",
+   "lede": "See more of our coverage in your search results. Fans better cherish what’s to come because it may just be Cristiano Ronaldo’s swan song. In an exclusive interview with Vogue alongside his wife Georgina Rodríguez about their wedding, the Portuguese soccer star admitted “this is probably my last year of football.” “I want to leave a spectacular legacy,” he continued to the outlet.",
+   "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-3px3p6t5h-1786896096220.jpg?quality=75&strip=all&1786881741&w=1200",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "GOAL.COM",
    "title": "Risky Ronald Araujo swoop is an act of pure desperation from Liverpool: GOAL grades the biggest deals of the 2026 summer transfer window",
@@ -8,18 +18,28 @@
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/blte6e033dbb2aab731/16-9%20(13).jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "TALKSPORT.COM",
+   "cat": "TALKSPORT",
    "title": "Newcastle win £30million race for World Cup star – and now eye up transfer hijack",
    "iso": "2026-08-16T11:37:07.000Z",
    "link": "https://talksport.com/football/4516169/newcastle-amar-dedic-joao-palhinha-aston-villa/",
    "lede": "The 23-year-old Bosnia and Herzegovina international will undergo a medical with the Magpies on Sunday. It is believed that the deal is worth £30million, with Newcastle beating several clubs – including from the Premier League – to Dedic's signature. The former Red Bull Salzburg player, who can operate in both full-back positions, has made 46 appearances for Benfica since joining the Portuguese giants last summer. He also played three games at the 2026 World Cup as Bosnia reached the knockout stage for the first time.",
    "image": "https://talksport.com/wp-content/uploads/2026/08/matthias-jaissle-manager-newcastle-united-1101595964.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "FLASHSCORE.COM",
+   "title": "Spanish World Cup-winner Jenni Hermoso leaves Mexican club Tigres",
+   "iso": "2026-08-16T11:17:39.000Z",
+   "link": "https://www.flashscore.com/news/soccer-liga-mx-women-jenni-hermoso-leaves-mexican-club-tigres/6FSbBceC/",
+   "lede": "The 36-year-old forward, who has played 125 times for Spain, joined Tigres in 2024, having spent 18 months with another Mexican club, Pachuca. Prior to that, she played for Atletico Madrid, Barcelona and Paris Saint-Germain. \"I’m leaving Tigres very happy with everything I’ve experienced, but also sad, of course, because I don’t like saying goodbye, while knowing full well that this is the best thing that has ever happened to me in life,\" a tearful Hermoso said in a video posted on X. Her departure comes three years after the Luis Rubiales affair, which deeply affected her career and Spanish football.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/c08c33dc-96b5-4b20-a13e-3d17ca9200ff.jpeg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE DAILY STAR",
@@ -28,8 +48,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/new-zealand-football-withdraws-support-infantino-urges-review-4247521",
    "lede": "New Zealand Football said on Friday it had withdrawn support for FIFA boss Gianni Infantino and called for an independent review into his aborted plan to sell off part of the World Cup. Infantino came under renewed fire this week in an open letter signed by three confederations -- UEFA, North and Central America's CONCACAF and Asia's AFC -- accusing the world football boss of breaking trust \"through deception\". It is believed they want the Swiss official to resign before he has the chance to seek re-election in March next year. New Zealand Football became the latest FIFA member to withdraw support on Friday.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE HERALD",
@@ -38,8 +58,8 @@
    "link": "https://www.heraldscotland.com/sport/26468098.ex-hearts-director-warns-migrant-kids-priced-football/",
    "lede": "During the four years that he spent working as the sporting director as Hearts, Joe Savage encountered numerous children from refugee, asylum seeker and ethnic minority communities who had aspirations to become professional footballers one day. Savage, who has also worked in talent identification and recruitment with Hamilton Academical in Scotland and Norwich City and Preston North End in England, was invariably impressed with their mentality and ability when he did so. “Kids who have come over to this country with their families and had ambitions to play the game for a living have always got great attitudes in my experience,” he said. “They want to adapt, they want to do the very best they can.",
    "image": "https://www.heraldscotland.com/resources/images/21325324.jpg?type=og-image",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "AWANI INTERNATIONAL",
@@ -48,33 +68,14 @@
    "link": "https://international.astroawani.com/global-news/fifa-crisis-timeline-world-cup-final-global-standoff",
    "lede": "HERE is a timeline of events where FIFA president Gianni Infantino introduced a proposal to sell a slice of the World Cup's commercial future that backfired and sparked a global revolt in the sport:. July 19 - The first 48-team World Cup concludes at New York New Jersey stadium with Infantino and U.S. President Donald Trump, booed as they walked onto the pitch, presenting the trophy to Spain after their 1-0 win over Argentina. July 28 - Shortly after a leak in the British media, FIFA announces it wants to create a US$20 billion subsidiary to run the World Cup and other competitions, raising US$4.2 billion for soccer development by selling a 20% stake to external investors.",
    "image": "https://media.astroawani.com/awani/media/article/2025/Mar/03/81741015430_FIFAslogo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "INDEPENDENT NEWSPAPER NIGERIA",
-   "title": "WAFCON Exit, World Cup Miss: Has Nigeria Lost It Completely?",
-   "iso": "2026-08-16T05:24:07.000Z",
-   "link": "https://independent.ng/wafcon-exit-world-cup-miss-has-nigeria-lost-it-completely/",
-   "lede": "This may not be the best period in Nigerian football as the Super Falcons, unarguably one of the most decorated national teams in the world, set two records, albeit negatively, in less than seven days. For the first time since the inception of the Women Africa Cup of Nations (WAFCON), the serial winners, Super Falcons of Nigeria, failed to reach the semifinal. Similarly, the ten times African champions, for the first time since the start of the FIFA Women World Cup in China in 1991, failed to qualify for the quadrennial competition, all these happening at the ongoing WAFCON in Morocco where the team was billed to defend its title, having won the competition for the record tenth time two years ago in the same Morocco.",
-   "image": "https://independent.ng/wp-content/uploads/2026/08/images-31-1.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "The 1994 World Cup: A Tale Of Two Penalties Ian Mckellen (5EC4m2F4fo)",
-   "iso": "2026-08-16T13:32:34.000Z",
-   "link": "https://mshale.com/08657e3e/0975e38cZjetv0UwlpY",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "Argentina Vs Switzerland Live | FIFA World Cup 2026 Quarter Final | Full Match Highlights | Messi Al Shabab Fc Vs Al-nassr Standings (fYfKFo0n7q)",
-   "iso": "2026-08-16T13:05:37.000Z",
-   "link": "https://mshale.com/4f23aa3a/0e05fec9TBN35FuvwYI",
+   "cat": "INDIANEXPRESS.COM",
+   "title": "Ronaldo drops retirement hint: ‘This is probably my last year of football’",
+   "iso": "2026-08-16T15:41:23.000Z",
+   "link": "https://indianexpress.com/article/sports/football/cristiano-ronaldo-retirement-hint-last-year-football-10836100/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
