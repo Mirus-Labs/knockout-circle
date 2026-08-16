@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T21:29:46.685Z",
+ "updated": "2026-08-16T21:37:03.885Z",
  "news": [
   {
    "cat": "CHANNEL 4",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "THE MIRROR",
+   "cat": "DAILY MIRROR",
    "title": "World Cup final referee's unheard plea to Lionel Messi exposed in new footage",
    "iso": "2026-08-16T16:45:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/world-cup-final-spain-argentina-37557969",
@@ -62,21 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
+   "cat": "NEW YORK POST",
+   "title": "Cristiano Ronaldo drops retirement bombshell after World Cup heartbreak",
+   "iso": "2026-08-16T16:13:00.000Z",
+   "link": "https://nypost.com/2026/08/16/sports/cristiano-ronaldo-drops-retirement-bombshell-after-world-cup-heartbreak/",
+   "lede": "See more of our coverage in your search results. Fans better cherish what’s to come because it may just be Cristiano Ronaldo’s swan song. In an exclusive interview with Vogue alongside his wife Georgina Rodríguez about their wedding, the Portuguese soccer star admitted “this is probably my last year of football.” “I want to leave a spectacular legacy,” he continued to the outlet.",
+   "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-3px3p6t5h-1786896096220.jpg?quality=75&strip=all&1786881741&w=1200",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "BLEACHER REPORT",
    "title": "Rodri to Barcelona Transfer Confirmed in Latest Rumors as World Cup Star Leaves Manchester City",
    "iso": "2026-08-16T20:21:49.000Z",
    "link": "https://bleacherreport.com/articles/25472838-rodri-barcelona-transfer-confirmed-latest-rumors-world-cup-star-leaves-manchester-city",
    "lede": "Manchester City, fresh off a 3-0 loss to Arsenal in the Community Shield, reportedly finalized Rodri's long-rumored transfer to Barcelona on Sunday, per The Athletic's David Ornstein.",
    "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2286962722_large_cropped.jpg?w=1120&h=630",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "Germany Appoint Jurgen Klopp After World Cup Disappointment Ponzi (HqqSzsWsZC)",
-   "iso": "2026-08-16T20:09:25.000Z",
-   "link": "https://mshale.com/7f7b2aa0/31e08b97gw84pV4_1UY",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
