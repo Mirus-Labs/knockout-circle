@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T11:01:55.323Z",
+ "updated": "2026-08-16T11:35:06.370Z",
  "news": [
   {
    "cat": "FLASHSCORE.COM",
@@ -22,22 +22,22 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THE HERALD",
-   "title": "It's a middle-class sport now: Rising costs are forcing migrant kids out of football",
-   "iso": "2026-08-16T07:36:31.000Z",
-   "link": "https://www.heraldscotland.com/sport/26468098.ex-hearts-director-warns-migrant-kids-priced-football/",
-   "lede": "During the four years that he spent working as the sporting director as Hearts, Joe Savage encountered numerous children from refugee, asylum seeker and ethnic minority communities who had aspirations to become professional footballers one day. Savage, who has also worked in talent identification and recruitment with Hamilton Academical in Scotland and Norwich City and Preston North End in England, was invariably impressed with their mentality and ability when he did so. “Kids who have come over to this country with their families and had ambitions to play the game for a living have always got great attitudes in my experience,” he said. “They want to adapt, they want to do the very best they can.",
-   "image": "https://www.heraldscotland.com/resources/images/21325324.jpg?type=og-image",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "AWANI INTERNATIONAL",
    "title": "FIFA crisis timeline: From World Cup final to global standoff",
    "iso": "2026-08-16T06:41:07.000Z",
    "link": "https://international.astroawani.com/global-news/fifa-crisis-timeline-world-cup-final-global-standoff",
    "lede": "HERE is a timeline of events where FIFA president Gianni Infantino introduced a proposal to sell a slice of the World Cup's commercial future that backfired and sparked a global revolt in the sport:. July 19 - The first 48-team World Cup concludes at New York New Jersey stadium with Infantino and U.S. President Donald Trump, booed as they walked onto the pitch, presenting the trophy to Spain after their 1-0 win over Argentina. July 28 - Shortly after a leak in the British media, FIFA announces it wants to create a US$20 billion subsidiary to run the World Cup and other competitions, raising US$4.2 billion for soccer development by selling a 20% stake to external investors.",
    "image": "https://media.astroawani.com/awani/media/article/2025/Mar/03/81741015430_FIFAslogo.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "INDEPENDENT NEWSPAPER NIGERIA",
+   "title": "WAFCON Exit, World Cup Miss: Has Nigeria Lost It Completely?",
+   "iso": "2026-08-16T05:24:07.000Z",
+   "link": "https://independent.ng/wafcon-exit-world-cup-miss-has-nigeria-lost-it-completely/",
+   "lede": "This may not be the best period in Nigerian football as the Super Falcons, unarguably one of the most decorated national teams in the world, set two records, albeit negatively, in less than seven days. For the first time since the inception of the Women Africa Cup of Nations (WAFCON), the serial winners, Super Falcons of Nigeria, failed to reach the semifinal. Similarly, the ten times African champions, for the first time since the start of the FIFA Women World Cup in China in 1991, failed to qualify for the quadrennial competition, all these happening at the ongoing WAFCON in Morocco where the team was billed to defend its title, having won the competition for the record tenth time two years ago in the same Morocco.",
+   "image": "https://independent.ng/wp-content/uploads/2026/08/images-31-1.jpeg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -62,7 +62,7 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE MIRROR",
+   "cat": "DAILY MIRROR",
    "title": "England star Djed Spence completes Tottenham exit after shining at World Cup",
    "iso": "2026-08-15T20:59:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/transfer-news/djed-spence-tottenham-inter-milan-37556490",
