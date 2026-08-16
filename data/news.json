@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:34:58.125Z",
+ "updated": "2026-08-16T13:46:27.605Z",
  "news": [
   {
    "cat": "FLASHSCORE.COM",
@@ -62,7 +62,7 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "CHANNEL 4",
+   "cat": "CHANNEL4.COM",
    "title": "Watch Live WAFCON Final: Cameroon v Malawi",
    "iso": "2026-08-16T00:00:00.000Z",
    "link": "https://www.channel4.com/programmes/live-wafcon-final-cameroon-v-malawi",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "FIFA Vs FOOTBALL - What Does This Mean For The Football Industry Wnba Standings (zC2ojKvIgE)",
-   "iso": "2026-08-16T09:05:21.000Z",
-   "link": "https://mshale.com/9764e825/ea87c1a1MlVYA5v4Vbk",
-   "lede": "",
+   "cat": "THE MIRROR",
+   "title": "England star Djed Spence completes Tottenham exit after shining at World Cup",
+   "iso": "2026-08-15T20:59:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/transfer-news/djed-spence-tottenham-inter-milan-37556490",
+   "lede": "Tottenham have confirmed that Djed Spence has completed a permanent move to Inter Milan . Spence, 26, has joined the Italian giants in a deal worth €30million (£26m) weeks after his standout performances for England at the World Cup . The full-back, who can play on both sides of defence, has signed a five-year contract with Inter and links up with international team-mate John Stones at San Siro. Spence featured in all eight of England's games at the World Cup, helping Thomas Tuchel's side finish third.",
+   "image": "https://i2-prod.mirror.co.uk/article37556543.ece/ALTERNATES/s1200d/0_GettyImages-2285740833.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
