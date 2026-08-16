@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T23:46:45.999Z",
+ "updated": "2026-08-16T23:59:10.470Z",
  "news": [
   {
    "cat": "NINE.COM.AU",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "BBC",
+   "title": "Wafcon 2026 final: Cameroon 3-0 Malawi - Marie Ngah Manga helps Indomitable Lionesses to first title",
+   "iso": "2026-08-16T20:58:48.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crl77w8y8r3o",
+   "lede": "Cameroon had previously lost in the Wafcon final in 2004, 2014 and 2016 - with all three defeats coming against Nigeria. Cameroon cruised to a 3-0 victory over tournament debutants Malawi to claim their first ever Women's Africa Cup of Nations (Wafcon) title. Marie Ngah Manga's close-range header put the Indomitable Lionesses ahead in the 20th minute and Naomi Eto doubled the lead with a stunning volley on the half hour mark in the Moroccan capital Rabat. The Central Africans made it 3-0 in the third minute of first-half added time as Eto rounded Malawi goalkeeper Mercy Sikelo and put the ball on a plate for striker Ngah Manga to score her fifth goal at the finals.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1a1d/live/d1ab13e0-99bb-11f1-870d-5d08c49babb2.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE DAILY STAR",
    "title": "New Zealand Football withdraws support for Infantino, urges review",
    "iso": "2026-08-16T20:56:48.000Z",
    "link": "https://www.thedailystar.net/sports/football/news/new-zealand-football-withdraws-support-infantino-urges-review-4247521",
    "lede": "New Zealand Football said on Friday it had withdrawn support for FIFA boss Gianni Infantino and called for an independent review into his aborted plan to sell off part of the World Cup. Infantino came under renewed fire this week in an open letter signed by three confederations -- UEFA, North and Central America's CONCACAF and Asia's AFC -- accusing the world football boss of breaking trust \"through deception\". It is believed they want the Swiss official to resign before he has the chance to seek re-election in March next year. New Zealand Football became the latest FIFA member to withdraw support on Friday.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/world-cup-star-rodri-sign-230837133.html",
    "lede": "Multiple reports say that Spain's Rodri, who won the Golden Ball at the 2026 World Cup, will join FC Barcelona on transfer from Manchester City.",
    "image": "https://s.yimg.com/lo/mysterio/api/65deeb99f8813191fe3453035ac621fbc2f7aab23e835544337fd81953e8c3a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fc9eb076a1d36a81f1d16215d9d8fd0b8.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MSHALE",
@@ -47,8 +57,8 @@
    "iso": "2026-08-16T21:46:46.000Z",
    "link": "https://mshale.com/a930299c/fe6d6ba5ICUOBVoWYjACOiA",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MSHALE",
@@ -56,23 +66,14 @@
    "iso": "2026-08-16T21:42:18.000Z",
    "link": "https://mshale.com/f64923d0/c1bea9ee_AILKc1s18w",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
    "title": "Argentina Vs Algeria Match Preview - FIFA World Cup 2026 | Algeria Vs Argentina Prediction | Group C Myanmar (DbSJxY6YDL)",
    "iso": "2026-08-16T21:41:07.000Z",
    "link": "https://mshale.com/3fc07fbe/6f0b015bYxbVN8gE8Ps",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "🔴 Portugal Vs Uzbekistan LIVE WATCHALONG | FIFA World Cup 2026 Football LIVE | Cristiano Ronaldo The Young And The Restless (BDDtMyDwol)",
-   "iso": "2026-08-16T21:30:49.000Z",
-   "link": "https://mshale.com/5b9fe2d1/a31861a5WQE_OAcXQRAVL1k",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
