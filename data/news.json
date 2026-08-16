@@ -1,83 +1,75 @@
 {
- "updated": "2026-08-16T07:35:05.426Z",
+ "updated": "2026-08-16T07:47:59.537Z",
  "news": [
   {
-   "cat": "AWANI INTERNATIONAL",
-   "title": "FIFA crisis timeline: From World Cup final to global standoff",
-   "iso": "2026-08-16T06:41:07.000Z",
-   "link": "https://international.astroawani.com/global-news/fifa-crisis-timeline-world-cup-final-global-standoff",
-   "lede": "HERE is a timeline of events where FIFA president Gianni Infantino introduced a proposal to sell a slice of the World Cup's commercial future that backfired and sparked a global revolt in the sport:. July 19 - The first 48-team World Cup concludes at New York New Jersey stadium with Infantino and U.S. President Donald Trump, booed as they walked onto the pitch, presenting the trophy to Spain after their 1-0 win over Argentina. July 28 - Shortly after a leak in the British media, FIFA announces it wants to create a US$20 billion subsidiary to run the World Cup and other competitions, raising US$4.2 billion for soccer development by selling a 20% stake to external investors.",
-   "image": "https://media.astroawani.com/awani/media/article/2025/Mar/03/81741015430_FIFAslogo.jpg",
+   "cat": "THE HERALD",
+   "title": "It's a middle-class sport now: Rising costs are forcing migrant kids out of football",
+   "iso": "2026-08-16T07:36:31.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2pFdzh0QThUZFJmc2JrdC1iTWZsSGE5Z1hFMWFnanNlVFU3Q09abGJuYXlNNTh6UXRxazQ5S0p6Q19JYVVobVU0ZlBhcVBuTERWdWJTZ00yejhLUV80a2xHeGF6UlVRc0ozT3pkTlhiV21NSDhVcFNzdU51TG9NUkhSMVRwWmxORGJmQlNkaTQxelFDYnRZck5TSUFDNEM2Tnc?oc=5",
+   "lede": "",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE HERALD",
-   "title": "It's a middle-class sport now: Rising costs are forcing migrant kids out of football",
-   "iso": "2026-08-16T06:12:23.000Z",
-   "link": "https://www.heraldscotland.com/sport/26468098.ex-hearts-director-warns-migrant-kids-priced-football/",
-   "lede": "During the four years that he spent working as the sporting director as Hearts, Joe Savage encountered numerous children from refugee, asylum seeker and ethnic minority communities who had aspirations to become professional footballers one day. Savage, who has also worked in talent identification and recruitment with Hamilton Academical in Scotland and Norwich City and Preston North End in England, was invariably impressed with their mentality and ability when he did so. “Kids who have come over to this country with their families and had ambitions to play the game for a living have always got great attitudes in my experience,” he said. “They want to adapt, they want to do the very best they can.",
-   "image": "https://www.heraldscotland.com/resources/images/21325324.jpg?type=og-image",
+   "cat": "AWANI INTERNATIONAL",
+   "title": "FIFA crisis timeline: From World Cup final to global standoff",
+   "iso": "2026-08-16T06:41:07.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnJibmNycmZWY1ZIc29PX1RnZ3dkRkJrdnNOVTJMd0VYOGN1SENRdWxGMi0zaFZXNzF2OG9DQldQM0lpR0doTHk1TjdqdWV3c3NVNmFjcmM4TW00M3NybVk1SmZ2QVl6UUJ1RV9fVUVIVjJ2QXU2eVFQeV95RzByM1hIMTdaNTJUVVRJdnlhOFBXTVB6UFJUTHRaM212YVpUUTU0?oc=5",
+   "lede": "",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MSHALE.COM",
+   "title": "FIFA World Cup 2026 Semi Finals Confirmed! Full Knockout Schedule & Match Time 3rd Place Fixtures Kiana James (Rp84Igb3WI)",
+   "iso": "2026-08-16T06:30:44.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MVVSc3IyMXlmOEpDZjFZTG1CRGZsUmlra0I5ZXpyeEFpRC1DbWM0aEpNUC1GOFZ1M3NKZGZoU3NZUnNtU1NVdXhlZWxpdzhycEEyQkNGVE5EUQ?oc=5",
+   "lede": "",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "ENCYCLOPEDIA BRITANNICA",
+   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+   "iso": "2026-08-16T03:28:20.000Z",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+   "lede": "",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "MSHALE.COM",
+   "title": "Argentina Vs Spain FIFA WORLD CUP Final Match LIVE | Messi, Diego Maradona | Yamal | NewJersey Toulouse – Lyon (WBp21KkBH1)",
+   "iso": "2026-08-16T03:18:47.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMHc0S0xPTU9ia3prUUpxY3VwV2ZtQWI4OC1LSlE1U3JMRkQ0ZjBZOVdHa2NpYVVKdEswUmhvNmtxNktLeFFJMGcxaEJsLTFJeWhHWTcyX1JneFU?oc=5",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "CHANNEL 4",
    "title": "Watch Live WAFCON Final: Cameroon v Malawi",
    "iso": "2026-08-15T22:20:19.000Z",
-   "link": "https://www.channel4.com/programmes/live-wafcon-final-cameroon-v-malawi",
-   "lede": "Live coverage of the 2026 WAFCON final between Cameroon and Malawi in Rabat. Live coverage of the 2026 WAFCON final between Cameroon and Malawi in the Moroccan capital Rabat. Neither of these teams has lifted the title before, so we're guaranteed a new champion...",
-   "image": "https://ic.c4assets.com/vps/live-wafcon-final/30035414-63B6-40A9-ACD4D7CC98DA308A.jpg?imformat=chrome&resize=1200px:*",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOZXNZYWJQZ19jdzQySXBDVU53aUhJdzBuOFdIb01Mb0xiZExoSEFSSThVUmtnWTlMWVpCUG5RZlg4ODFtamQyd3ZOVC15eWYwV21YeUVPUHhYOFhzaTVKOXZyYkQzZ0ZZbWlCUE15dG9XWXNGd1JqZ1FSdw?oc=5",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DAILY MIRROR",
    "title": "England star Djed Spence completes Tottenham exit after shining at World Cup",
    "iso": "2026-08-15T20:59:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/transfer-news/djed-spence-tottenham-inter-milan-37556490",
-   "lede": "Tottenham have confirmed that Djed Spence has completed a permanent move to Inter Milan . Spence, 26, has joined the Italian giants in a deal worth €30million (£26m) weeks after his standout performances for England at the World Cup . The full-back, who can play on both sides of defence, has signed a five-year contract with Inter and links up with international team-mate John Stones at San Siro. Spence featured in all eight of England's games at the World Cup, helping Thomas Tuchel's side finish third.",
-   "image": "https://i2-prod.mirror.co.uk/article37556543.ece/ALTERNATES/s1200d/0_GettyImages-2285740833.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FOURFOURTWO",
-   "title": "“Zinedine Zidane had the toughest start in life but he made it. He made people fall in love with French football. Playing alongside him was an honour” Djibril Cisse on what it’s like to line up alongside a legend",
-   "iso": "2026-08-15T18:00:00.000Z",
-   "link": "https://www.fourfourtwo.com/person/player/zinedine-zidane-had-the-toughest-start-in-life-but-he-made-it-he-made-people-fall-in-love-with-french-football-playing-alongside-him-was-an-honour-djibril-cisse-on-what-its-like-to-line-up-alongside-a-legend",
-   "lede": "The former Liverpool striker was a France team-mate of the Ballon d’Or winner. When you purchase through links on our site, we may earn an affiliate commission. As Zinedine Zidane gets set to return to the France national team setup as head coach, it is worth remembering just how big an impact the 54-year-old has had on his nation’s football culture. From his upbringing in Marseille to becoming the face of France’s historic 1998 World Cup victory, few players have left such an indelible mark on the game.",
-   "image": "https://cdn.mos.cms.futurecdn.net/GyikMJrZwHTZaNPqa2AYNK-2560-80.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "Ferran Torres leaves Barcelona for PSG weeks after scoring Spain’s World Cup-winning goal",
-   "iso": "2026-08-15T16:18:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/ferran-torres-leaves-barcelona-for-psg-weeks-after-scoring-spains-world-cup-winning-goal/amp_articleshow/133258702.cms",
-   "lede": "Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal for Spain. The forward signs a long-term contract with PSG, marking a significant move in his career. Football News: Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal for Spain. Football News: Ferran Torres leaves Barcelona for Paris Saint-Germain following his decisive World Cup-winning goal.",
-   "image": "https://static.toiimg.com/thumb/msid-133265573,width-1280,height-720,imgsize-70206,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "TALKSPORT",
-   "title": "World Cup star Zion Suzuki in advanced talks over Premier League transfer as PSG move collapses",
-   "iso": "2026-08-15T15:54:51.000Z",
-   "link": "https://talksport.com/football/4515068/aston-villa-zion-suzuki-psg-emi-martinez-juventus-rumours/",
-   "lede": "The Villans' pursuit of Suzuki comes as Juventus revived their interest in Emi Martinez. Suzuki was poised to join European champions Paris Saint-Germain, who beat Villa 2-1 in the Super Cup on Wednesday. PSG and Parma had reached an agreement of approximately £29million for Suzuki, only for the deal to collapse on Saturday. It is understood a change in commissions surrounding the deal prompted PSG to withdraw.",
-   "image": "https://talksport.com/wp-content/uploads/2025/04/zion-suzuki-japan-applauds-fans-982424538.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdERSelN3NHJnWTdKdWd5TTVialkzMmZDeGt6YU5pdnNjZnhRUkpvVlRiMUlDVERHT2IzVVZSSTNYUTNwZFlGMnJmalBYOXNmOVZTTTNxd2FSM2tfQ2E1YWdEMFJHOXFJX2FoeTY2RUJhaGxYcl8wSGZHNE55WmtJT3dwd2J6X1JYelVXWXNfUFUydHJKUF9qNkQ1NFPSAaIBQVVfeXFMTTh1Z3VTR1d0bVA3b0RlaV9XVlBqNkhMWDNpRUxIWGZCWVNNby1NOV81SThhMFljTTVJdEc1VjVUYUp6N29BclZwMnBaeFExeUtkVUxKU3k0MHFsUERLVnI2MVpvbmxGaFoyM1dGczNjNE1CRGc4MFJDUmtyTXU4UWt6ZjVCWGNLNmdUVDRSbkhKNVpwdDRwLVB5NjRVNHVmemZB?oc=5",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE PENINSULA QATAR",
-   "title": "From football to basketball, Al Janoub Arena enters new era",
-   "iso": "2026-08-16T06:24:43.000Z",
-   "link": "https://thepeninsulaqatar.com/article/16/08/2026/from-football-to-basketball-al-janoub-arena-enters-new-era",
-   "lede": "Doha, Qatar: The story of Al Janoub Stadium is entering a new chapter. On August 27, the iconic venue will officially open its doors to basketball...",
-   "image": "https://thepeninsulaqatar.com/get/maximage/20211122_1637560693-148.jpg?1637560693",
+   "cat": "1NEWS",
+   "title": "NZ Football pulls support for Infantino as FIFA President",
+   "iso": "2026-08-15T18:50:04.000Z",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFdoVUcxcWZOUkVHVEEtR1JuQ2Y4azhFUHpMUWNKZ28wZWdLck1OQXBvaVJUXzJNM1E0cXBoajYzV2dpMG1zV1ROMWJ6NmdiRzVQS3dQR2ZCS0dxalF3aGx4OXQ3NUI0TXo4RG9UVUhuM3hMUzF0WTM5OE1qUGZTTm1KZjZ1aGNuWFpOVnNHOVAxRmZaMVNPRQ?oc=5",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
