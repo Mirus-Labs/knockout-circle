@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-17T05:00:31.104Z",
+ "updated": "2026-08-17T05:38:55.250Z",
  "news": [
+  {
+   "cat": "FOX SPORTS",
+   "title": "$125m blockbuster as Spanish giants land World Cup hero; shock Arsenal raid looms – Transfers",
+   "iso": "2026-08-17T03:53:58.000Z",
+   "link": "https://www.foxsports.com.au/football/football-2026-transfer-news-barcelona-sign-rodri-from-manchester-city-viktor-gyokeres-transfer-latest-arsenal-ferran-torres-psg-joao-cancelo-jamie-vardy/news-story/d5950d4baffac8d034bf28914f9d95d1",
+   "lede": "The transfer window is heating up, with one of Europe’s biggest clubs making a major statement while another stunning Premier League raid could be on the cards. Meanwhile, a World Cup hero is on the move and a Premier League legend could be set for a shock new adventure. Catch up on all the latest moves and whispers in Football Transfers. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
+   "image": "https://content.api.news/v3/images/bin/166357f5199e2a7f44619ce27b79fb35",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "YAHOO CREATORS",
    "title": "Missing World Cup soccer? Ted Lasso Season 4 is giving football fans their fix",
@@ -8,16 +18,6 @@
    "link": "https://creators.yahoo.com/lifestyle/story/missing-world-cup-soccer-ted-lasso-season-4-is-giving-football-fans-their-fix-213039291.html",
    "lede": "The World Cup ended a few weeks ago. For plenty of fans, ordinary life still hasn't quite recovered. Across TikTok, Instagram and YouTube, creators are posting nostalgic edits, empty stadiums and montages of the month that seemed to disappear almost as quickly as it arrived. In the comments, people are talking about missing the daily rhythm of matches, the crowds, the travel and even the strange feeling of having half the world watching the same thing at the same time.",
    "image": "https://s.yimg.com/lo/mysterio/api/862232c78bc582af05c94fac7322bb8cf96546201e5df38d51011f204b90d3ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fted-lasso-world-cup-halftime-show-season-4_2068.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "$125m blockbuster as Spanish giants land World Cup hero; shock Arsenal raid looms – Transfers",
-   "iso": "2026-08-17T01:39:41.000Z",
-   "link": "https://www.foxsports.com.au/football/football-2026-transfer-news-barcelona-sign-rodri-from-manchester-city-viktor-gyokeres-transfer-latest-arsenal-ferran-torres-psg-joao-cancelo-jamie-vardy/news-story/d5950d4baffac8d034bf28914f9d95d1",
-   "lede": "The transfer window is heating up, with one of Europe’s biggest clubs making a major statement while another stunning Premier League raid could be on the cards. Meanwhile, a World Cup hero is on the move and a Premier League legend could be set for a shock new adventure. Catch up on all the latest moves and whispers in Football Transfers. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
-   "image": "https://content.api.news/v3/images/bin/166357f5199e2a7f44619ce27b79fb35",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,14 +42,23 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "MSHALE",
+   "title": "FIFA World Cup 2026 Full Schedule ⚽ 48 Teams, 104 Matches Explained! | VIRAL FACT REELS Vladimir Putin (aqtOGJ6gwP)",
+   "iso": "2026-08-17T04:14:30.000Z",
+   "link": "https://mshale.com/b783882e/bf5b6777HQkbVgIRWQAhGgY",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Cristiano Ronaldo and Lionel Messi are talking about retirement. What does football look like without them?",
    "iso": "2026-08-17T04:12:03.000Z",
    "link": "https://www.nytimes.com/athletic/7517191/2026/08/17/ronaldo-messi-retirement-what-next/",
    "lede": "As two greats near the end of their careers, can others reach the same heights? Or has the fragmentation of football made it more difficult?",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/16162332/messironaldo.png?width=1200&height=630&fit=cover",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -58,23 +67,14 @@
    "link": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/",
    "lede": "In newly released footage, viewers can see snippets of how the World Cup final unfolded from the referee's perspective.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/16113539/Screenshot-2026-08-16-at-16.21.28.png?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "FIFA World Cup 2026 Semi Finals Confirmed! Full Knockout Schedule & Match Time 3rd Place Fixtures Blair Underwood (OjBXSAHDE8)",
-   "iso": "2026-08-17T03:11:16.000Z",
-   "link": "https://mshale.com/b3db5441/85f606e14ltgsU8UlaQ",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ENCYCLOPEDIA BRITANNICA",
-   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-   "iso": "2026-08-17T03:00:24.000Z",
-   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
+   "cat": "MSHALE",
+   "title": "Argentina Fans Take Over Atlanta Before England Showdown | FIFA World Cup 2026 Semi-Final | AD15 New York Knicks (gNX1ACLcXR)",
+   "iso": "2026-08-17T03:11:25.000Z",
+   "link": "https://mshale.com/49cb9cc9/0976a15cXaXUXInGBW0",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
