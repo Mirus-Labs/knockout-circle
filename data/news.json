@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T13:07:32.339Z",
+ "updated": "2026-08-17T13:08:55.155Z",
  "news": [
   {
    "cat": "TVC NEWS",
@@ -42,30 +42,29 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "PROTHOM ALO ENGLISH",
-   "title": "Cristiano Ronaldo: 'This is probably my last year'",
-   "iso": "2026-08-17T09:44:38.000Z",
-   "link": "https://en.prothomalo.com/sports/football/c93qd4nwsw",
-   "lede": "Cristiano Ronaldo is inching closer to retirement. \"This is probably my last year of football, and I want to leave a spectacular legacy,\" Ronaldo, 41, told Vogue in an interview published on Sunday. Ronaldo, whose Al Nassr contract runs until June 2027, previously has stopped short of giving a timeline of when he'd be ready to call it a career. Ronaldo announced his retirement from World Cup play but did not close the door on making future appearances for the national team. .",
-   "image": "https://media.prothomalo.com/prothomalo-english%2F2026-08-17%2Fp4jzm140%2F293787-01-02.jpg?rect=0%2C137%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "NYTIMES.COM",
    "title": "Preseason college football rankings are harmless fun — we sure don’t need less of that",
    "iso": "2026-08-17T13:00:34.000Z",
    "link": "https://www.nytimes.com/athletic/7507229/2026/08/17/preseason-college-football-rankings/",
    "lede": "There's nothing to indicate the numbers in front of teams in August infiltrate the selection committee decisions of early November.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/11204848/GettyImages-2254214958-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MSHALE",
    "title": "FIFA World Cup 2026 Quarter Final Schedule | Morocco Vs France Aaron Wan-bissaka (YBI2PnNLAO)",
    "iso": "2026-08-17T11:25:51.000Z",
    "link": "https://mshale.com/c1650b61/c68e1ad3PwtaN1wgSDwHF1U",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "MSHALE",
+   "title": "The World Cup In 2030 Hamad Medjedovic (9BVqX1jAsu)",
+   "iso": "2026-08-17T11:19:37.000Z",
+   "link": "https://mshale.com/42beef11/4a3a67c5hpuDsFSd8YA",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
