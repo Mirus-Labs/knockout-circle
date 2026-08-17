@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T23:38:32.162Z",
+ "updated": "2026-08-17T23:40:40.448Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "TALKSPORT",
+   "cat": "TALKSPORT.COM",
    "title": "Simon Jordan tips Arsene Wenger for new job amid Gianni Infantino FIFA furore",
    "iso": "2026-08-17T21:12:09.000Z",
    "link": "https://talksport.com/football/world-cup/4518692/simon-jordan-arsene-wenger-new-fifa-president-gianni-infantino/",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Submit your questions for The Athletic’s ACC football mailbag",
+   "iso": "2026-08-17T20:26:58.000Z",
+   "link": "https://www.nytimes.com/athletic/7519878/2026/08/17/submit-your-questions-for-the-athletics-acc-football-mailbag-16/",
+   "lede": "The season is just a few weeks away. It’s time to talk some football. Submit your ACC questions for Manny Navarro below. We will post his answers later this week.",
+   "image": "https://theathletic.com/app/themes/athletic/assets/img/article-discussions-feed.png",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "BBC",
    "title": "Fifa: Kevin Lamour sacked after criticising president Gianni Infantino",
    "iso": "2026-08-17T19:52:19.000Z",
    "link": "https://www.bbc.com/sport/football/articles/cn7n4d6vy03o",
    "lede": "Fifa's chief operating officer Kevin Lamour has been sacked by the governing body, less than three weeks after he strongly criticised its president Gianni Infantino's aborted plan to sell stakes in competitions to private investors, BBC Sport has been told. In a statement, a Fifa spokesperson would only confirm that \"the working relationship between Fifa and Kevin Lamour as Chief Operating Officer has ended on 17 August 2026. \"Fifa thanks Kevin for his two years of service and wishes him the best of luck for the future.\" Fifa's staff were informed of the news in an email by its secretary general Mattias Grafstrom on Monday evening, who told them the organisation and Lamour had \"agreed to part ways\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE STAR",
@@ -48,18 +58,18 @@
    "link": "https://www.thestar.com.my/sport/football/2026/08/18/soccer-garcia-blames-belgiums-doctors-for-world-cup-struggles",
    "lede": "Aug 17 (Reuters) - Belgium's World Cup coach Rudi ⁠Garcia says their efforts at the tournament in Canada, Mexico, and the United States were hampered by their medical ⁠team. Garcia did not have his contract renewed after the World Cup and, in his first interview since, ‌blamed the team's medical staff for setbacks that he claimed led to an unconvincing tournament, even if Belgium got to the quarter-finals. \"We put our World Cup at risk due to certain injuries and illnesses that were not handled correctly,\" he told the Brussels newspaper Le Soir on Monday. Belgium started the tournament ​in unimpressive style with draws against Egypt and Iraq before a 5-1 win ⁠over New Zealand in Vancouver helped them top ⁠their group on goal difference.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064679.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "THE42.IE",
+   "cat": "THE 42",
    "title": "Infantino’s World Cup implosion suggests lessons from Super League fiasco remain unlearned",
    "iso": "2026-08-17T19:16:00.000Z",
    "link": "https://www.the42.ie/infantino-world-cup-pr-crisis-european-super-league-7133760-Aug2026/",
    "lede": "INTERNATIONAL SPORTS ADMINISTRATORS tend to be a wily breed. If a footballer’s great talent lies in their feet, for the suits in HQ, it is in their political nous. As is well documented by now, Fifa president Gianni Infantino is up for re-election in March 2027, a contest that until three weeks ago appeared a foregone conclusion. This summer’s 2026 World Cup was to be his victory lap.",
    "image": "https://img2.thejournal.ie/article/7133760/river/?height=400&version=7133761",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
@@ -67,16 +77,6 @@
    "iso": "2026-08-17T21:34:21.000Z",
    "link": "https://mshale.com/ae979b5e/b02b22d86yMUIZ0j3aI",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Kevin Lamour, key FIFA official who criticised Infantino’s World Cup plans, leaves role",
-   "iso": "2026-08-17T21:30:11.000Z",
-   "link": "https://www.nytimes.com/athletic/7519542/2026/08/17/kevin-lamour-fifa-exit/",
-   "lede": "the FIFA executive released a statement to the Associated Press on July 31 criticising Gianni Infantino's FFE plans.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17143328/GettyImages-2287631988-scaled-e1786991635467.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
