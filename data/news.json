@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T20:45:07.776Z",
+ "updated": "2026-08-17T20:46:30.654Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "DAILY STAR",
+   "title": "FIFA's COO 'sacked' after he criticised Gianni Infantino's World Cup plan",
+   "iso": "2026-08-17T19:38:00.000Z",
+   "link": "https://www.dailystar.co.uk/sport/football/fifas-coo-sacked-after-criticised-37562329",
+   "lede": "FIFA has sacked one of its most senior figures after he criticised Gianni Infantino's failed World Cup sell-off bid, it is claimed. Kevin Lamour was let go of his position as chief operating officer at football's world governing body on Monday night. It comes after he released a scathing statement last month criticising FIFA president Infantino , who lost global support over his aborted plan to sell of a stake in the World Cup to private investors. FIFA did not comment on the terms of the senior executive's departure.",
+   "image": "https://i2-prod.dailystar.co.uk/article37562350.ece/ALTERNATES/s1200d/0_Gianni-Infantino-file-photo.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE 42",
    "title": "Infantino’s World Cup implosion suggests lessons from Super League fiasco remain unlearned",
    "iso": "2026-08-17T19:16:00.000Z",
    "link": "https://www.the42.ie/infantino-world-cup-pr-crisis-european-super-league-7133760-Aug2026/",
    "lede": "INTERNATIONAL SPORTS ADMINISTRATORS tend to be a wily breed. If a footballer’s great talent lies in their feet, for the suits in HQ, it is in their political nous. As is well documented by now, Fifa president Gianni Infantino is up for re-election in March 2027, a contest that until three weeks ago appeared a foregone conclusion. This summer’s 2026 World Cup was to be his victory lap.",
    "image": "https://img2.thejournal.ie/article/7133760/river/?height=400&version=7133761",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LIVESCORE",
@@ -38,8 +48,8 @@
    "link": "https://www.livescore.com/en/news/football/world-cup/the-world-cup-created-too-much-revisionism-around-djed-spence-at-tottenham-hotspur-hq/",
    "lede": "Tottenham Hotspur sold left back Djed Spence to Inter Milan for about 30 million pounds, and while many Spurs supporters were surprised by how little Spurs got out of one of England's best players at the 2026 World Cup, many others pointed to the fact that 26 year old fullbacks who are backups at a club fending off relegation have never gone for more than that in the history of world football. But Spence, in some way, does feel like a special exception, and Tottenham fans will always love his attitude and effort. Even though it appears he was the one who wanted to go to a club currently playing Champions League football and step outside the shadow of Pedor Porro, he will be missed by the Tottenham faithful. Because of his great World Cup in the clutch as a defender in the Thomas Tuchel style of sitting back, there has been quite a bit of revisionism about Spence at the club.",
    "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "OPEN MAGAZINE",
@@ -48,18 +58,18 @@
    "link": "https://openthemagazine.com/sports/india-u15-football-camp-how-aiff-scouted-12000-players-for-fifa-u-15-world-cup-2026",
    "lede": "Twelve thousand boys entered the frame. Sixty scouts criss-crossed India for two seasons. They watched school tournaments, youth leagues, national championships, district competitions and open trials. They also tracked Indian footballers growing up in overseas academies.",
    "image": "https://media.openthemagazine.com/openthemagazine/2026-08-17/d4y01ljt/COACH.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "DEVDISCOURSE",
+   "cat": "DEVDISCOURSE.COM",
    "title": "India's U15 Football Team Begins Journey to FIFA World Cup 2026",
    "iso": "2026-08-17T17:07:18.000Z",
    "link": "https://www.devdiscourse.com/article/sports-games/3964695-indias-u15-football-team-begins-journey-to-fifa-world-cup-2026",
    "lede": "The India U15 men's national football squad has commenced its training camp for the inaugural FIFA U15 World Cup 2026. Led by head coach Bibiano Fernandes, the camp is underway at the Centre for Sports Excellence in Bengaluru, focusing on readying the team for the esteemed international event. Bibiano Fernandes, who has a rich history with India's youth teams, steps into this role after his appointment was approved by the AIFF Executive Committee. Fernandes is recognized for driving India to the AFC U17 Asian Cup four times and securing multiple SAFF titles, bringing valuable experience to the squad.",
    "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_08_2026_22_37_12_7156839.jpg&width=920&format=jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -68,15 +78,6 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-more/articleshow/133300335.cms",
    "lede": "The 2026/27 Premier League season will bring several changes to how matches are restarted, substitutions are handled, injured players return to the field and certain red-card decisions are reviewed by VAR. Alongside those mandatory changes to the Laws of the Game, the Premier League has also published its ‘Football Principles’ and ‘Refereeing Points of Emphasis’ for the new campaign, setting out how referees and VAR officials are expected to approach a range of situations. Football News: The Premier League is set to implement significant rule changes for the 2026/27 season, including a five-second countdown for throw-ins, a one-minute injury protocol, and enhanced VAR interventions. These changes aim to reduce time-wasting and improve match efficiency.",
    "image": "https://static.toiimg.com/thumb/msid-133301839,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NEW AGE BD",
-   "title": "I hope one day Bangladesh can qualify for World Cup: Caniggia",
-   "iso": "2026-08-17T19:50:23.000Z",
-   "link": "https://www.newagebd.net/post/football/310243/i-hope-one-day-bangladesh-can-qualify-for-world-cup-caniggia",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
