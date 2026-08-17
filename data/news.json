@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T10:42:01.468Z",
+ "updated": "2026-08-17T10:52:02.366Z",
  "news": [
   {
    "cat": "SPORTSTAR",
@@ -22,24 +22,14 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "ASHARQ AL-AWSAT ENGLISH",
-   "title": "‘This Is Probably My Last Year in Football,’ Says Cristiano Ronaldo",
-   "iso": "2026-08-17T09:35:25.000Z",
-   "link": "https://english.aawsat.com/sports/5307930-%E2%80%98-probably-my-last-year-football%E2%80%99-says-cristiano-ronaldo",
-   "lede": "Cristiano Ronaldo says this Saudi Pro League season is likely to be the last of his professional career. The 41-year-old superstar’s contract with Riyadh club Al-Nassr, signed in December 2022, expires next June, and he has told Vogue magazine that another is unlikely. “This is probably my last year of football, and I want to leave a spectacular legacy,” Ronaldo said. The Portugal forward, who has scored 976 career goals, married long-time partner, Georgina Rodriguez, earlier this month.",
-   "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-08/1724036.jpeg.webp?VersionId=JvT41PbAWMV43zWy.eH2qrN3Ca5MbKxl",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "THE STRAITS TIMES",
    "title": "Who will take helm of South Korean men’s national football team?",
    "iso": "2026-08-17T09:11:00.000Z",
    "link": "https://www.straitstimes.com/sport/football/who-will-take-helm-of-south-korean-mens-national-football-team",
    "lede": "South Korean players applaud their fans after the World Cup match against South Africa in June. SEOUL – Attention is turning to who will take the helm of the South Korean men’s national football team, as the country’s governing body prepares to name an interim coach ahead of a permanent appointment. The Korea Football Association has narrowed its search for an interim coach to three candidates – Gus Poyet, Jesus Casas and Domenec Torrent – according to local outlets on Aug 17. All three reportedly applied through the open recruitment process for the national team job, which closed on Aug 9.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/141fa54527cb66c99e230b8a325f88ff55f792d2f36e379bc4bfc702375551b5",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SKY SPORTS",
@@ -48,8 +38,8 @@
    "link": "https://www.skysports.com/football/news/11095/13572836/rodri-transfer-news-man-city-accept-bid-from-barcelona-for-world-cup-winning-midfielder-and-former-ballon-dor-holder",
    "lede": "Rodri is set to undergo his Barcelona medical ahead of completing a £65.4m move from Manchester City. The Spain World Cup winner and former Ballon d'Or holder, who helped City to four Premier League titles and a Champions League triumph, is expected to sign a four-year contract. The 30-year-old had one year left on his contract and while Man City wanted him to stay and sign an extension, Barcelona's third offer proved to be too good to turn down. He has agreed a four-year deal with Barcelona.",
    "image": "https://e0.365dm.com/26/08/1600x900/skysports-rodri-man-city_7323576.png?20260816204201",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "KUWAITTIMES.COM",
@@ -58,8 +48,8 @@
    "link": "https://kuwaittimes.com/article/48263/sports/barcelona-strike-deal-with-city-to-sign-rodri/",
    "lede": "BARCELONA: Barcelona have reached an agreement with Manchester City to sign Spain captain Rodri, a source at the Catalan club told AFP Sunday. The 30-year-old midfielder, a World Cup winner with Spain last month, will move for a fee of around €75 million ($87 million), according to reports. “In the coming days there will be a statement and (the transfer) will become official,” the Barcelona source said. The Spanish champions had two bids rejected for the player before reaching a deal with City on Sunday.",
    "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/17/431148.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "INDIA.COM",
@@ -68,6 +58,15 @@
    "link": "https://www.india.com/sports/bad-news-for-cristiano-ronaldo-fans-after-fifa-world-cup-2026-disappointment-al-nassr-star-has-decided-to-announce-retirement-8503439/amp/",
    "lede": "Portugal striker Cristiano Ronaldo has claimed that he may retire after 2026 season. Portugal and Al Nassr striker Cristiano Ronaldo has given his clearest indication yet that his glittering football career could come to an end after the current season, with the Portugal captain admitting that this is 'probably my last year' in the sport. The 41-year-old man, whose agreement with Al Nassr, the club in the Saudi Pro League, is set to last until June 2027, has in the past admitted that his retirement is near but has not specified a definite timeline for his playing career. In an interview with 'Vogue' magazine which was published on Sunday, Ronaldo stated that he might be reaching the last stage of his career.",
    "image": "https://s3.india.com/wp-content/uploads/2026/08/Ronaldo_Retirement.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "WWLP",
+   "title": "‘This is probably my last year in football,’ says Cristiano Ronaldo",
+   "iso": "2026-08-17T09:59:25.000Z",
+   "link": "https://www.wwlp.com/sports/ap-this-is-probably-my-last-year-in-football-says-cristiano-ronaldo/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
