@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-17T21:12:06.546Z",
+ "updated": "2026-08-17T21:43:25.225Z",
  "news": [
+  {
+   "cat": "TALKSPORT",
+   "title": "Simon Jordan tips Arsene Wenger for new job amid Gianni Infantino FIFA furore",
+   "iso": "2026-08-17T21:12:09.000Z",
+   "link": "https://talksport.com/football/world-cup/4518692/simon-jordan-arsene-wenger-new-fifa-president-gianni-infantino/",
+   "lede": "Infantino has lost the support of UEFA and other governing bodies after a plan to sell off parts of the World Cup backfired. Following the conclusion of the 2024 World Cup, the FIFA President announced FIFA Forward Enterprise (FFE). This was going to involve moving all of the World Cup's commercial and operational delivery services into one body. The commercial value would be shared between all 211 member countries of FIFA.",
+   "image": "https://talksport.com/wp-content/uploads/2026/08/2026-fifa-world-cup-semi-1099360479.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan",
@@ -8,8 +18,28 @@
    "link": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour",
    "lede": "Kevin Lamour said Fifa administration was ‘deceived’. Chief operating officer knew he could lose his job. The Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni Infantino’s ill-fated plan to sell parts of the World Cup to private investors. In a significant development at the pinnacle of world football’s deeply troubled governing body, Lamour has departed less than two years after joining from a previous role at Uefa.",
    "image": "https://i.guim.co.uk/img/media/8d2dd72ecb8d30c1955861a7b096f4437b6cd360/314_0_3995_3196/master/3995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d661beafab45832506eeef41435f4dc7",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "Fifa: Kevin Lamour sacked after criticising president Gianni Infantino",
+   "iso": "2026-08-17T19:52:19.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cn7n4d6vy03o",
+   "lede": "Fifa's chief operating officer Kevin Lamour has been sacked by the governing body, less than three weeks after he strongly criticised its president Gianni Infantino's aborted plan to sell stakes in competitions to private investors, BBC Sport has been told. In a statement, a Fifa spokesperson would only confirm that \"the working relationship between Fifa and Kevin Lamour as Chief Operating Officer has ended on 17 August 2026. \"Fifa thanks Kevin for his two years of service and wishes him the best of luck for the future.\" Fifa's staff were informed of the news in an email by its secretary general Mattias Grafstrom on Monday evening, who told them the organisation and Lamour had \"agreed to part ways\".",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "LA GAZZETTA DELLO SPORT",
+   "title": "FIFA Sacks COO Over Infantino World Cup Plan Criticism",
+   "iso": "2026-08-17T19:46:47.000Z",
+   "link": "https://www.gazzetta.it/en/football/world-cup/17-08-2026/fifa-sacks-coo-after-infantino-criticism_amp.shtml",
+   "lede": "FIFA Chief Operating Officer Kevin Lamour has paid a heavy price for his criticism of Gianni Infantino. The executive, who in recent weeks accused the president of ‘misleading’ the organisation's staff over a plan to sell private investors a share of future World Cup revenues, has now left his role. Sky News reported the story, stating that FIFA informed staff of the decision on the evening of Monday 17th August. FIFA confirmed the termination of the employment relationship but did not specify the terms of the separation.",
+   "image": "https://www.gazzetta.it/images/default.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE STAR",
@@ -18,8 +48,8 @@
    "link": "https://www.thestar.com.my/sport/football/2026/08/18/soccer-garcia-blames-belgiums-doctors-for-world-cup-struggles",
    "lede": "Aug 17 (Reuters) - Belgium's World Cup coach Rudi ⁠Garcia says their efforts at the tournament in Canada, Mexico, and the United States were hampered by their medical ⁠team. Garcia did not have his contract renewed after the World Cup and, in his first interview since, ‌blamed the team's medical staff for setbacks that he claimed led to an unconvincing tournament, even if Belgium got to the quarter-finals. \"We put our World Cup at risk due to certain injuries and illnesses that were not handled correctly,\" he told the Brussels newspaper Le Soir on Monday. Belgium started the tournament ​in unimpressive style with draws against Egypt and Iraq before a 5-1 win ⁠over New Zealand in Vancouver helped them top ⁠their group on goal difference.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/08/18/4064679.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DAILY STAR",
@@ -28,8 +58,8 @@
    "link": "https://www.dailystar.co.uk/sport/football/fifas-coo-sacked-after-criticised-37562329",
    "lede": "FIFA has sacked one of its most senior figures after he criticised Gianni Infantino's failed World Cup sell-off bid, it is claimed. Kevin Lamour was let go of his position as chief operating officer at football's world governing body on Monday night. It comes after he released a scathing statement last month criticising FIFA president Infantino , who lost global support over his aborted plan to sell of a stake in the World Cup to private investors. FIFA did not comment on the terms of the senior executive's departure.",
    "image": "https://i2-prod.dailystar.co.uk/article37562350.ece/ALTERNATES/s1200d/0_Gianni-Infantino-file-photo.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE 42",
@@ -38,8 +68,8 @@
    "link": "https://www.the42.ie/infantino-world-cup-pr-crisis-european-super-league-7133760-Aug2026/",
    "lede": "INTERNATIONAL SPORTS ADMINISTRATORS tend to be a wily breed. If a footballer’s great talent lies in their feet, for the suits in HQ, it is in their political nous. As is well documented by now, Fifa president Gianni Infantino is up for re-election in March 2027, a contest that until three weeks ago appeared a foregone conclusion. This summer’s 2026 World Cup was to be his victory lap.",
    "image": "https://img2.thejournal.ie/article/7133760/river/?height=400&version=7133761",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LIVESCORE",
@@ -48,35 +78,6 @@
    "link": "https://www.livescore.com/en/news/football/world-cup/the-world-cup-created-too-much-revisionism-around-djed-spence-at-tottenham-hotspur-hq/",
    "lede": "Tottenham Hotspur sold left back Djed Spence to Inter Milan for about 30 million pounds, and while many Spurs supporters were surprised by how little Spurs got out of one of England's best players at the 2026 World Cup, many others pointed to the fact that 26 year old fullbacks who are backups at a club fending off relegation have never gone for more than that in the history of world football. But Spence, in some way, does feel like a special exception, and Tottenham fans will always love his attitude and effort. Even though it appears he was the one who wanted to go to a club currently playing Champions League football and step outside the shadow of Pedor Porro, he will be missed by the Tottenham faithful. Because of his great World Cup in the clutch as a defender in the Thomas Tuchel style of sitting back, there has been quite a bit of revisionism about Spence at the club.",
    "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "OPEN MAGAZINE",
-   "title": "India U15 Football Camp: How AIFF Scouted 12,000 Players for FIFA U-15 World Cup 2026",
-   "iso": "2026-08-17T17:28:55.000Z",
-   "link": "https://openthemagazine.com/sports/india-u15-football-camp-how-aiff-scouted-12000-players-for-fifa-u-15-world-cup-2026",
-   "lede": "Twelve thousand boys entered the frame. Sixty scouts criss-crossed India for two seasons. They watched school tournaments, youth leagues, national championships, district competitions and open trials. They also tracked Indian footballers growing up in overseas academies.",
-   "image": "https://media.openthemagazine.com/openthemagazine/2026-08-17/d4y01ljt/COACH.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DEVDISCOURSE",
-   "title": "India's U15 Football Team Begins Journey to FIFA World Cup 2026",
-   "iso": "2026-08-17T17:07:18.000Z",
-   "link": "https://www.devdiscourse.com/article/sports-games/3964695-indias-u15-football-team-begins-journey-to-fifa-world-cup-2026",
-   "lede": "The India U15 men's national football squad has commenced its training camp for the inaugural FIFA U15 World Cup 2026. Led by head coach Bibiano Fernandes, the camp is underway at the Centre for Sports Excellence in Bengaluru, focusing on readying the team for the esteemed international event. Bibiano Fernandes, who has a rich history with India's youth teams, steps into this role after his appointment was approved by the AIFF Executive Committee. Fernandes is recognized for driving India to the AFC U17 Asian Cup four times and securing multiple SAFF titles, bringing valuable experience to the squad.",
-   "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_08_2026_22_37_12_7156839.jpg&width=920&format=jpeg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NEWAGEBD.NET",
-   "title": "I hope one day Bangladesh can qualify for World Cup: Caniggia",
-   "iso": "2026-08-17T19:50:23.000Z",
-   "link": "https://www.newagebd.net/post/football/310243/i-hope-one-day-bangladesh-can-qualify-for-world-cup-caniggia",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
