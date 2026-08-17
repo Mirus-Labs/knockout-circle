@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T20:01:32.170Z",
+ "updated": "2026-08-17T20:09:37.636Z",
  "news": [
   {
    "cat": "THE STAR",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "OPENTHEMAGAZINE.COM",
+   "cat": "OPEN MAGAZINE",
    "title": "India U15 Football Camp: How AIFF Scouted 12,000 Players for FIFA U-15 World Cup 2026",
    "iso": "2026-08-17T17:28:55.000Z",
    "link": "https://openthemagazine.com/sports/india-u15-football-camp-how-aiff-scouted-12000-players-for-fifa-u-15-world-cup-2026",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NEW AGE BD",
-   "title": "I hope one day Bangladesh can qualify for World Cup: Caniggia",
-   "iso": "2026-08-17T19:50:23.000Z",
-   "link": "https://www.newagebd.net/post/football/310243/i-hope-one-day-bangladesh-can-qualify-for-world-cup-caniggia",
-   "lede": "",
+   "cat": "SPORTSTAR",
+   "title": "Scottish FA withdraws support for FIFA boss Infantino",
+   "iso": "2026-08-17T15:46:03.000Z",
+   "link": "https://sportstar.thehindu.com/football/international-football/scotland-withdraws-support-fifa-president-infantino-elections-2027/article71357450.ece",
+   "lede": "AP AP https://ss-i.thgim.com/public/incoming/5ruhpj/article71357437.ece/alternates/FREE_1200/Canada_Carney_Infantino_79162.jpg TONY GUTIERREZ FILE - FIFA President Gianni Infantino makes comments during the opening ceremony of the International Broadcast Center, June 1, 2026, in Dallas. (AP Photo/Tony Gutierrez, File) A host of European federations have already scrapped their backing of Infantino, including England, Ireland and Wales. LONDON The Scottish Football Association has withdrawn its support for embattled FIFA president Gianni Infantino after his failed attempt to sell off stakes in the World Cup. A host of European federations have already scrapped their backing of Infantino, including England, Ireland and Wales.",
+   "image": "https://ss-i.thgim.com/public/incoming/5ruhpj/article71357437.ece/alternates/LANDSCAPE_1200/Canada_Carney_Infantino_79162.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
