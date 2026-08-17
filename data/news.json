@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-17T07:33:52.787Z",
+ "updated": "2026-08-17T08:25:05.157Z",
  "news": [
+  {
+   "cat": "KUWAIT TIMES",
+   "title": "Barcelona strike deal with City to sign Rodri",
+   "iso": "2026-08-17T07:35:17.000Z",
+   "link": "https://kuwaittimes.com/article/48263/sports/barcelona-strike-deal-with-city-to-sign-rodri/",
+   "lede": "BARCELONA: Barcelona have reached an agreement with Manchester City to sign Spain captain Rodri, a source at the Catalan club told AFP Sunday. The 30-year-old midfielder, a World Cup winner with Spain last month, will move for a fee of around €75 million ($87 million), according to reports. “In the coming days there will be a statement and (the transfer) will become official,” the Barcelona source said. The Spanish champions had two bids rejected for the player before reaching a deal with City on Sunday.",
+   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/17/431148.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FOX SPORTS",
    "title": "$125m blockbuster as Spanish giants land World Cup hero; shock Arsenal raid looms – Transfers",
@@ -8,18 +18,26 @@
    "link": "https://www.foxsports.com.au/football/football-2026-transfer-news-barcelona-sign-rodri-from-manchester-city-viktor-gyokeres-transfer-latest-arsenal-ferran-torres-psg-joao-cancelo-jamie-vardy/news-story/d5950d4baffac8d034bf28914f9d95d1",
    "lede": "The transfer window is heating up, with one of Europe’s biggest clubs making a major statement while another stunning Premier League raid could be on the cards. Meanwhile, a World Cup hero is on the move and a Premier League legend could be set for a shock new adventure. Catch up on all the latest moves and whispers in Football Transfers. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
    "image": "https://content.api.news/v3/images/bin/166357f5199e2a7f44619ce27b79fb35",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "YAHOO CREATORS",
-   "title": "Missing World Cup soccer? Ted Lasso Season 4 is giving football fans their fix",
-   "iso": "2026-08-17T03:23:41.000Z",
-   "link": "https://creators.yahoo.com/lifestyle/story/missing-world-cup-soccer-ted-lasso-season-4-is-giving-football-fans-their-fix-213039291.html",
-   "lede": "The World Cup ended a few weeks ago. For plenty of fans, ordinary life still hasn't quite recovered. Across TikTok, Instagram and YouTube, creators are posting nostalgic edits, empty stadiums and montages of the month that seemed to disappear almost as quickly as it arrived. In the comments, people are talking about missing the daily rhythm of matches, the crowds, the travel and even the strange feeling of having half the world watching the same thing at the same time.",
-   "image": "https://s.yimg.com/lo/mysterio/api/862232c78bc582af05c94fac7322bb8cf96546201e5df38d51011f204b90d3ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fted-lasso-world-cup-halftime-show-season-4_2068.png",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MSHALE.COM",
+   "title": "FIFA World Cup 2026 Individual Awards: Golden Ball, Golden Boot & Golden Glove Winners Revealed Flavio Cobolli (L6FQX7p4Hj)",
+   "iso": "2026-08-17T06:46:10.000Z",
+   "link": "https://mshale.com/04a575c5/61619aadVEA9VRg6aC0kJzw",
+   "lede": "",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "MSHALE.COM",
+   "title": "Tom Brady: From NFL GOAT To Owning A Football Club & World Cup In USA | Stick To Football 135 Tarkov (YAVW3qFLm4)",
+   "iso": "2026-08-17T06:33:04.000Z",
+   "link": "https://mshale.com/04540478/313f51a7BgV-SeHy_fM",
+   "lede": "",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "AL JAZEERA",
@@ -28,17 +46,26 @@
    "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title",
    "lede": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26228794574700-1786945087_36519b-1786945851.jpg?resize=1200%2C630&quality=80",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "MSHALE",
+   "cat": "MSHALE.COM",
+   "title": "🔥 Argentina’s 2026 World Cup Schedule Revealed! Can Messi Go Back-to-Back? 🇦🇷🏆 Sunderland Local Elections 2026 (2z47tLMuhu)",
+   "iso": "2026-08-17T05:52:21.000Z",
+   "link": "https://mshale.com/88c8630d/a3fc8152FBUiMSUBYSQJHw4",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "MSHALE.COM",
    "title": "The World Cup Knockouts Just Went Crazy | Recap Day 19 Hill Lane Bridgewater Nj (0Ib7us3wMW)",
    "iso": "2026-08-17T05:26:01.000Z",
    "link": "https://mshale.com/33029c1a/e52dd169y0Ac5CCyLi4",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW INDIAN EXPRESS",
@@ -47,33 +74,6 @@
    "link": "https://www.newindianexpress.com/sport/football/2026/Aug/17/barcelona-reach-deal-with-manchester-city-to-sign-rodri",
    "lede": "BARCELONA: Barcelona have reached a deal with Manchester City to sign Spanish World Cup winner Rodri, a source from the Catalan club told AFP Sunday.The 30-year. \"In the coming days there will be a statement and (the transfer) will become official,\" said the Barcelona source.",
    "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-17%2Fc55m4lms%2FAP26200816147245.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "INSIDE WORLD FOOTBALL",
-   "title": "Cameroon beat Malawi to win WAFCON 2026",
-   "iso": "2026-08-17T05:13:53.000Z",
-   "link": "https://www.insideworldfootball.com/2026/08/17/cameroon-beat-malawi-to-win-wafcon-2026/",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "How USA Fans Changed At The World Cup — 1994 Vs 2026 #football #usmnt #soccer #fifa #worldcup Us Strategic Petroleum Reserve Loan (3z1UwSaHPh)",
-   "iso": "2026-08-17T05:04:21.000Z",
-   "link": "https://mshale.com/7149015b/46c6a339HuudJRTDKPc",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "Argentina 🇦🇷 Vs Egypt 🇪🇬 | FIFA World Cup 2026 Round Of 16 LIVE Watchalong 📱 Kareem Rahma (3Z8zX4EL2H)",
-   "iso": "2026-08-17T04:55:13.000Z",
-   "link": "https://mshale.com/1bcb0734/226b0beaIQFdJAMieCUGKCg",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
