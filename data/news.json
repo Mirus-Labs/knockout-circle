@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-17T01:37:32.291Z",
+ "updated": "2026-08-17T01:57:16.205Z",
  "news": [
+  {
+   "cat": "FOX SPORTS",
+   "title": "$125m blockbuster as Spanish giants land World Cup hero; shock Arsenal raid looms – Transfers",
+   "iso": "2026-08-17T01:39:41.000Z",
+   "link": "https://www.foxsports.com.au/football/football-2026-transfer-news-barcelona-sign-rodri-from-manchester-city-viktor-gyokeres-transfer-latest-arsenal-ferran-torres-psg-joao-cancelo-jamie-vardy/news-story/d5950d4baffac8d034bf28914f9d95d1",
+   "lede": "The transfer window is heating up, with one of Europe’s biggest clubs making a major statement while another stunning Premier League raid could be on the cards. Meanwhile, a World Cup hero is on the move and a Premier League legend could be set for a shock new adventure. Catch up on all the latest moves and whispers in Football Transfers. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
+   "image": "https://content.api.news/v3/images/bin/166357f5199e2a7f44619ce27b79fb35",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "PUNCH NEWSPAPERS",
+   "title": "Like Eagles, like Falcons: The dwindling fortunes of Africa’s 10-time champions",
+   "iso": "2026-08-17T01:37:43.000Z",
+   "link": "https://punchng.com/like-eagles-like-falcons-the-dwindling-fortunes-of-africas-10-time-champions/?amp",
+   "lede": "Nigeria’s storied football institutions are stuttering in tandem, with the Super Falcons following the Super Eagles down the painful road of a World Cup play-off, the parallel has become impossible to ignore, PETER AKINBO writes. There is a peculiar heartbreak that visited Nigerian football twice within the space of a year when the Super Eagles lost automatic qualification and again in the play-offs. The pain has arrived again, from an unlikely source. Just as the Super Eagles discovered in November 2025 that automatic qualification was no longer a birthright, the Super Falcons were handed the same delivery barely nine months later, and the coincidence has become too glaring for anyone in Nigerian sport to dismiss as bad luck alone.",
+   "image": "https://punchng.com/wp-content/uploads/2026/08/falcons_1786924173.webp",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "CHANNEL 4",
    "title": "Watch Live WAFCON Final: Cameroon v Malawi",
@@ -8,8 +28,8 @@
    "link": "https://www.channel4.com/programmes/live-wafcon-final-cameroon-v-malawi",
    "lede": "Live coverage of the 2026 WAFCON final between Cameroon and Malawi in Rabat. Live coverage of the 2026 WAFCON final between Cameroon and Malawi in the Moroccan capital Rabat. Neither of these teams has lifted the title before, so we're guaranteed a new champion...",
    "image": "https://ic.c4assets.com/vps/live-wafcon-final/30035414-63B6-40A9-ACD4D7CC98DA308A.jpg?imformat=chrome&resize=1200px:*",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "NINE.COM.AU",
@@ -18,18 +38,26 @@
    "link": "https://www.nine.com.au/sport/football/english-premier-league-news-rodri-leaving-manchester-city-barcelona-signing-transfer-fee-20260817-p60ovq.html",
    "lede": "Manchester City have accepted a £65.4 million ($125 million) bid from Barcelona for their World Cup-winning Spain midfielder Rodri, British media reported. The 2024 Ballon d’Or winner has agreed a four-year deal with the Spanish champions, Sky Sports said, and will head to the Nou Camp to complete the transfer next week. Spain’s Rodri is presented the FIFA World Cup. It comes a week after City knocked back a $75m offer from Barcelona.",
    "image": "https://static.ffx.io/images/$zoom_0.1817%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/bfc1c90772b6c64ebdf2acf3c2ea31d63a191548",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "New Zealand Football withdraws support for Infantino, urges review",
-   "iso": "2026-08-16T20:56:48.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/new-zealand-football-withdraws-support-infantino-urges-review-4247521",
-   "lede": "New Zealand Football said on Friday it had withdrawn support for FIFA boss Gianni Infantino and called for an independent review into his aborted plan to sell off part of the World Cup. Infantino came under renewed fire this week in an open letter signed by three confederations -- UEFA, North and Central America's CONCACAF and Asia's AFC -- accusing the world football boss of breaking trust \"through deception\". It is believed they want the Swiss official to resign before he has the chance to seek re-election in March next year. New Zealand Football became the latest FIFA member to withdraw support on Friday.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "cat": "MSHALE",
+   "title": "🔴FIFA World Cup 2026 LIVE: France Vs Iraq | Kylian Mbappé | Les Bleus | FRA Vs IRQ | Hussein | N18G Bruxelles (dRBlAXfMXu)",
+   "iso": "2026-08-17T00:39:43.000Z",
+   "link": "https://mshale.com/6194d3eb/bb57f500Piycywh_vhs",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "MSHALE",
+   "title": "🔴JORDAN Vs ALGERIA | EPIC FIFA World Cup 2026 Showdown | PES 21 Simulation Mario Dorgeles (ZdCG5IDda2)",
+   "iso": "2026-08-17T00:36:47.000Z",
+   "link": "https://mshale.com/f9265c92/98137a09qTgrYxbvp_I",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MSHALE",
@@ -37,42 +65,14 @@
    "iso": "2026-08-17T00:08:28.000Z",
    "link": "https://mshale.com/3d5756b8/4d076498PistBgkqGw4KHh4",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
    "title": "AUSTRALIA Vs TURKEY - FIFA World Cup 2026 Group Stage | Full Match All Goals | Simulation PES Buffalo Bills (i3ZPttLySn)",
    "iso": "2026-08-16T23:32:24.000Z",
    "link": "https://mshale.com/6b7987d4/458247cemWD16si5hgE",
-   "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "World Cup star Rodri to sign with FC Barcelona, per reports",
-   "iso": "2026-08-16T23:08:37.000Z",
-   "link": "https://sports.yahoo.com/articles/world-cup-star-rodri-sign-230837133.html",
-   "lede": "Multiple reports say that Spain's Rodri, who won the Golden Ball at the 2026 World Cup, will join FC Barcelona on transfer from Manchester City.",
-   "image": "https://s.yimg.com/lo/mysterio/api/65deeb99f8813191fe3453035ac621fbc2f7aab23e835544337fd81953e8c3a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fc9eb076a1d36a81f1d16215d9d8fd0b8.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "ARGENTINA Vs AUSTRIA | FIFA WORLD CUP 2026 | GROUP STAGE J | EA SPORTS FC 26 SIMULATION Coco Gauff (3SVvAacFSq)",
-   "iso": "2026-08-16T21:57:24.000Z",
-   "link": "https://mshale.com/94820e28/cd7a2fe9XB1YFT4wQQIVWg4",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "Portugal Vs Spain Highlights | FIFA World Cup 2026 | Spain 1-0 Portugal Paul Mccartney (rzooKDBlE9)",
-   "iso": "2026-08-16T21:46:46.000Z",
-   "link": "https://mshale.com/a930299c/fe6d6ba5ICUOBVoWYjACOiA",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
