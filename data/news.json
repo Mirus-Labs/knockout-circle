@@ -1,51 +1,61 @@
 {
- "updated": "2026-08-17T08:25:38.240Z",
+ "updated": "2026-08-17T09:10:31.980Z",
  "news": [
   {
-   "cat": "KUWAIT TIMES",
+   "cat": "SKY SPORTS",
+   "title": "Rodri transfer news: Man City accept bid from Barcelona for World Cup-winning midfielder and former Ballon d'Or holder",
+   "iso": "2026-08-17T08:37:30.000Z",
+   "link": "https://www.skysports.com/football/news/11095/13572836/rodri-transfer-news-man-city-accept-bid-from-barcelona-for-world-cup-winning-midfielder-and-former-ballon-dor-holder",
+   "lede": "Rodri is set to undergo his Barcelona medical ahead of completing a £65.4m move from Manchester City. The Spain World Cup winner and former Ballon d'Or holder, who helped City to four Premier League titles and a Champions League triumph, is expected to sign a four-year contract. The 30-year-old had one year left on his contract and while Man City wanted him to stay and sign an extension, Barcelona's third offer proved to be too good to turn down. He has agreed a four-year deal with Barcelona.",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-rodri-man-city_7323576.png?20260816204201",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "KUWAITTIMES.COM",
    "title": "Barcelona strike deal with City to sign Rodri",
    "iso": "2026-08-17T07:35:17.000Z",
    "link": "https://kuwaittimes.com/article/48263/sports/barcelona-strike-deal-with-city-to-sign-rodri/",
    "lede": "BARCELONA: Barcelona have reached an agreement with Manchester City to sign Spain captain Rodri, a source at the Catalan club told AFP Sunday. The 30-year-old midfielder, a World Cup winner with Spain last month, will move for a fee of around €75 million ($87 million), according to reports. “In the coming days there will be a statement and (the transfer) will become official,” the Barcelona source said. The Spanish champions had two bids rejected for the player before reaching a deal with City on Sunday.",
    "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/08/17/431148.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "🔴France Vs Morocco LIVE | FIFA World Cup 2026 Quarterfinal | Mbappé Vs Hakimi | LIVE Football Match El Clasico (GeI70SmdNw)",
-   "iso": "2026-08-17T07:34:38.000Z",
-   "link": "https://mshale.com/ca48043a/839118ffDkYsKlU1XBFYOjQ",
-   "lede": "",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "Argentina Vs Austria 2-0 | Lionel Messi Hat-Trick Goal Highlights | FIFA World Cup 2026 Zack Polanski Houseboat Tax (9LWXpMtcjZ)",
-   "iso": "2026-08-17T06:51:24.000Z",
-   "link": "https://mshale.com/fd0d7829/6c9321adPh9fFRYEYSswGjg",
+   "cat": "MSHALE.COM",
+   "title": "🔴France Vs Morocco LIVE | FIFA World Cup 2026 Quarterfinal | Mbappé Vs Hakimi | LIVE Football Match El Clasico (GeI70SmdNw)",
+   "iso": "2026-08-17T07:34:38.000Z",
+   "link": "https://mshale.com/ca48043a/839118ffDkYsKlU1XBFYOjQ",
    "lede": "",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "MSHALE",
-   "title": "FIFA World Cup 2026 Individual Awards: Golden Ball, Golden Boot & Golden Glove Winners Revealed Flavio Cobolli (L6FQX7p4Hj)",
-   "iso": "2026-08-17T06:46:10.000Z",
-   "link": "https://mshale.com/04a575c5/61619aadVEA9VRg6aC0kJzw",
+   "cat": "MSHALE.COM",
+   "title": "Argentina Vs Austria 2-0 | Lionel Messi Hat-Trick Goal Highlights | FIFA World Cup 2026 Zack Polanski Houseboat Tax (9LWXpMtcjZ)",
+   "iso": "2026-08-17T06:51:24.000Z",
+   "link": "https://mshale.com/fd0d7829/6c9321adPh9fFRYEYSswGjg",
    "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "MSHALE",
+   "cat": "MSHALE.COM",
+   "title": "FIFA World Cup 2026 Individual Awards: Golden Ball, Golden Boot & Golden Glove Winners Revealed Flavio Cobolli (L6FQX7p4Hj)",
+   "iso": "2026-08-17T06:46:10.000Z",
+   "link": "https://mshale.com/04a575c5/61619aadVEA9VRg6aC0kJzw",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "MSHALE.COM",
    "title": "Tom Brady: From NFL GOAT To Owning A Football Club & World Cup In USA | Stick To Football 135 Tarkov (YAVW3qFLm4)",
    "iso": "2026-08-17T06:33:04.000Z",
    "link": "https://mshale.com/04540478/313f51a7BgV-SeHy_fM",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "AL JAZEERA",
@@ -54,23 +64,14 @@
    "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title",
    "lede": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26228794574700-1786945087_36519b-1786945851.jpg?resize=1200%2C630&quality=80",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "🔥 Argentina’s 2026 World Cup Schedule Revealed! Can Messi Go Back-to-Back? 🇦🇷🏆 Sunderland Local Elections 2026 (2z47tLMuhu)",
-   "iso": "2026-08-17T05:52:21.000Z",
-   "link": "https://mshale.com/88c8630d/a3fc8152FBUiMSUBYSQJHw4",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "The World Cup Knockouts Just Went Crazy | Recap Day 19 Hill Lane Bridgewater Nj (0Ib7us3wMW)",
-   "iso": "2026-08-17T05:26:01.000Z",
-   "link": "https://mshale.com/33029c1a/e52dd169y0Ac5CCyLi4",
+   "cat": "MSHALE.COM",
+   "title": "🔥 Argentina’s 2026 World Cup Schedule Revealed! Can Messi Go Back-to-Back? 🇦🇷🏆 Sunderland Local Elections 2026 (2z47tLMuhu)",
+   "iso": "2026-08-17T05:52:21.000Z",
+   "link": "https://mshale.com/88c8630d/a3fc8152FBUiMSUBYSQJHw4",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
