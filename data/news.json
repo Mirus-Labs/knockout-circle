@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T16:47:30.589Z",
+ "updated": "2026-08-17T16:48:43.082Z",
  "news": [
   {
    "cat": "THE TIMES OF INDIA",
@@ -32,24 +32,33 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "THE HERALD INSIGHT",
+   "title": "The Korean national football team fails to secure a spot in the Round of 32 |",
+   "iso": "2026-08-17T14:36:41.000Z",
+   "link": "http://www.heraldinsight.co.kr/news/articleViewAmp.html?idxno=6655",
+   "lede": "The South Korean national football team concluded its journey as they failed to join round of 32 in the 2026 FIFA World Cup, which was co-hosted by Canada, Mexico, and the United States. Although South Korea awaited the results of other matches after completing their group stage games, they ultimately failed to secure a spot in the knockout stage. During the group stage, South Korea faced a challenging set of matches, losing two games out of three and competing against formidable opponents. Their advancement to the knockout stage depended not only on their own performance in these three matches but also on the outcomes of other games taking place across different groups.",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "TELANGANA TODAY",
    "title": "How 2026 World Cup, blockbuster movies are bringing old video games back",
    "iso": "2026-08-17T14:01:32.000Z",
    "link": "https://telanganatoday.com/how-2026-world-cup-blockbuster-movies-are-bringing-old-video-games-back",
    "lede": "Hyderabad: To call EA’s FC 26 disappointing would be an understatement. These days, the once-popular annual franchise barely sputters on as players search for joy in other genres and kinds of play. The step away from sports games is such that it is not just EA that is struggling, but also long-time rivals Konami (makers of PES and now eFootball) and 2K (NBA and WWE). With a steady decline in player numbers year after year and their refusal to engage with the game over the duration of a year, the outlook seemed grim.",
    "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Game-on-1.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "BBC",
+   "cat": "BBC.CO.UK",
    "title": "Send us your Scotland World Cup memories of Boston",
    "iso": "2026-08-17T13:33:23.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo",
    "lede": "Scotland played their first two World Cup group games in Boston. BBC Scotland is again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories from Boston during the World Cup. Thousands of Tartan Army supporters descended on the city and a relationship to last well beyond the World Cup was born. We are looking for Scotland fans to send us their videos, audio and memories of that magical week or so in Boston.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6174/live/467fc120-9a43-11f1-aed2-8d6da8d75094.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "VAVEL.COM",
@@ -58,23 +67,14 @@
    "link": "https://www.vavel.com/en/football/2026/08/17/womens-football/1268200-two-more-african-nations-qualify-for-the-women-s-world-cup.html",
    "lede": "Two more African nations have qualified for the 2027 FIFA Women's World Cup following the conclusion of the play-in round in this year's Women's African Cup of Nations. The play-in round featured all four nations that were eliminated in the quarter-final stage of the tournament, including the defending African champions, Nigeria, who faced off against the 2022 winners, South Africa. Across the bracket, the Ivory Coast looked to secure their place in the World Cup as they took on Ghana. Here is how the play-in matches unfolded:.",
    "image": "https://img.vavel.com/gettyimages-1610761009-1024x1024-2-1786971136025-syyuc6.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "FIFA World Cup 2026 Table Updated Today | FIFA World Cup Standings | FIFA World Cup Results Today Widow's Bay (OYD8WYMT9W)",
-   "iso": "2026-08-17T14:28:58.000Z",
-   "link": "https://mshale.com/6315d95e/7a5d53c1PyMvIEEnSyc7Izw",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "AUSTRIA V JORDAN - 2026 WORLD CUP - WATCH ALONG Football Matches Today (D77XE7WtnK)",
-   "iso": "2026-08-17T14:13:50.000Z",
-   "link": "https://mshale.com/bae15fba/f480ffd7FDI8USgcfRBfFB4",
+   "cat": "ENCYCLOPEDIA BRITANNICA",
+   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+   "iso": "2026-08-17T15:27:30.000Z",
+   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
