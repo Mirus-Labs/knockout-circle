@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T09:04:24.817Z",
+ "updated": "2026-08-18T09:49:51.535Z",
  "news": [
   {
    "cat": "SOUTH WEST LONDONER",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "DECCAN HERALD",
+   "title": "World Cup stake sale plan | One more FIFA official resigns as crisis escalates",
+   "iso": "2026-08-18T07:20:00.000Z",
+   "link": "https://www.deccanherald.com/amp/story/sports%2Fcricket%2Fworld-cup-stake-sale-plan-one-more-fifa-official-resigns-as-crisis-escalates-4115075",
+   "lede": "FIFA's chief operating officer, Kevin Lamour, has left his role at the game's global governing body just weeks after saying its president, Gianni Infantino, had deceived staff with his World Cup sell-off plan. FIFA confirmed Lamour's exit in a statement to multiple media outlets, saying, \"FIFA can confirm that the working relationship between FIFA and Kevin Lamour as FIFA's Chief Operating Officer has ended on 17 August 2026. \"FIFA thanks Kevin for his two years of service and wishes him the best of luck for the future. No further comment will be made on the matter.\" .'",
+   "image": "https://cf-images.assettype.com/deccanherald%2F2026-08-18%2F0ofiafif%2Feff78eea-bedf-4e2e-8af9-acb8244c6f48.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "GOAL.COM",
    "title": "Nigeria fire Super Falcons boss Justine Madugu as World Cup dream turns into a nightmare",
    "iso": "2026-08-18T07:16:45.000Z",
    "link": "https://www.goal.com/en/lists/nff-sack-nigeria-coach-justine-madugu-world-cup-miss/bltc811f1842df8cce3",
    "lede": "The Nigeria Football Federation (NFF) has sacked Super Falcons coach Justine Madugu after the team failed to qualify for the Women's World Cup for the first time in history. An investigative committee has been launched to examine the collapse, while the NFF leadership faces potential removal ahead of September's elections. NFF has dismissed Super Falcons coach Madugu and his entire technical crew with immediate effect. The decision follows Nigeria's failure to qualify for the FIFA Women's World Cup for the first time in history.",
    "image": "https://assets.goal.com/images/v3/imago-sport-1080470425/crop/MM5DIMRVGY5DEMZZGQ5G433XMU5DAORSGE4Q====/imago-image.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,26 +68,16 @@
    "link": "https://sports.yahoo.com/articles/fc-ptit-d-j-world-065800995.html",
    "lede": "The ref cam from the World Cup final 📹FIFA has released footage from the referee’s ref cam during the 2026 World Cup final. In this sequence, Slovenian referee Slavko Vinčić advises Lionel Mess... In this sequence, Slovenian refer...",
    "image": "https://s.yimg.com/lo/mysterio/api/74dfb2ca8cb7788576988b868960cc7266bb22678efff6e80acc51be522cfa1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fe0e5b6ea072feeb3448055c42ef0deb3.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GHANAIAN TIMES",
-   "title": "World Cup Stars Bringing Their Form Back to Club Football",
-   "iso": "2026-08-18T06:55:58.000Z",
-   "link": "https://ghanaiantimes.com.gh/players-returning-from-the-world-cup-in-the-best-form/",
-   "lede": "The 2026 World Cup did not leave every player in the same condition. Some returned to Europe needing recovery after a demanding tournament; others came back with confidence, match rhythm and strong individual performances behind them. Kylian Mbappé, Erling Haaland, Harry Kane and Jude Bellingham belong firmly in the second group. That momentum is already influencing expectations around the new club season.",
-   "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-06.32.37-1024x684.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "Asia chief hits out at Qatar over pushback on letter attacking Infantino",
-   "iso": "2026-08-18T06:31:30.000Z",
-   "link": "https://www.straitstimes.com/sport/football/asia-chief-hits-out-at-qatar-over-pushback-on-letter-attacking-infantino?ref=latest-headlines",
-   "lede": "AFC president president Sheikh Salman Ebrahim Al-Khalifa also slammed the Qatari federation’s decision to prioritise “technicalities” over the defence of the sport. Asian Football Confederation (AFC) president Sheikh Salman Ebrahim Al-Khalifa on Aug 18 rejected the Qatar Football Association’s assertion that he had exceeded his authority by joining UEFA and CONCACAF in criticising FIFA president Gianni Infantino. In an unusually forthright letter, the Bahraini administrator also slammed the Qatari federation’s decision to prioritise “technicalities” over the defence of the sport, deepening the growing rift within Asian football. Infantino, who is seeking reelection next year, has faced open revolt after UEFA, the AFC and CONCACAF attacked his conduct and called on him to quit over his aborted bid to bring private investment into FIFA events including the World Cup.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/53d2ddfdfb4989eb127b2c191c500894e00e8b54412fcf89a59e587f63ed3853",
+   "cat": "GHANAIAN TIMES",
+   "title": "World Cup Stars Bringing Their Form Back to Club Football",
+   "iso": "2026-08-18T06:34:23.000Z",
+   "link": "https://ghanaiantimes.com.gh/players-returning-from-the-world-cup-in-the-best-form/amp/",
+   "lede": "The 2026 World Cup did not leave every player in the same condition. Some returned to Europe needing recovery after a demanding tournament; others came back with confidence, match rhythm and strong individual performances behind them. Kylian Mbappé, Erling Haaland, Harry Kane and Jude Bellingham belong firmly in the second group. That momentum is already influencing expectations around the new club season.",
+   "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-06.32.37-1024x684.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
