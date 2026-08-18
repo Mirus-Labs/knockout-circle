@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T15:48:52.188Z",
+ "updated": "2026-08-18T15:58:22.923Z",
  "news": [
   {
    "cat": "INDEPENDENT NEWSPAPER NIGERIA",
@@ -42,8 +42,8 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "SCMP.COM",
-   "title": "Zion Suzuki: From Asian Cup racism to World Cup star and Premier League history man",
+   "cat": "SOUTH CHINA MORNING POST",
+   "title": "Zion Suzuki: From Asian Cup racism to World Cup star, Premier League history man",
    "iso": "2026-08-18T12:06:34.000Z",
    "link": "https://www.scmp.com/sport/football/article/3364455/zion-suzuki-asian-cup-racism-world-cup-star-and-premier-league-history-man",
    "lede": "Visiting Hong Kong this month with his former club Juventus, Lilian Thuram tackled the subject of racism in football. A World Cup winner for France, Thuram has his own eponymous foundation to educate people about racism, and has authored books on the topic. “When I was a child it was a problem, now my children [professional footballers Marcus and Khephren] have the same problem,” Thuram told the South China Morning Post. “Probably, nobody has managed to find a way to solve it.”",
@@ -72,12 +72,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-   "iso": "2026-08-18T14:48:45.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming",
-   "lede": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-02-18T150320Z_1473337181_UP1EJ2I15TIRM_RTRMADP_3_SOCCER-ENGLAND-BRE-CRY-REPORT-1787060932.jpg?resize=1920%2C1440",
+   "cat": "NDTV SPORTS",
+   "title": "FIFA World Cup 2026 Team Cape Verde, Who Drew With Spain, Likely To Play India: Report",
+   "iso": "2026-08-18T15:46:44.000Z",
+   "link": "https://sports.ndtv.com/football/fifa-world-cup-2026-team-cape-verde-who-drew-with-spain-likely-to-play-india-report-11927292",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
