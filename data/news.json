@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T22:00:32.141Z",
+ "updated": "2026-08-18T22:35:19.781Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -52,32 +52,31 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "RHYL JOURNAL",
+   "title": "Richard Masters accuses FIFA of hitting self-destruct button over World Cup plan",
+   "iso": "2026-08-18T17:42:13.000Z",
+   "link": "https://www.rhyljournal.co.uk/sport/national/26475944.richard-masters-accuses-fifa-hitting-self-destruct-button-world-cup-plan/",
+   "lede": "Premier League chief executive Richard Masters has accused embattled FIFA president Gianni Infantino of pressing the “self-destruct button” over failed plans to sell stakes in the World Cup. Infantino is fighting to stay in his job following huge backlash to his intention to sell a minority stake in FIFA tournaments to private investors. UEFA has become his main detractor, with the Football Association withdrawing its support for Infantino. “This is a problem of FIFA’s making,” Masters told BBC Sport.",
+   "image": "https://www.rhyljournal.co.uk/resources/images/21337997.jpg?type=og-image",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "NEWS18",
    "title": "2026 FIFA World Cup Golden Ball Winner Rodri Leaves Manchester City To Join Barcelona",
    "iso": "2026-08-18T17:20:45.000Z",
    "link": "https://www.news18.com/sports/football/2026-fifa-world-cup-golden-ball-winner-rodri-leaves-manchester-city-to-join-barcelona-ws-l-10280682.html",
    "lede": "Barcelona on Tuesday announced the signing of Spain’s World Cup-winning captain Rodri from Premier League side Manchester City. In a statement on their website, the La Liga champions said the 30-year-old has signed a deal that will run until 2030, bringing an end to one of the longest-running transfer sagas of the summer. According to reports on Sunday, Barca and Man City reached a deal to complete the transfer of the 2024 Ballon d’Or winner for a fee of around 75 million euros ($87 million). Rodri then arrived in the Catalan capital the following day to thresh out personal terms with his new club.",
    "image": "https://images.news18.com/ibnlive/uploads/2026/08/Rodri-joins-Barcelona-2026-08-55c9989f739f595e652f008ba344c394-1200x675.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BBC",
-   "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-   "iso": "2026-08-18T16:18:37.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cgjeqez58wno",
-   "lede": "Fifa shouldn't be selling stake in World Cup - Masters. Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\". Infantino is under increasing pressure over his attempt, later abandoned, to create a new company to manage the commercial and ticketing rights of all Fifa competitions, including the World Cups, with 21% to be sold off to a private investment company. Fifa Forward Enterprise (FFE) was aborted after widespread criticism from several confederations, led by Uefa, which has threatened a boycott of all Fifa competitions.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4852/live/d2590070-9b16-11f1-b8e1-e7ef86eff0e6.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "USMNT’s Christian Pulisic returns to Milan training after World Cup injury",
-   "iso": "2026-08-18T18:52:52.000Z",
-   "link": "https://www.nytimes.com/athletic/7521951/2026/08/18/christian-pulisic-milan-training-injury-usmnt/",
-   "lede": "The 27-year-old suffered a micro-fracture and bone bruise in his right leg during the USMNT's 4-1 defeat to Belgium in the last 16.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/08093146/GettyImages-2284972492.jpg?width=1200&height=630&fit=cover",
+   "cat": "SPORTS COLLECTORS DAILY",
+   "title": "Shop Talk: Fresh Football Score; World Cup Still Selling; Topps UFC Cards KO'ed, Riverfest RC Revival",
+   "iso": "2026-08-18T22:10:49.000Z",
+   "link": "https://www.sportscollectorsdaily.com/shop-talk-fresh-football-score-world-cup-still-selling-topps-ufc-cards-koed-riverfest-rc-revival/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
