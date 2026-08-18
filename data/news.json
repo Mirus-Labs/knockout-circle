@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T04:54:23.434Z",
+ "updated": "2026-08-18T05:13:50.610Z",
  "news": [
   {
    "cat": "THE ECONOMIC TIMES",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "TELESUR ENGLISH",
+   "title": "FIFA Fires Kevin Lamour After World Cup Rights Opposition",
+   "iso": "2026-08-17T23:08:23.000Z",
+   "link": "https://www.telesurenglish.net/fifa-fires-kevin-lamour-after-opposition/",
+   "lede": "By a brief statement, the entity based in Switzerland confirmed Lamour’s resignation and refused to provide further explanations. The conflict originated from the controversial initiative called FIFA Forward Enterprise (FFE), through which plan, FIFA’s President Gianni Infantino intended to sell one fifth of the rights to competitions such as the World Cup to a U.S. investment fund linked to Joshua Kushner, from the circle of the Trump family, for $4.2 billion. Although the proposal had to be shelved after strong rejection from various confederations, the internal fracture in the board proved irreversible. RELATED: 5 Shocking FIFA Transparency Demands After Secret Deal Is Dropped.",
+   "image": "https://ikona.telesurenglish.net/content/uploads/2026/08/65ca6e3e-1bf8-4aa9-9f00-eae9ac87d9de.webp",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Dean Huijsen was Real Madrid’s marquee signing a year ago. Why could he still be this season’s breakout star?",
    "iso": "2026-08-18T04:10:34.000Z",
    "link": "https://www.nytimes.com/athletic/7518960/2026/08/18/real-madrid-dean-huijsen-breakout-star/",
    "lede": "Huijsen is hardly an unknown but more is expected of him after a difficult first campaign at the Bernabeu.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17113110/GettyImages-2290206234-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -68,15 +78,6 @@
    "link": "https://www.nytimes.com/athletic/7475540/2026/08/18/rodri-barcelona-transfer-spain-connecticut-camp/",
    "lede": "The World Cup's Golden Ball winner has come a long way from the teenager with big dreams in Deep River in 2010.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/29073404/2907_Rodri.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "TIMES WEST VIRGINIAN",
-   "title": "A top official leaves FIFA, deepening the fallout from Infantino’s World Cup sell-off plan",
-   "iso": "2026-08-18T04:00:00.000Z",
-   "link": "https://www.timeswv.com/sports/a-top-official-leaves-fifa-deepening-the-fallout-from-infantino-s-world-cup-sell-off/article_cd028835-4842-553e-b1e4-d9f7ba10035e.html",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
