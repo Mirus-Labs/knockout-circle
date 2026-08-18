@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T22:35:19.781Z",
+ "updated": "2026-08-18T22:44:05.738Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "SHAFAQ.COM",
+   "cat": "شفق نيوز",
    "title": "Shafaq News..Barcelona sign World Cup-winning captain Rodri from Man City",
    "iso": "2026-08-18T18:49:54.000Z",
    "link": "https://shafaq.com/en/sport/Barcelona-sign-World-Cup-winning-captain-Rodri-from-Man-City",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SPORTS COLLECTORS DAILY",
-   "title": "Shop Talk: Fresh Football Score; World Cup Still Selling; Topps UFC Cards KO'ed, Riverfest RC Revival",
-   "iso": "2026-08-18T22:10:49.000Z",
-   "link": "https://www.sportscollectorsdaily.com/shop-talk-fresh-football-score-world-cup-still-selling-topps-ufc-cards-koed-riverfest-rc-revival/",
-   "lede": "",
+   "cat": "THE INDEPENDENT",
+   "title": "Fifa World Cup free bets: Betting offers for 2027 Women’s World Cup",
+   "iso": "2026-08-18T16:26:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup/world-cup-free-bets-b3008344.html",
+   "lede": "Find the best World Cup free bet offers for the 2027 Women’s World Cup. Compare the best World Cup free bets available on the 2027 Women’s World Cup. We review betting offers from licensed UK bookies.",
+   "image": "https://static.independent.co.uk/2026/06/08/16/00/World-Cup-Betting-Sites-Free-Bet-Offers-6.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
