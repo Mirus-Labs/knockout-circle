@@ -1,15 +1,35 @@
 {
- "updated": "2026-08-18T07:41:44.371Z",
+ "updated": "2026-08-18T07:56:23.908Z",
  "news": [
   {
-   "cat": "YAHOO SPORTS",
+   "cat": "SPORTS.YAHOO.COM",
+   "title": "🚨 Official: Le Mans sign a 2018 World Cup winner!",
+   "iso": "2026-08-18T07:36:03.000Z",
+   "link": "https://sports.yahoo.com/articles/official-le-mans-sign-2018-073200861.html",
+   "lede": "It’s official: Djibril Sidibé is joining Le Mans for two seasons! The 2018 World Cup winner signed with the newly promoted Ligue 1 side this Tuesday morning.After two seasons with Tou... The 2018 World Cup winner signed with the newly promoted Ligue 1 side this Tu...",
+   "image": "https://s.yimg.com/lo/mysterio/api/d3c8cd9419fc6f227464926cf9fab692db82a3c198cf3b32733f76dc62c7816c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fa6dc3da1f6cd2a8585f62352b6a64673.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Nigeria fire Super Falcons boss Justine Madugu as World Cup dream turns into a nightmare",
+   "iso": "2026-08-18T07:16:45.000Z",
+   "link": "https://www.goal.com/en/lists/nff-sack-nigeria-coach-justine-madugu-world-cup-miss/bltc811f1842df8cce3",
+   "lede": "The Nigeria Football Federation (NFF) has sacked Super Falcons coach Justine Madugu after the team failed to qualify for the Women's World Cup for the first time in history. An investigative committee has been launched to examine the collapse, while the NFF leadership faces potential removal ahead of September's elections. NFF has dismissed Super Falcons coach Madugu and his entire technical crew with immediate effect. The decision follows Nigeria's failure to qualify for the FIFA Women's World Cup for the first time in history.",
+   "image": "https://assets.goal.com/images/v3/imago-sport-1080470425/crop/MM5DIMRVGY5DEMZZGQ5G433XMU5DAORSGE4Q====/imago-image.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "SPORTS.YAHOO.COM",
    "title": "🥐☕️FC Ptit Déj: World Cup final ref-cam, Messi's EA FC card evolution",
    "iso": "2026-08-18T06:58:00.000Z",
    "link": "https://sports.yahoo.com/articles/fc-ptit-d-j-world-065800995.html",
    "lede": "The ref cam from the World Cup final 📹FIFA has released footage from the referee’s ref cam during the 2026 World Cup final. In this sequence, Slovenian referee Slavko Vinčić advises Lionel Mess... In this sequence, Slovenian refer...",
    "image": "https://s.yimg.com/lo/mysterio/api/74dfb2ca8cb7788576988b868960cc7266bb22678efff6e80acc51be522cfa1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fe0e5b6ea072feeb3448055c42ef0deb3.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GHANAIAN TIMES",
@@ -18,8 +38,8 @@
    "link": "https://ghanaiantimes.com.gh/players-returning-from-the-world-cup-in-the-best-form/",
    "lede": "The 2026 World Cup did not leave every player in the same condition. Some returned to Europe needing recovery after a demanding tournament; others came back with confidence, match rhythm and strong individual performances behind them. Kylian Mbappé, Erling Haaland, Harry Kane and Jude Bellingham belong firmly in the second group. That momentum is already influencing expectations around the new club season.",
    "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-06.32.37-1024x684.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE STRAITS TIMES",
@@ -28,8 +48,8 @@
    "link": "https://www.straitstimes.com/sport/football/asia-chief-hits-out-at-qatar-over-pushback-on-letter-attacking-infantino?ref=latest-headlines",
    "lede": "AFC president president Sheikh Salman Ebrahim Al-Khalifa also slammed the Qatari federation’s decision to prioritise “technicalities” over the defence of the sport. Asian Football Confederation (AFC) president Sheikh Salman Ebrahim Al-Khalifa on Aug 18 rejected the Qatar Football Association’s assertion that he had exceeded his authority by joining UEFA and CONCACAF in criticising FIFA president Gianni Infantino. In an unusually forthright letter, the Bahraini administrator also slammed the Qatari federation’s decision to prioritise “technicalities” over the defence of the sport, deepening the growing rift within Asian football. Infantino, who is seeking reelection next year, has faced open revolt after UEFA, the AFC and CONCACAF attacked his conduct and called on him to quit over his aborted bid to bring private investment into FIFA events including the World Cup.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/53d2ddfdfb4989eb127b2c191c500894e00e8b54412fcf89a59e587f63ed3853",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "SOUTH CHINA MORNING POST",
@@ -38,8 +58,8 @@
    "link": "https://www.scmp.com/sport/football/article/3364355/top-fifa-official-sacked-after-slamming-gianni-infantino-world-cup-plot",
    "lede": "Frenchman Kevin Lamour has left his role as Fifa’s chief operating officer after criticising president Gianni Infantino’s scrapped private investor plan, world football’s governing body has confirmed. Lamour was the third highest-ranking Fifa official. “Fifa can confirm that the working relationship between Fifa and Kevin Lamour as Fifa’s chief operating officer has ended on August 17, 2026,” a Fifa spokesperson told AFP, confirming a report in The Athletic. “Fifa thanks Kevin for his two years of service and wishes him the best of luck for the future.”",
    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/18/37fd8808-844f-452c-9651-5eb63cf9da9f_228a4932.jpg?itok=mLltvlb3&v=1787034714",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MUNDO DEPORTIVO",
@@ -48,36 +68,16 @@
    "link": "https://www.mundodeportivo.com/en/soccer/20260818/1004217120/fifa-operations-director-who-opposed-world-cup-privatisation-dismissed.html?facet=amp",
    "lede": "Paris, August 17 (EFE).- Frenchman Kevin Lamour, who had been critical of the project to privatise the football World Cup, has been dismissed from his position as FIFA’s director of operations, L’Équipe reported on Monday, confirming information first published by The Athletic. Lamour, 45, had expressed his opposition in a statement in late July to opening the World Cup to private investors, as FIFA president Gianni Infantino wanted, a plan also backed by United States President Donald Trump. According to L’Équipe, a spokesperson for world football’s governing body confirmed that “the employment relationship between FIFA and Kevin Lamour, in his capacity as director of operations, ended on August 17, 2026.” “FIFA thanks Kevin for his two years of service and wishes him every success for the future,” the source added, according to the newspaper.",
    "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a8381274fa04.r_d.1481-457-0.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "NZ HERALD",
-   "title": "New Zealand U20 World Cup squad named amid Fifa boycott threat",
-   "iso": "2026-08-18T05:42:05.000Z",
-   "link": "https://www.nzherald.co.nz/sport/football/new-zealand-under-20-womens-world-cup-squad-named-amid-boycott-threat-over-gianni-infantino-fifa-leadership/PUYIGBGKDFGTDHNACJ7VS5OM2E/",
-   "lede": "New Zealand Football has announced its squad for the Under-20 Women’s World Cup amid threats of a competition boycott over Fifa president Gianni Infantino’s leadership. A 21-player squad have been unveiled for the tournament in Poland, with New Zealand playing Japan, Italy and the United States in group D. Nine of the 14 domestic players represent the Wellington Phoenix, including breakout star Pia Vlok, while five play in the American college system and Nienke Holland plays for Dutch side AZ Alkmaar, the only European club on the list. Goalkeeper Brooke Neary said she was looking forward to making the trip to Poland.",
-   "image": "https://www.nzherald.co.nz/resizer/v2/4XPAAR64L5HPTNAXJGAURWSSGY.JPG?auth=e39f88cced3df62fc945bc78fe08fb0c35c308a759107986b4ffaea44f30cce4&width=1200&height=675&quality=70&smart=true",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE JOURNAL",
-   "title": "Top Fifa executive sacked after criticising Gianni Infantino's World Cup sell-off plan",
-   "iso": "2026-08-18T05:38:00.000Z",
-   "link": "https://www.thejournal.ie/fifa-coo-fired-kevin-lamour-7133829-Aug2026/",
-   "lede": "FRENCHMAN KEVIN LAMOUR has left his role as Fifa’s chief operating officer after criticising president Gianni Infantino’s scrapped private investor plan, world football’s governing body confirmed. Lamour was the third highest-ranking Fifa official. “Fifa can confirm that the working relationship between Fifa and Kevin Lamour as Fifa’s chief operating officer has ended on 17 August 2026,” a Fifa spokesperson told AFP, confirming a report in The Athletic. “FIFA thanks Kevin for his two years of service and wishes him the best of luck for the future.”",
-   "image": "https://img2.thejournal.ie/article/7133829/river/?height=400&version=7133837",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THEHINDU.COM",
-   "title": "A top official leaves FIFA, deepening the fallout from Infantino’s World Cup sell-off plan",
-   "iso": "2026-08-18T05:13:40.000Z",
-   "link": "https://www.thehindu.com/sport/football/a-top-official-leaves-fifa-deepening-the-fallout-from-infantinos-world-cup-sell-off-plan/article71358934.ece/amp/",
-   "lede": "FIFA’s chief operating officer, Kevin Lamour, has reportedly left his role at football’s governing body just weeks after saying its president, Gianni Infantino, had deceived staff with his World Cup sell-off plan. Also read | Why did FIFA scrap its World Cup stake sale? Lamour, who is based in Zurich, all but invited Infantino to fire him in a statement to The Associated Press on August 1, 2026, that defended his colleagues amid intense fallout from the plan to sell stakes in future World Cup profits to private equity funds. Lamour wrote that staff were “deceived” by Infantino’s lack of openness in planning.",
-   "image": "https://th-i.thgim.com/public/incoming/4pavh0/article71358966.ece/alternates/FREE_1200/FIFA-Executive-Leaves_49244.jpg",
+   "cat": "THE KOREA TIMES",
+   "title": "Venues set for 4 men's football friendly matches",
+   "iso": "2026-08-18T05:46:00.000Z",
+   "link": "https://www.koreatimes.co.kr/amp/sports/20260818/venues-set-for-4-mens-football-friendly-matches",
+   "lede": "Members of the Korean national men's football team train in Guadalajara, Mexico, June 26 (local time). Yonhap The national football federation on Tuesday announced the venues for the four upcoming men's friendly matches on home soil, with four different cities set to take turns serving as the host. The Korea Football Association (KFA) said the cities of Suwon, Seoul, Ulsan and Yongin will host the four friendlies during the September-October FIFA international match window. All matches will kick off at 8 p.m.",
+   "image": "https://newsimg.koreatimes.co.kr/2026/08/18/d9b56621-9692-47bf-be49-4854cc5895db.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
