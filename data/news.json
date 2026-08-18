@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T21:41:46.460Z",
+ "updated": "2026-08-18T21:59:37.298Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THEGUARDIAN.COM",
+   "cat": "THE GUARDIAN",
    "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
    "iso": "2026-08-18T20:23:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach",
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "شفق نيوز",
+   "cat": "SHAFAQ.COM",
    "title": "Shafaq News..Barcelona sign World Cup-winning captain Rodri from Man City",
    "iso": "2026-08-18T18:49:54.000Z",
    "link": "https://shafaq.com/en/sport/Barcelona-sign-World-Cup-winning-captain-Rodri-from-Man-City",
@@ -62,12 +62,12 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BBC",
-   "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-   "iso": "2026-08-18T16:18:37.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cgjeqez58wno",
-   "lede": "Fifa shouldn't be selling stake in World Cup - Masters. Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\". Infantino is under increasing pressure over his attempt, later abandoned, to create a new company to manage the commercial and ticketing rights of all Fifa competitions, including the World Cups, with 21% to be sold off to a private investment company. Fifa Forward Enterprise (FFE) was aborted after widespread criticism from several confederations, led by Uefa, which has threatened a boycott of all Fifa competitions.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4852/live/d2590070-9b16-11f1-b8e1-e7ef86eff0e6.jpg",
+   "cat": "THE INDEPENDENT",
+   "title": "Fifa World Cup free bets: Betting offers for 2027 Women’s World Cup",
+   "iso": "2026-08-18T16:26:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/world-cup/world-cup-free-bets-b3008344.html",
+   "lede": "Find the best World Cup free bet offers for the 2027 Women’s World Cup. Compare the best World Cup free bets available on the 2027 Women’s World Cup. We review betting offers from licensed UK bookies.",
+   "image": "https://static.independent.co.uk/2026/06/08/16/00/World-Cup-Betting-Sites-Free-Bet-Offers-6.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
