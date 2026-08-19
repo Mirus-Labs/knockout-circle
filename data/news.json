@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-19T18:41:03.240Z",
+ "updated": "2026-08-19T18:55:47.170Z",
  "news": [
+  {
+   "cat": "DIARIO AS",
+   "title": "Azcárraga: ‘I don’t see a World Cup in Mexico in 2038 as a far-fetched idea’",
+   "iso": "2026-08-19T18:30:19.000Z",
+   "link": "https://en.as.com/soccer/azcarraga-i-dont-see-a-world-cup-in-mexico-in-2038-as-a-far-fetched-idea-f202608-n/",
+   "lede": "The 2026 World Cup, co-hosted by Mexico, Canada and the USA left a hugely positive lasting impression on everyone who attended matches in Mexico City, Guadalajara and Monterrey; indeed, many wondered why there were only a handful of matches played on Mexican soil. Amid such euphoria, fans wondered whether Mexico would ever host another football festival, and to everyone’s surprise, the prospect of another men’s tournament is not so far off. At an interview with TUDN, Emilio Azcárraga Jean, president of Club América and an influential figure in Mexican football with contacts within the FMF (Mexican FA), said that hosting another men’s World Cup on Mexican soil in 2038 is not far-fetched. With confederation rotation, the conditions could align within three cycles.",
+   "image": "https://img.asmedia.epimg.net/resizer/v2/SUMTSVB2ARC5BO3KPNBGFHIZ5U.jpg?auth=dd8fbc372fd0df2339e790d71953ff5d00c4e7aa07fc65cb63da51af980623b6&width=1472&height=828&smart=true",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "YAHOO SPORTS",
    "title": "USMNT's Home World Cup: Record Interest, Same Ceiling",
@@ -8,8 +18,8 @@
    "link": "https://sports.yahoo.com/articles/usmnts-home-world-cup-record-181000401.html",
    "lede": "Hosting the 2026 World Cup produced the largest audience the USMNT has ever had inside its own borders. The team's opener against Paraguay became the most-watched football match ever broadcast in the ... The team's opener against Paraguay became the most-wa...",
    "image": "https://s.yimg.com/lo/mysterio/api/0160bfa26880e127c55967d2a851cd71c8a04b5a035f6c3b951e17573f87ea41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchside_us_articles_859%2Fde3a5ece3aa22721d0caf9547eafb4ce.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE SUN",
@@ -18,8 +28,8 @@
    "link": "https://www.thesun.co.uk/sport/40109020/howard-webb-fear-balogun-conspiracy-theory-premier-league/",
    "lede": "REF chief Howard Webb fears the World Cup row over USA striker Folarin Balogun could fuel false PREM conspiracy theories. Pro Ref boss Webb admitted he was “troubled” after the intervention by US President Donald Trump saw Balogun cleared to play against Belgium despite his red card for serious foul play being confirmed. And the former whistler conceded his concerns that intervention in football governance by outside figures could convince some fans that the entire game is suspect. Webb said: “I was really troubled by it.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-40109190.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "WORLD SOCCER TALK",
@@ -28,26 +38,16 @@
    "link": "https://worldsoccertalk.com/news/afa-president-claudio-tapia-lashes-out-at-argentinas-world-cup-final-conspiracy-theories/",
    "lede": "A month after Argentina fell 1-0 to Spain in overtime at the 2026 World Cup final, Argentine Football Association (AFA) president Claudio Tapia broke his silence with a lengthy, pointed statement on social media, taking direct aim at what he called a “miserable campaign” to paint the national team as having thrown the match. The backlash stems from a wave of conspiracy theories that spread in Argentina in the weeks following the loss, some of them tied to a leaked video showing Lionel Messi delivering an unusually calm pre-match speech in the locker room, in which he told his teammates to “forget about everything”. That clip was seized on by some to suggest the players had mentally checked out before kickoff, and it wasn’t long before speculation grew into open accusations, with some in Argentina even floating the idea that the squad had deliberately “given away” the final.",
    "image": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/08/19132853/tapia-1200x740.webp",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "SKY SPORTS",
+   "cat": "SKYSPORTS.COM",
    "title": "Richard Masters and Howard Webb criticise FIFA over Folarin Balogun's red card controversy at 2026 World Cup",
    "iso": "2026-08-19T17:04:48.000Z",
    "link": "https://www.skysports.com/football/news/11095/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup",
    "lede": "Two of the most powerful men in English football have joined forces to hit out at FIFA and the U-turn which allowed USA striker Folarin Balogun to play on at the World Cup last month, despite the red card which should have led to an automatic ban. Richard Masters , the chief executive of the Premier League and Howard Webb , the chief refereeing officer in England, say the decision undermines faith in football at all levels of the game. Balogun was sent off in the last 32 match against Bosnia & Herzegovina which led to an automatic ban under World Cup rules, without the opportunity for appeal, or for the ban to be reduced.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-balogun-usa_7287725.jpg?20260702023831",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "MARCA",
-   "title": "\"There's no coming back from this\": Chiqui Tapia breaks the silence after Argentina's controversial final at the World Cup",
-   "iso": "2026-08-19T16:43:52.000Z",
-   "link": "https://amp.marca.com/en/football/fifa-club-world-cup/2026/08/19/there-s-no-coming-back-from-this-chiqui-tapia-breaks-the-silence-after-argentina-s-controversial-final-at-the-world-cup.html",
-   "lede": "30 days after Argentina lost 1-0 to Spain in the World Cup final, the president of the “Argentine Football Association\" (AFA) described the accusations received by the players and coaching staff from the press as a \"miserable campaign\" In a letter signed as \"CT\", Chiqui Tapia posted on his social media a text that focuses on the claims that cast doubt on the players' attitude during the match. According to him, there was an attempt to push the idea that the Argentina National Team \"had thrown the game\" \"El Chiqui\" claims there was an “operation” surrounding what happened in that match. According to Tapia, those who spread those versions would be part of a web of conspiracy theories that emerged after Argentina’s defeat at MetLife Stadium in New York. What stands out most is that, after a month, not one of them apologized.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/09/6a785d9954289.jpeg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
@@ -63,21 +63,21 @@
   },
   {
    "cat": "THE GUARDIAN",
+   "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
+   "iso": "2026-08-19T16:25:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
+   "lede": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges. In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast, as a standing ovation in his final game demonstrated.",
+   "image": "https://i.guim.co.uk/img/media/23eb6c026250e71446db354e33713c6872051035/1191_508_3215_2573/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd034fd4be8df4ab4ffa252104432dba",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
    "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
    "iso": "2026-08-19T16:06:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
    "lede": "USA striker missed no matches after sending-off. ‘Far too often now decisions are viewed as corrupt’. Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the new Premier League season, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time.",
    "image": "https://i.guim.co.uk/img/media/342bc703db301440e0f8ea4bebf312b521b6339b/365_0_1847_1477/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7dd41b0b6deab91e3bcee423506a385",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Premier League referees chief explains how World Cup controversy will make life harder for officials",
-   "iso": "2026-08-19T16:00:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/premier-league-refereeing-howard-webb-balogun-fifa-b3035772.html",
-   "lede": "Howard Webb believes the situation surrounding Folarin Balogun’s red card will create room for conspiracies. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/04/13/20/2271189243.jpg?width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
