@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T17:54:30.742Z",
+ "updated": "2026-08-19T18:02:46.413Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -42,24 +42,14 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "COSMETICS BUSINESS",
-   "title": "Lynx’s World Cup 2026 marketing campaign scored 7 billion in social reach. Here’s how…",
-   "iso": "2026-08-19T15:06:08.000Z",
-   "link": "https://cosmeticsbusiness.com/lynx-world-cup-2026-marketing-campaign",
-   "lede": "With more than 8.3 billion people living on planet earth, Unilever-owned deodorant brand Lynx’s FIFA World Cup 2026 advertising campaign achieving seven billion in social reach has shown just how immense the power of football can be for beauty. And what a year it was for football, with fans streaming the FIFA World Cup 2026 match highlights 67.3 million times, according to data from BBC iPlayer and BBC Sport, according to the BBC. The final between Argentina and Spain on 19 July also drew an estimated 63 million combined US viewers across multiple networks, including broadcasting company Fox and Spanish-language streaming services Telemundo and Peacock. Tickets are now available for the 25th anniversary of the Pure Beauty Awards, taking place on 15 October 2026 at the Grosvenor House Hotel in London, UK.",
-   "image": "https://cosmeticsbusiness.com/article-image-alias/lynx-s-world-cup-2026-marketing-campaign-4.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "SPORTSTAR",
    "title": "Cape Verde, the surprise of FIFA World Cup 2026, appoints Bettencourt as coach to succeed Bubista",
    "iso": "2026-08-19T14:53:48.000Z",
    "link": "https://sportstar.thehindu.com/football/bettencourt-succeeds-bubista-cape-verde-head-coach-after-fifa-world-cup-2026/article71365873.ece/amp/",
    "lede": "AFP AFP https://ss-i.thgim.com/public/incoming/7h4vav/article71365831.ece/alternates/FREE_1200/AFP__20220113__9W49R7__v4__HighRes__CorrectionFblAfrAfcon20212022CpvBfa.jpg KENZO TRIBOUILLARD Cape Verde's coach Humberto Bettencourt gestures towards his players from the touchline during the Group A Africa Cup of Nations (CAN) 2021 football match between Cape Verde and Burkina Faso at Stade d'Olembé in Yaounde on January 13, 2022. (Photo by Kenzo Tribouillard / AFP) / The erroneous mention[s] appearing in the metadata of this photo by Kenzo Tribouillard has been modified in AFP systems in the following manner: [Humberto Bettencourt] instead of [Pedro Leitao Brito]. Please immediately remove the erroneous mention[s] from all your online services and delete it (them) from your servers.",
    "image": "https://ss-i.thgim.com/public/incoming/7h4vav/article71365831.ece/alternates/FREE_1200/AFP__20220113__9W49R7__v4__HighRes__CorrectionFblAfrAfcon20212022CpvBfa.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "JAPAN WIRE BY KYODO NEWS",
@@ -68,8 +58,8 @@
    "link": "https://english.kyodonews.net/articles/-/82583",
    "lede": "LONDON - Japan goalkeeper Zion Suzuki has joined English Premier League outfit Aston Villa on a permanent transfer from Parma in the Italian top division, the Birmingham-based club announced Wednesday. Suzuki, who turns 24 on Friday, played all four games for Japan at this summer's World Cup in North America, making a string of big saves for the Samurai Blue, who exited the tournament with a 2-1 loss to Brazil in the round of 32. In their official announcement, Villa described Suzuki as \"one of the game's brightest prospects in his position.\" The Urawa Reds youth product spent a season at Sint-Truiden in Belgium from the summer of 2023 before spending the next two campaigns with Parma.",
    "image": "https://english-kyodo.ismcdn.jp/mwimgs/9/b/1200x/img_9b41cba5afddf5b297de5ff89bd95cce3046382.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FREE MALAYSIA TODAY",
@@ -78,6 +68,16 @@
    "link": "https://www.freemalaysiatoday.com/category/sports/2026/08/19/senior-fifa-official-withdraws-support-from-embattled-infantino",
    "lede": "The head of the Hungarian Football Federation cited controversial decisions by Fifa president Gianni Infantino around this year's World Cup, including plans to outsource Fifa competitions to external parties. (EPA Images pic) BUDAPEST: One of Fifa's vice-presidents has withdrawn his support from the world football body's embattled president Gianni Infantino, saying the \"unexpected dismissal\" of critic Kevin Lamour was the \"final straw\". Frenchman Lamour's position as COO had become untenable after he broke ranks with senior Fifa directors last month and issued a scathing statement criticising Infantino over his now-scrapped plan to allow private investment in World Cups. In a letter seen by AFP on Wednesday, Fifa vice-president and council member Sandor Csanyi of Hungary said Infantino has \"lost the confidence I previously placed in you\".",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/04/30940d12-13870155_1_cropped_1.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "DW.COM",
+   "title": "Messi retirement hint highlights football era nearing an end",
+   "iso": "2026-08-19T14:09:55.000Z",
+   "link": "https://www.dw.com/en/messi-retirement-hint-highlights-football-era-nearing-an-end/a-78415527",
+   "lede": "Soon after propelling Argentina to a second consecutive World Cup final, Lionel Messi has cast some doubt on his future. While retirement doesn't seem imminent, it still beckons for him and Cristiano Ronaldo. \"I'm really not sure if I'll carry on doing it for much longer.\" Those words earlier this month from Lionel Messi, a man who famously says very little, sparked a global conversation about whether his storied career was about to end.",
+   "image": "https://static.dw.com/image/77869986_6.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
