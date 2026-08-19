@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-19T09:59:33.055Z",
+ "updated": "2026-08-19T10:38:56.532Z",
  "news": [
+  {
+   "cat": "LIVESCORE",
+   "title": "Aston Villa seal stunning transfer deal for World Cup star Zion Suzuki",
+   "iso": "2026-08-19T09:48:35.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/aston-villa-seal-stunning-transfer-deal-for-world-cup-star-zion-suzuki-goal/",
+   "lede": "Securing a prized target Aston Villa have confirmed the permanent signing of Suzuki from Serie A club Parma. The talented Japanese international brings valuable experience from European football and the international stage to Villa Park.Securing a player of his calibre provides a major boost to the squad's depth between the posts. Following a brief spell in Belgium with Sint-Truiden, he spent the last two seasons sharpening his craft in Italy with Parma.His consistent performances at club level quickly established him as a standout talent across European football. That rapid development has now earned him a high-profile move to English football.Historic Premier League milestoneSuzuki arrives as the first-ever Japanese and Asian player in Aston Villa's history.",
+   "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE BUSINESS STANDARD",
+   "title": "IPDC Finance celebrates ‘Play with IPDC’ winners, concludes Fifa World Cup 2026 campaign",
+   "iso": "2026-08-19T09:30:00.000Z",
+   "link": "https://www.tbsnews.net/economy/corporates/ipdc-finance-celebrates-play-ipdc-winners-concludes-fifa-world-cup-2026-campaign",
+   "lede": "IPDC Finance PLC has awarded the winners of its nationwide digital engagement campaign, \"Play with IPDC – Predict and Win\", which attracted more than 3,000 football enthusiasts during the Fifa World Cup 2026. The prize-giving ceremony was held at the company's head office on Wednesday, marking the conclusion of the campaign, according to a press release. Held from 11 June to 19 July, the campaign brought football fans together through an interactive digital platform where participants predicted match outcomes, earned points and competed for positions on a live leaderboard. The campaign was hosted on the dedicated microsite playwithipdc.ipdc.com, which allowed participants to submit their predictions before matches throughout the tournament.",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/19/ipdc_pr.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "DW.COM",
    "title": "Messi retirement hint highlights football era nearing an end",
@@ -8,18 +28,18 @@
    "link": "https://www.dw.com/en/messi-retirement-hint-highlights-football-era-nearing-an-end/a-78415527",
    "lede": "Soon after propelling Argentina to a second consecutive World Cup final, Lionel Messi has cast some doubt on his future. While retirement doesn't seem imminent, it still beckons for him and Cristiano Ronaldo. \"I'm really not sure if I'll carry on doing it for much longer.\" Those words earlier this month from Lionel Messi, a man who famously says very little, sparked a global conversation about whether his storied career was about to end.",
    "image": "https://static.dw.com/image/77869986_6.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE DAILY STAR",
    "title": "‘We were comparing it to Argentina’s World Cup games’: Simmons on Bangladesh’s Australia Test triumph",
-   "iso": "2026-08-19T07:37:23.000Z",
+   "iso": "2026-08-19T07:41:15.000Z",
    "link": "https://www.thedailystar.net/sports/cricket/news/we-were-comparing-it-argentinas-world-cup-games-simmons-bangladeshs-australia-test-triumph-4251456",
    "lede": "Bangladesh head coach Phil Simmons said the emotional response to his side’s historic nine-wicket victory over Australia in Darwin reminded him of the same frenzy surrounding Argentina’s 2026 World Cup run among football fans in Bangladesh. Speaking exclusively to Indian sports outlet RevSportz, the former West Indies all-rounder said the victory went beyond the result itself, reflecting the scale of emotion it generated across Bangladesh. “We were comparing it a little bit to when Argentina won games in the World Cup because the streets in Dhaka were unbelievable during the World Cup. Yesterday, we were talking about it being similar to that.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TÜRKIYE TODAY",
@@ -28,8 +48,8 @@
    "link": "https://www.turkiyetoday.com/sports/fifa-pressed-self-destruct-button-on-world-cup-premier-league-chief-3226373",
    "lede": "Premier League Chief Executive Richard Masters said Tuesday that FIFA had pressed the \"self-destruct button\" with its failed plan to sell stakes in the World Cup. “This is a self-inflicted wound. The organization has pressed the self-destruct button, and the consequences of that flow now into the solutions that need to be found,” Masters told BBC Sport. Masters said FIFA, as a not-for-profit organization, should hold the World Cup in trust for football's future rather than consider selling a stake in the competition.",
    "image": "https://img.turkiyetoday.com/images/2026/8/19/premier-league-chief-says-fifa-pressed-self-destruct-button-on-cup-3226373_20260819095020.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MENSXP",
@@ -38,8 +58,8 @@
    "link": "https://www.mensxp.com/sports/football/185363-after-brazil-india-to-face-another-fifa-world-cup-2026-team-report-makes-big-claim.html",
    "lede": "On October 3, India and Brazil shall face each other for the first time ever. The match is going to be played in Kolkata. Now it seems that India may play another country that took part in the FIFA World Cup 2026. This side made its debut and went as far as the Round of 32 and also held eventual champions Spain to a goalless draw in the group stage.",
    "image": "https://mxp-media.ilnmedia.com/media/content/2026/Aug/FB_6a853d1c7215a.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "NINE.COM.AU",
@@ -48,36 +68,16 @@
    "link": "https://www.nine.com.au/sport/football/transfer-news-australian-players-surpass-100-million-alessandro-circati-benfica-socceroos-20260819-p60pku.html",
    "lede": "The Socceroos may have only made it to the first round of the knockouts at the FIFA World Cup, but it was enough to impress some of the biggest clubs in Europe. On Wednesday morning (AEST), news broke Portuguese club Benfica was on the verge of signing defender Alessandro Circati on a $33 million deal. Alessandro Circati is on the verge of signing a monster deal with Porguguese club Benfica. Should the deal be signed, sealed and delivered, it would take the total transfer fees paid for Australian stars well beyond $100 million.",
    "image": "https://static.ffx.io/images/$zoom_1.034%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_66/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/18f9c29e498f3a4840bc39caf8b1878913b80b5688f13c80688ef4f00cc6b140",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE SUN NIGERIA",
    "title": "Nigerian fans drive SuperSport’s 19.1bn World Cup Digital Views",
    "iso": "2026-08-19T03:48:17.000Z",
    "link": "https://thesun.ng/nigerian-fans-drive-supersports-19-1bn-world-cup-digital-views/",
-   "lede": "Pogba parts ways with Monaco following termination of contract. Values remain key to building a great Africa – Daniel Obah. Abuja landlords in panic mode over flooding. EPL: Bruno Fernandes rejects Man Utd’s contract offer.",
+   "lede": "Canada invites 1,000 candidates to apply for permanent residence in latest Express Entry draw. 2027: Peter Obi lost upcoming election when he left ADC – Fayose. FG mining grants: SMDF opens Abuja sessions for applicants. Former Akoko-Edo Rep aspirant Abubakar calls for unity, support for Okpebholo.",
    "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/04/2026-FIFA-World-Cup.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
-   "title": "FIFA accused of 'management by fear' after key executive's sudden exit",
-   "iso": "2026-08-18T23:57:52.000Z",
-   "link": "https://www.abc.net.au/news/2026-08-19/fifa-fear-tactics-accusations-klaveness-lamour-infantino/107053144",
-   "lede": "Lise Klaveness (right) has issued a blistering criticism of FIFA following the exit of a senior official. (Getty Images: Eva Marie Uzcategui). Lise Klaveness, the head of Norwegian football, believes FIFA is exhibiting \"management by fear\" after the exit of COO Kevin Lamour. Lamour was one of the FIFA executives who was outspoken against president Gianni Infantino's controversial plan to sell off the World Cup.",
-   "image": "https://live-production.wcms.abc-cdn.net.au/9a0e4d5aba9b48fef79b783434838035?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic",
-   "iso": "2026-08-19T08:55:51.000Z",
-   "link": "https://www.nytimes.com/athletic/7243081/2026/08/19/carlos-baleba-manchester-united-transfer/",
-   "lede": "United have made an offer of around £60million plus £5m in add-ons for the 22-year-old midfielder.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/04/30062134/carlos-baleba-april-26-scaled-e1777544539637.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
