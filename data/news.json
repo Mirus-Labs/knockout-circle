@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T19:11:31.003Z",
+ "updated": "2026-08-19T19:42:01.653Z",
  "news": [
   {
    "cat": "DIARIO AS",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "YAHOO SPORTS",
+   "cat": "SPORTS.YAHOO.COM",
    "title": "USMNT's Home World Cup: Record Interest, Same Ceiling",
    "iso": "2026-08-19T18:10:00.000Z",
    "link": "https://sports.yahoo.com/articles/usmnts-home-world-cup-record-181000401.html",
@@ -73,11 +73,11 @@
   },
   {
    "cat": "THE GUARDIAN",
-   "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
-   "iso": "2026-08-19T16:25:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
-   "lede": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges. In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast, as a standing ovation in his final game demonstrated.",
-   "image": "https://i.guim.co.uk/img/media/23eb6c026250e71446db354e33713c6872051035/1191_508_3215_2573/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd034fd4be8df4ab4ffa252104432dba",
+   "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
+   "iso": "2026-08-19T16:06:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
+   "lede": "USA striker missed no matches after sending-off. ‘Far too often now decisions are viewed as corrupt’. Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the new Premier League season, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time.",
+   "image": "https://i.guim.co.uk/img/media/342bc703db301440e0f8ea4bebf312b521b6339b/365_0_1847_1477/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7dd41b0b6deab91e3bcee423506a385",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
