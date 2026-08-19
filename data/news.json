@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T21:54:53.174Z",
+ "updated": "2026-08-19T22:03:51.933Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "WORLD SOCCER TALK",
+   "title": "AFA president Claudio Tapia lashes out at Argentina’s World Cup final conspiracy theories",
+   "iso": "2026-08-19T17:53:33.000Z",
+   "link": "https://worldsoccertalk.com/news/afa-president-claudio-tapia-lashes-out-at-argentinas-world-cup-final-conspiracy-theories/",
+   "lede": "A month after Argentina fell 1-0 to Spain in overtime at the 2026 World Cup final, Argentine Football Association (AFA) president Claudio Tapia broke his silence with a lengthy, pointed statement on social media, taking direct aim at what he called a “miserable campaign” to paint the national team as having thrown the match. The backlash stems from a wave of conspiracy theories that spread in Argentina in the weeks following the loss, some of them tied to a leaked video showing Lionel Messi delivering an unusually calm pre-match speech in the locker room, in which he told his teammates to “forget about everything”. That clip was seized on by some to suggest the players had mentally checked out before kickoff, and it wasn’t long before speculation grew into open accusations, with some in Argentina even floating the idea that the squad had deliberately “given away” the final.",
+   "image": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/08/19132853/tapia-1200x740.webp",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "GAMEREACTOR UK",
    "title": "One month after World Cup final, Argentine Football Association president explodes against conspiracists",
    "iso": "2026-08-19T17:35:46.000Z",
    "link": "https://www.gamereactor.eu/one-month-after-world-cup-final-argentine-football-association-president-explodes-against-conspiracists-1761723/",
    "lede": "One month ago, Spain won the World Cup final against Argentina, and a series of conspiracy theories, some implying that they had lost on purpose for a variety or reasons, like threats by FIFA, secret deals, or anything but to accept that they had not been better than their rivals. Today, Claudio \"Chiqui\" Tapia, President of the Argentine Football Association, has written a strongly worded statement slamming all of those who started those conspiracy theories and of course were never proved.\" A month since that final. A month since the lies, the manipulation, and a despicable campaign to portray this team as having thrown the game.",
    "image": "https://www.gamereactor.eu/media/04/refereespainargentina_4950443b.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "SKY SPORTS",
@@ -68,16 +78,6 @@
    "link": "https://www.skysports.com/football/news/11095/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup",
    "lede": "Two of the most powerful men in English football have joined forces to hit out at FIFA and the U-turn which allowed USA striker Folarin Balogun to play on at the World Cup last month, despite the red card which should have led to an automatic ban. Richard Masters , the chief executive of the Premier League and Howard Webb , the chief refereeing officer in England, say the decision undermines faith in football at all levels of the game. Balogun was sent off in the last 32 match against Bosnia & Herzegovina which led to an automatic ban under World Cup rules, without the opportunity for appeal, or for the ban to be reduced.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-balogun-usa_7287725.jpg?20260702023831",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MARCA",
-   "title": "\"There's no coming back from this\": Chiqui Tapia breaks the silence after Argentina's controversial final at the World Cup",
-   "iso": "2026-08-19T16:43:52.000Z",
-   "link": "https://amp.marca.com/en/football/fifa-club-world-cup/2026/08/19/there-s-no-coming-back-from-this-chiqui-tapia-breaks-the-silence-after-argentina-s-controversial-final-at-the-world-cup.html",
-   "lede": "30 days after Argentina lost 1-0 to Spain in the World Cup final, the president of the “Argentine Football Association\" (AFA) described the accusations received by the players and coaching staff from the press as a \"miserable campaign\" In a letter signed as \"CT\", Chiqui Tapia posted on his social media a text that focuses on the claims that cast doubt on the players' attitude during the match. According to him, there was an attempt to push the idea that the Argentina National Team \"had thrown the game\" \"El Chiqui\" claims there was an “operation” surrounding what happened in that match. According to Tapia, those who spread those versions would be part of a web of conspiracy theories that emerged after Argentina’s defeat at MetLife Stadium in New York. What stands out most is that, after a month, not one of them apologized.",
-   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/09/6a785d9954289.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
