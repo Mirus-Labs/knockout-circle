@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T18:55:47.170Z",
+ "updated": "2026-08-19T19:11:31.003Z",
  "news": [
   {
    "cat": "DIARIO AS",
@@ -52,14 +52,24 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "MARCA",
+   "title": "\"There's no coming back from this\": Chiqui Tapia breaks the silence after Argentina's controversial final at the World Cup",
+   "iso": "2026-08-19T16:43:52.000Z",
+   "link": "https://amp.marca.com/en/football/fifa-club-world-cup/2026/08/19/there-s-no-coming-back-from-this-chiqui-tapia-breaks-the-silence-after-argentina-s-controversial-final-at-the-world-cup.html",
+   "lede": "30 days after Argentina lost 1-0 to Spain in the World Cup final, the president of the “Argentine Football Association\" (AFA) described the accusations received by the players and coaching staff from the press as a \"miserable campaign\" In a letter signed as \"CT\", Chiqui Tapia posted on his social media a text that focuses on the claims that cast doubt on the players' attitude during the match. According to him, there was an attempt to push the idea that the Argentina National Team \"had thrown the game\" \"El Chiqui\" claims there was an “operation” surrounding what happened in that match. According to Tapia, those who spread those versions would be part of a web of conspiracy theories that emerged after Argentina’s defeat at MetLife Stadium in New York. What stands out most is that, after a month, not one of them apologized.",
+   "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/08/09/6a785d9954289.jpeg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE STRAITS TIMES",
    "title": "Balogun furore risks eroding faith in officiating, say Webb and Masters",
    "iso": "2026-08-19T16:31:56.000Z",
    "link": "https://www.straitstimes.com/sport/football/balogun-furore-risks-eroding-faith-in-officiating-say-webb-and-masters?ref=latest",
    "lede": "FILE PHOTO: Soccer Football - FIFA World Cup 2026 - Round of 32 - United States v Bosnia and Herzegovina - San Francisco Bay Area Stadium, Santa Clara, California, U.S. - July 1, 2026 Folarin Balogun of the U.S. is shown a red card by referee Raphael Claus REUTERS/Phil Noble / File Photo. LONDON, Aug 19 - The fallout from FIFA's decision to allow U.S. forward Folarin Balogun to play despite a World Cup red card risked undermining trust in football's disciplinary and officiating processes, warned the Premier League's refereeing head Howard Webb and chief executive Richard Masters. Balogun's dismissal was one of the most contentious episodes of the tournament after U.S. President Donald Trump publicly intervened and FIFA subsequently lifted the American striker's suspension through a process that critics said lacked transparency.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3e87e8b61dc2e7f472ef5e20c958891f6802a26e5f0fb3be270b387d323e605c",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -68,16 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
    "lede": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges. In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast, as a standing ovation in his final game demonstrated.",
    "image": "https://i.guim.co.uk/img/media/23eb6c026250e71446db354e33713c6872051035/1191_508_3215_2573/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd034fd4be8df4ab4ffa252104432dba",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
-   "iso": "2026-08-19T16:06:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
-   "lede": "USA striker missed no matches after sending-off. ‘Far too often now decisions are viewed as corrupt’. Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the new Premier League season, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time.",
-   "image": "https://i.guim.co.uk/img/media/342bc703db301440e0f8ea4bebf312b521b6339b/365_0_1847_1477/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7dd41b0b6deab91e3bcee423506a385",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
