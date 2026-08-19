@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T03:01:41.806Z",
+ "updated": "2026-08-19T03:12:39.878Z",
  "news": [
   {
    "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "COURANT.COM",
+   "cat": "HARTFORD COURANT",
    "title": "AP Interview: Klaveness slams Infantino’s FIFA for firing top executive in ‘management by fear’",
    "iso": "2026-08-18T21:48:34.000Z",
    "link": "https://www.courant.com/2026/08/18/ap-interview-klaveness-slams-infantinos-fifa-for-firing-top-executive-in-management-by-fear/",
@@ -72,12 +72,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "شفق نيوز",
-   "title": "Shafaq News..Barcelona sign World Cup-winning captain Rodri from Man City",
-   "iso": "2026-08-18T18:49:54.000Z",
-   "link": "https://shafaq.com/en/sport/Barcelona-sign-World-Cup-winning-captain-Rodri-from-Man-City",
-   "lede": "Barcelona officially signed Spain captain Rodri from Manchester City on Tuesday on a contract through June 30, 2030. The master of space and time touches down in Barcelona ⏱️ pic.twitter.com/BESJxrGg3w. The 30-year-old joins for a reported fee of about $89 million after Barcelona beat Real Madrid to his signature. He arrives after captaining Spain to the 2026 World Cup title and winning the tournament’s Golden Ball, two years after claiming the 2024 Ballon d’Or.",
-   "image": "https://media.shafaq.com/media/arcella/1787077221915.webp",
+   "cat": "GUARDIAN.NG",
+   "title": "Nigerian fans drive SuperSport’s 19.1bn World Cup digital views",
+   "iso": "2026-08-19T03:03:47.000Z",
+   "link": "https://guardian.ng/sport/nigerian-fans-drive-supersports-19-1bn-world-cup-digital-views/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
