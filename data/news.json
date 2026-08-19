@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-19T04:02:23.827Z",
+ "updated": "2026-08-19T04:52:53.682Z",
  "news": [
+  {
+   "cat": "NINE.COM.AU",
+   "title": "Socceroos’ World Cup heroics trigger $100m transfer bonanza",
+   "iso": "2026-08-19T04:22:01.000Z",
+   "link": "https://www.nine.com.au/sport/football/transfer-news-australian-players-surpass-100-million-alessandro-circati-benfica-socceroos-20260819-p60pku.html",
+   "lede": "The Socceroos may have only made it to the first round of the knockouts at the FIFA World Cup, but it was enough to impress some of the biggest clubs in Europe. On Wednesday morning (AEST), news broke Portuguese club Benfica was on the verge of signing defender Alessandro Circati on a $33 million deal. Alessandro Circati is on the verge of signing a monster deal with Porguguese club Benfica. Should the deal be signed, sealed and delivered, it would take the total transfer fees paid for Australian stars well beyond $100 million.",
+   "image": "https://static.ffx.io/images/$zoom_1.034%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_66/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/18f9c29e498f3a4840bc39caf8b1878913b80b5688f13c80688ef4f00cc6b140",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FOX SPORTS",
    "title": "Socceroos ace in surprise $32m move; Aussie World Cup star’s sudden exit — Whispers",
@@ -8,18 +18,28 @@
    "link": "https://www.foxsports.com.au/football/transfers/football-transfers-2026-parma-agree-to-transfer-alessandro-circati-to-benfica-for-20-million-mo-toure-linked-to-portuguese-giants-sporting-cp-reunion-with-nestory-irankunda-latest-news/news-story/3936859375f327c703c7b8f32d2e1563",
    "lede": "Another Socceroos star is reportedly heading to Portugal on a monster transfer. And a teammate could be set to unite with childhood friend Nestory Irankunda, as the European country becomes a haven for some of Australia’s brightest talents. Catch up on all the latest moves and whispers in Football Transfers. Watch the biggest Aussie sports & the best from overseas LIVE on Kayo Sports | New to Kayo?",
    "image": "https://content.api.news/v3/images/bin/51cd143e6b596a09585b2ef423695153",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "ABC.NET.AU",
+   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
    "title": "FIFA accused of 'management by fear' after key executive's sudden exit",
    "iso": "2026-08-18T23:57:52.000Z",
    "link": "https://www.abc.net.au/news/2026-08-19/fifa-fear-tactics-accusations-klaveness-lamour-infantino/107053144",
    "lede": "Lise Klaveness (right) has issued a blistering criticism of FIFA following the exit of a senior official. (Getty Images: Eva Marie Uzcategui). Lise Klaveness, the head of Norwegian football, believes FIFA is exhibiting \"management by fear\" after the exit of COO Kevin Lamour. Lamour was one of the FIFA executives who was outspoken against president Gianni Infantino's controversial plan to sell off the World Cup.",
    "image": "https://live-production.wcms.abc-cdn.net.au/9a0e4d5aba9b48fef79b783434838035?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "FRIENDSOFFOOTBALLNZ.COM",
+   "title": "WATCH: Squad set for tough group challenge at FIFA U-20 Women’s World Cup",
+   "iso": "2026-08-18T23:22:31.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/08/19/watch-squad-set-for-tough-group-challenge-at-fifa-u-20-womens-world-cup/",
+   "lede": "Members of the New Zealand squad are ‘ready for the challenge’ of playing at September’s FIFA U-20 Women’s World Cup in Poland. “We’ve been drawn into a very competitive group,” says head coach Callum Holmes. “Japan, Italy and the United States are all strong football nations with different strengths and styles of play, so every match will present a unique challenge. Starting against Japan for the second consecutive tournament gives us a familiar benchmark, and we know we’ll need to be at our very best if we’re going to progress.”",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/08/Alyssha-Eglinton.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "CARIBBEANLIFE.COM",
@@ -28,8 +48,8 @@
    "link": "https://www.caribbeanlife.com/jamaica-co-host-2031-fifa-womens-world-cup/",
    "lede": "The Jamaican Government and Jamaica Football Federation (JFF) signed guarantee agreements recently, marking a major step towards co-hosting the 2031 FIFA Women’s World Cup. Minister of Culture, Gender, Entertainment and Sport Olivia Grange, together with JFF President Michael Ricketts, both signed the agreement which commits both entities to working with FIFA as the country prepares to host the tournament alongside the United States, Costa Rica and Mexico. “With the signing, the Government of Jamaica and the Jamaica Football Federation will partner with FIFA in fulfilling the responsibilities and deliverables associated with Jamaica’s hosting obligations. These include establishing legal mechanisms for guarantees, bonds, declarations,” Grange said at the signing ceremony.",
    "image": "https://www.caribbeanlife.com/wp-content/uploads/2026/08/2026-08-11T090244Z_107454915_RC256X9H1RCG_RTRMADP_3_SOCCER-FIFA-OCEANIA.jpg?quality=51&w=1200&p=q",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "HARTFORD COURANT",
@@ -38,8 +58,8 @@
    "link": "https://www.courant.com/2026/08/18/ap-interview-klaveness-slams-infantinos-fifa-for-firing-top-executive-in-management-by-fear/",
    "lede": "GENEVA (AP) — Norway’s soccer federation president on Tuesday accused FIFA of fear tactics for the removal of a senior official who publicly opposed FIFA leader Gianni Infantino’s now-withdrawn World Cup sell-off plan. Lise Klaveness, who heads the Norwegian Football Federation since 2022, told The Associated Press that the firing of FIFA’s chief operating officer Kevin Lamour was “unacceptable” and urged other senior leaders to resist potentially damaging orders. Lamour’s exit late Monday came 17 days after his statement to AP criticizing Infantino’s $20 billion private equity project, which was withdrawn just hours later. “Now he is thrown out and we are supposed to move on.",
    "image": "https://www.courant.com/wp-content/uploads/2026/08/FIFA_Executive_Leaves_12985-1.jpg?w=2644&h=1763",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FREE MALAYSIA TODAY",
@@ -48,8 +68,8 @@
    "link": "https://www.freemalaysiatoday.com/category/sports/2026/08/19/premier-league-chief-says-infantino-hit-self-destruct-with-world-cup-plan",
    "lede": "Premier League chief executive Richard Masters said Fifa should never have contemplated selling a stake in the World Cup. (Premier League pic) LONDON: Premier League chief executive Richard Masters says under-fire Fifa president Gianni Infantino pressed the \"self-destruct button\" over his botched plan to bring private investment into the World Cup. Kevin Lamour, who broke ranks with senior directors at world football's governing body last month and issued a scathing statement criticising Infantino over the plans, left his job as Fifa's chief operating officer on Monday. Uefa has been a vocal critic of Infantino and England's Football Association has also withdrawn its support for the Fifa president.",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/9c6a5e8d-9d29-4fe3-a4db-9779a0c98c7d-Richard-Masters.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LIVESCORE",
@@ -58,26 +78,6 @@
    "link": "https://www.livescore.com/en/news/football/world-cup/premier-league-ceo-piles-on-fifa-gianni-infantino-over-failed-world-cup-plot-si/",
    "lede": "There has been no shortage of backlash aimed at FIFA and Gianni Infantino in the wake of the president’s shock attempt to sell stakes of future World Cups to private investors, and even more has now emerged. Although FIFA scrapped its $20 billion plan just days after it was leaked to the press, Infantino’s image—as well as that of FIFA—has yet to recover, and may not for a long time. English Premier League CEO Richard Masters had no remorse for Infantino on Tuesday, instead exclaiming his support of the FA and UEFA, both of whom have publicly condemned the president and spoken out for his removal. UEFA is even maintaining boycott threats against FIFA competitions, which the confederation claims will continue to stand unless FIFA can provide assurance that it will never slap a “for sale” sign on soccer ever again.",
    "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
-   "iso": "2026-08-18T20:23:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach",
-   "lede": "Former Arsenal captain succeeds Pape Thiaw. Senegal reached last 32 of this summer’s World Cup. Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’s football federation announced, succeeding Pape Thiaw, who was dismissed in the wake of their World Cup exit. The appointment of Vieira, who was born in Senegal, is a “strategic move”, the federation said in a social media post, aiming to “establish a high-level technical staff, in line with our country’s sporting ambitions”.",
-   "image": "https://i.guim.co.uk/img/media/652169143719dae14b433f81ab3606ade46987e1/369_0_4026_3220/master/4026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e98479e295b6989aee8cc86cb0d525d4",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NINE.COM.AU",
-   "title": "All eyes on City after Haaland’s insane World Cup popularity boost",
-   "iso": "2026-08-18T20:17:26.000Z",
-   "link": "https://www.nine.com.au/sport/football/premier-league-season-preview-world-cup-standout-players-erling-haaland-bruno-guimaraes-elliot-enderson-pedro-porro-morgan-rogers-20260816-p60ou5.html",
-   "lede": "As the dust settles on Spain’s North American World Cup triumph, the European club season is ready to take centre stage once again. Arsenal are the reigning champions of the league after a dominant performance last season saw the club end its 22-year Premier League title drought. Bruno Guimaraes in action during the pre-season. The Gunners had 15 players in their squad called up to represent their nation on the global stage, donning 11 different national team colours.",
-   "image": "https://static.ffx.io/images/$zoom_0.357%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_243%2C$y_11/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/dd9c7a2dd37b0564509958874bc1782c4c9b8916c5eb29fa8f41943b36da17f7",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
