@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T14:21:46.949Z",
+ "updated": "2026-08-20T14:56:15.231Z",
  "news": [
   {
    "cat": "THE STAR",
@@ -12,14 +12,33 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "SPORTS247 NIGERIA",
+   "title": "Senate Sports Committee Summons NFF, NSC Over Nigeria’s World Cup Failures",
+   "iso": "2026-08-20T13:47:45.000Z",
+   "link": "https://www.sports247.ng/senate-sports-committee-summons-nff-nsc-over-nigerias-world-cup-failures/",
+   "lede": "The Senate Committee on Sports, led by Chairman Abdul Ahmed Ningi, has expressed serious concern over Nigeria’s recent football setbacks, particularly the failure of both senior national teams to qualify for their respective FIFA World Cups. The committee met with National Sports Commission Chairman Shehu Dikko and Nigeria Football Federation President Ibrahim Musa Gusau on Wednesday to seek explanations for the country’s declining fortunes. Ningi said the meeting was convened to understand why Nigeria’s national teams have continued to struggle despite the significant motivational support provided by President Bola Ahmed Tinubu to players and officials. The committee’s concern comes after the Super Eagles failed to qualify for the 2026 FIFA World Cup, while the Super Falcons also missed out on the 2027 FIFA Women’s World Cup for the first time in their history.",
+   "image": "https://www.sports247.ng/wp-content/uploads/2026/08/Ahmed-Ningi.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "SPORTSTAR",
    "title": "FIFA Women’s World Cup 2027 — Maracana to host opener and final; Brazil to play opener on June 24",
    "iso": "2026-08-20T13:41:48.000Z",
    "link": "https://sportstar.thehindu.com/football/womens-football/fifa-womens-world-cup-2027-maracana-to-host-final-brazil-starts-on-june-24-spain-defending-champion-schedule/article71369491.ece",
-   "lede": "AP AP https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/FREE_1200/WCup_Women_Next_Soccer_34822.jpg Alessandra Tarantino FILE - Team Spain celebrates with the trophy after winning the Women's World Cup soccer final against England at Stadium Australia in Sydney, Australia, August 20, 2023. (AP Photo/Alessandra Tarantino, File) The 2027 edition of the FIFA Women’s World Cup will be played across eight cities in Brazil, with each city staging at least seven matches at the tournament. Chennai The iconic Maracanã Stadium in Rio De Janeiro will host the final of the FIFA Women’s World Cup 2027, the International Football Association (FIFA) announced on Thursday. The announcement was made when the governing body released the World Cup schedule using placeholders, confirming when and where all 64 fixtures will be played across eight cities in Brazil.",
+   "lede": "FIFA Women’s World Cup 2027 — Maracana to host opener and final; Brazil to start WC on June 24 left Spain will begin the 2027 Women’s World Cup as the defending champion, having beaten England in the final three years ago. AP AP https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/FREE_1200/WCup_Women_Next_Soccer_34822.jpg Alessandra Tarantino FILE - Team Spain celebrates with the trophy after winning the Women's World Cup soccer final against England at Stadium Australia in Sydney, Australia, August 20, 2023. (AP Photo/Alessandra Tarantino, File) The 2027 edition of the FIFA Women’s World Cup will be played across eight cities in Brazil, with each city staging at least seven matches at the tournament.",
    "image": "https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/LANDSCAPE_1200/WCup_Women_Next_Soccer_34822.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SPORTS247 NIGERIA",
+   "title": "'We Let Nigeria Down' — Echegini Apologises After Super Falcons' Historic World Cup Failure",
+   "iso": "2026-08-20T13:30:42.000Z",
+   "link": "https://www.sports247.ng/we-let-nigeria-down-echegini-apologises-after-super-falcons-historic-world-cup-failure/",
+   "lede": "Super Falcons midfielder Jennifer Echegini has apologised to Nigerians following the team’s disappointing campaign at the 2026 Women’s Africa Cup of Nations and their failure to qualify for the 2027 FIFA Women’s World Cup. Nigeria entered the tournament as defending champions but failed to reach the semi-finals after a 1–0 quarter-final defeat to Cameroon. READ ALSO: Echegini Urges Better Preparation for Super Falcons Ahead of Major Tournaments. The Super Falcons were subsequently given another opportunity to reach the World Cup through the CAF play-off, but suffered a 2–1 defeat to South Africa, ending their hopes of qualifying for the tournament in Brazil.",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LBC.CO.UK",
@@ -28,8 +47,18 @@
    "link": "https://www.lbc.co.uk/article/fan-petition-fifa-gianni-infantino-resign-5HjdgKm_2/",
    "lede": "Fan organisations have branded the Fifa president's plan to sell off the World Cup to private investors as \"shameful\". Want LBC stories before everyone else? Set us as your Preferred Source on Google. Football fans have launched a global petition calling for Gianni Infantino to resign as president of Fifa as he continues to face mounting pressure to step down over his \"shameful\" World Cup sell-off plan.",
    "image": "https://images.globalplayer.com/images/836441?crop=16_9&width=1200&signature=jrj4sw_4GudKH0rWY08Q-lI6-aA=",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "REDIFF",
+   "title": "'There is no way out': Infantino faces FIFA revolt",
+   "iso": "2026-08-20T12:34:50.000Z",
+   "link": "https://m.rediff.com/amp/sports/report/there-is-no-way-out-infantino-faces-fifa-revolt/20260820.htm",
+   "lede": "Regional football powerhouses, including UEFA, AFC, and CONCACAF, are reportedly discussing a vote of no confidence against FIFA President Gianni Infantino. This move comes after Infantino angered them with a proposal to sell a stake in the World Cup to private investors. Despite significant opposition, Infantino retains support from some member associations, particularly from Africa, complicating any challenge to his leadership ahead of the 2027 election.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/aug/20infantino.JPG",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "INDIA TODAY",
@@ -38,18 +67,8 @@
    "link": "https://www.indiatoday.in/amp/sports/football/story/gianni-infantino-fifa-world-cup-investor-row-fans-petition-resign-2975899-2026-08-20",
    "lede": "Football supporters' organisations from several parts of the world have joined forces to demand the resignation of FIFA president Gianni Infantino, following controversy over his reported attempt to offer future World Cup revenues to private investors. The campaign, launched on Thursday under the hashtag #InfantinoOut, also urges a major overhaul of FIFA's governance, arguing that the organisation needs to be restructured to prevent similar controversies from occurring again. \"The shameful attempt by one individual - the FIFA President himself - to sell off the World Cup to private investors exposed a betrayal football will never forget,\" the petition said about Infantino's plan for a commercial spinoff. Among the groups backing the petition are Football Supporters Europe, Football Supporters Africa and the Independent Supporters Council in North America.",
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino-fifa-privatisation-plan-scraps-backlash-014018761-16x9_4.jpg?VersionId=L4UpLTwSkMo.PMHeum1mY9pWK.qx524R",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "EURONEWS.COM",
-   "title": "One year to go: Qatar counts down to 2027 FIBA Basketball World Cup",
-   "iso": "2026-08-20T11:25:59.000Z",
-   "link": "https://www.euronews.com/2026/08/20/one-year-to-go-qatar-counts-down-to-2027-fiba-basketball-world-cup",
-   "lede": "Qatar is one year away from the FIBA Basketball World Cup, when 32 national teams and some of the sport’s biggest stars will compete in Doha. The tournament, running from 27 August to 12 September 2027, will be the first edition hosted in the Middle East, with 92 games played across four arenas. One of the most visible changes is taking place at a familiar venue from the 2022 FIFA World Cup. Al Janoub Stadium has been transformed into Al Janoub Arena, an 8,200-seat basketball venue that will host its first game next week.",
-   "image": "https://images.euronews.com/articles/stories/09/88/05/47/1200x675_cmsv2_69d92f1e-a612-5536-9b08-5c4d186484aa-9880547.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "VANGUARD NEWS",
@@ -58,25 +77,6 @@
    "link": "https://www.vanguardngr.com/2026/08/nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures/",
    "lede": "The leadership of the Nigeria Football Federation (NFF) is reportedly facing mounting pressure from the National Sports Commission (NSC) amid growing concerns over the administration and performance of Nigerian football.",
    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/nff-abuja.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "2026 Big Ten college football predictions: Oregon, OSU are loaded, but will Indiana repeat?",
-   "iso": "2026-08-20T13:56:29.000Z",
-   "link": "https://www.nytimes.com/athletic/7522225/2026/08/20/big-ten-football-predictions-2026-standings/",
-   "lede": "Indiana, Oregon and Ohio State all have cases for No. 1 in the preseason. And who might surprise in the Big Ten?",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19155804/2026-01-10T024717Z_1696450819_MT1USATODAY27970814_RTRMADP_3_NCAA-FOOTBALL-PEACH-BOWL-OREGON-VS-INDIANA.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "OLYMPICS.COM",
-   "title": "FIFA Women’s World Cup 2027 Play-off Tournament featuring South Africa, Ghana and more - preliminary phase draw and finals match schedule announced",
-   "iso": "2026-08-20T13:09:00.000Z",
-   "link": "https://www.olympics.com/en/news/fifa-womens-world-cup-2027-play-off-tournament-preliminary-phase-draw-match-schedule-announced",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
