@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-20T14:01:44.258Z",
+ "updated": "2026-08-20T14:21:46.949Z",
  "news": [
+  {
+   "cat": "THE STAR",
+   "title": "Football: Soccer-Brazil's iconic Maracana to stage Women's World Cup opener and final in 2027",
+   "iso": "2026-08-20T13:57:00.000Z",
+   "link": "https://www.thestar.com.my/sport/football/2026/08/20/soccer-brazil039s-iconic-maracana-to-stage-women039s-world-cup-opener-and-final-in-2027",
+   "lede": "Aug 20 (Reuters) - ⁠Brazil will stage the opening game and final of the 2027 ⁠Women's World Cup at Rio de Janeiro's Maracana Stadium, according ‌to the match schedule unveiled on Thursday for the 32-team tournament. The hosts kick off the event on June 24 in a fitting opening to the first Women's World Cup ​held in South America, with the Maracana -- one ⁠of the game's most famous ⁠venues and the site of Brazil's heartbreak defeat by Uruguay in the ⁠1950 ‌men's World Cup decider -- also hosting the July 25 final. FIFA confirmed that all eight host cities will stage at least seven ⁠matches and a minimum of one knockout game. Brasilia, Porto ​Alegre, Recife and ‌Salvador will stage matches through to the last 16, while Belo ⁠Horizonte, Fortaleza, ​Rio de Janeiro and Sao Paulo will hold the quarter-finals.",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4070094.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SPORTSTAR",
    "title": "FIFA Women’s World Cup 2027 — Maracana to host opener and final; Brazil to play opener on June 24",
@@ -8,8 +18,8 @@
    "link": "https://sportstar.thehindu.com/football/womens-football/fifa-womens-world-cup-2027-maracana-to-host-final-brazil-starts-on-june-24-spain-defending-champion-schedule/article71369491.ece",
    "lede": "AP AP https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/FREE_1200/WCup_Women_Next_Soccer_34822.jpg Alessandra Tarantino FILE - Team Spain celebrates with the trophy after winning the Women's World Cup soccer final against England at Stadium Australia in Sydney, Australia, August 20, 2023. (AP Photo/Alessandra Tarantino, File) The 2027 edition of the FIFA Women’s World Cup will be played across eight cities in Brazil, with each city staging at least seven matches at the tournament. Chennai The iconic Maracanã Stadium in Rio De Janeiro will host the final of the FIFA Women’s World Cup 2027, the International Football Association (FIFA) announced on Thursday. The announcement was made when the governing body released the World Cup schedule using placeholders, confirming when and where all 64 fixtures will be played across eight cities in Brazil.",
    "image": "https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/LANDSCAPE_1200/WCup_Women_Next_Soccer_34822.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "LBC.CO.UK",
@@ -18,8 +28,8 @@
    "link": "https://www.lbc.co.uk/article/fan-petition-fifa-gianni-infantino-resign-5HjdgKm_2/",
    "lede": "Fan organisations have branded the Fifa president's plan to sell off the World Cup to private investors as \"shameful\". Want LBC stories before everyone else? Set us as your Preferred Source on Google. Football fans have launched a global petition calling for Gianni Infantino to resign as president of Fifa as he continues to face mounting pressure to step down over his \"shameful\" World Cup sell-off plan.",
    "image": "https://images.globalplayer.com/images/836441?crop=16_9&width=1200&signature=jrj4sw_4GudKH0rWY08Q-lI6-aA=",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "INDIA TODAY",
@@ -28,8 +38,8 @@
    "link": "https://www.indiatoday.in/amp/sports/football/story/gianni-infantino-fifa-world-cup-investor-row-fans-petition-resign-2975899-2026-08-20",
    "lede": "Football supporters' organisations from several parts of the world have joined forces to demand the resignation of FIFA president Gianni Infantino, following controversy over his reported attempt to offer future World Cup revenues to private investors. The campaign, launched on Thursday under the hashtag #InfantinoOut, also urges a major overhaul of FIFA's governance, arguing that the organisation needs to be restructured to prevent similar controversies from occurring again. \"The shameful attempt by one individual - the FIFA President himself - to sell off the World Cup to private investors exposed a betrayal football will never forget,\" the petition said about Infantino's plan for a commercial spinoff. Among the groups backing the petition are Football Supporters Europe, Football Supporters Africa and the Independent Supporters Council in North America.",
    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino-fifa-privatisation-plan-scraps-backlash-014018761-16x9_4.jpg?VersionId=L4UpLTwSkMo.PMHeum1mY9pWK.qx524R",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "EURONEWS.COM",
@@ -38,28 +48,28 @@
    "link": "https://www.euronews.com/2026/08/20/one-year-to-go-qatar-counts-down-to-2027-fiba-basketball-world-cup",
    "lede": "Qatar is one year away from the FIBA Basketball World Cup, when 32 national teams and some of the sport’s biggest stars will compete in Doha. The tournament, running from 27 August to 12 September 2027, will be the first edition hosted in the Middle East, with 92 games played across four arenas. One of the most visible changes is taking place at a familiar venue from the 2022 FIFA World Cup. Al Janoub Stadium has been transformed into Al Janoub Arena, an 8,200-seat basketball venue that will host its first game next week.",
    "image": "https://images.euronews.com/articles/stories/09/88/05/47/1200x675_cmsv2_69d92f1e-a612-5536-9b08-5c4d186484aa-9880547.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "KSL NEWS",
-   "title": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal'",
-   "iso": "2026-08-20T11:03:03.000Z",
-   "link": "https://www.ksl.com/article/51612050/soccer-fans-launch-global-petition-urging-fifa-boss-infantino-to-resign-over-world-cup-betrayal",
-   "lede": "GENEVA — A collection of soccer fan groups from around the world launched a petition Thursday calling for Gianni Infantino to resign as FIFA president after he tried to sell future World Cup profits to private investors. The petition with the hashtag InfantinOut also calls for \"FIFA to be rebuilt so that the current debacle can never happen again.\" \"The shameful attempt by one individual — the FIFA President himself — to sell off the World Cup to private investors exposed a betrayal football will never forget,\" the petition said about Infantino's plan for a commercial spinoff, which he dropped amid a furious backlash. The fan groups include Football Supporters Europe, Football Supporters Africa and, in North America, the Independent Supporters Council, plus about 40 national fan groups worldwide.",
-   "image": "https://img.ksl.com/slc/3198/319851/31985113.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Ohio State football 2026 watch guide: TV, streaming, schedule for national title chase",
-   "iso": "2026-08-20T11:00:21.000Z",
-   "link": "https://www.nytimes.com/athletic/7520337/2026/08/20/ohio-state-football-2026-tv-schedule-jeremiah-smith/",
-   "lede": "Helmets get stickers and the \"i\" gets dotted. The Ohio State Buckeyes are back. Here's how to watch their 2026 regular-season schedule.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17194809/2025-11-01T180215Z_5395543_MT1USATODAY27474124_RTRMADP_3_OHIO-STATE-BUCKEYES-WIDE-RECEIVER-JEREMIAH-SMITH-4-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "VANGUARD NEWS",
+   "title": "NFF faces FG sanctions after Super Eagles, Falcons World Cup failures",
+   "iso": "2026-08-20T14:05:09.000Z",
+   "link": "https://www.vanguardngr.com/2026/08/nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures/",
+   "lede": "The leadership of the Nigeria Football Federation (NFF) is reportedly facing mounting pressure from the National Sports Commission (NSC) amid growing concerns over the administration and performance of Nigerian football.",
+   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/nff-abuja.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "2026 Big Ten college football predictions: Oregon, OSU are loaded, but will Indiana repeat?",
+   "iso": "2026-08-20T13:56:29.000Z",
+   "link": "https://www.nytimes.com/athletic/7522225/2026/08/20/big-ten-football-predictions-2026-standings/",
+   "lede": "Indiana, Oregon and Ohio State all have cases for No. 1 in the preseason. And who might surprise in the Big Ten?",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19155804/2026-01-10T024717Z_1696450819_MT1USATODAY27970814_RTRMADP_3_NCAA-FOOTBALL-PEACH-BOWL-OREGON-VS-INDIANA.jpg?width=1200&height=630&fit=cover",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "OLYMPICS.COM",
@@ -67,16 +77,6 @@
    "iso": "2026-08-20T13:09:00.000Z",
    "link": "https://www.olympics.com/en/news/fifa-womens-world-cup-2027-play-off-tournament-preliminary-phase-draw-match-schedule-announced",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Newcastle agree to buy land for new £190m training ground",
-   "iso": "2026-08-20T13:03:35.000Z",
-   "link": "https://www.nytimes.com/athletic/7526528/2026/08/20/newcastle-training-ground-land-purchase/",
-   "lede": "The club have now completed the land-purchase deal for the Woolsington Hall estate.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20085410/77078289-3676-4e22-a8a5-ad08cc70b947.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
