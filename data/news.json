@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T12:03:04.840Z",
+ "updated": "2026-08-20T12:16:46.459Z",
  "news": [
   {
    "cat": "KSL NEWS",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "FLASHSCORE.COM",
+   "title": "Star forwards Salah and Marmoush headline Egypt's 2026 World Cup squad",
+   "iso": "2026-08-20T08:54:24.000Z",
+   "link": "https://www.flashscore.com/news/football-world-championship-star-forwards-salah-and-marmoush-headline-egypt-s-2026-world-cup-squad/zH5cucYF/",
+   "lede": "The squad lineup ‌featured few surprises, except for the inclusion ‌of rising striker Hamza Abdelkarim. ‌. The 18-year-old is on loan from Egyptian giants Al Ahly to Barcelona Atletic, ‌the reserve side of the ⁠LaLiga ‌champions. Manchester City forward Omar Marmoush, who scored ​eight goals in 36 appearances for his club this season, ​is expected to lead Egypt’s attack in the tournament. Egypt will begin their ⁠World Cup ​campaign against Belgium on June 15th in Seattle as part of Group G, which also includes New Zealand and ‌Iran.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/0e34c5af-cd78-4c3c-8d53-de6f1cc14a4f.jpeg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Jonas Urbig grateful about his World Cup experience",
    "iso": "2026-08-20T08:30:00.000Z",
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/240175/jonas-urbig-grateful-about-his-world-cup-experience",
    "lede": "Jonas Urbig is a name that is quickly becoming a hot topic in German football. Hailed as the next replacement for Manuel Neuer (after Alexander Nübel ultimately fell short), Urbig has had some memorable performances over the last year, and impressed enough for Julian Nagelsmann to send him overseas to join Die Mannschaft as part of the practice squad for the World Cup. “We were all knocked out together; I was part of the group. Even so, it was an incredible experience for me; I got a taste of tournament life and learnt a lot,” said a bittersweet Urbig looking back on the World Cup this summer, as captured by @iMiaSanMia.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2283416640.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "EWN",
@@ -48,8 +58,8 @@
    "link": "https://www.ewn.co.za/2026/08/20/grant-johnson-revelations-raise-questions-over-bafana-bafana-s-world-cup-camp",
    "lede": "Former Bafana Bafana goalkeeper coach Grant Johnson has lifted the lid on some of his experiences with the national team, suggesting that not everything behind the scenes before and during the 2026 FIFA World Cup went as smoothly as it appeared from the outside. Johnson, who was part of Hugo Broos’ technical team at the World Cup, made the revelations during an appearance on Peter du Toit’s Soccer Beat podcast. His comments have sparked debate among South African football supporters, particularly around the administration and logistical preparation of the national team. According to Johnson, some of the problems experienced by the team were outside the control of the South African Football Association (SAFA), while others, in his view, could have been prevented.",
    "image": "https://media-cache.primedia-service.com/media/0sqf0m3m/grant-johnson.jpg?width=1200&height=630",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "COMMBANK MATILDAS",
@@ -58,8 +68,8 @@
    "link": "https://matildas.com.au/news/fifa-set-announce-fifa-womens-world-cup-brazil-2027tm-match-schedule",
    "lede": "FIFA are set to release the FIFA Women's World Cup Brazil 2027™ Match Schedule tonight in Zurich. The schedule will be released alongside the draw for the upcoming Play-Off Tournament, which will see six teams battle for a spot in the final phase of the inter-confederation play-offs. The draw for the Play-Off Tournament will take place at the Home of FIFA in Zurich at 10pm AEST on Thursday, 20 August 2026 and will be streamed live on FIFA.com, TikTok and YouTube. An additional highlight of the live draw will be the release of the match schedule for the final tournament.",
    "image": "https://matildas.com.au/sites/default/files/2026-08/Cover%20Schedule%20how%20to%20watch.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "REUTERS",
@@ -67,16 +77,6 @@
    "iso": "2026-08-20T11:11:44.000Z",
    "link": "https://www.reuters.com/sports/soccer/fan-groups-back-online-petition-calling-infantinos-resignation-fifa-reforms-2026-08-20/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Fantasy football ADP winners from Malik Willis to Courtland Sutton",
-   "iso": "2026-08-20T11:00:28.000Z",
-   "link": "https://www.nytimes.com/athletic/7524120/2026/08/20/fantasy-football-undervalued-adp-willis-sutton/",
-   "lede": "Michael Salfino identifies his favorite players who the fantasy football draft market is snubbing.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19122306/GettyImages-2290002964.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
