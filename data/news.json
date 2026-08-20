@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T14:56:15.231Z",
+ "updated": "2026-08-20T15:17:56.170Z",
  "news": [
   {
    "cat": "THE STAR",
@@ -61,22 +61,21 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "INDIA TODAY",
-   "title": "Resign Gianni Infantino: Football fans launch petition for sacking of FIFA President",
-   "iso": "2026-08-20T12:33:16.000Z",
-   "link": "https://www.indiatoday.in/amp/sports/football/story/gianni-infantino-fifa-world-cup-investor-row-fans-petition-resign-2975899-2026-08-20",
-   "lede": "Football supporters' organisations from several parts of the world have joined forces to demand the resignation of FIFA president Gianni Infantino, following controversy over his reported attempt to offer future World Cup revenues to private investors. The campaign, launched on Thursday under the hashtag #InfantinoOut, also urges a major overhaul of FIFA's governance, arguing that the organisation needs to be restructured to prevent similar controversies from occurring again. \"The shameful attempt by one individual - the FIFA President himself - to sell off the World Cup to private investors exposed a betrayal football will never forget,\" the petition said about Infantino's plan for a commercial spinoff. Among the groups backing the petition are Football Supporters Europe, Football Supporters Africa and the Independent Supporters Council in North America.",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/gianni-infantino-fifa-privatisation-plan-scraps-backlash-014018761-16x9_4.jpg?VersionId=L4UpLTwSkMo.PMHeum1mY9pWK.qx524R",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "VANGUARD NEWS",
    "title": "NFF faces FG sanctions after Super Eagles, Falcons World Cup failures",
    "iso": "2026-08-20T14:05:09.000Z",
    "link": "https://www.vanguardngr.com/2026/08/nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures/",
    "lede": "The leadership of the Nigeria Football Federation (NFF) is reportedly facing mounting pressure from the National Sports Commission (NSC) amid growing concerns over the administration and performance of Nigerian football.",
    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/nff-abuja.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "OLYMPICS.COM",
+   "title": "FIFA Women’s World Cup 2027 Play-off Tournament featuring South Africa, Ghana and more - preliminary phase draw and finals match schedule announced",
+   "iso": "2026-08-20T13:09:00.000Z",
+   "link": "https://www.olympics.com/en/news/fifa-womens-world-cup-2027-play-off-tournament-preliminary-phase-draw-match-schedule-announced",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
