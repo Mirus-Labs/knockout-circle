@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T00:01:31.498Z",
+ "updated": "2026-08-20T01:34:05.946Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "BBC",
+   "title": "World Cup 2026: Racism suffered by England players on X amplified by algorithms - new report",
+   "iso": "2026-08-19T23:02:14.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c2k7en0lxkjo",
+   "lede": "A number of England players were a target for racist abuse. Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research. The activist group Hope Not Hate analysed more than 300,000 posts on the platform X (formerly Twitter) during the 2026 World Cup and found more than 5,500 explicitly racist posts targeting England players. The organisation argues that X's recommender algorithm pushed toxic content into millions of feeds, because posts which provoke anger and outrage can generate more interaction.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8d5c/live/8c405a40-9bf0-11f1-8470-d18257d2d589.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "NZ SPORTS WIRE",
    "title": "NZ squad named for FIFA U-20 Women's World Cup",
-   "iso": "2026-08-19T22:10:01.000Z",
+   "iso": "2026-08-19T21:47:39.000Z",
    "link": "https://www.nzsportswire.com/post/nz-squad-named-for-fifa-u-20-women-s-world-cup",
    "lede": "Head coach Callum Holmes has named his 21-player squad for the FIFA U-20 Women's World Cup in Poland set for September 5 – 27. There is still some concern for the tournament over possible boycotts by different nations regarding FIFA leadership. NZ Tall Ferns just beaten by Brazil. However he French Football Federation was first to clarify that it would participate in the upcoming U=20 World Cup, followed by support from New Zealand, and later Canada and Brazil.",
    "image": "https://static.wixstatic.com/media/2a9e9c_c9a7ba6dcd114016b9517383d7ac0a4b~mv2.jpg/v1/fill/w_1200,h_675,al_c/2a9e9c_c9a7ba6dcd114016b9517383d7ac0a4b~mv2.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE MIRROR",
@@ -38,8 +48,8 @@
    "link": "https://www.mirror.co.uk/sport/football/news/howard-webb-balogun-world-cup-37571223",
    "lede": "Pro Ref (formerly PGMOL) chief Howard Webb insists he was left \"really troubled\" by the decision to overturn Folarin Balogun's World Cup red card following political interference. Webb, who is about to embark on his fifth season as Chief Refereeing Officer, notes the call has sparked unfair claims of widespread \"corruption\" - which he feels is incredibly dangerous for the game's image. The 55-year-old said: \"I was really troubled by it, really. I don't know the ins and outs of the process, obviously, what happened in the end, but the fact that we know... well, what do we know?",
    "image": "https://i2-prod.mirror.co.uk/article37571215.ece/ALTERNATES/s1200d/0_GettyImages-2276546786.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "JACOBIN",
@@ -48,8 +58,8 @@
    "link": "https://jacobin.com/2026/08/fifa-football-private-equity-infantino",
    "lede": "Football confederations revolted against Gianni Infantino’s plan to sell off stakes in the World Cup. But the failure of his scheme won’t affect the bigger picture as private-equity firms gobble up football clubs in pursuit of short-term gains. While football clubs are relatively high-risk assets, the willingness of fans to support their local teams will persist in spite of economic uncertainty. Private equity firms want to exploit this loyalty, and they’ve been investing heavily in the sport.",
    "image": "https://media.jacobin.com/images/2026/8/352672040724.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DIARIO AS",
@@ -58,8 +68,8 @@
    "link": "https://en.as.com/soccer/azcarraga-i-dont-see-a-world-cup-in-mexico-in-2038-as-a-far-fetched-idea-f202608-n/",
    "lede": "The 2026 World Cup, co-hosted by Mexico, Canada and the USA left a hugely positive lasting impression on everyone who attended matches in Mexico City, Guadalajara and Monterrey; indeed, many wondered why there were only a handful of matches played on Mexican soil. Amid such euphoria, fans wondered whether Mexico would ever host another football festival, and to everyone’s surprise, the prospect of another men’s tournament is not so far off. At an interview with TUDN, Emilio Azcárraga Jean, president of Club América and an influential figure in Mexican football with contacts within the FMF (Mexican FA), said that hosting another men’s World Cup on Mexican soil in 2038 is not far-fetched. With confederation rotation, the conditions could align within three cycles.",
    "image": "https://img.asmedia.epimg.net/resizer/v2/SUMTSVB2ARC5BO3KPNBGFHIZ5U.jpg?auth=dd8fbc372fd0df2339e790d71953ff5d00c4e7aa07fc65cb63da51af980623b6&width=1472&height=828&smart=true",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -68,16 +78,6 @@
    "link": "https://sports.yahoo.com/articles/usmnts-home-world-cup-record-181000401.html",
    "lede": "Hosting the 2026 World Cup produced the largest audience the USMNT has ever had inside its own borders. The team's opener against Paraguay became the most-watched football match ever broadcast in the ... The team's opener against Paraguay became the most-wa...",
    "image": "https://s.yimg.com/lo/mysterio/api/0160bfa26880e127c55967d2a851cd71c8a04b5a035f6c3b951e17573f87ea41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchside_us_articles_859%2Fde3a5ece3aa22721d0caf9547eafb4ce.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE SUN",
-   "title": "Fears World Cup row over Folarin Balogun could fuel Prem conspiracy theories",
-   "iso": "2026-08-19T18:03:00.000Z",
-   "link": "https://www.thesun.co.uk/sport/40109020/howard-webb-fear-balogun-conspiracy-theory-premier-league/",
-   "lede": "REF chief Howard Webb fears the World Cup row over USA striker Folarin Balogun could fuel false PREM conspiracy theories. Pro Ref boss Webb admitted he was “troubled” after the intervention by US President Donald Trump saw Balogun cleared to play against Belgium despite his red card for serious foul play being confirmed. And the former whistler conceded his concerns that intervention in football governance by outside figures could convince some fans that the entire game is suspect. Webb said: “I was really troubled by it.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/crop-40109190.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
