@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T19:02:53.276Z",
+ "updated": "2026-08-20T19:47:08.146Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "GOAL.COM",
+   "title": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds",
+   "iso": "2026-08-20T15:39:49.000Z",
+   "link": "https://www.goal.com/en/news/fifa-begins-disciplinary-proceedings-against-hossam-hassan-and-zico-egypt-responds/blt6b95eafed95ed639",
+   "lede": "Will Egypt face sanctions after the World Cup incidents? FIFA have opened disciplinary proceedings against several members of the Egyptian national team following the events at the 2026 World Cup. Egypt reached the round of 16 for the first time in their history, and the Arab side came within touching distance of the quarter-finals before Argentina's comeback denied them. A narrow 3-2 defeat to Argentina ended their run at the finals held across the United States, Canada and Mexico.",
+   "image": "https://assets.goal.com/images/v3/getty-2285093463/crop/MM5DIOJVGU5DENZYG45G433XMU5DAORQ/GettyImages-2285093463.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "‘He must resign’: Fans’ petition calls for Infantino to quit as Fifa president",
    "iso": "2026-08-20T15:23:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
    "lede": "Fans say Infantino has ‘lost the right to lead’. Statement also calls for Fifa to be reformed. Fans’ groups worldwide have launched a petition calling for the resignation of Gianni Infantino as Fifa president and for wholesale reform of the organisation. Infantino is under mounting pressure after being forced to abandon plans to seek private investment to run Fifa tournaments, including the men’s and women’s World Cups.",
    "image": "https://i.guim.co.uk/img/media/ff10791da856f386db82f62f3d29c6de151d026c/217_0_2567_2054/master/2567.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0466681d65bed4799cbdf4b48dacb0f7",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "NYASA TIMES",
@@ -28,8 +38,8 @@
    "link": "https://www.nyasatimes.com/fazili-wants-10-friendlies-against-top-nations-ahead-of-world-cup/",
    "lede": "The head coach of Malawi’s Women’s National Football Team has issued a bold demand to the country’s football chiefs – arrange at least 10 international friendly matches against highly-ranked sides before the 2027 Fifa Women’s World Cup. Lovemore Fazili made the call today, urging the Football Association of Malawi (FAM) to step up preparations for the tournament, as the Scorchers were honoured at a special luncheon hosted by First Lady Gertrude Mutharika at Kamuzu Palace in Lilongwe. ‘The friendlies we had mostly when preparing for Wafcon were against neighbouring countries. For the World Cup preparations, we need to play top teams outside the continent,’ Fazili said.",
    "image": "https://www.nyasatimes.com/wp-content/uploads/IMG-20260801-WA0001.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "UGANDA OBSERVER",
@@ -38,16 +48,6 @@
    "link": "https://observer.ug/sports/can-world-cup-heroes-carry-the-magic-into-the-premier-league/",
    "lede": "For Ugandan football fans, the end of the 2026 World Cup does not mean the end of the excitement. Instead, attention now shifts to England, where the Premier League kicks off this Friday, August 21, with supporters wondering how their favourite stars will respond after a demanding month on the international stage. The World Cup ended on July 19, 2026, leaving roughly a month before the domestic season resumes. For fans who followed the tournament closely, that short turnaround has created a mixture of excitement and concern.",
    "image": "https://observer.ug/wp-content/uploads/2026/05/Arsenal-players-lift-the-EPL-title.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "UGANDA OBSERVER",
-   "title": "Italy and Spain lead SuperSport’s European football return",
-   "iso": "2026-08-20T14:56:10.000Z",
-   "link": "https://observer.ug/sports/italy-and-spain-lead-supersports-european-football-return/",
-   "lede": "Barely weeks after the spectacle of the 2026 Fifa World Cup, European club football is back, with Italy’s Serie A and Spain’s La Liga among the first major leagues to take centre stage on SuperSport. For football fans in Uganda, the return offers an immediate shift from international football to the intensity of club competition, with SuperSport on DStv and GOtv providing front-row access to the new 2026/27 campaign. La Liga opens with an intriguing early-season landscape. Real Madrid, Barcelona and Atletico Madrid have been handed extended rest following Spain’s World Cup triumph, leaving the door open for the league’s other contenders to make an early statement.",
-   "image": "https://observer.ug/wp-content/uploads/2026/08/EPL-return.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
@@ -62,22 +62,21 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "LIVESCORE",
-   "title": "The Spanish federation settles De la Fuente's fate: it demands its right in the World Cup final",
-   "iso": "2026-08-20T13:55:31.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/the-spanish-federation-settles-de-la-fuentes-fate-it-demands-its-right-in-the-world-cup-final-goal/",
-   "lede": "The aim is to continue beyond 2030The Spanish Football Federation has settled the debate over the future of its World Cup-winning coach, announcing the start of negotiations to hand Luis de la Fuente a lengthy new deal.Federation president Rafael Louzán confirmed to RNE radio that he is already working to extend the coach's contract, currently set to expire in 2028, to run \"beyond 2030\". Louzán said: \"We are already working on extending Luis de la Fuente's contract, which currently expires in 2028, to beyond 2030 or around that year. I believe Luis deserves it, and when I took office we had to renew his contract quickly because he led us to this success with his entire team, and now he must be part of the long-term project.\" Simplicity and a fierce work ethic define the most decorated coach in the history of Spanish football across every category, and Louzán made that clear.",
-   "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "LEADERSHIP NEWSPAPERS",
    "title": "Maracanã To Host 2027 Women’s World Cup Opener, Final As FIFA Unveils Schedule",
    "iso": "2026-08-20T18:57:28.000Z",
    "link": "https://leadership.ng/maracana-to-host-2027-womens-world-cup-opener-final-assfifa-unveils-schedule/",
    "lede": "The iconic Estádio do Maracanã in Rio de Janeiro will host both the opening match and final of the 2027 FIFA Women’s World Cup, after FIFA unveiled the full.",
    "image": "https://leadership.ng/wp-content/uploads/2026/08/IMG_1481.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "NDTV SPORTS",
+   "title": "FIFA Women's World Cup 2027 Schedule Unveiled; Brazil To Open Campaign At Maracana",
+   "iso": "2026-08-20T18:48:01.000Z",
+   "link": "https://sports.ndtv.com/football/fifa-womens-world-cup-2027-schedule-unveiled-brazil-to-open-campaign-at-maracana-11936981",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
