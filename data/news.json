@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T19:47:08.146Z",
+ "updated": "2026-08-20T19:48:17.535Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE HERALD",
+   "title": "Shares plunge in sports retail giant despite Tartan Army boost",
+   "iso": "2026-08-20T15:34:40.000Z",
+   "link": "https://www.heraldscotland.com/news/26481453.jd-sports-reveals-scotland-strip-world-cup-best-seller/",
+   "lede": "JD Sports Fashion sold more Scotland tops than any other jersey during the World Cup. But the huge popularity of the kits sported by John McGinn and co, including the scarlet away strip that became synonymous with the Tartan Army in Boston and Miami this summer, was not enough to cheer investors in the sports retailing giant. Shares in the company plunged by nearly 14% after it issued a profit warning, as strong sales of replica football kits and an improved performance of its outdoors business in the UK failed to offset continuing challenges in the US, now the retailer’s biggest market following a series of acquisitions in recent years. The market reaction is unlikely to ease the pressure on chief executive Regis Schultz, who saw off an attempt by former chairman Andrew Higginson to oust him in April amid concerns over sales and performance in the US.",
+   "image": "https://www.heraldscotland.com/resources/images/21117020.jpg?type=og-image",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "‘He must resign’: Fans’ petition calls for Infantino to quit as Fifa president",
    "iso": "2026-08-20T15:23:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
    "lede": "Fans say Infantino has ‘lost the right to lead’. Statement also calls for Fifa to be reformed. Fans’ groups worldwide have launched a petition calling for the resignation of Gianni Infantino as Fifa president and for wholesale reform of the organisation. Infantino is under mounting pressure after being forced to abandon plans to seek private investment to run Fifa tournaments, including the men’s and women’s World Cups.",
    "image": "https://i.guim.co.uk/img/media/ff10791da856f386db82f62f3d29c6de151d026c/217_0_2567_2054/master/2567.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0466681d65bed4799cbdf4b48dacb0f7",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "NYASA TIMES",
@@ -38,8 +48,18 @@
    "link": "https://www.nyasatimes.com/fazili-wants-10-friendlies-against-top-nations-ahead-of-world-cup/",
    "lede": "The head coach of Malawi’s Women’s National Football Team has issued a bold demand to the country’s football chiefs – arrange at least 10 international friendly matches against highly-ranked sides before the 2027 Fifa Women’s World Cup. Lovemore Fazili made the call today, urging the Football Association of Malawi (FAM) to step up preparations for the tournament, as the Scorchers were honoured at a special luncheon hosted by First Lady Gertrude Mutharika at Kamuzu Palace in Lilongwe. ‘The friendlies we had mostly when preparing for Wafcon were against neighbouring countries. For the World Cup preparations, we need to play top teams outside the continent,’ Fazili said.",
    "image": "https://www.nyasatimes.com/wp-content/uploads/IMG-20260801-WA0001.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE TRIBUNE-DEMOCRAT",
+   "title": "Rio de Janeiro's Maracana Stadium to host opening game and final of 2027 Women's World Cup",
+   "iso": "2026-08-20T15:12:00.000Z",
+   "link": "https://www.tribdem.com/sports/rio-de-janeiros-maracana-stadium-to-host-opening-game-and-final-of-2027-womens-world/article_4a154c3f-2c2a-5762-bacd-dd61912661cc.html",
+   "lede": "RIO DE JANEIRO – The Maracana Stadium in Rio de Janeiro will host the opening match and the final of the Women’s World Cup next year, FIFA announced Thursday. Brazil is the first South American nation to host the tournament and will play in the opener on June 24 against a yet-to-be-determined opponent in the 73,000 seat Maracana, which also hosted the 2014 men's World Cup final. FILE - A general view of the Maracana stadium during its renovation ahead of the 2014 World Cup soccer tournament in Rio de Janeiro, Brazil, Monday, May 30, 2011. FILE - A general view of the closing ceremony before the World Cup final soccer match between Germany and Argentina at the Maracana Stadium in Rio de Janeiro, July 13, 2014.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/0/4f/04ff5449-9448-5c72-837f-e4e6dcd48f46/6a871c643cb7e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "UGANDA OBSERVER",
@@ -48,18 +68,8 @@
    "link": "https://observer.ug/sports/can-world-cup-heroes-carry-the-magic-into-the-premier-league/",
    "lede": "For Ugandan football fans, the end of the 2026 World Cup does not mean the end of the excitement. Instead, attention now shifts to England, where the Premier League kicks off this Friday, August 21, with supporters wondering how their favourite stars will respond after a demanding month on the international stage. The World Cup ended on July 19, 2026, leaving roughly a month before the domestic season resumes. For fans who followed the tournament closely, that short turnaround has created a mixture of excitement and concern.",
    "image": "https://observer.ug/wp-content/uploads/2026/05/Arsenal-players-lift-the-EPL-title.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-Brazil's iconic Maracana to stage Women's World Cup opener and final in 2027",
-   "iso": "2026-08-20T13:57:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/08/20/soccer-brazil039s-iconic-maracana-to-stage-women039s-world-cup-opener-and-final-in-2027",
-   "lede": "Aug 20 (Reuters) - ⁠Brazil will stage the opening game and final of the 2027 ⁠Women's World Cup at Rio de Janeiro's Maracana Stadium, according ‌to the match schedule unveiled on Thursday for the 32-team tournament. The hosts kick off the event on June 24 in a fitting opening to the first Women's World Cup ​held in South America, with the Maracana -- one ⁠of the game's most famous ⁠venues and the site of Brazil's heartbreak defeat by Uruguay in the ⁠1950 ‌men's World Cup decider -- also hosting the July 25 final. FIFA confirmed that all eight host cities will stage at least seven ⁠matches and a minimum of one knockout game. Brasilia, Porto ​Alegre, Recife and ‌Salvador will stage matches through to the last 16, while Belo ⁠Horizonte, Fortaleza, ​Rio de Janeiro and Sao Paulo will hold the quarter-finals.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4070094.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LEADERSHIP NEWSPAPERS",
@@ -68,15 +78,6 @@
    "link": "https://leadership.ng/maracana-to-host-2027-womens-world-cup-opener-final-assfifa-unveils-schedule/",
    "lede": "The iconic Estádio do Maracanã in Rio de Janeiro will host both the opening match and final of the 2027 FIFA Women’s World Cup, after FIFA unveiled the full.",
    "image": "https://leadership.ng/wp-content/uploads/2026/08/IMG_1481.webp",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NDTV SPORTS",
-   "title": "FIFA Women's World Cup 2027 Schedule Unveiled; Brazil To Open Campaign At Maracana",
-   "iso": "2026-08-20T18:48:01.000Z",
-   "link": "https://sports.ndtv.com/football/fifa-womens-world-cup-2027-schedule-unveiled-brazil-to-open-campaign-at-maracana-11936981",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
