@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-20T16:14:32.753Z",
+ "updated": "2026-08-20T16:54:29.514Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
    "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
    "iso": "2026-08-20T15:47:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
-   "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s Group A match on 24 June and the final on 25 July.",
+   "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
    "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
    "emoji": "⚽",
    "bg": "#1d6f42"
@@ -22,12 +22,12 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "NYASA TIMES",
-   "title": "Fazili wants 10 friendlies against top nations ahead of World Cup",
-   "iso": "2026-08-20T15:20:16.000Z",
-   "link": "https://www.nyasatimes.com/fazili-wants-10-friendlies-against-top-nations-ahead-of-world-cup/",
-   "lede": "The head coach of Malawi’s Women’s National Football Team has issued a bold demand to the country’s football chiefs – arrange at least 10 international friendly matches against highly-ranked sides before the 2027 Fifa Women’s World Cup. Lovemore Fazili made the call today, urging the Football Association of Malawi (FAM) to step up preparations for the tournament, as the Scorchers were honoured at a special luncheon hosted by First Lady Gertrude Mutharika at Kamuzu Palace in Lilongwe. ‘The friendlies we had mostly when preparing for Wafcon were against neighbouring countries. For the World Cup preparations, we need to play top teams outside the continent,’ Fazili said.",
-   "image": "https://www.nyasatimes.com/wp-content/uploads/IMG-20260801-WA0001.jpg",
+   "cat": "UGANDA OBSERVER",
+   "title": "Italy and Spain lead SuperSport’s European football return",
+   "iso": "2026-08-20T14:56:10.000Z",
+   "link": "https://observer.ug/sports/italy-and-spain-lead-supersports-european-football-return/",
+   "lede": "Barely weeks after the spectacle of the 2026 Fifa World Cup, European club football is back, with Italy’s Serie A and Spain’s La Liga among the first major leagues to take centre stage on SuperSport. For football fans in Uganda, the return offers an immediate shift from international football to the intensity of club competition, with SuperSport on DStv and GOtv providing front-row access to the new 2026/27 campaign. La Liga opens with an intriguing early-season landscape. Real Madrid, Barcelona and Atletico Madrid have been handed extended rest following Spain’s World Cup triumph, leaving the door open for the league’s other contenders to make an early statement.",
+   "image": "https://observer.ug/wp-content/uploads/2026/08/EPL-return.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -72,12 +72,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LBC.CO.UK",
-   "title": "'A betrayal football will never forget': Fan petition calls for Fifa chief Gianni Infantino to resign over World Cup sell-off plan",
-   "iso": "2026-08-20T12:40:20.000Z",
-   "link": "https://www.lbc.co.uk/article/fan-petition-fifa-gianni-infantino-resign-5HjdgKm_2/",
-   "lede": "Fan organisations have branded the Fifa president's plan to sell off the World Cup to private investors as \"shameful\". Want LBC stories before everyone else? Set us as your Preferred Source on Google. Football fans have launched a global petition calling for Gianni Infantino to resign as president of Fifa as he continues to face mounting pressure to step down over his \"shameful\" World Cup sell-off plan.",
-   "image": "https://images.globalplayer.com/images/836441?crop=16_9&width=1200&signature=jrj4sw_4GudKH0rWY08Q-lI6-aA=",
+   "cat": "SPORTS247 NIGERIA",
+   "title": "'We Let Nigeria Down' — Echegini Apologises After Super Falcons' Historic World Cup Failure",
+   "iso": "2026-08-20T13:30:42.000Z",
+   "link": "https://www.sports247.ng/we-let-nigeria-down-echegini-apologises-after-super-falcons-historic-world-cup-failure/",
+   "lede": "Super Falcons midfielder Jennifer Echegini has apologised to Nigerians following the team’s disappointing campaign at the 2026 Women’s Africa Cup of Nations and their failure to qualify for the 2027 FIFA Women’s World Cup. Nigeria entered the tournament as defending champions but failed to reach the semi-finals after a 1–0 quarter-final defeat to Cameroon. READ ALSO: Echegini Urges Better Preparation for Super Falcons Ahead of Major Tournaments. The Super Falcons were subsequently given another opportunity to reach the World Cup through the CAF play-off, but suffered a 2–1 defeat to South Africa, ending their hopes of qualifying for the tournament in Brazil.",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
