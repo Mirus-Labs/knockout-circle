@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-20T13:17:20.297Z",
+ "updated": "2026-08-20T14:01:44.258Z",
  "news": [
+  {
+   "cat": "SPORTSTAR",
+   "title": "FIFA Women’s World Cup 2027 — Maracana to host opener and final; Brazil to play opener on June 24",
+   "iso": "2026-08-20T13:41:48.000Z",
+   "link": "https://sportstar.thehindu.com/football/womens-football/fifa-womens-world-cup-2027-maracana-to-host-final-brazil-starts-on-june-24-spain-defending-champion-schedule/article71369491.ece",
+   "lede": "AP AP https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/FREE_1200/WCup_Women_Next_Soccer_34822.jpg Alessandra Tarantino FILE - Team Spain celebrates with the trophy after winning the Women's World Cup soccer final against England at Stadium Australia in Sydney, Australia, August 20, 2023. (AP Photo/Alessandra Tarantino, File) The 2027 edition of the FIFA Women’s World Cup will be played across eight cities in Brazil, with each city staging at least seven matches at the tournament. Chennai The iconic Maracanã Stadium in Rio De Janeiro will host the final of the FIFA Women’s World Cup 2027, the International Football Association (FIFA) announced on Thursday. The announcement was made when the governing body released the World Cup schedule using placeholders, confirming when and where all 64 fixtures will be played across eight cities in Brazil.",
+   "image": "https://ss-i.thgim.com/public/incoming/k8w701/article71369495.ece/alternates/LANDSCAPE_1200/WCup_Women_Next_Soccer_34822.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "LBC.CO.UK",
    "title": "'A betrayal football will never forget': Fan petition calls for Fifa chief Gianni Infantino to resign over World Cup sell-off plan",
@@ -8,16 +18,6 @@
    "link": "https://www.lbc.co.uk/article/fan-petition-fifa-gianni-infantino-resign-5HjdgKm_2/",
    "lede": "Fan organisations have branded the Fifa president's plan to sell off the World Cup to private investors as \"shameful\". Want LBC stories before everyone else? Set us as your Preferred Source on Google. Football fans have launched a global petition calling for Gianni Infantino to resign as president of Fifa as he continues to face mounting pressure to step down over his \"shameful\" World Cup sell-off plan.",
    "image": "https://images.globalplayer.com/images/836441?crop=16_9&width=1200&signature=jrj4sw_4GudKH0rWY08Q-lI6-aA=",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "REDIFF",
-   "title": "'There is no way out': Infantino faces FIFA revolt",
-   "iso": "2026-08-20T12:34:50.000Z",
-   "link": "https://m.rediff.com/amp/sports/report/there-is-no-way-out-infantino-faces-fifa-revolt/20260820.htm",
-   "lede": "Regional football powerhouses, including UEFA, AFC, and CONCACAF, are reportedly discussing a vote of no confidence against FIFA President Gianni Infantino. This move comes after Infantino angered them with a proposal to sell a stake in the World Cup to private investors. Despite significant opposition, Infantino retains support from some member associations, particularly from Africa, complicating any challenge to his leadership ahead of the 2027 election.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/aug/20infantino.JPG",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "KSL",
+   "cat": "KSL NEWS",
    "title": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal'",
    "iso": "2026-08-20T11:03:03.000Z",
    "link": "https://www.ksl.com/article/51612050/soccer-fans-launch-global-petition-urging-fifa-boss-infantino-to-resign-over-world-cup-betrayal",
@@ -72,11 +72,11 @@
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Joao Cancelo rejoins Barcelona on deal to 2029 after Al Hilal contract termination",
-   "iso": "2026-08-20T12:58:28.000Z",
-   "link": "https://www.nytimes.com/athletic/7517249/2026/08/20/joao-cancelo-barcelona-al-hilal-transfer/",
-   "lede": "The 32-year-old spent the second half of last season on loan at Barcelona, and appeared 23 times in all competitions.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/16164838/GettyImages-2269636126-scaled.jpg?width=1200&height=630&fit=cover",
+   "title": "Newcastle agree to buy land for new £190m training ground",
+   "iso": "2026-08-20T13:03:35.000Z",
+   "link": "https://www.nytimes.com/athletic/7526528/2026/08/20/newcastle-training-ground-land-purchase/",
+   "lede": "The club have now completed the land-purchase deal for the Woolsington Hall estate.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20085410/77078289-3676-4e22-a8a5-ad08cc70b947.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
