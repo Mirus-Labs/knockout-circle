@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T20:33:44.892Z",
+ "updated": "2026-08-20T20:48:56.187Z",
  "news": [
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "EUOBSERVER",
-   "title": "Spain to care for migrant children, as EU Commission joins far-right calls to send them back",
-   "iso": "2026-08-20T16:56:57.000Z",
-   "link": "https://euobserver.com/233047/spain-to-care-for-migrant-children-as-eu-commission-joins-far-right-calls-to-send-them-back/",
-   "lede": "Spain has agreed to temporarily transfer 500 vulnerable minors to its mainland from Ceuta, three days after the EU Commission joined rightwing Spanish politicians in calls for all migrants there to be sent back to Morocco. The fate of migrant children sleeping on Ceuta’s streets in their thousands has been the subject of polarising debate in Madrid: One one hand, Spanish law mandates automatic state protection of unaccompanied minors, but on the other hand, a rightwing-dominated parliament has called for all irregular arrivals to be returned. And the EU weighed into the toxic situation on Monday (18 August), taking the side of the right. “The expectation is that all those who remain in Ceuta illegally will be returned,” commission spokesperson Markus Lammert said, referring specifically to the unaccompanied children and teenagers still in Spain’s North African enclave.",
-   "image": "https://static.euobserver.com/2026/08/2019_03_04_Visita_de_Juanma_Moreno_a_Ceuta_46564404484.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
    "iso": "2026-08-20T16:49:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
    "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
    "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "GOAL.COM",
@@ -58,8 +48,8 @@
    "link": "https://www.goal.com/en/news/fifa-begins-disciplinary-proceedings-against-hossam-hassan-and-zico-egypt-responds/blt6b95eafed95ed639",
    "lede": "Will Egypt face sanctions after the World Cup incidents? FIFA have opened disciplinary proceedings against several members of the Egyptian national team following the events at the 2026 World Cup. Egypt reached the round of 16 for the first time in their history, and the Arab side came within touching distance of the quarter-finals before Argentina's comeback denied them. A narrow 3-2 defeat to Argentina ended their run at the finals held across the United States, Canada and Mexico.",
    "image": "https://assets.goal.com/images/v3/getty-2285093463/crop/MM5DIOJVGU5DENZYG45G433XMU5DAORQ/GettyImages-2285093463.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE HERALD",
@@ -68,8 +58,8 @@
    "link": "https://www.heraldscotland.com/news/26481453.jd-sports-reveals-scotland-strip-world-cup-best-seller/",
    "lede": "JD Sports Fashion sold more Scotland tops than any other jersey during the World Cup. But the huge popularity of the kits sported by John McGinn and co, including the scarlet away strip that became synonymous with the Tartan Army in Boston and Miami this summer, was not enough to cheer investors in the sports retailing giant. Shares in the company plunged by nearly 14% after it issued a profit warning, as strong sales of replica football kits and an improved performance of its outdoors business in the UK failed to offset continuing challenges in the US, now the retailer’s biggest market following a series of acquisitions in recent years. The market reaction is unlikely to ease the pressure on chief executive Regis Schultz, who saw off an attempt by former chairman Andrew Higginson to oust him in April amid concerns over sales and performance in the US.",
    "image": "https://www.heraldscotland.com/resources/images/21117020.jpg?type=og-image",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -78,6 +68,16 @@
    "link": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
    "lede": "Fans say Infantino has ‘lost the right to lead’. Statement also calls for Fifa to be reformed. Fans’ groups worldwide have launched a petition calling for the resignation of Gianni Infantino as Fifa president and for wholesale reform of the organisation. Infantino is under mounting pressure after being forced to abandon plans to seek private investment to run Fifa tournaments, including the men’s and women’s World Cups.",
    "image": "https://i.guim.co.uk/img/media/ff10791da856f386db82f62f3d29c6de151d026c/217_0_2567_2054/master/2567.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0466681d65bed4799cbdf4b48dacb0f7",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "NYASA TIMES",
+   "title": "Fazili wants 10 friendlies against top nations ahead of World Cup",
+   "iso": "2026-08-20T15:20:16.000Z",
+   "link": "https://www.nyasatimes.com/fazili-wants-10-friendlies-against-top-nations-ahead-of-world-cup/",
+   "lede": "The head coach of Malawi’s Women’s National Football Team has issued a bold demand to the country’s football chiefs – arrange at least 10 international friendly matches against highly-ranked sides before the 2027 Fifa Women’s World Cup. Lovemore Fazili made the call today, urging the Football Association of Malawi (FAM) to step up preparations for the tournament, as the Scorchers were honoured at a special luncheon hosted by First Lady Gertrude Mutharika at Kamuzu Palace in Lilongwe. ‘The friendlies we had mostly when preparing for Wafcon were against neighbouring countries. For the World Cup preparations, we need to play top teams outside the continent,’ Fazili said.",
+   "image": "https://www.nyasatimes.com/wp-content/uploads/IMG-20260801-WA0001.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
