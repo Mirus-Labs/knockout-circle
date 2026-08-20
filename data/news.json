@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T23:29:36.126Z",
+ "updated": "2026-08-20T23:43:12.811Z",
  "news": [
   {
    "cat": "FREE MALAYSIA TODAY",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "SPORTINGTRIBUNE.COM",
+   "title": "FIFA unveils 2027 Women’s World Cup schedule",
+   "iso": "2026-08-20T21:05:04.000Z",
+   "link": "https://sportingtribune.com/fifa-unveils-2027-womens-world-cup-schedule/",
+   "lede": "FIFA has unveiled the schedule for the 2027 Women’s World Cup in Brazil, with the Maracanã in Rio de Janeiro set to host both the opening match and the final of the tournament. The competition will run from June 24 to July 25, 2027, with 64 matches to be played across eight host cities. It will be the 10th edition of the Women’s World Cup and the first to be staged in South America. Hosts Brazil will open the tournament at the iconic Maracana on June 24 before playing their remaining group-stage matches at Arena Itaquera in São Paulo on June 29 and the Estádio Nacional in Brasília on July 4.",
+   "image": "https://sportingtribune.com/wp-content/uploads/2026/08/women-world-cup.webp",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Tom Bischof talks about his summer break, watching the World Cup from home",
    "iso": "2026-08-20T20:30:00.000Z",
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
    "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
    "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
    "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE STAR",
@@ -48,8 +58,8 @@
    "link": "https://www.thestar.com.my/sport/football/2026/08/21/soccer-world-cup-surprise-package-cape-verde-name-bettencourt-as-coach",
    "lede": "Aug 20 (Reuters) - ⁠Cape Verde have named Humberto Bettencourt ⁠as coach, replacing Bubista who ‌took them to the round-of-32 at the World Cup last month. The 51-year-old Bettencourt was previously ​assistant coach of the ⁠small island nation ⁠team, who were one of the revelations ⁠of ‌the tournament in North America, going out in extra ⁠time to Argentina after getting past ​the first ‌round on their debut. Bettencourt has worked ⁠with ​the team over the last six years. No details of any contract terms ⁠were announced by the Cape ​Verdean FA.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070532.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NATIONAL TRIBUNE",
@@ -57,8 +67,8 @@
    "iso": "2026-08-20T23:19:01.000Z",
    "link": "https://www.nationaltribune.com.au/household-spending-rises-in-july-amid-football-world-cup-and-the-odyssey/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -67,16 +77,6 @@
    "link": "https://www.nytimes.com/athletic/7526773/2026/08/20/espn-pat-mcafee-monday-night-football-altcast/",
    "lede": "If approved by the NFL, McAfee's \"Monday Night Football\" alt-cast would run during weeks when the Peyton and Eli \"ManningCast\" isn't airing.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20105015/AP26115021973447-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "An NFL rookie had 2 sacks in preseason debut. Now he could return to college football",
-   "iso": "2026-08-20T21:20:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7525348/2026/08/19/nfl-rookie-preseason-college-football-court-ruling/",
-   "lede": "A court ruling could allow Tampa Bay Buccaneers rookie Jack Pyburn to return to college after playing in a preseason game Friday.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19190054/GettyImages-2290532303-1-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
