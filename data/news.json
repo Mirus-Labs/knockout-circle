@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T12:03:00.790Z",
+ "updated": "2026-08-21T12:16:16.029Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -42,31 +42,32 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "YAHOO SPORTS UK",
+   "title": "Luis de la Fuente set for bumper new Spain contract after World Cup glory as RFEF eye 2030 extension",
+   "iso": "2026-08-21T05:30:00.000Z",
+   "link": "https://uk.sports.yahoo.com/news/luis-la-fuente-set-bumper-053030372.html",
+   "lede": "The Spanish Football Federation (RFEF) is preparing a lucrative new contract extension for head coach Luis de la Fuente following their historic 2026 World Cup triumph. The governing body intends to extend his existing deal, which runs until 2028, to keep him in charge through the 2030 tournament, which Spain will co-host alongside Portugal and Morocco. The Spanish Football Federation (RFEF) is preparing a lucrative new contract extension for head coach Luis de la Fuente following their historic 2026 World C...",
+   "image": "https://s.yimg.com/lo/mysterio/api/21f7dd1812914daae2ad17d4148528e9e7dd972a2fdba206db4cf4a488df0396/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_uk_815%2Faf3ff5c94fea0e2348c5e4e087d9aaba.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE GUARDIAN",
    "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
    "iso": "2026-08-21T01:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/20/gianni-infantino-eyes-junior-tournament-dominican-republic-route-out-of-fifa-crisis",
    "lede": "Meetings around event seen as chance to lobby for votes. Fifa president may meet his most credible challenger. Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble to cling on to power from the Fifa president. The Guardian has learned that Infantino has made plans to attend the U14 Boys Challenge competition organised by the Caribbean Football Union (CFU), 21 of whose associations are voting members of Fifa, despite being urged to stay away from the event by senior figures within Concacaf – the Confederation of North, Central America and Caribbean Association Football – which is working with Uefa to remove him.",
    "image": "https://i.guim.co.uk/img/media/169d8a40f66255bac26154d4bae440b28b84961f/303_0_3530_2825/master/3530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3f165112c1813a7183b4d25f91faf65",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "HINDUSTAN TIMES",
-   "title": "Squad goals: See how a busy transfers season has changed the football landscape | Hindustan Times",
-   "iso": "2026-08-21T10:56:40.000Z",
-   "link": "https://www.hindustantimes.com/lifestyle/art-culture/squad-goals-see-how-a-busy-transfers-season-has-changed-the-football-landscape-101787309800828.html",
-   "lede": "Some teams, such as Real Madrid, may have a distinctly new look, having swept many of the world’s biggest talents into their stable.",
-   "image": "https://www.hindustantimes.com/ht-img/img/2026/08/21/1600x900/logo/Spain-s-Rodri--star-of-the-World-Cup--is-now-in-ch_1787309798626.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE DRUM",
-   "title": "The biggest B2B brand loser of the World Cup was Fifa",
-   "iso": "2026-08-21T10:46:25.000Z",
-   "link": "https://www.thedrum.com/opinion/the-biggest-b2b-brand-loser-of-the-world-cup-was-fifa",
-   "lede": "",
+   "cat": "THE GUARDIAN",
+   "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
+   "iso": "2026-08-21T01:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
+   "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
+   "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
