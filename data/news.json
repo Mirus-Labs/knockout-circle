@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-21T03:18:06.768Z",
+ "updated": "2026-08-21T03:53:40.104Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
+   "iso": "2026-08-21T01:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
+   "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
+   "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "COMMBANK MATILDAS",
    "title": "FIFA Women's World Cup Brazil 2027™ Match Schedule unveiled",
@@ -8,8 +18,8 @@
    "link": "https://matildas.com.au/news/fifa-womens-world-cup-brazil-2027tm-match-schedule-unveiled",
    "lede": "The FIFA Women's World Cup Brazil 2027™ is just 306 days away, and the much-anticipated match schedule for the tenth edition of the tournament has now been confirmed. FIFA has unveiled the match schedule for the FIFA Women's World Cup Brazil 2027™, confirming when and where all 64 fixtures will be played across Brazil’s eight vibrant Host Cities. All eight Host Cities will host at least seven matches, including a minimum of one knockout fixture. Brasília, Porto Alegre, Recife and Salvador will host matches until the Round of 16.",
    "image": "https://matildas.com.au/sites/default/files/2026-08/Match%20Schedule.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "SKY SPORTS",
@@ -18,8 +28,8 @@
    "link": "https://www.skysports.com/football/transfer-paper-talk",
    "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
    "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "FREE MALAYSIA TODAY",
@@ -28,16 +38,6 @@
    "link": "https://www.freemalaysiatoday.com/category/sports/2026/08/21/rio-de-janeiro-to-host-2027-women-s-world-cup-final",
    "lede": "Fifa unveiled the full match schedule for the 2027 Women's World Cup in Brazil, with 32 teams set to compete across eight cities. (Fifa pic) LONDON: The 2027 Women's World Cup final will take place at Rio de Janeiro's Maracana Stadium, Fifa announced Thursday as it unveiled the entire match schedule for the competition in Brazil. Thirty-two teams will compete in eight cities, with each location hosting at least seven matches and a minimum of one knockout game. In all, 64 matches will be played.",
    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/08/b90e6e29-dee8-498e-a57f-03ddbd64caa2-2027-Women-s-World-Cup-final-1-.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
-   "iso": "2026-08-20T22:20:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
-   "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
-   "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
