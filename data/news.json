@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T23:09:16.121Z",
+ "updated": "2026-08-21T23:40:56.223Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -22,24 +22,14 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "APA.AZ",
-   "title": "Britain wants to host the World Cup in 2042",
-   "iso": "2026-08-21T20:51:00.000Z",
-   "link": "https://en.apa.az/football/britain-wants-to-host-the-world-cup-in-2042-521226",
-   "lede": "British Prime Minister Andy Burnham has floated the idea of ​​hosting the 2042 FIFA World Cup in the United Kingdom, APA reports citing The Times newspaper. According to the report, Burnham put forward his idea at a meeting with city mayors held in the prime minister's new office in Manchester. The prime minister is reportedly in talks with the Football Association and the English Premier League about the possibility of submitting a bid to host the tournament. According to The Times, Burnham's government is also preparing to bid to host the 2040 Olympic and Paralympic Games.",
-   "image": "https://en.apa.az/storage/news/2026/august/22/big/6a88bf80d05b66a88bf80d05b717873468166a88bf80d05b26a88bf80d05b4.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "THE SUN",
    "title": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation'",
    "iso": "2026-08-21T20:05:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE HERALD",
@@ -48,8 +38,8 @@
    "link": "https://www.heraldscotland.com/sport/26486412.98-000-world-cup-jolly-cash-scottish-football/",
    "lede": "There has been more than a whiff of political opportunism about the stooshie which has erupted in Scotland this week about the cost of John Swinney’s trip to the World Cup in the United States during the summer. It is vital that a first minister’s outgoings are closely scrutinised by MSPs and media commentators. It is, after all, taxpayers’ hard-earned money which is being spent. There has, too, been a flagrant, shameful and at times illegal misuse of SNP party and public funds in recent years.",
    "image": "https://www.heraldscotland.com/resources/images/21357024.jpg?type=og-image",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TORONTO SUN",
@@ -58,26 +48,35 @@
    "link": "https://torontosun.com/sports/soccer/argentina-players-banned18-games-world-cup-brawl",
    "lede": "The brawl came just after the final whistle in New Jersey, with Spain winning 1-0. We independently select everything we recommend. Buying through us may earn us a commission, which supports our work. See more Toronto Sun on Google — save as a Preferred Source.",
    "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/08/GettyImages-2286222356-e1787333197272.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Golf balls, a trash can and the Phillies’ wild fantasy football draft order",
+   "iso": "2026-08-21T22:17:41.000Z",
+   "link": "https://www.nytimes.com/athletic/7530262/2026/08/21/phillies-nfl-fantasy-football-draft-order-golf-balls/",
+   "lede": "This is the time of year when many MLB teams determine their draft orders through decidedly ridiculous methods.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/21181401/GettyImages-2211037959-scaled-e1787350454476.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "SPORF",
-   "title": "Leandro Paredes handed massive punishment for World Cup Final brawl",
-   "iso": "2026-08-21T16:29:04.000Z",
-   "link": "https://www.sporf.com/leandro-paredes-handed-massive-punishment-for-world-cup-final-brawl/",
-   "lede": "Leandro Paredes has received a lengthy ban for his role in the post-FIFA World Cup Final 2026 brawl. After Argentina fell short against Spain at MetLife Stadium in New Jersey, USA, the defender engaged in a heated scuffle with members of the opposing team. While the World Cup final is designed to create action on the field, it was the drama that unfolded after the match that provided the biggest fireworks display of the evening. In a moment of madness, a furious Leandro Paredes grabbed Eric Garcia by the throat before launching Gavi towards the ground.",
-   "image": "https://www.sporf.com/wp-content/uploads/2026/07/6dc82a84-leandro-paredes-2.jpg",
+   "cat": "FACEBOOK.COM",
+   "title": "Breaking News from The Athletic FC: Argentina staff and players are banned for a combined 21 games for brawling after their loss to Spain in the World Cup final. https://nyti.ms/4zAu1eU",
+   "iso": "2026-08-21T22:03:57.000Z",
+   "link": "https://www.facebook.com/nytimes/photos/breaking-news-from-the-athletic-fc-argentina-staff-and-players-are-banned-for-a-/1463830168932775/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Shocking running back hot takes for the 2026 fantasy football season",
+   "title": "An NFL rookie had 2 sacks in preseason debut. Now he could return to college football",
    "iso": "2026-08-21T19:51:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7519725/2026/08/20/fantasy-football-shocking-hot-takes/",
-   "lede": "Brad Evans lights the fantasy world on fire with some sizzling hot takes, including Jonah Coleman's potential for a top-24 RB finish.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17165350/GettyImages-2290002827-scaled.jpg?width=1200&height=630&fit=cover",
+   "link": "https://www.nytimes.com/athletic/7525348/2026/08/19/nfl-rookie-preseason-college-football-court-ruling/",
+   "lede": "A court ruling could allow Tampa Bay Buccaneers rookie Jack Pyburn to return to college after playing in a preseason game Friday.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19190054/GettyImages-2290532303-1-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
