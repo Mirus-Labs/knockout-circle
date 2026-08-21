@@ -1,25 +1,35 @@
 {
- "updated": "2026-08-21T12:16:16.029Z",
+ "updated": "2026-08-21T13:12:15.994Z",
  "news": [
   {
-   "cat": "SKY SPORTS",
-   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
-   "iso": "2026-08-21T10:55:32.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
-   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
-   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "cat": "THE SUN",
+   "title": "England to bid for World Cup 2038 or 2042 as Andy Burnham eyes huge tourism boost with Great Britain tournament",
+   "iso": "2026-08-21T12:49:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40128384/england-andy-burnham-world-cup-fifa/",
+   "lede": "GREAT BRITAIN is set to enter the race to host the World Cup in either 2038 or 2042. A bid backed by Prime Minister Andy Burnham is being considered as part of a plan to bring football‘s biggest tournament back to the UK for the first time since 1966. England hosted the World Cup 60 years ago, with Sir Alf Ramsey’s side famously lifting the trophy after beating West Germany in the final at Wembley. Now the tournament could return to these shores, with Burnham understood to view a World Cup as a major opportunity to drive investment, tourism and regeneration across the country.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/GETTY_FIFA-World-Cup-Trophy-in-New-York-City-Ahead-of-FIFA-World-Cup-2026-Final_SPO_GYI2286285066jp-.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "DT NEXT",
-   "title": "Messi inspires Argentina hockey skipper Rey at sixth World Cup",
-   "iso": "2026-08-21T08:17:41.000Z",
-   "link": "https://www.dtnext.in/news/sports/messi-inspires-argentina-hockey-skipper-rey-at-sixth-world-cup",
-   "lede": "AMSTELVEEN: Lionel Messi's influence on Argentine sport extends well beyond football and the country's men's hockey captain Matias Rey is drawing inspiration from the iconic No. 10 as he leads his country at a sixth World Cup.. The Talismanic Messi led Argentina to three FIFA World Cup finals in four editions, with the Albiceleste finishing runners-up to Spain in the summit clash last month.Like Messi, Rey is appearing in his sixth World Cup and the veteran defender sees his role extending beyond his own performance.\" I am playing my sixth World Cup, like Lionel Messi, and I am in a position to share my experience with the young players and all the things I have learnt,\" Rey told PTI.Rey, who was part of Argentina's gold medal-winning team at the 2016 Rio Olympics, said the country's football success under Messi has reinforced a simple sporting philosophy: never give up..\"",
-   "image": "https://media.assettype.com/dt-next%2F2026-08-21%2Fc2obg0o6%2F1-7.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "cat": "SKY SPORTS",
+   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
+   "iso": "2026-08-21T12:36:04.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "Marko Stamenic: Swansea City midfielder gets love back after traumatic year",
+   "iso": "2026-08-21T12:00:17.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx27wl292eno",
+   "lede": "Marko Stamenic has established himself as a key man in Swansea's midfield. Marko Stamenic says \"the people around Swansea City\" have helped him rediscover his love for football during his first year at the Championship club. Thursday marked 12 months since Stamenic said farewell to Nottingham Forest to take on the challenge of proving himself in the Championship at Swansea. The 24-year-old has achieved that feat despite the trauma brought by the sudden death of his father Nikola, who he calls the \"main figure\" in his development as a player, last October.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecff/live/ff23f930-9cb4-11f1-84cf-fd4cfd9d6c84.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "REDIFF",
@@ -28,8 +38,8 @@
    "link": "https://www.rediff.com/sports/report/matias-rey-inspired-by-lionel-messi-at-sixth-hockey-world-cup/20260821.htm",
    "lede": "Discover how football icon Lionel Messi's enduring legacy and \"never give up\" spirit are profoundly inspiring Argentina's men's hockey captain Matias Rey and his team at the World Cup. \"I am playing my sixth World Cup, like Lionel Messi, and I am in a position to share my experience with the young players and all the things I have learnt,\" Rey told PTI. Rey, who was part of Argentina's gold medal-winning team at the 2016 Rio Olympics, said the country's football success under Messi has reinforced a simple sporting philosophy: never give up. \"Argentina is a football country and they played the World Cup final this year.",
    "image": "https://im.rediff.com/1200-630/money/2022/nov/04messi.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "NINE.COM.AU",
@@ -38,8 +48,8 @@
    "link": "https://www.nine.com.au/sport/football/premier-league-news-martin-odegaard-exclusive-interview-arsenal-season-preview-how-to-watch-in-australia-20260821-p60qg1.html",
    "lede": "Martin Ødegaard is hoping to ride the momentum of a dizzying few months as Arsenal kick off their Premier League title defence against Coventry City on Saturday AEST (Stan Sport coverage from 4am). Ødegaard has had little downtime after captaining Arsenal to a drought-breaking trophy in May and then leading Norway at the World Cup in June-July. Odergaard was on the drum. Ødegaard told Nine’s Tom Steinfort that Norway was “on fire” as the fans’ ‘Viking Row’ support went global and viral.",
    "image": "https://static.ffx.io/images/$zoom_0.7546%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_127%2C$y_51/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f3b9dab98eeca0860218221569e34d5f04f49719b1ebf0305a9de60b2f1d70e8",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS UK",
@@ -48,35 +58,25 @@
    "link": "https://uk.sports.yahoo.com/news/luis-la-fuente-set-bumper-053030372.html",
    "lede": "The Spanish Football Federation (RFEF) is preparing a lucrative new contract extension for head coach Luis de la Fuente following their historic 2026 World Cup triumph. The governing body intends to extend his existing deal, which runs until 2028, to keep him in charge through the 2030 tournament, which Spain will co-host alongside Portugal and Morocco. The Spanish Football Federation (RFEF) is preparing a lucrative new contract extension for head coach Luis de la Fuente following their historic 2026 World C...",
    "image": "https://s.yimg.com/lo/mysterio/api/21f7dd1812914daae2ad17d4148528e9e7dd972a2fdba206db4cf4a488df0396/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_uk_815%2Faf3ff5c94fea0e2348c5e4e087d9aaba.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
-   "iso": "2026-08-21T01:30:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/20/gianni-infantino-eyes-junior-tournament-dominican-republic-route-out-of-fifa-crisis",
-   "lede": "Meetings around event seen as chance to lobby for votes. Fifa president may meet his most credible challenger. Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble to cling on to power from the Fifa president. The Guardian has learned that Infantino has made plans to attend the U14 Boys Challenge competition organised by the Caribbean Football Union (CFU), 21 of whose associations are voting members of Fifa, despite being urged to stay away from the event by senior figures within Concacaf – the Confederation of North, Central America and Caribbean Association Football – which is working with Uefa to remove him.",
-   "image": "https://i.guim.co.uk/img/media/169d8a40f66255bac26154d4bae440b28b84961f/303_0_3530_2825/master/3530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3f165112c1813a7183b4d25f91faf65",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
-   "iso": "2026-08-21T01:30:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
-   "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
-   "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
+   "cat": "RANGERS FOOTBALL CLUB",
+   "title": "Cruft And Hendle Called Up For England At World Cup",
+   "iso": "2026-08-21T13:01:56.000Z",
+   "link": "https://www.rangers.co.uk/article/cruft-and-hendle-called-up-for-england-at-world-cup/2jb4HxfuJd7SHD5CuRhpoK",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ENCYCLOPEDIA BRITANNICA",
-   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-   "iso": "2026-08-21T09:14:54.000Z",
-   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
-   "lede": "",
+   "cat": "THE NEW YORK TIMES",
+   "title": "The rules in college football and basketball are constantly changing. Can you keep up?",
+   "iso": "2026-08-21T12:38:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7528511/2026/08/21/ncaa-eligibility-requirements-college-football-quiz/",
+   "lede": "The state of eligibility in college sports is perplexing. See how you do with these nine cases.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20232502/GettyImages-1476242973.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
