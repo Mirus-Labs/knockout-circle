@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-21T03:53:40.104Z",
+ "updated": "2026-08-21T04:24:31.110Z",
  "news": [
+  {
+   "cat": "SKY SPORTS",
+   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
+   "iso": "2026-08-21T03:34:38.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
@@ -8,8 +18,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
    "lede": "Stadium has hosted two men’s World Cup finals. Arena Itaquera in São Paulo will host 10 matches. The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July.",
    "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=861168ab49a5a93eeae841e933127bf3",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "COMMBANK MATILDAS",
@@ -18,16 +28,6 @@
    "link": "https://matildas.com.au/news/fifa-womens-world-cup-brazil-2027tm-match-schedule-unveiled",
    "lede": "The FIFA Women's World Cup Brazil 2027™ is just 306 days away, and the much-anticipated match schedule for the tenth edition of the tournament has now been confirmed. FIFA has unveiled the match schedule for the FIFA Women's World Cup Brazil 2027™, confirming when and where all 64 fixtures will be played across Brazil’s eight vibrant Host Cities. All eight Host Cities will host at least seven matches, including a minimum of one knockout fixture. Brasília, Porto Alegre, Recife and Salvador will host matches until the Round of 16.",
    "image": "https://matildas.com.au/sites/default/files/2026-08/Match%20Schedule.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
-   "iso": "2026-08-20T23:58:49.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk",
-   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
-   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "INDIA TODAY",
-   "title": "India's date with World Cup heroes Cape Verde all but confirmed: Details",
-   "iso": "2026-08-21T02:57:44.000Z",
-   "link": "https://www.indiatoday.in/sports/football/story/india-vs-cabo-verde-friendly-october-brazil-delegation-kolkata-inspection-2976267-2026-08-21",
-   "lede": "India are likely to face Cabo Verde on October 6 after their Brazil friendly in Kolkata. The possible fixture would deepen a packed October window amid debate over the AIFF's ASEAN Cup withdrawal.",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/brazil--cabo-verde-215726621-16x9_0.jpg?VersionId=IYqfrfIIbJFt3urZxUKDNwktS1D68HHh",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Tarik Muharemovic on Balogun tackle, Chiellini and Leeds: ‘The Premier League is a dream come true’",
+   "iso": "2026-08-21T04:10:22.000Z",
+   "link": "https://www.nytimes.com/athletic/7523993/2026/08/21/muharemovic-leeds-balogun-usmnt-bosnia-juventus-interview/",
+   "lede": "The Bosnia defender found himself thrust into the limelight at the World Cup, but is now hoping to make a proper mark in the Premier League.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20091236/GettyImages-2289631116-scaled-e1787231586424.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
