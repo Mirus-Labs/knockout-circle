@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-21T19:40:17.745Z",
+ "updated": "2026-08-21T19:58:59.978Z",
  "news": [
   {
    "cat": "SKY SPORTS",
    "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
-   "iso": "2026-08-21T18:39:31.000Z",
+   "iso": "2026-08-21T19:55:41.000Z",
    "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
    "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
    "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
@@ -62,19 +62,20 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "REUTERS",
-   "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
-   "iso": "2026-08-21T18:56:43.000Z",
-   "link": "https://www.reuters.com/sports/soccer/paredes-banned-10-games-after-world-cup-final-fracas-argentina-fined-2026-08-21/",
-   "lede": "",
+   "cat": "BENIN WEB TV",
+   "title": "FIFA - World Cup 2026: Leandro Paredes receives a ten-match suspension. -",
+   "iso": "2026-08-21T15:58:42.000Z",
+   "link": "https://beninwebtv.bj/en/fifa-world-cup-2026-leandro-paredes-receives-a-ten-match-suspension/",
+   "lede": "FIFA has unveiled sanctions against several Argentine players, staff members, and the Federation, more than a month after the incidents that occurred at the end of the 2026 World Cup final. Leandro Paredes receives the heaviest penalty, with a ten-match suspension. The defeat against Spain in the 2026 World Cup final continues to leave its mark on Argentina. Beaten 1-0 after extra time, the Albiceleste was involved in scuffles after the final whistle.",
+   "image": "https://beninwebtv.bj/en/wp-content/uploads/sites/3/wpwap-preview/og-545550-545552-1787327957.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MORNING STAR | THE PEOPLE’S DAILY",
-   "title": "England name U20 World Cup squad despite boycott threat",
-   "iso": "2026-08-21T18:21:27.000Z",
-   "link": "https://morningstaronline.co.uk/article/england-name-u20-world-cup-squad-despite-boycott-threat",
+   "cat": "REUTERS",
+   "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
+   "iso": "2026-08-21T18:56:43.000Z",
+   "link": "https://www.reuters.com/sports/soccer/paredes-banned-10-games-after-world-cup-final-fracas-argentina-fined-2026-08-21/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
