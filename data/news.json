@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-21T21:03:50.764Z",
+ "updated": "2026-08-21T21:41:11.628Z",
  "news": [
   {
-   "cat": "REDIFF",
-   "title": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl",
-   "iso": "2026-08-21T20:37:14.000Z",
-   "link": "https://www.rediff.com/sports/report/fifa-suspends-argentinas-paredes-molina-fines-afa-for-world-cup-final-brawl/20260822.htm",
-   "lede": "FIFA has handed down significant suspensions to Argentine players Leandro Paredes and Nahuel Molina, alongside a hefty fine to the Argentine Football Association (AFA), following a post-match brawl in the World Cup final against Spain and other disciplinary breaches. Argentina's Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup final while teammate Nahuel Molina was suspended for seven games, FIFA announced on Friday. A brief scuffle erupted at the final whistle when Argentina midfielder Paredes shoved Spain's Gavi to the ground as the European champions' substitutes rushed onto the pitch to celebrate. Paredes faced three assault counts while Molina faced two.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/jul/19fifa-wc-final-spain-argntina-lafda1.jpg",
+   "cat": "SKY SPORTS",
+   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
+   "iso": "2026-08-21T21:25:41.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "BREAKING: FIFA drops biggest punishment in World Cup history",
+   "iso": "2026-08-21T21:05:48.000Z",
+   "link": "https://www.foxsports.com.au/football/world-cup/teams/argentina/fifa-world-cup-2026-argentina-stars-banned-over-world-cup-final-fight-leandro-paredes-tenmatch-ban-four-players-suspended-321000-fine-issued-for-falkland-islands-banner-latest-news/news-story/5e26cb7a8d52fb0c1045c1fcdf2b4b64",
+   "lede": "Four Argentina players have been suspended after FIFA handed down heavy sanctions for the ugly fight that followed their World Cup final loss to Spain. Football’s governing body announced in the days following the final, which Spain won 1-0 for their second title, that they were undertaking a disciplinary investigation after several La Albiceleste players reacted to defeat by sparking a stoush with their Spanish counterparts after the final whistle. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Midfielder Leandro Paredes grabbed Eric Garcia by the throat and wrestled Gavi to the ground while holding his substitute’s bib, which led to an escalation in the incidents on the field.",
+   "image": "https://content.api.news/v3/images/bin/95239465faaaf7b6036861f2622c7ea8",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE SUN",
@@ -18,16 +28,6 @@
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
-   "iso": "2026-08-21T19:55:41.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
-   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
-   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Leandro Paredes receives 10-match ban as Argentina punished for World Cup final brawl",
-   "iso": "2026-08-21T16:25:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
-   "lede": "Nahuel Molina, Thiago Almada and Gavi also suspended. Fifa issue $321,000 fine for Falkland Islands banner. Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain, but they have only been fined for displaying a Falkland Islands banner after the semi-final win over England. Leandro Paredes has been given a 10-match ban and a $90,000 (£66,000) fine by Fifa’s disciplinary committee, while Nahuel Molina was given a seven-match suspension and fined the same amount.",
-   "image": "https://i.guim.co.uk/img/media/c6a8af535072c441882aba756824c37f917c5862/419_39_3032_2426/master/3032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=081d60159093c82300858fe6a6d143d2",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "THE NEW YORK TIMES",
    "title": "Shocking running back hot takes for the 2026 fantasy football season",
    "iso": "2026-08-21T19:51:00.000Z",
    "link": "https://www.nytimes.com/athletic/7519725/2026/08/20/fantasy-football-shocking-hot-takes/",
    "lede": "Brad Evans lights the fantasy world on fire with some sizzling hot takes, including Jonah Coleman's potential for a top-24 RB finish.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/17165350/GettyImages-2290002827-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Pat McAfee, ESPN closing in on new ‘Monday Night Football’ alt-cast: Sources",
+   "iso": "2026-08-21T19:50:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7526773/2026/08/20/espn-pat-mcafee-monday-night-football-altcast/",
+   "lede": "If approved by the NFL, McAfee's \"Monday Night Football\" alt-cast would run during weeks when the Peyton and Eli \"ManningCast\" isn't airing.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20105015/AP26115021973447-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
