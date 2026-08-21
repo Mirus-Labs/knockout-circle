@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T18:59:20.441Z",
+ "updated": "2026-08-21T19:31:35.140Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "REUTERS",
+   "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
+   "iso": "2026-08-21T17:06:55.000Z",
+   "link": "https://www.reuters.com/sports/soccer/paredes-banned-10-games-after-world-cup-final-fracas-argentina-fined-2026-08-21/",
+   "lede": "Argentina's Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain ​in the World Cup final while teammate Nahuel Molina was suspended for seven games, ‌FIFA announced on Friday. Reporting by Rohith ​Nair in Bengaluru; Additional reporting by Kylie Madry; Editing by Toby Davis and Ken Ferris. Our Standards: The Thomson Reuters Trust Principles., opens new tab.",
+   "image": "https://www.reuters.com/resizer/v2/ONB532WX6FJGLPZ4YBWLJG65UE.jpg?auth=54eba202ff6135fe55831035256a4806a0466e505844bb41ee630cb942daf253&height=1005&width=1920&quality=80&smart=true",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "SPORF",
    "title": "Leandro Paredes handed massive punishment for World Cup Final brawl",
    "iso": "2026-08-21T16:29:04.000Z",
    "link": "https://www.sporf.com/leandro-paredes-handed-massive-punishment-for-world-cup-final-brawl/",
    "lede": "Leandro Paredes has received a lengthy ban for his role in the post-FIFA World Cup Final 2026 brawl. After Argentina fell short against Spain at MetLife Stadium in New Jersey, USA, the defender engaged in a heated scuffle with members of the opposing team. While the World Cup final is designed to create action on the field, it was the drama that unfolded after the match that provided the biggest fireworks display of the evening. In a moment of madness, a furious Leandro Paredes grabbed Eric Garcia by the throat before launching Gavi towards the ground.",
    "image": "https://www.sporf.com/wp-content/uploads/2026/07/6dc82a84-leandro-paredes-2.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
    "lede": "Nahuel Molina, Thiago Almada and Gavi also suspended. Fifa issue $321,000 fine for Falkland Islands banner. Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain, but they have only been fined for displaying a Falkland Islands banner after the semi-final win over England. Leandro Paredes has been given a 10-match ban and a $90,000 (£66,000) fine by Fifa’s disciplinary committee, while Nahuel Molina was given a seven-match suspension and fined the same amount.",
    "image": "https://i.guim.co.uk/img/media/c6a8af535072c441882aba756824c37f917c5862/419_39_3032_2426/master/3032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=081d60159093c82300858fe6a6d143d2",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -48,8 +58,8 @@
    "link": "https://www.independent.co.uk/sport/football/leandro-paredes-argentina-ban-spain-fifa-world-cup-final-b3037140.html",
    "lede": "The Argentina midfielder was involved in a brawl at full-time at the New York New Jersey Stadium following the World Cup final defeat to Spain. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/21/15/2286808437..?trim=32,0,32,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SPORTSTAR",
@@ -58,8 +68,8 @@
    "link": "https://sportstar.thehindu.com/football/epl/top-fifa-world-cup-2026-players-transfer-to-premier-league-summer-transfers-signings/article71374148.ece",
    "lede": "AP AP https://ss-i.thgim.com/public/incoming/tn2jpe/article71374157.ece/alternates/FREE_1200/Canada_Switzerland_WCup_Soccer_77_79.jpg ABBIE PARR Switzerland's Johan Manzambi (9) celebrates after scoring during the World Cup Group B soccer match between Switzerland and Canada in Vancouver, British Columbia, Wednesday, June 24, 2026. (AP Photo/Abbie Parr) Here are five players who will make their Premier League debut this season following eye-catching performance at the World Cup. CHENNAI The Premier League 2026-27 season gets underway on Friday, with defending champion Arsenal taking on Coventry City at the Emirates. Once again, the English top-tier has attracted exciting footballing talents from across the world.",
    "image": "https://ss-i.thgim.com/public/incoming/tn2jpe/article71374157.ece/alternates/LANDSCAPE_1200/Canada_Switzerland_WCup_Soccer_77_79.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BENIN WEB TV",
@@ -68,16 +78,6 @@
    "link": "https://beninwebtv.bj/en/fifa-world-cup-2026-leandro-paredes-receives-a-ten-match-suspension/",
    "lede": "FIFA has unveiled sanctions against several Argentine players, staff members, and the Federation, more than a month after the incidents that occurred at the end of the 2026 World Cup final. Leandro Paredes receives the heaviest penalty, with a ten-match suspension. The defeat against Spain in the 2026 World Cup final continues to leave its mark on Argentina. Beaten 1-0 after extra time, the Albiceleste was involved in scuffles after the final whistle.",
    "image": "https://beninwebtv.bj/en/wp-content/uploads/sites/3/wpwap-preview/og-545550-545552-1787327957.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "FSU quarterback Tommy Castellanos, who upset Alabama last year, expected to land at Texas Tech",
-   "iso": "2026-08-21T18:02:29.000Z",
-   "link": "https://www.nytimes.com/athletic/7527698/2026/08/21/thomas-castellanos-texas-tech-eligibility-season-fifth/",
-   "lede": "The Red Raiders had a void at quarterback after Brendan Sorsby left the team to attend gambling addiction treatment.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20170623/ThomasCastellanos2-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
