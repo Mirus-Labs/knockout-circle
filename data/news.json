@@ -1,25 +1,55 @@
 {
- "updated": "2026-08-21T13:16:11.271Z",
+ "updated": "2026-08-21T14:00:06.042Z",
  "news": [
+  {
+   "cat": "SKY SPORTS",
+   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
+   "iso": "2026-08-21T13:55:32.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Andy Burnham ‘plots bid for Britain to host World Cup’ as he eyes tourism boost",
+   "iso": "2026-08-21T13:28:00.000Z",
+   "link": "https://www.independent.co.uk/news/uk/politics/world-cup-england-uk-2038-2042-andy-burnham-b3037079.html",
+   "lede": "It would be the first time the World Cup returned to the UK since 1966. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/06/22/15/610332878..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "HEXHAM COURANT",
+   "title": "England name Women’s Under-20 World Cup squad despite boycott threat remaining",
+   "iso": "2026-08-21T13:22:25.000Z",
+   "link": "https://www.hexham-courant.co.uk/sport/national/26485132.england-name-womens-under-20-world-cup-squad-despite-boycott-threat-remaining/",
+   "lede": "England have named their squad for the Women’s Under-20 World Cup, despite the threat of a European boycott still hanging over the tournament. The event is due to kick off on September 5 with hosts Poland taking on Argentina but risks being the first FIFA tournament where European teams refuse to participate amid UEFA’s row with the global governing body over president Gianni Infantino’s plan to invite private investment in a company to run the World Cup. The Football Association is treating preparations for the tournament as ‘business as usual’, with coach Lydia Bedford’s under-20 squad due to convene at St George’s Park early next week. The Polish federation (PZPN) has also indicated to the Press Association that nothing has changed in its planning, but the threat of a boycott has not been lifted.",
+   "image": "https://www.hexham-courant.co.uk/resources/images/21355236.jpg?type=og-image",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC",
+   "title": "England Women U20s squad named amid boycott threat",
+   "iso": "2026-08-21T13:00:06.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c2el8j10vl3o",
+   "lede": "England U20s beat Portugal 2-0 in a friendly earlier this month. Manager Lydia Bedford has named her England squad for the upcoming Fifa U20s Women's World Cup amid ongoing threat of a boycott from European nations. There have been calls for Fifa president Gianni Infantino to resign following the controversy over the Fifa Forward Enterprise (FFE) proposal. It was aborted after widespread criticism from several confederations, led by Uefa, which has threatened a boycott of all Fifa competitions.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45cc/live/f14df0f0-9d44-11f1-a137-179a8d1c790b.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "THE SUN",
    "title": "England to bid for World Cup 2038 or 2042 as Andy Burnham eyes huge tourism boost with Great Britain tournament",
    "iso": "2026-08-21T12:49:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40128384/england-andy-burnham-world-cup-fifa/",
    "lede": "GREAT BRITAIN is set to enter the race to host the World Cup in either 2038 or 2042. A bid backed by Prime Minister Andy Burnham is being considered as part of a plan to bring football‘s biggest tournament back to the UK for the first time since 1966. England hosted the World Cup 60 years ago, with Sir Alf Ramsey’s side famously lifting the trophy after beating West Germany in the final at Wembley. Now the tournament could return to these shores, with Burnham understood to view a World Cup as a major opportunity to drive investment, tourism and regeneration across the country.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/GETTY_FIFA-World-Cup-Trophy-in-New-York-City-Ahead-of-FIFA-World-Cup-2026-Final_SPO_GYI2286285066jp-.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
-   "iso": "2026-08-21T12:36:04.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
-   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
-   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/DD-21-08-england-v4_OP.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BBC",
@@ -28,55 +58,25 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cx27wl292eno",
    "lede": "Marko Stamenic has established himself as a key man in Swansea's midfield. Marko Stamenic says \"the people around Swansea City\" have helped him rediscover his love for football during his first year at the Championship club. Thursday marked 12 months since Stamenic said farewell to Nottingham Forest to take on the challenge of proving himself in the Championship at Swansea. The 24-year-old has achieved that feat despite the trauma brought by the sudden death of his father Nikola, who he calls the \"main figure\" in his development as a player, last October.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecff/live/ff23f930-9cb4-11f1-84cf-fd4cfd9d6c84.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "REDIFF",
-   "title": "How Lionel Messi's Legacy Drives Argentina's Hockey Team",
-   "iso": "2026-08-21T07:36:33.000Z",
-   "link": "https://www.rediff.com/sports/report/matias-rey-inspired-by-lionel-messi-at-sixth-hockey-world-cup/20260821.htm",
-   "lede": "Discover how football icon Lionel Messi's enduring legacy and \"never give up\" spirit are profoundly inspiring Argentina's men's hockey captain Matias Rey and his team at the World Cup. \"I am playing my sixth World Cup, like Lionel Messi, and I am in a position to share my experience with the young players and all the things I have learnt,\" Rey told PTI. Rey, who was part of Argentina's gold medal-winning team at the 2016 Rio Olympics, said the country's football success under Messi has reinforced a simple sporting philosophy: never give up. \"Argentina is a football country and they played the World Cup final this year.",
-   "image": "https://im.rediff.com/1200-630/money/2022/nov/04messi.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "NINE.COM.AU",
-   "title": "Why Arsenal’s World Cup hero is so grateful for Aussie fans",
-   "iso": "2026-08-21T06:26:43.000Z",
-   "link": "https://www.nine.com.au/sport/football/premier-league-news-martin-odegaard-exclusive-interview-arsenal-season-preview-how-to-watch-in-australia-20260821-p60qg1.html",
-   "lede": "Martin Ødegaard is hoping to ride the momentum of a dizzying few months as Arsenal kick off their Premier League title defence against Coventry City on Saturday AEST (Stan Sport coverage from 4am). Ødegaard has had little downtime after captaining Arsenal to a drought-breaking trophy in May and then leading Norway at the World Cup in June-July. Odergaard was on the drum. Ødegaard told Nine’s Tom Steinfort that Norway was “on fire” as the fans’ ‘Viking Row’ support went global and viral.",
-   "image": "https://static.ffx.io/images/$zoom_0.7546%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_127%2C$y_51/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f3b9dab98eeca0860218221569e34d5f04f49719b1ebf0305a9de60b2f1d70e8",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS UK",
-   "title": "Luis de la Fuente set for bumper new Spain contract after World Cup glory as RFEF eye 2030 extension",
-   "iso": "2026-08-21T05:30:00.000Z",
-   "link": "https://uk.sports.yahoo.com/news/luis-la-fuente-set-bumper-053030372.html",
-   "lede": "The Spanish Football Federation (RFEF) is preparing a lucrative new contract extension for head coach Luis de la Fuente following their historic 2026 World Cup triumph. The governing body intends to extend his existing deal, which runs until 2028, to keep him in charge through the 2030 tournament, which Spain will co-host alongside Portugal and Morocco. The Spanish Football Federation (RFEF) is preparing a lucrative new contract extension for head coach Luis de la Fuente following their historic 2026 World C...",
-   "image": "https://s.yimg.com/lo/mysterio/api/21f7dd1812914daae2ad17d4148528e9e7dd972a2fdba206db4cf4a488df0396/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_uk_815%2Faf3ff5c94fea0e2348c5e4e087d9aaba.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "RANGERS FOOTBALL CLUB",
-   "title": "Cruft And Hendle Called Up For England At World Cup",
-   "iso": "2026-08-21T13:01:56.000Z",
-   "link": "https://www.rangers.co.uk/article/cruft-and-hendle-called-up-for-england-at-world-cup/2jb4HxfuJd7SHD5CuRhpoK",
-   "lede": "",
+   "cat": "SABC SPORT",
+   "title": "The iconic Maracanã centre stage of the 2027 FIFA Women’s World Cup",
+   "iso": "2026-08-21T13:38:37.000Z",
+   "link": "https://www.sabcsport.com/soccer/news/the-iconic-maracana-the-centre-stage-of-the-2027-fifa-womens-world-cup",
+   "lede": "The iconic Maracanã football stadium in Rio De Janeiro will be hosting the opening and closing matches of the 2027 FIFA Women’s World Cup in Brazil. | soccer.",
+   "image": "https://cms.sabcsport.com/storage/images/tLQG11BZGyawvJ3_1600x900.webp",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The rules in college football and basketball are constantly changing. Can you keep up?",
-   "iso": "2026-08-21T12:38:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7528511/2026/08/21/ncaa-eligibility-requirements-college-football-quiz/",
-   "lede": "The state of eligibility in college sports is perplexing. See how you do with these nine cases.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20232502/GettyImages-1476242973.jpg?width=1200&height=630&fit=cover",
+   "cat": "FOCUS GAMING NEWS",
+   "title": "Blask found out how World Cup-themed games competed for players’ attention",
+   "iso": "2026-08-21T13:21:05.000Z",
+   "link": "https://focusgn.com/blask-found-out-how-world-cup-themed-games-competed-for-players-attention",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
