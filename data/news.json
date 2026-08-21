@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T20:34:47.902Z",
+ "updated": "2026-08-21T20:43:22.527Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -43,7 +43,7 @@
   },
   {
    "cat": "THE GUARDIAN",
-   "title": "Leandro Paredes hit with 10-match ban as Argentina punished for World Cup final brawl",
+   "title": "Leandro Paredes receives 10-match ban as Argentina punished for World Cup final brawl",
    "iso": "2026-08-21T16:25:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl",
    "lede": "Nahuel Molina, Thiago Almada and Gavi also suspended. Fifa issue $321,000 fine for Falkland Islands banner. Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain, but they have only been fined for displaying a Falkland Islands banner after the semi-final win over England. Leandro Paredes has been given a 10-match ban and a $90,000 (£66,000) fine by Fifa’s disciplinary committee, while Nahuel Molina was given a seven-match suspension and fined the same amount.",
@@ -52,32 +52,31 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE INDEPENDENT",
-   "title": "Argentina star Leandro Paredes handed 10-game ban for sparking World Cup final brawl",
-   "iso": "2026-08-21T16:11:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/leandro-paredes-argentina-ban-spain-fifa-world-cup-final-b3037140.html",
-   "lede": "The Argentina midfielder was involved in a brawl at full-time at the New York New Jersey Stadium following the World Cup final defeat to Spain. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/08/21/15/2286808437..?trim=32,0,32,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "An NFL rookie had 2 sacks in preseason debut. Now he could return to college football",
-   "iso": "2026-08-21T19:51:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7525348/2026/08/19/nfl-rookie-preseason-college-football-court-ruling/",
-   "lede": "A court ruling could allow Tampa Bay Buccaneers rookie Jack Pyburn to return to college after playing in a preseason game Friday.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19190054/GettyImages-2290532303-1-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "THE NEW YORK TIMES",
    "title": "Pat McAfee, ESPN closing in on new ‘Monday Night Football’ alt-cast: Sources",
    "iso": "2026-08-21T19:50:00.000Z",
    "link": "https://www.nytimes.com/athletic/7526773/2026/08/20/espn-pat-mcafee-monday-night-football-altcast/",
    "lede": "If approved by the NFL, McAfee's \"Monday Night Football\" alt-cast would run during weeks when the Peyton and Eli \"ManningCast\" isn't airing.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20105015/AP26115021973447-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "BEIN SPORTS",
+   "title": "Paredes handed 10-game ban for World Cup fracas",
+   "iso": "2026-08-21T19:27:09.000Z",
+   "link": "https://www.beinsports.com/en-au/football/fifa-world-cup-2026/articles/paredes-handed-10-game-ban-for-world-cup-fracas-2026-08-21",
+   "lede": "Argentina's Leandro Paredes has been given a 10-match suspension for his part in a brawl after his team lost to Spain in the 2026 FIFA World Cup final, while team-mate Nahuel Molina has also been suspended for seven games, FIFA announced on Saturday (AEST).",
+   "image": "https://prod-media.beinsports.com/image/1787340417851_bac500cb-13cd-4857-8570-2c8ab1e19861.1080.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "REUTERS",
+   "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
+   "iso": "2026-08-21T18:56:43.000Z",
+   "link": "https://www.reuters.com/sports/soccer/paredes-banned-10-games-after-world-cup-final-fracas-argentina-fined-2026-08-21/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
