@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-21T16:04:51.164Z",
+ "updated": "2026-08-21T16:52:34.680Z",
  "news": [
+  {
+   "cat": "SPORF",
+   "title": "Leandro Paredes handed massive punishment for World Cup Final brawl",
+   "iso": "2026-08-21T16:29:04.000Z",
+   "link": "https://www.sporf.com/leandro-paredes-handed-massive-punishment-for-world-cup-final-brawl/",
+   "lede": "Leandro Paredes has received a lengthy ban for his role in the post-FIFA World Cup Final 2026 brawl. After Argentina fell short against Spain at MetLife Stadium in New Jersey, USA, the defender engaged in a heated scuffle with members of the opposing team. While the World Cup final is designed to create action on the field, it was the drama that unfolded after the match that provided the biggest fireworks display of the evening. In a moment of madness, a furious Leandro Paredes grabbed Eric Garcia by the throat before launching Gavi towards the ground.",
+   "image": "https://www.sporf.com/wp-content/uploads/2026/07/6dc82a84-leandro-paredes-2.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "LIVESCORE",
+   "title": "World Cup coming home? England prepares potential bid to host 2038 or 2042",
+   "iso": "2026-08-21T16:23:19.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/world-cup-coming-home-england-prepares-potential-bid-to-host-2038-or-2042-goal/",
+   "lede": "The long wait for a home tournamentAccording to The Sun , Great Britain is considering a bid to host either the 2038 or 2042 World Cup. Supported by Prime Minister Andy Burnham, the proposal aims to bring football's flagship tournament back to British soil for the first time since 1966. With Burnham reportedly viewing a World Cup bid as a key driver for national investment, tourism, and urban regeneration, the tournament could finally return to British shores. Beyond its global tourist appeal and well-established transport network, Britain already possesses the world-class stadium infrastructure needed to host a tournament of this scale.The UK has not hosted the men's World Cup since 1966, although England hosted Euro 1996 and Wembley Stadium staged the Euro 2020 final.",
+   "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "SPORTSTAR",
+   "title": "Top players who moved to the Premier League after shining in FIFA World Cup 2026",
+   "iso": "2026-08-21T16:06:52.000Z",
+   "link": "https://sportstar.thehindu.com/football/epl/top-fifa-world-cup-2026-players-transfer-to-premier-league-summer-transfers-signings/article71374148.ece",
+   "lede": "AP AP https://ss-i.thgim.com/public/incoming/tn2jpe/article71374157.ece/alternates/FREE_1200/Canada_Switzerland_WCup_Soccer_77_79.jpg ABBIE PARR Switzerland's Johan Manzambi (9) celebrates after scoring during the World Cup Group B soccer match between Switzerland and Canada in Vancouver, British Columbia, Wednesday, June 24, 2026. (AP Photo/Abbie Parr) Here are five players who will make their Premier League debut this season following eye-catching performance at the World Cup. CHENNAI The Premier League 2026-27 season gets underway on Friday, with defending champion Arsenal taking on Coventry City at the Emirates. Once again, the English top-tier has attracted exciting footballing talents from across the world.",
+   "image": "https://ss-i.thgim.com/public/incoming/tn2jpe/article71374157.ece/alternates/LANDSCAPE_1200/Canada_Switzerland_WCup_Soccer_77_79.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
@@ -8,8 +38,18 @@
    "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
    "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
    "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "DECCAN HERALD",
+   "title": "FIFA World Cup final brawl: Leandro Paredes suspended for 10 matches, Argentina fined $321,000",
+   "iso": "2026-08-21T15:34:52.000Z",
+   "link": "https://www.deccanherald.com/sports/football/fifa-world-cup-final-brawl-leandro-paredes-suspended-for-10-matches-argentina-fined-321000-4119752",
+   "lede": "Argentine football player Leandro Paredes has been slapped with a 10-match suspension for being involved in a brawl after his team lost to Spain in the World Cup final received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup final last month. His teammate Nahuel Molina has also been suspended for seven games, FIFA announced on Friday. A scuffle erupted following the final whistle when Argentina midfielder Paredes pushed Spain's Gavi to the ground as the European champions' substitutes rushed onto the field to celebrate. Paredes was charged on three assault counts, while Molina faced two.",
+   "image": "https://media.assettype.com/deccanherald%2F2026-08-21%2Flg55a6o4%2Fperedes.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FLASHSCORE.COM",
@@ -18,66 +58,25 @@
    "link": "https://www.flashscore.com/news/soccer-world-cup-women-u20-european-fas-reveal-u20-women-s-world-cup-squads-despite-uefa-boycott/A7uhqOs4/",
    "lede": "UEFA announced it would boycott all FIFA tournaments after FIFA president Gianni Infantino announced plans to sell part of the FIFA World Cup through FIFA Forward Enterprise, a $20 billion subsidiary that would sell 20 per cent of the tournament to private investors. The 55 UEFA members unanimously voted to boycott FIFA tournaments as long as the sell-off plans were on the table, and UEFA president Aleksander Ceferin said they would keep up the boycott after FIFA and Infantino withdrew the plans, saying conditions had not been met. \"First, the proposals to sell off the major competitions had to be withdrawn, and secondly, assurances have to be made that such attempts to disfigure the game in this way will never be made again. These conditions have not been met,\" Ceferin said in a statement.",
    "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/e223fd36-0b47-4887-9c58-e55b5661ae59.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "INDIA TODAY",
-   "title": "FIFA slaps Argentina with hefty fine, punishments after World Cup final chaos",
-   "iso": "2026-08-21T15:24:20.000Z",
-   "link": "https://www.indiatoday.in/sports/football/story/fifa-argentina-world-cup-final-punishments-321000-fine-paredes-ban-2976948-2026-08-21",
-   "lede": "FIFA has punished the Argentine Football Association (AFA) and several members of Argentina's squad and coaching staff for disciplinary violations arising from the 2026 World Cup, including the confrontation that followed the final on July 19. The Argentine Football Association (AFA) has been ordered to pay $321,000 in fines after FIFA found multiple disciplinary violations during the World Cup. Among the incidents cited was a banner displayed by some Argentina players after their semi-final victory over England. The message read “Las Malvinas Son Argentinas”, translating to “The Falklands are Argentine”.",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/leandro-paredes-212310284-16x9_0.jpg?VersionId=xwLEfytiBjYoXtH1ljMLass6lT29hDNE",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "INFORMAT.RO",
-   "title": "The Argentine Football Federation was fined 321,000 dollars for the incidents in the World Cup final / Paredes, suspended for 10 matches",
-   "iso": "2026-08-21T15:23:07.000Z",
-   "link": "https://informat.ro/en/sport/suspended-for-10-matches-after-the-altercation-at-the-end-of-the-argentina-spain-match-135858",
-   "lede": "Leandro Paredes, the midfielder of the Argentine national team, has been suspended for 10 matches and fined $90,000 by FIFA, following a violent altercation at the end of the match between Argentina and Spain, held at the New York New Jersey stadium. The incident occurred after the final whistle, when Paredes slammed Spanish international Gavi to the ground, escalating tensions between the two teams. FIFA has also decided to sanction other members of the Argentine delegation, including Nahuel Molina, who received a seven-match suspension and a similar fine, and Thiago Almada, who will miss one match and will pay $30,000. Roberto Ayala, an official in the Argentine staff, has been suspended for three matches.",
-   "image": "https://media-storage.informat.ro/6a886d508b301_paredes.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "AFRICA TOP SPORTS",
-   "title": "2026 World Cup : FIFA hands Leandro Paredes a 10-match ban",
-   "iso": "2026-08-21T15:18:31.000Z",
-   "link": "https://en.africatopsports.com/2026-world-cup-fifa-hands-leandro-paredes-a-10-match-ban/",
-   "lede": "FIFA has announced disciplinary sanctions against several Argentina players and staff members following the clashes that erupted after the 2026 World Cup final against Spain. Leandro Paredes received the heaviest punishment, with FIFA handing the Boca Juniors midfielder a 10-match suspension and a €77,000 fine. Paredes played a central role in the post-match confrontation and notably attacked Barcelona midfielder Gavi after Argentina’s 1-0 defeat in extra time. Nahuel Molina also received a heavy punishment, with a seven-match suspension and a €77,000 fine.",
-   "image": "https://en.africatopsports.com/wp-content/uploads/2026/08/2026-World-Cup-FIFA-hands-Leandro-Paredes-a-10-match-ban-e1787325373942.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "FIFA bans Leandro Paredes for 10 matches over World Cup final scuffle",
-   "iso": "2026-08-21T15:08:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-bans-leandro-paredes-for-10-matches-over-world-cup-final-scuffle/articleshow/133407694.cms",
-   "lede": "Argentina midfielder Leandro Paredes has been handed a 10-match ban by FIFA following a scuffle with Spain players moments after the World Cup final. Paredes received the longest suspension among three Argentina players punished for the incident. The sanctions were announced by FIFA on Friday.Argentina defender Nahuel Molina has been suspended for seven matches, while Thiago Almada has received a one-match ban.The punishments were not limited to Argentina.Spain midfielder Gavi has also been suspended following the incident.",
-   "image": "https://static.toiimg.com/thumb/msid-133407823,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined",
-   "iso": "2026-08-21T15:02:31.000Z",
-   "link": "https://www.straitstimes.com/sport/football/paredes-banned-for-10-games-after-world-cup-final-fracas-argentina-fined",
-   "lede": "Argentina’s Leandro Paredes received a 10-match suspension, while teammate Nahuel Molina was suspended for seven games. Argentina’s Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup Final while teammate Nahuel Molina was suspended for seven games, FIFA announced on Aug 21. A brief scuffle erupted at the final whistle when Argentina midfielder Paredes shoved Spain’s Gavi to the ground as the European champions’ substitutes rushed onto the pitch to celebrate. Paredes faced three assault counts while Molina faced two.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/528b8e91784fad617de5519e462cf781dff7b03393338f57cdd3186b809c474f",
+   "cat": "VIJESTI.ME",
+   "title": "Epilogue of the conflict at the end of the World Cup final: Paredes will not play 10 matches, the Argentine Football Association must pay $321.000",
+   "iso": "2026-08-21T15:31:08.000Z",
+   "link": "https://en.vijesti.me/sports-e/football-c/823080/Epilogue-of-the-conflict-at-the-end-of-the-finals-SP-Paredes-does-not-play-10-matches-FS-Argentina-must-pay-321000-dollars",
+   "lede": "The International Football Federation (FIFA) has imposed sanctions a month after the World Cup final between Argentina and Spain due to a major on-field clash after the match. The most severely punished was Argentina international Leandro Paredes, who received a 10-match suspension. His teammate Nahuel Molina will not be able to play in the next seven matches, while Thiago Almada was suspended for one match, reported Spanish outlet Marca. Argentina was defeated by Spain 1-0 in the World Cup final.",
+   "image": "https://www.vijesti.me/data/images/2026/07/29/20/5746846_20260719t220703z-226297605-up1em7j1pfq2u-rtrmadp-3-soccerworldcupesparg_share.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LBC.CO.UK",
-   "title": "Argentina fined $321,000 over Falklands World Cup protest - as Paredes faces 10 match ban",
-   "iso": "2026-08-21T15:01:44.000Z",
-   "link": "https://www.lbc.co.uk/article/argentina-fined-321-000-over-falklands-world-cup-protest-as-paredes-faces-10-mat-5HjdgMw_2/",
-   "lede": "Fifa's Disciplinary Committee announced on Friday that the Argentinian Football Association (AFA) has been fined a total of $321,000 for several breaches of its code. Argentina has been fined $321,000 by Fifa over its Falklands World Cup protest that saw several players and coaching staff unfurl a banner following their triumph over England. Argentinian defensive midfielder Leandro Paredes, 32, now faces a 10-match ban as a result of his involvement in the stunt, which breached article 13 of Fifa's sporting code, the footballing body confirmed. Fifa's Disciplinary Committee also announced on Friday that the Argentinian Football Association (AFA) has been fined a total of $321,000 for several breaches of its code relating to both player and fan behaviour.",
-   "image": "https://images.globalplayer.com/images/836703?crop=16_9&width=1200&signature=lsKwWZQWwwGbdM5NPiLcsv0P5bg=",
+   "cat": "BUENOS AIRES TIMES",
+   "title": "Argentina hit with heavy sanctions by FIFA for World Cup controversies",
+   "iso": "2026-08-21T15:24:47.000Z",
+   "link": "https://www.batimes.com.ar/news/amp/sports/argentina-hit-with-heavy-sanctions-by-fifa-for-world-cup-controversies.phtml",
+   "lede": "Leando Paredes banned for 10 international matches and fined, along with teammate Nahuel Molina, who gets seven games; AFA ordered to play one national team match without fans for Malvinas flag incident, Thiago Almada and Spain’s Gavi given one-match bans. FIFA's Disciplinary Committee has imposed sanctions on the Argentine Football Association (AFA), three members of the national team squad and one of its coaches following incidents that occurred after Argentina's defeat by Spain in the 2026 World Cup final. Midfielder Leandro Paredes and two other Argentina players have received bans and fines for their involvement in clashes with Spain players after the final whistle, FIFA confirmed on Friday. Argentina have also been ordered to play their next two home matches with a 50 percent cap on spectator attendance, although one match of the sanction has been suspended.",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
