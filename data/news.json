@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T06:03:12.281Z",
+ "updated": "2026-08-22T06:14:39.864Z",
  "news": [
   {
    "cat": "NZ HERALD",
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FIRSTPOST",
-   "title": "Paredes receives 10-game suspension, three Argentina players punished by FIFA following World Cup final fal...",
-   "iso": "2026-08-22T05:10:23.000Z",
-   "link": "https://www.firstpost.com/sports/paredes-receives-10-game-suspension-three-argentina-players-punished-by-fifa-following-world-cup-final-fallout-14039989.html",
-   "lede": "",
+   "cat": "SEN",
+   "title": "Argentine handed down biggest World Cup ban after final fiasco",
+   "iso": "2026-08-22T05:13:10.000Z",
+   "link": "https://www.sen.com.au/news/2026/08/22/fifa-world-cup-2026-leandro-paredes-handed-down-10-match-suspension-for-brawl-in-final-argentina-handed-321-000-fine",
+   "lede": "FIFA's Disciplinary Committee has handed down some big suspensions following the World Cup.",
+   "image": "https://webassets.sen.com.au/backline/assets/best-split-img-16-9-2-jpg-c7528d5e54964280",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
