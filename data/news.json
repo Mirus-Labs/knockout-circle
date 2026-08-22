@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T14:41:30.559Z",
+ "updated": "2026-08-22T14:59:52.863Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -12,12 +12,12 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Tom Bischof talks about his summer break, watching the World Cup from home",
-   "iso": "2026-08-22T13:45:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
-   "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "cat": "SPORTSTAR",
+   "title": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis",
+   "iso": "2026-08-22T13:14:07.000Z",
+   "link": "https://sportstar.thehindu.com/football/gianni-infantino-fifa-concacaf-victor-montagliani-withdraw-youth-soccer-tournament-dominican-republic/article71377747.ece/amp/",
+   "lede": "AFP AFP https://ss-i.thgim.com/public/incoming/y4zype/article71377724.ece/alternates/FREE_1200/AFP__20230717__33P878R__v1__HighRes__FblConcacafGoldMatch40MexPan.jpg FREDERIC J. BROWN Fifa (Fédération Internationale de Football Association) president Gianni Infantino (L) and Concacaf president Victor Montagliani (R) wave at the end of the Concacaf 2023 Gold Cup final football match between Mexico and Panama at SoFi Stadium in Inglewood, California, on July 16, 2023. BROWN / AFP) Miami Infantino is under pressure from three confederations to resign, including Europe’s UEFA, Asia’s AFC and CONCACAF, ‌which represents North and Central America and the Caribbean, ‌after ⁠his aborted proposal to sell a stake in the ⁠World Cup.",
+   "image": "https://ss-i.thgim.com/public/incoming/y4zype/article71377724.ece/alternates/FREE_1200/AFP__20230717__33P878R__v1__HighRes__FblConcacafGoldMatch40MexPan.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,34 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "GMA NETWORK",
-   "title": "FIFA slaps Argentina with fines, bans over World Cup final",
-   "iso": "2026-08-22T12:19:51.000Z",
-   "link": "https://www.gmanetwork.com/news/sports/football/999477/fifa-slaps-argentina-with-fines-bans-over-world-cup-final/story/",
-   "lede": "A 10-match suspension for midfielder Leandro Paredes was one of several sanctions FIFA imposed against Argentina on Friday for their actions in last month's World Cup final loss to Spain. The FIFA Disciplinary Committee also fined Paredes $90,000 for sparking a post-match brawl after Spain's 1-0 victory in extra time on July 19 at MetLife Stadium in East Rutherford, N.J. Argentina teammates Nahuel Molina (seven-match suspension, $90,000 fine) and Thiago Almada (one match, $30,000) and team official Roberto Ayala (three matches, $30,000) and Spain midfielder Gavi (one match, $30,000) also were disciplined. FIFA also fined the Argentinian Football Association (AFA) $321,000 for various violations, including using a sports event for demonstrations of a non-sporting nature; team misconduct; and discriminatory chants and gestures by its supporters.",
-   "image": "https://images.gmanews.tv/webpics/2026/07/2026-07-19T222015Z_1780254436_UP1EM7J1Q1P6K_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG_2026_07_20_06_57_31.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "V2 RADIO",
    "title": "Gianni Infantino asked to stay away from youth tournament amid anger at FIFA World Cup sell-off plan",
    "iso": "2026-08-22T10:50:00.000Z",
    "link": "https://www.v2radio.co.uk/news/v2-radio-world-news/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-fifa-world-cup-sell-off-plan/",
    "lede": "Mr Infantino was told in a letter on Friday by the region's football leadership that his presence at the event in the Dominican Republic this weekend would \"undermine\" the children's matches. The embattled football leader yesterday flew into the Caribbean island, where he made light of questions by Sky News on the crisis engulfing FIFA - and stayed silent on his future. While Mr Infantino was greeted by local politicians, the head of the football confederation for the North American and Caribbean region told him he is not welcome at the Caribbean Football Union under-14s tournament. It is understood he was invited before officials knew of secret plans to try to sell shares in a new World Cup venture to private investors , which provoked anger within the CONCACAF region once they were leaked last month.",
    "image": "https://e3.365dm.com/26/07/640x380/skynews-infantino-fifa_7309857.jpg?20260822113320",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "Leandro Paredes banned for 10 games after World Cup final fracas, Argentina fined",
-   "iso": "2026-08-22T10:28:11.000Z",
-   "link": "https://www.straitstimes.com/sport/football/paredes-banned-for-10-games-after-world-cup-final-fracas-argentina-fined",
-   "lede": "Argentina’s Leandro Paredes received a 10-match suspension, while teammate Nahuel Molina was suspended for seven games. The Argentinian Football Association (AFA) is considering an appeal to the Court of Arbitration for Sport (CAS) after FIFA imposed fines and sanctions following ugly scenes at the World Cup final on July 19. Argentinian midfielder Leandro Paredes received a 10-match suspension for his part in a brawl after the 2022 champions lost 1-0 to Spain at the MetLife Stadium in New Jersey, while teammate Nahuel Molina was suspended for seven games, FIFA announced on Aug 21. A brief scuffle erupted at the final whistle, with Paredes shoving Spain’s Gavi to the ground as the European champions’ substitutes rushed onto the pitch to celebrate.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/528b8e91784fad617de5519e462cf781dff7b03393338f57cdd3186b809c474f",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "INBOX.LV",
@@ -68,8 +48,18 @@
    "link": "https://news.inbox.lv/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=en",
    "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
    "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "MUNDO DEPORTIVO",
+   "title": "Argentine Football Association to appeal FIFA sanctions against World Cup team",
+   "iso": "2026-08-22T07:55:31.000Z",
+   "link": "https://www.mundodeportivo.com/en/soccer/20260822/1004218493/argentine-football-association-to-appeal-fifa-sanctions-against-world-cup-team.html?facet=amp",
+   "lede": "The Argentine Football Association (AFA) announced that it will appeal the sanctions imposed by FIFA on Friday against the country’s national team, which include suspensions, financial penalties and restrictions on supporters at home matches over various incidents during the 2026 World Cup. “In light of the notifications received, and in defence of the rights of the Association and its players, the AFA Legal Department will, in due time and form, request from FIFA the grounds for the rulings that are subject to review in order to lodge appeals before the Appeals Committee of world football’s governing body,” the Argentine organisation said in a statement. The AFA is also considering “the possibility of appealing to CAS (Court of Arbitration for Sport) as a final resort”.",
+   "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a69973912e67.jpeg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "NEWSGRAM",
@@ -78,6 +68,16 @@
    "link": "https://www.newsgram.com/football/2026/08/22/fifa-banned-three-argentina-one-spaniard",
    "lede": "FIFA bans three Argentina players and one Spanish Player after a brawl happened during Post World Cup Final Match back in July.. Argentina Player Leandro Paredes shoved Gavi on the ground and grabbed Eric Garcia's throat.. Many such bans were given by FIFA, AFA will challenge FIFA for the sanctions.. SINCE THE END OF FIFA WORLD CUP 2026, FIFA has been closely watching the issue that occurred after the World Cup final back in July.",
    "image": "https://media.assettype.com/newsgram%2F2026-08-22%2Fu72yj4xe%2FScreenshot-2026-08-22-111150.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Concacaf ask under-fire FIFA president Gianni Infantino to stay away from youth tournament",
+   "iso": "2026-08-22T14:16:24.000Z",
+   "link": "https://www.nytimes.com/athletic/7531070/2026/08/22/gianni-infantino-victor-montagliani-fifa-crisis/",
+   "lede": "Concacaf chief Victor Montagliani said in a letter that the presence of Infantino would \"undermine\" the Under-14s event.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/22085721/GettyImages-1409617704-scaled-e1787403464605.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
