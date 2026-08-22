@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T07:46:58.365Z",
+ "updated": "2026-08-22T07:48:08.255Z",
  "news": [
   {
    "cat": "NEWSGRAM",
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
+   "cat": "CITIZEN DIGITAL",
+   "title": "Argentina's Paredes suspended for 10 games for World Cup fight",
+   "iso": "2026-08-22T05:49:12.000Z",
+   "link": "https://www.citizen.digital/article/argentinas-paredes-suspended-for-10-games-for-world-cup-fight-n388781",
+   "lede": "Gavi was banned for a match and also fined $30,000 for his role in the fracas that erupted after holders Argentina were defeated thanks to Ferran Torres' goal in extra time.",
+   "image": "https://assets.citizen.digital/173297/conversions/27f1c392-20e9-4096-b7d2-043a5da2a957_AFP__20260821__C68L2NQ__v1__HighRes__FilesFblWc2026ArgParedesSuspension-og_image.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "THE PENINSULA QATAR",
    "title": "FIFA Disciplinary Committee imposes sanctions following incidents at World Cup 2026",
    "iso": "2026-08-22T05:39:36.000Z",
    "link": "https://thepeninsulaqatar.com/article/22/08/2026/fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026",
    "lede": "Zurich: FIFA announced today imposing sanctions against several players involved in the violence that followed the 2026 World Cup final at MetLife Sta...",
    "image": "https://thepeninsulaqatar.com/get/maximage/20260822_1787377099-930.jpeg?1787377099",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SEN",
-   "title": "Argentine handed down biggest World Cup ban after final fiasco",
-   "iso": "2026-08-22T05:13:10.000Z",
-   "link": "https://www.sen.com.au/news/2026/08/22/fifa-world-cup-2026-leandro-paredes-handed-down-10-match-suspension-for-brawl-in-final-argentina-handed-321-000-fine",
-   "lede": "FIFA's Disciplinary Committee has handed down some big suspensions following the World Cup.",
-   "image": "https://webassets.sen.com.au/backline/assets/best-split-img-16-9-2-jpg-c7528d5e54964280",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
