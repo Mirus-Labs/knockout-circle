@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-22T05:45:11.390Z",
+ "updated": "2026-08-22T06:03:12.281Z",
  "news": [
   {
    "cat": "NZ HERALD",
    "title": "Argentina hit with sanctions for Falklands banner, World Cup final brawl",
-   "iso": "2026-08-22T04:18:45.000Z",
+   "iso": "2026-08-22T04:22:09.000Z",
    "link": "https://www.nzherald.co.nz/sport/football/argentina-fined-and-players-banned-by-fifa-over-falklands-banner-and-final-brawl/4PY4UVU2BFFZXE3MW34H4BDPZQ/",
    "lede": "Argentina have been hit with major sanctions by Fifa over their display of a Falkland Islands banner, while two players face lengthy bans for their actions in the World Cup final. After beating England 2-1 in their Fifa World Cup semi-final, Argentina players paraded a banner that read “Las Malvinas son Argentinas”, which translates to the Falklands belong to Argentina. Three EPL players, including Manchester United’s Lisandro Martinez and former Tottenham Hotspurs players Cristian Romero and Giovani Lo Celso, were pictured with the banner. The rivalry between the two nations over the islands was a hot topic before the match, with the tension being traced back to the South American nation’s invasion of the Falklands in 1982.",
    "image": "https://www.nzherald.co.nz/resizer/v2/YCEXU45ZW5ECZBG55LYISXOT74.jpg?auth=75f40dbc595bbbef299774cf31cb21511a68ec83ac7242620c6fe3647d6d7375&width=1200&height=675&quality=70&focal=780%2C610&smart=false",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "REDIFF",
+   "title": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl",
+   "iso": "2026-08-21T20:37:14.000Z",
+   "link": "https://www.rediff.com/sports/report/fifa-suspends-argentinas-paredes-molina-fines-afa-for-world-cup-final-brawl/20260822.htm",
+   "lede": "FIFA has handed down significant suspensions to Argentine players Leandro Paredes and Nahuel Molina, alongside a hefty fine to the Argentine Football Association (AFA), following a post-match brawl in the World Cup final against Spain and other disciplinary breaches. Argentina's Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup final while teammate Nahuel Molina was suspended for seven games, FIFA announced on Friday. A brief scuffle erupted at the final whistle when Argentina midfielder Paredes shoved Spain's Gavi to the ground as the European champions' substitutes rushed onto the pitch to celebrate. Paredes faced three assault counts while Molina faced two.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/jul/19fifa-wc-final-spain-argntina-lafda1.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE SUN",
    "title": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation'",
    "iso": "2026-08-21T20:05:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -48,8 +58,18 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
    "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE PENINSULA QATAR",
+   "title": "FIFA Disciplinary Committee imposes sanctions following incidents at World Cup 2026",
+   "iso": "2026-08-22T05:39:36.000Z",
+   "link": "https://thepeninsulaqatar.com/article/22/08/2026/fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026",
+   "lede": "Zurich: FIFA announced today imposing sanctions against several players involved in the violence that followed the 2026 World Cup final at MetLife Sta...",
+   "image": "https://thepeninsulaqatar.com/get/maximage/20260822_1787377099-930.jpeg?1787377099",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FIRSTPOST",
@@ -57,25 +77,6 @@
    "iso": "2026-08-22T05:10:23.000Z",
    "link": "https://www.firstpost.com/sports/paredes-receives-10-game-suspension-three-argentina-players-punished-by-fifa-following-world-cup-final-fallout-14039989.html",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "Tuchel Warns: Saka's World Cup Hopes In Danger? #Saka #WorldCup #Tuchel Foogiano (DVeVCcTjHy)",
-   "iso": "2026-08-22T04:04:34.000Z",
-   "link": "https://mshale.com/8aa57457/f7b005d3ue8Wo34dt6Q",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SEN",
-   "title": "Argentine handed down biggest World Cup ban after final fiasco",
-   "iso": "2026-08-22T03:57:16.000Z",
-   "link": "https://www.sen.com.au/news/2026/08/22/fifa-world-cup-2026-leandro-paredes-handed-down-10-match-suspension-for-brawl-in-final-argentina-handed-321-000-fine",
-   "lede": "FIFA's Disciplinary Committee has handed down some big suspensions following the World Cup.",
-   "image": "https://webassets.sen.com.au/backline/assets/best-split-img-16-9-2-jpg-c7528d5e54964280",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
