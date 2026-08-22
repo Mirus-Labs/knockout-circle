@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-22T03:09:43.054Z",
+ "updated": "2026-08-22T03:49:35.465Z",
  "news": [
+  {
+   "cat": "SKY SPORTS",
+   "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
+   "iso": "2026-08-22T00:42:46.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+   "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FOX SPORTS",
    "title": "BREAKING: FIFA drops biggest punishment in World Cup history",
@@ -8,8 +18,8 @@
    "link": "https://www.foxsports.com.au/football/world-cup/teams/argentina/fifa-world-cup-2026-argentina-stars-banned-over-world-cup-final-fight-leandro-paredes-tenmatch-ban-four-players-suspended-321000-fine-issued-for-falkland-islands-banner-latest-news/news-story/5e26cb7a8d52fb0c1045c1fcdf2b4b64",
    "lede": "Four Argentina players have been suspended after FIFA handed down heavy sanctions for the ugly fight that followed their World Cup final loss to Spain. Football’s governing body announced in the days following the final, which Spain won 1-0 for their second title, that they were undertaking a disciplinary investigation after several La Albiceleste players reacted to defeat by sparking a stoush with their Spanish counterparts after the final whistle. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Midfielder Leandro Paredes grabbed Eric Garcia by the throat and wrestled Gavi to the ground while holding his substitute’s bib, which led to an escalation in the incidents on the field.",
    "image": "https://content.api.news/v3/images/bin/95239465faaaf7b6036861f2622c7ea8",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE SUN",
@@ -18,8 +28,8 @@
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -28,8 +38,8 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
    "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SEN",
@@ -38,8 +48,8 @@
    "link": "https://www.sen.com.au/news/2026/08/22/fifa-world-cup-2026-leandro-paredes-handed-down-10-match-suspension-for-brawl-in-final-argentina-handed-321-000-fine",
    "lede": "FIFA's Disciplinary Committee has handed down some big suspensions following the World Cup.",
    "image": "https://webassets.sen.com.au/backline/assets/best-split-img-16-9-2-jpg-c7528d5e54964280",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -48,8 +58,8 @@
    "link": "https://www.nytimes.com/athletic/7513001/2026/08/18/how-coventry-city-play-tactics-premier-league/",
    "lede": "Frank Lampard's side have ideas which suit underdog football. Having navigated their way back to the top flight, now it's time to stay there.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14113105/GettyImages-2273218695-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ABC7 LOS ANGELES",
@@ -58,16 +68,6 @@
    "link": "https://abc7.com/post/fifa-sanctions-argentina-several-players-world-cup-final-scuffle/19715742/",
    "lede": "FIFA banned three Argentina players on Friday, including a 10-match suspension for midfielder Leandro Paredes, for striking Spain opponents after losing the World Cup final. FIFA banned three Argentina players, including 10-match suspension for Leandro Paredes, for striking Spain opponents after losing the World Cup final.",
    "image": "https://cdn.abcotvs.com/dip/images/19714907_AP26202648630423.jpg?w=1600",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Golf balls, a trash can and the Phillies’ wild fantasy football draft order",
-   "iso": "2026-08-21T22:40:23.000Z",
-   "link": "https://www.nytimes.com/athletic/7530262/2026/08/21/phillies-nfl-fantasy-football-draft-order-golf-balls/",
-   "lede": "This is the time of year when many MLB teams determine their draft orders through decidedly ridiculous methods.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/21181401/GettyImages-2211037959-scaled-e1787350454476.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
