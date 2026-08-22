@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T17:39:37.774Z",
+ "updated": "2026-08-22T17:58:47.917Z",
  "news": [
   {
    "cat": "THE SUN",
@@ -62,10 +62,10 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "INBOX.LV",
+   "cat": "INBOX.EU",
    "title": "FIFA sanctions Argentina over brawl at World Cup final game",
    "iso": "2026-08-22T10:08:25.000Z",
-   "link": "https://news.inbox.lv/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=en",
+   "link": "https://news.inbox.eu/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=en",
    "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
    "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
    "emoji": "📣",
@@ -73,11 +73,11 @@
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Concacaf ask under-fire FIFA president Gianni Infantino to stay away from youth tournament",
-   "iso": "2026-08-22T14:16:24.000Z",
-   "link": "https://www.nytimes.com/athletic/7531070/2026/08/22/gianni-infantino-victor-montagliani-fifa-crisis/",
-   "lede": "Concacaf chief Victor Montagliani said in a letter that the presence of Infantino would \"undermine\" the Under-14s event.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/22085721/GettyImages-1409617704-scaled-e1787403464605.jpg?width=1200&height=630&fit=cover",
+   "title": "Former West Brom player Quevin Castro, 25, dies during pre-season friendly",
+   "iso": "2026-08-22T17:09:34.000Z",
+   "link": "https://www.nytimes.com/athletic/7531310/2026/08/22/west-brom-chelsea-quevin-castro-death-collapse-pitch/",
+   "lede": "A statement from the Lisbon Football Association confirmed that the 25-year-old \"passed away this morning during the pre-season friendly\".",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/22120739/GettyImages-1240646813-scaled-e1787414882962.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
