@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-22T03:58:48.312Z",
+ "updated": "2026-08-22T04:37:39.856Z",
  "news": [
   {
    "cat": "NZ HERALD",
    "title": "Argentina hit with sanctions for Falklands banner, World Cup final brawl",
-   "iso": "2026-08-21T23:56:14.000Z",
+   "iso": "2026-08-22T04:18:45.000Z",
    "link": "https://www.nzherald.co.nz/sport/football/argentina-fined-and-players-banned-by-fifa-over-falklands-banner-and-final-brawl/4PY4UVU2BFFZXE3MW34H4BDPZQ/",
    "lede": "Argentina have been hit with major sanctions by Fifa over their display of a Falkland Islands banner, while two players face lengthy bans for their actions in the World Cup final. After beating England 2-1 in their Fifa World Cup semi-final, Argentina players paraded a banner that read “Las Malvinas son Argentinas”, which translates to the Falklands belong to Argentina. Three EPL players, including Manchester United’s Lisandro Martinez and former Tottenham Hotspurs players Cristian Romero and Giovani Lo Celso, were pictured with the banner. The rivalry between the two nations over the islands was a hot topic before the match, with the tension being traced back to the South American nation’s invasion of the Falklands in 1982.",
    "image": "https://www.nzherald.co.nz/resizer/v2/YCEXU45ZW5ECZBG55LYISXOT74.jpg?auth=75f40dbc595bbbef299774cf31cb21511a68ec83ac7242620c6fe3647d6d7375&width=1200&height=675&quality=70&focal=780%2C610&smart=false",
@@ -62,21 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "ABC7 LOS ANGELES",
-   "title": "FIFA sanctions Argentina and several players for World Cup final scuffle",
-   "iso": "2026-08-22T00:11:06.000Z",
-   "link": "https://abc7.com/post/fifa-sanctions-argentina-several-players-world-cup-final-scuffle/19715742/",
-   "lede": "FIFA banned three Argentina players on Friday, including a 10-match suspension for midfielder Leandro Paredes, for striking Spain opponents after losing the World Cup final. FIFA banned three Argentina players, including 10-match suspension for Leandro Paredes, for striking Spain opponents after losing the World Cup final.",
-   "image": "https://cdn.abcotvs.com/dip/images/19714907_AP26202648630423.jpg?w=1600",
+   "cat": "THE NEW YORK TIMES",
+   "title": "How Coventry City play: Tactical flexibility, a high line and plenty of set-piece expertise - The Athletic",
+   "iso": "2026-08-22T00:47:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7513001/2026/08/18/how-coventry-city-play-tactics-premier-league/",
+   "lede": "Frank Lampard's side have ideas which suit underdog football. Having navigated their way back to the top flight, now it's time to stay there.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14113105/GettyImages-2273218695-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FACEBOOK.COM",
-   "title": "Breaking News from The Athletic FC: Argentina staff and players are banned for a combined 21 games for brawling after their loss to Spain in the World Cup final. https://nyti.ms/4zAu1eU",
-   "iso": "2026-08-21T22:03:57.000Z",
-   "link": "https://www.facebook.com/nytimes/photos/breaking-news-from-the-athletic-fc-argentina-staff-and-players-are-banned-for-a-/1463830168932775/",
-   "lede": "",
+   "cat": "ABC7 LOS ANGELES",
+   "title": "FIFA sanctions Argentina and several players for World Cup final scuffle",
+   "iso": "2026-08-22T00:22:02.000Z",
+   "link": "https://abc7.com/post/fifa-sanctions-argentina-several-players-world-cup-final-scuffle/19715742/",
+   "lede": "FIFA banned three Argentina players on Friday, including a 10-match suspension for midfielder Leandro Paredes, for striking Spain opponents after losing the World Cup final. FIFA banned three Argentina players, including 10-match suspension for Leandro Paredes, for striking Spain opponents after losing the World Cup final.",
+   "image": "https://cdn.abcotvs.com/dip/images/19714907_AP26202648630423.jpg?w=1600",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
