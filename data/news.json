@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-22T13:03:22.942Z",
+ "updated": "2026-08-22T13:35:56.277Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
    "title": "Andy Burnham says he wants to bring men’s World Cup back to UK in 2042",
    "iso": "2026-08-22T12:16:00.000Z",
    "link": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
-   "lede": "PM tells regional mayors he is keen for tournament to be hosted in UK for first time since 1966. Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, a move which would see the tournament return to these shores for the first time in almost eight decades. At a meeting in No 10 North in Manchester on Friday, the prime minister told regional mayors he was keen for the tournament to be played in the British Isles. When the 1966 World Cup took place in England, with the home side beating West Germany 4-2 in the final after extra time, it was the only time the country has either hosted or won the contest.",
+   "lede": "PM tells regional mayors he is keen for tournament to be played in British Isles for first time since 1966. Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, returning the tournament to Britain for the first time in almost eight decades. At a meeting in No 10 North in Manchester on Friday, the prime minister told regional mayors he was keen for the tournament to be played in the British Isles. When the 1966 World Cup took place in England, with the home side beating West Germany 4-2 in the final after extra time, it was the only time the country has either hosted or won the contest.",
    "image": "https://i.guim.co.uk/img/media/0cd35690714d1312ba2f7b0bf00e0fc57538a6d4/228_0_4161_3331/master/4161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9154f906af5496c6044fc9a72859fae1",
    "emoji": "⚽",
    "bg": "#1d6f42"
@@ -43,23 +43,33 @@
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Messi, Haaland, Mbappe and… Vozinha: Where are the World Cup stars now?",
-   "iso": "2026-08-22T10:52:19.000Z",
-   "link": "https://www.nytimes.com/athletic/7526856/2026/08/22/world-cup-stars-messi-haaland-mbappe-update/",
-   "lede": "As the club football season gets back underway, where will the global stars and cult heroes be playing this season?",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20154837/GettyImages-2286274156-scaled.jpg?width=1200&height=630&fit=cover",
+   "title": "Pat McAfee, ESPN closing in on new ‘Monday Night Football’ alt-cast: Sources",
+   "iso": "2026-08-22T13:14:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7526773/2026/08/20/espn-pat-mcafee-monday-night-football-altcast/",
+   "lede": "If approved by the NFL, McAfee's \"Monday Night Football\" alt-cast would run during weeks when the Peyton and Eli \"ManningCast\" isn't airing.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20105015/AP26115021973447-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "MONEYCONTROL.COM",
-   "title": "Lionel Messi inspires Argentina hockey skipper Matias Rey at sixth Hockey World Cup",
-   "iso": "2026-08-22T10:19:47.000Z",
-   "link": "https://www.moneycontrol.com/sports/lionel-messi-inspires-argentina-hockey-skipper-matias-rey-at-sixth-hockey-world-cup-article-14012907.html",
-   "lede": "The Talismanic Messi led Argentina to three FIFA World Cup finals in four editions, with the Albiceleste finishing runners-up to Spain in the summit clash last month.",
-   "image": "https://images.moneycontrol.com/static-mcnews/2024/06/20240624063740_Lionel-Messi-1.png",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Messi, Haaland, Mbappe and… Vozinha: Where are the World Cup stars now?",
+   "iso": "2026-08-22T13:02:08.000Z",
+   "link": "https://www.nytimes.com/athletic/7526856/2026/08/22/world-cup-stars-messi-haaland-mbappe-update/",
+   "lede": "As the club football season gets back underway, where will the global stars and cult heroes be playing this season?",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20154837/GettyImages-2286274156-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEWS INTERNATIONAL",
+   "title": "Gianni Infantino asked to stay away from youth tournament amid World Cup controversy",
+   "iso": "2026-08-22T11:19:00.000Z",
+   "link": "https://www.thenews.com.pk/latest/1413195-gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-world-cup-controversy",
+   "lede": "FIFA president Gianni Infantino is facing pressure to stay away from a youth tournament as anger grows over plans driven by his attempted World Cup sell-off. He was informed in a letter on Friday by...",
+   "image": "https://www.thenews.com.pk/assets/uploads/2026-08-22/1413195_041926_updates.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "SKY NEWS",
@@ -67,16 +77,6 @@
    "iso": "2026-08-22T10:13:49.000Z",
    "link": "https://news.sky.com/story/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-world-cup-sell-off-plan-13575730",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Who’s your real rival? College football has a lot of love (well, hate) triangles",
-   "iso": "2026-08-22T10:00:53.000Z",
-   "link": "https://www.nytimes.com/athletic/7529071/2026/08/22/college-football-biggest-rivalries-every-team/",
-   "lede": "It's not always easy to identify rivals in college football. Sometimes the team you hate the most hates someone else more.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/21122433/2025-11-30T051246Z_401804930_MT1USATODAY27708295_RTRMADP_3_NCAA-FOOTBALL-ALABAMA-AT-AUBURN-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
