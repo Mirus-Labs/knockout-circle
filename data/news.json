@@ -1,15 +1,35 @@
 {
- "updated": "2026-08-22T00:01:40.977Z",
+ "updated": "2026-08-22T01:51:27.493Z",
  "news": [
   {
    "cat": "SKY SPORTS",
    "title": "Arsenal transfer news: Gabriel Jesus of interest to Everton and Ipswich as Gunners consider Eli Junior Kroupi move - Paper Talk",
-   "iso": "2026-08-21T22:55:41.000Z",
+   "iso": "2026-08-22T00:25:41.000Z",
    "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
    "lede": "The top stories and transfer rumours from Friday's newspapers... PREMIER LEAGUE Arsenal have fielded enquiries from Everton and Ipswich for Gabriel Jesus as the Brazilian eyes a Premier League stay - Mirror Arsenal are reportedly lining up a potential January swoop for Bournemouth star Eli Junior Kroupi - The Sun Adam Wharton is set to stay at Crystal Palace this season amid interest from Manchester City - The Sun Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
    "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
+   "title": "Argentina star hit with one of the biggest bans in World Cup history",
+   "iso": "2026-08-21T22:03:22.000Z",
+   "link": "https://www.abc.net.au/news/2026-08-22/fifa-hands-argentina-star-leando-paredes-10-match-ban/107066632",
+   "lede": "Argentina's Leandro Paredes hits Gavi of Spain after the World Cup final. (Getty Images: Marvin Ibo Guengoer). Argentina's Leandro Paredes has been banned from playing for Argentina for 10 matches. Argentina defender Nahuel Molina was also handed a seven-match ban, while Thiago Almada was banned for one.",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1298d39f69d438a246d038dba7594800?impolicy=wcms_watermark_news&cropH=2437&cropW=4332&xPos=0&yPos=215&width=862&height=485&imformat=generic",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "7NEWS",
+   "title": "FIFA hand down massive penalties to Argentina in bitter fallout to World Cup tournament",
+   "iso": "2026-08-21T21:46:00.000Z",
+   "link": "https://7news.com.au/sport/soccer/fifa-hand-down-massive-penalties-to-argentina-in-bitter-fallout-to-world-cup-tournament-c-22762101",
+   "lede": "Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain, along with one Spanish player. Midfielder Leandro Paredes has been hit hardest and given a 10-match ban and a $90,000 ($A125,000) fine by FIFA’s disciplinary committee, while defender Nahuel Molina was given a seven-match suspension and fined the same amount. Thiago Almada was given a one-match ban and a $30,000 ($A42,000) fine, while Argentina coach Roberto Ayala, who had apologised for his part in the altercation, was banned for three matches and fined the same amount. Spain’s Gavi has also been given a one-match ban and a $30,000 ($A42,000).",
+   "image": "https://images.7news.com.au/publication/C-22762101/8831a90752ea6e3502914b603154b8d351072e3f-16x9-x0y2w1304h733.jpg?imwidth=1200",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "FOX SPORTS",
@@ -18,8 +38,8 @@
    "link": "https://www.foxsports.com.au/football/world-cup/teams/argentina/fifa-world-cup-2026-argentina-stars-banned-over-world-cup-final-fight-leandro-paredes-tenmatch-ban-four-players-suspended-321000-fine-issued-for-falkland-islands-banner-latest-news/news-story/5e26cb7a8d52fb0c1045c1fcdf2b4b64",
    "lede": "Four Argentina players have been suspended after FIFA handed down heavy sanctions for the ugly fight that followed their World Cup final loss to Spain. Football’s governing body announced in the days following the final, which Spain won 1-0 for their second title, that they were undertaking a disciplinary investigation after several La Albiceleste players reacted to defeat by sparking a stoush with their Spanish counterparts after the final whistle. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Midfielder Leandro Paredes grabbed Eric Garcia by the throat and wrestled Gavi to the ground while holding his substitute’s bib, which led to an escalation in the incidents on the field.",
    "image": "https://content.api.news/v3/images/bin/95239465faaaf7b6036861f2622c7ea8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE SUN",
@@ -28,38 +48,28 @@
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE HERALD",
-   "title": "£98,000 for a World Cup 'jolly'? How about more money for Scottish football, John?",
-   "iso": "2026-08-21T18:11:07.000Z",
-   "link": "https://www.heraldscotland.com/sport/26486412.98-000-world-cup-jolly-cash-scottish-football/",
-   "lede": "There has been more than a whiff of political opportunism about the stooshie which has erupted in Scotland this week about the cost of John Swinney’s trip to the World Cup in the United States during the summer. It is vital that a first minister’s outgoings are closely scrutinised by MSPs and media commentators. It is, after all, taxpayers’ hard-earned money which is being spent. There has, too, been a flagrant, shameful and at times illegal misuse of SNP party and public funds in recent years.",
-   "image": "https://www.heraldscotland.com/resources/images/21357024.jpg?type=og-image",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "TORONTO SUN",
-   "title": "Argentina players banned for combined 18 games over World Cup brawl",
-   "iso": "2026-08-21T17:41:06.000Z",
-   "link": "https://torontosun.com/sports/soccer/argentina-players-banned18-games-world-cup-brawl",
-   "lede": "The brawl came just after the final whistle in New Jersey, with Spain winning 1-0. We independently select everything we recommend. Buying through us may earn us a commission, which supports our work. See more Toronto Sun on Google — save as a Preferred Source.",
-   "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/08/GettyImages-2286222356-e1787333197272.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
+   "cat": "ABC7 NEW YORK",
+   "title": "FIFA sanctions Argentina and several players for World Cup final scuffle",
+   "iso": "2026-08-22T00:15:25.000Z",
+   "link": "https://abc7ny.com/post/fifa-sanctions-argentina-several-players-world-cup-final-scuffle/19715742/",
+   "lede": "FIFA banned three Argentina players on Friday, including a 10-match suspension for midfielder Leandro Paredes, for striking Spain opponents after losing the World Cup final. FIFA banned three Argentina players, including 10-match suspension for Leandro Paredes, for striking Spain opponents after losing the World Cup final.",
+   "image": "https://cdn.abcotvs.com/dip/images/19714907_AP26202648630423.jpg?w=1600",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Golf balls, a trash can and the Phillies’ wild fantasy football draft order",
-   "iso": "2026-08-21T22:17:41.000Z",
+   "iso": "2026-08-21T22:40:23.000Z",
    "link": "https://www.nytimes.com/athletic/7530262/2026/08/21/phillies-nfl-fantasy-football-draft-order-golf-balls/",
    "lede": "This is the time of year when many MLB teams determine their draft orders through decidedly ridiculous methods.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/21181401/GettyImages-2211037959-scaled-e1787350454476.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FACEBOOK.COM",
@@ -67,16 +77,6 @@
    "iso": "2026-08-21T22:03:57.000Z",
    "link": "https://www.facebook.com/nytimes/photos/breaking-news-from-the-athletic-fc-argentina-staff-and-players-are-banned-for-a-/1463830168932775/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "An NFL rookie had 2 sacks in preseason debut. Now he could return to college football",
-   "iso": "2026-08-21T19:51:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7525348/2026/08/19/nfl-rookie-preseason-college-football-court-ruling/",
-   "lede": "A court ruling could allow Tampa Bay Buccaneers rookie Jack Pyburn to return to college after playing in a preseason game Friday.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/19190054/GettyImages-2290532303-1-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
