@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-22T09:04:40.544Z",
+ "updated": "2026-08-22T09:43:50.920Z",
  "news": [
   {
    "cat": "NEWSGRAM",
    "title": "FIFA Has Banned Three Argentina Players and One Spaniard Over The FIFA World Cup Final Post-Match Brawl",
-   "iso": "2026-08-22T06:10:05.000Z",
-   "link": "https://www.newsgram.com/amp/story/football/2026/08/22/fifa-banned-three-argentina-one-spaniard",
+   "iso": "2026-08-22T06:00:00.000Z",
+   "link": "https://www.newsgram.com/football/2026/08/22/fifa-banned-three-argentina-one-spaniard",
    "lede": "FIFA bans three Argentina players and one Spanish Player after a brawl happened during Post World Cup Final Match back in July.. Argentina Player Leandro Paredes shoved Gavi on the ground and grabbed Eric Garcia's throat.. Many such bans were given by FIFA, AFA will challenge FIFA for the sanctions.. SINCE THE END OF FIFA WORLD CUP 2026, FIFA has been closely watching the issue that occurred after the World Cup final back in July.",
    "image": "https://media.assettype.com/newsgram%2F2026-08-22%2Fu72yj4xe%2FScreenshot-2026-08-22-111150.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "⚽",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "REDIFF",
-   "title": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl",
-   "iso": "2026-08-21T20:37:14.000Z",
-   "link": "https://www.rediff.com/sports/report/fifa-suspends-argentinas-paredes-molina-fines-afa-for-world-cup-final-brawl/20260822.htm",
-   "lede": "FIFA has handed down significant suspensions to Argentine players Leandro Paredes and Nahuel Molina, alongside a hefty fine to the Argentine Football Association (AFA), following a post-match brawl in the World Cup final against Spain and other disciplinary breaches. Argentina's Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup final while teammate Nahuel Molina was suspended for seven games, FIFA announced on Friday. A brief scuffle erupted at the final whistle when Argentina midfielder Paredes shoved Spain's Gavi to the ground as the European champions' substitutes rushed onto the pitch to celebrate. Paredes faced three assault counts while Molina faced two.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/jul/19fifa-wc-final-spain-argntina-lafda1.jpg",
+   "cat": "FOOTBALL GROUND GUIDE",
+   "title": "Andy Burnham ‘plots bid’ to host World Cup in the UK as most likely edition now revealed",
+   "iso": "2026-08-22T09:11:59.000Z",
+   "link": "https://footballgroundguide.com/news/andy-burnham-plots-bid-to-host-world-cup-in-the-uk-as-most-likely-edition-now-revealed.html",
+   "lede": "Prime Minister Andy Burnham is reportedly exploring a bid to bring the men's World Cup back to the UK, with 2042 currently appearing to be the most realistic.",
+   "image": "https://footballgroundguide.com/thumbor/cwW9S7i1y23R4Zq6q6BOIWSKwFY=/1024x671/smart/filters:format(webp)/https%3A%2F%2Fmedia.footballgroundguide.com%2Fmain%2F2026%2F08%2Fimago786159831.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Messi, Haaland, Mbappe and… Vozinha: Where are the World Cup stars now?",
+   "iso": "2026-08-22T09:00:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7526856/2026/08/22/world-cup-stars-messi-haaland-mbappe-update/",
+   "lede": "As the club football season gets back underway, where will the global stars and cult heroes be playing this season?",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/20154837/GettyImages-2286274156-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MUNDO DEPORTIVO",
@@ -48,18 +58,17 @@
    "link": "https://www.mundodeportivo.com/en/soccer/20260822/1004218493/argentine-football-association-to-appeal-fifa-sanctions-against-world-cup-team.html",
    "lede": "The Argentine Football Association (AFA) announced that it will appeal the sanctions imposed by FIFA on Friday against the country’s national team, which include.",
    "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a69973912e67.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "CITIZEN DIGITAL",
    "title": "Argentina's Paredes suspended for 10 games for World Cup fight",
    "iso": "2026-08-22T05:49:12.000Z",
    "link": "https://www.citizen.digital/article/argentinas-paredes-suspended-for-10-games-for-world-cup-fight-n388781",
-   "lede": "Gavi was banned for a match and also fined $30,000 for his role in the fracas that erupted after holders Argentina were defeated thanks to Ferran Torres' goal in extra time.",
-   "image": "https://assets.citizen.digital/173297/conversions/27f1c392-20e9-4096-b7d2-043a5da2a957_AFP__20260821__C68L2NQ__v1__HighRes__FilesFblWc2026ArgParedesSuspension-og_image.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE PENINSULA QATAR",
@@ -68,15 +77,6 @@
    "link": "https://thepeninsulaqatar.com/article/22/08/2026/fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026",
    "lede": "Zurich: FIFA announced today imposing sanctions against several players involved in the violence that followed the 2026 World Cup final at MetLife Sta...",
    "image": "https://thepeninsulaqatar.com/get/maximage/20260822_1787377099-930.jpeg?1787377099",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FIRSTPOST",
-   "title": "Paredes receives 10-game suspension, three Argentina players punished by FIFA following World Cup final fal...",
-   "iso": "2026-08-22T05:10:23.000Z",
-   "link": "https://www.firstpost.com/sports/paredes-receives-10-game-suspension-three-argentina-players-punished-by-fifa-following-world-cup-final-fallout-14039989.html",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
