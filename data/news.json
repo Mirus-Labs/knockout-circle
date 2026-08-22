@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-22T06:14:39.864Z",
+ "updated": "2026-08-22T07:00:39.871Z",
  "news": [
+  {
+   "cat": "NEWSGRAM",
+   "title": "FIFA Has Banned Three Argentina Players and One Spaniard Over The FIFA World Cup Final Post-Match Brawl",
+   "iso": "2026-08-22T06:10:05.000Z",
+   "link": "https://www.newsgram.com/amp/story/football/2026/08/22/fifa-banned-three-argentina-one-spaniard",
+   "lede": "FIFA bans three Argentina players and one Spanish Player after a brawl happened during Post World Cup Final Match back in July.. Argentina Player Leandro Paredes shoved Gavi on the ground and grabbed Eric Garcia's throat.. Many such bans were given by FIFA, AFA will challenge FIFA for the sanctions.. SINCE THE END OF FIFA WORLD CUP 2026, FIFA has been closely watching the issue that occurred after the World Cup final back in July.",
+   "image": "https://media.assettype.com/newsgram%2F2026-08-22%2Fu72yj4xe%2FScreenshot-2026-08-22-111150.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "NZ HERALD",
    "title": "Argentina hit with sanctions for Falklands banner, World Cup final brawl",
@@ -8,8 +18,8 @@
    "link": "https://www.nzherald.co.nz/sport/football/argentina-fined-and-players-banned-by-fifa-over-falklands-banner-and-final-brawl/4PY4UVU2BFFZXE3MW34H4BDPZQ/",
    "lede": "Argentina have been hit with major sanctions by Fifa over their display of a Falkland Islands banner, while two players face lengthy bans for their actions in the World Cup final. After beating England 2-1 in their Fifa World Cup semi-final, Argentina players paraded a banner that read “Las Malvinas son Argentinas”, which translates to the Falklands belong to Argentina. Three EPL players, including Manchester United’s Lisandro Martinez and former Tottenham Hotspurs players Cristian Romero and Giovani Lo Celso, were pictured with the banner. The rivalry between the two nations over the islands was a hot topic before the match, with the tension being traced back to the South American nation’s invasion of the Falklands in 1982.",
    "image": "https://www.nzherald.co.nz/resizer/v2/YCEXU45ZW5ECZBG55LYISXOT74.jpg?auth=75f40dbc595bbbef299774cf31cb21511a68ec83ac7242620c6fe3647d6d7375&width=1200&height=675&quality=70&focal=780%2C610&smart=false",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "FOX SPORTS",
@@ -18,8 +28,8 @@
    "link": "https://www.foxsports.com.au/football/world-cup/teams/argentina/fifa-world-cup-2026-argentina-stars-banned-over-world-cup-final-fight-leandro-paredes-tenmatch-ban-four-players-suspended-321000-fine-issued-for-falkland-islands-banner-latest-news/news-story/5e26cb7a8d52fb0c1045c1fcdf2b4b64",
    "lede": "Four Argentina players have been suspended after FIFA handed down heavy sanctions for the ugly fight that followed their World Cup final loss to Spain. Football’s governing body announced in the days following the final, which Spain won 1-0 for their second title, that they were undertaking a disciplinary investigation after several La Albiceleste players reacted to defeat by sparking a stoush with their Spanish counterparts after the final whistle. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Midfielder Leandro Paredes grabbed Eric Garcia by the throat and wrestled Gavi to the ground while holding his substitute’s bib, which led to an escalation in the incidents on the field.",
    "image": "https://content.api.news/v3/images/bin/95239465faaaf7b6036861f2622c7ea8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "APA.AZ",
@@ -28,16 +38,6 @@
    "link": "https://en.apa.az/football/britain-wants-to-host-the-world-cup-in-2042-521226",
    "lede": "British Prime Minister Andy Burnham has floated the idea of ​​hosting the 2042 FIFA World Cup in the United Kingdom, APA reports citing The Times newspaper. According to the report, Burnham put forward his idea at a meeting with city mayors held in the prime minister's new office in Manchester. The prime minister is reportedly in talks with the Football Association and the English Premier League about the possibility of submitting a bid to host the tournament. According to The Times, Burnham's government is also preparing to bid to host the 2040 Olympic and Paralympic Games.",
    "image": "https://en.apa.az/storage/news/2026/august/22/big/6a88bf80d05b66a88bf80d05b717873468166a88bf80d05b26a88bf80d05b4.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "REDIFF",
-   "title": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl",
-   "iso": "2026-08-21T20:37:14.000Z",
-   "link": "https://www.rediff.com/sports/report/fifa-suspends-argentinas-paredes-molina-fines-afa-for-world-cup-final-brawl/20260822.htm",
-   "lede": "FIFA has handed down significant suspensions to Argentine players Leandro Paredes and Nahuel Molina, alongside a hefty fine to the Argentine Football Association (AFA), following a post-match brawl in the World Cup final against Spain and other disciplinary breaches. Argentina's Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup final while teammate Nahuel Molina was suspended for seven games, FIFA announced on Friday. A brief scuffle erupted at the final whistle when Argentina midfielder Paredes shoved Spain's Gavi to the ground as the European champions' substitutes rushed onto the pitch to celebrate. Paredes faced three assault counts while Molina faced two.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/jul/19fifa-wc-final-spain-argntina-lafda1.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
