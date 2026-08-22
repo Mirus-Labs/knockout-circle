@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T16:34:23.421Z",
+ "updated": "2026-08-22T16:43:28.685Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ONEFOOTBALL",
-   "title": "⚖️ FIFA ban Paredes for 10 games, fine Gavi after World Cup final",
-   "iso": "2026-08-22T06:18:31.000Z",
-   "link": "https://onefootball.com/en/news/fifa-ban-paredes-for-10-games-fine-gavi-after-world-cup-final-43313835",
-   "lede": "AFA to appeal FIFA bans for Paredes, Molina and Almada, TAS option considered. Paredes and Molina given hefty bans following World Cup final altercations. Official: Argentina stars Paredes and Roma’s Molina banned for World Cup Final brawl. FIFA hands Paredes 10-game ban and Molina seven after World Cup final brawl.",
-   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43313835%3Fdate=2026-08-22",
+   "cat": "MUNDO DEPORTIVO",
+   "title": "Argentine Football Association to appeal FIFA sanctions against World Cup team",
+   "iso": "2026-08-22T07:55:31.000Z",
+   "link": "https://www.mundodeportivo.com/en/soccer/20260822/1004218493/argentine-football-association-to-appeal-fifa-sanctions-against-world-cup-team.html?facet=amp",
+   "lede": "The Argentine Football Association (AFA) announced that it will appeal the sanctions imposed by FIFA on Friday against the country’s national team, which include suspensions, financial penalties and restrictions on supporters at home matches over various incidents during the 2026 World Cup. “In light of the notifications received, and in defence of the rights of the Association and its players, the AFA Legal Department will, in due time and form, request from FIFA the grounds for the rulings that are subject to review in order to lodge appeals before the Appeals Committee of world football’s governing body,” the Argentine organisation said in a statement. The AFA is also considering “the possibility of appealing to CAS (Court of Arbitration for Sport) as a final resort”.",
+   "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a69973912e67.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
