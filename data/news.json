@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T19:59:22.631Z",
+ "updated": "2026-08-22T20:33:23.904Z",
  "news": [
   {
    "cat": "THE SUN",
@@ -52,32 +52,32 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "FLASHSCORE.COM",
+   "title": "European FAs reveal U20 Women's World Cup squads despite UEFA boycott",
+   "iso": "2026-08-22T10:30:22.000Z",
+   "link": "https://www.flashscore.com/news/soccer-world-cup-women-u20-european-fas-reveal-u20-women-s-world-cup-squads-despite-uefa-boycott/A7uhqOs4/",
+   "lede": "UEFA announced it would boycott all FIFA tournaments after FIFA president Gianni Infantino announced plans to sell part of the FIFA World Cup through FIFA Forward Enterprise, a $20 billion subsidiary that would sell 20 per cent of the tournament to private investors. The 55 UEFA members unanimously voted to boycott FIFA tournaments as long as the sell-off plans were on the table, and UEFA president Aleksander Ceferin said they would keep up the boycott after FIFA and Infantino withdrew the plans, saying conditions had not been met. \"First, the proposals to sell off the major competitions had to be withdrawn, and secondly, assurances have to be made that such attempts to disfigure the game in this way will never be made again. These conditions have not been met,\" Ceferin said in a statement.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/e223fd36-0b47-4887-9c58-e55b5661ae59.jpeg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "THE STRAITS TIMES",
    "title": "Leandro Paredes banned for 10 games after World Cup final fracas, Argentina fined",
    "iso": "2026-08-22T10:28:11.000Z",
    "link": "https://www.straitstimes.com/sport/football/paredes-banned-for-10-games-after-world-cup-final-fracas-argentina-fined",
    "lede": "Argentina’s Leandro Paredes received a 10-match suspension, while teammate Nahuel Molina was suspended for seven games. The Argentinian Football Association (AFA) is considering an appeal to the Court of Arbitration for Sport (CAS) after FIFA imposed fines and sanctions following ugly scenes at the World Cup final on July 19. Argentinian midfielder Leandro Paredes received a 10-match suspension for his part in a brawl after the 2022 champions lost 1-0 to Spain at the MetLife Stadium in New Jersey, while teammate Nahuel Molina was suspended for seven games, FIFA announced on Aug 21. A brief scuffle erupted at the final whistle, with Paredes shoving Spain’s Gavi to the ground as the European champions’ substitutes rushed onto the pitch to celebrate.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/528b8e91784fad617de5519e462cf781dff7b03393338f57cdd3186b809c474f",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "INBOX.EU",
-   "title": "FIFA sanctions Argentina over brawl at World Cup final game",
-   "iso": "2026-08-22T10:08:25.000Z",
-   "link": "https://news.inbox.eu/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=en",
-   "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
-   "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "US soccer wants excitement after the World Cup – the Open Cup provides it",
-   "iso": "2026-08-22T09:00:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
-   "lede": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start. The new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he is a fan of jeopardy. When asked the obligatory pro/rel question in his introductory press conference, Berg responded, “I don’t think it’s appropriate for our league, but I think there are other ways to create jeopardy during the regular season, [and] again in the playoffs.”",
-   "image": "https://i.guim.co.uk/img/media/cb08a0fab888f0342a184f66bcd0b649880592c3/728_0_6506_5205/master/6506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=157cfb270dac66921c04b7cdebdfd3b4",
+   "cat": "INBOX.LV",
+   "title": "FIFA sanctions Argentina over brawl at World Cup final game",
+   "iso": "2026-08-22T10:08:25.000Z",
+   "link": "https://news.inbox.lv/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=en",
+   "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
+   "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
