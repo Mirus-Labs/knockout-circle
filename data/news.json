@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T05:08:20.977Z",
+ "updated": "2026-08-22T05:43:36.284Z",
  "news": [
   {
    "cat": "NZ HERALD",
@@ -22,14 +22,34 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "APA.AZ",
+   "title": "Britain wants to host the World Cup in 2042",
+   "iso": "2026-08-21T20:51:00.000Z",
+   "link": "https://en.apa.az/football/britain-wants-to-host-the-world-cup-in-2042-521226",
+   "lede": "British Prime Minister Andy Burnham has floated the idea of ​​hosting the 2042 FIFA World Cup in the United Kingdom, APA reports citing The Times newspaper. According to the report, Burnham put forward his idea at a meeting with city mayors held in the prime minister's new office in Manchester. The prime minister is reportedly in talks with the Football Association and the English Premier League about the possibility of submitting a bid to host the tournament. According to The Times, Burnham's government is also preparing to bid to host the 2040 Olympic and Paralympic Games.",
+   "image": "https://en.apa.az/storage/news/2026/august/22/big/6a88bf80d05b66a88bf80d05b717873468166a88bf80d05b26a88bf80d05b4.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "REDIFF",
+   "title": "FIFA hands out suspensions, hefty fines after Argentina-Spain World Cup final brawl",
+   "iso": "2026-08-21T20:37:14.000Z",
+   "link": "https://www.rediff.com/sports/report/fifa-suspends-argentinas-paredes-molina-fines-afa-for-world-cup-final-brawl/20260822.htm",
+   "lede": "FIFA has handed down significant suspensions to Argentine players Leandro Paredes and Nahuel Molina, alongside a hefty fine to the Argentine Football Association (AFA), following a post-match brawl in the World Cup final against Spain and other disciplinary breaches. Argentina's Leandro Paredes received a 10-match suspension for his part in a brawl after his team lost to Spain in the World Cup final while teammate Nahuel Molina was suspended for seven games, FIFA announced on Friday. A brief scuffle erupted at the final whistle when Argentina midfielder Paredes shoved Spain's Gavi to the ground as the European champions' substitutes rushed onto the pitch to celebrate. Paredes faced three assault counts while Molina faced two.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/jul/19fifa-wc-final-spain-argntina-lafda1.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE SUN",
    "title": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation'",
    "iso": "2026-08-21T20:05:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -38,45 +58,24 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
    "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SEN",
-   "title": "Argentine handed down biggest World Cup ban after final fiasco",
-   "iso": "2026-08-22T03:57:16.000Z",
-   "link": "https://www.sen.com.au/news/2026/08/22/fifa-world-cup-2026-leandro-paredes-handed-down-10-match-suspension-for-brawl-in-final-argentina-handed-321-000-fine",
-   "lede": "FIFA's Disciplinary Committee has handed down some big suspensions following the World Cup.",
-   "image": "https://webassets.sen.com.au/backline/assets/best-split-img-16-9-2-jpg-c7528d5e54964280",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "ENCYCLOPEDIA BRITANNICA",
-   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-   "iso": "2026-08-22T03:02:46.000Z",
-   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How Coventry City play: Tactical flexibility, a high line and plenty of set-piece expertise - The Athletic",
-   "iso": "2026-08-22T00:47:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7513001/2026/08/18/how-coventry-city-play-tactics-premier-league/",
-   "lede": "Frank Lampard's side have ideas which suit underdog football. Having navigated their way back to the top flight, now it's time to stay there.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/14113105/GettyImages-2273218695-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "FIRSTPOST",
+   "title": "Paredes receives 10-game suspension, three Argentina players punished by FIFA following World Cup final fal...",
+   "iso": "2026-08-22T05:10:23.000Z",
+   "link": "https://www.firstpost.com/sports/paredes-receives-10-game-suspension-three-argentina-players-punished-by-fifa-following-world-cup-final-fallout-14039989.html",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ABC7 LOS ANGELES",
-   "title": "FIFA sanctions Argentina and several players for World Cup final scuffle",
-   "iso": "2026-08-22T00:22:02.000Z",
-   "link": "https://abc7.com/post/fifa-sanctions-argentina-several-players-world-cup-final-scuffle/19715742/",
-   "lede": "FIFA banned three Argentina players on Friday, including a 10-match suspension for midfielder Leandro Paredes, for striking Spain opponents after losing the World Cup final. FIFA banned three Argentina players, including 10-match suspension for Leandro Paredes, for striking Spain opponents after losing the World Cup final.",
-   "image": "https://cdn.abcotvs.com/dip/images/19714907_AP26202648630423.jpg?w=1600",
+   "cat": "MSHALE",
+   "title": "Tuchel Warns: Saka's World Cup Hopes In Danger? #Saka #WorldCup #Tuchel Foogiano (DVeVCcTjHy)",
+   "iso": "2026-08-22T04:04:34.000Z",
+   "link": "https://mshale.com/8aa57457/f7b005d3ue8Wo34dt6Q",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
