@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T04:37:39.856Z",
+ "updated": "2026-08-22T04:52:11.794Z",
  "news": [
   {
    "cat": "NZ HERALD",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "BUSINESS POST NIGERIA",
-   "title": "Nigerian Fans Drive SuperSport’s 19.1 billion World Cup Digital Views &",
-   "iso": "2026-08-21T23:41:53.000Z",
-   "link": "https://businesspost.ng/sports/nigerian-fans-drive-supersports-19-1-billion-world-cup-digital-views/",
-   "lede": "Nigerian football fans were among the biggest participants in SuperSport’s digital FIFA World Cup 2026 experience, accounting for 21.2 per cent of users of the broadcaster’s SuperSport Predictor, while Pidgin commentary generated the highest volume of organic social media discussion around its commentators. The Nigerian engagement formed part of a wider digital performance that saw SuperSport record 19.1 billion social media views and 677 million video views across countries where it broadcast the tournament. The figures, released on Friday, showed how SuperSport extended its World Cup offering beyond live television, using digital content, interactive platforms, local-language storytelling and creator-led programming to keep African fans engaged throughout the tournament. The SuperSport Predictor registered 175,615 users, who made 3.81 million predictions during the competition.",
-   "image": "https://businesspost.ng/wp-content/uploads/2026/08/World-Cup-Digital-Views.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "FOX SPORTS",
    "title": "BREAKING: FIFA drops biggest punishment in World Cup history",
    "iso": "2026-08-21T21:05:48.000Z",
    "link": "https://www.foxsports.com.au/football/world-cup/teams/argentina/fifa-world-cup-2026-argentina-stars-banned-over-world-cup-final-fight-leandro-paredes-tenmatch-ban-four-players-suspended-321000-fine-issued-for-falkland-islands-banner-latest-news/news-story/5e26cb7a8d52fb0c1045c1fcdf2b4b64",
    "lede": "Four Argentina players have been suspended after FIFA handed down heavy sanctions for the ugly fight that followed their World Cup final loss to Spain. Football’s governing body announced in the days following the final, which Spain won 1-0 for their second title, that they were undertaking a disciplinary investigation after several La Albiceleste players reacted to defeat by sparking a stoush with their Spanish counterparts after the final whistle. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Midfielder Leandro Paredes grabbed Eric Garcia by the throat and wrestled Gavi to the ground while holding his substitute’s bib, which led to an escalation in the incidents on the field.",
    "image": "https://content.api.news/v3/images/bin/95239465faaaf7b6036861f2622c7ea8",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE SUN",
@@ -38,8 +28,8 @@
    "link": "https://www.thesun.co.uk/sport/40132859/gianni-infantino-under15-world-cup-disneyland-fifa/",
    "lede": "GIANNI INFANTINO reportedly tried to launch an Under-15s World Cup next to Disneyland featuring all 211 Fifa nations. The under-fire Fifa chief is said to have plotted a youth “festival of football” inspired by Little League in baseball. Infantino – who is already facing calls to resign after trying to sell off chunks of the World Cup – was hoping to commercialise the U15 tournament. The event would have taken place at the ESPN Wide World Of Sports Complex close to Disneyworld in Orlando, Florida, according to the Athletic.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/JW-OP-INFANTINO-DISNEY_a7165a.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -48,16 +38,25 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
    "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SEN",
    "title": "Argentine handed down biggest World Cup ban after final fiasco",
-   "iso": "2026-08-22T01:51:22.000Z",
+   "iso": "2026-08-22T03:57:16.000Z",
    "link": "https://www.sen.com.au/news/2026/08/22/fifa-world-cup-2026-leandro-paredes-handed-down-10-match-suspension-for-brawl-in-final-argentina-handed-321-000-fine",
    "lede": "FIFA's Disciplinary Committee has handed down some big suspensions following the World Cup.",
    "image": "https://webassets.sen.com.au/backline/assets/best-split-img-16-9-2-jpg-c7528d5e54964280",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "ENCYCLOPEDIA BRITANNICA",
+   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+   "iso": "2026-08-22T03:02:46.000Z",
+   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
