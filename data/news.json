@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T15:59:45.277Z",
+ "updated": "2026-08-22T16:34:23.421Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Concacaf ask under-fire FIFA president Gianni Infantino to stay away from youth tournament",
-   "iso": "2026-08-22T14:16:24.000Z",
-   "link": "https://www.nytimes.com/athletic/7531070/2026/08/22/gianni-infantino-victor-montagliani-fifa-crisis/",
-   "lede": "Concacaf chief Victor Montagliani said in a letter that the presence of Infantino would \"undermine\" the Under-14s event.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/22085721/GettyImages-1409617704-scaled-e1787403464605.jpg?width=1200&height=630&fit=cover",
+   "cat": "ONEFOOTBALL",
+   "title": "⚖️ FIFA ban Paredes for 10 games, fine Gavi after World Cup final",
+   "iso": "2026-08-22T06:18:31.000Z",
+   "link": "https://onefootball.com/en/news/fifa-ban-paredes-for-10-games-fine-gavi-after-world-cup-final-43313835",
+   "lede": "AFA to appeal FIFA bans for Paredes, Molina and Almada, TAS option considered. Paredes and Molina given hefty bans following World Cup final altercations. Official: Argentina stars Paredes and Roma’s Molina banned for World Cup Final brawl. FIFA hands Paredes 10-game ban and Molina seven after World Cup final brawl.",
+   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43313835%3Fdate=2026-08-22",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
