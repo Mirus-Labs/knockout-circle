@@ -1,16 +1,6 @@
 {
- "updated": "2026-08-22T23:59:48.331Z",
+ "updated": "2026-08-23T01:54:35.680Z",
  "news": [
-  {
-   "cat": "REVOLUTIONRADIO.COM",
-   "title": "Gianni Infantino asked to stay away from youth tournament amid anger at FIFA World Cup sell-off plan",
-   "iso": "2026-08-22T17:48:25.000Z",
-   "link": "https://www.revolutionradio.com/news/world-news/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-fifa-world-cup-sell-off-plan/",
-   "lede": "Mr Infantino was told in a letter on Friday by the region's football leadership that his presence at the event in the Dominican Republic this weekend would \"undermine\" the children's matches. The embattled football leader yesterday flew into the Caribbean island, where he made light of questions by Sky News on the crisis engulfing FIFA - and stayed silent on his future. While Mr Infantino was greeted by local politicians, the head of the football confederation for the North American and Caribbean region told him he is not welcome at the Caribbean Football Union under-14s tournament. It is understood he was invited before officials knew of secret plans to try to sell shares in a new World Cup venture to private investors , which provoked anger within the CONCACAF region once they were leaked last month.",
-   "image": "https://e3.365dm.com/26/07/640x380/skynews-infantino-fifa_7309857.jpg?20260822113320",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "THE SUN",
    "title": "Arsenal superstar Bukayo Saka shrugs off World Cup heartbreak and injury agony with secret seven-day fitness regime",
@@ -18,8 +8,8 @@
    "link": "https://www.thesun.co.uk/sport/40140317/bukayo-saka-arsenal-world-cup-heartbreak-injury-secret-fitness/",
    "lede": "BUKAYO SAKA could be forgiven for starting this season slowly and with a World Cup hangover. The winger endured a frustrating tournament and his hat-trick in England’s third-place play-off win over France came in only a third start. But there were no lingering signs of that disappointment — nor the Achilles issue that had dogged Saka since March – on Friday night. He was electric and scored Arsenal’s second goal as the champions began their title defence with a convincing 3-0 win over Coventry.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/bukayo-saka-celebrates-scoring-2nd-1102564639.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "⚽",
+   "bg": "#1d6f42"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,6 +18,16 @@
    "link": "https://www.theguardian.com/football/2026/aug/22/hairdressers-fifa-infantino-sky-reporter-bald-football-world-cup",
    "lede": "Fifa president tells Sky man: ‘You have a nice haircut’. Defies Concacaf president plea to stay away ​from event. Gianni Infantino told a reporter “I’ll see you at the hairdresser’s” after he was asked whether he had betrayed football over his aborted World Cup sell-off plan. The Fifa president was stopped outside a hotel in the Dominican Republic by the Sky News US correspondent, James Matthews, who challenged the under-fire leader of football’s governing body over why he had not resigned, despite calls from across the game for him to step down.",
    "image": "https://i.guim.co.uk/img/media/bc59f4052328e6b1fec8fbd8511d876cee0e6f24/669_62_957_766/master/957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d332ff95e42708a4a955546d815fe47f",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "ONEFOOTBALL",
+   "title": "⚖️ FIFA ban Paredes for 10 games, fine Gavi after World Cup final",
+   "iso": "2026-08-22T14:22:18.000Z",
+   "link": "https://onefootball.com/en/news/fifa-ban-paredes-for-10-games-fine-gavi-after-world-cup-final-43313835",
+   "lede": "AFA to appeal FIFA bans for Paredes, Molina and Almada, TAS option considered. Paredes and Molina given hefty bans following World Cup final altercations. Official: Argentina stars Paredes and Roma’s Molina banned for World Cup Final brawl. FIFA hands Paredes 10-game ban and Molina seven after World Cup final brawl.",
+   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43313835%3Fdate=2026-08-23",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -42,42 +42,42 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "GET GERMAN FOOTBALL NEWS",
+   "title": "Leon Goretzka agrees to join Aston Villa",
+   "iso": "2026-08-22T14:18:02.000Z",
+   "link": "https://www.getfootballnewsgermany.com/2026/leon-goretzka-agrees-to-join-aston-villa/",
+   "lede": "Aston Villa have agreed to sign 31-year-old German midfielder Leon Goretzka on a free transfer, according to journalist Matteo Moretto. What remains is the signing of documents and a medical, which is set to take place next week, according to the report. Villa manager Unai Emery sees Goretzka as the ideal signing for the midfield, as he will bring in leadership and experience to the side. Goretzka is set to become a replacement for Belgian midfielder Amadou Onana, who sustained an ACL injury playing for his country against the USA at the 2026 FIFA World Cup.",
+   "image": "https://www.getfootballnewsgermany.com/assets/germany-v-paraguay-round-of-32-fifa-world-cup-2026-7-1024x683.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Tom Bischof talks about his summer break, watching the World Cup from home",
+   "iso": "2026-08-22T13:45:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
+   "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "SPORTSTAR",
    "title": "CONCACAF chief asks Infantino to skip youth tournament amid FIFA governance crisis",
    "iso": "2026-08-22T13:14:07.000Z",
    "link": "https://sportstar.thehindu.com/football/gianni-infantino-fifa-concacaf-victor-montagliani-withdraw-youth-soccer-tournament-dominican-republic/article71377747.ece",
    "lede": "AFP AFP https://ss-i.thgim.com/public/incoming/y4zype/article71377724.ece/alternates/FREE_1200/AFP__20230717__33P878R__v1__HighRes__FblConcacafGoldMatch40MexPan.jpg FREDERIC J. BROWN Fifa (Fédération Internationale de Football Association) president Gianni Infantino (L) and Concacaf president Victor Montagliani (R) wave at the end of the Concacaf 2023 Gold Cup final football match between Mexico and Panama at SoFi Stadium in Inglewood, California, on July 16, 2023. BROWN / AFP) Miami Infantino is under pressure from three confederations to resign, including Europe’s UEFA, Asia’s AFC and CONCACAF, ‌which represents North and Central America and the Caribbean, ‌after ⁠his aborted proposal to sell a stake in the ⁠World Cup.",
    "image": "https://ss-i.thgim.com/public/incoming/y4zype/article71377724.ece/alternates/LANDSCAPE_1200/AFP__20230717__33P878R__v1__HighRes__FblConcacafGoldMatch40MexPan.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FLASHSCORE.COM",
-   "title": "European FAs reveal U20 Women's World Cup squads despite UEFA boycott",
-   "iso": "2026-08-22T10:30:22.000Z",
-   "link": "https://www.flashscore.com/news/soccer-world-cup-women-u20-european-fas-reveal-u20-women-s-world-cup-squads-despite-uefa-boycott/A7uhqOs4/",
-   "lede": "UEFA announced it would boycott all FIFA tournaments after FIFA president Gianni Infantino announced plans to sell part of the FIFA World Cup through FIFA Forward Enterprise, a $20 billion subsidiary that would sell 20 per cent of the tournament to private investors. The 55 UEFA members unanimously voted to boycott FIFA tournaments as long as the sell-off plans were on the table, and UEFA president Aleksander Ceferin said they would keep up the boycott after FIFA and Infantino withdrew the plans, saying conditions had not been met. \"First, the proposals to sell off the major competitions had to be withdrawn, and secondly, assurances have to be made that such attempts to disfigure the game in this way will never be made again. These conditions have not been met,\" Ceferin said in a statement.",
-   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/e223fd36-0b47-4887-9c58-e55b5661ae59.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "INBOX.LV",
-   "title": "FIFA sanctions Argentina over brawl at World Cup final game",
-   "iso": "2026-08-22T10:08:25.000Z",
-   "link": "https://news.inbox.lv/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=en",
-   "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
-   "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "US soccer wants excitement after the World Cup – the Open Cup provides it",
-   "iso": "2026-08-22T09:00:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
-   "lede": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start. The new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he is a fan of jeopardy. When asked the obligatory pro/rel question in his introductory press conference, Berg responded, “I don’t think it’s appropriate for our league, but I think there are other ways to create jeopardy during the regular season, [and] again in the playoffs.”",
-   "image": "https://i.guim.co.uk/img/media/cb08a0fab888f0342a184f66bcd0b649880592c3/728_0_6506_5205/master/6506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=157cfb270dac66921c04b7cdebdfd3b4",
+   "cat": "V2 RADIO",
+   "title": "Gianni Infantino asked to stay away from youth tournament amid anger at FIFA World Cup sell-off plan",
+   "iso": "2026-08-22T10:50:00.000Z",
+   "link": "https://www.v2radio.co.uk/news/v2-radio-world-news/gianni-infantino-asked-to-stay-away-from-youth-tournament-amid-anger-at-fifa-world-cup-sell-off-plan/",
+   "lede": "Mr Infantino was told in a letter on Friday by the region's football leadership that his presence at the event in the Dominican Republic this weekend would \"undermine\" the children's matches. The embattled football leader yesterday flew into the Caribbean island, where he made light of questions by Sky News on the crisis engulfing FIFA - and stayed silent on his future. While Mr Infantino was greeted by local politicians, the head of the football confederation for the North American and Caribbean region told him he is not welcome at the Caribbean Football Union under-14s tournament. It is understood he was invited before officials knew of secret plans to try to sell shares in a new World Cup venture to private investors , which provoked anger within the CONCACAF region once they were leaked last month.",
+   "image": "https://e3.365dm.com/26/07/640x380/skynews-infantino-fifa_7309857.jpg?20260822113320",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
