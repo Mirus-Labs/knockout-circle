@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-23T16:00:47.870Z",
+ "updated": "2026-08-23T16:36:22.629Z",
  "news": [
+  {
+   "cat": "THE DAILY STAR",
+   "title": "'Bangladesh is one of the best': Caniggia on Bangladesh’s Argentina obsession",
+   "iso": "2026-08-23T15:09:57.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/bangladesh-one-the-best-caniggia-bangladeshs-argentina-obsession-4250341",
+   "lede": "Argentine football legend Claudio Caniggia met budding Bangladeshi footballers at the Fortis Football Academy in Dhaka on Monday during his visit as the guest of honour at the Pillow Chips Dhaka Interschool Champions League (DICL) 2026. The former World Cup star, renowned for his blistering pace and iconic partnership with Diego Maradona, handed out prizes before sitting down with the media. Here’s what the Argentina great had to say about Bangladesh, its footballing hopes, the country’s extraordinary passion for Argentina, Maradona, Messi and more. Q: How has your experience in Bangladesh been, and what do you make of the country’s passion for Argentina?",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE MIRROR",
    "title": "Man City agree £85m transfer deal for World Cup star Ayyoub Bouaddi to replace Rodri",
@@ -8,8 +18,8 @@
    "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-ayyoub-bouaddi-lille-37583781",
    "lede": "Manchester City have landed Morocco superstar Ayyoub Bouaddi from Lille in a deal costing up to £85million. Both clubs agreed the fee following extensive talks, with Bouaddi signing a five-year-deal at the Etihad with the option of an extra 12 months. The move will take City's summer spending through the £200m barrier. The initial fee will be £81.4m, rising to £85m over the course of Bouaddi's time in the blue half of Manchester.",
    "image": "https://i2-prod.mirror.co.uk/article37583864.ece/ALTERNATES/s1200d/1_GettyImages-2290326073.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "DEVDISCOURSE",
@@ -18,8 +28,8 @@
    "link": "https://www.devdiscourse.com/article/sports-games/3966702-nordic-football-federations-unite-against-fifa-president-infantino",
    "lede": "In a significant move, six Nordic football associations have collectively voiced their lack of confidence in FIFA President Gianni Infantino, urging sweeping reforms at the global soccer federation. The associations, comprising Denmark, Finland, Iceland, Norway, Sweden, and the Faroe Islands, issued a joint statement in Helsinki demanding Infantino's resignation and supporting calls for an independent probe into his proposal to involve private equity in World Cup events. The Nordic football bodies, alongside UEFA, stressed the need for transparent governance and called for a binding commitment from FIFA against the privatization of its operations.",
    "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_05_2025_13_55_29_5643549.png&width=920&format=jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE SUN",
@@ -28,8 +38,8 @@
    "link": "https://www.thesun.co.uk/sport/40123635/premier-league-hydration-breaks-temperature-guide/",
    "lede": "THE Premier League has returned for the 2026/27 season after an exciting summer of World Cup football. One feature from the international tournament in North America was its controversial hydration breaks, but will we see them introduced to England‘s top flight? Hydration breaks were a key talking point at the 2026 World Cup. They were brought in as three-minute pauses that took place at the rough mid-point of each half of a game in order to counteract high temperatures seen at many of the North American stadiums.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/marc-guehi-6-england-takes-1090500184.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -38,8 +48,18 @@
    "link": "https://www.standard.co.uk/sport/football/fifa-argentina-falklands-world-cup-final-bans-fines-b1294233.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The Argentine FA has been handed a hefty sanction after its players were seen celebrating World Cup victory over England with a banner relating to the Falklands, while various players and staff have been hit with hefty fines for their involvement in the unsavoury scenes which followed the World Cup final. Argentina knocked England out in the tournament semi-finals, and the build-up to the match was dominated by discussions of the Falklands War.",
    "image": "https://static.standard.co.uk/2026/07/15/23/2285645563..?width=1200&auto=webp&quality=75",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "NOTTINGHAM POST",
+   "title": "Andy Burnham eyes World Cup bid for first men's tournament on home soil since 1966",
+   "iso": "2026-08-23T10:35:51.000Z",
+   "link": "https://www.nottinghampost.com/news/uk-world-news/andy-burnham-eyes-world-cup-11123843",
+   "lede": "Andy Burnham is exploring the possibility of bringing the men's football World Cup to British shores for the first time since 1966, it has been revealed. During a meeting at Number 10 North in Manchester on Friday, the Prime Minister reportedly informed colleagues that he is investigating how the UK might host the prestigious tournament, with discussions said to be ongoing with the UK's football associations. The initiative is believed to be part of a wider push by former Greater Manchester mayor Mr Burnham, a passionate football fan and Everton season ticket holder who attended their 2-0 win over Crystal Palace on Saturday, August 22, to harness major sporting events to stimulate investment, tourism and regeneration outside of London. According to The i, the World Cup proposal is being considered alongside the previously reported ambition to bring the Olympics to the north.",
+   "image": "https://i2-prod.nottinghampost.com/article11123842.ece/ALTERNATES/s1200d/1_Everton-v-Crystal-Palace-FC-Premier-League-202627.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "INBOX.EU",
@@ -48,8 +68,8 @@
    "link": "https://news.inbox.eu/150kao2-due-to-the-world-cup-hero-football-rules-may-change?language=ru",
    "lede": "## Sensation of the World Cup The Cape Verde national team has become one of the main discoveries of the 2026 World Cup, reaching the playoffs for the first time in its history. During the regular time, the African team did not lose a single match, managing to hold out even against future finalists — Spain and Argentina. One of the main heroes of the tournament was 40-year-old goalkeeper Vozinha. In the match against Spain, he made seven saves and did not allow the future world champions to score against him.",
    "image": "https://news.inbox.eu/w/img/ef/f7/eff77348ce2fa254ee.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -58,26 +78,6 @@
    "link": "https://www.bavarianfootballworks.com/fifa-world-cup/245633/uli-hoenes-says-julian-nagelsmann-not-solely-to-blame-for-germanys-poor-world-cup",
    "lede": "Uli thinks the problems were beyond Nagelsmann at the World Cup. It already feels like quite some time ago, and yet it also still feels like it was only just a few weeks ago that Germany yet again floundered out of the World Cup far earlier than they should have. In Foxborough, Massachusetts, they fell to Paraguay in a penalty shootout after failing to get the job done in 90 minutes, but the writing was on the wall as they collectively failed to hit their heights throughout the entire tournament — starting off the group stages with a 7-1 trouncing of Curaçao in Houston, Texas probably didn’t do wonders for keeping them on their toes.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283947570.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "INBOX.LV",
-   "title": "FIFA sanctions Argentina over brawl at World Cup final game",
-   "iso": "2026-08-23T00:00:57.000Z",
-   "link": "https://news.inbox.lv/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=fr",
-   "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
-   "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-   "iso": "2026-08-23T13:57:31.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms",
-   "lede": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE-1785425233.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
