@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T05:14:38.190Z",
+ "updated": "2026-08-23T05:33:32.759Z",
  "news": [
   {
    "cat": "THE SUN",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "BBC",
+   "title": "Gianni Infantino: Fifa president asked to stay away from youth tournament in Dominican Republic",
+   "iso": "2026-08-22T14:29:55.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cq6d627y8g7o",
+   "lede": "Gianni Infantino has been Fifa president since 2016. Fifa president Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani. In a letter seen by the BBC, Montagliani referred to the \"governance crisis surrounding Fifa\", before asking Infantino to reconsider attending the the CFU Under-14 Series event. The Canadian, who is also a Fifa vice-president, added his presence would \"unfortunately undermine the technical nature\" of the competition.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d33/live/a7abc620-9e2f-11f1-aed2-8d6da8d75094.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "ONEFOOTBALL",
    "title": "⚖️ FIFA ban Paredes for 10 games, fine Gavi after World Cup final",
    "iso": "2026-08-22T14:22:18.000Z",
    "link": "https://onefootball.com/en/news/fifa-ban-paredes-for-10-games-fine-gavi-after-world-cup-final-43313835",
    "lede": "AFA to appeal FIFA bans for Paredes, Molina and Almada, TAS option considered. Paredes and Molina given hefty bans following World Cup final altercations. Official: Argentina stars Paredes and Roma’s Molina banned for World Cup Final brawl. FIFA hands Paredes 10-game ban and Molina seven after World Cup final brawl.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43313835%3Fdate=2026-08-23",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +48,8 @@
    "link": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
    "lede": "PM tells regional mayors during informal discussions he is keen for tournament to return to British Isles. Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, returning the tournament to Britain for the first time in almost eight decades. During informal discussions at No 10 North in Manchester on Friday, the prime minister told regional mayors he was keen for the tournament to be played in the British Isles. The World Cup took place in England in 1966, when the home side beat West Germany 4-2 in the final after extra time – the only time the country has either hosted or won the contest.",
    "image": "https://i.guim.co.uk/img/media/a3ffc046b6fdc3560cd73ea3760dbc33e40610fd/504_36_764_611/master/764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b36dda0952bac025f71242f153a5fc0",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GET GERMAN FOOTBALL NEWS",
@@ -48,8 +58,8 @@
    "link": "https://www.getfootballnewsgermany.com/2026/leon-goretzka-agrees-to-join-aston-villa/",
    "lede": "Aston Villa have agreed to sign 31-year-old German midfielder Leon Goretzka on a free transfer, according to journalist Matteo Moretto. What remains is the signing of documents and a medical, which is set to take place next week, according to the report. Villa manager Unai Emery sees Goretzka as the ideal signing for the midfield, as he will bring in leadership and experience to the side. Goretzka is set to become a replacement for Belgian midfielder Amadou Onana, who sustained an ACL injury playing for his country against the USA at the 2026 FIFA World Cup.",
    "image": "https://www.getfootballnewsgermany.com/assets/germany-v-paraguay-round-of-32-fifa-world-cup-2026-7-1024x683.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -58,8 +68,8 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/242072/tom-bischof-talks-about-his-summer-break-watching-the-world-cup-from-home",
    "lede": "Tom Bischof has a remarkable mindset at such a young age: he played less than he would’ve liked for Bayern Munich last season and was unceremoniously left out of Germany’s squad for the World Cup. For the new season, he has locked in completely but allowed some time for himself. “Now and then I like to not watch any football, but obviously you can’t go completely without TV – I did watch a few World Cup matches,” Bischof said in an interview with Säbener 51 (as captured by X account @iMiaSanMia). “Still, I was able to switch off.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2288998240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -68,15 +78,6 @@
    "link": "https://www.nytimes.com/athletic/7519380/2026/08/23/pep-guardiola-english-football-legacy/",
    "lede": "Managers from all tiers recall their meetings and memories of Guardiola over his decade in English football.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/21105608/0822_Pep-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "DAWN",
-   "title": "FOOTBALL: THE UNDOING OF INFANTINO",
-   "iso": "2026-08-23T02:10:00.000Z",
-   "link": "https://www.dawn.com/news/2024623/football-the-undoing-of-infantino",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
