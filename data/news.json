@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T15:02:31.779Z",
+ "updated": "2026-08-23T15:37:54.472Z",
  "news": [
   {
    "cat": "THE MIRROR",
@@ -32,44 +32,34 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "FIFA hit Argentina with huge fine after Falklands taunt",
-   "iso": "2026-08-23T11:11:10.000Z",
-   "link": "https://www.standard.co.uk/sport/football/fifa-argentina-falklands-world-cup-final-bans-fines-b1294233.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The Argentine FA has been handed a hefty sanction after its players were seen celebrating World Cup victory over England with a banner relating to the Falklands, while various players and staff have been hit with hefty fines for their involvement in the unsavoury scenes which followed the World Cup final. Argentina knocked England out in the tournament semi-finals, and the build-up to the match was dominated by discussions of the Falklands War.",
-   "image": "https://static.standard.co.uk/2026/07/15/23/2285645563..?width=1200&auto=webp&quality=75",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "INBOX.EU",
-   "title": "Due to the World Cup hero, football rules may change",
-   "iso": "2026-08-23T10:16:35.000Z",
-   "link": "https://news.inbox.eu/150kao2-due-to-the-world-cup-hero-football-rules-may-change?language=ru",
-   "lede": "## Sensation of the World Cup The Cape Verde national team has become one of the main discoveries of the 2026 World Cup, reaching the playoffs for the first time in its history. During the regular time, the African team did not lose a single match, managing to hold out even against future finalists — Spain and Argentina. One of the main heroes of the tournament was 40-year-old goalkeeper Vozinha. In the match against Spain, he made seven saves and did not allow the future world champions to score against him.",
-   "image": "https://news.inbox.eu/w/img/ef/f7/eff77348ce2fa254ee.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Uli Hoeneß says Julian Nagelsmann not solely to blame for Germany’s poor World Cup",
    "iso": "2026-08-23T08:30:00.000Z",
    "link": "https://www.bavarianfootballworks.com/fifa-world-cup/245633/uli-hoenes-says-julian-nagelsmann-not-solely-to-blame-for-germanys-poor-world-cup",
    "lede": "Uli thinks the problems were beyond Nagelsmann at the World Cup. It already feels like quite some time ago, and yet it also still feels like it was only just a few weeks ago that Germany yet again floundered out of the World Cup far earlier than they should have. In Foxborough, Massachusetts, they fell to Paraguay in a penalty shootout after failing to get the job done in 90 minutes, but the writing was on the wall as they collectively failed to hit their heights throughout the entire tournament — starting off the group stages with a 7-1 trouncing of Curaçao in Houston, Texas probably didn’t do wonders for keeping them on their toes.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283947570.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "INBOX.LV",
+   "title": "FIFA sanctions Argentina over brawl at World Cup final game",
+   "iso": "2026-08-23T00:00:57.000Z",
+   "link": "https://news.inbox.lv/150nk1a-fifa-sanctions-argentina-over-brawl-at-world-cup-final-game?language=fr",
+   "lede": "Argentina’s defeat in the football World Cup final defeat has come with a costly post-match hangover. FIFA has imposed a ban on Argentine midfielder Leandro Paredes and a hefty fine for sparking a brawl after his side's loss to Spain. His teammate Nahuel Molina has been similarly disciplined in a series of a decisions by the FIFA disciplinary committee.",
+   "image": "https://news.inbox.eu/w/img/06/41/0641b4fe846e0b4365.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "AL JAZEERA",
    "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-   "iso": "2026-08-23T13:52:57.000Z",
+   "iso": "2026-08-23T13:57:31.000Z",
    "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms",
    "lede": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino's resignation amid FIFA crisis.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE-1785425233.jpg?resize=1920%2C1440",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -78,6 +68,16 @@
    "link": "https://www.nytimes.com/athletic/7531070/2026/08/23/gianni-infantino-victor-montagliani-fifa-crisis/",
    "lede": "Concacaf chief Victor Montagliani said in a letter that the presence of Infantino would \"undermine\" the Under-14s event.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/22085721/GettyImages-1409617704-scaled-e1787403464605.jpg?width=1200&height=630&fit=cover",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Ayyoub Bouaddi is the World Cup wonderkid signing for Manchester City: ‘He destroyed everyone’",
+   "iso": "2026-08-23T12:42:40.000Z",
+   "link": "https://www.nytimes.com/athletic/7532838/2026/08/23/ayyoub-bouaddi-manchester-city-profile-transfer/",
+   "lede": "This is the story of Ayyoub Bouaddi, the rise of the studious leader who is seen as the future of Manchester City's midfield.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/23081239/GettyImages-2290562972-scaled-e1787487186676.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
