@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T20:32:50.529Z",
+ "updated": "2026-08-23T20:42:16.078Z",
  "news": [
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -22,14 +22,34 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE DAILY STAR",
+   "title": "Premier League chief says Infantino hit 'self-destruct' with World Cup plan",
+   "iso": "2026-08-23T19:55:23.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/premier-league-chief-says-infantino-hit-self-destruct-world-cup-plan-4251166",
+   "lede": "Premier League chief executive Richard Masters says under-fire FIFA president Gianni Infantino pressed the \"self-destruct button\" over his botched plan to bring private investment into the World Cup. Kevin Lamour, who broke ranks with senior directors at world football's governing body last month and issued a scathing statement criticising Infantino over the plans, left his job as FIFA's chief operating officer on Monday. UEFA has been a vocal critic of Infantino and England's Football Association has also withdrawn its support for the FIFA president. \"This is a problem of FIFA's making,\" Masters told the BBC.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "INBOX.EU",
    "title": "Scandal in FIFA: Infantino Wanted to Sell Shares in the World Cup to Trump Relatives",
    "iso": "2026-08-23T18:28:31.000Z",
    "link": "https://news.inbox.eu/150npu8-scandal-in-fifa-infantino-wanted-to-sell-shares-in-the-world-cup-to-trump-relatives?language=en",
    "lede": "The football associations of Norway, Sweden, Denmark, Finland, Iceland, and the Faroe Islands expressed their lack of confidence in the president of the International Football Federation (FIFA), Gianni Infantino. \"The six football associations of the northern countries have lost trust in the FIFA president and are deeply concerned about the leadership style and decisions being made at the highest levels of the organization,\" their joint statement, released on Sunday, August 23, after a meeting in Helsinki, said. Representatives of the northern countries demanded from FIFA \"firm guarantees that it will never open access to its structures and tournaments to private owners.\" Additionally, the associations stated their loss of confidence in the governing bodies and established procedures within FIFA.",
    "image": "https://news.inbox.eu/w/img/60/04/600427058267929070.webp",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "BUSINESSAMLIVE",
+   "title": "Recaliberating Nigeria’s football to tap the global football economy",
+   "iso": "2026-08-23T18:05:35.000Z",
+   "link": "https://businessamlive.com/recaliberating-nigerias-football-to-tap-the-global-football-economy/",
+   "lede": "Talent abroad, failure at home Nigerian footballers shine in Europe’s top leagues, yet we cannot assemble a team to qualify for the FIFA World Cup. For the second consecutive cycle, Nigeria failed to qualify for the 2026 edition despite a ₦20 billion budget to prepare for the qualifying rounds. The cost of failure is staggering. Nigeria lost $12.5 million in direct FIFA payments, money meant to strengthen our football.",
+   "image": "https://businessamlive.com/wp-content/uploads/2026/05/image-4-1024x768.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -38,8 +58,8 @@
    "link": "https://www.standard.co.uk/sport/football/fifa-argentina-falklands-world-cup-final-bans-fines-b1294233.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. The Argentine FA has been handed a hefty sanction after its players were seen celebrating World Cup victory over England with a banner relating to the Falklands, while various players and staff have been hit with hefty fines for their involvement in the unsavoury scenes which followed the World Cup final. Argentina knocked England out in the tournament semi-finals, and the build-up to the match was dominated by discussions of the Falklands War.",
    "image": "https://static.standard.co.uk/2026/07/15/23/2285645563..?width=1200&auto=webp&quality=75",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SPORTSTAR",
@@ -48,8 +68,8 @@
    "link": "https://sportstar.thehindu.com/football/nordic-football-associations-joint-statement-lost-confidence-fifa-gianni-infantino/article71381894.ece/amp/",
    "lede": "Getty Images Getty Images https://ss-i.thgim.com/public/incoming/r9r95k/article71381950.ece/alternates/FREE_1200/GettyImages-2286273736.jpg DeFodi Images East Rutherford, United States - July 19: FIFA president Gianni Infantino looks on after the FIFA World Cup 2026 Final match between Spain and Argentina at New York New Jersey Stadium on July 19, 2026 in East Rutherford, United States. (Photo by Harry Langer/DeFodi Images/DeFodi via Getty Images) STOCKHOLM The associations said they stand united with European soccer governing body UEFA and support the measures it has already proposed. Six Nordic national football associations piled more pressure on embattled FIFA President Gianni Infantino on Sunday by saying they had “lost confidence” in his leadership.",
    "image": "https://ss-i.thgim.com/public/incoming/r9r95k/article71381950.ece/alternates/FREE_1200/GettyImages-2286273736.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO CREATORS",
@@ -58,26 +78,6 @@
    "link": "https://creators.yahoo.com/lifestyle/story/ted-lasso-season-4-just-broke-an-apple-tv-record-its-the-feel-good-football-fix-world-cup-fans-need-213039291.html",
    "lede": "The World Cup ended a month ago, but plenty of fans still aren't ready to move on. And judging by the numbers for Ted Lasso Season 4, they aren't the only ones looking for another soccer fix. The show's long-awaited return just delivered the biggest launch in Apple TV history, drawing 296.6 million minutes watched in the U.S. during its first two days of availability, according to Nielsen data supplied by Apple. More than 200 million of those minutes came on Aug. 5 alone, when Ted Lasso was the most-streamed program in the country.",
    "image": "https://s.yimg.com/lo/mysterio/api/862232c78bc582af05c94fac7322bb8cf96546201e5df38d51011f204b90d3ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fted-lasso-world-cup-halftime-show-season-4_2068.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SOWETAN",
-   "title": "Nordic nations back calls for Infantino to resign",
-   "iso": "2026-08-23T16:03:29.000Z",
-   "link": "https://www.sowetan.co.za/sport/soccer/2026-08-23-nordic-nations-back-calls-for-infantino-to-resign/",
-   "lede": "Six Nordic football associations delivered a united blow to Fifa president Gianni Infantino on Sunday, declaring they had lost confidence in his leadership while demanding sweeping governance reforms at world soccer’s governing body. The six Nordic Fifa members — Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands — met in Helsinki and issued a rare joint statement backing calls for Infantino’s resignation from three major regional confederations. The six Nordic football associations have lost confidence in Fifa’s president and are concerned about the organisation’s governance and decision-making at the highest level. They also supported demands for an independent investigation into his controversial proposal to sell a stake in events like the World Cup to private equity investors, a plan that was quickly abandoned in the face of global backlash.",
-   "image": "https://www.sowetan.co.za/resizer/v2/AQSHE3MY4NHK7JAV7TORWY665Y.JPG?smart=true&auth=9d1765d372cbfadd50094f694ccbd2dcce4b89b09ceba184e8fa80c819915249&width=1200&height=630",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NEW TELEGRAPH",
-   "title": "FIFA Releases 2027 Women’s World Cup Playoff Fixtures",
-   "iso": "2026-08-23T15:56:09.000Z",
-   "link": "https://newtelegraphng.com/fifa-releases-2027-womens-world-cup-playoff-fixtures/",
-   "lede": "The organisers of the FIFA Women’s World Cup 2027 have confirmed the playoff fixtures, saying six nations will be competing for a place in the Brazil qualification. According to the statement, Ghana and South Africa are among the six nations competing alongside Uzbekistan, Papua New Guinea, Chinese Taipei, and Ecuador. The development was announced on FIFA’s website on Sunday following the meeting held at the body’s headquarters in Zurich on Thursday, August 20, 2026. Sunday Telegraph reports that there are three groups of two teams, with each team scheduled to play three matches.",
-   "image": "https://newtelegraphng.com/wp-content/uploads/2026/08/IMG_0912.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
