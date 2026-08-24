@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T14:06:16.786Z",
+ "updated": "2026-08-24T14:27:19.195Z",
  "news": [
   {
    "cat": "1NEWS",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "GOAL.COM",
+   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+   "iso": "2026-08-24T12:26:27.000Z",
+   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
+   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
+   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "BUSINESS NEWS NIGERIA",
    "title": "N203bn later, Nigeria’s football crisis deepens",
    "iso": "2026-08-24T12:22:37.000Z",
    "link": "https://businessday.ng/pro/article/n203bn-later-nigerias-football-crisis-deepens/?utm_source=auto-read-also&utm_medium=web",
    "lede": "Nigeria’s football fortunes have suffered a dramatic decline despite increased government investment in the sports sector, raising questions about whether funding alone can reverse years of structural, administrative and developmental weaknesses in the country’s football ecosystem. For decades, Nigerian football was regarded as one of Africa’s strongest and most productive football systems, powered by the Super Eagles, a competitive domestic league and a steady pipeline of talent playing in leading European leagues. The Super Eagles remain three-time Africa Cup of Nations champions, with their most recent title coming in 2013. Nigeria reached a historic fifth position in the FIFA rankings in April 1994, the highest ever achieved by an African men’s team, while the team has qualified for six FIFA World Cups and reached the round of 16 on three occasions.",
    "image": "https://cdn.businessday.ng/wp-content/uploads/2026/06/The-Super-Eagles-wont-be-at-the-World-Cup-2026.-Nigeria-will-be-everywhere.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GIVEMESPORT",
@@ -28,18 +38,18 @@
    "link": "https://www.givemesport.com/gianni-infantino-cristiano-ronaldo-meet-esports-world-cup/",
    "lede": "Under-fire FIFA president Gianni Infantino bumped into Cristiano Ronaldo at the Esports World Cup in Paris over the weekend. Infantino is currently clinging onto his job following his failed Football Forward Enterprise (FFE) scheme - which would have seen stakes in the FIFA World Cup sold to private investors. UEFA, the Asian Football Confederation (AFFC) and CONCACAF have been pushing for Infantino to resign, after writing an open letter calling for “leadership that serves football, not seeks to command it”. Meanwhile, fans’ groups worldwide have launched a petition calling for the embattled FIFA president to leave his post, demeaning wholesale reform of world football’s governing body.",
    "image": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2026/08/mixcollage-24-aug-2026-12-43-pm-7923.jpg?w=1600&h=900&fit=crop",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-24T11:27:21.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Uli Hoeneß says Julian Nagelsmann not solely to blame for Germany’s poor World Cup",
+   "iso": "2026-08-24T11:15:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/245633/uli-hoenes-says-julian-nagelsmann-not-solely-to-blame-for-germanys-poor-world-cup",
+   "lede": "Uli thinks the problems were beyond Nagelsmann at the World Cup. It already feels like quite some time ago, and yet it also still feels like it was only just a few weeks ago that Germany yet again floundered out of the World Cup far earlier than they should have. In Foxborough, Massachusetts, they fell to Paraguay in a penalty shootout after failing to get the job done in 90 minutes, but the writing was on the wall as they collectively failed to hit their heights throughout the entire tournament — starting off the group stages with a 7-1 trouncing of Curaçao in Houston, Texas probably didn’t do wonders for keeping them on their toes.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283947570.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -48,35 +58,26 @@
    "link": "https://timesofindia.indiatimes.com/sports/international-sports/youre-lucky-to-have-hair-football-world-drops-hilarious-reactions-as-erling-haaland-chops-off-his-iconic-haircut-after-going-viral-in-fifa-world-cup-2026/articleshow/133462960.cms",
    "lede": "Erling Haaland has shocked the football world by saying goodbye to his iconic long blond hair. The Manchester City and Norway striker revealed a military-style buzz cut on social media, documenting the dramatic transformation and the hilarious reactions from his friends, family and football stars.Haaland’s new look quickly became a viral sensation. Jude Bellingham, Jack Grealish, Zlatan Ibrahimovic and Pep Guardiola were among those who reacted. His girlfriend Isabel Haugseng Johansen also gave her verdict, while Haaland’s father Alf-Inge joked that his son finally looked like him again.Erling Haaland’s new haircut leaves football stars stunnedErling Haaland revealed his new haircut in a video shared on his YouTube channel and later posted pictures on Instagram.",
    "image": "https://static.toiimg.com/thumb/msid-133463087,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "Diego Maradona’s infamous ‘Hand of God’ FIFA World Cup 1986 ball sells for millions at auction",
-   "iso": "2026-08-24T10:38:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/international-sports/diego-maradonas-infamous-hand-of-god-fifa-world-cup-1986-ball-sells-for-millions-at-auction/articleshow/133461595.cms",
-   "lede": "The football used when Diego Maradona scored his famous ‘Hand of God’ goal against England at the 1986 World Cup has sold for £2.5m at auction. The Adidas Azteca ball was sold for $3.3m at Heritage Auctions in the United States on Saturday.Maradona used his hand to punch the ball past England goalkeeper Peter Shilton in Argentina’s 2-1 quarter-final win. He later described the goal as being scored “a little with the head of Maradona and a little with the hand of God”. The ball was kept by match referee Ali Bin Nasser for more than three decades.Diego Maradona’s ball was part of one of football’s most famous matchesThe auction price was below expectations.",
-   "image": "https://static.toiimg.com/thumb/msid-133461833,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "GOAL.COM",
-   "title": "FIFA unveils 2027 Women's World Cup schedule as Brazil prepares for iconic Maracana final",
-   "iso": "2026-08-24T10:33:34.000Z",
-   "link": "https://www.goal.com/en/lists/fifa-unveils-2027-women-world-cup-schedule-brazil-maracana-final/blt662a57ad19011b14",
-   "lede": "Football's global governing body has confirmed the full 64-match schedule for the 2027 Women's World Cup in Brazil. The legendary Maracana in Rio de Janeiro will take centre stage, hosting both the opening fixture and the grand finale. All eight host cities across the vibrant South American nation are set to welcome knockout-stage football as anticipation builds for the historic tournament. FIFA unveiled the complete 64-game fixture list on August 20 at their Zurich headquarters.",
-   "image": "https://assets.goal.com/images/v3/getty-1626984038/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-1626984038.jpg",
+   "cat": "WION",
+   "title": "India to take on Panama in FIFA friendly ahead of Brazil clash",
+   "iso": "2026-08-24T10:49:00.000Z",
+   "link": "https://www.wionews.com/sports/india-to-take-on-panama-in-fifa-friendly-ahead-of-brazil-clash-1787566037063/amp",
+   "lede": "India’s men’s football team will play Panama in a FIFA international friendly in Sep, ahead of their much-anticipated clash against five-time FIFA World Cup winners Brazil in Kolkata on Oct 3. According to media reports, the match against Panama is likely to be played on Sep 26 or 27 and the venue is yet to be confirmed. Panama took part in the 2026 FIFA World Cup but failed to reach the Round of 32. They lost to Ghana, Croatia and England in Group L and finished at the bottom of the table.",
+   "image": "https://www.wionews.com/sports/india-to-take-on-panama-in-fifa-friendly-ahead-of-brazil-clash-1787566037063",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NDTV PROFIT",
-   "title": "Diego Maradona's 'Hand Of God' World Cup Football Sells For $3.3 Million At Auction",
-   "iso": "2026-08-24T13:30:49.000Z",
-   "link": "https://www.ndtvprofit.com/sports/diego-maradonas-hand-of-god-world-cup-football-sells-for-3-3-million-at-auction-11952000",
-   "lede": "",
+   "cat": "KHEL NOW",
+   "title": "India likely to face Panama ahead of Brazil, could play four FIFA World Cup opponents this year",
+   "iso": "2026-08-24T10:47:17.000Z",
+   "link": "https://khelnow.com/football/indian-football-team-likely-to-face-panama",
+   "lede": "The Blue Tigers are likely to play Brazil, Panama and New Zealand this year. India are set for a rare run of international fixtures against teams that featured at the FIFA World Cup 2026. The All India Football Federation (AIFF) has signed a letter of intent with Panama for an international friendly during the September-October FIFA window, according to a report by TOI. The match is scheduled to take place on the weekend of September 26-27, although the venue has not been finalized yet.",
+   "image": "https://assets.khelnow.com/news/uploads/2026/08/Panama-India-Friendly-Lead.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
