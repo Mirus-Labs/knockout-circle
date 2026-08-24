@@ -1,16 +1,6 @@
 {
- "updated": "2026-08-24T05:25:14.760Z",
+ "updated": "2026-08-24T05:54:32.041Z",
  "news": [
-  {
-   "cat": "GOAL.COM",
-   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-24T04:27:34.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "FOX SPORTS",
    "title": "World Cup stars stun on debut for new clubs... as Aussie that got away breaks hearts – Roo Radar",
@@ -18,18 +8,38 @@
    "link": "https://www.foxsports.com.au/football/socceroos/roo-radar/football-2026-nestory-irankunda-creates-three-chances-in-22-minutes-on-sporting-cp-debut-patrick-beach-makes-gamesaving-stop-paul-izzo-opens-up-on-future-at-randers-latest-news/news-story/a883a7a63d5addb467705c7bc500a256",
    "lede": "Lucas Herrington made waves with an impressive debut for Premier League side Hull City in their 2-0 win over Manchester United – but he wasn’t the only Socceroo playing abroad. A World Cup hero made a crucial save; Nestory Irankunda packed plenty into his cameo appearance on debut for Portuguese club Sporting CP; while Australian football’s greatest recent ‘what if’ led Portsmouth to an emphatic EFL win. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Scroll down for the latest updates on how Socceroos players are performing overseas in Roo Radar!",
    "image": "https://content.api.news/v3/images/bin/aa4a2a3c3f0fdacca580e6c6a812caeb",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SOUTH CHINA MORNING POST",
+   "title": "Ceferin rules out Fifa presidency bid but claims Infantino could face challenger",
+   "iso": "2026-08-24T04:00:10.000Z",
+   "link": "https://amp.scmp.com/sport/football/article/3365009/uefa-chief-ceferin-rules-out-fifa-presidency-bid-claims-infantino-could-face-challenger",
+   "lede": "Uefa president Aleksander Ceferin ruled himself out of running for the Fifa presidency but said Gianni ⁠Infantino would likely face a ⁠challenger if he seeks re-election next year following ⁠a global backlash over a plan to sell part of the World Cup to private investors. Speaking to The Rest Is Politics: Leading podcast, which will air on Monday, Ceferin said he was not interested in succeeding Infantino despite growing uncertainty around the Fifa president’s future after his abandoned investment proposal. “One reason is that I love Uefa ‌and I love working here, and I think that at a certain point you have also, I mean, it’s time also to enjoy life a bit,” Ceferin said. And the second point is, my credibility is much, much, much higher if I’m not interested in the position.”",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/24/36168436-4aa1-4920-821a-db098cab49e4_4232d087.jpg?itok=nNxfDUXv&v=1787540475",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "NATIONAL ACCORD NEWSPAPER",
+   "title": "Jay-Jay Okocha still holds FIFA World Cup dribbling record 32 years after historic Nigeria-Italy clash",
+   "iso": "2026-08-24T01:51:32.000Z",
+   "link": "https://nationalaccordnewspaper.com/jay-jay-okocha-still-holds-fifa-world-cup-dribbling-record-32-years-after-historic-nigeria-italy-clash/",
+   "lede": "Nigerian superstar, Jay-Jay Okocha in action. Nigerian football icon, Austin “Jay-Jay” Okocha remains the holder of the FIFA World Cup record for the most successful dribbles in a single match, more than three decades after setting the remarkable milestone. According to FIFA, Okocha completed an incredible 15 successful dribbles during Nigeria’s Round of 16 encounter against Italy at the 1994 FIFA World Cup in the United States. Despite the passage of time and the emergence of several football greats, no player has surpassed the Nigerian’s record-setting performance.",
+   "image": "https://nationalaccordnewspaper.com/wp-content/uploads/2026/05/Jay-Jay-Okocha-still-holds-FIFA-World-Cup-.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
    "title": "Gianni Infantino must remember he is European after attempts to sell World Cup stake, says Aleksander Ceferin",
    "iso": "2026-08-23T23:20:31.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cp878rp71v2o",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o",
    "lede": "Gianni Infantino (left) and Aleksander Ceferin (right) worked together at Uefa. Uefa president Aleksander Ceferin says Gianni Infantino needs to remember he is European after describing his Fifa counterpart's plan to sell off a stake in the World Cup as \"worse than the Super League\". Earlier this month the world governing body abandoned Infantino's proposal to create a new company - Fifa Forward Enterprise (FFE) - to manage the commercial and ticketing rights of all Fifa competitions, with 21% to be sold off to a private investment company. Uefa led opposition to the plan, with its members voting to boycott World Cups unless it was scrapped.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef1f/live/398d1240-9f2c-11f1-92b7-313dc1d0a3e9.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE TELEGRAPH",
@@ -38,8 +48,8 @@
    "link": "https://www.telegraph.co.uk/football/2026/08/24/ceferin-rules-out-replacing-infantino-but-tells-him-to-quit/",
    "lede": "Uefa president says if Fifa counterpart does not stand down he will face a leadership challenge in March. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent. Before joining the Telegraph in 2013, Ben spent more than eight years at the Press Association, including as a football and rugby reporter.",
    "image": "https://www.telegraph.co.uk/content/dam/football/2026/08/23/TELEMMGLPICT000499025775_17875031592140_trans_NvBQzQNjv4BqQvlslJrEa6OAJhSP4k85ZX5xMATqKKmkg1Dlxc_XCJ8.jpeg?impolicy=OG-Standard",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,8 +58,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/24/aleksander-ceferin-gianni-infantino-world-cup-fifa-uefa-super-league",
    "lede": "Fifa president will face opponent if he seeks re-election. Ceferin: ‘We stopped another try to steal the sport’. The Uefa president, Aleksander Ceferin, has described Gianni Infantino’s doomed attempt to sell stakes in the World Cup as “even worse than the Super League plan” and warned his embattled Fifa counterpart that he will face an opponent if he runs for re-election next March. Ceferin has led Uefa’s firm collective stance against the Fifa Forward Enterprise (FFE) scheme, which was shelved amid widespread opposition at the start of August.",
    "image": "https://i.guim.co.uk/img/media/7eabb23d1d938026a12d6a1e5c129199ad3aab75/103_0_1716_1373/master/1716.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e6cbd829accddbb2bdd05d12051073b4",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -58,8 +68,8 @@
    "link": "https://www.bavarianfootballworks.com/bayern-munich-finances-board/246471/uli-hoenes-lambasts-fifa-president-gianni-infantino-for-unacceptable-world-cup-mistake",
    "lede": "The 2026 FIFA World Cup was marred by a plethora of controversial decisions, poor planning, and external influence. One such headliner was the reversal of Folarin Balogun’s red card, which allowed the USMNT star to feature in his country’s Round of 16 tie against Belgium. Bayern Munich supervisory board member Uli Hoeneß has always been vocal about everything. Once he has his scope trained on you, good luck.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-1151713393.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "AFRICA TOP SPORTS",
@@ -68,16 +78,6 @@
    "link": "https://en.africatopsports.com/maradonas-hand-of-god-world-cup-ball-sells-for-over-e2-8-million-at-auction/",
    "lede": "The ball used during Diego Maradona’s famous “Hand of God” goal at the 1986 FIFA World Cup has reportedly been sold at auction for more than €2.8 million, underlining the enduring global appeal of one of football’s most controversial and iconic moments. The historic goal was scored during Argentina’s quarter-final clash against England at the 1986 World Cup in Mexico. Maradona punched the ball into the net ahead of England goalkeeper Peter Shilton, with the goal allowed to stand by the referee. The Argentine football legend later famously described the incident as having been scored “a little with the head of Maradona and a little with the hand of God,” giving birth to one of the most memorable phrases in football history.",
    "image": "https://en.africatopsports.com/wp-content/uploads/2026/08/HQaprMtasAA4fcq.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "World Cup 2026 lineup: India to face Panama before Brazil clash",
-   "iso": "2026-08-23T19:44:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/city/goa/world-cup-2026-lineup-india-to-face-panama-before-brazil-clash/articleshow/133446295.cms",
-   "lede": "Panaji: India are moving towards playing an unprecedented four, possibly even five, games against FIFA World Cup 2026 opponents this year, after the All India Football Federation (AIFF) signed a letter of intent with Panama for an international friendly at home during the Sept-Oct match window.The FIFA international friendly against Panama is scheduled for the weekend of Sept 26-27. The venue is yet to be finalised.Given that India have confirmed a historic friendly against Brazil in Kolkata on Oct 3 and there are two away games against New Zealand in Nov, the next three months will see the national team play four times against teams from the last World Cup.“. There is a high possibility of an international friendly against another World Cup opponent on Oct 6,” a senior AIFF official told TOI on Sunday. “Brazil is done and Panama have agreed in principle to play in India.",
-   "image": "https://static.toiimg.com/thumb/msid-133446339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
