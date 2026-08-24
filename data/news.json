@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T10:05:06.068Z",
+ "updated": "2026-08-24T10:23:00.213Z",
  "news": [
   {
    "cat": "GOAL.COM",
@@ -55,21 +55,11 @@
    "cat": "BBC",
    "title": "Diego Maradona's 'Hand of God' football from 1986 World Cup win over England sells for £2.5m",
    "iso": "2026-08-24T06:55:06.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o",
+   "link": "https://www.bbc.com/sport/football/articles/cqxvj8j7gy8o",
    "lede": "The 'Hand of God' football was previously sold in 2022. The football with which Diego Maradona scored his famous 'hand of God' goal at the 1986 World Cup has sold at auction for £2.5m. Maradona famously punched the ball past goalkeeper Peter Shilton in Argentina's 2-1 quarter-final win over England. After the game, he told reporters it had been scored \"a little with the head of Maradona and a little with the hand of God\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE MIRROR",
-   "title": "UEFA chief Aleksandr Ceferin destroys Gianni Infantino over FIFA sale saga – 'Plan is dead'",
-   "iso": "2026-08-24T06:50:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/news/gianni-infantino-fifa-aleksandr-ceferin-37584966.amp",
-   "lede": "UEFA president Aleksander Ceferin has hit out at Gianni Infantino over his ill-fated plan to sell stakes in FIFA competitions to private investment firms. The Swiss Italian is under growing pressure after his controversial idea sparked global outrage. The move saw European football's governing body, UEFA, threaten to boycott all FIFA events, including the World Cup. Infantino was eventually forced to withdraw his plan, but pressure on the 56-year-old has not gone away.",
-   "image": "https://i2-prod.mirror.co.uk/incoming/article37585074.ece/ALTERNATES/s1200/0_SOCCER_FIFA_11392647JPG.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
   },
   {
    "cat": "MIRAGE NEWS",
@@ -78,6 +68,16 @@
    "link": "https://www.miragenews.com/commbank-junior-matildas-gear-up-for-u-17-world-1732002/",
    "lede": "The CommBank Junior Matildas will assemble for their final domestic training camp ahead of FIFA U-17 Women's World Cup Morocco 2026™, with Australia's debut in the tournament set to kick off on October 19th against Chile. CommBank Junior Matildas Head Coach, Michael Cooper, has called in a 28-player squad for the upcoming training camp, as his coaching staff have their final opportunity to make selection choices ahead of the squad announcement for the upcoming FIFA U-17 Women's World Cup Morocco 2026™. Australia qualified for the first-ever time for the showpiece U-17 event following the team's fourth-place finish at the AFC U-17 Women's Asian Cup 2026™, with the tournament set to provide invaluable experience for Australia's next generation of stars.",
    "image": "https://footballaustralia.com.au/sites/default/files/inline-images/AFC%20U17%20WOMEN%27S%20ASIAN%20CUP%202026%20-%20Post%20Match%20%2820%29.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "SUPERSPORT.COM",
+   "title": "Spain's World Cup hero Torres saves PSG's blushes at Rennes",
+   "iso": "2026-08-24T04:24:42.000Z",
+   "link": "https://supersport.com/football/news/3578c5ef-ba9c-40a7-8966-b525716e749b/spain-s-world-cup-hero-torres-saves-psg-s-blushes-at-rennes?utm_creative_format=video&utm_marketing_tactic=baw",
+   "lede": "Spain's World Cup winner Ferran Torres scored twice to claim a draw for Paris Saint-Germain as they started the defence of their French Ligue 1 title with a 2-2 draw at Rennes. Torres came off the bench for his Ligue 1 debut and opened his account for his new club weeks on from scoring the winning goal for La Roja in the World Cup final. Rennes led at the break after Sebastian Szymanski and Esteban Lepaul scored at Roazhon Park before Torres' clinical interventions thanks to assists from fellow World Cup winner Fabian Ruiz. Sunday night thriller at the Roazhon Park 🍿❤️‍🔥 pic.twitter.com/H8OKdCwfh7.",
+   "image": "https://images.supersport.com/media/j4dlh0kw/ferran-torres-scores-260823g-1920.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
