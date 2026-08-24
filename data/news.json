@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T10:54:42.529Z",
+ "updated": "2026-08-24T11:13:15.245Z",
  "news": [
   {
    "cat": "THE TIMES OF INDIA",
@@ -14,8 +14,8 @@
   {
    "cat": "GOAL.COM",
    "title": "FIFA unveils 2027 Women's World Cup schedule as Brazil prepares for iconic Maracana final",
-   "iso": "2026-08-24T10:33:09.000Z",
-   "link": "https://www.goal.com/en-gb/lists/fifa-unveils-2027-women-world-cup-schedule-brazil-maracana-final/blt662a57ad19011b14",
+   "iso": "2026-08-24T10:32:00.000Z",
+   "link": "https://www.goal.com/en/lists/fifa-unveils-2027-women-world-cup-schedule-brazil-maracana-final/blt662a57ad19011b14",
    "lede": "Football's global governing body has confirmed the full 64-match schedule for the 2027 Women's World Cup in Brazil. The legendary Maracana in Rio de Janeiro will take centre stage, hosting both the opening fixture and the grand finale. All eight host cities across the vibrant South American nation are set to welcome knockout-stage football as anticipation builds for the historic tournament. FIFA unveiled the complete 64-game fixture list on August 20 at their Zurich headquarters.",
    "image": "https://assets.goal.com/images/v3/getty-1626984038/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-1626984038.jpg",
    "emoji": "🏆",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "JAPAN WIRE BY KYODO NEWS",
+   "title": "Football: Japan forward Ogawa set to join Machida from Eredivisie's NEC",
+   "iso": "2026-08-24T07:56:00.000Z",
+   "link": "https://english.kyodonews.net/articles/-/82952",
+   "lede": "TOKYO - Japan forward Koki Ogawa is set to transfer to J.League leaders Machida Zelvia from NEC Nijmegen in the Dutch top division, a source with knowledge of the matter said Monday. The 29-year-old made his World Cup debut for Japan at this summer's tournament in North America, where the Samurai Blue were knocked out in the round of 32 by Brazil. The parties have reportedly agreed to a deal, with Ogawa expected to join Machida this week on a multi-year contract estimated at around 400 million yen ($2.5 million) per year, making him one of the highest paid Japanese players in the domestic league. The Kanagawa Prefecture native is rated highly for his hold-up play and finishing, utilizing his 186-centimeter frame.",
+   "image": "https://english-kyodo.ismcdn.jp/mwimgs/5/d/1200x/img_5d36c6a9fa042bf0a593f1be2a4aa707433157.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "LIVESCORE",
    "title": "Diego Maradona's iconic 1986 'Hand of God' World Cup ball sells for $3.35m at auction",
    "iso": "2026-08-24T07:42:06.000Z",
    "link": "https://www.livescore.com/en/news/football/more/diego-maradonas-iconic-1986-hand-of-god-world-cup-ball-sells-for-335m-at-auction-goal/",
    "lede": "Bidding opened at $2.5 million on the night of the event before reaching its final hammer price. The publication also noted that the final sum fell short of the all-time record for a sports ball, which remains held by baseball star Shohei Ohtani's 50th home run ball after it commanded $4.392 million in 2024. Timing dampens bidding interestThe artefact previously changed hands for $2.37 million at Graham Budd Auctions in 2022 before failing to sell the following year when a top bid of $2.04 million did not meet the reserve price. Its relisting this summer sought to capitalise on the excitement surrounding the 2026 World Cup.",
    "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FOX SPORTS",
@@ -48,8 +58,8 @@
    "link": "https://www.foxsports.com.au/football/football-2026-gianni-infantino-fifa-president-aleksander-ceferin-warning-fifa-leadership-challenge-uefa-world-cup/news-story/a90ef7bfc57ca82ec1c56ba3573f72f0",
    "lede": "FIFA president Gianni Infantino has been delivered a stunning warning over his future, with UEFA chief Aleksander Ceferin declaring he must recognise he has lost the support of the football world or prepare to face a leadership challenge. Infantino has come under increasing pressure over his controversial and now-abandoned proposal to secure private investment in FIFA tournaments, including the World Cup. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. The saga has created an extraordinary divide within world football, with UEFA threatening a boycott of FIFA competitions and several continental and national federations withdrawing their support for the 56-year-old.",
    "image": "https://content.api.news/v3/images/bin/0882560eb432274f7515f07dab0e2466",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THENATIONALNEWS.COM",
@@ -58,8 +68,8 @@
    "link": "https://www.thenationalnews.com/sport/football/2026/08/24/ceferin-rules-out-fifa-presidency-who-are-the-candidates-who-could-run-against-infantino/",
    "lede": "Uefa president Aleksander Ceferin has ruled himself out of the running for the Fifa presidency but said Gianni Infantino would probably face a challenger if he seeks re-election next year following a global backlash over a plan to sell part of the World Cup to private investors. Speaking to The Rest Is Politics: Leading podcast, which ​will air on Monday, Ceferin said he was not interested in succeeding Infantino despite growing uncertainty around the Fifa ⁠president's future. \"My credibility is much, much, much ​higher if ⁠I'm not interested in the position,\" Ceferin said. Ceferin criticised the proposed World Cup investment project, describing it as a greater threat to the sport than the European Super League plan that Uefa successfully fought in 2021.",
    "image": "https://www.thenationalnews.com/resizer/v2/5IQQ4JKR6E3JX2VLP2FTODNZNA.jpg?smart=true&auth=f275aa7e23e053450614e9dbed365be4b8965baa12ea7facd82610d2c7350cb2&width=1200&height=630",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "GOAL.COM",
@@ -68,16 +78,6 @@
    "link": "https://www.goal.com/en/news/infantino-announces-the-staging-of-a-under-15-world-cup-with-211-national-teams-taking-part/blt54a972c9398d6a60",
    "lede": "\"It will be like a festival for children\". Gianni Infantino has confirmed that the International Federation of Association Football (FIFA) will organise the first-ever Under-15 World Cup this year, open to all 211 member associations. Talk of the project had been swirling in recent weeks. Now the FIFA president has publicly committed to making it happen.",
    "image": "https://assets.goal.com/images/v3/bltd5583e491c46f441/Infantino1.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MIRAGE NEWS",
-   "title": "CommBank Junior Matildas Gear Up for U-17 World Cup",
-   "iso": "2026-08-24T06:42:00.000Z",
-   "link": "https://www.miragenews.com/commbank-junior-matildas-gear-up-for-u-17-world-1732002/",
-   "lede": "The CommBank Junior Matildas will assemble for their final domestic training camp ahead of FIFA U-17 Women's World Cup Morocco 2026™, with Australia's debut in the tournament set to kick off on October 19th against Chile. CommBank Junior Matildas Head Coach, Michael Cooper, has called in a 28-player squad for the upcoming training camp, as his coaching staff have their final opportunity to make selection choices ahead of the squad announcement for the upcoming FIFA U-17 Women's World Cup Morocco 2026™. Australia qualified for the first-ever time for the showpiece U-17 event following the team's fourth-place finish at the AFC U-17 Women's Asian Cup 2026™, with the tournament set to provide invaluable experience for Australia's next generation of stars.",
-   "image": "https://footballaustralia.com.au/sites/default/files/inline-images/AFC%20U17%20WOMEN%27S%20ASIAN%20CUP%202026%20-%20Post%20Match%20%2820%29.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
