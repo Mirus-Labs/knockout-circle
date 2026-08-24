@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T08:30:38.159Z",
+ "updated": "2026-08-24T09:05:47.358Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -23,13 +23,23 @@
   },
   {
    "cat": "GOAL.COM",
+   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
+   "iso": "2026-08-24T07:29:05.000Z",
+   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
+   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
+   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "GOAL.COM",
    "title": "Infantino announces the staging of a Under-15 World Cup with 211 national teams taking part",
    "iso": "2026-08-24T07:03:50.000Z",
    "link": "https://www.goal.com/en-za/news/infantino-announces-the-staging-of-a-under-15-world-cup-with-211-national-teams-taking-part/blt54a972c9398d6a60",
    "lede": "\"It will be like a festival for children\". Gianni Infantino has confirmed that the International Federation of Association Football (FIFA) will organise the first-ever Under-15 World Cup this year, open to all 211 member associations. Talk of the project had been swirling in recent weeks. Now the FIFA president has publicly committed to making it happen.",
    "image": "https://assets.goal.com/images/v3/bltd5583e491c46f441/Infantino1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BBC",
@@ -38,8 +48,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o",
    "lede": "The 'Hand of God' football was previously sold in 2022. The football with which Diego Maradona scored his famous 'hand of God' goal at the 1986 World Cup has sold at auction for £2.5m. Maradona famously punched the ball past goalkeeper Peter Shilton in Argentina's 2-1 quarter-final win over England. After the game, he told reporters it had been scored \"a little with the head of Maradona and a little with the hand of God\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE MIRROR",
@@ -48,8 +58,8 @@
    "link": "https://www.mirror.co.uk/sport/football/news/gianni-infantino-fifa-aleksandr-ceferin-37584966.amp",
    "lede": "UEFA president Aleksander Ceferin has hit out at Gianni Infantino over his ill-fated plan to sell stakes in FIFA competitions to private investment firms. The Swiss Italian is under growing pressure after his controversial idea sparked global outrage. The move saw European football's governing body, UEFA, threaten to boycott all FIFA events, including the World Cup. Infantino was eventually forced to withdraw his plan, but pressure on the 56-year-old has not gone away.",
    "image": "https://i2-prod.mirror.co.uk/incoming/article37585074.ece/ALTERNATES/s1200/0_SOCCER_FIFA_11392647JPG.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MIRAGE NEWS",
@@ -58,16 +68,6 @@
    "link": "https://www.miragenews.com/commbank-junior-matildas-gear-up-for-u-17-world-1732002/",
    "lede": "The CommBank Junior Matildas will assemble for their final domestic training camp ahead of FIFA U-17 Women's World Cup Morocco 2026™, with Australia's debut in the tournament set to kick off on October 19th against Chile. CommBank Junior Matildas Head Coach, Michael Cooper, has called in a 28-player squad for the upcoming training camp, as his coaching staff have their final opportunity to make selection choices ahead of the squad announcement for the upcoming FIFA U-17 Women's World Cup Morocco 2026™. Australia qualified for the first-ever time for the showpiece U-17 event following the team's fourth-place finish at the AFC U-17 Women's Asian Cup 2026™, with the tournament set to provide invaluable experience for Australia's next generation of stars.",
    "image": "https://footballaustralia.com.au/sites/default/files/inline-images/AFC%20U17%20WOMEN%27S%20ASIAN%20CUP%202026%20-%20Post%20Match%20%2820%29.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-24T06:29:06.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
