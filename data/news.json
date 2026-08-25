@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-25T11:46:34.055Z",
+ "updated": "2026-08-25T12:04:29.326Z",
  "news": [
+  {
+   "cat": "THE NATIONAL SCOT",
+   "title": "John Swinney launches £500k World Cup fund to 'back Scotland's future football stars'",
+   "iso": "2026-08-25T11:44:20.000Z",
+   "link": "https://www.thenational.scot/news/26493276.john-swinney-launches-500k-world-cup-fund-young-people/",
+   "lede": "JOHN Swinney has launched a £500,000 World Cup fund to \"support Scotland's future football stars\". The First Minister launched the fund during a visit to Scotland's national stadium, Hampden Park in Glasgow, on Tuesday. It comes following the success of Steve Clarke's team at the Fifa World Cup in June, with the Scotland men's team qualifying for the tournament for the first time since 1998. Lawrence Shankland celebrates during win over Denmark at Hampden Park in November, in which Scotland qualified for the World Cup (Image: PA).",
+   "image": "https://www.thenational.scot/resources/images/21357026.jpg?type=og-image",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE SUN",
    "title": "Three World Cup winners buy own top flight club for just £34m in huge investment",
@@ -8,16 +18,6 @@
    "link": "https://www.thesun.co.uk/sport/40165790/world-cup-winners-thomas-muller-mats-hummels-hernandez/",
    "lede": "THREE World Cup winners are part of an investment group that has bought a 90 per cent stake in Portuguese top-flight club Estrela da Amadora. Thomas Muller, Mats Hummels and Lucas Hernandez are among the football stars involved in the takeover, alongside former Bayern Munich goalkeeper Yann Sommer. The German-led consortium has completed a deal worth around £34million to acquire the majority stake in the Lisbon-based club’s professional football operation. The deal was officially confirmed by Estrela on Tuesday, with the consortium led by ADvantage and LEAD, backed by the KI Group.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/est-dio-jose-gomes-liga-1103307804_87f5dc.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE NATIONAL SCOT",
-   "title": "John Swinney launches £500k World Cup fund to 'back Scotland's future football stars'",
-   "iso": "2026-08-25T11:32:22.000Z",
-   "link": "https://www.thenational.scot/news/26493276.john-swinney-launches-500k-world-cup-fund-young-people/",
-   "lede": "JOHN Swinney has launched a £500,000 World Cup fund to \"support Scotland's future football stars\". The First Minister launched the fund during a visit to Scotland's national stadium, Hampden Park in Glasgow, on Tuesday. It comes following the success of Steve Clarke's team at the Fifa World Cup in June, with the Scotland men's team qualifying for the tournament for the first time since 1998. Lawrence Shankland celebrates during win over Denmark at Hampden Park in November, in which Scotland qualified for the World Cup (Image: PA).",
-   "image": "https://www.thenational.scot/resources/images/21357026.jpg?type=og-image",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "EDP24",
+   "cat": "THE IMPARTIAL REPORTER",
    "title": "World Cup ranges help drive record first half for Lego",
-   "iso": "2026-08-25T10:02:19.000Z",
-   "link": "https://www.edp24.co.uk/news/national/26492303.world-cup-ranges-help-drive-record-first-half-lego/",
+   "iso": "2026-08-25T10:18:45.000Z",
+   "link": "https://www.impartialreporter.com/news/national/26492303.world-cup-ranges-help-drive-record-first-half-lego/",
    "lede": "World Cup and KPop Demon Hunters ranges have helped toy giant Lego drive sales up by more than a fifth to hit another record in the first half of 2026. The Danish firm reported a 21% rise in revenues to 41.9 billion Danish kroner (£4.8 billion) for the six months to June 30, helping pre-tax profits surge a third higher to 11.3 billion Danish kroner (£1.3 billion). It launched more than 330 new products over the first half, with World Cup football fever and “consumer excitement” around Formula 1 and Netflix smash-hit movie KPop Demon Hunters drawing in new customers. New products included a replica of the official Fifa World Cup trophy, as well as new sets using interactive bricks, which have so far featured in Star Wars and Pokemon ranges.",
-   "image": "https://www.edp24.co.uk/resources/images/21366952.jpg?type=og-image",
+   "image": "https://www.impartialreporter.com/resources/images/21366952.jpg?type=og-image",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Ayyoub Bouaddi is the most promising defensive midfielder in the world - but Rodri's replacement won't fix all of Enzo Maresca's problems at Man City: GOAL grades the biggest deals of the 2026 summer transfer window",
+   "iso": "2026-08-25T10:15:02.000Z",
+   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
+   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
+   "image": "https://assets.goal.com/images/v3/bltbc4f22bc1cbb1586/16-9%20(68).jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "LIVESCORE",
@@ -48,16 +58,6 @@
    "link": "https://www.livescore.com/en/news/football/more/world-cup-cult-hero-orlando-gill-joins-lille-to-bolster-ancelottis-squad-goal/",
    "lede": "Securing the goalkeeperAccording to TyC Sports, Lille have completed the signing of Paraguay goalkeeper Orlando Gill from Argentine club San Lorenzo. The transfer fee is set at around €3.8 million, which covers 50% of his economic rights and provides a welcome financial boost to San Lorenzo. The 26-year-old shot-stopper made it clear he wanted to move to France, actively pushing his former club to accept the proposal from the Ligue 1 side after turning down an offer from Monza. During the 2026 FIFA World Cup, Gill emerged as a cult hero by saving two penalties in a dramatic shootout against Germany to help Paraguay reach the round of 16.",
    "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-25T09:15:50.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/bltbc4f22bc1cbb1586/16-9%20(68).jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
