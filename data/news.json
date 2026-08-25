@@ -1,25 +1,55 @@
 {
- "updated": "2026-08-25T07:11:10.172Z",
+ "updated": "2026-08-25T07:59:57.774Z",
  "news": [
+  {
+   "cat": "THE MORNING ADVERTISER",
+   "title": "Wet-led pubs ‘standout winner’ of World Cup tournament",
+   "iso": "2026-08-25T07:46:29.000Z",
+   "link": "https://www.morningadvertiser.co.uk/Article/2026/08/25/wet-led-pubs-emerge-world-cup-winners-as-july-sales-hit-2026-high/",
+   "lede": "Separate data showed average drinks sales nearly doubled on the day of the semi final where England battled against Argentina (Wednesday 15 July) with big spikes on a number of other match days, according to the latest NIQ RSM Hospitality Business Tracker, which tracks sales figures from managed groups. The data showed overall like-for-like sales in pubs were up 4.2% in July, compared to the same month last year with footfall boosted by five big games for England during the period as well as the semi final and final. The growth was the highest recorded by the tracker for pubs this year. However, restaurant groups did not fare as well with sales dropping by 1% year on year, following a 0.7% fall in June.",
+   "image": "https://www.morningadvertiser.co.uk/resizer/v2/YZUQNPZZU5AE7IXB5YWKXCE2WA.jpg?auth=f4a6cac84ef98fae0f5eb4defc18e8b4480111327d066cd6e21825096351fc49&width=1200&height=630&smart=true",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "GOAL.COM",
    "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-25T05:16:31.000Z",
+   "iso": "2026-08-25T06:16:59.000Z",
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "DAILY TRUST",
+   "title": "World Cup misses shameful – Mikel Obi",
+   "iso": "2026-08-25T06:04:25.000Z",
+   "link": "https://dailytrust.com/world-cup-misses-shameful-mikel-obi/",
+   "lede": "The Presidency has been compelled to review the composition of members of the APC 2027 Presidential Campaign Council due to anomalies capable of embarrassing the campaign, Daily Trust can report. The list had elicited several reactions from both within and outside the party since it was made public on Saturday, with many drawing attention to what they consider unnecessary omissions and questionable inclusions in the list. President Bola Ahmed Tinubu is to chair the council, with Vice President Kashim Shettima and APC National Chairman, Professor Nentawe Yilwatda, serving as Vice Chairmen I and II respectively, while former governor of Zamfara State, Senator Abdulaziz Yari, is to serve as Director-General and Imo State Governor, Hope Uzodimma, will serve as Secretary of the council.",
+   "image": "https://dailytrust.com/wp-content/uploads/2026/08/24082026DT-AB-47.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "MENSXP",
+   "title": "Will India Take on Panama Before Facing Brazil & Cape Verde? AIFF May Pull It Off!",
+   "iso": "2026-08-25T05:31:04.000Z",
+   "link": "https://www.mensxp.com/sports/football/185455-will-india-take-on-panama-before-facing-brazil-cape-verde-aiff-may-pull-it-off.html",
+   "lede": "Even as Indian football fans await a maiden clash vs Brazil in Kolkata on October 3, there is a chance that we may also face Cape Verde on October 6. The venue reportedly could be Kolkata or Kochi. But now we could be facing a third team and that too before these clashes. The AIFF (All India Football Federation) is looking to rope in Panama for a game.",
+   "image": "https://mxp-media.ilnmedia.com/media/content/2026/Aug/FB_6a8d28871bbd7.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE STRAITS TIMES",
    "title": "Maradona's 'Hand of God' football sells for $4.19 million",
    "iso": "2026-08-25T04:25:51.000Z",
-   "link": "https://www.straitstimes.com/sport/maradona-hand-of-god-football-sells-for-4-19-million",
+   "link": "https://www.straitstimes.com/sport/maradona-hand-of-god-football-sells-for-4-19-million?ref=latest",
    "lede": "The ball is also famous for Maradona’s “Goal of the Century” scored in the same match against England. The ball that Argentine footballer Diego Maradona used to score his controversial “Hand of God” goal against England in the 1986 World Cup quarter-final was sold at an auction on Aug 22 for US$3.3 million (S$4.19 million). The winning bid fell short of the US$10 million estimate that US-based Heritage Auctions house attached to what it called “the most significant football”. Bidding for the ball, which went down in sporting history after Maradona famously punched it past English goalkeeper Peter Shilton in Argentina’s 2-1 quarter-final win, opened at US$2.5 million.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4fcc0db0b0a1acb56e0f3289bb75b05460e3f12bc03e043250fedfbb09a15d8f",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -28,50 +58,23 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/before-brazil-panama-friendly-awaits-india/articleshow/133489516.cms",
    "lede": "PANAJI: India are moving towards playing an unprecedented four, possibly even five, games against FIFA World Cup 2026 opponents this year, after the All India Football Federation (AIFF) signed a letter of intent with 44-ranked Panama for an international friendly at home during the Sept-Oct match window.The Panama game is scheduled for the weekend of Sept 26-27. The venue is yet to be finalised.Given that India play Brazil in Kolkata on Oct 3 and there are two away games against New Zealand in Nov, the next three months will see the team play four times against teams from the last World Cup.“. There is a high possibility of an international friendly against another participant in the World Cup on Oct 6,” a senior AIFF official told TOI.“. Talks are ongoing with three countries who featured in the last World Cup (for the third friendly).”",
    "image": "https://static.toiimg.com/thumb/msid-133489583,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "FIFA World Cup 2026 Final | Spain Vs Argentina | Full Match Highlights & Trophy Celebration 🏆⚽ Lens Vs Nantes (rTM2hlw3MX)",
-   "iso": "2026-08-25T05:31:48.000Z",
-   "link": "https://mshale.com/b3f75402/727f8f60GBAOGQYyFldeKg4",
-   "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "England Will NEVER Win Another World Cup... Here's Why 🇬🇧💔 Coppa Del Mondo Fifa 2026 (tOw0FUhrhl)",
-   "iso": "2026-08-25T05:07:12.000Z",
-   "link": "https://mshale.com/8aeecb46/1103442eFSwSGQg0RSE6Iho",
-   "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "London ERUPTS As Three Lions Reach World Cup 2026 Semi-Finals | Norway | FIFA World Cup 2026 | AD1Z Target Good & Gather Recall (Q2MClLEC4o)",
-   "iso": "2026-08-25T04:45:52.000Z",
-   "link": "https://mshale.com/24f1819f/76ba0887OkE4BDYdGisgHCw",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "MSHALE",
-   "title": "Inside World Cup 2026 Stadiums Bbc Scotland Football (B7lgVok9fr)",
-   "iso": "2026-08-25T04:16:26.000Z",
-   "link": "https://mshale.com/6d4ff93c/d71c5761JkEQBkEIRDUJKlk",
+   "cat": "GUYANA CHRONICLE",
+   "title": "Gaza and the 2026 football World Cup: The West is morally bankrupt",
+   "iso": "2026-08-25T07:50:57.000Z",
+   "link": "https://guyanachronicle.com/2026/08/25/gaza-and-the-2026-football-world-cup-the-west-is-morally-bankrupt/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
-   "title": "FIFA World Cup 2026 Final: Spain Vs Argentina..कौन बनेगा नया World Champion? FIFA WC 2026 Final Mj (IiYq1n2sBl)",
-   "iso": "2026-08-25T04:03:20.000Z",
-   "link": "https://mshale.com/10619067/5376b69dtavuuhEso3I",
+   "title": "WATCH: Messi's Final World Cup Exit | Argentina Leave Stadium | AD15 Mississippi Redistricting Special Session Cancelled (jZU7gdmi1b)",
+   "iso": "2026-08-25T05:44:23.000Z",
+   "link": "https://mshale.com/8d6bcd59/cf033411Jx9fNg0HGy0nFQo",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
