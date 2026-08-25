@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T10:52:13.411Z",
+ "updated": "2026-08-25T10:53:45.225Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "AOL.CO.UK",
+   "title": "World Cup ranges help drive record first half for Lego",
+   "iso": "2026-08-25T08:47:34.000Z",
+   "link": "https://www.aol.co.uk/articles/world-cup-ranges-help-drive-082856000.html",
+   "lede": "World Cup and KPop Demon Hunters ranges have helped toy giant Lego drive sales up by more than a fifth to hit another record in the first half of 2026. The Danish firm reported a 21% rise in revenues to 41.9 billion Danish kroner (£4.8 billion) for the six months to June 30, helping pre-tax profits surge a third higher to 11.3 billion Danish kroner (£1.3 billion). It launched more than 330 new products over the first half, with World Cup football fever and “consumer excitement” around Formula 1 and Netflix smash-hit movie KPop Demon Hunters drawing in new customers. New products included a replica of the official Fifa World Cup trophy, as well as new sets using interactive bricks, which have so far featured in Star Wars and Pokemon ranges.",
+   "image": "https://hermes.media.static.aol.com/media/2026/08/25/04660ff3-1ba3-32ec-a832-f60f3e1c95d4/de507d38-6189-4b5c-8669-2488a1792590.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "GOAL.COM",
    "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
    "iso": "2026-08-25T08:17:26.000Z",
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/bltbc4f22bc1cbb1586/16-9%20(68).jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "KURDISTAN24",
@@ -38,8 +48,8 @@
    "link": "https://www.kurdistan24.net/en/story/934947/iraq-retains-graham-arnold-after-historic-world-cup-return",
    "lede": "Graham Arnold has extended his Iraq coaching contract through the 2027 Asian Cup after guiding the Iraqi national team back to the World Cup after 40 years. ERBIL (Kurdistan24) - Graham Arnold has extended his contract as Iraq's national football coach through the 2027 AFC Asian Cup, choosing a six-month renewal after guiding the country back to the FIFA World Cup for the first time in four decades. The 63-year-old former Australia coach said the Iraq Football Association had offered him a four-year agreement, but he opted for the shorter extension as the national team turns its attention from this summer's World Cup to the Gulf Cup and Asian Cup. \"I have renewed my contract for six months and this decision is in my best interest and in the best interest of the Iraq national team,\" Arnold told a news conference in Baghdad on Monday, according to The Associated Press.",
    "image": "https://d2wqffb2bc8st5.cloudfront.net/images/1787647284_kurdistan24.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE MORNING ADVERTISER",
@@ -48,18 +58,18 @@
    "link": "https://www.morningadvertiser.co.uk/Article/2026/08/25/wet-led-pubs-emerge-world-cup-winners-as-july-sales-hit-2026-high/",
    "lede": "Separate data showed average drinks sales nearly doubled on the day of the semi final where England battled against Argentina (Wednesday 15 July) with big spikes on a number of other match days, according to the latest NIQ RSM Hospitality Business Tracker, which tracks sales figures from managed groups. The data showed overall like-for-like sales in pubs were up 4.2% in July, compared to the same month last year with footfall boosted by five big games for England during the period as well as the semi final and final. The growth was the highest recorded by the tracker for pubs this year. However, restaurant groups did not fare as well with sales dropping by 1% year on year, following a 0.7% fall in June.",
    "image": "https://www.morningadvertiser.co.uk/resizer/v2/YZUQNPZZU5AE7IXB5YWKXCE2WA.jpg?auth=f4a6cac84ef98fae0f5eb4defc18e8b4480111327d066cd6e21825096351fc49&width=1200&height=630&smart=true",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "GOAL.COM",
    "title": "‘Make football truly global!’ - FIFA President Gianni Infantino outlines ambitious growth plan during Caribbean Football Union visit",
    "iso": "2026-08-25T07:41:44.000Z",
-   "link": "https://www.goal.com/en-us/lists/gianni-infantino-fifa-caribbean-football-union-dominican-republic/bltd6d8b46575cf4884",
+   "link": "https://www.goal.com/en/lists/gianni-infantino-fifa-caribbean-football-union-dominican-republic/bltd6d8b46575cf4884",
    "lede": "FIFA President Gianni Infantino praised the benefits of global football investment during a visit to the Dominican Republic for the Caribbean Football Union (CFU) U-14 Challenge Series. Meeting with regional leaders, he reaffirmed his commitment to narrowing the gap between major footballing nations and the rest of the world. FIFA President Infantino travelled to the Dominican Republic to meet with Member Associations from the CFU. The visit took place on the sidelines of the CFU U-14 Challenge Series, a youth tournament supported by the FIFA Forward programme.",
    "image": "https://assets.goal.com/images/v3/getty-2288642387/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORQ/GettyImages-2288642387.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "DAILY TRUST",
@@ -68,16 +78,6 @@
    "link": "https://dailytrust.com/world-cup-misses-shameful-mikel-obi/",
    "lede": "Governor Mai Mala Buni of Yobe State and President Bola Tinubu’s Senior Special Adviser on Political Matters, Kabiru Ibrahim Masari, have donated the sum of N600m for the construction of Fortune University. The university, established by Jama’atul Izalatul Bid’ah Wa’ikamatus Sunnah (JIBWIS) in Magama Gumau community, Toro Local Government Area of Bauchi State, has been under construction. Masari and governor Buni announced the donation on Sunday during a One-Day National Symposium with the theme “Enhanced Political Participation and Social Justice as a Panacea for Unity and Development in Nigeria,” held in Jos, organised by JIBWIS. Speaking on the sidelines of the event, Masari said, “I am not aware that there is an ongoing project by the organisation.",
    "image": "https://dailytrust.com/wp-content/uploads/2026/08/24082026DT-AB-47.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "What 2 maps say about Nebraska’s decline from college football’s top tier",
-   "iso": "2026-08-25T10:00:31.000Z",
-   "link": "https://www.nytimes.com/athletic/7535803/2026/08/25/nebraska-football-roster-makeup-1997-2026/",
-   "lede": "Nebraska's championship rosters were full of key contributors from the state. College football — and roster makeup — have changed.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/24181502/GettyImages-81457491.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
