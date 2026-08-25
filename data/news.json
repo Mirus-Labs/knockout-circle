@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T16:57:16.048Z",
+ "updated": "2026-08-25T17:17:21.652Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -62,22 +62,21 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NATIONAL SCOT",
-   "title": "John Swinney launches £500k World Cup fund to 'back Scotland's future football stars'",
-   "iso": "2026-08-25T11:44:20.000Z",
-   "link": "https://www.thenational.scot/news/26493276.john-swinney-launches-500k-world-cup-fund-young-people/",
-   "lede": "JOHN Swinney has launched a £500,000 World Cup fund to \"support Scotland's future football stars\". The First Minister launched the fund during a visit to Scotland's national stadium, Hampden Park in Glasgow, on Tuesday. It comes following the success of Steve Clarke's team at the Fifa World Cup in June, with the Scotland men's team qualifying for the tournament for the first time since 1998. Lawrence Shankland celebrates during win over Denmark at Hampden Park in November, in which Scotland qualified for the World Cup (Image: PA).",
-   "image": "https://www.thenational.scot/resources/images/21357026.jpg?type=og-image",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "AL JAZEERA",
    "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
    "iso": "2026-08-25T15:53:53.000Z",
    "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates",
    "lede": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-23T192114Z_521380084_RC2J4NAR5755_RTRMADP_3_FRANCE-SAUDI-1787651505.jpg?resize=1920%2C1440",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "NDTV SPORTS",
+   "title": "Ahead Of Brazil Friendly, India To Play Another FIFA World Cup 2026 Team - Full Details",
+   "iso": "2026-08-25T15:45:29.000Z",
+   "link": "https://sports.ndtv.com/fifa-world-cup-2026/ahead-of-brazil-friendly-india-to-play-another-fifa-world-cup-2026-team-full-details-11957927",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
