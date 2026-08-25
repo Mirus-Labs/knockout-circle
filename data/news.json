@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-25T05:35:41.443Z",
+ "updated": "2026-08-25T05:49:36.460Z",
  "news": [
   {
    "cat": "THE STRAITS TIMES",
    "title": "Maradona's 'Hand of God' football sells for $4.19 million",
    "iso": "2026-08-25T04:25:51.000Z",
-   "link": "https://www.straitstimes.com/sport/maradona-hand-of-god-football-sells-for-4-19-million?ref=latest-headlines",
+   "link": "https://www.straitstimes.com/sport/maradona-hand-of-god-football-sells-for-4-19-million",
    "lede": "The ball is also famous for Maradona’s “Goal of the Century” scored in the same match against England. The ball that Argentine footballer Diego Maradona used to score his controversial “Hand of God” goal against England in the 1986 World Cup quarter-final was sold at an auction on Aug 22 for US$3.3 million (S$4.19 million). The winning bid fell short of the US$10 million estimate that US-based Heritage Auctions house attached to what it called “the most significant football”. Bidding for the ball, which went down in sporting history after Maradona famously punched it past English goalkeeper Peter Shilton in Argentina’s 2-1 quarter-final win, opened at US$2.5 million.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4fcc0db0b0a1acb56e0f3289bb75b05460e3f12bc03e043250fedfbb09a15d8f",
    "emoji": "⚽",
@@ -14,7 +14,7 @@
   {
    "cat": "GOAL.COM",
    "title": "Rodri capture can catapult Barcelona back to very top of European game: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-25T03:17:55.000Z",
+   "iso": "2026-08-25T04:16:27.000Z",
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
@@ -22,23 +22,40 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Uli Hoeneß says Julian Nagelsmann not solely to blame for Germany’s poor World Cup",
-   "iso": "2026-08-24T23:15:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/fifa-world-cup/245633/uli-hoenes-says-julian-nagelsmann-not-solely-to-blame-for-germanys-poor-world-cup",
-   "lede": "Uli thinks the problems were beyond Nagelsmann at the World Cup. It already feels like quite some time ago, and yet it also still feels like it was only just a few weeks ago that Germany yet again floundered out of the World Cup far earlier than they should have. In Foxborough, Massachusetts, they fell to Paraguay in a penalty shootout after failing to get the job done in 90 minutes, but the writing was on the wall as they collectively failed to hit their heights throughout the entire tournament — starting off the group stages with a 7-1 trouncing of Curaçao in Houston, Texas probably didn’t do wonders for keeping them on their toes.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/08/gettyimages-2283947570.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "cat": "MSHALE",
+   "title": "London ERUPTS As Three Lions Reach World Cup 2026 Semi-Finals | Norway | FIFA World Cup 2026 | AD1Z Target Good & Gather Recall (Q2MClLEC4o)",
+   "iso": "2026-08-25T04:45:52.000Z",
+   "link": "https://mshale.com/24f1819f/76ba0887OkE4BDYdGisgHCw",
+   "lede": "",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE GUARDIAN NIGERIA NEWS",
-   "title": "Samuel Eto’o absolves Infantino of wrongdoing",
-   "iso": "2026-08-25T03:07:58.000Z",
-   "link": "https://guardian.ng/sport/samuel-etoo-absolves-infantino-of-wrongdoing/",
+   "cat": "MSHALE",
+   "title": "Inside World Cup 2026 Stadiums Bbc Scotland Football (B7lgVok9fr)",
+   "iso": "2026-08-25T04:16:26.000Z",
+   "link": "https://mshale.com/6d4ff93c/d71c5761JkEQBkEIRDUJKlk",
    "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "MSHALE",
+   "title": "FIFA World Cup 2026 Final: Spain Vs Argentina..कौन बनेगा नया World Champion? FIFA WC 2026 Final Mj (IiYq1n2sBl)",
+   "iso": "2026-08-25T04:03:20.000Z",
+   "link": "https://mshale.com/10619067/5376b69dtavuuhEso3I",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE GUARDIAN NIGERIA NEWS",
+   "title": "Samuel Eto’o absolves Infantino of wrongdoing",
+   "iso": "2026-08-25T03:44:39.000Z",
+   "link": "https://guardian.ng/sport/samuel-etoo-absolves-infantino-of-wrongdoing/",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MSHALE",
@@ -46,32 +63,14 @@
    "iso": "2026-08-25T02:57:25.000Z",
    "link": "https://mshale.com/1a6e7249/b54b4bfcK0E-NCYrYwoDFDQ",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
    "title": "Japan Official World Cup 2026 Squad Announced 🇯🇵 | FIFA World Cup 2026 Group F Full Squad Reveal Soccer Zero Codes (DmmyffXLZL)",
    "iso": "2026-08-25T02:50:05.000Z",
    "link": "https://mshale.com/957c6bcc/00ef2b87CwE6KCUVexcDKCA",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "RADIOINFO AUSTRALIA",
-   "title": "The Failed Footballer nabs permanent spot with ARN iHeart",
-   "iso": "2026-08-25T02:44:14.000Z",
-   "link": "https://radioinfo.com.au/podcast-info/the-failed-footballer-nabs-permanent-spot-with-arn-iheart/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE)",
-   "iso": "2026-08-25T02:28:20.000Z",
-   "link": "https://mshale.com/ed3e597a/571a3bdeNTcaFh0sRhctAgY",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
