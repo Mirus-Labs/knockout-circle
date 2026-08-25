@@ -1,16 +1,6 @@
 {
- "updated": "2026-08-25T22:09:33.762Z",
+ "updated": "2026-08-25T22:10:46.459Z",
  "news": [
-  {
-   "cat": "GOAL.COM",
-   "title": "Carlos Baleba is the ideal long-term solution to one of Man Utd's main problem positions: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-25T21:07:54.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blta77ea8c989499cff/16-9%20(69).jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "SKY SPORTS",
    "title": "Arsenal transfer news: Mikel Arteta ready to make £130m push for Julian Alvarez as Gabriel Martinelli nears Saudi move - Paper Talk",
@@ -18,6 +8,16 @@
    "link": "https://www.skysports.com/football/transfer-paper-talk/12709/13576722/xxxx-paper-talk",
    "lede": "The top stories and transfer rumours from Tuesday's newspapers... PREMIER LEAGUE Mikel Arteta is ready to make a £130m push to sign Julian Alvarez - but will demand assurances the Argentina star wants to move to Arsenal - Daily Mirror Arsenal winger Gabriel Martinelli is closing on a £55m move to Al-Hilal - Daily Mail Chelsea have had three bids turned down for England midfielder Alex Scott , with Bournemouth adamant that neither he nor any of their crown jewels will leave before September 1 - The i Paper Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
    "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Carlos Baleba is the ideal long-term solution to one of Man Utd's main problem positions: GOAL grades the biggest deals of the 2026 summer transfer window",
+   "iso": "2026-08-25T19:08:55.000Z",
+   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
+   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
+   "image": "https://assets.goal.com/images/v3/blta77ea8c989499cff/16-9%20(69).jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,12 +52,12 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The Athletic Football Show Division Previews",
-   "iso": "2026-08-25T17:30:21.000Z",
-   "link": "https://www.nytimes.com/athletic/7527115/2026/08/25/the-athletic-football-show-division-previews/",
-   "lede": "Training camp is in the rear-view mirror. Preseason games are mostly in the rear-view mirror. All that’s left to do is begin the 2026 NFL season. Whether you’ve been following the offseason beat-by-beat, from the Combine, through free agency and the draft, all the way up to this moment, or you’re just checking back in after a busy summer with every other sport under the sun, The Athletic Football Show has got you covered with its Division Preview series.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/02/11141555/GettyImages-2261108880-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "THE STAR",
+   "title": "Football: Soccer-New coach Xavi promises Netherlands new energy after poor World Cup",
+   "iso": "2026-08-25T15:55:00.000Z",
+   "link": "https://www.thestar.com.my/sport/football/2026/08/25/soccer-new-coach-xavi-promises-netherlands-new-energy-after-poor-world-cup",
+   "lede": "AMSTERDAM, Aug 25 (Reuters) - Netherlands coach Xavi ⁠Hernandez is promising an attractive style of football but more importantly a desire to win ⁠during his tenure with the national team. The former Barcelona midfield great and later coach ‌has signed a four-year deal through the next World Cup and promised he would look to inject new energy into the Dutch, who were eliminated in the last 32 at this year's finals. “We have many talented players, but the most ​important thing for me is to create a team, a group ⁠and football-wise we want to create ⁠a very brave team to dominate the game, to take the initiative with the ball,” he told ⁠a ‌press conference on Tuesday. “And at the same time, our goal is to show to everybody a team with passion, with desire and ambition.",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/08/25/4077841.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
@@ -72,12 +72,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Oregon’s highest hopes ever, after 25 years of near-misses",
-   "iso": "2026-08-25T19:57:10.000Z",
-   "link": "https://www.nytimes.com/athletic/7538569/2026/08/25/oregon-football-until-saturday/",
-   "lede": "Until Saturday is The Athletic's free college football newsletter.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/25155547/2026-01-10T055201Z_322778205_MT1USATODAY27974500_RTRMADP_3_OREGON-QUARTERBACK-DANTE-MOORE-WALKS-THE-FIELD-AFTER-THE-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "MSHALE",
+   "title": "🔴 LIVE NOW | FIFA World Cup Opening Anthem | Argentina 🇦🇷 Vs Spain 🇪🇸 | Official Style Stadium Song Shane Doan (iawqu7ltQY)",
+   "iso": "2026-08-25T20:15:18.000Z",
+   "link": "https://mshale.com/26ce4a8b/272bbfd6IQIkNSosZBoYBh4",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
