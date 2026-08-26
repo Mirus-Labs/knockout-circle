@@ -1,15 +1,25 @@
 {
- "updated": "2026-08-26T10:19:19.620Z",
+ "updated": "2026-08-26T11:13:40.374Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Olivia Moultrie’s injury leaves the USWNT with a thinning midfield pool ahead of the World Cup",
+   "iso": "2026-08-26T11:01:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/26/olivia-moultrie-injury-uswnt-world-cup",
+   "lede": "The Portland Thorns midfielder fills a role few in the US player pool can match, and she’s in a race against time to be fit for Brazil. Olivia Moultrie is no stranger to setting her own timeline. Half a decade ago, her desire to go pro at age 15 helped change NWSL rules, which previously forbade teams from signing players under the age of 18. The ensuing half-decade has seen her go from one of the nation’s top prospects to a proven high-level midfielder, a developmental success with the Portland Thorns.",
+   "image": "https://i.guim.co.uk/img/media/d6a3e6c6418a95c6f935efd93d9d3c79ee2a9091/0_87_5000_4001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7044edaf12b50a8a9c9651deb7adcd0",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "GOAL.COM",
    "title": "Carlos Baleba is the ideal long-term solution to one of Man Utd's main problem positions: GOAL grades the biggest deals of the 2026 summer transfer window",
    "iso": "2026-08-26T08:08:27.000Z",
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blta77ea8c989499cff/16-9%20(69).jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "OPEN MAGAZINE",
@@ -18,8 +28,8 @@
    "link": "https://openthemagazine.com/sports/indias-world-cup-without-qualifying-why-the-blue-tigers-are-playing-panama-brazil-and-new-zealand",
    "lede": "India did not qualify for the World Cup. So, the World Cup is coming to India. Panama will arrive on September 26. Brazil will walk into Kolkata’s Salt Lake Stadium on October 3.",
    "image": "https://media.openthemagazine.com/openthemagazine/2026-08-26/pjm9ox2j/an.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "MENSXP",
@@ -28,8 +38,28 @@
    "link": "https://www.mensxp.com/sports/football/185478-heres-the-reason-brazil-may-train-on-bangladeshi-soil-for-their-india-game.html",
    "lede": "October 3 shall witness a historic clash between India and Brazil in Kolkata. The five-time FIFA World Cup winners shall be playing their first game against the Indians. But it seems that the most successful football side in the biggest tournament may not practice for the game on Indian soil. The Brazilians might be practicing in Bangladesh instead.",
    "image": "https://mxp-media.ilnmedia.com/media/content/2026/Aug/FB_6a8e782646ed1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "Infantino has no future at FIFA, says European Leagues chief",
+   "iso": "2026-08-26T10:46:10.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief",
+   "lede": "Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26164041610742-1787739395.jpg?resize=1920%2C1440",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "How many college football teams can actually win the 2026 national championship?",
+   "iso": "2026-08-26T10:36:29.000Z",
+   "link": "https://www.nytimes.com/athletic/7538588/2026/08/26/college-football-playoff-national-championship-odds-2026/",
+   "lede": "Our College Football Playoff Predictor believes Ohio State has the best national championship odds. Let's break down the contenders.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/02/11162600/GettyImages-2257801430-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -38,18 +68,8 @@
    "link": "https://www.nytimes.com/athletic/7535411/2026/08/26/college-football-national-title-odds-ohio-state-notre-dame-texas/",
    "lede": "Ohio State, Notre Dame and Texas enter the college football season as the favorites to win the national title.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2025/12/31112751/GettyImages-2244480335-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "BLUEWIN.CH",
-   "title": "Embolo Comments on His Red Card in the World Cup Quarterfinal",
-   "iso": "2026-08-26T08:59:06.000Z",
-   "link": "https://www.bluewin.ch/en/sport/football/embolo-comments-on-his-red-card-in-the-world-cup-quarterfinal-li.3575944",
-   "lede": "At his introduction as the new forward for the MLS club Atlanta United, Swiss national team star Breel Embolo speaks for the first time about the red card he received in the World Cup quarterfinal against Argentina.",
-   "image": "https://bluewin-prod-sc-images.imgix.net/2026/08/26/58352156-b24a-43b7-842c-78504a212644.jpg?w=1024&auto=format&s=5d2a1a9118403b1cc88fc7e9f710b473",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
@@ -57,26 +77,6 @@
    "iso": "2026-08-26T08:26:55.000Z",
    "link": "https://mshale.com/bf40f735/650b1eb9GxgEFDMxQTMnVSg",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
-   "iso": "2026-08-26T08:11:56.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam",
-   "lede": "The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-25T205306Z_1016449660_RC2Q2MAYXF5C_RTRMADP_3_SOCCER-ENGLAND-BHA-1787730672.jpg?resize=1920%2C1440",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THECITIZEN.CO.TZ",
-   "title": "World Cup pushed Tanzania's paid TV subscriptions 8.2%. Can the momentum be sustained?",
-   "iso": "2026-08-26T06:17:15.000Z",
-   "link": "https://www.thecitizen.co.tz/tanzania/business/world-cup-pushed-tanzania-s-paid-tv-subscriptions-8-2-can-the-momentum-be-sustained--5571286",
-   "lede": "The number of active paid television decoders in Tanzania rose by 8.18 percent in the three months to June, reversing a six-month decline as football fans prepared to follow the 2026 FIFA World Cup.",
-   "image": "https://www.thecitizen.co.tz/resource/image/5571288/landscape_ratio3x2/1200/800/a20da0954c849b602b8577ef02e4d271/Bt/tv-pic.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
