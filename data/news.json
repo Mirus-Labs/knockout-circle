@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:18:43.820Z",
+ "updated": "2026-08-26T06:19:57.580Z",
  "news": [
   {
    "cat": "OPEN MAGAZINE",
@@ -32,23 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "MSHALE",
-   "title": "WATCH: Unforgettable Scenes As Spain Lifts The FIFA World Cup 2026 And Fans Go Wild | AD15 Luana D'orazio (aGsLNQc8SJ)",
-   "iso": "2026-08-26T03:46:31.000Z",
-   "link": "https://mshale.com/16c5b1b6/546d073fzsyhhyAjZNc",
-   "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "NZ FOOTBALL",
    "title": "Ford Football Ferns Head to Central America to Face Panama This October for Key FIFA Women's World Cup Preparation",
    "iso": "2026-08-26T03:26:22.000Z",
    "link": "https://www.nzfootball.co.nz/newsarticle/169448?newsfeedId=1275608",
    "lede": "New Zealand Football has announced the Ford Football Ferns will take on Panama (FIFA rank 56) in a two-match...",
    "image": "https://prodcdn.sporty.co.nz/cms/14667/newsarticles/169448_wo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "MSHALE",
@@ -56,8 +47,8 @@
    "iso": "2026-08-26T02:45:50.000Z",
    "link": "https://mshale.com/b8cdf153/b306f92fLqLTFIJywks",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MSHALE",
@@ -65,14 +56,23 @@
    "iso": "2026-08-26T02:44:57.000Z",
    "link": "https://mshale.com/fb1b49e0/036b842165GJC9aOm_I",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MSHALE",
    "title": "🔥 FRANCE 🇫🇷 Vs MOROCCO 🇲🇦 LIVE | FIFA World Cup 2026 Quarter Final WATCHALONG! Jim Lenihan (Z2OKakXlLd)",
    "iso": "2026-08-26T02:18:10.000Z",
    "link": "https://mshale.com/c6bc746f/a60f81bdJVncGCFcSMk",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "MSHALE",
+   "title": "Highlights | Argentina 2-1 England | Semifinal Clash FIFA World Cup 2026™ Kelly Oubre (D0m38cbIPY)",
+   "iso": "2026-08-26T01:13:51.000Z",
+   "link": "https://mshale.com/2b47ac19/ba52638cvklu_ToPH8E",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
