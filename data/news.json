@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-26T13:19:48.710Z",
+ "updated": "2026-08-26T14:04:50.409Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Gianni Infantino: Uefa set to drop Fifa tournament boycott threat",
+   "iso": "2026-08-26T13:31:31.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c5ye3j5n8vyo",
+   "lede": "Gianni Infantino has been president of Fifa since February 2016. Uefa is set to drop its threat of boycotting Fifa competitions, having received assurances there will be no repeat of Gianni Infantino's plan to sell off stakes in the World Cup to private investors, BBC Sport has been told. The matter will be discussed at a meeting of Uefa's executive committee in Monaco on Thursday. Earlier this month, European football's governing body said that despite Infantino's plan being aborted following widespread condemnation, the conditions required to prevent a boycott had \"not been met\".",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad8f/live/60372850-a14c-11f1-92f3-2381193e5eb4.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE INDEPENDENT",
    "title": "Uefa set to call off World Cup boycott after failed Fifa sell-off plan",
@@ -8,8 +18,18 @@
    "link": "https://www.independent.co.uk/sport/football/uefa-world-cup-boycott-gianni-infantino-b3039630.html",
    "lede": "All 55 Uefa members threatened to boycott Fifa tournaments if Gianni Infantino’s much-criticised proposal went ahead. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/26/14/1240856381..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE TELEGRAPH",
+   "title": "Uefa to lift boycott threat after Fifa promises no World Cup sale repeat",
+   "iso": "2026-08-26T12:36:00.000Z",
+   "link": "https://www.telegraph.co.uk/football/2026/08/26/uefa-lifts-boycott-threat-fifa-promises-no-world-cup-sale/",
+   "lede": "European football’s governing body says Gianni Infantino has provided assurances he will not resurrect plot to sell stakes in tournament. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent. Before joining the Telegraph in 2013, Ben spent more than eight years at the Press Association, including as a football and rugby reporter.",
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/08/26/TELEMMGLPICT000496966261_17877475852020_trans_NvBQzQNjv4Bq_4lZL6XGyKd1IzVfh-3zqv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE SUN",
@@ -18,18 +38,18 @@
    "link": "https://www.thesun.co.uk/sport/40178498/uefa-calls-off-fifa-boycott-world-cup-england/",
    "lede": "UEFA chiefs have dropped their threat to boycott future FIFA tournaments – after less than a month. Euro bosses made the threat as part of their war with Fifa President Gianni Infantino over his plans to partially sell off the World Cup to private backers. But Nyon leaders, gathering in Monaco for Thursday’s Champions League draw will confirm that the idea is now OFF the table. Uefa is pointing to legal guarantees from Fifa that the sell-off plan is dead for god to justify the change of stance.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/TMC_26-08_REGISTERED_ENGLAND_WORLD-CUP-V2_COMBO.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
    "title": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
    "iso": "2026-08-26T11:20:00.000Z",
    "link": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino",
-   "lede": "Uefa has received guarantees after ill-fated Infantino plan. European sides likely to go to under-20 Women’s World Cup. Uefa is poised to drop its threatened boycott of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of Gianni Infantino’s plan to sell stakes in the World Cup. The Guardian understands European teams are likely to be cleared for participation in the upcoming under-20 Women’s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president’s ill-fated scheme will be put on the table.",
+   "lede": "Uefa has received guarantees after ill-fated Infantino plan. European sides likely to go to under-20 Women’s World Cup. Uefa is poised to drop its threatened boycott of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of Gianni Infantino’s plan to sell stakes in the World Cup. The Guardian understands European teams are likely to be cleared for participation in the upcoming Under-20 Women’s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president’s ill-fated scheme will be put on the table.",
    "image": "https://i.guim.co.uk/img/media/4dd6c3cebcf9ec47a64fda5b94e33a3f1259ed41/172_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a82071672ec8da5a452d183488962f4",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "PHILIPPINE FOOTBALL FEDERATION",
@@ -38,8 +58,8 @@
    "link": "https://pff.org.ph/squad-list-world-cup-bound-filipinas-return-to-asian-games/",
    "lede": "The Philippine Women’s National Football Team (Filipinas) will compete in the 20th Asian Games in Nagoya, Japan, marking the squad’s second consecutive appearance in Asia’s grandest multi-sport event following their quarterfinal finish in the 19th edition, played three years ago in Hangzhou, China. The campaign comes six months after the Filipinas secured their second consecutive FIFA Women’s World Cup appearance, defeating Uzbekistan in the playoff match of the 2026 AFC Women’s Asian Cup last March. The Filipinas have been drawn in Group G alongside three-time gold medalist China, Uzbekistan, and Hong Kong. The Philippines last faced China in the 2018 AFC Women’s Asian Cup in Amman, Jordan, falling 0-3, while they recently met Hong Kong in July 2025 during the 2026 AFC Women’s Asian Cup Qualifiers in Cambodia, winning 1-0.",
    "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,36 +68,16 @@
    "link": "https://www.theguardian.com/football/2026/aug/26/olivia-moultrie-injury-uswnt-world-cup",
    "lede": "The Portland Thorns midfielder fills a role few in the US player pool can match, and she’s in a race against time to be fit for Brazil. Olivia Moultrie is no stranger to setting her own timeline. Half a decade ago, her desire to go pro at age 15 helped change NWSL rules, which previously forbade teams from signing players under the age of 18. The ensuing half-decade has seen her go from one of the nation’s top prospects to a proven high-level midfielder, a developmental success with the Portland Thorns.",
    "image": "https://i.guim.co.uk/img/media/d6a3e6c6418a95c6f935efd93d9d3c79ee2a9091/0_87_5000_4001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7044edaf12b50a8a9c9651deb7adcd0",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Carlos Baleba is the ideal long-term solution to one of Man Utd's main problem positions: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-26T10:09:48.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "UEFA's World Cup boycott at risk of collapse as England, France and more prepare to do battle in FIFA's Women's Under-20 tournament",
-   "iso": "2026-08-26T12:02:24.000Z",
-   "link": "https://www.goal.com/en/originals/uefa-boycott-risk-collapse-fifa-women-under-20-world-cup/blta1197cf851cab718",
-   "lede": "The 2026 Women's Under-20 World Cup will be the first notable FIFA tournament since Gianni Infantino's controversial FFE proposal, but a potential UEFA boycott seems unlikely.",
-   "image": "https://assets.goal.com/images/v3/bltf8c16c000acaeb3f/16-9.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE TIMES",
-   "title": "Uefa calls off threatened boycott of Fifa tournaments",
-   "iso": "2026-08-26T11:53:36.000Z",
-   "link": "https://www.thetimes.com/sport/football/world-cup/article/uefa-calls-off-boycott-of-fifa-tournaments-z9nn7ttnl",
-   "lede": "European football’s governing body lifts threat but will step up efforts to remove Gianni Infantino, after his botched World Cup sell-off plan.",
-   "image": "https://www.thetimes.com/imageserver/image/88968e9d-ea45-44a6-adba-0331d6067757.jpg?strip=all&format=webp&crop=3085px%2C1735px%2C0px%2C42px&resize=1200",
+   "cat": "SPORTSTAR",
+   "title": "UEFA set to drop FIFA competitions boycott threat: Reports",
+   "iso": "2026-08-26T13:29:52.000Z",
+   "link": "https://sportstar.thehindu.com/football/champions-league/uefa-set-to-drop-boycott-threat-fifa-competitions-gianni-infantino-world-cup-sale-football-news/article71393019.ece",
+   "lede": "UEFA is set to drop its threat to boycott FIFA competitions, sources suggested on Wednesday.",
+   "image": "https://ss-i.thgim.com/public/incoming/kkbczk/article71393036.ece/alternates/LANDSCAPE_1200/2026-08-23T230555Z_2004005557_RC28KJAEAKS4_RTRMADP_3_SOCCER-FIFA.JPG",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
