@@ -1,6 +1,56 @@
 {
- "updated": "2026-08-26T20:07:17.046Z",
+ "updated": "2026-08-26T22:11:49.240Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Football news: Uefa to push forward with plans to remove Gianni Infantino after dropping boycott threat",
+   "iso": "2026-08-26T21:04:22.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cdj4emmmn9vo",
+   "lede": "Gianni Infantino has been president of Fifa since February 2016. Uefa will press on with its attempt to remove Gianni Infantino as Fifa president despite withdrawing the threat to boycott competitions. The 55 member associations, plus Europe's members on the Fifa Council, will on Thursday be presented with a letter which guarantees the Fifa Forward Enterprise (FFE) plan will not be revived. The official removal of the boycott will be confirmed at Uefa's executive committee meeting in Monaco.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad8f/live/60372850-a14c-11f1-92f3-2381193e5eb4.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "UEFA ready to drop FIFA boycott threat after assurances private World Cup sell-off plan won’t return",
+   "iso": "2026-08-26T20:59:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/uefa-ready-to-drop-fifa-boycott-threat-after-assurances-private-world-cup-sell-off-plan-wont-return/articleshow/133550829.cms",
+   "lede": "UEFA is reportedly ready to call off its threatened boycott of FIFA competitions after receiving assurances that Gianni Infantino's controversial plan to sell stakes in the World Cup and other major tournaments to private investors will not be brought back. Football News: UEFA prepares to lift its threatened boycott against FIFA after receiving assurances that the controversial selling of World Cup stakes to private investors will not be revived. This decision aims to ensure that upcoming FIFA tournaments proceed without disruption, although pressure on FIFA President Gianni Infantino continues to escalate.",
+   "image": "https://static.toiimg.com/thumb/msid-133550831,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Uefa to lift boycott threat after Fifa promises no World Cup sale repeat",
+   "iso": "2026-08-26T20:55:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino",
+   "lede": "Uefa has received guarantees after ill-fated Infantino plan. European sides will go to under-20 Women’s World Cup. Uefa is to drop its threatened boycott of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of Gianni Infantino’s plan to sell stakes in the World Cup. European teams have been cleared for participation in the upcoming Under-20 Women’s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president’s ill-fated scheme will be put on the table.",
+   "image": "https://i.guim.co.uk/img/media/4dd6c3cebcf9ec47a64fda5b94e33a3f1259ed41/172_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a82071672ec8da5a452d183488962f4",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "VIJESTI.ME",
+   "title": "Uefa to announce World Cup boycott decision tomorrow",
+   "iso": "2026-08-26T20:48:04.000Z",
+   "link": "https://en.vijesti.me/sports-e/football-c/823851/UEFA-will-officially-announce-its-withdrawal-from-the-World-Cup-boycott-tomorrow.",
+   "lede": "UEFA will lift its threat to boycott FIFA after Italy withdrew its support for the world football body's president, Gianni Infantino. UEFA is expected to conclude at a meeting in Monaco tomorrow that the conditions for lifting the boycott have been met, Reuters has learned. Italy withdraws support for Infantino amid disputes over FIFA governance. In July, FIFA withdrew a proposal to sell the World Cup to private investors after all 55 UEFA members agreed to a boycott.",
+   "image": "https://www.vijesti.me/data/images/2023/05/22/11/5490465_20230521t145751z-505355723-rc2231agaip7-rtrmadp-3-healthwho_share.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "YENI SAFAK ENGLISH",
+   "title": "UEFA set to lift FIFA boycott threat after investor plan shelved",
+   "iso": "2026-08-26T19:23:02.000Z",
+   "link": "https://en.yenisafak.com/sports/uefa-to-lift-fifa-boycott-threat-after-investor-plan-shelved-3722387",
+   "lede": "UEFA's Executive Committee is expected to formalize the withdrawal of its boycott threat against FIFA competitions on Thursday after securing assurances that the governing body will not revive plans to sell commercial stakes in the World Cup to private investors, according to the BBC. The dispute erupted in late July when FIFA unveiled its FIFA Forward Enterprise proposal, which sought to create a commercial entity controlling rights to the World Cup and other tournaments with private investment taking stakes. UEFA's 55 member associations unanimously voted on July 30 to boycott FIFA competitions unless the plan was scrapped entirely and guarantees were provided against future privatization attempts, with FIFA withdrawing the proposal on August 1 following widespread criticism from UEFA, the Asian Football Confederation and CONCACAF.",
+   "image": "https://img.piri.net/piri/upload/3/2026/8/26/536a4e98-uefa-set-to-lift-fifa-boycott-threat-after-investor-plan-shelved.webp",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE TIMES OF INDIA",
    "title": "Jaipur’s Royal Football Club captain Rannanjay Singh Bhati selected for India U-15 FIFA World Cup camp trials",
@@ -8,75 +58,26 @@
    "link": "https://timesofindia.indiatimes.com/city/jaipur/jaipurs-royal-football-club-captain-rannanjay-singh-bhati-selected-for-india-u-15-fifa-world-cup-camp-trials/articleshow/133550262.cms",
    "lede": "Jaipur: Rannanjay Singh Bhati, captain of Royal Football Club, Jaipur’s Under-15 team and one of the club’s promising young footballers, has been selected for the trials of the India U-15 FIFA World Cup camp. The trials are being conducted by the All India Football Federation (AIFF) in Bengaluru.Royal Football Club’s head coach, Narendra Singh Rathore, said that under Rannanjay Singh Bhati’s captaincy, the club won the Rajasthan U-15 Youth League 2025 title this year and also qualified for the AIFF Youth League 2026. His leadership qualities, discipline and footballing ability have played an important role in the team’s success.Club director Dr Dilip Singh Chundawat said that Rannanjay Singh Bhati has been undergoing regular training at Royal Football Club for the past two years.",
    "image": "https://static.toiimg.com/thumb/msid-133550258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Ayyoub Bouaddi is the most promising defensive midfielder in the world - but Rodri's replacement won't fix all of Enzo Maresca's problems at Man City: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-26T18:32:16.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "VIJESTI.ME",
-   "title": "Uefa to officially end World Cup boycott tomorrow",
-   "iso": "2026-08-26T18:18:11.000Z",
-   "link": "https://en.vijesti.me/sports-e/football-c/823851/UEFA-will-officially-announce-the-end-of-the-World-Cup-boycott-tomorrow.",
-   "lede": "UEFA will lift its threat to boycott FIFA after Italy withdrew its support for the world football body's president, Gianni Infantino. UEFA is expected to conclude at a meeting in Monaco tomorrow that the conditions for lifting the boycott have been met, Reuters has learned. Italy withdraws support for Infantino amid disputes over FIFA governance. In July, FIFA withdrew a proposal to sell the World Cup to private investors after all 55 UEFA members agreed to a boycott.",
-   "image": "https://www.vijesti.me/data/images/2023/05/22/11/5490465_20230521t145751z-505355723-rc2231agaip7-rtrmadp-3-healthwho_share.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Uefa to lift boycott threat after Fifa promises no World Cup sale repeat",
-   "iso": "2026-08-26T18:02:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino",
-   "lede": "Uefa has received guarantees after ill-fated Infantino plan. European sides will go to under-20 Women’s World Cup. Uefa is to drop its threatened boycott of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of Gianni Infantino’s plan to sell stakes in the World Cup. European teams have been cleared for participation in the upcoming Under-20 Women’s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president’s ill-fated scheme will be put on the table.",
-   "image": "https://i.guim.co.uk/img/media/4dd6c3cebcf9ec47a64fda5b94e33a3f1259ed41/172_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a82071672ec8da5a452d183488962f4",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE JERUSALEM POST",
-   "title": "Jerusalem Jane: When a soccer league honors ‘martyrs,’ the world should stop turning a blind eye",
-   "iso": "2026-08-26T17:17:51.000Z",
-   "link": "https://www.jpost.com/opinion/article-906692",
-   "lede": "I bet there aren't a lot of people around the world who don't know Cristiano Ronaldo and Lionel Messi - especially after the latest tournament in America last month. I mean, didn't everyone watch the World Cup and the magic these two players performed on the field? I guess it depends on who you're asking, but Messi was named the all-time world's best player in 2025. Unfortunately, after the untimely passing of his father, Messi is even questioning whether to keep playing soccer, and Ronaldo is also considering his future.I'm a huge soccer fan, and when I was growing up in Denmark, I played for three years, and I loved it!",
-   "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730062",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The Athletic Football Show previews the 2026 Denver Broncos",
-   "iso": "2026-08-26T17:00:17.000Z",
-   "link": "https://www.nytimes.com/athletic/7539377/2026/08/26/the-athletic-football-show-previews-the-2026-denver-broncos/",
-   "lede": "The Athletic Football Show is previewing all 32 teams leading up to the start of the 2026 NFL season. Below are select quotes from the show’s preview of the Denver Broncos. The quotes are edited for clarity. You can watch the whole preview on YouTube and in the embedded video below, or listen to the full AFC West preview wherever you get your podcasts.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/03/30153740/GettyImages-2253041484-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "STARNEWSKOREA.COM",
-   "title": "Kim Sang-sik's Magic Surpasses Park Hang-seo's Era... Southeast Asia's First Back-to-Back World Cup Titles, Vietnam Football Writes New History",
-   "iso": "2026-08-26T15:47:15.000Z",
-   "link": "https://www.starnewskorea.com/en/sports/2026/08/27/2026082621503037065",
-   "lede": "The champion of the ASEAN Hyundai Cup, known as the \"Southeast Asian World Cup,\" was Vietnam's team led by Kim Sang-sik for the second consecutive time. Following their victory in the 2024 tournament, this marks back-to-back titles and is a first in Vietnamese football history. Under the guidance of coach Kim Sang-sik, Vietnam drew 2-2 with Thailand in the second leg of the tournament final held on the 26th (Korea time) at My Dinh National Stadium in Hanoi, Vietnam. Earlier, in the first leg of the away match, Vietnam achieved a historic 2-goal victory (2-0) over Thailand for the first time in history, and with an aggregate score of 4-2 across the two legs of the final, they claimed the championship title.",
-   "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1500,fit=cover,q=high,sharpen=2/21/2026/08/2026082621503037065_1.jpg",
+   "cat": "FOOTBALL ITALIA",
+   "title": "Zanetti, Cannavaro and Materazzi among Serie A legends backing Infantino",
+   "iso": "2026-08-26T18:15:00.000Z",
+   "link": "https://football-italia.net/zanetti-cannavaro-and-materazzi-infantino/",
+   "lede": "Gianni Infantino has received public backing from a group of high-profile former players, with Javier Zanetti, Esteban Cambiasso, Fabio Cannavaro, Marco Materazzi and Christian Vieri among those signing letters of support ahead of the FIFA presidential elections. Zanetti, Cambiasso and Javier Pastore published a joint letter on social media praising the direction FIFA has taken under its current president and highlighting the access granted to players. “Over the last 10 years, we have witnessed the commitment of FIFA and Gianni Infantino to ensuring that footballers are represented in the world of football, something that did not exist before,” the letter reads, via SportMediaset. “Players and former players, through their involvement in committees, projects and working groups, now have a voice and a real role in the sport.",
+   "image": "https://icdn.football-italia.net/wp-content/uploads/2024/05/turin-nitto-atp-finals-2023.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LATEST NEWS FROM AZERBAIJAN",
-   "title": "UEFA may end FIFA boycott threat after private talks over World Cup plans",
-   "iso": "2026-08-26T19:37:41.000Z",
-   "link": "https://news.az/news/uefa-may-end-fifa-boycott-threat-after-private-talks-over-world-cup-plans",
-   "lede": "",
+   "cat": "YNETNEWS",
+   "title": "Spanish football: After impressive World Cup – Mbappe opens season with hat trick",
+   "iso": "2026-08-26T20:59:30.000Z",
+   "link": "https://www.ynetnews.com/article/9o3mvruz7",
+   "lede": "Kylian Mbappé scored a hat-trick in Real Madrid's second round of the Spanish league, in direct continuation of his impressive Club World Cup last month. The match ended in a 4-1 victory over Real Sociedad, with Vinicius Junior scoring another goal, and Jude Bellingham recording two assists.",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/Bk8yXRhwMx/Bk8yXRhwMx_0_0_3000_1693_0_large.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
