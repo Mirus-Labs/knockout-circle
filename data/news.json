@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-26T09:25:23.217Z",
+ "updated": "2026-08-26T09:58:31.715Z",
  "news": [
   {
    "cat": "GOAL.COM",
    "title": "Carlos Baleba is the ideal long-term solution to one of Man Utd's main problem positions: GOAL grades the biggest deals of the 2026 summer transfer window",
-   "iso": "2026-08-26T06:37:20.000Z",
+   "iso": "2026-08-26T08:08:27.000Z",
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/blta77ea8c989499cff/16-9%20(69).jpg",
@@ -42,14 +42,23 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "MSHALE",
+   "title": "Highlights | Argentina 2-1 England | Semifinal Clash FIFA World Cup 2026™ Kelly Oubre (D0m38cbIPY)",
+   "iso": "2026-08-26T08:26:55.000Z",
+   "link": "https://mshale.com/bf40f735/650b1eb9GxgEFDMxQTMnVSg",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "AL JAZEERA",
    "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
    "iso": "2026-08-26T08:11:56.000Z",
    "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam",
    "lede": "The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-25T205306Z_1016449660_RC2Q2MAYXF5C_RTRMADP_3_SOCCER-ENGLAND-BHA-1787730672.jpg?resize=1920%2C1440",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THECITIZEN.CO.TZ",
@@ -58,23 +67,14 @@
    "link": "https://www.thecitizen.co.tz/tanzania/business/world-cup-pushed-tanzania-s-paid-tv-subscriptions-8-2-can-the-momentum-be-sustained--5571286",
    "lede": "The number of active paid television decoders in Tanzania rose by 8.18 percent in the three months to June, reversing a six-month decline as football fans prepared to follow the 2026 FIFA World Cup.",
    "image": "https://www.thecitizen.co.tz/resource/image/5571288/landscape_ratio3x2/1200/800/a20da0954c849b602b8577ef02e4d271/Bt/tv-pic.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "LISA - GOALS[Official Video]-(FIFA World Cup 2026)-SHORT YOUTUBE Gruppo Ferretti (BsCZlj3n9S)",
-   "iso": "2026-08-26T06:16:08.000Z",
-   "link": "https://mshale.com/72d4896b/3a6812dfFEc9ED0_GQgiCFU",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
-   "title": "Argentina Vs Spain 0-1 | FIFA World Cup 2026 Final Highlights | Spain Vs Argentina Final |Full Match Mobland (vVLcpr0NhG)",
-   "iso": "2026-08-26T06:04:19.000Z",
-   "link": "https://mshale.com/0ba36ecb/23c21cfeaVkeDlrUjSk",
+   "title": "FIFA World Cup 2026 Final: Spain Vs Argentina..कौन बनेगा नया World Champion? FIFA WC 2026 Final Mj (IiYq1n2sBl)",
+   "iso": "2026-08-26T06:13:46.000Z",
+   "link": "https://mshale.com/2835ffdc/3f936e16GRIeFBkNaxAAXiQ",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
