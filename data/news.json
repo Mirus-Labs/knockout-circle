@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T08:10:14.252Z",
+ "updated": "2026-08-26T08:24:27.842Z",
  "news": [
   {
    "cat": "GOAL.COM",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "AL JAZEERA",
+   "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
+   "iso": "2026-08-26T08:11:56.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam",
+   "lede": "The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-25T205306Z_1016449660_RC2Q2MAYXF5C_RTRMADP_3_SOCCER-ENGLAND-BHA-1787730672.jpg?resize=1920%2C1440",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THECITIZEN.CO.TZ",
    "title": "World Cup pushed Tanzania's paid TV subscriptions 8.2%. Can the momentum be sustained?",
    "iso": "2026-08-26T06:17:15.000Z",
    "link": "https://www.thecitizen.co.tz/tanzania/business/world-cup-pushed-tanzania-s-paid-tv-subscriptions-8-2-can-the-momentum-be-sustained--5571286",
    "lede": "The number of active paid television decoders in Tanzania rose by 8.18 percent in the three months to June, reversing a six-month decline as football fans prepared to follow the 2026 FIFA World Cup.",
    "image": "https://www.thecitizen.co.tz/resource/image/5571288/landscape_ratio3x2/1200/800/a20da0954c849b602b8577ef02e4d271/Bt/tv-pic.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE AUSTRALIAN",
@@ -57,8 +67,8 @@
    "iso": "2026-08-26T05:37:51.000Z",
    "link": "https://www.theaustralian.com.au/sport/football/matildas-lock-in-blockbuster-home-series-against-colombia-for-world-cup-prep/news-story/625ab39c0a84993df283da081742a861",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
@@ -66,16 +76,6 @@
    "iso": "2026-08-26T03:46:31.000Z",
    "link": "https://mshale.com/16c5b1b6/546d073fzsyhhyAjZNc",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NZ FOOTBALL",
-   "title": "Ford Football Ferns Head to Central America to Face Panama This October for Key FIFA Women's World Cup Preparation",
-   "iso": "2026-08-26T03:26:22.000Z",
-   "link": "https://www.nzfootball.co.nz/newsarticle/169448?newsfeedId=1275608",
-   "lede": "New Zealand Football has announced the Ford Football Ferns will take on Panama (FIFA rank 56) in a two-match...",
-   "image": "https://prodcdn.sporty.co.nz/cms/14667/newsarticles/169448_wo.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
