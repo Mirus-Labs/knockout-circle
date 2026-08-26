@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T09:03:55.318Z",
+ "updated": "2026-08-26T09:25:23.217Z",
  "news": [
   {
    "cat": "GOAL.COM",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "THE NEW YORK TIMES",
+   "title": "College football national title odds: Ohio State, Notre Dame, Texas lead a jumbled field",
+   "iso": "2026-08-26T09:00:51.000Z",
+   "link": "https://www.nytimes.com/athletic/7535411/2026/08/26/college-football-national-title-odds-ohio-state-notre-dame-texas/",
+   "lede": "Ohio State, Notre Dame and Texas enter the college football season as the favorites to win the national title.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2025/12/31112751/GettyImages-2244480335-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "AL JAZEERA",
    "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
    "iso": "2026-08-26T08:11:56.000Z",
    "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam",
    "lede": "The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-25T205306Z_1016449660_RC2Q2MAYXF5C_RTRMADP_3_SOCCER-ENGLAND-BHA-1787730672.jpg?resize=1920%2C1440",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THECITIZEN.CO.TZ",
@@ -48,8 +58,8 @@
    "link": "https://www.thecitizen.co.tz/tanzania/business/world-cup-pushed-tanzania-s-paid-tv-subscriptions-8-2-can-the-momentum-be-sustained--5571286",
    "lede": "The number of active paid television decoders in Tanzania rose by 8.18 percent in the three months to June, reversing a six-month decline as football fans prepared to follow the 2026 FIFA World Cup.",
    "image": "https://www.thecitizen.co.tz/resource/image/5571288/landscape_ratio3x2/1200/800/a20da0954c849b602b8577ef02e4d271/Bt/tv-pic.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MSHALE",
@@ -57,23 +67,14 @@
    "iso": "2026-08-26T06:16:08.000Z",
    "link": "https://mshale.com/72d4896b/3a6812dfFEc9ED0_GQgiCFU",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MSHALE",
    "title": "Argentina Vs Spain 0-1 | FIFA World Cup 2026 Final Highlights | Spain Vs Argentina Final |Full Match Mobland (vVLcpr0NhG)",
    "iso": "2026-08-26T06:04:19.000Z",
    "link": "https://mshale.com/0ba36ecb/23c21cfeaVkeDlrUjSk",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE AUSTRALIAN",
-   "title": "Matildas to host South American powerhouse ahead of World Cup",
-   "iso": "2026-08-26T05:37:51.000Z",
-   "link": "https://www.theaustralian.com.au/sport/football/matildas-lock-in-blockbuster-home-series-against-colombia-for-world-cup-prep/news-story/625ab39c0a84993df283da081742a861",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
