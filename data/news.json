@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-26T11:15:32.624Z",
+ "updated": "2026-08-26T11:49:15.129Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
+   "iso": "2026-08-26T11:20:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino",
+   "lede": "Uefa has received guarantees after ill-fated Infantino plan. European teams likely to go to under-20 Women’s World Cup. Uefa is poised to drop its threatened boycott of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of Gianni Infantino’s plan to sell stakes in the World Cup. The Guardian understands European teams are likely to be cleared for participation in the upcoming under-20 Women’s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president’s ill-fated scheme will be put on the table.",
+   "image": "https://i.guim.co.uk/img/media/4dd6c3cebcf9ec47a64fda5b94e33a3f1259ed41/172_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a82071672ec8da5a452d183488962f4",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "PHILIPPINE FOOTBALL FEDERATION",
+   "title": "SQUAD LIST: World Cup-bound Filipinas return to Asian Games",
+   "iso": "2026-08-26T11:15:58.000Z",
+   "link": "https://pff.org.ph/squad-list-world-cup-bound-filipinas-return-to-asian-games/",
+   "lede": "The Philippine Women’s National Football Team (Filipinas) will compete in the 20th Asian Games in Nagoya, Japan, marking the squad’s second consecutive appearance in Asia’s grandest multi-sport event following their quarterfinal finish in the 19th edition, played three years ago in Hangzhou, China. The campaign comes six months after the Filipinas secured their second consecutive FIFA Women’s World Cup appearance, defeating Uzbekistan in the playoff match of the 2026 AFC Women’s Asian Cup last March. The Filipinas have been drawn in Group G alongside three-time gold medalist China, Uzbekistan, and Hong Kong. The Philippines last faced China in the 2018 AFC Women’s Asian Cup in Amman, Jordan, falling 0-3, while they recently met Hong Kong in July 2025 during the 2026 AFC Women’s Asian Cup Qualifiers in Cambodia, winning 1-0.",
+   "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Olivia Moultrie’s injury leaves the USWNT with a thinning midfield pool ahead of the World Cup",
@@ -8,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/aug/26/olivia-moultrie-injury-uswnt-world-cup",
    "lede": "The Portland Thorns midfielder fills a role few in the US player pool can match, and she’s in a race against time to be fit for Brazil. Olivia Moultrie is no stranger to setting her own timeline. Half a decade ago, her desire to go pro at age 15 helped change NWSL rules, which previously forbade teams from signing players under the age of 18. The ensuing half-decade has seen her go from one of the nation’s top prospects to a proven high-level midfielder, a developmental success with the Portland Thorns.",
    "image": "https://i.guim.co.uk/img/media/d6a3e6c6418a95c6f935efd93d9d3c79ee2a9091/0_87_5000_4001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7044edaf12b50a8a9c9651deb7adcd0",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GOAL.COM",
@@ -18,8 +38,8 @@
    "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
    "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
    "image": "https://assets.goal.com/images/v3/blt67ab410039e39ccb/16-9%20(2).jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "OPEN MAGAZINE",
@@ -28,8 +48,8 @@
    "link": "https://openthemagazine.com/sports/indias-world-cup-without-qualifying-why-the-blue-tigers-are-playing-panama-brazil-and-new-zealand",
    "lede": "India did not qualify for the World Cup. So, the World Cup is coming to India. Panama will arrive on September 26. Brazil will walk into Kolkata’s Salt Lake Stadium on October 3.",
    "image": "https://media.openthemagazine.com/openthemagazine/2026-08-26/pjm9ox2j/an.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MENSXP",
@@ -38,45 +58,26 @@
    "link": "https://www.mensxp.com/sports/football/185478-heres-the-reason-brazil-may-train-on-bangladeshi-soil-for-their-india-game.html",
    "lede": "October 3 shall witness a historic clash between India and Brazil in Kolkata. The five-time FIFA World Cup winners shall be playing their first game against the Indians. But it seems that the most successful football side in the biggest tournament may not practice for the game on Indian soil. The Brazilians might be practicing in Bangladesh instead.",
    "image": "https://mxp-media.ilnmedia.com/media/content/2026/Aug/FB_6a8e782646ed1.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Infantino has no future at FIFA, says European Leagues chief",
-   "iso": "2026-08-26T10:46:10.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief",
-   "lede": "Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26164041610742-1787739395.jpg?resize=1920%2C1440",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How many college football teams can actually win the 2026 national championship?",
-   "iso": "2026-08-26T10:36:29.000Z",
-   "link": "https://www.nytimes.com/athletic/7538588/2026/08/26/college-football-playoff-national-championship-odds-2026/",
-   "lede": "Our College Football Playoff Predictor believes Ohio State has the best national championship odds. Let's break down the contenders.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/02/11162600/GettyImages-2257801430-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "College football national title odds: Ohio State, Notre Dame, Texas lead a jumbled field",
-   "iso": "2026-08-26T09:00:51.000Z",
-   "link": "https://www.nytimes.com/athletic/7535411/2026/08/26/college-football-national-title-odds-ohio-state-notre-dame-texas/",
-   "lede": "Ohio State, Notre Dame and Texas enter the college football season as the favorites to win the national title.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2025/12/31112751/GettyImages-2244480335-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "AL JAZEERA",
+   "title": "Manchester City sign teenage Moroccan football star Ayyoub Bouaddi",
+   "iso": "2026-08-26T11:15:00.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi",
+   "lede": "Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26235620585249-1787742216.jpg?resize=1920%2C1333",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MSHALE",
-   "title": "Highlights | Argentina 2-1 England | Semifinal Clash FIFA World Cup 2026™ Kelly Oubre (D0m38cbIPY)",
-   "iso": "2026-08-26T08:26:55.000Z",
-   "link": "https://mshale.com/bf40f735/650b1eb9GxgEFDMxQTMnVSg",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Infantino has no future at FIFA, says European Leagues chief",
+   "iso": "2026-08-26T10:55:18.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief",
+   "lede": "Claudius Schaefer insists the influence of the FIFA president has 'grown from year to year'.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26164041610742-1787739395.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
