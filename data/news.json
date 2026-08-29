@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T21:17:13.847Z",
+ "updated": "2026-08-29T21:47:08.147Z",
  "news": [
   {
    "cat": "THE DAILY STAR",
@@ -12,24 +12,34 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "LONDON EVENING STANDARD",
+   "title": "Barco booed on Chelsea debut after Bellingham slap at World Cup",
+   "iso": "2026-08-29T18:55:21.000Z",
+   "link": "https://www.standard.co.uk/sport/football/barco-boo-chelsea-fc-debut-bellingham-world-cup-b1294936.html",
+   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Your weekly briefing on Chelsea, featuring team news and expert analysis from Dom Smith. I would like to be emailed about offers, event and updates from Evening Standard.",
+   "image": "https://static.standard.co.uk/2026/08/27/19/2291907701..?width=1200&auto=webp&quality=75",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "SPORTSTAR",
    "title": "Ivory Coast star Franck Kessie rejoins Atalanta after impressive FIFA World Cup 2026",
    "iso": "2026-08-29T17:57:47.000Z",
    "link": "https://sportstar.thehindu.com/football/fifa-world-cup-ivory-coast-star-franck-kessie-rejoins-atalanta-juventus-bid/article71405798.ece",
    "lede": "AP AP https://ss-i.thgim.com/public/incoming/q6bj0l/article71405813.ece/alternates/FREE_1200/Atalanta_Kessie_Soccer_4587_.jpg GARETH PATTERSON FILE - Ivory Coast's Franck Kessie (8) controls the ball during the FIFA World Cup Round of 32 soccer match between Ivory Coast and Norway in Arlington, Texas, June 30, 2026. (AP Photo/Gareth Patterson, File) Bergamo Franck Kessié, 29, first arrived at Atalanta in 2015 via the youth setup, then scored twice on his debut in Serie A for the club in 2016 after a loan at Cesena. Ivory Coast captain Franck Kessié has returned to Atalanta, the first European club he played for, in a move that follows his role in helping the Elephants reach the FIFA World Cup 2026 knockout stage for the first time. The Serie A side confirmed on Saturday that Kessié has signed a multi-year deal, though no length was disclosed.",
    "image": "https://ss-i.thgim.com/public/incoming/q6bj0l/article71405813.ece/alternates/LANDSCAPE_1200/Atalanta_Kessie_Soccer_4587_.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BBC",
-   "title": "Real Madrid: Jose Mourinho concerned by three-week international break",
-   "iso": "2026-08-29T12:54:26.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cx2zwwz5z4no",
-   "lede": "Jose Mourinho returned to Real Madrid after thirteen years. Real Madrid manager Jose Mourinho has raised concerns about the impact of September's three-week international break, highlighting the amount of time his players will be away from their club. \"The international break does concern me,\" Mourinho said. Speaking before Sunday's home La Liga match against Malaga (16:00 BST), Mourinho said he was mostly troubled by players linking up with their nations who then do not get game time.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/64be/live/74591a00-a39f-11f1-bb7c-3b1918839019.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "College football player MicahJo Barnett dies after medical emergency during season opener",
+   "iso": "2026-08-29T21:27:58.000Z",
+   "link": "https://www.nytimes.com/athletic/7548721/2026/08/29/micahjo-barnett-death-william-jewell-college-football-opener/",
+   "lede": "Barnett played in 13 games in his first two seasons for the Cardinals, rushing for 457 yards and six touchdowns.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/29170342/GettyImages-457076308-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TCU 360",
@@ -37,8 +47,17 @@
    "iso": "2026-08-29T20:08:55.000Z",
    "link": "https://tcu360.com/2026/08/29/unscripted-world-cup-summer-recap-tcu-sports-and-more/",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "ALL INDIA FOOTBALL FEDERATION",
+   "title": "From Argentina and Uruguay to Brazil, former captain Shabbir Ali on India's date with world football",
+   "iso": "2026-08-29T19:56:07.000Z",
+   "link": "https://www.the-aiff.com/article/from-argentina-and-uruguay-to-brazil-former-captain-shabbir-ali-on-indias-date-with-world-football",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "CODE SPORTS",
@@ -47,8 +66,8 @@
    "link": "https://www.codesports.com.au/football/mathew-leckie-on-his-world-cup-injury-pain-and-signing-on-for-another-season-at-melbourne-city/news-story/2db74c880156697eca7f706d419ca92e",
    "lede": "",
    "image": "https://www.codesports.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-codesports-169.svg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "NDTV SPORTS",
@@ -56,25 +75,6 @@
    "iso": "2026-08-29T18:43:46.000Z",
    "link": "https://sports.ndtv.com/fifa-world-cup-2026/argentinas-leandro-paredes-breaks-silence-on-10-game-ban-over-fifa-world-cup-final-brawl-11976060",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "The Secret Battle To Host The 2030 & 2034 World Cup Finals | FIFA World Cup 2026 Ryan Miller (Z5F1wQ6DVl)",
-   "iso": "2026-08-29T17:02:51.000Z",
-   "link": "https://mshale.com/9ee2e169/137094d7FAk3KF8WXDUkASQ",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "UNC investigation into college football GM Michael Lombardi ‘a witch hunt,’ lawyer says",
-   "iso": "2026-08-29T16:32:46.000Z",
-   "link": "https://www.nytimes.com/athletic/7548248/2026/08/29/unc-football-mike-lombardi-investigation/",
-   "lede": "Michael Lombardi's lawyer believes North Carolina's investigation into the general manager goes beyond his $1.5 million buyout.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/28153446/GettyImages-2244626387-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
