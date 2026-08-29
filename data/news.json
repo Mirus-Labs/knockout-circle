@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-29T18:54:55.107Z",
+ "updated": "2026-08-29T21:17:13.847Z",
  "news": [
+  {
+   "cat": "THE DAILY STAR",
+   "title": "What comes next for Messi after a cruel summer?",
+   "iso": "2026-08-29T19:58:02.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/what-comes-next-messi-after-cruel-summer-4259371",
+   "lede": "The 2026 World Cup ended with Argentina losing the final to Spain. Soon after, Lionel Messi returned to Rosario, where he suffered a far greater loss with the death of his father, Jorge. Now, at 39, Messi's future in football is suddenly less certain. A recent report by The Athletic has shed more light on what Messi has been going through since Argentina's 1-0 defeat by Spain in the World Cup final.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SPORTSTAR",
    "title": "Ivory Coast star Franck Kessie rejoins Atalanta after impressive FIFA World Cup 2026",
@@ -8,58 +18,37 @@
    "link": "https://sportstar.thehindu.com/football/fifa-world-cup-ivory-coast-star-franck-kessie-rejoins-atalanta-juventus-bid/article71405798.ece",
    "lede": "AP AP https://ss-i.thgim.com/public/incoming/q6bj0l/article71405813.ece/alternates/FREE_1200/Atalanta_Kessie_Soccer_4587_.jpg GARETH PATTERSON FILE - Ivory Coast's Franck Kessie (8) controls the ball during the FIFA World Cup Round of 32 soccer match between Ivory Coast and Norway in Arlington, Texas, June 30, 2026. (AP Photo/Gareth Patterson, File) Bergamo Franck Kessié, 29, first arrived at Atalanta in 2015 via the youth setup, then scored twice on his debut in Serie A for the club in 2016 after a loan at Cesena. Ivory Coast captain Franck Kessié has returned to Atalanta, the first European club he played for, in a move that follows his role in helping the Elephants reach the FIFA World Cup 2026 knockout stage for the first time. The Serie A side confirmed on Saturday that Kessié has signed a multi-year deal, though no length was disclosed.",
    "image": "https://ss-i.thgim.com/public/incoming/q6bj0l/article71405813.ece/alternates/LANDSCAPE_1200/Atalanta_Kessie_Soccer_4587_.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "SOUTH CHINA MORNING POST",
-   "title": "Chinese football run by unskilled people as talented ones miss out: Li Weifeng",
-   "iso": "2026-08-29T10:06:00.000Z",
-   "link": "https://amp.scmp.com/sport/football/article/3365706/chinese-football-run-people-wrong-skills-talented-ones-miss-out-li-weifeng-says",
-   "lede": "Football in China is being run by people without the skill to do so, as those with talent sit on the sidelines, former international Li Weifeng has said in a withering assessment of the game in the country. Speaking during a live stream on social media, Li, who stopped playing in 2015, said the decision to axe head coach Bora Milutinovic, who guided China to their only Fifa World Cup appearance to date in Japan and South Korea in 2002, was a classic case in point. Rather than being rewarded with a contract extension, the Serbian tactician was cut by the Chinese Football Association after the tournament, where his team lost all three group matches against Costa Rica, Brazil and Turkey.",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/29/a588659e-0d8b-4523-b0ef-63490094f751_e503c94c.jpg?itok=3ItQuyqb&v=1787997958",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
-   "cat": "LA GAZZETTA DELLO SPORT",
-   "title": "Spain Divided! Barcelona Snubs World Champions, Basques Boo. De La Fuente: 'What a Shame'",
-   "iso": "2026-08-29T10:03:47.000Z",
-   "link": "https://www.gazzetta.it/en/football/world-cup/29-08-2026/spain-world-champions-booed-barcelona-and-bilbao-amid-political-row_amp.shtml",
-   "lede": "Suddenly, Spain finds itself divided by football. The independence movements in Catalonia and the Basque Country, long dormant with their embers seemingly extinguished, have been unexpectedly reignited. The celebratory wind surrounding De la Fuente's World Cup champions has fanned flames that have caught the country by surprise. Boos rang out in Bilbao, a planned tribute was cancelled at Camp Nou, and chants against the national team were heard at both Camp Nou and El Sadar, Osasuna's home ground.",
-   "image": "https://www.gazzetta.it/images/default.jpg",
+   "cat": "BBC",
+   "title": "Real Madrid: Jose Mourinho concerned by three-week international break",
+   "iso": "2026-08-29T12:54:26.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cx2zwwz5z4no",
+   "lede": "Jose Mourinho returned to Real Madrid after thirteen years. Real Madrid manager Jose Mourinho has raised concerns about the impact of September's three-week international break, highlighting the amount of time his players will be away from their club. \"The international break does concern me,\" Mourinho said. Speaking before Sunday's home La Liga match against Malaga (16:00 BST), Mourinho said he was mostly troubled by players linking up with their nations who then do not get game time.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/64be/live/74591a00-a39f-11f1-bb7c-3b1918839019.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "What comes next for Messi after a cruel summer?",
-   "iso": "2026-08-29T09:49:38.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/what-comes-next-messi-after-cruel-summer-4259371",
-   "lede": "The 2026 World Cup ended with Argentina losing the final to Spain. Soon after, Lionel Messi returned to Rosario, where he suffered a far greater loss with the death of his father, Jorge. Now, at 39, Messi's future in football is suddenly less certain. A recent report by The Athletic has shed more light on what Messi has been going through since Argentina's 1-0 defeat by Spain in the World Cup final.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "cat": "TCU 360",
+   "title": "Unscripted: World Cup, summer recap, TCU sports and more",
+   "iso": "2026-08-29T20:08:55.000Z",
+   "link": "https://tcu360.com/2026/08/29/unscripted-world-cup-summer-recap-tcu-sports-and-more/",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "GOAL.COM",
-   "title": "Liverpool are overpaying for Bradley Barcola - but joining the Reds offers flying Frenchman the chance to become a global superstar: GOAL grades the biggest deals of the 2026 summer transfer windowl",
-   "iso": "2026-08-29T08:30:00.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt15ffc439feb5d9e6/Bradley%20Barcola%20Liverpool%20GFX.jpg",
+   "cat": "CODE SPORTS",
+   "title": "‘Came out of nowhere’: Socceroo’s regret over World Cup nightmare",
+   "iso": "2026-08-29T19:04:45.000Z",
+   "link": "https://www.codesports.com.au/football/mathew-leckie-on-his-world-cup-injury-pain-and-signing-on-for-another-season-at-melbourne-city/news-story/2db74c880156697eca7f706d419ca92e",
+   "lede": "",
+   "image": "https://www.codesports.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-codesports-169.svg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MENSXP",
-   "title": "Uruguay Are on Their Way to India! 2-Time FIFA WC Winners to Face Blue Tigers in Kolkata",
-   "iso": "2026-08-29T07:50:00.000Z",
-   "link": "https://www.mensxp.com/sports/football/185541-uruguay-are-on-their-way-to-india-2-time-fifa-wc-winners-to-face-blue-tigers-in-kolkata.html",
-   "lede": "There's good news for Indian fans as India shall take on two-time FIFA World Cup winners Uruguay in Kolkata on October 6. The match will be played at Vivekananda Yuba Bharati Krirangan. This game will be just after the Blue Tigers face Brazil at the same venue on October 3. Meeting After a Long TimeThis is not the first time India are facing Uruguay.",
-   "image": "https://mxp-media.ilnmedia.com/media/content/2026/Aug/FB_6a928f110116b.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
   },
   {
    "cat": "NDTV SPORTS",
@@ -67,13 +56,22 @@
    "iso": "2026-08-29T18:43:46.000Z",
    "link": "https://sports.ndtv.com/fifa-world-cup-2026/argentinas-leandro-paredes-breaks-silence-on-10-game-ban-over-fifa-world-cup-final-brawl-11976060",
    "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "MSHALE",
+   "title": "The Secret Battle To Host The 2030 & 2034 World Cup Finals | FIFA World Cup 2026 Ryan Miller (Z5F1wQ6DVl)",
+   "iso": "2026-08-29T17:02:51.000Z",
+   "link": "https://mshale.com/9ee2e169/137094d7FAk3KF8WXDUkASQ",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "UNC investigation into college football GM Michael Lombardi ‘a witch hunt,’ lawyer says",
-   "iso": "2026-08-29T16:10:37.000Z",
+   "iso": "2026-08-29T16:32:46.000Z",
    "link": "https://www.nytimes.com/athletic/7548248/2026/08/29/unc-football-mike-lombardi-investigation/",
    "lede": "Michael Lombardi's lawyer believes North Carolina's investigation into the general manager goes beyond his $1.5 million buyout.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/28153446/GettyImages-2244626387-scaled.jpg?width=1200&height=630&fit=cover",
