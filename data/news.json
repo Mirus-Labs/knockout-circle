@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T07:29:54.588Z",
+ "updated": "2026-08-30T07:31:33.768Z",
  "news": [
   {
    "cat": "LONDON EVENING STANDARD",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "FIJIVILLAGE",
+   "title": "Egypt beat Australia 4-2 on penalties to reach World Cup last 16",
+   "iso": "2026-08-29T23:29:54.000Z",
+   "link": "https://www.fijivillage.com/p/egypt-beat-australia-4-2-on-penalties-to-reach-world-cup-last-16-27d86d/",
+   "lede": "Egypt have claimed their first-ever win in the FIFA World Cup knockout stage after beating Australia 4-2 on penalties to reach the Round of 16. The match was locked at 1-all after extra time. Emam Ashour gave Egypt the lead in the 13th minute before Australia equalised in the 55th minute through an own goal by Mohamed Hany. Neither team was able to score again, sending the match to a penalty shootout.",
+   "image": "https://www.fijivillage.com/news_images/20260704092530_media_6a4825c1c5cd77_54491616.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE TIMES OF INDIA",
    "title": "José Mourinho makes bold Ballon d’Or challenge: ‘Can’t give it to a guy just for winning UCL or World Cup",
    "iso": "2026-08-29T23:11:00.000Z",
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/jos-mourinho-makes-bold-ballon-dor-challenge-cant-give-it-to-a-guy-just-for-winning-ucl-or-world-cup/articleshow/133620191.cms",
    "lede": "With the 2026 Ballon d’Or drawing closer, Jose Mourinho has offered a rather different way of looking at football’s biggest individual prize, arguing that winning the Champions League or World Cup should not automatically put a player at the front of the queue. The Real Madrid manager believes the award should recognise the players who stand out at the very highest level and leave a lasting mark on the sport, rather than simply rewarding whoever happened to collect the biggest trophies. Football News: José Mourinho challenges the criteria for the Ballon d'Or, emphasizing that winning major trophies shouldn't solely determine a player's worthiness for the award, as he argues for recognizing those who leave a lasting impact on football.",
    "image": "https://static.toiimg.com/thumb/msid-133621619,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SPORTS247 NIGERIA",
@@ -38,8 +48,8 @@
    "link": "https://www.sports247.ng/falconets-begin-world-cup-preparations-with-narrow-victory-over-poland/",
    "lede": "Nigeria’s Falconets began their final preparations for the 2026 FIFA U-20 Women’s World Cup on a positive note, defeating hosts Poland U-20 1–0 in their first warm-up match. Sports247 reports that the Nigerian side produced a disciplined performance at the end of a competitive encounter, with Mamudu Mary scoring the only goal of the match in first-half stoppage time. Mary struck in the 45+1st minute, giving Nigeria a crucial advantage just before the interval. The goal ultimately proved decisive as the Falconets successfully protected their lead throughout the second half.",
    "image": "https://www.sports247.ng/wp-content/uploads/2026/08/IMG-20260829-WA0271.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "ONEFOOTBALL",
@@ -48,17 +58,17 @@
    "link": "https://onefootball.com/en/news/spain-bound-under-17s-head-to-the-youth-club-world-cup-43363578",
    "lede": "Official | Mainz loan resurgent Danish attacker William Bøving to Nürnberg. Massis board seeks guarantees for loan to clear São Paulo arrears. Official: Mainz and Nürnberg settle on year-long loan for Bøving. Mainz 05 attacker William Bøving set for 2.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43363578%3Fdate=2026-08-30",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "🔴SPAIN Vs ARGENTINA | Football World Cup 2026 FINAL Simulation Gameplay | Pes 21 Dhs (BtAGCTaNJt)",
-   "iso": "2026-08-30T03:48:46.000Z",
-   "link": "https://mshale.com/c7302b43/79d17c7dBxcyLiI0eQcLLyA",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "NATION.CO.KE",
+   "title": "Walking football, the novel sport helping Kenya’s elderly keep fit a step at a time",
+   "iso": "2026-08-30T03:00:00.000Z",
+   "link": "https://www.nation.co.ke/kenya/sports/football/walking-football-the-novel-sport-helping-kenya-s-elderly-keep-fit-a-step-at-a-time-5575960",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -67,15 +77,6 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/for-me-there-is-one-jos-mourinho-picks-kylian-mbapp-for-ballon-dor-over-ucl-and-world-cup-winners/articleshow/133621651.cms",
    "lede": "José Mourinho has thrown his support behind Kylian Mbappé to win the 2026 Ballon d’Or, with the Real Madrid manager arguing that the award should recognise the best individual player in the world rather than simply going to someone who lifted the Champions League or World Cup. Football News: Real Madrid manager José Mourinho argues that Kylian Mbappé should win the 2026 Ballon d'Or due to his individual excellence, regardless of team trophies like the Champions League and World Cup.",
    "image": "https://static.toiimg.com/thumb/msid-133621751,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "MSHALE",
-   "title": "FIFA World Cup 2026 Stadiums & Cities A-Z | All 16 Host Venues In USA, Canada & Mexico Santos Vs Bragantino (wOqiv07hg9)",
-   "iso": "2026-08-29T22:49:27.000Z",
-   "link": "https://mshale.com/5ab69b8b/f3f801b0CxgQLy4HGDwjLjg",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
