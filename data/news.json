@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T13:14:37.502Z",
+ "updated": "2026-08-30T13:19:59.692Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -12,14 +12,34 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "THE TIMES OF INDIA",
+   "title": "Dutch Football federation says it has 'no confidence' in Infantino, seeks new FIFA leadership",
+   "iso": "2026-08-30T11:35:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/dutch-football-federation-says-it-has-no-confidence-in-infantino-seeks-new-fifa-leadership/articleshow/133628342.cms",
+   "lede": "The Dutch football federation has broken ranks with FIFA president Gianni Infantino, saying it no longer has confidence in his leadership and calling for a change at the top of world football from 2027. The federation also proposed hosting an international summit to discuss how FIFA should be governed in the future, arguing that replacing Infantino alone would not be enough to address the organisation’s problems.Dutch federation calls for ‘new FIFA’In a statement, the federation said it “no longer has confidence” in FIFA President Gianni Infantino. It offered to host an international summit to discuss the future of FIFA.“. We believe FIFA needs new leadership from 2027 onwards.",
+   "image": "https://static.toiimg.com/thumb/msid-133628471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "TIMES NOW",
    "title": "EXCLUSIVE: Bibiano Fernandes Opens Up Ahead Of India's U15 FIFA World Cup",
    "iso": "2026-08-30T10:34:47.000Z",
    "link": "https://www.timesnownews.com/sports/football/exclusive-bibiano-fernandes-opens-up-ahead-of-indias-u15-fifa-world-cup-article-156013045",
    "lede": "The Centre for Sports Excellence in Bengaluru is currently brimming with talent. Since August 16, batches of boys have been attending trials for the upcoming FIFA U15 World Cup and Festival 2026. The scouting will see the All India Football Federation (AIFF) shortlist a pool of players who will take part in the next phase of selection. The exercise has become one of the biggest talent hunts Indian football has attempted, and only 14 players will eventually form the 14-member squad which will travel to Azerbaijan for the tournament in October.",
    "image": "https://images.timesnownews.com/thumb/msid-156013071,thumbsize-2230811,width-1280,height-720,resizemode-75/156013071.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "LIVEMINT",
+   "title": "Chelsea land Argentina’s 2022 World Cup winner Emiliano Martinez from Aston Villa on three-year deal",
+   "iso": "2026-08-30T10:05:55.000Z",
+   "link": "https://www.livemint.com/sports/football-news/chelsea-land-argentina-s-2022-world-cup-winner-emiliano-martinez-from-aston-villa-on-three-year-deal-11788081769202.html",
+   "lede": "Five-time English Premier League champions Chelsea on Sunday announced the signing of Argentina goalkeeper Emiliano Martinez from Aston Villa. Martinez has signed with Chelsea on a three-year contract, an official club statement said. “I’m delighted to be at this football club,” Martinez said via the club statement.\" Coming to Chelsea, for me and my family, was an easy decision to make, and I’m just over the moon - I can’t wait to get started,\" the 2022 FIFA World Cup winner added.Martinez joining Chelsea means that his six-year stint with Aston Villa officially comes to an end.",
+   "image": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/Aston_Villa_Martinez_and_Chelsea_Reuters_1788084173329_1788084184262_ba92dc7f-d814-4912-92b0-1dcab06a2528.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -28,8 +48,8 @@
    "link": "https://www.independent.co.uk/sport/football/emiliano-martinez-chelsea-transfer-villa-b3041718.html",
    "lede": "Comes after criticism of Chelsea’s current number one Robert Sanchez. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
    "image": "https://static.independent.co.uk/2026/08/26/16/01M0Z9YWSNY1F4JV5VMNGQ76NJ.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE DAILY STAR",
@@ -38,8 +58,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/what-comes-next-messi-after-cruel-summer-4259371",
    "lede": "The 2026 World Cup ended with Argentina losing the final to Spain. Soon after, Lionel Messi returned to Rosario, where he suffered a far greater loss with the death of his father, Jorge. Now, at 39, Messi's future in football is suddenly less certain. A recent report by The Athletic has shed more light on what Messi has been going through since Argentina's 1-0 defeat by Spain in the World Cup final.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "PLANET FOOTBALL",
@@ -48,8 +68,8 @@
    "link": "https://www.planetfootball.com/stats-tables/lionel-messi-cristiano-ronaldo-hat-trick-stats-compared-who-scored-most",
    "lede": "Lionel Messi‘s has scored yet another hat-trick for Inter Miami – but how does he compare to his eternal rival Cristiano Ronaldo when it comes to bagging three goals in a game? The eight-time Ballon d’Or winner netted four in Miami’s 7-1 win over Montreal, showing that age is no barrier to his class. Messi scored his first World Cup hat-trick with all three goals in Argentina’s 3-0 victory over Algeria. The first was a long-range stunner, while the third wasn’t bad either.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/05/15111640/Lionel-Messi-Cristiano-Ronaldo-Hat-Tricks-1.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LONDON EVENING STANDARD",
@@ -58,25 +78,6 @@
    "link": "https://www.standard.co.uk/sport/football/barco-boo-chelsea-fc-debut-bellingham-world-cup-b1294936.html",
    "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Your weekly briefing on Chelsea, featuring team news and expert analysis from Dom Smith. I would like to be emailed about offers, event and updates from Evening Standard.",
    "image": "https://static.standard.co.uk/2026/08/27/19/2291907701..?width=1200&auto=webp&quality=75",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO",
-   "title": "Brazilian World Cup winner Roberto Carlos refutes claims he converted to Islam",
-   "iso": "2026-08-30T05:47:00.000Z",
-   "link": "https://malaysia.news.yahoo.com/brazilian-world-cup-winner-roberto-054713487.html",
-   "lede": "Brazilian football legend Roberto Carlos, a World Cup winner known for his fearsome free-kicks, has not converted to Islam, contrary to social media posts claiming he had switched religions. Both Carlos and his wife Souhail Al-Tahiri have refuted the claim in separate interviews since the rumours swirled. \"Brazil's Roberto Carlos is viewed as the greatest defender of all time. He has now converted to Islam,\" says a Bengali-language Facebook post shared on August 19, 2026.",
-   "image": "https://s.yimg.com/lo/mysterio/api/2de3c60e497ec860316c99afc6c110063630b1b3b01380af0be87280ff919c42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_my_711%2F7249e87a5c379a67927401bf7f6086df.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "GHANASOCCERNET",
-   "title": "Every England Header at the 2026 FIFA World Cup",
-   "iso": "2026-08-30T12:58:14.000Z",
-   "link": "https://ghanasoccernet.com/every-england-header-at-the-2026-fifa-world-cup",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
