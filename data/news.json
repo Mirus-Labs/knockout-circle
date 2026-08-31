@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T20:59:27.283Z",
+ "updated": "2026-08-31T21:07:03.734Z",
  "news": [
   {
    "cat": "SBS",
@@ -41,14 +41,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "THEGUARDIAN.COM",
+   "title": "Lionel Messi’s international retirement serves as a reminder: Watch him while you still can",
+   "iso": "2026-08-31T19:05:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
+   "lede": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end. It was among the defining moments of the 2026 World Cup: Lionel Messi standing arms akimbo, looking up towards Argentina’s fervent supporters after losing the final. Tears streamed down his face after his team’s embarrassing loss to Spain in what we now know was Messi’s final match wearing that famous Argentina kit. It was not the first time he’d cried at the tournament.",
+   "image": "https://i.guim.co.uk/img/media/4a6ac60fe0e372afc75d82b19b0092857587b6a5/239_171_1702_1362/master/1702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffaa842be66a66af2af79c7fadc8aa8a",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "BBC",
    "title": "World Cup: Joshua Kushner express regret in involvement in scrapped private investment plan",
    "iso": "2026-08-31T18:38:55.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o",
    "lede": "Joshua Kushner founded Thrive Capital in 2009. Venture capitalist Joshua Kushner, who was set to be the lead investor in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup, says he now regrets joining the proposal. In his first public comments since the now-shelved Fifa Forward Enterprise (FFE) scheme sparked a major crisis for the governing body, Kushner said: \"Had we known what this would devolve into, we would not have gotten involved\". He added he had \"failed to appreciate the political dynamics of global football\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac98/live/245f6750-a568-11f1-a291-b542ee92de7c.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FIJIVILLAGE",
@@ -57,21 +67,11 @@
    "link": "https://www.fijivillage.com/news/messi-retires-from-international-football-9a3376/",
    "lede": "Argentina football great Lionel Messi has announced his retirement from international football, saying the decision hurts but the time has come. The 39-year-old, who captained Argentina to FIFA World Cup glory in Qatar in 2022, ends his international career as his country's all-time leading scorer and most-capped player, with 125 goals in 207 appearances. Messi says time is running short and while closing this chapter hurts deeply, he will always love being part of the national team. He says he has given it his all and has nothing left to give, adding there are some great young players coming through who deserve their chance.",
    "image": "https://www.fijivillage.com/news_images/20260901071830_media_6a95b15192ac37_03510523.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BBC",
-   "title": "How Messi's decade of dominance almost never happened",
-   "iso": "2026-08-31T18:24:04.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo",
-   "lede": "Lionel Messi scored eight goals and registered four assists at the 2026 World Cup. \"I've given it my all, I have nothing left to give.\" Lionel Messi retired from international football on Monday as Argentina's all-time leading scorer and most-capped player. He captained them to World Cup glory at Qatar 2022 and to Copa America triumphs in 2021 and 2024.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efcf/live/3e629830-a558-11f1-9acf-19576105f049.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "REUTERS",
+   "cat": "REUTERS.COM",
    "title": "Reactions to Argentina's Messi ending international career",
    "iso": "2026-08-31T20:29:43.000Z",
    "link": "https://www.reuters.com/sports/soccer/reactions-argentinas-messi-ending-international-career-2026-08-31/",
