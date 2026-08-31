@@ -1,15 +1,55 @@
 {
- "updated": "2026-08-31T15:19:33.598Z",
+ "updated": "2026-08-31T15:30:31.063Z",
  "news": [
+  {
+   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
+   "title": "Breaking: Football great Lionel Messi announces retirement from Argentina team",
+   "iso": "2026-08-31T15:25:09.000Z",
+   "link": "https://www.abc.net.au/news/2026-09-01/messi-leaves-argentina/107030934",
+   "lede": "Argentinian captain Lionel Messi is considered one of the world's best football players. (Reuters: Agustin Marcarian). Football great Lionel Messi has announced he will retire from the Argentinian team. The announcement comes less than a month after the death of his father Jorge.",
+   "image": "https://live-production.wcms.abc-cdn.net.au/948c3ab936def345f94ec6e68a163d84?impolicy=wcms_watermark_news&cropH=1532&cropW=2723&xPos=0&yPos=149&width=862&height=485&imformat=generic",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GIVEMESPORT",
+   "title": "Lionel Messi Makes Final Retirement Decision as He Releases Emotional Statement",
+   "iso": "2026-08-31T15:23:29.000Z",
+   "link": "https://www.givemesport.com/breaking-lionel-messi-retires-argentina-world-cup/",
+   "lede": "Lionel Messi has made his final decision on retiring from representing Argentina following the 2026 World Cup, marking the end of one of the greatest international careers in history. Messi, 39, was one game away from winning back-to-back World Cups, but had to settle for the second silver medal of his career as Argentina fell short against Spain in July. The greatest footballer of all time was widely expected to retire from international duty after the heartbreak of losing the World Cup final and then his father's tragic passing just weeks later. Messi has now posted a lengthy statement, which he wrote just two days after the defeat to Spain at MetLife Stadium in New Jersey.",
+   "image": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2026/07/mixcollage-30-jul-2026-10-48-am-1137.jpg?w=1600&h=900&fit=crop",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
+   "iso": "2026-08-31T15:21:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina",
+   "lede": "Argentina great’s last game was in World Cup final. Player’s father Jorge passed away earlier in August. Lionel Messi has announced his retirement from international duty with Argentina after winning 207 caps. Messi, who made his Argentina debut in 2005, won the World Cup in 2022 and was a runner-up this summer and in 2014.",
+   "image": "https://i.guim.co.uk/img/media/0fc6b8d98f8d39c88d7f18b48f38b9c18c1c87ce/737_105_2869_2295/master/2869.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebb27cefe04d09f337dc939d1fc85bd0",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "TALKSPORT",
+   "title": "Messi retires from international football with incredible goal record",
+   "iso": "2026-08-31T15:16:09.000Z",
+   "link": "https://talksport.com/football/4447439/lionel-messi-retire-argentina-world-cup-goals/",
+   "lede": "One of the world's greatest players has called time on his international playing career with his final game being the World Cup final defeat to Spain in New York. Messi scored 125 goals in 207 appearances for Argentina including eight goals at this summer's World Cup. The 39-year-old has 21 World Cup goals in all, second only to Kylian Mbappe in the all-time charts. Along with Cristiano Ronaldo, he is one of the greatest goal scorers of all time and he leaves the national team having won the World Cup in a 21-year career.",
+   "image": "https://talksport.com/wp-content/uploads/2026/07/lionel-messi-10-argentina-celebrates-1093858132.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "THE INDEPENDENT",
    "title": "Lionel Messi retires from international football after World Cup final defeat",
    "iso": "2026-08-31T15:15:00.000Z",
    "link": "https://www.independent.co.uk/sport/football/lionel-messi-retires-argentina-world-cup-final-b3017935.html",
    "lede": "Messi has called time on his Argentina career after defeat to Spain in July’s World Cup final. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/07/20/07/01KXY4CYVC7JJJYSY0TR6Y1Q6V.jpg?trim=32,0,32,0&width=1200&height=800&crop=1200:800",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "image": "https://static.independent.co.uk/2026/08/31/15/56/GettyImages-2285095513.jpeg?trim=0,19,0,19&width=1200&height=800&crop=1200:800",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "UEFA.COM",
@@ -18,8 +58,8 @@
    "link": "https://www.uefa.com/news-media/news/02a0-1f71bdf70a9a-b6067bd647f2-1000--2026-european-football-calendar-dates-for-all-uefa-competiti/",
    "lede": "All the key dates for your diary in another busy year of European football. All dates subject to change. Some events, including match and draw dates, still to be scheduled.",
    "image": "https://editorial.uefa.com/resources/02a0-1f71bdf70a99-a478a6082414-1000/real_madrid_c.f._v_manchester_city_-_uefa_champions_league_2025_26_league_phase_md6.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ONEFOOTBALL",
@@ -28,56 +68,16 @@
    "link": "https://onefootball.com/en/news/from-recreo-to-poland-union-keeper-zaninettis-world-cup-dream-43374752",
    "lede": "Argentine federation to appeal to CAS over FIFA World Cup final sanctions. FIFA Unveils 2027 Women’s World Cup Schedule: Brazil, Maracanã. Ipswich sign World Cup winner Exequiel Palacios from Leverkusen. UEFA considers legal action against FIFA’s Gianni Infantino over World Cup sell-off plan.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43374752%3Fdate=2026-08-31",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Ollie Watkins has made a disgraceful decision in leaving Aston Villa behind for Saudi switch: GOAL grades the biggest deals of the 2026 summer transfer windowl",
-   "iso": "2026-08-31T12:20:46.000Z",
-   "link": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-   "lede": "For some football fans, the summer is the part of the calendar that they look forward to the most - and that's not just because it's filled by a World Cup every four years! Rather, it's because the end of the season means only one thing: It's time for transfers! The 2026 window is once again proving to be busy, with some huge names making big-money moves before deadline day on September 1. We know that some transfers turn out well for all parties involved, but there are plenty where at least one of the clubs, or even the player, are left wondering what might have been had they made a different decision while at the negotiating table.",
-   "image": "https://assets.goal.com/images/v3/blt165d9dffc8df49f4/Ollie%20Watkins%20Al-Hilal%20GFX.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "MAIL & GUARDIAN",
-   "title": "Infantino’s retreat and football’s lingering governance problem",
-   "iso": "2026-08-31T11:32:36.000Z",
-   "link": "https://mg.co.za/thought-leader/2026-08-31-infantino-s-retreat-and-football-s-lingering-governance-problem/",
-   "lede": "At the centre of the dispute was a simple question that remains unresolved: Who owns football? The answer matters because it determines whether Fifa has the moral and institutional authority to sell any part of the World Cup’s commercial future to private capital. Gianni Infantino has started a debate that will outlive the proposal that provoked it. Fifa has scrapped his plan to create Fifa Forward Enterprise, a commercial vehicle for Fifa’s tournament-related operations that would have sold a minority stake to private investors as a way to raise billions for development, according to Reuters.",
-   "image": "https://images.newsteam.io/image/400/GbSdY1y2zdR6L4wE7FkGreV3s1agnDvr2HvY3ww7ohfWmynBF3tdu7pmZJ4NmsfjLZYnbbpB4i3E3kFgynJnLoCgxjhAAp6c7NErXsgKy4FgmwG6ZSztHtGXPGRVcCAKNGCQHygrsrGmCQBKBvknc",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Lionel Messi retires from Argentina international duty with decision ‘that hurts soul deeply’",
-   "iso": "2026-08-31T15:14:16.000Z",
-   "link": "https://www.nytimes.com/athletic/7427874/2026/08/31/lionel-messi-argentina-retire-future/",
-   "lede": "Confirming his retirement from international duty on Monday, the Inter Miami star said he realised \"the time has come\".",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/19195217/messi-world-cup-tears-scaled-e1784505159446.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "WNBA stars A’ja Wilson, Kelsey Plum out for FIBA Women’s World Cup",
-   "iso": "2026-08-31T14:16:14.000Z",
-   "link": "https://www.nytimes.com/athletic/7552517/2026/08/31/wnba-fiba-world-cup-wilson-plum-out/",
-   "lede": "Team USA cited injuries for their absences. Plum also will miss the remainder of the WNBA season.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/31101251/GettyImages-2290657496-scaled-e1788185591193.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NCAA.COM",
-   "title": "Team USA's 2026 FIBA World Cup roster and their March Madness highlights",
-   "iso": "2026-08-31T13:37:07.000Z",
-   "link": "https://www.ncaa.com/video/basketball-women/2026-08-30/team-usas-2026-fiba-world-cup-roster-and-their-march-madness-highlights",
-   "lede": "Watch March Madness highlights from players on Team USA's 2026 FIBA Women's World Cup roster who played NCAA DI basketball.",
-   "image": "https://www.ncaa.com/sites/default/files/public/thumbnails/2026-08/fiba-thumb-2.jpg",
+   "cat": "MEDIA OUTREACH NEWSWIRE",
+   "title": "Over 20,000 Young Players Chase Their Dreams on the Pitch – Beijing’s Very Own \"World Cup\" Concludes",
+   "iso": "2026-08-31T12:32:00.000Z",
+   "link": "https://www.media-outreach.com/news/china/2026/08/31/484241/over-20000-young-players-chase-their-dreams-on-the-pitch-beijings-very-own-world-cup-concludes/",
+   "lede": "Published on: 31 Aug 2026 8:32pm | Issuer: Beijing Municipal Bureau of Sports. The issuer is solely responsible for the content of this announcement. BEIJING, CHINA – Media OutReach Newswire – 31 August 2026 – The 43rd \"Baidui Cup\" Football Tournament recently came to a close in Beijing. First established in 1984, this youth football tournament introduced a \"two‑track\" system for the first time this year, with separate Popularization and Competitive Groups.",
+   "image": "https://images.media-outreach.com/Thumb/800x418/803308/1_16_.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
