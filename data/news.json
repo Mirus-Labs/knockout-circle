@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T07:26:47.471Z",
+ "updated": "2026-08-31T07:42:18.082Z",
  "news": [
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -32,14 +32,23 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "BÁO ĐỒNG THÁP",
+   "title": "Government awards 300 million VND to Viet Nam men's national football team",
+   "iso": "2026-08-31T02:47:00.000Z",
+   "link": "https://baodongthap.vn/en/government-awards-300-million-vnd-to-viet-nam-mens-national-football-team-a244889.html",
+   "lede": "DTO/NDO- The Prime Minister has decided to commend and award an unexpected 300 million VND (11,500 USD) to Viet Nam's men's national football team following their outstanding achievement in successfully defending its ASEAN Huyndai Cup 2026 title, the Viet Nam Football Federation said on August 28. The timely recognition from the Government is not only a material reward carrying significant encouragement, but also reflects the special attention and close support of the Party and State leaders for the development of sports in general and elite football in particular. In a thrilling second-leg final at Ha Noi’s My Dinh National Stadium on August 26, Viet Nam showed resilience, indomitable fighting spirit and sound tactics to draw 2-2 with Thailand. The result gave coach Kim Sang Sik's team a 4-2 aggregate victory over the two legs, securing the ASEAN Huyndai Cup 2026 title.",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Submit a question for Stewart Mandel’s College Football Mailbag",
    "iso": "2026-08-30T23:35:03.000Z",
    "link": "https://www.nytimes.com/athletic/7551315/2026/08/30/submit-a-question-for-stewart-mandels-college-football-mailbag-357/",
    "lede": "Week 0 is in the books, and Virginia looks like the 2026 national champion. But maybe we should get to Week 1 first. Leave your questions here. Please include your city.",
    "image": "https://theathletic.com/app/themes/athletic/assets/img/article-discussions-feed.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "BENIN WEB TV",
@@ -48,8 +57,8 @@
    "link": "https://beninwebtv.bj/en/u20-womens-world-cup-nigeria-beat-poland-in-friendly/",
    "lede": "The Falconets of Nigeria continued their preparation for the U20 Women's World Cup with a victory against Poland (1-0) on Friday in Brzeg. Mary Mamud scored the only. Mary Mamud scored the only goal of the match in added time of the first period. Nigeria’s Falconets recorded an encouraging victory in preparation for the U20 Women’s World Cup.",
    "image": "https://beninwebtv.bj/en/wp-content/uploads/sites/3/wpwap-preview/og-545959-530451-1751873394.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "PLANET FOOTBALL",
@@ -58,26 +67,16 @@
    "link": "https://www.planetfootball.com/stats-tables/lionel-messi-cristiano-ronaldo-hat-trick-stats-compared-who-scored-most",
    "lede": "Lionel Messi‘s has scored yet another hat-trick for Inter Miami – but how does he compare to his eternal rival Cristiano Ronaldo when it comes to bagging three goals in a game? The eight-time Ballon d’Or winner netted four in Miami’s 7-1 win over Montreal, showing that age is no barrier to his class. Messi scored his first World Cup hat-trick with all three goals in Argentina’s 3-0 victory over Algeria. The first was a long-range stunner, while the third wasn’t bad either.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/05/15111640/Lionel-Messi-Cristiano-Ronaldo-Hat-Tricks-1.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE SCOTTISH SUN",
-   "title": "I'm an NFL star who loved watching the World Cup - there's a lot I can learn from Erling Haaland and other footballers",
-   "iso": "2026-08-30T15:33:00.000Z",
-   "link": "https://www.thescottishsun.co.uk/sport/16756628/nfl-rome-odunze-erling-haaland-chicago-bears/",
-   "lede": "ROME ODUNZE wants to bring the killer instinct of Erling Haaland to Chicago Bears’ Super Bowl bid. Wide receiver Odunze reveals he’s a big football fan and feasted on the World Cup action. He’s cheering on Manchester City and Haaland in the Premier League. Odunze, entering his third NFL season, loves watching the Norwegian goal ace.",
-   "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2026/08/crop-16756629.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LIVESCORE",
-   "title": "‘Strange’—Argentina Star Slams FIFA Ban for World Cup Brawl",
-   "iso": "2026-08-30T15:20:31.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/strangeargentina-star-slams-fifa-ban-for-world-cup-brawl-si/",
-   "lede": "FIFA handed punishments to multiple Argentina players last week for their involvement in the intense brawl that took place on the pitch after the 2026 World Cup final. Midfielder Leandro Paredes was served the worst of them though, a 10-match ban he has since called “excessive” while also questioning the “strange” decision to punish his Spanish counterpart, Gavi.The 32-year-old was widely considered the main villain of the heated affair that took place at MetLife Stadium last month in the moments following Spain’s 1–0 victory. Argentina right back Nahuel Molina sparked the fight, striking Rodri in the midriff as the Spanish star ran across the pitch to celebrate victory.",
-   "image": "https://www.livescore.com/ls-web-assets/images/ico-app2-95953.webp",
+   "cat": "LENTE DESPORTIVA",
+   "title": "UEFA goes after FIFA’s billions after failed World Cup deal",
+   "iso": "2026-08-31T07:14:12.000Z",
+   "link": "https://lentedesportiva.com/uefa-goes-after-fifas-billions-after-failed-world-cup-deal/",
+   "lede": "European football’s governing body has opened a new battle over FIFA’s enormous reserves, raising questions about how the money should be distributed and who controls it.",
+   "image": "https://lentedesportiva.com/wp-content/uploads/2025/10/2019-05-18_Fusball_Frauen_UEFA_Womens_Champions_League_Olympique_Lyonnais_-_FC_Barcelona_StP_0948_LR10_by_Stepro.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
