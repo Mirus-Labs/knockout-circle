@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-01T15:08:51.537Z",
+ "updated": "2026-09-01T15:13:26.288Z",
  "news": [
+  {
+   "cat": "SOUTH CHINA MORNING POST",
+   "title": "Key investor Kushner blames football power struggle for World Cup plan collapse",
+   "iso": "2026-09-01T14:30:07.000Z",
+   "link": "https://www.scmp.com/sport/football/article/3366014/key-investor-kushner-blames-football-power-struggle-world-cup-plan-collapse",
+   "lede": "Investor Joshua Kushner has blamed power struggles within global football for the outrage over Fifa’s plan to sell stakes in the World Cup, admitting his firm “would not have gotten involved” if it had anticipated the backlash. The first comments by venture capitalist Kushner – the brother of Jared Kushner, son-in-law of US President Donald Trump – since the plan collapsed came on Monday, as European governing body Uefa prepares a criminal case against Fifa president Gianni Infantino. “While we stand behind the motivations of FFE [Fifa Forward Enterprise], we failed to appreciate the political dynamics of global football, and the lengths some would go to,” Kushner said in a statement.",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/01/88c049a9-268e-4d31-921d-b6d60d99bb02_af3e682b.jpg?itok=JIwMT87h&v=1788265344",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "RFI",
    "title": "No more Messi nights for Argentina as skipper says adios to national squad",
@@ -8,8 +18,8 @@
    "link": "https://www.rfi.fr/en/sports/20260901-no-more-messi-nights-for-argentina-as-skipper-says-adios-to-national-squad",
    "lede": "Fifa president Gianni Infantino led the tributes to Argentina skipper Lionel Messi, who announced his retirement from international football just over a month after playing in the 2026 World Cup final. \"Thank you for bringing so much joy to millions of football fans,\" said Infantino, who handed Messi a runners-up medal following his side's 1-0 defeat to Spain on 19 July at the MetLife Stadium in New Jersey. \"You are retiring from international football as one of the greatest players our sport has ever seen. I wish you all the best.\"",
    "image": "https://s.rfi.fr/media/display/26d7f2e2-a5f2-11f1-a5f8-005056a97e36/w:1280/p:16x9/AP26243558344708-1.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "SOUTH CHINA MORNING POST",
@@ -18,8 +28,8 @@
    "link": "https://amp.scmp.com/sport/football/article/3365950/under-fire-south-korean-football-body-hires-ex-spain-boss-robert-moreno-interim-coach",
    "lede": "South Korea’s beleaguered football association on Tuesday appointed former Spain boss Robert Moreno as interim coach, following a disastrous World Cup and series of damaging controversies. Moreno, who was forced to deny earlier this year during a stint in Russia that he used ChatGPT to prepare for games, will be in charge for friendly games in September-October. South Korea will compete in the Asian Cup in Saudi Arabia from January 7 to February 5. The Korea Football Association (KFA) said Moreno could lead the team at the Asian Cup, “subject to an evaluation” of his performance.",
    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/01/0cf96a99-58ca-4b52-9a96-2c643a370294_5663403e.jpg?itok=o7nTgwqY&v=1788246230",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GULF NEWS",
@@ -28,8 +38,8 @@
    "link": "https://gulfnews.com/opinion/op-eds/why-messis-legacy-extends-beyond-the-game-itself-1.500659325",
    "lede": "Argentine genius Lionel Messi retired from international football on Monday.It was not unexpected. He had been dropping hints post his World Cup heartbreak, hints that grew stronger after his father passed away.The 39-year-old said he had nothing more to give. He had given everything for Argentina. Despite having learnt football in Spain, he had famously turned down the chance to represent the European giants on the world stage.",
    "image": "https://media.assettype.com/gulfnews%2F2026-08-31%2Fsepzl5al%2Fnewsml_afp_com_20260831T152052Z_doc_c6x84nr.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -38,8 +48,18 @@
    "link": "https://www.nytimes.com/athletic/7554502/2026/09/01/the-athletic-football-show-previews-2026-buffalo-bills/",
    "lede": "It's Super Bowl or bust for the Bills in 2026.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/06200030/GettyImages-2229806319-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Five thoughts on Nebraska football as Matt Rhule’s fourth season nears",
+   "iso": "2026-09-01T14:58:40.000Z",
+   "link": "https://www.nytimes.com/athletic/7555148/2026/09/01/nebraska-football-season-opener-matt-rhule/",
+   "lede": "After a subdued offseason, Nebraska opens 2026 against Ohio on Saturday. Here's what to take away from Matt Rhule's Monday presser.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/01055550/2025-10-13T171254Z_1186485083_MT1USATODAY27314664_RTRMADP_3_NCAA-FOOTBALL-NEBRASKA-AT-MARYLAND.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ABS-CBN",
@@ -47,8 +67,8 @@
    "iso": "2026-09-01T14:15:00.000Z",
    "link": "https://www.abs-cbn.com/sports/othersports/2026/9/1/six-defining-moments-of-lionel-messi-s-argentina-career-1451",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FACEBOOK.COM",
@@ -56,26 +76,7 @@
    "iso": "2026-09-01T14:14:40.000Z",
    "link": "https://www.facebook.com/PhilippineSTAR/posts/gracias-capit%C3%A1n-argentina-superstar-lionel-messi-announced-his-retirement-from-i/1607530001410873/",
    "lede": "GRACIAS, CAPITÁN 🐐🇦🇷 Argentina superstar Lionel Messi announced his retirement from international soccer on Monday, ending 21 years of national-team duty that were capped by winning the World Cup in 2022 to secure his",
-   "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/789426419_900682922810126_9115810218923519669_n.png?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s600x600&_nc_cat=102&ccb=1-7&_nc_sid=cae128&_nc_ohc=z427_O_bm9IQ7kNvwF0arKz&_nc_oc=Adq02MCOTVMsY7Ltni7IIZ2NEHYdC9n97fFA-ZhmpfMLaP6eT8U5WZEEyzomIuse0CA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=UhcfvAjceu4S4DWkXlVfdg&_nc_ss=7f289&oh=00_AQL3xnq1oSZX0zKhuIgPXJKBuc9CVB6mD1G-lHig8V38UA&oe=6A9CBA28",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "INKL",
-   "title": "Joshua Kushner regrets involvement in World Cup sell-off plan",
-   "iso": "2026-09-01T13:29:57.000Z",
-   "link": "https://www.inkl.com/news/joshua-kushner-regrets-involvement-in-world-cup-sell-off-plan",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Five thoughts on Nebraska football as Matt Rhule’s fourth season nears",
-   "iso": "2026-09-01T12:00:27.000Z",
-   "link": "https://www.nytimes.com/athletic/7555148/2026/09/01/nebraska-football-season-opener-matt-rhule/",
-   "lede": "After a subdued offseason, Nebraska opens 2026 against Ohio on Saturday. Here's what to take away from Matt Rhule's Monday presser.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/01055550/2025-10-13T171254Z_1186485083_MT1USATODAY27314664_RTRMADP_3_NCAA-FOOTBALL-NEBRASKA-AT-MARYLAND.jpg?width=1200&height=630&fit=cover",
+   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/789426419_900682922810126_9115810218923519669_n.png?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s600x600&_nc_cat=102&ccb=1-7&_nc_sid=cae128&_nc_ohc=z427_O_bm9IQ7kNvwFVKqAc&_nc_oc=AdpHtZDp4Aegy3jmQLlG7lYw9-X3WMFJCnYaFNvjTSRV_v5noAUcfYV5WT3-HK26PS8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=ajhdVHUvZGKx20Fd1svsiQ&_nc_ss=7f289&oh=00_AQJMkifCuZUkogJ5Sbxk2IBvt7K-CVX2nMESS5bFap1FIg&oe=6A9CBA28",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
