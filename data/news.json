@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T23:29:28.734Z",
+ "updated": "2026-09-01T23:34:57.775Z",
  "news": [
   {
    "cat": "FOX SPORTS",
@@ -12,32 +12,32 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "STANDARD.CO.UK",
-   "title": "Lionel Messi confirms international retirement after Argentina's World Cup heartbreak",
-   "iso": "2026-09-01T21:14:41.000Z",
-   "link": "https://www.standard.co.uk/sport/football/messi-international-retirement-b1295260.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Argentina legend Lionel Messi has called time on his international football career after falling short in the 2026 World Cup final. Messi retires having scored 125 goals in 207 appearances for his nation, with July’s World Cup final defeat by Spain his final match for the Albiceleste.",
-   "image": "https://static.standard.co.uk/2026/07/19/23/2286227756..?width=1200&auto=webp&quality=75",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "THE FOOTBALL WEEK",
    "title": "Football Legends and the Power of World Cup Nostalgia",
    "iso": "2026-09-01T18:11:30.000Z",
    "link": "https://thefootballweek.com/2026/09/01/football-legends-marketing/",
    "lede": "The 2026 World Cup has come to an end, and there is good reason people are talking about what a success it was. Revenues are estimated to be between USD 13.5 billion and USD 15 billion for the entire 2023–2026 cycle, surpassing the USD 11 billion expectation for this period. Another of the hottest talking points was the “Americanization” of the tournament featuring the “4 quarters” due to controversial hydration breaks, the halftime show at the final, and shots of celebrities in the stands during the broadcast, all typical of U.S. sports. In addition to the FIFA president, who appeared in broadcasts during the 9th minute of every match, the legends stole the spotlight.",
    "image": "https://cdn.thefootballweek.com/wp-content/uploads/2026/09/Ronaldinho.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "SOUTH CHINA MORNING POST",
+   "title": "Key investor Kushner blames football power struggle for World Cup plan collapse",
+   "iso": "2026-09-01T14:30:07.000Z",
+   "link": "https://amp.scmp.com/sport/football/article/3366014/key-investor-kushner-blames-football-power-struggle-world-cup-plan-collapse",
+   "lede": "Investor Joshua Kushner has blamed power struggles within global football for the outrage over Fifa’s plan to sell stakes in the World Cup, admitting his firm “would not have gotten involved” if it had anticipated the backlash. The first comments by venture capitalist Kushner – the brother of Jared Kushner, son-in-law of US President Donald Trump – since the plan collapsed came on Monday, as European governing body Uefa prepares a criminal case against Fifa president Gianni Infantino. “While we stand behind the motivations of FFE [Fifa Forward Enterprise], we failed to appreciate the political dynamics of global football, and the lengths some would go to,” Kushner said in a statement.",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/02/88c049a9-268e-4d31-921d-b6d60d99bb02_959db2d2.jpg?itok=fvJBmsGa&v=1788280551",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-   "iso": "2026-09-01T17:26:00.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers",
-   "lede": "All the updates from the summer transfer window’s final day for Premier League, La Liga and the rest of Europe’s clubs. Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina. A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours. Messi retires as one of the greatest players of all time after a glittering and decades-long career for Argentina.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T101737Z_606142246_UP1EM910SLC0Z_RTRMADP_3_SOUTH-AFRICA-SOCCER-MOSIMANE-1788282514.jpg?resize=1920%2C1440",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Folarin Balogun’s move to Everton called off after USMNT striker decides against move",
+   "iso": "2026-09-01T23:21:03.000Z",
+   "link": "https://www.nytimes.com/athletic/7557457/2026/09/01/balogun-everton-transfer-off-usmnt/",
+   "lede": "Everton’s move for Folarin Balogun is off after the United States international decided against the move.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/05222713/2026-07-02T022932Z_593753469_UP1EM7202BKXF_RTRMADP_3_SOCCER-WORLDCUP-USA-BIH.jpg?width=1200&height=630&fit=cover",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -72,11 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ABS-CBN",
-   "title": "Six defining moments of Lionel Messi's Argentina career",
-   "iso": "2026-09-01T17:13:55.000Z",
-   "link": "https://www.abs-cbn.com/sports/othersports/2026/9/1/six-defining-moments-of-lionel-messi-s-argentina-career-1451",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
+   "iso": "2026-09-01T17:28:32.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers",
+   "lede": "Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T101737Z_606142246_UP1EM910SLC0Z_RTRMADP_3_SOUTH-AFRICA-SOCCER-MOSIMANE-1788282514.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
