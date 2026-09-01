@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T21:22:38.673Z",
+ "updated": "2026-09-01T21:24:52.765Z",
  "news": [
   {
    "cat": "THE FOOTBALL WEEK",
@@ -12,22 +12,22 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-   "iso": "2026-09-01T17:26:00.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers",
-   "lede": "Live updates and news from all signings as Premier League targets Alvarez, Balogun and Gakpo. Jesus moves to Barcelona. Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina. A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T101737Z_606142246_UP1EM910SLC0Z_RTRMADP_3_SOUTH-AFRICA-SOCCER-MOSIMANE-1788282514.jpg?resize=1920%2C1440",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "SPORTSTAR",
    "title": "Egypt coach Hossam Hassan extends contract until 2030",
    "iso": "2026-09-01T16:55:20.000Z",
    "link": "https://sportstar.thehindu.com/football/international-football/egypt-coach-hossam-hassan-contract-extension-2030-world-cup-afcon/article71416803.ece",
    "lede": "REUTERS REUTERS https://ss-i.thgim.com/public/incoming/yq64h6/article71416798.ece/alternates/FREE_1200/2026-06-22T031900Z_1800468031_UP1EM6M097MYN_RTRMADP_3_SOCCER-WORLDCUP-NZL-EGY.JPG LEE SMITH Soccer Football - FIFA World Cup 2026 - Group G - New Zealand v Egypt - BC Place, Vancouver, Canada - June 21, 2026 Egypt coach Hossam Hassan runs onto the pitch waving their national flag after the match REUTERS/Lee Smith The 60-year-old has been handed a new deal after guiding Egypt to the 2026 World Cup round of 16 and the semifinals of the 2025 Africa Cup of Nations. CHENNAI Egypt head coach Hossam Hassan has extended his contract with the national team until 2030, the Egyptian Football Association announced on Tuesday. The 60-year-old, who took charge in 2024, has overseen a period of improved results for Egypt, including a run to the round of 16 at the 2026 FIFA World Cup.",
    "image": "https://ss-i.thgim.com/public/incoming/yq64h6/article71416798.ece/alternates/LANDSCAPE_1200/2026-06-22T031900Z_1800468031_UP1EM6M097MYN_RTRMADP_3_SOCCER-WORLDCUP-NZL-EGY.JPG",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "The world is chasing the Americans. Plus: Fifth years can return in NCAA?",
+   "iso": "2026-09-01T20:46:38.000Z",
+   "link": "https://www.nytimes.com/athletic/7556891/2026/09/01/fiba-world-cup-team-usa-no-offseason/",
+   "lede": "Welcome to No Offseason, The Athletic's women's basketball newsletter.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/01164458/GettyImages-2292768574-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,21 +52,21 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "AL JAZEERA",
+   "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
+   "iso": "2026-09-01T17:28:32.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers",
+   "lede": "Pitso Mosimane replaces Hugo Broos as manager of the South Africa national football team following World Cup exit.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T101737Z_606142246_UP1EM910SLC0Z_RTRMADP_3_SOUTH-AFRICA-SOCCER-MOSIMANE-1788282514.jpg?resize=1920%2C1440",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "ABS-CBN",
    "title": "Six defining moments of Lionel Messi's Argentina career",
    "iso": "2026-09-01T17:13:55.000Z",
    "link": "https://www.abs-cbn.com/sports/othersports/2026/9/1/six-defining-moments-of-lionel-messi-s-argentina-career-1451",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Late-round fantasy football draft picks, takeaways from roster updates",
-   "iso": "2026-09-01T17:02:55.000Z",
-   "link": "https://www.nytimes.com/athletic/7556192/2026/09/01/late-round-fantasy-football-draft-picks-takeaways-from-roster-updates/",
-   "lede": "The next generation of NFL leaders, plus Jake Ciely's top late-round fantasy picks and takeaways from roster cutdown day.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/01125925/GettyImages-2287500655.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
