@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T18:33:19.389Z",
+ "updated": "2026-09-01T18:36:43.334Z",
  "news": [
   {
    "cat": "THE FOOTBALL WEEK",
@@ -12,12 +12,12 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "STANDARD.CO.UK",
-   "title": "Lionel Messi confirms international retirement after Argentina's World Cup heartbreak",
-   "iso": "2026-09-01T15:14:41.000Z",
-   "link": "https://www.standard.co.uk/sport/football/messi-international-retirement-b1295260.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Argentina legend Lionel Messi has called time on his international football career after falling short in the 2026 World Cup final. Messi retires having scored 125 goals in 207 appearances for his nation, with July’s World Cup final defeat by Spain his final match for the Albiceleste.",
-   "image": "https://static.standard.co.uk/2026/07/19/23/2286227756..?width=1200&auto=webp&quality=75",
+   "cat": "SPORTSTAR.THEHINDU.COM",
+   "title": "Egypt coach Hossam Hassan extends contract until 2030",
+   "iso": "2026-09-01T16:55:20.000Z",
+   "link": "https://sportstar.thehindu.com/football/international-football/egypt-coach-hossam-hassan-contract-extension-2030-world-cup-afcon/article71416803.ece",
+   "lede": "REUTERS REUTERS https://ss-i.thgim.com/public/incoming/yq64h6/article71416798.ece/alternates/FREE_1200/2026-06-22T031900Z_1800468031_UP1EM6M097MYN_RTRMADP_3_SOCCER-WORLDCUP-NZL-EGY.JPG LEE SMITH Soccer Football - FIFA World Cup 2026 - Group G - New Zealand v Egypt - BC Place, Vancouver, Canada - June 21, 2026 Egypt coach Hossam Hassan runs onto the pitch waving their national flag after the match REUTERS/Lee Smith The 60-year-old has been handed a new deal after guiding Egypt to the 2026 World Cup round of 16 and the semifinals of the 2025 Africa Cup of Nations. CHENNAI Egypt head coach Hossam Hassan has extended his contract with the national team until 2030, the Egyptian Football Association announced on Tuesday. The 60-year-old, who took charge in 2024, has overseen a period of improved results for Egypt, including a run to the round of 16 at the 2026 FIFA World Cup.",
+   "image": "https://ss-i.thgim.com/public/incoming/yq64h6/article71416798.ece/alternates/LANDSCAPE_1200/2026-06-22T031900Z_1800468031_UP1EM6M097MYN_RTRMADP_3_SOCCER-WORLDCUP-NZL-EGY.JPG",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "THE INDEPENDENT",
+   "title": "Joshua Kushner regrets involvement in World Cup sell-off plan",
+   "iso": "2026-09-01T13:29:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/joshua-kushner-fifa-world-cup-selloff-donald-trump-infantino-b3042673.html",
+   "lede": "Kushner, the brother of Donald Trump’s son-in-law Jared Kushner, admits he ‘failed to appreciate the political dynamics of global football’ when he backed the controversial plans of under-fire Fifa president Gianni Infantino. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/09/01/11/2212164535..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "‘The Athletic Football Show’ previews the 2026 Miami Dolphins",
    "iso": "2026-09-01T18:00:44.000Z",
    "link": "https://www.nytimes.com/athletic/7554543/2026/09/01/the-athletic-football-show-previews-the-2026-miami-dolphins/",
    "lede": "The Dolphins are staring a full rebuild in the face beginning with the 2026 season.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/13204840/GettyImages-2289053522.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "ABS-CBN",
@@ -47,8 +57,8 @@
    "iso": "2026-09-01T17:13:55.000Z",
    "link": "https://www.abs-cbn.com/sports/othersports/2026/9/1/six-defining-moments-of-lionel-messi-s-argentina-career-1451",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -57,8 +67,8 @@
    "link": "https://www.nytimes.com/athletic/7556192/2026/09/01/late-round-fantasy-football-draft-picks-takeaways-from-roster-updates/",
    "lede": "The next generation of NFL leaders, plus Jake Ciely's top late-round fantasy picks and takeaways from roster cutdown day.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/01125925/GettyImages-2287500655.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -67,15 +77,6 @@
    "link": "https://www.nytimes.com/athletic/7554528/2026/09/01/the-athletic-football-show-previews-the-2026-new-york-jets/",
    "lede": "The Jets have enough on offense to make some noise this season ... if Geno Smith can live up to his end of the bargain.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/31115901/AP26236725770668-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "ABS-CBN",
-   "title": "Filipinas blaze trail in historic Women's Baseball World Cup debut",
-   "iso": "2026-09-01T16:06:26.000Z",
-   "link": "https://www.abs-cbn.com/sports/othersports/2026/9/1/filipinas-blaze-trail-in-historic-women-s-baseball-world-cup-debut-1638",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
