@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-01T05:42:03.565Z",
+ "updated": "2026-09-01T05:44:12.255Z",
  "news": [
   {
-   "cat": "1NEWS.CO.NZ",
+   "cat": "1NEWS",
    "title": "'The time has come': Lionel Messi retires from international football",
    "iso": "2026-09-01T05:30:29.000Z",
    "link": "https://www.1news.co.nz/2026/09/01/the-time-has-come-lionel-messi-retires-from-international-football/",
@@ -42,41 +42,42 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "LONDON EVENING STANDARD",
-   "title": "Lionel Messi confirms international retirement after Argentina's World Cup heartbreak",
-   "iso": "2026-09-01T03:14:41.000Z",
-   "link": "https://www.standard.co.uk/sport/football/messi-international-retirement-b1295260.html",
-   "lede": "This content is provided by Exco Player and may use cookies or similar technologies. Please click 'Allow and Continue' below to load the content. Argentina legend Lionel Messi has called time on his international football career after falling short in the 2026 World Cup final. Messi retires having scored 125 goals in 207 appearances for his nation, with July’s World Cup final defeat by Spain his final match for the Albiceleste.",
-   "image": "https://static.standard.co.uk/2026/07/19/23/2286227756..?width=1200&auto=webp&quality=75",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DESHSANCHAR",
-   "title": "Lionel Messi retires from international football after World Cup final loss",
-   "iso": "2026-09-01T03:05:11.000Z",
-   "link": "https://english.deshsanchar.com/lionel-messi-retires-from-international-football-after-world-cup-final-loss/",
-   "lede": "Lionel Messi, the captain and star footballer of Argentina, has announced his retirement from international football. This decision comes nearly two months after Argentina’s defeat to Spain in the World Cup final held in America. At 39, Messi has decided to conclude his journey with the national team. Messi debuted for Argentina’s national team in 2005 and led them to a World Cup victory in 2022.",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SBS",
+   "cat": "SBS.COM.AU",
    "title": "SBS confirmed as Australia's home of the 2030 FIFA World Cup",
    "iso": "2026-09-01T02:46:48.000Z",
    "link": "https://www.sbs.com.au/news/article/sbs-confirmed-as-australias-home-of-the-2030-fifa-world-cup/6p9kbuge1",
    "lede": "Football-loving Australians will have access to all 104 matches of the 2030 tournament via SBS television, video and radio programming. SBS managing director Jane Palfreyman said the broadcaster is \"without question\" Australia’s home of the World Cup. \"The FIFA World Cup is one of the few sporting events that truly brings Australians together across all cultures, languages and communities,\" she said. \"In 2030 audiences will once again be able to experience every match live and free on SBS.\"",
    "image": "https://assets.sbs.com.au/dims4/default/fbcbc0c/2147483647/strip/true/crop/5199x2925+1+387/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc2%2Ff8%2F5c4873664fa89cbe5b7df826dfff%2Fgettyimages-2283681469.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "NEWS18",
+   "title": "Lionel Messi's Argentina Story: Heartbreak, Redemption And World Cup Glory",
+   "iso": "2026-09-01T01:48:40.000Z",
+   "link": "https://www.news18.com/sports/football/six-defining-moments-from-lionel-messis-argentina-career-world-cup-fifa-ws-l-10303058.html",
+   "lede": "Lionel Messi’s international career has come to an end, closing a remarkable chapter that began more than two decades ago and stretched beyond 200 appearances for Argentina. From a disastrous debut to World Cup heartbreak, near misses and, finally, the biggest prizes in the game, these were the moments that shaped Messi’s story with the national team. Here’s a look back A Blink And Miss Debut Messi first pulled on an Argentina shirt in 2005, aged just 18. His senior debut lasted barely two minutes.",
+   "image": "https://images.news18.com/ibnlive/uploads/2026/09/lionel-messi-world-cup-qatar-reuters-2026-09-5feca46cdad201dd311b7ee310a76232-1200x675.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "INDIA TODAY",
+   "title": "Lionel Messi and Argentina: A love story that changed international football forever",
+   "iso": "2026-09-01T01:23:07.000Z",
+   "link": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-retirement-love-story-changed-international-fifa-world-cup-2984149-2026-09-01",
+   "lede": "Lionel Messi and Argentina's story was never a straightforward one. It began with a choice, endured years of heartbreak and came alive with glory before finally reaching its bittersweet ending. As Messi says goodbye to the Albiceleste, football's greatest love story comes to a close.",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/lionel-messi-0121457-16x9_0.jpg?VersionId=1Tk2TSeu9PDc33VwAPWlxhsHCZImpjrx",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TRINIDAD EXPRESS NEWSPAPERS",
-   "title": "Messi calls time on international career with World Cup title and 125 goals",
-   "iso": "2026-09-01T01:45:00.000Z",
-   "link": "https://trinidadexpress.com/sports/world/messi-calls-time-on-international-career-with-world-cup-title-and-125-goals/article_a1ba1a3e-edfc-4600-80bf-36da76f02102.amp.html",
-   "lede": "Argentina superstar Lionel Messi announced his retirement from international football on Monday, ending 21 years of national-team duty that were capped by winning the World Cup in 2022 to secure his place in the pantheon of the game’s greatest ever players. “It was a decision that hurt — and still hurts deeply — but I understand that the time has come,” the 39-year-old Messi said on his Instagram account. Messi, who will continue to play at club level with Inter Miami in Major League Soccer, played in a record-tying six World Cups. He won it four years ago in a tournament he dominated in Qatar and also led Argentina to the title match in 2014 and again this year, when the Albiceleste lost to Spain in extra time in New Jersey.",
-   "image": "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/6/09/60970033-1371-4f37-b49f-7122c8192d23/6a9623c3e2f57.image.jpg?crop=1440%2C756%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+   "cat": "ABC.NET.AU",
+   "title": "Messi's legendary run for Argentina almost never happened after heartbreak",
+   "iso": "2026-09-01T00:21:33.000Z",
+   "link": "https://www.abc.net.au/news/2026-09-01/lionel-messi-argentina-world-up-success-almost-never-happened/107100750",
+   "lede": "Lionel Messi rose to the legendary status of Diego Maradona, but the road to glory started with heartbreak. (Getty Images: Anychance/Simon Bruty). Lionel Messi's retirement from the Argentina national side brings down the curtain on one of world football's most storied international careers. The records and achievements of Messi are stuff of legend, and his status in international sport is reserved for only the very greatest of their craft.",
+   "image": "https://live-production.wcms.abc-cdn.net.au/c81a6f6a9ac1f83e903e8497c86bcfbf?impolicy=wcms_watermark_news&cropH=2136&cropW=3797&xPos=0&yPos=198&width=862&height=485&imformat=generic",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
