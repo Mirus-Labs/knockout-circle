@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T15:18:43.198Z",
+ "updated": "2026-09-02T15:21:32.261Z",
  "news": [
   {
    "cat": "TEMPO.CO ENGLISH",
@@ -21,24 +21,14 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "ACLSPORTS",
-   "title": "FIFA Women’s World Cup 2027: Key details ahead of the tournament",
-   "iso": "2026-09-02T12:27:29.000Z",
-   "link": "https://www.aclsports.com/fifa-womens-world-cup-2027-key-details-ahead-of-the-tournament/",
-   "lede": "The FIFA Women’s World Cup 2027 will mark the 10th edition and will be held in Brazil for the first time, with several key details already confirmed ahead of the tournament, www.aclsports.com reports. Taking place from 24 June to 25 July 2027, the competition will feature 32 teams vying for the title, with matches to be played across eight host cities: Brasília, Porto Alegre, Recife, Salvador, Belo Horizonte, Fortaleza, Rio de Janeiro and São Paulo. Among the key venues is the Maracanã Stadium in Rio de Janeiro, which will host both the opening match and the final. The Final Draw is scheduled for Friday, 11 December 2026, at the Museum of Modern Art in Rio de Janeiro, where the teams will be drawn into their respective groups.",
-   "image": "https://www.aclsports.com/wp-content/uploads/2026/09/24-08-2026-Workshop-para-Cidades-sede-e-Estadios-6672-scaled-e1788351232191.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "ONEFOOTBALL",
    "title": "Portugal women gear up for U20 World Cup as U18s win Mediterranean Tournament",
    "iso": "2026-09-02T12:12:49.000Z",
    "link": "https://onefootball.com/en/news/portugal-women-gear-up-for-u20-world-cup-as-u18s-win-mediterranean-tournament-43388623",
    "lede": "Report – FIFA World Cup influences Flick’s rotations at Barcelona this season. Preview: Juventus Women vs Como Women | Serie A Women's Cup. Nordic FAs urge EU action over FIFA governance under Infantino. Nordic federations urge Brussels to intervene over FIFA and Gianni Infantino.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43388623%3Fdate=2026-09-02",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "1NEWS",
@@ -47,8 +37,8 @@
    "link": "https://www.1news.co.nz/2026/09/01/the-time-has-come-lionel-messi-retires-from-international-football/",
    "lede": "Argentina superstar Lionel Messi announced his retirement from international football, ending 21 years of national-team duty that were capped by winning the World Cup in 2022 to secure his place in the pantheon of the game's greatest ever players. “It was a decision that hurt — and still hurts deeply — but I understand that the time has come,” the 39-year-old Messi said on his Instagram account. Messi, who will continue to play at club level with Inter Miami in Major League Soccer, played in a record-tying six World Cups. He won it four years ago in a tournament he dominated in Qatar and also led Argentina to the title match in 2014 and again this year, when the Albiceleste lost to Spain in extra time in New Jersey.",
    "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/lionel-messi-world-cup-trophy-AMJORNFYLJGEFP7HDQZ4SNFWXY.jpg?auth=4f999730abaf01397cf6c347f77c17c840aa904d5c1db7ccf80217dde724cca5&quality=70&width=600&height=315&focal=925%2C438",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "AL JAZEERA",
@@ -57,8 +47,8 @@
    "link": "https://www.aljazeera.com/amp/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain",
    "lede": "Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina. A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours. Messi retires as one of the greatest players of all time after a glittering and decades-long career for Argentina. Messi led Argentina to World Cup glory in 2022, but his side lost 1-0 to Spain in the 2026 final.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-19T175401Z_617545773_UP1EM7J1DPZJY_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1788345296.jpg?resize=1920%2C1440",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FLEETOWNER",
@@ -67,14 +57,23 @@
    "link": "https://www.fleetowner.com/operations/article/55402275/world-cup-traffic-lessons-for-american-football-season-congestion",
    "lede": "From proactive fleet alerts to parking management, Atlanta’s World Cup traffic strategy offers vital lessons for keeping roads moving this football season.",
    "image": "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2026/09/6a981a17a75a65efaf616427-dreamstime_xxl_282240595.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SBCNEWS.CO.UK",
    "title": "BETBY transfers World Cup insights into new football season",
    "iso": "2026-09-02T13:00:00.000Z",
    "link": "https://sbcnews.co.uk/sportsbook/2026/09/02/betby-world-cup/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "ACLSPORTS",
+   "title": "FIFA Women’s World Cup 2027: Key details ahead of the tournament",
+   "iso": "2026-09-02T12:27:29.000Z",
+   "link": "https://www.aclsports.com/fifa-womens-world-cup-2027-key-details-ahead-of-the-tournament/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
