@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-02T18:58:11.629Z",
+ "updated": "2026-09-02T21:38:52.456Z",
  "news": [
+  {
+   "cat": "STARNEWSKOREA.COM",
+   "title": "'Predicted Tragedy': North America and Central America World Cup Failure, Where Did Korean Football Begin to Collapse? [Founding Issue ①]",
+   "iso": "2026-09-02T21:01:00.000Z",
+   "link": "https://www.starnewskorea.com/en/sports/2026/09/03/2026082807473595940",
+   "lede": "Korean football has faced chaos and crisis, from the collapse of the national team system to the mass resignation of top officials, and the ongoing administrative turmoil of the Football Association still struggling to find a way out. StarNews examines the root causes of the crisis facing Korean football and diagnoses the path toward restoring broken trust and achieving normalization. Editor's Note Following the disastrous performance at the 2026 FIFA World Cup in North America and Central America, Korean football has plunged into uncontrollable chaos. Just four years ago, under former coach Paulo Bento, a system built on solid processes and systematic support had secured qualification for the Round of 16 at the 2022 Qatar World Cup — yet that entire framework has now vanished without a trace.",
+   "image": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1610,fit=cover,q=high,sharpen=2/21/2026/08/2026082807473595940_1.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "KUWAIT TIMES",
    "title": "Messi departure leaves Argentina facing rebuild after golden era",
@@ -8,8 +18,8 @@
    "link": "https://kuwaittimes.com/article/49093/sports/football/messi-departure-leaves-argentina-facing-rebuild-after-golden-era/",
    "lede": "BUENOS AIRES: Argentina face a testing transition period as they attempt to move on from Lionel Messi’s international retirement, with question marks also hanging over the futures of coach Lionel Scaloni and several ageing players. Messi vacated the famous number 10 shirt on Monday, after 21 years of carrying Argentinian hopes on his shoulders. It was a burden that weighed heavily initially, before a golden era late in his career during which the South American giants won three major titles, including the 2022 World Cup. The 39-year-old’s last competitive match for Argentina was the 1-0 loss to Spain in the World Cup final in July.",
    "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/09/02/438312.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "DAILY MIRROR",
@@ -18,18 +28,28 @@
    "link": "https://www.mirror.co.uk/sport/football/leandro-paredes-fifa-argentina-retire-37620818.amp",
    "lede": "Argentina’s Leandro Paredes has hinted that he could retire from international duty after being slapped with a 10-match ban. The Boca Juniors midfielder sparked an ugly brawl after the South American nation’s World Cup final defeat by Spain. He shoved Spain star Gavi to the floor and faced three FIFA assault charges. After an investigation, FIFA handed him a 10-match ban and Paredes has now suggested that he might have made his last appearance for his country due that suspension, as well as Lionel Messi’s decision to hang up his boots for Argentina.",
    "image": "https://i2-prod.mirror.co.uk/incoming/article37620824.ece/ALTERNATES/s1200/0_GettyImages-2292057424.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE SUN",
+   "cat": "THESUN.CO.UK",
    "title": "Argentina thug may retire from international duty rather than serve 10-game ban",
    "iso": "2026-09-02T15:10:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40250321/leandro-paredes-retire-argentina-world-cup-ban/",
    "lede": "LEANDRO PAREDES is set to announce his retirement from international football – just weeks after making himself the villain of the World Cup. The midfielder, 32, was at the centre of a mass brawl following Argentina’s loss to Spain in the final. Paredes was slapped with a TEN-game ban and a £66,000 fine after being spotted throwing punches before violently shoving Gavi to the floor. But the shameless thug, who was hit with three assault charges, has hinted he is not planning to serve the lengthy suspension.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/crop-40250788.jpg?quality=90&strip=all&1788364185&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "Argentina 24-31 England: Head coach Felipe Contepomi says visitors showed 'lack of respect' and walks out of press conference | Rugby Union News",
+   "iso": "2026-09-02T13:29:01.000Z",
+   "link": "https://www.skysports.com/rugby-union/news/12321/13564861/argentina-24-31-england-head-coach-felipe-contepomi-says-visitors-showed-lack-of-respect-and-walks-out-of-press-conference",
+   "lede": "Argentina head coach Felipe Contepomi stormed out of his press conference and accused England of showing a \"lack of respect\" following Saturday's controversial Nations Championship clash. Contepomi took exception to the music and cheering that could be heard coming from England's dressing room as they celebrated a 31-24 win in Santiago del Estero. He asked the England representative present in the room to make the noise stop, but then lost patience and left after only four minutes of the press conference saying that he was leaving because of the \"lack of respect\" being shown. It was the final controversial moment on an evening that had seen seven players sent to the sin bin, Falklands Islands banners in the crowd and a disallowed try in the third minute of overtime that, if converted, would have snatched a draw for Argentina.",
+   "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-argentina_7301106.jpg?20260718213345",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "TEMPO.CO ENGLISH",
@@ -37,18 +57,18 @@
    "iso": "2026-09-02T13:25:00.000Z",
    "link": "https://en.tempo.co/amp/2118824/lionel-messi-bids-farewell-a-look-at-his-records-and-major-titles",
    "lede": "TEMPO.CO, Jakarta - Lionel Messi has ended his international career with Argentina after 21 years, leaving behind a remarkable collection of records and trophies. The 39-year-old forward retires as Argentina’s most-capped player and leading goalscorer. La Pulga has broken a number of records and earned many titles throughout his career. Here are some of Messi's accomplishments, according to Al Jazeera.",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "ONEFOOTBALL",
+   "cat": "ONEFOOTBALL.COM",
    "title": "Portugal women gear up for U20 World Cup as U18s win Mediterranean Tournament",
    "iso": "2026-09-02T12:12:49.000Z",
    "link": "https://onefootball.com/en/news/portugal-women-gear-up-for-u20-world-cup-as-u18s-win-mediterranean-tournament-43388623",
-   "lede": "Report – FIFA World Cup influences Flick’s rotations at Barcelona this season. Preview: Juventus Women vs Como Women | Serie A Women's Cup. Nordic FAs urge EU action over FIFA governance under Infantino. Nordic federations urge Brussels to intervene over FIFA and Gianni Infantino.",
+   "lede": "Report – FIFA World Cup influences Flick’s rotations at Barcelona this season. Preview: Juventus Women vs Como Women | Serie A Women's Cup. Samuel Eto'o backs Gianni Infantino for 2027 FIFA vote, questions UEFA's stance. Nordic FAs urge EU action over FIFA governance under Infantino.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43388623%3Fdate=2026-09-02",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "REDIFF",
@@ -57,26 +77,6 @@
    "link": "https://m.rediff.com/amp/sports/report/india-vs-brazil-where-and-how-to-buy-match-tickets/20260902.htm",
    "lede": "Indian football is set for a historic period as the national team prepares to host global powerhouses Brazil, Panama, and Uruguay in a series of high-stakes international friendly matches.IMAGE: The October 3 fixture at the Salt Lake Stadium would mark Brazils first-ever match on Indian soil. Photograph: AIFF/XKey PointsIndias mens national football team will play three major international friendlies in September and October.Opponents include five-time world champions Brazil, World Cup-playing nation Panama, and two-time world champions Uruguay.The match against Brazil in Kolkata on October 3 marks the highest-ranked opposition India has faced since 1992. Tickets for the India vs.",
    "image": "https://im.rediff.com/1200-630/sports/2026/jul/30india-brazil.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "1NEWS",
-   "title": "'The time has come': Lionel Messi retires from international football",
-   "iso": "2026-09-02T11:11:55.000Z",
-   "link": "https://www.1news.co.nz/2026/09/01/the-time-has-come-lionel-messi-retires-from-international-football/",
-   "lede": "Argentina superstar Lionel Messi announced his retirement from international football, ending 21 years of national-team duty that were capped by winning the World Cup in 2022 to secure his place in the pantheon of the game's greatest ever players. “It was a decision that hurt — and still hurts deeply — but I understand that the time has come,” the 39-year-old Messi said on his Instagram account. Messi, who will continue to play at club level with Inter Miami in Major League Soccer, played in a record-tying six World Cups. He won it four years ago in a tournament he dominated in Qatar and also led Argentina to the title match in 2014 and again this year, when the Albiceleste lost to Spain in extra time in New Jersey.",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/lionel-messi-world-cup-trophy-AMJORNFYLJGEFP7HDQZ4SNFWXY.jpg?auth=4f999730abaf01397cf6c347f77c17c840aa904d5c1db7ccf80217dde724cca5&quality=70&width=600&height=315&focal=925%2C438",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Messi retirement and FIFA ban leave Paredes uncertain of Argentina future",
-   "iso": "2026-09-02T10:56:41.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain",
-   "lede": "Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina. A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours. Messi retires as one of the greatest players of all time after a glittering and decades-long career for Argentina. Messi led Argentina to World Cup glory in 2022, but his side lost 1-0 to Spain in the 2026 final.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-19T175401Z_617545773_UP1EM7J1DPZJY_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1788345296.jpg?resize=1920%2C1440",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
