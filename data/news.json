@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T18:52:39.759Z",
+ "updated": "2026-09-02T18:58:11.629Z",
  "news": [
   {
    "cat": "KUWAIT TIMES",
@@ -51,32 +51,32 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "REDIFF",
+   "title": "India vs Brazil: Where and how to buy match tickets",
+   "iso": "2026-09-02T12:10:06.000Z",
+   "link": "https://m.rediff.com/amp/sports/report/india-vs-brazil-where-and-how-to-buy-match-tickets/20260902.htm",
+   "lede": "Indian football is set for a historic period as the national team prepares to host global powerhouses Brazil, Panama, and Uruguay in a series of high-stakes international friendly matches.IMAGE: The October 3 fixture at the Salt Lake Stadium would mark Brazils first-ever match on Indian soil. Photograph: AIFF/XKey PointsIndias mens national football team will play three major international friendlies in September and October.Opponents include five-time world champions Brazil, World Cup-playing nation Panama, and two-time world champions Uruguay.The match against Brazil in Kolkata on October 3 marks the highest-ranked opposition India has faced since 1992. Tickets for the India vs.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/jul/30india-brazil.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "1NEWS",
+   "title": "'The time has come': Lionel Messi retires from international football",
+   "iso": "2026-09-02T11:11:55.000Z",
+   "link": "https://www.1news.co.nz/2026/09/01/the-time-has-come-lionel-messi-retires-from-international-football/",
+   "lede": "Argentina superstar Lionel Messi announced his retirement from international football, ending 21 years of national-team duty that were capped by winning the World Cup in 2022 to secure his place in the pantheon of the game's greatest ever players. “It was a decision that hurt — and still hurts deeply — but I understand that the time has come,” the 39-year-old Messi said on his Instagram account. Messi, who will continue to play at club level with Inter Miami in Major League Soccer, played in a record-tying six World Cups. He won it four years ago in a tournament he dominated in Qatar and also led Argentina to the title match in 2014 and again this year, when the Albiceleste lost to Spain in extra time in New Jersey.",
+   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/lionel-messi-world-cup-trophy-AMJORNFYLJGEFP7HDQZ4SNFWXY.jpg?auth=4f999730abaf01397cf6c347f77c17c840aa904d5c1db7ccf80217dde724cca5&quality=70&width=600&height=315&focal=925%2C438",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "AL JAZEERA",
    "title": "Messi retirement and FIFA ban leave Paredes uncertain of Argentina future",
    "iso": "2026-09-02T10:56:41.000Z",
    "link": "https://www.aljazeera.com/amp/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain",
    "lede": "Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina. A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours. Messi retires as one of the greatest players of all time after a glittering and decades-long career for Argentina. Messi led Argentina to World Cup glory in 2022, but his side lost 1-0 to Spain in the 2026 final.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-19T175401Z_617545773_UP1EM7J1DPZJY_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1788345296.jpg?resize=1920%2C1440",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Wings center Li Yueru can’t play with China in World Cup due to lost passport",
-   "iso": "2026-09-02T18:23:17.000Z",
-   "link": "https://www.nytimes.com/athletic/7559795/2026/09/02/wings-china-li-yueru-world-cup-passport/",
-   "lede": "Li posted on social media that her passport was lost in the mail. Team USA plays China on Friday.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02141445/GettyImages-21634961851-scaled-e1788373027439.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Australia road warriors: 49ers fans poised to make a splash in football-mad Melbourne",
-   "iso": "2026-09-02T17:44:42.000Z",
-   "link": "https://www.nytimes.com/athletic/7557372/2026/09/02/nfl-australia-game-49ers-fans/",
-   "lede": "Though the Rams have had marketing rights in Australia since 2021, the 49ers are the most popular team Down Under.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/01201307/GettyImages-2251959190-1-scaled-e1788308023831.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
