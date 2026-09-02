@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T21:51:54.825Z",
+ "updated": "2026-09-02T23:34:18.419Z",
  "news": [
   {
    "cat": "STARNEWSKOREA.COM",
@@ -32,24 +32,34 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THESUN.CO.UK",
-   "title": "Argentina thug may retire from international duty rather than serve 10-game ban",
-   "iso": "2026-09-02T15:10:00.000Z",
-   "link": "https://www.thesun.co.uk/sport/40250321/leandro-paredes-retire-argentina-world-cup-ban/",
-   "lede": "LEANDRO PAREDES is set to announce his retirement from international football – just weeks after making himself the villain of the World Cup. The midfielder, 32, was at the centre of a mass brawl following Argentina’s loss to Spain in the final. Paredes was slapped with a TEN-game ban and a £66,000 fine after being spotted throwing punches before violently shoving Gavi to the floor. But the shameless thug, who was hit with three assault charges, has hinted he is not planning to serve the lengthy suspension.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/crop-40250788.jpg?quality=90&strip=all&1788364185&w=1920&h=1080&crop=1",
+   "cat": "DAILY EXPRESS",
+   "title": "Argentina star ready to retire after FIFA's brutal punishment for World Cup antics",
+   "iso": "2026-09-02T16:50:00.000Z",
+   "link": "https://www.express.co.uk/sport/football/2244934/leandro-paredes-argentina-retirement-punishment",
+   "lede": "Argentina midfielder Leandro Paredes has hinted at retiring from international football, just days after Lionel Messi announced his decision. This comes not long after Paredes found himself at the centre of a mass brawl at the World Cup following Argentina's 1-0 defeat to Spain in the final. The Boca Juniors midfielder was seen throwing punches at full-time before shoving Spain's Gavi to the ground and has been hit with a 10‑match ban and a £66,000 fine by FIFA's disciplinary committee. Defender Nahuel Molina received a seven‑match suspension and the same fine.",
+   "image": "https://cdn.images.express.co.uk/img/dynamic/67/1200x630/7123792.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "SKY SPORTS",
+   "cat": "THE SUN",
+   "title": "Argentina thug may retire from international duty rather than serve 10-game ban",
+   "iso": "2026-09-02T15:10:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40250321/leandro-paredes-retire-argentina-world-cup-ban",
+   "lede": "LEANDRO PAREDES is set to announce his retirement from international football – just weeks after making himself the villain of the World Cup. The midfielder, 32, was at the centre of a mass brawl following Argentina’s loss to Spain in the final. Paredes was slapped with a TEN-game ban and a £66,000 fine after being spotted throwing punches before violently shoving Gavi to the floor. But the shameless thug, who was hit with three assault charges, has hinted he is not planning to serve the lengthy suspension.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/crop-40250788.jpg?quality=90&strip=all&1788364185&w=1920&h=1080&crop=1",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "SKYSPORTS.COM",
    "title": "Argentina 24-31 England: Head coach Felipe Contepomi says visitors showed 'lack of respect' and walks out of press conference | Rugby Union News",
    "iso": "2026-09-02T13:29:01.000Z",
    "link": "https://www.skysports.com/rugby-union/news/12321/13564861/argentina-24-31-england-head-coach-felipe-contepomi-says-visitors-showed-lack-of-respect-and-walks-out-of-press-conference",
    "lede": "Argentina head coach Felipe Contepomi stormed out of his press conference and accused England of showing a \"lack of respect\" following Saturday's controversial Nations Championship clash. Contepomi took exception to the music and cheering that could be heard coming from England's dressing room as they celebrated a 31-24 win in Santiago del Estero. He asked the England representative present in the room to make the noise stop, but then lost patience and left after only four minutes of the press conference saying that he was leaving because of the \"lack of respect\" being shown. It was the final controversial moment on an evening that had seen seven players sent to the sin bin, Falklands Islands banners in the crowd and a disallowed try in the third minute of overtime that, if converted, would have snatched a draw for Argentina.",
    "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-argentina_7301106.jpg?20260718213345",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TEMPO.CO ENGLISH",
@@ -57,16 +67,6 @@
    "iso": "2026-09-02T13:25:00.000Z",
    "link": "https://en.tempo.co/amp/2118824/lionel-messi-bids-farewell-a-look-at-his-records-and-major-titles",
    "lede": "TEMPO.CO, Jakarta - Lionel Messi has ended his international career with Argentina after 21 years, leaving behind a remarkable collection of records and trophies. The 39-year-old forward retires as Argentina’s most-capped player and leading goalscorer. La Pulga has broken a number of records and earned many titles throughout his career. Here are some of Messi's accomplishments, according to Al Jazeera.",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "ONEFOOTBALL.COM",
-   "title": "Portugal women gear up for U20 World Cup as U18s win Mediterranean Tournament",
-   "iso": "2026-09-02T12:12:49.000Z",
-   "link": "https://onefootball.com/en/news/portugal-women-gear-up-for-u20-world-cup-as-u18s-win-mediterranean-tournament-43388623",
-   "lede": "Report – FIFA World Cup influences Flick’s rotations at Barcelona this season. Preview: Juventus Women vs Como Women | Serie A Women's Cup. Samuel Eto'o backs Gianni Infantino for 2027 FIFA vote, questions UEFA's stance. Nordic FAs urge EU action over FIFA governance under Infantino.",
-   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43388623%3Fdate=2026-09-02",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
