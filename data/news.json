@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T23:18:52.725Z",
+ "updated": "2026-09-03T23:34:42.286Z",
  "news": [
   {
    "cat": "DW.COM",
@@ -22,7 +22,7 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THE MIRROR",
+   "cat": "MIRROR.CO.UK",
    "title": "Thomas Tuchel's intensive World Cup inquest as FA prepare major report into England failings",
    "iso": "2026-09-03T20:56:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/england-thomas-tuchel-world-cup-37625505.amp",
@@ -41,24 +41,33 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "THE NEW YORK TIMES",
+   "title": "FIFA accuses UEFA of ‘smear campaign’ against its president Gianni Infantino",
+   "iso": "2026-09-03T22:10:01.000Z",
+   "link": "https://www.nytimes.com/athletic/7562720/2026/09/03/fifa-uefa-infantino-smear-campaign/",
+   "lede": "UEFA filed a legal complaint against FIFA and Infantino on August 27, and FIFA has now responded in kind.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/03121916/infantino-hands-raised-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "TNT SPORTS",
    "title": "FIFA accuses UEFA of 'smear campaign' against Infantino",
    "iso": "2026-09-03T21:37:00.000Z",
    "link": "https://www.tntsports.co.uk/football/world-cup/2026/fifa-forward-enterprise-gianni-infantino-sell-off-plan-uefa-court-filing-ffe_sto23333972/story.shtml",
-   "lede": "FIFA has accused UEFA of running a \"smear campaign against it and its leadership\" in its challenge to a legal move against Gianni Infantino.",
-   "image": "https://imgresizer.tntsports.io/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.tntsports.io/2026/09/03/image-f33d2092-4dc0-44f9-b32a-11dd9a89ce65-85-2560-1440.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "UNC college football GM Michael Lombardi resigning; investigation still ongoing",
    "iso": "2026-09-03T21:07:40.000Z",
    "link": "https://www.nytimes.com/athletic/7488645/2026/09/03/michael-lombardi-unc-resignation/",
-   "lede": "Michael Lombardi is out at UNC, but the investigation has grown beyond the GM and could include inappropriate relationships in the program.",
+   "lede": "Lombardi is out at UNC, but the investigation has grown beyond the GM and could include inappropriate relationships in the football program.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/28153446/GettyImages-2244626387-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -67,15 +76,6 @@
    "link": "https://www.nytimes.com/athletic/7563418/2026/09/03/european-foootball-blanket-bans-fse-supporters-fans/",
    "lede": "European football’s top clubs, leagues and national associations have teamed up with Football Supporters Europe to oppose blanket bans.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/03161532/GettyImages-2244837679-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NEWS24.COM",
-   "title": "FIFA accuses UEFA of ‘smear campaign’ over World Cup investor plan",
-   "iso": "2026-09-03T20:14:40.000Z",
-   "link": "https://www.news24.com/sport/soccer/international/fifa-accuses-uefa-of-smear-campaign-over-world-cup-investor-plan-20260903-1213",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
