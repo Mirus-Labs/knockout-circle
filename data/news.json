@@ -1,6 +1,56 @@
 {
- "updated": "2026-09-03T09:54:20.132Z",
+ "updated": "2026-09-03T11:35:38.420Z",
  "news": [
+  {
+   "cat": "DT NEXT",
+   "title": "Queiroz is back as Ghana coach after quitting role following World Cup exit",
+   "iso": "2026-09-03T11:07:55.000Z",
+   "link": "https://www.dtnext.in/news/sports/queiroz-is-back-as-ghana-coach-after-quitting-role-following-world-cup-exit",
+   "lede": "ACCRA (GHANA): Carlos Queiroz is back as coach of Ghana less than two months after quitting the role following World Cup elimination in the last 32.. Queiroz held fresh talks with the Ghana Football Association and the country's Ministry of Sports and Recreation, after which the Portuguese coach was handed another contract in charge.The GFA said in a statement late Wednesday that it “believes Queiroz's extensive international experience, technical expertise and knowledge of the Black Stars position him strongly to lead the team into this new chapter.”. The 73-year-old Queiroz, who has coached Portugal, Colombia, Iran and Egypt at international level and Real Madrid at club level, left as Ghana coach after a 1-0 loss to Colombia at the first knockout stage.He said there was no “complete sporting satisfaction” but felt the team brought “respect and credibility to the Black Stars.”.",
+   "image": "https://media.assettype.com/dt-next%2F2026-09-03%2Fm8mjqfqf%2FUntitled-design-20.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "ACLSPORTS",
+   "title": "Cricket: Nigeria reach U19 World Cup Africa Qualifier final",
+   "iso": "2026-09-03T10:54:43.000Z",
+   "link": "https://www.aclsports.com/cricket-nigeria-reach-u19-world-cup-africa-qualifier-final/",
+   "lede": "Nigeria Junior Female YellowGreens have reached the final of the ICC U19 Women’s T20 World Cup Africa Qualifier Division 1 after a nine-wicket victory over Rwanda on Thursday, www.aclsports.com reports. Rwanda won the toss and elected to bat first, but Nigeria’s bowlers quickly took control, bowling them out for 65 in 19.1 overs at the Estim, TCA Cricket Arena in Tanzania. Christabel Chukwuonye, the Nigerian all-rounder, claimed four wickets for 17 runs to help dismantle Rwanda’s batting line-up. Peace Usen also impressed, taking two wickets for seven runs from her four overs, while Praise Onaighise and Jennifer Godwin picked up two wickets apiece.",
+   "image": "https://www.aclsports.com/wp-content/uploads/2026/09/CC-U19-Womens-T20-World-Cup-Africa-Qualifier-Division-1-scaled-e1788432281138.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "NZ HERALD",
+   "title": "Nine All Whites move to new clubs after impressive World Cup outings",
+   "iso": "2026-09-03T10:31:25.000Z",
+   "link": "https://www.nzherald.co.nz/sport/football/all-whites/football-the-all-whites-playing-for-new-clubs-this-season/QAKLZV4B3FFOTBHVONNAJ7AY4A/",
+   "lede": "The transfer window has slammed shut. Billions of dollars were spent on football players from across the world. Thanks to the 2026 Fifa World Cup, the All Whites were able to show themselves off to some of the biggest clubs in the world. Here are the All Whites who will play for new teams this season.",
+   "image": "https://www.nzherald.co.nz/resizer/v2/65DLXZGVEVF65HAP5GN3JWXPI4.jpg?auth=0b776e4a7f642d57c47b1d0a8a59c09f281e3c565f086d84fd4e0bcbe35e8b66&width=1200&height=675&quality=70&smart=true",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "COUNTY DOWN SPECTATOR",
+   "title": "Bangor Man to compete in Subbuteo World Cup",
+   "iso": "2026-09-03T10:26:27.000Z",
+   "link": "https://countydownspectator.co.uk/bangor-man-to-compete-in-subbuteo-world-cup/",
+   "lede": "A BANGOR man will compete against the world’s top Subbuteo players this weekend in the World Cup in Paris. Eoin Adams will bring a wealth of experience to the pitch this weekend when he competes as part of Team Northern Ireland in the classic tabletop football game. The 54 year-old will compete in the Veteran category, alongside team members from across Northern Ireland – Kenny Beggs, Ian Greer, Martin Og Bradley, Lawrence Watson and Stephen McAllister. A total of 25 countries will be taking part with individual, team and youth events throughout the weekend.",
+   "image": "https://countydownspectator.co.uk/wp-content/uploads/2026/09/pic-1.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "PASSIONATE IN MARKETING",
+   "title": "LEGXI Offers Messi’s Final World Cup Collectibles",
+   "iso": "2026-09-03T10:23:10.000Z",
+   "link": "https://www.passionateinmarketing.com/as-messi-bids-farewell-to-argentina-legxi-offers-exclusive-limited-edition-hand-signed-collectibles-of-the-football-legend-to-fans/",
+   "lede": "A rare last opportunity to own an authentic piece of Lionel Messi's legacy. New Delhi 3rd September: For millions of football fans, Lionel Messi’s journey with Argentina has been far more than a sporting story. It has been a journey of hope, heartbreak, perseverance and, ultimately, glory. As Messi announces his retirement from international football, fans around the world are coming to terms with the end of an era.",
+   "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/09/As-Messi-Bids-Farewell-to-Argentina-LEGXI-Offers-Exclusive-Limited-Edition-Hand-Signed-Collectibles-of-the-Football-Legend-to-Fans.webp",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE STRAITS TIMES",
    "title": "French prosecutor wants ex-Asian football chief Bin Hammam tried over 2022 Qatar World Cup vote",
@@ -8,76 +58,26 @@
    "link": "https://www.straitstimes.com/sport/football/french-prosecutor-wants-ex-asian-football-chief-bin-hammam-tried-over-2022-qatar-world-cup-vote",
    "lede": "The move is part of a probe launched in 2019 which is focusing on the role Bin Hammam played on the eve of the vote that awarded the competition to Qatar. PARIS – France’s financial prosecutor’s office has asked that four people, including disgraced former Asian football chief Mohamed Bin Hammam, be sent to trial for corruption in connection with the awarding of the 2022 World Cup to Qatar. The move at the end of August, confirmed to AFP, comes three years after a magistrate in Paris issued an international arrest warrant for Bin Hammam, who has been banned for life from football following accusations of corruption and conflicts of interest. It is part of a probe launched in 2019 which is focusing on the role played by Bin Hammam in the actions of Reynald Temarii, ex-president of the Oceania Football Confederation (OFC), on the eve of the vote that awarded the competition to Qatar.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3ce1d0b6493e8b98454657804f29c15f6fd818297399a80c785c7ae9bc0d8139",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "LIVESCORE",
+   "cat": "LIVESCORE.COM",
    "title": "World Cup coach reappointed two months after stepping down",
    "iso": "2026-09-03T08:51:29.000Z",
    "link": "https://www.livescore.com/en/news/football/more/world-cup-coach-reappointed-two-months-after-stepping-down-the-independent/",
    "lede": "Ghana have reappointed Carlos Queiroz as manager just two months after he stepped down in the wake of their World Cup campaign. Queiroz, 73, was only named head coach of the Black Stars two months out from the tournament finals, succeeding Otto Addo who was sacked following emphatic defeats by Austria and Germany. The former Manchester United assistant manager guided Ghana through the group stage, which included a goalless draw with England, before they were knocked out by Colombia in the round of 32. Amid a down period in Ghana’s footballing history, having enduring the humiliation of not qualifying for the 2025 Africa Cup of Nations, a knockouts finish in the World Cup was hardly a failure for Queiroz.",
    "image": "https://static.independent.co.uk/2026/07/06/08/2284646350..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "LEGIT NEWS",
-   "title": "Lionel Messi: Why Argentina Can’t Retire Number 10 After His International Retirement",
-   "iso": "2026-09-03T08:20:02.000Z",
-   "link": "https://www.legit.ng/sports/football/1728699-lionel-messi-why-argentina-cant-retire-number-10-international-retirement/",
-   "lede": "PAY ATTENTION: Mark Legit.ng as a preferred source, and our content will appear higher in your Google feed! Lionel Messi has officially retired from international football, and a little-known FIFA regulation means Argentina will be forced to hand his famous number 10 shirt to a new player rather than hang it up permanently. Messi announced on August 31, two days after Argentina lost to Spain in the 2026 FIFA World Cup final. While many observers had already sensed the final would be his last cap, the formal confirmation still came as a jolt to the football world.",
-   "image": "https://cdn.legit.ng/images/1200x675/37ea81eab1b5ca80.jpeg?v=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "SEOUL ECONOMIC DAILY",
-   "title": "Japan to Face Brazil Again in November, Five Months After World Cup Loss",
-   "iso": "2026-09-03T06:39:51.000Z",
-   "link": "https://en.sedaily.com/sports/2026/09/03/japan-to-face-brazil-again-in-november-five-months-after",
-   "lede": "Japan's national soccer team will take on Brazil again in November, five months after a loss to the South Americans ended its run at the 2026 FIFA World Cup in North America before the round of 16. The Japan Football Association said on the 3rd that the team will compete in the Mizuho Blue Challenge: The Kallang Football Series Singapore, an international tournament to be held at Singapore National Stadium from Nov. 13 to 17. Four nations will take part: Japan, Brazil, Paraguay and Singapore. Japan plays Brazil on Nov. 14 and Paraguay on Nov.",
-   "image": "https://wimg.sedaily.com/news/cms/2026/09/03/news-p.v1.20260903.384d979e276b4082bc34c1edd8581d8c_P1.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Eto’o calls on African football federations to support FIFA chief Infantino",
-   "iso": "2026-09-03T06:23:48.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino",
-   "lede": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window. Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says. No date has been set for the all-British heavyweight boxing showdown, but it is expected to be held in November. Messi retires as one of the greatest players of all time after a glittering and decades-long career for Argentina.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2024-05-17T013838Z_688831291_RC21S7ADB9X2_RTRMADP_3_SOCCER-FIFA-1788414476.jpg?resize=1920%2C1440",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "NZ HERALD",
-   "title": "Nine All Whites move to new clubs after impressive World Cup outings",
-   "iso": "2026-09-03T06:09:41.000Z",
-   "link": "https://www.nzherald.co.nz/sport/football/all-whites/football-the-all-whites-playing-for-new-clubs-this-season/QAKLZV4B3FFOTBHVONNAJ7AY4A/",
-   "lede": "The transfer window has slammed shut. Billions of dollars were spent on football players from across the world. Thanks to the 2026 Fifa World Cup, the All Whites were able to show themselves off to some of the biggest clubs in the world. Here are the All Whites who will play for new teams this season.",
-   "image": "https://www.nzherald.co.nz/resizer/v2/65DLXZGVEVF65HAP5GN3JWXPI4.jpg?auth=0b776e4a7f642d57c47b1d0a8a59c09f281e3c565f086d84fd4e0bcbe35e8b66&width=1200&height=675&quality=70&smart=true",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SOUTH CHINA MORNING POST",
-   "title": "Singapore to host Brazil, Japan, Paraguay in star-studded football festival",
-   "iso": "2026-09-03T02:43:57.000Z",
-   "link": "https://www.scmp.com/sport/football/article/3366171/singapore-host-brazil-japan-paraguay-star-studded-football-festival",
-   "lede": "Singapore will host a series of blockbuster football fixtures during the Fifa international window in November, including a World Cup rematch between Brazil and Japan, organisers announced on Thursday. The Mizuho Blue Challenge will also involve the hosts and Paraguay, with four matches taking place in the space of five days at the city’s National Stadium at The Kallang. Singapore will take on Paraguay in the opening fixture on November 13, with Japan and Brazil facing off a day later in a rematch of their last 32 clash in Houston, which the South Americans won 2-1. A double-header on November 17, with Singapore taking on the five-time World Cup winners and Japan battling Paraguay, promises to be the highlight of the week at the 55,000-seat venue.",
-   "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/03/5884a5a8-4f28-4db7-85a6-8e669c2fe67d_3b719400.jpg?itok=tQF7ESXf&v=1788403434",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "National Stadium to stage football friendlies involving Brazil, Japan, Paraguay and Singapore",
-   "iso": "2026-09-03T02:00:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/national-stadium-to-stage-football-friendlies-involving-brazil-japan-paraguay-and-singapore",
-   "lede": "Brazil's Vinicius Jr (in yellow) in action against Japan's Ao Tanaka during their World Cup clash on June 29. Brazil won the match 2-1. SINGAPORE – The World Cup may have ended in July, but football fans here will get to experience world-class sporting action again when the National Stadium at The Kallang hosts Brazil, Japan and Paraguay, as well as the Lions in November. The Mizuho Blue Challenge – The Kallang Football Series Singapore will see four matches played between Nov 13 and 17, organisers The Kallang Group and Dentsu Sports International announced on Sept 3.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3aee712730a71a3eaabeb8f2832a8798bfe7cd18853dea8e248e9d29a1d04fff",
+   "cat": "BBC",
+   "title": "Lionel Messi: Argentine football league to stop games to honour Messi",
+   "iso": "2026-09-03T08:42:31.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cwyzjy431keo",
+   "lede": "Lionel Messi played a key role in knocking England out of the 2026 World Cup in the semi-finals. The Argentine league will pay tribute to Lionel Messi after his retirement from international football by pausing all of their matches in the 10th minute this weekend for a minute of applause. The 39-year-old, who wore the number 10 shirt for Argentina, announced his retirement from the national side on Monday. The eight-time Ballon d'Or winner's final game for his country, who he captained to World Cup glory in Qatar in 2022, was the 2026 World Cup final defeat by Spain in July.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b30b/live/24fa5c50-a76c-11f1-993c-a325009c1935.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
