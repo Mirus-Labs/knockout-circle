@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T11:44:03.523Z",
+ "updated": "2026-09-04T11:48:00.906Z",
  "news": [
   {
    "cat": "NEWS18",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "THE STRAITS TIMES",
+   "title": "Gianni Infantino attendance uncertain as FIFA U-20 Women’s World Cup opens in Poland",
+   "iso": "2026-09-04T08:41:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/infantino-attendance-uncertain-as-fifa-u-20-womens-world-cup-opens-in-poland",
+   "lede": "President of FIFA Gianni Infantino has faced calls to resign from UEFA, the Asian Football Confederation and CONCACAF. KATOWICE – Some 15,000 people are expected for the opening matches of the Under-20 Women’s World Cup on Sept 5, but it is not yet clear whether FIFA President Gianni Infantino will be among them. The tournament, which runs until Sept 27 in Poland, is the first major FIFA competition that could have been affected by the governance stand-off that followed Infantino’s proposal to sell a stake in the World Cup to private investors. Infantino abandoned the proposal on July 31 after fierce opposition from UEFA and other stakeholders.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/54454c173524ed2e5297dd481eb4cd998554fd885e962660e21729a2471f2cb0",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "FOX SPORTS",
    "title": "From shock Zlatan callout to marking Haaland: Inside Aussie prodigy’s stunning PL rise",
    "iso": "2026-09-04T08:05:19.000Z",
    "link": "https://www.foxsports.com.au/football/premier-league/teams/hull/zlatan-call-haaland-challenge-aussie-teen-living-super-special-dream-after-stunning-rise/news-story/9dcf1ab418f929f704d4968540bee9ad",
    "lede": "If you spend half an hour listening to Lucas Herrington speak you get the feeling a firecracker could go off next to him and barely an eyebrow would be raised by the teenage Socceroos defender. This is one calm and collected character. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. There is no sense of the duck on a pond analogy where the serenity of gliding across the surface contrasts with the thrashing of legs wildly underneath it.",
    "image": "https://content.api.news/v3/images/bin/036b1377c2ad238f5c21081e45dca2d6",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ANI NEWS",
@@ -58,8 +68,8 @@
    "link": "https://www.aninews.in/news/sports/football/carlos-queiroz-reappointed-ghana-head-coach-less-than-two-months-after-fifa-world-cup-exit20260904124958",
    "lede": "Accra [Ghana], September 4 (ANI): Carlos Queiroz has been reappointed as Ghana's head coach less than two months after appearing to step down from the role following the Black Stars' exit from the 2026 FIFA World Cup, the Ghana Football Association (GFA) confirmed on Thursday. According to Reuters, the 73-year-old Portuguese will return to the post during the upcoming international window after agreeing to a new coaching mandate with the GFA and Ghana's Ministry of Sports and Recreation. According to Reuters, the 73-year-old Carlos Queiroz has been reappointed as Ghana's head coach less than two months after appearing to step down from the role following the Black Stars' exit from the 2026 FIFA World Cup, the Ghana Football Association (GFA) confirmed on Thursday.",
    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260904070610-thumbnail-320x180-70.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "매일경제",
@@ -68,16 +78,6 @@
    "link": "https://www.mk.co.kr/en/culture/12144569",
    "lede": "The moment Lionel Messi had dreamed of all his life was markedly different from what we had imagined. At the awards ceremony at Lusail Stadium in Qatar in 2022, Argentina’s sky-blue-and-white stripes .. This article has been translated by GripLabs Mingo AI.",
    "image": "https://pimg.mk.co.kr/news/cms/202609/05/20260905_01110114000006_S00.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "سانا",
-   "title": "Spain’s Marcos Llorente announces international retirement after World Cup triumph",
-   "iso": "2026-09-04T06:46:53.000Z",
-   "link": "https://sana.sy/en/sport/2340339/",
-   "lede": "4 (SANA) Atletico Madrid midfielder Marcos Llorente has announced his retirement from international football at the age of 31, bringing an end to his Spain career following the team’s 2026 World Cup triumph. Llorente announced the decision on his official account Thursday, saying it came after careful consideration and was not influenced by the amount of playing time he received at the World Cup. “I have decided to bring my time with the national team to an end,” Llorente said. “I am aware that I am still young and that perhaps, if I continued doing things the right way, I could have had more years ahead of me wearing this shirt.”",
-   "image": "https://cdn.sananews.sy/2026/09/TTJjWQVu-large.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
