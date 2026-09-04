@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T22:58:17.071Z",
+ "updated": "2026-09-04T23:04:25.524Z",
  "news": [
   {
    "cat": "FORBES AUSTRALIA",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "BBC.CO.UK",
+   "cat": "BBC",
    "title": "FA to canvass England players in World Cup review",
    "iso": "2026-09-04T21:28:23.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "YAHOO SPORTS",
+   "title": "‘Most Selfless Player I’ve Seen’ – WNBA World Raves After Caitlin Clark’s Historic Double-Double in Team USA’s World Cup Opener",
+   "iso": "2026-09-04T15:55:17.000Z",
+   "link": "https://sports.yahoo.com/articles/most-selfless-player-ve-seen-155517874.html",
+   "lede": "Indiana Fever’s Caitlin Clark is a polarizing player because of certain aspects of her game. The WNBA star possesses almost infinite range, shredding defenses but also frustrating opposing fans. The WNBA star possesses almost infinite range, shredding defense...",
+   "image": "https://s.yimg.com/lo/mysterio/api/1efd11a8da3e57b2aff0a14797ba13ffca9244982d7fde321740d66437b47eb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fecde69e09600b63bc191373869de113e.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Team USA dominates China to open FIBA Women’s World Cup",
    "iso": "2026-09-04T21:27:47.000Z",
    "link": "https://www.nytimes.com/athletic/7565388/2026/09/04/usa-fiba-world-cup-china/",
    "lede": "Team USA started the defense of its FIBA World Cup gold medal with a dominant 94-61 win over China in Germany.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/04112805/rhyne-howard-fiba-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -58,8 +68,8 @@
    "link": "https://www.nytimes.com/athletic/7561120/2026/09/04/france-wnba-world-cup-womens-basketball/",
    "lede": "Thirteen French players compete in the WNBA, and eight of them will be competing for France, a Team USA rival, in the World Cup.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02215947/GettyImages-2165855966-scaled-e1788400812250.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -68,16 +78,6 @@
    "link": "https://www.nytimes.com/athletic/7560315/2026/09/04/team-usa-women-basketball-fiba-schedule/",
    "lede": "Team USA tips off Friday against China. No A'ja Wilson, but will Breanna Stewart lead the Americans to another gold?",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02172247/GettyImages-2292504842-e1788384265951.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Louisiana judge opens door for LSU to roster ex-NFL players; SEC sues school, Kiffin to stop it - The Athletic",
-   "iso": "2026-09-04T18:35:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7562896/2026/09/03/sec-lsu-lane-kiffin-lawsuit-suing/",
-   "lede": "The SEC recently clarified a rule that prevents athletes who have signed professional contracts from returning to play college football.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/03130412/GettyImages-1088856840-scaled-e1788455085121.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
