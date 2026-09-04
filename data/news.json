@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T06:27:31.631Z",
+ "updated": "2026-09-04T06:33:14.169Z",
  "news": [
   {
    "cat": "THE EASTLEIGH VOICE",
@@ -52,19 +52,20 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE INDIAN EXPRESS",
-   "title": "Spanish World Cup winner Marcos Llorente retires from international football",
-   "iso": "2026-09-04T06:21:14.000Z",
-   "link": "https://indianexpress.com/article/sports/football/spain-world-cup-winner-marcos-llorente-retires-international-football-10862855/",
-   "lede": "",
+   "cat": "FOX SPORTS",
+   "title": "‘Smear campaign’: Football civil war reignites as FIFA hits back at UEFA’s Infantino threat",
+   "iso": "2026-09-03T23:35:02.000Z",
+   "link": "https://www.foxsports.com.au/football/fifa/fifa-2026-uefa-criticised-over-planned-legal-action-against-gianni-infantino-over-world-cup-sell-off-scheme-latest-news-proposed-lawsuit-explained/news-story/774f195c8a356a9c25dd4009c00f3669",
+   "lede": "FIFA has accused UEFA of a “smear campaign” and a “fishing expedition” after European football’s governing body asked US judges to force it to hand over documents related to its failed World Cup investor plan. The global football body’s divisive plan to sell stakes in the World Cup to investors, unveiled in July, triggered a huge backlash across the sport, with UEFA threatening to boycott the World Cup unless the plan was scrapped. While FIFA quickly aborted the plans in response to the backlash, the European association is now preparing possible legal action against president Gianni Infantino for alleged “criminal mismanagement.” Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail.",
+   "image": "https://content.api.news/v3/images/bin/d604a77277dd9bff31b9080cb2111c01",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "MSHALE",
-   "title": "FIFA World Cup 2030 | Host Countries, Historic Stadiums & Amazing Facts! 🏆⚽ Carburant (TaBiPqWWUh)",
-   "iso": "2026-09-04T05:10:13.000Z",
-   "link": "https://mshale.com/b4e8c1cb/94d487d1rLy5wIrUxKk",
+   "cat": "THE INDIAN EXPRESS",
+   "title": "Spanish World Cup winner Marcos Llorente retires from international football",
+   "iso": "2026-09-04T06:21:14.000Z",
+   "link": "https://indianexpress.com/article/sports/football/spain-world-cup-winner-marcos-llorente-retires-international-football-10862855/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
