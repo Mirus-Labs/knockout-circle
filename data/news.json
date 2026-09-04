@@ -1,16 +1,6 @@
 {
- "updated": "2026-09-04T15:07:10.931Z",
+ "updated": "2026-09-04T15:09:52.963Z",
  "news": [
-  {
-   "cat": "AFRICA TOP SPORTS",
-   "title": "Basketball: Mali Falls to Japan After a Close World Cup Battle",
-   "iso": "2026-09-04T14:55:52.000Z",
-   "link": "https://en.africatopsports.com/basketball-mali-falls-to-japan-after-a-close-world-cup-battle/",
-   "lede": "Mali suffered a narrow defeat (102-97) against Japan in its opening game of the 2026 Women’s Basketball World Cup. Despite a remarkable offensive performance, the Mali Women’s National Team faltered in the final minutes of the fourth quarter against Japan’s sharp shooting. The Malian duo of Djeneba Ndiaye (22 points) and Sika Kone (21 points) carried the team for much of the game and kept hopes of an upset alive. However, defensive lapses late in the game ultimately proved costly against a particularly opportunistic Japanese team.",
-   "image": "https://en.africatopsports.com/wp-content/uploads/2026/09/japon-mali-2048x1365-1.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "REDIFF",
    "title": "Cafu On India-Brazil Match And Football's Future",
@@ -18,8 +8,8 @@
    "link": "https://www.rediff.com/sports/report/cafu-on-india-vs-brazil-friendly-and-indian-football-growth/20260904.htm",
    "lede": "Legendary Brazilian footballer Cafu shares insights on India's football development, Brazil's World Cup aspirations, and the evolving dynamics of the sport ahead of India's historic friendly against the five-time champions. Former Brazil captain Cafu on Friday said the Indian team will learn a lot from its first-ever international match against his country in Kolkata next month, though he admitted to the significant gap in the rankings between the two countries. India will face five-time World Cup champions Brazil in an international friendly at the Salt Lake Stadium in Kolkata on October 3. \"We hope that Brazil and India can play a great game.",
    "image": "https://im.rediff.com/1200-630/sports/2026/sep/04indian-football-team.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "⚽",
+   "bg": "#1d6f42"
   },
   {
    "cat": "REDIFF",
@@ -28,8 +18,8 @@
    "link": "https://www.rediff.com/sports/report/fifa-2026-world-cup-players-spark-33-billion-transfer-spending/20260904.htm",
    "lede": "FIFA has revealed that players who featured in the 2026 World Cup were a major catalyst for record-breaking international transfer fees, generating over $3.3 billion during the recent mid-year window and contributing to an unprecedented $9.89 billion spent in men's football. Players who featured at the 2026 World Cup generated more than $3.3 billion in international transfer fees during the recently concluded mid-year transfer window, FIFA said on Thursday. More than 260 World Cup players from 47 nationalities changed clubs during the window, accounting for over a third of the record $9.89 billion spent on international transfer fees in men's football, according to soccer's global governing body. \"More than 12,500 international transfers were registered around the world, also setting a new record for the number of transfers during a mid-year window,\" FIFA said in a study.",
    "image": "https://im.rediff.com/1200-630/sports/2026/sep/04rodri-barca.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "TVC NEWS",
@@ -38,8 +28,8 @@
    "link": "https://www.tvcnews.tv/fifa-accuses-uefa-of-smear-campaign-over-failed-world-cup-investment-plan/",
    "lede": "FIFA has accused the Union of European Football Associations (UEFA) of pursuing a “smear campaign” and a “fishing expedition” after the European governing body asked US judges to compel the global football body to release documents linked to its abandoned World Cup investment plan. The dispute follows FIFA’s controversial proposal…... The dispute follows FIFA’s controversial proposal to sell stakes in the World Cup to investors, which was unveiled in July and sparked strong opposition across the football community. UEFA had threatened to boycott the World Cup if FIFA proceeded with the plan, intensifying pressure on the global governing body to abandon the proposal.",
    "image": "https://tvcnews.tv/wp-content/uploads/2026/09/FIFA-President-Gianni-Infantinos-likeliest-challenger-is-CONCACAF-President-Victor-Montagliani.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "NEWS18",
@@ -48,6 +38,16 @@
    "link": "https://www.news18.com/sports/football/fifa-vs-uefa-timeline-world-cup-investment-row-boycott-threats-legal-battle-10310504.html",
    "lede": "FIFA on Thursday accused UEFA of holding a ‘smear campaign’ and a ‘fishing expedition’ after European football’s governing body asked US judges to compel it to hand over documents linked to its failed plan to bag investors for the FIFA World Cup. This is the latest in a series of clashes between FIFA and UEFA, who have been at each other’s throats over the past two months, with numerous wars of words having taken place among leaders. Let us take a look at the timeline of the football war: July 28 The Times broke the story, prompting UEFA to issue a strongly worded statement, saying: “None of us is the owner of football. It isn’t FIFA’s to sell.”",
    "image": "https://images.news18.com/ibnlive/uploads/2026/08/gianni-infantino-fifa-AP-1-2026-08-48f98421a0b09f6a8262df3d0d4c1a8e-1200x675.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "TVP WORLD",
+   "title": "Poland and Ukraine set sights on future World Cup",
+   "iso": "2026-09-04T11:10:12.000Z",
+   "link": "https://tvpworld.com/95213927/poland-and-ukraine-in-talks-to-co-host-football-world-cup",
+   "lede": "Poland and Ukraine are considering a joint bid to host a future men's FIFA World Cup, reviving a partnership that staged the 2012 European Championship. Ukrainian Sports Minister Matvii Bidnyi told POLITICO that Kyiv was interested in exploring a joint bid with the next available World Cup slot expected to be in the 2040s. “The nearest open date for the World Cup is somewhere in the 2040s … so we need to plan for this perspective right now,” Bidnyi said. But Poland's Ministry of Sport and Tourism told TVP World on Friday that it was not holding talks with Ukraine about hosting the tournament, contradicting reports of discussions over a potential joint bid.",
+   "image": "https://s18.tvp.pl/images2/8/7/2/uid_8721456758414513ad5a5d8d6a918572_width_1280_play_0_pos_0_gs_0_height_720.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
