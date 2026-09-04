@@ -1,6 +1,26 @@
 {
- "updated": "2026-09-04T21:04:03.791Z",
+ "updated": "2026-09-04T22:58:17.071Z",
  "news": [
+  {
+   "cat": "FORBES AUSTRALIA",
+   "title": "A $1.3 billion event is coming to Australia. And ‘nobody is ready’",
+   "iso": "2026-09-04T22:17:26.000Z",
+   "link": "https://www.forbes.com.au/covers/sport/rugby-world-cup-2027-australia-tickets/",
+   "lede": "“This thing’s gonna be massive, and I just don’t think everyone’s ready, or aware, that it’s coming – and it’s coming in a year,” says David MacCallum, in charge of premium experiences for the Men’s Rugby World Cup Australia 2027. And he’s not just talking about the prodigious drinking habits of rugby fans. The other stereotypes are also true. Rugby fans spend more, do more business networking, and are a little more friendly to the opposition than other football codes, says MacCallum.",
+   "image": "https://www.forbes.com.au/wp-content/uploads/2026/09/GettyImages-2288878468.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC.CO.UK",
+   "title": "FA to canvass England players in World Cup review",
+   "iso": "2026-09-04T21:28:23.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo",
+   "lede": "England's men have not won a major tournament since the 1996 World Cup. The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament. English football's governing body has started the post-tournament review they conduct after every major international competition. The FA says the review is the standard process it undertakes after all tournaments.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1311/live/a28680b0-a8a5-11f1-9c70-ad33bdfbef33.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "HINDUSTAN TIMES",
    "title": "The best do not always win the World Cup: Cafu | Football News",
@@ -8,8 +28,8 @@
    "link": "https://www.hindustantimes.com/sports/football/the-best-do-not-always-win-the-world-cup-cafu-101788541646423.html",
    "lede": "Mumbai: On a stage at a college atrium, Cafu soaked in the adulation. Students, brandishing any Brazilian jersey they could find – from the present selection with ‘Neymar Jr’ printed on the back to quite a few with ‘Ronaldo’ – cheered him on. Cafu beckoned a few to toss their shirts forward for him to sign and send back.And then his eye caught a replica World Cup trophy. More silver than gold, it was handed over to him to pose with.",
    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/04/1600x900/logo/Cafu-is-the-last-Brazilian-captain-to-have-won-the_1788541643599_69d4edac-e36a-4e66-bb0e-1b9e480672cb.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "REDIFF",
@@ -18,8 +38,38 @@
    "link": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm",
    "lede": "Discover why India's highly anticipated international football friendly against 2026 World Cup participant Panama in Bengaluru has been rescheduled to September 25, offering a crucial test for the Blue Tigers. India's international football friendly against Panama here has been advanced by a day from the scheduled September 26 as the Sree Kanteerava Stadium, the venue of the match, will host the Bengaluru Marathon on September 27. Since the Kanteerava Stadium will serve as the starting and finishing point of the marathon race, it will be difficult to host the India vs Panama football match the next day as per the earlier schedule, according to sources. The match will now be held on September 25.",
    "image": "https://im.rediff.com/1200-630/money/2015/jul/06city1.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Team USA dominates China to open FIBA Women’s World Cup",
+   "iso": "2026-09-04T21:27:47.000Z",
+   "link": "https://www.nytimes.com/athletic/7565388/2026/09/04/usa-fiba-world-cup-china/",
+   "lede": "Team USA started the defense of its FIBA World Cup gold medal with a dominant 94-61 win over China in Germany.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/04112805/rhyne-howard-fiba-scaled.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "The WNBA has experienced a French influence. It could also cause chaos in the World Cup",
+   "iso": "2026-09-04T21:23:26.000Z",
+   "link": "https://www.nytimes.com/athletic/7561120/2026/09/04/france-wnba-world-cup-womens-basketball/",
+   "lede": "Thirteen French players compete in the WNBA, and eight of them will be competing for France, a Team USA rival, in the World Cup.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02215947/GettyImages-2165855966-scaled-e1788400812250.jpg?width=1200&height=630&fit=cover",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "What to know about Team USA and the World Cup women’s basketball field as play begins",
+   "iso": "2026-09-04T21:17:53.000Z",
+   "link": "https://www.nytimes.com/athletic/7560315/2026/09/04/team-usa-women-basketball-fiba-schedule/",
+   "lede": "Team USA tips off Friday against China. No A'ja Wilson, but will Breanna Stewart lead the Americans to another gold?",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02172247/GettyImages-2292504842-e1788384265951.jpg?width=1200&height=630&fit=cover",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -28,56 +78,6 @@
    "link": "https://www.nytimes.com/athletic/7562896/2026/09/03/sec-lsu-lane-kiffin-lawsuit-suing/",
    "lede": "The SEC recently clarified a rule that prevents athletes who have signed professional contracts from returning to play college football.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/03130412/GettyImages-1088856840-scaled-e1788455085121.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "ANADOLU AJANSI",
-   "title": "FIFA report shows record growth in global football transfer market after 2026 World Cup",
-   "iso": "2026-09-04T18:27:36.000Z",
-   "link": "https://www.aa.com.tr/en/sports/fifa-report-shows-record-growth-in-global-football-transfer-market-after-2026-world-cup/4047739",
-   "lede": "Transfers involving 267 World Cup players generate over $3.3B, while women’s football spending more than doubles | Anadolu. Transfers involving 267 World Cup players generate over $3.3B, while women’s football spending more than doubles.",
-   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/09/04/thumbs_b_c_a385e0c253d1407d81d5df2c1aaac395.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "‘The Athletic Football Show’ previews the 2026 Arizona Cardinals",
-   "iso": "2026-09-04T18:00:32.000Z",
-   "link": "https://www.nytimes.com/athletic/7564285/2026/09/04/the-athletic-football-show-previews-the-2026-arizona-cardinals/",
-   "lede": "The Arizona Cardinals are simply looking for growth from their young, foundational players this season.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2025/12/23164733/GettyImages-2251891519-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FRANCE 24",
-   "title": "Brazil great Formiga says 2027 World Cup will 'change players' lives'",
-   "iso": "2026-09-04T17:21:14.000Z",
-   "link": "https://www.france24.com/en/live-news/20260904-brazil-great-formiga-says-2027-world-cup-will-change-players-lives",
-   "lede": "Brazil legend Formiga believes next year's Women's World Cup in the country will be \"an opportunity to change the lives of countless\" players in South America.",
-   "image": "https://s.france24.com/media/display/078b8aa8-a885-11f1-bb80-005056bfb2b6/w:1280/p:16x9/Part-GTY-1133323386-1-1-1.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Barcelona become world’s second-most valuable football club with $7.5 billion valuation",
-   "iso": "2026-09-04T17:05:00.000Z",
-   "link": "https://sports.yahoo.com/articles/barcelona-become-world-second-most-170500477.html",
-   "lede": "FC Barcelona have had a summer transfer window to remember, with Deco bringing in players such as Anthony Gordon, Karim Adeyemi, Rodri, Joao Cancelo and Gabriel Jesus.The Catalan club’s financial re... FC Barcelona have had a summer transfer window to remember, with Deco bringing in players such as Anthony Gordon, Karim Adeyemi, Rodri, Joao Cancelo and Gabr...",
-   "image": "https://s.yimg.com/lo/mysterio/api/8498be50d9d2c601c7f471a32eca36a53be84d2a6467295c01fc3af1e37ab7c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F8030248760e061bd4d52fca48d9a91f2.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "‘The Athletic Football Show’ previews the 2026 San Francisco 49ers",
-   "iso": "2026-09-04T17:00:57.000Z",
-   "link": "https://www.nytimes.com/athletic/7564272/2026/09/04/the-athletic-football-show-previews-the-2026-san-francisco-49ers/",
-   "lede": "The San Francisco 49ers remain serious contenders on paper, but injury issues could undo them once again.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/18082346/GettyImages-2253869442-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
