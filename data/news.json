@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-04T23:04:25.524Z",
+ "updated": "2026-09-05T00:50:21.398Z",
  "news": [
   {
-   "cat": "FORBES AUSTRALIA",
-   "title": "A $1.3 billion event is coming to Australia. And ‘nobody is ready’",
-   "iso": "2026-09-04T22:17:26.000Z",
-   "link": "https://www.forbes.com.au/covers/sport/rugby-world-cup-2027-australia-tickets/",
-   "lede": "“This thing’s gonna be massive, and I just don’t think everyone’s ready, or aware, that it’s coming – and it’s coming in a year,” says David MacCallum, in charge of premium experiences for the Men’s Rugby World Cup Australia 2027. And he’s not just talking about the prodigious drinking habits of rugby fans. The other stereotypes are also true. Rugby fans spend more, do more business networking, and are a little more friendly to the opposition than other football codes, says MacCallum.",
-   "image": "https://www.forbes.com.au/wp-content/uploads/2026/09/GettyImages-2288878468.jpg",
+   "cat": "NINE.COM.AU",
+   "title": "Hull, Asian Cup and the dark arts: Herrington lifts lid on ‘crazy’ rise",
+   "iso": "2026-09-04T23:41:45.000Z",
+   "link": "https://www.nine.com.au/sport/football/news-lucas-herrington-hull-city-interview-socceroos-asian-cup-comments-20260904-p60uc2.html",
+   "lede": "Since moving to Hull, Lucas Herrington has become the biggest name in Australian football. As the only Aussie in the Premier League he was always destined for that title. Throw in the fact he’s 18, and the excitement around his future is palpable. Lucas Herrington speaks to media.",
+   "image": "https://static.ffx.io/images/$zoom_0.3787%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_380%2C$y_104/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/776b8eab6adab6921dfb8cb682698666a1533682",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -22,24 +22,34 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "HINDUSTAN TIMES",
-   "title": "The best do not always win the World Cup: Cafu | Football News",
-   "iso": "2026-09-04T17:07:25.000Z",
-   "link": "https://www.hindustantimes.com/sports/football/the-best-do-not-always-win-the-world-cup-cafu-101788541646423.html",
-   "lede": "Mumbai: On a stage at a college atrium, Cafu soaked in the adulation. Students, brandishing any Brazilian jersey they could find – from the present selection with ‘Neymar Jr’ printed on the back to quite a few with ‘Ronaldo’ – cheered him on. Cafu beckoned a few to toss their shirts forward for him to sign and send back.And then his eye caught a replica World Cup trophy. More silver than gold, it was handed over to him to pose with.",
-   "image": "https://www.hindustantimes.com/ht-img/img/2026/09/04/1600x900/logo/Cafu-is-the-last-Brazilian-captain-to-have-won-the_1788541643599_69d4edac-e36a-4e66-bb0e-1b9e480672cb.jpg",
+   "cat": "BGNES",
+   "title": "Spain Stands With Ceuta as Football Federation Brings World Cup Trophy to City",
+   "iso": "2026-09-04T18:10:17.000Z",
+   "link": "http://www.bgnes.com/sport/spain-stands-with-ceuta-as-football-federation-brings-world-cup-trophy-to-city",
+   "lede": "“Spain is Ceuta, and Ceuta is Spain.” That was the message from Spanish Football Federation president Rafael Louzán during a visit to the autonomous city, where the RFEF delegation came to show its support for the local community during a difficult period. Louzán was joined by Spain head coach Luis de la Fuente, general secretary Álvaro de Miguel and sporting director Aitor Karanka. The delegation was welcomed by Ceuta president Juan Jesús Vivas, who received the World Cup trophy won by Spain this summer.",
+   "image": "https://www.bgnes.com/static/images/news/2026/09/04/22110/20274.webp",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "REDIFF",
+   "cat": "HINDUSTAN TIMES",
+   "title": "The best do not always win the World Cup: Cafu | Football News",
+   "iso": "2026-09-04T17:07:25.000Z",
+   "link": "https://www.hindustantimes.com/sports/football/the-best-do-not-always-win-the-world-cup-cafu-101788541646423.html",
+   "lede": "On a stage at a college atrium, Cafu soaked in the adulation. Students, brandishing any Brazilian jersey they could find – from the present selection with ‘Neymar Jr’ printed on the back to quite a few with ‘Ronaldo’ – cheered him on. Cafu beckoned a few to toss their shirts forward for him to sign and send back.And then his eye caught a replica World Cup trophy. More silver than gold, it was handed over to him to pose with.",
+   "image": "https://www.hindustantimes.com/ht-img/img/2026/09/04/1600x900/logo/Cafu-is-the-last-Brazilian-captain-to-have-won-the_1788541643599_69d4edac-e36a-4e66-bb0e-1b9e480672cb.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "REDIFF.COM",
    "title": "India Vs Panama Football Friendly Date Changed Due To Marathon",
    "iso": "2026-09-04T16:35:32.000Z",
    "link": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm",
    "lede": "Discover why India's highly anticipated international football friendly against 2026 World Cup participant Panama in Bengaluru has been rescheduled to September 25, offering a crucial test for the Blue Tigers. India's international football friendly against Panama here has been advanced by a day from the scheduled September 26 as the Sree Kanteerava Stadium, the venue of the match, will host the Bengaluru Marathon on September 27. Since the Kanteerava Stadium will serve as the starting and finishing point of the marathon race, it will be difficult to host the India vs Panama football match the next day as per the earlier schedule, according to sources. The match will now be held on September 25.",
    "image": "https://im.rediff.com/1200-630/money/2015/jul/06city1.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -47,9 +57,9 @@
    "iso": "2026-09-04T15:55:17.000Z",
    "link": "https://sports.yahoo.com/articles/most-selfless-player-ve-seen-155517874.html",
    "lede": "Indiana Fever’s Caitlin Clark is a polarizing player because of certain aspects of her game. The WNBA star possesses almost infinite range, shredding defenses but also frustrating opposing fans. The WNBA star possesses almost infinite range, shredding defense...",
-   "image": "https://s.yimg.com/lo/mysterio/api/1efd11a8da3e57b2aff0a14797ba13ffca9244982d7fde321740d66437b47eb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fecde69e09600b63bc191373869de113e.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "image": "https://s.yimg.com/lo/mysterio/api/5066576e5f4fc69eece8f8ccf6ad6f6be600f079fc09ce7772485d3ac1096494/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F05da696e92efd35c533e6881effd8eb5.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -58,8 +68,8 @@
    "link": "https://www.nytimes.com/athletic/7565388/2026/09/04/usa-fiba-world-cup-china/",
    "lede": "Team USA started the defense of its FIBA World Cup gold medal with a dominant 94-61 win over China in Germany.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/04112805/rhyne-howard-fiba-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -68,16 +78,6 @@
    "link": "https://www.nytimes.com/athletic/7561120/2026/09/04/france-wnba-world-cup-womens-basketball/",
    "lede": "Thirteen French players compete in the WNBA, and eight of them will be competing for France, a Team USA rival, in the World Cup.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02215947/GettyImages-2165855966-scaled-e1788400812250.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "What to know about Team USA and the World Cup women’s basketball field as play begins",
-   "iso": "2026-09-04T21:17:53.000Z",
-   "link": "https://www.nytimes.com/athletic/7560315/2026/09/04/team-usa-women-basketball-fiba-schedule/",
-   "lede": "Team USA tips off Friday against China. No A'ja Wilson, but will Breanna Stewart lead the Americans to another gold?",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02172247/GettyImages-2292504842-e1788384265951.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
