@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-05T01:02:03.608Z",
+ "updated": "2026-09-05T05:27:15.909Z",
  "news": [
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "‘You cannot compare it to our era’: Cafu on Brazil’s decline, 28-year World Cup drought and India clash",
+   "iso": "2026-09-05T02:55:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/you-cannot-compare-it-to-our-era-cafu-on-brazils-decline-28-year-world-cup-drought-and-india-clash/articleshow/133785109.cms",
+   "lede": "Navi Mumbai: His words were in Portuguese. His expression, however, reflected love and happiness, just like how he played the game.Standing on stage, as he addressed the enchanted students of Pillai University here, Cafu soaked in the adulation. The smile on his face was constant and matched the one of him in the background poster with that enduring image — of him holding aloft the 2002 FIFA World Cup trophy.More than 24 years later, the hair on his head may have thinned.",
+   "image": "https://static.toiimg.com/thumb/msid-133785350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "NINE.COM.AU",
    "title": "Hull, Asian Cup and the dark arts: Herrington lifts lid on ‘crazy’ rise",
@@ -8,28 +18,28 @@
    "link": "https://www.nine.com.au/sport/football/news-lucas-herrington-hull-city-interview-socceroos-asian-cup-comments-20260904-p60uc2.html",
    "lede": "Since moving to Hull, Lucas Herrington has become the biggest name in Australian football. As the only Aussie in the Premier League he was always destined for that title. Throw in the fact he’s 18, and the excitement around his future is palpable. Lucas Herrington speaks to media.",
    "image": "https://static.ffx.io/images/$zoom_0.3787%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_380%2C$y_104/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/776b8eab6adab6921dfb8cb682698666a1533682",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "BBC",
    "title": "FA to canvass England players in World Cup review",
    "iso": "2026-09-04T21:28:23.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo",
+   "link": "https://www.bbc.com/sport/football/articles/clyr1ly8z4xo",
    "lede": "England's men have not won a major tournament since the 1996 World Cup. The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament. English football's governing body has started the post-tournament review they conduct after every major international competition. The FA says the review is the standard process it undertakes after all tournaments.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1311/live/a28680b0-a8a5-11f1-9c70-ad33bdfbef33.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BGNES",
-   "title": "Spain Stands With Ceuta as Football Federation Brings World Cup Trophy to City",
-   "iso": "2026-09-04T18:10:17.000Z",
-   "link": "http://www.bgnes.com/sport/spain-stands-with-ceuta-as-football-federation-brings-world-cup-trophy-to-city",
-   "lede": "“Spain is Ceuta, and Ceuta is Spain.” That was the message from Spanish Football Federation president Rafael Louzán during a visit to the autonomous city, where the RFEF delegation came to show its support for the local community during a difficult period. Louzán was joined by Spain head coach Luis de la Fuente, general secretary Álvaro de Miguel and sporting director Aitor Karanka. The delegation was welcomed by Ceuta president Juan Jesús Vivas, who received the World Cup trophy won by Spain this summer.",
-   "image": "https://www.bgnes.com/static/images/news/2026/09/04/22110/20274.webp",
    "emoji": "🏟️",
    "bg": "#7a5b16"
+  },
+  {
+   "cat": "ABC27",
+   "title": "Why are FIFA, UEFA taking legal action in Colorado?",
+   "iso": "2026-09-04T20:41:04.000Z",
+   "link": "https://www.abc27.com/national/why-are-fifa-uefa-taking-legal-action-in-colorado/amp/",
+   "lede": "DENVER (KDVR) — The 2026 FIFA Men's World Cup ended nearly two months ago, yet the football/soccer world's governing body is back in American headlines, more specifically in Colorado — but why? The litigation follows a lengthy saga including FIFA President Gianni Infantino, the Kushner family, several football confederations worldwide and a recently founded investment firm based here in Denver. Infantino on July 28 announced a plan to create a company to run the World Cup, featuring investments of $4.2 billion from the Kushner family, with other involved parties including Greg Maffei, the CEO and founder of BANN Ventures, which is where the Colorado tie-in comes from. BANN Ventures, founded in 2025, is based in Denver, and its website describes it as an investment firm \"dedicated to identifying, backing and scaling companies across the sports, media and entertainment industries.\"",
+   "image": "https://www.abc27.com/wp-content/uploads/sites/55/2026/09/AP26201157366031-e1788568679358.jpg?w=1280",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "HINDUSTAN TIMES",
@@ -38,46 +48,36 @@
    "link": "https://www.hindustantimes.com/sports/football/the-best-do-not-always-win-the-world-cup-cafu-101788541646423.html",
    "lede": "On a stage at a college atrium, Cafu soaked in the adulation. Students, brandishing any Brazilian jersey they could find – from the present selection with ‘Neymar Jr’ printed on the back to quite a few with ‘Ronaldo’ – cheered him on. Cafu beckoned a few to toss their shirts forward for him to sign and send back.And then his eye caught a replica World Cup trophy. More silver than gold, it was handed over to him to pose with.",
    "image": "https://www.hindustantimes.com/ht-img/img/2026/09/04/1600x900/logo/Cafu-is-the-last-Brazilian-captain-to-have-won-the_1788541643599_69d4edac-e36a-4e66-bb0e-1b9e480672cb.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "REDIFF.COM",
-   "title": "India Vs Panama Football Friendly Date Changed Due To Marathon",
-   "iso": "2026-09-04T16:35:32.000Z",
-   "link": "https://www.rediff.com/sports/report/india-panama-football-friendly-rescheduled-in-bengaluru/20260904.htm",
-   "lede": "Discover why India's highly anticipated international football friendly against 2026 World Cup participant Panama in Bengaluru has been rescheduled to September 25, offering a crucial test for the Blue Tigers. India's international football friendly against Panama here has been advanced by a day from the scheduled September 26 as the Sree Kanteerava Stadium, the venue of the match, will host the Bengaluru Marathon on September 27. Since the Kanteerava Stadium will serve as the starting and finishing point of the marathon race, it will be difficult to host the India vs Panama football match the next day as per the earlier schedule, according to sources. The match will now be held on September 25.",
-   "image": "https://im.rediff.com/1200-630/money/2015/jul/06city1.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "YAHOO SPORTS",
-   "title": "‘Most Selfless Player I’ve Seen’ – WNBA World Raves After Caitlin Clark’s Historic Double-Double in Team USA’s World Cup Opener",
-   "iso": "2026-09-04T15:55:17.000Z",
-   "link": "https://sports.yahoo.com/articles/most-selfless-player-ve-seen-155517874.html",
-   "lede": "Indiana Fever’s Caitlin Clark is a polarizing player because of certain aspects of her game. The WNBA star possesses almost infinite range, shredding defenses but also frustrating opposing fans. The WNBA star possesses almost infinite range, shredding defense...",
-   "image": "https://s.yimg.com/lo/mysterio/api/5066576e5f4fc69eece8f8ccf6ad6f6be600f079fc09ce7772485d3ac1096494/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F05da696e92efd35c533e6881effd8eb5.jpg",
+   "cat": "조선일보",
+   "title": "Park Hang-seo Criticizes Football Association's 'Cartel' and Arrogance",
+   "iso": "2026-09-05T03:33:03.000Z",
+   "link": "https://www.chosun.com/english/national-en/2026/09/05/TDPMXKUHDZC6DKYUFWQP2UQNZY/",
+   "lede": "Park Hang-seo Slams Korea Football Associations Cartel and Arrogance Former Korea team head urges football association to introspect on cartel-like practices and leadership failures exposed during World Cup. Park Hang-seo Slams Korea Football Associations Cartel and Arrogance Former Korea team head urges football association to introspect on cartel-like pr.",
+   "image": "https://www.chosun.com/resizer/v2/7BHNZVDK3ZJTRFGVBZN5QQ2ANY.jpg?auth=7c7bad253a807da5f44e80e22486cce00eccd377113f4a5fa344c5e5760f7e67&width=1200&height=630&focal=2321,1216",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Team USA dominates China to open FIBA Women’s World Cup",
-   "iso": "2026-09-04T21:27:47.000Z",
-   "link": "https://www.nytimes.com/athletic/7565388/2026/09/04/usa-fiba-world-cup-china/",
-   "lede": "Team USA started the defense of its FIBA World Cup gold medal with a dominant 94-61 win over China in Germany.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/04112805/rhyne-howard-fiba-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "조선일보",
+   "title": "English Football Association Reviews World Cup Tactics, Player Feedback",
+   "iso": "2026-09-05T03:04:07.000Z",
+   "link": "https://www.chosun.com/english/sports-en/2026/09/05/5ML4F7FHH5DMFJXVSKORQTEPCU/",
+   "lede": "",
+   "image": "https://www.chosun.com/resizer/v2/GBRTOMBYMNSDAYRUGI2TMMZVGA.jpg?auth=595e45ac63617fde2bb291a0b5c9105619fd9f37b294d511cbae93301ae83f28&width=650&height=341&smart=true",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The WNBA has experienced a French influence. It could also cause chaos in the World Cup",
-   "iso": "2026-09-04T21:23:26.000Z",
-   "link": "https://www.nytimes.com/athletic/7561120/2026/09/04/france-wnba-world-cup-womens-basketball/",
-   "lede": "Thirteen French players compete in the WNBA, and eight of them will be competing for France, a Team USA rival, in the World Cup.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/02215947/GettyImages-2165855966-scaled-e1788400812250.jpg?width=1200&height=630&fit=cover",
+   "cat": "CHOSUNBIZ",
+   "title": "Korea fails to elect football federation president - CHOSUNBIZ",
+   "iso": "2026-09-05T03:00:00.000Z",
+   "link": "https://biz.chosun.com/en/en-sports/2026/09/05/JMNVGJ4QYVGN7JVGCVONGCZVHU/",
+   "lede": "Korea fails to elect football federation president Korea Football Association has not yet found a successor to former chairman Chung Mong-gyu, but th.",
+   "image": "https://biz.chosun.com/resizer/v2/GNSGKNBZMZQWIOLEGNSWCOJQGY.jpg?auth=19d3fbf4e86cbc7b3fa268b97df3ce2174d6a485dc06dcfad0f17a8cd3cc4dc8&width=650&height=341&smart=true",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
