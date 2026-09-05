@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T22:21:47.146Z",
+ "updated": "2026-09-05T23:55:12.286Z",
  "news": [
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "BUENOS AIRES TIMES",
+   "title": "Argentina's players embrace fans' new World Cup anthem",
+   "iso": "2026-09-05T20:45:02.000Z",
+   "link": "https://batimes.com.ar/news/sports/la-cuarta-estrella-argentinas-players-embrace-fans-new-world-cup-anthem.phtml",
+   "lede": "As Argentina's World Cup 2026 gathers momentum, the Albiceleste faithful have found a new soundtrack. Four years after 'Muchachos' became inseparable from the team's triumphant run in Qatar, a fresh terrace anthem, 'La cuarta estrella' ('The Fourth Star'), has erupted in stadiums across North America and is now being sung by Lionel Messi and his teammates as their title defence continues. The song gathered momentum among Argentina supporters before being embraced by the squad following Tuesday's dramatic 3-2 comeback victory over Egypt in Atlanta, which sealed a place in the World Cup quarter-finals.",
+   "image": "https://fotos.perfil.com/2026/07/09/trim/1140/641/argentinas-players-reacts-after-the-world-cup-2026-round-of-16-win-over-egypt-2279454.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE DAILY STAR",
    "title": "What comes next for Messi after a cruel summer?",
    "iso": "2026-09-05T20:01:13.000Z",
    "link": "https://www.thedailystar.net/sports/football/news/what-comes-next-messi-after-cruel-summer-4259371",
    "lede": "The 2026 World Cup ended with Argentina losing the final to Spain. Soon after, Lionel Messi returned to Rosario, where he suffered a far greater loss with the death of his father, Jorge. Now, at 39, Messi's future in football is suddenly less certain. A recent report by The Athletic has shed more light on what Messi has been going through since Argentina's 1-0 defeat by Spain in the World Cup final.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -38,28 +48,28 @@
    "link": "https://www.friendsoffootballnz.com/2026/09/06/preview-junior-football-ferns-to-be-tested-at-fifa-u-20-womens-world-cup/",
    "lede": "New Zealand’s Junior Football Ferns face a tough test when they represent their country at the FIFA U-20 Women’s World Cup, starting in Poland this weekend. The cities of Łódź, Katowice, Sosnowiec, and Bielsko-Biała will share the 24-team tournament. New Zealand will be represented for the tenth time. The top two teams in each group and the best four third-placed teams will advance to the knockout rounds, but the Junior Football Ferns will have quite the task in an unforgiving Group D.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/08/FIFA-U-20-Womens-World-Cup-4.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "SPORTSADDA",
+   "cat": "SPORTSADDA.ASIA",
    "title": "Japan national football team: the full squad and key players after nine summer moves",
    "iso": "2026-09-05T19:12:41.000Z",
    "link": "https://www.sportsadda.asia/football/features-football/japan-national-football-team-full-squad-and-key-players/",
    "lede": "Japan took 26 players to the 2026 World Cup and nine of them have changed clubs since. Here is the current squad with caps, goals and corrected clubs, plus the captain who retired without kicking a ball at the tournament. Japan are coached by Hajime Moriyasu, ranked 17th in the world by FIFA as of 20 July 2026, and took 26 players to the 2026 World Cup. Ten of those 26 entries have since moved.",
    "image": "https://www.sportsadda.asia/wp-content/uploads/2026/09/japan-national-football-team-squad.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "SPORTSADDA",
+   "cat": "SPORTSADDA.ASIA",
    "title": "Netherlands national football team: the full squad and key players Xavi has inherited",
    "iso": "2026-09-05T19:12:39.000Z",
    "link": "https://www.sportsadda.asia/football/features-football/netherlands-national-football-team-full-squad-and-key-players/",
    "lede": "Xavi Hernandez took over the Netherlands in August and names his first squad this month. Here is the group he inherits, with caps, goals and current clubs, and why twelve of the 26 play their football in England. The Netherlands have a new manager and an old squad. Xavi Hernandez took the job on 12 August 2026, replacing Ronald Koeman, and has not yet named a group of his own.",
    "image": "https://www.sportsadda.asia/wp-content/uploads/2026/09/netherlands-national-football-team-squad.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -68,16 +78,6 @@
    "link": "https://sports.yahoo.com/articles/fernandez-could-key-serious-man-190500068.html",
    "lede": "Manchester City’s decision to equal the British transfer record of £125m to sign Enzo Fernández feels like far more than the acquisition of another elite footballer. It is a statement about where ... Manchester City’s decision to equal the British transfer record of £125m to sign Enzo Fernández feels like far more than the acquisition of another elite foo...",
    "image": "https://s.yimg.com/lo/mysterio/api/a15e5960330e47346f404dd4bbfb65b05fea0a41cac919044e68b1f635c62272/lightyear_networkapi/resizefill_w1000_h667%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fworld_football_index_articles_315%2F79556b57f64ed2505e6c322975e3294e.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE HOLLYWOOD REPORTER",
-   "title": "DoorDash Taps Into Football Fandom With Saturday Savings All Fall Long",
-   "iso": "2026-09-05T17:39:39.000Z",
-   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/doordash-streaks-promo-2026-fall-football-saturday-deals-1236691356/",
-   "lede": "If you purchase an independently reviewed product or service through a link on our website, The Hollywood Reporter may receive an affiliate commission. As summer turns to fall and FIFA World Cup soccer moves into football, DoorDash is staying loyal to sports fans ordering in. Starting Saturday, Sept. 5, the food delivery platform is offering weekly Saturday deals on DoorDash favorites. Order enough, and the weekly discounts turn into monthly prize drawings ranging from DoorDash gift cards to over $750k toward a new house.",
-   "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/DoorDash-Taps-Into-Football-Fandom-With-Saturday-Savings-All-Fall-Long-MAIN.jpg?w=1296&h=730&crop=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
