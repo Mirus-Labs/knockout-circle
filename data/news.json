@@ -1,82 +1,83 @@
 {
- "updated": "2026-09-06T09:29:14.725Z",
+ "updated": "2026-09-06T12:20:46.886Z",
  "news": [
   {
-   "cat": "THE DAILY STAR",
-   "title": "World Cup winners, FIFA legends say Infantino blinded by power",
-   "iso": "2026-09-06T07:48:59.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/world-cup-winners-fifa-legends-say-infantino-blinded-power-4255861",
-   "lede": "A group of former international players, including World Cup winners and FIFA legends, called on Monday for immediate change at world soccer's governing body, saying its leadership under embattled President Gianni Infantino had been blinded by power. Infantino has been under mounting pressure to resign after shelving his now abandoned proposal to create a commercial body for FIFA tournament rights and sell off 20% to private investors. The Swiss has shown no signs of walking away from the position he has held since 2016 despite open opposition from several of FIFA's own confederations, including UEFA, the AFC and CONCACAF, amid talks of a potential no-confidence vote.",
+   "cat": "THEDAILYSTAR.NET",
+   "title": "‘Not today, not here’: Infantino tight-lipped on abandoned World Cup rights proposal",
+   "iso": "2026-09-06T11:37:30.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/not-today-not-here-infantino-tight-lipped-abandoned-world-cup-rights-proposal-4265916",
+   "lede": "FIFA President Gianni Infantino, who attended the opening match of the Under-20 Women's World Cup in Katowice on Saturday, remained tight-lipped about whether he regrets his abandoned proposal to sell a stake in the World Cup. The event is the first tournament organised by world soccer's ruling body since the Swiss administrator called off the plan, which valued the commercial rights of the World Cup and other FIFA tournaments at $20 billion. The proposal was abandoned in late July following a fierce backlash and boycott threats from regional governing bodies, including Europe's UEFA and major stakeholders in the sport. \"I'm very happy to be here in beautiful Poland, in Katowice, a fantastic setting for this Under-20 FIFA Women's World Cup.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE DAILY STAR",
+   "cat": "HINDUSTAN TIMES",
+   "title": "Brazil squad for India friendly to be named on September 9 as Salt Lake pitch comes under strict CBF turf scrutiny | Football News",
+   "iso": "2026-09-06T10:20:14.000Z",
+   "link": "https://www.hindustantimes.com/sports/football/brazil-squad-for-india-friendly-to-be-named-on-september-9-as-salt-lake-pitch-comes-under-strict-cbf-turf-scrutiny-101788689096078.html",
+   "lede": "Brazil’s historic trip to India is beginning to take shape, with Carlo Ancelotti set to announce his 26-member squad on September 9 even as Brazilian turf specialists work to ensure Kolkata’s Salt Lake Stadium meets the standards expected for a team featuring some of world football’s biggest names. The five-time world champions will face India on October 3 as part of a three-match international window that also includes two friendlies against Australia. Brazil will first take on Australia on September 25 before another meeting between the two sides on September 29, followed by the much-anticipated clash against India four days later.The Brazilian Football Confederation (CBF) confirmed that the squad for all three matches will be announced on Wednesday, September 9, at 3 PM Brasília time.",
+   "image": "https://www.hindustantimes.com/ht-img/img/2026/09/06/1600x900/logo/Brazil_1788689383401_f2c540fd-9edd-48b4-8618-fd12dbd18a5e_1788689395667_fac10035-1abf-43cc-a3a2-eac0ca12f9ad_af05b9b7-a7f6-453e-bf68-2f2d71404c09_f3dc30a0-1d87-46f3-8df5-361ffd03d86a.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE SUN",
+   "title": "World Cup star rushed to hospital with broken leg so horrific it leaves rival keeper in tears",
+   "iso": "2026-09-06T09:33:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40286646/world-cup-morocco-ayoub-el-kaabi-leg-break/",
+   "lede": "MOROCCO star Ayoub El Kaabi was rushed to hospital after suffering a horrific broken leg. The striker was in action for Greek side Olympiacos in the match against Volos. El Kaabi, 33, challenged for the ball but got his leg stuck underneath the opposition goalkeeper. Once the stopper was off the striker, he could be seen rolling around in pain on the pitch.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/OQ-OP-LEG-BREAK.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "RFI",
+   "title": "Algerian football chiefs name Hemdani to replace Petkovic as head coach",
+   "iso": "2026-09-06T08:46:20.000Z",
+   "link": "https://www.rfi.fr/en/sports/20260906-algerian-football-chiefs-name-hemdani-to-replace-petkovic-as-head-coach",
+   "lede": "The Algerian Football Federation (FAF) confirmed on Sunday the appointment of the former Marseille and Glasgow Rangers midfielder Brahim Hemdani as head coach. The 48-year-old takes over from Vladimir Petkovic who led the side to the last eight at the 2025 Africa Cup of Nations and the 2026 World Cup where they lost in the last-32 to Switzerland. Former Algeria interntional defender Antha Yahia will be his assistant while Nacer Daineche and Nasredine Berarma join them as fitness coach and goalkeeping coach respectively. \"The FAF wishes him [Hemdani] and his staff every success and assures them of its full support in carrying out their mission,\" said the FAF.",
+   "image": "https://s.rfi.fr/media/display/c26a1f36-a9cc-11f1-b723-005056a90284/w:1280/p:16x9/algeria-4.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THEDAILYSTAR.NET",
+   "title": "World Cup winners, FIFA legends say Infantino blinded by power",
+   "iso": "2026-09-06T07:48:59.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/world-cup-winners-fifa-legends-say-infantino-blinded-power-4255861",
+   "lede": "A group of former international players, including World Cup winners and FIFA legends, called on Monday for immediate change at world soccer's governing body, saying its leadership under embattled President Gianni Infantino had been blinded by power. Infantino has been under mounting pressure to resign after shelving his now abandoned proposal to create a commercial body for FIFA tournament rights and sell off 20% to private investors. The Swiss has shown no signs of walking away from the position he has held since 2016 despite open opposition from several of FIFA's own confederations, including UEFA, the AFC and CONCACAF, amid talks of a potential no-confidence vote.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "BUENOS AIRES TIMES",
+   "title": "Argentina's players embrace fans' new World Cup anthem",
+   "iso": "2026-09-06T07:42:44.000Z",
+   "link": "https://batimes.com.ar/news/sports/la-cuarta-estrella-argentinas-players-embrace-fans-new-world-cup-anthem.phtml",
+   "lede": "As Argentina's World Cup 2026 gathers momentum, the Albiceleste faithful have found a new soundtrack. Four years after 'Muchachos' became inseparable from the team's triumphant run in Qatar, a fresh terrace anthem, 'La cuarta estrella' ('The Fourth Star'), has erupted in stadiums across North America and is now being sung by Lionel Messi and his teammates as their title defence continues. The song gathered momentum among Argentina supporters before being embraced by the squad following Tuesday's dramatic 3-2 comeback victory over Egypt in Atlanta, which sealed a place in the World Cup quarter-finals.",
+   "image": "https://fotos.perfil.com/2026/07/09/trim/1140/641/argentinas-players-reacts-after-the-world-cup-2026-round-of-16-win-over-egypt-2279454.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
+   "iso": "2026-09-06T07:10:52.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty",
+   "lede": "Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip. India claim seven-wicket win after Pakistan lose 10 wickets for just 28 runs as they are bowled out for 55. Two points from three matches is ⁠their worst start since the 2007-08 season, when PSG came close to relegation. Norwegian scores only goal of unconvincing home win against newly promoted Coventry City.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9ce99705-1788668311.jpg?resize=1920%2C1440",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THEDAILYSTAR.NET",
    "title": "FIFA blasts UEFA ‘smear campaign,’ fights World Cup plan disclosures",
    "iso": "2026-09-06T06:51:46.000Z",
    "link": "https://www.thedailystar.net/sports/football/news/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures-4264481",
    "lede": "FIFA has accused UEFA of a \"smear campaign\" and a \"fishing expedition\" after European football's governing body asked US judges to force it to hand over documents related to its failed World Cup investor plan. Global soccer body FIFA's divisive plan to sell stakes in the World Cup to investors, unveiled in July, triggered a huge backlash across the sport, with UEFA threatening to boycott the World Cup unless the plan was scrapped. While FIFA quickly aborted the plans in response to the backlash, UEFA is now preparing possible legal action against FIFA president Gianni Infantino for alleged \"criminal mismanagement.\" Last week, it filed requests in three US states requesting the disclosure of documents related to the plan from FIFA and partners, including prospective lead investor Joshua Kushner's Thrive Capital firm.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE DAILY STAR",
-   "title": "‘Not today, not here’: Infantino tight-lipped on abandoned World Cup rights proposal",
-   "iso": "2026-09-06T05:43:05.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/not-today-not-here-infantino-tight-lipped-abandoned-world-cup-rights-proposal-4265916",
-   "lede": "FIFA President Gianni Infantino, who attended the opening match of the Under-20 Women's World Cup in Katowice on Saturday, remained tight-lipped about whether he regrets his abandoned proposal to sell a stake in the World Cup. The event is the first tournament organised by world soccer's ruling body since the Swiss administrator called off the plan, which valued the commercial rights of the World Cup and other FIFA tournaments at $20 billion. The proposal was abandoned in late July following a fierce backlash and boycott threats from regional governing bodies, including Europe's UEFA and major stakeholders in the sport. \"I'm very happy to be here in beautiful Poland, in Katowice, a fantastic setting for this Under-20 FIFA Women's World Cup.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "INDIA TODAY",
-   "title": "Gianii Infantino dodges FIFA future questions amid fallout over failed World Cup plan",
-   "iso": "2026-09-06T05:26:14.000Z",
-   "link": "https://www.indiatoday.in/sports/football/story/gianni-infantino-fifa-future-questions-avoids-failed-world-cup-rights-plan-2988088-2026-09-06",
-   "lede": "FIFA president Gianni Infantino refused to shed light on his plans for the future as he attended the opening match of the Under-20 Women's World Cup in Poland on Saturday. Infantino was asked about his position amid continued scrutiny following the collapse of his controversial proposal to sell off a share of FIFA's future World Cup profits.Infantino was in the stands as hosts Poland faced Argentina on the opening day of the tournament. Asked by Sky News about his future, the FIFA president said there would be a time to address the issue, but insisted the focus should remain on football.“. There will be a lot to say, but there will be a right place and a right time to say this.",
-   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/fifa-president-gianni-infantino-122608305-16x9.jpg?VersionId=VwJjLBNOH71FZmmp_oxkM8oolPLqhvBo",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "AOL.COM",
-   "title": "‘David vs Goliath Basketball Version’ – WNBA World Reacts As Angel Reese Out-Rebounds 7’3” China Star in FIBA World Cup",
-   "iso": "2026-09-06T04:38:00.000Z",
-   "link": "https://www.aol.com/articles/david-vs-goliath-basketball-version-041042000.html",
-   "lede": "WNBA star Angel Reese made an impact in Team USA’s opening victory over China at the FIBA Women’s Basketball World Cup on Friday. Her signature rebounding against China’s 7’3 center Zhang Ziyu sparked plenty of reactions across social media. Team USA beat China 94-61 in their Group D opener, and while Reese only scored 5 points, she made headlines by out-rebounding the much taller Zhang (9 rebounds to 6). FIBA lists Reese at 190 centimeters and Zhang at 223 centimeters, but the Atlanta Dream star overcame the roughly 13-inch height difference to collect more rebounds.",
-   "image": "https://hermes.media.static.aol.com/media/2026/09/06/06e9531e-1c86-322b-8723-adb5c52c0185/ea6f6f02-d83b-4439-bcb4-d8b1972ea078.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "NEWS ON AIR",
-   "title": "Philippines women’s national football team secures qualification for 2027 FIFA Women’s World Cup",
-   "iso": "2026-09-05T22:55:52.000Z",
-   "link": "https://newsonair.gov.in/philippines-womens-national-football-team-secures-qualification-for-2027-fifa-womens-world-cup/",
-   "lede": "News On AIR | March 19, 2026 1:13 PM. The Philippines women’s national football team have secured qualification for the 2027 FIFA Women’s World Cup after defeating the Uzbekistan women’s national football team 2-0 in a Women’s Asian Cup play-in match on the Gold Coast today. Angela Beard delivered a standout performance, opening the scoring early in the second half after earlier missed opportunities. She found the net in the 47th minute with a well-taken strike into the roof of the goal.",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "Oceania’s next generation ready for FIFA U-17 Women’s World Cup qualifiers",
-   "iso": "2026-09-05T21:12:22.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/09/06/oceanias-next-generation-ready-for-fifa-u-17-womens-world-cup-qualifiers/",
-   "lede": "The next generation of women’s football talent in Oceania will take centre stage in Honiara over the next fortnight, with eight nations set to compete for the OFC U-16 Women’s Championship 2026 and a coveted pathway towards next year’s FIFA U-17 Women’s World Cup in Morocco. The tournament kicks off on Sunday September 6, with Cook Islands, Fiji, New Caledonia, New Zealand, Papua New Guinea, Samoa, Solomon Islands, Tonga and New Caledonia all eyeing continental success. Main photo: Captains call before the 2026 OFC U-16 Women’s Championship. Photo credit: OFC Media / Phototek.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/09/OFC-U-16-women-championship.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "PREVIEW: Junior Football Ferns to be tested at FIFA U-20 Women’s World Cup",
-   "iso": "2026-09-05T19:57:05.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/09/06/preview-junior-football-ferns-to-be-tested-at-fifa-u-20-womens-world-cup/",
-   "lede": "New Zealand’s Junior Football Ferns face a tough test when they represent their country at the FIFA U-20 Women’s World Cup, starting in Poland this weekend. The cities of Łódź, Katowice, Sosnowiec, and Bielsko-Biała will share the 24-team tournament. New Zealand will be represented for the tenth time. The top two teams in each group and the best four third-placed teams will advance to the knockout rounds, but the Junior Football Ferns will have quite the task in an unforgiving Group D.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/08/FIFA-U-20-Womens-World-Cup-4.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
