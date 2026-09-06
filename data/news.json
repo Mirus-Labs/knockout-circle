@@ -1,45 +1,55 @@
 {
- "updated": "2026-09-06T20:52:02.102Z",
+ "updated": "2026-09-06T21:45:04.156Z",
  "news": [
   {
-   "cat": "GEMPAK.COM",
+   "cat": "THE TIMES OF INDIA",
+   "title": "'I am so sorry': Moroccan World Cup star rushed to hospital with injury so horrific it leaves rival keepe",
+   "iso": "2026-09-06T21:00:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/i-am-so-sorry-moroccan-world-cup-star-rushed-to-hospital-with-injury-so-horrific-it-leaves-rival-keeper-in-tears/articleshow/133836320.cms",
+   "lede": "Football News: Ayoub El Kaabi suffered a horrific leg injury during a match between Olympiacos and Volos, resulting in a tearful reaction from rival goalkeeper Marios Siampanis. The midfielder Jota Silva dedicated a penalty goal to El Kaabi, who may face surgery and a lengthy recovery time. Olympiacos has expressed their support for the injured star.",
+   "image": "https://static.toiimg.com/thumb/msid-133836722,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "AFRICA IS A COUNTRY",
+   "title": "The footballing gods",
+   "iso": "2026-09-06T19:34:23.000Z",
+   "link": "https://africasacountry.com/2026/06/the-footballing-gods",
+   "lede": "Why are the religious practices of African footballers treated as strange when athletes around the world turn to faith and superstition to navigate the game’s uncertainty? Moroccan players pray after scoring against Belgium at Al Thumama Stadium, Doha, Qatar on 27 November 2022. Source: Peter Dogvan via UK Sports Pics Ltd / Alamy. For centuries, theologians have struggled to precisely understand the role of sports, including football, in God’s greater purposes.",
+   "image": "https://media.africasacountry.com/images/2026/6/669598096159.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "GEMPAK",
    "title": "GSC & TGV Are Hosting a Watch Party for the World Cup Final With Free-Flow Popcorn & Drinks",
    "iso": "2026-09-06T18:21:49.000Z",
    "link": "https://gempak.com/rojakdaily/lifestyle/gsc-tgv-are-hosting-watch-party-world-cup-final-free-flow-popcorn-drinks",
    "lede": "There’s just something special about watching football with a crowd. Whether it’s celebrating a last-minute winner, gasping over a missed chance, or debating every refereeing decision, the experience always feels more exciting when you’re surrounded by fellow fans. With the 2026 FIFA World Cup final looming, it’s the perfect time to gather your football-loving friends and soak in the atmosphere together. Exclusively for the final match, two of Malaysia's well-known cinema chains, GSC and TGV, are set to host live watch parties.",
    "image": "https://d3lmgsai2rsy7d.cloudfront.net/gempak/media/uploads/image/2026-07/posterft.jpg?VersionId=A.4CY4ez2aCL15.cGK5YMu73z8bPyIH9",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE JERUSALEM POST",
+   "cat": "JPOST.COM",
    "title": "FIFA President Gianni Infantino says he will seek re-election in March despite calls to resign",
    "iso": "2026-09-06T17:44:29.000Z",
    "link": "https://www.jpost.com/international/article-907740",
    "lede": "FIFA president Gianni Infantino remains committed to standing for re-election amid renewed opposition to his candidacy after a botched plan to sell a stake in FIFA competitions to private investors, a spokesperson for the global soccer body said on Sunday.Infantino, who had previously announced that he would seek a fourth term in March next year, has faced calls to resign from UEFA, the AFC and CONCACAF, after his plan to sell a 20% stake in the World Cup and other FIFA events was scrapped amid widespread backlash in July.But the 56-year-old retains support from the African and South American confederations.\" The FIFA president announced in April that he will stand for re-election in 2027. Of course, nothing has changed.",
    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736676",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "Penalty denies New Zealand in opening game at FIFA U-20 Women’s World Cup",
-   "iso": "2026-09-06T16:32:09.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/09/07/penalty-denies-new-zealand-in-opening-game-at-fifa-u-20-womens-world-cup/",
-   "lede": "A stoppage-time penalty by Japan has denied New Zealand their first point at this year’s FIFA U-20 Women’s World Cup in Poland. New Zealand and Japan were tied 1-1 at the end of normal time at Stadion Miejski ŁKS Łódź when the Asian champions were awarded a penalty. The spot kick was struck home by Miyu Matsunaga, giving her a double and helping earn her the Player of the Match award. After a scoreless first half, Matsunaga was brought off the bench and she gave Japan the lead four minutes into the second spell.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/08/FIFA-U-20-womens-world-cup-0.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "RFI.FR",
+   "cat": "RFI",
    "title": "Infantino reiterates intention to run for fourth term as Fifa boss",
    "iso": "2026-09-06T16:12:28.000Z",
    "link": "https://www.rfi.fr/en/sports/20260906-infantino-reiterates-intention-to-run-for-fourth-term-as-fifa-boss-world-cup-2026",
    "lede": "Gianni Infantino, the head of world football's governing body Fifa, on Sunday redeclared his intention to continue until 2031 as the sport's most powerful executive despite calls for his resignation over his botched plan to sell a stake in Fifa competitions to private investors. \"The Fifa president announced in April that he will stand for re-election in 2027,\" a Fifa spokesperson said. \"Of course, nothing has changed. Mr Infantino will be standing for re-election.\"",
    "image": "https://s.rfi.fr/media/display/8182f672-94f6-11f1-9be7-005056a90284/w:1280/p:16x9/AP26198800606552.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -48,8 +58,8 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/gianni-infantino-to-run-for-fourth-term-as-fifa-president-despite-growing-pressure-over-world-cup-plan/articleshow/133843678.cms",
    "lede": "FIFA president Gianni Infantino will stand for re-election next year despite growing pressure over his controversial plan to sell stakes in the World Cup, football's world governing body said on Sunday.Infantino is seeking a fourth and final term that would keep him in charge of FIFA until 2031. His decision comes despite calls from several football bodies and national associations for him to step down.Infantino confirms re-election bidFIFA said there has been no change in Infantino's plans to run for another term.“. The FIFA President announced in April that he will stand for re-election in 2027. Of course, nothing has changed.",
    "image": "https://static.toiimg.com/thumb/msid-133843782,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -57,27 +67,16 @@
    "iso": "2026-09-06T16:00:03.000Z",
    "link": "https://sports.yahoo.com/articles/watch-team-usa-vs-italy-160003682.html",
    "lede": "Team USA takes center stage at the 2026 FIBA Women’s Basketball World Cup as they prepare to battle Italy in a key group-stage showdown at Uber Arena in Berlin. Coming off a dominant qualifying campaign, the Americans will look to maintain their gold-standard dominance against an aggressive, disciplined Italian team aiming for an upset on the international stage. Team USA takes center stage at the 2026 FIBA Women’s Basketball World Cup as they prepare to battle Italy in a key group-stage showdown at Uber Arena in Berl...",
-   "image": "https://s.yimg.com/lo/mysterio/api/bcbcfcaecb5647a427edf12c3b959ce9c71ad21979c949c2b38706d454bc732e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fe06d028e66910c01b2369bc8820dec54.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "FREE MALAYSIA TODAY",
-   "title": "‘Nothing has changed’ as Fifa confirms Infantino will seek re-election",
-   "iso": "2026-09-06T15:06:43.000Z",
-   "link": "https://www.freemalaysiatoday.com/category/sports/2026/09/06/nothing-has-changed-fifa-confirms-infantino-to-run-for-re-election",
-   "lede": "Fifa president Gianni Infantino is expected to continue serving as head of world football until 2031 if re-elected. (EPA Images pic) PARIS: Gianni Infantino will stand in next March's Fifa presidential election, despite the backlash over his now-abandoned plan to bring private investment into the World Cup, football's global governing body announced Sunday. \"The Fifa president announced in April that he will stand for re-election in 2027,\" a Fifa spokesman said. \"Of course, nothing has changed.",
-   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/ebe343da-gianni-infantino.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/af005331e7afa2cf2b094e625295a46f98e58778e989abc9b0da2c3c1714cd3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F598769f07ecf108adc87c230fef11fe4.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE TELEGRAPH",
-   "title": "Fifa president Gianni Infantino to stand for re-election despite sell-off scandal",
-   "iso": "2026-09-06T15:04:00.000Z",
-   "link": "https://www.telegraph.co.uk/football/2026/09/06/gianni-infantino-stand-for-fifa-re-election-after-scandal/",
-   "lede": "Football’s world governing body says ‘nothing has changed’ after its leader’s failed plot to sell stakes in World Cup to private investors. Jeremy Wilson has been chief sports reporter since 2018. He was named journalist of the year for his work on football’s dementia link and is a winner of the William Hill Sports Book of the Year award for his book about cyclist Beryl Burton. He can be contacted at jeremy.wilson@telegraph.co.uk or @jwtelegraph.",
-   "image": "https://www.telegraph.co.uk/content/dam/football/2026/09/06/TELEMMGLPICT000500915589_17886984659610_trans_NvBQzQNjv4Bq9k_NRcUxd_vb3GsOEtUiIreHsZFrEmHQDi0eQN40zhg.jpeg?impolicy=OG-Standard",
+   "cat": "HER FOOTBALL HUB",
+   "title": "Women's U-20 World Cup ultimate guide: Team insight, players to watch and predicted finishes",
+   "iso": "2026-09-06T21:03:09.000Z",
+   "link": "https://herfootballhub.com/womens-u-20-world-cup-ultimate-guide-team-insight-players-to-watch-and-predicted-finishes/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
