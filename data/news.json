@@ -1,6 +1,26 @@
 {
- "updated": "2026-09-07T01:14:08.638Z",
+ "updated": "2026-09-07T06:09:15.436Z",
  "news": [
+  {
+   "cat": "THE HINDU",
+   "title": "Gianni Infantino to run for re-election despite failed World Cup sell-off plan",
+   "iso": "2026-09-07T05:30:52.000Z",
+   "link": "https://www.thehindu.com/sport/football/gianni-infantino-to-run-for-re-election-despite-failed-world-cup-sell-off-plan/article71437504.ece",
+   "lede": "FIFA President Gianni Infantino will stand for re-election despite growing calls for him to step down as head of world football’s governing body. Infantino has faced increasing pressure after his controversial plan to sell stakes in the World Cup was met with a furious backlash. But FIFA said on Sunday (September 6, 2026) that he plans to stand again in next year's elections for a final term in office through 2031. \"The FIFA President announced in April that he will stand for re-election in 2027.",
+   "image": "https://th-i.thgim.com/public/incoming/pausx/article71437521.ece/alternates/LANDSCAPE_1200/2026-09-05T183242Z_1192062122_UP1EM951FIH8Q_RTRMADP_3_SOCCER-WORLDCUPU20-POL-ARG.JPG",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "FRIENDS OF FOOTBALL",
+   "title": "Allys Clipsham to help officiate FIFA U-20 Women’s World Cup match",
+   "iso": "2026-09-07T04:07:07.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/09/07/allys-clipsham-to-help-officiate-fifa-u-20-womens-world-cup-match/",
+   "lede": "New Zealand referee Allys Clipsham will make her first appearance at the FIFA U-20 Women’s World Cup when she helps officiate the Group E match between Costa Rica and Colombia. Dunedin-based Clipsham will be the assistant referee for the match at the Stadion Miejski ŁKS Łódz, in Poland at 4am (NZT) on Tuesday. Her appointment follows her debut on the FIFA international panel in 2025, and follows her work at last year’s FIFA U-17 Women’s World Cup in Morocco. Clipsham, who is the referee development manager for Football South, began her refereeing career in 2010 and was named New Zealand Football’s Assistant Referee of the Year in 2021.",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2025/08/Allys-Clipsham.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "ARAB NEWS",
    "title": "Italy gives US a scare and China edges Czech Republic in women’s FIBA World Cup",
@@ -8,8 +28,18 @@
    "link": "https://www.arabnews.com/football/italy-gives-us-a-scare-and-china-edges-czech-republic-in-womens-fiba-world-cup-3000729",
    "lede": "BERLIN: Italy gave the United States a huge scare in the women’s FIBA World Cup on Sunday, while China needed overtime to edge the Czech Republic 74-70 in another thriller. The US survived its toughest test at the tournament in two decades with a 55-52 win over Italy, with Jackie Young scoring 10 points. It stretched the Americans’ winning run at the World Cup to 32 games, but none of them have been closer. Italy trailed by 15 points early in the second quarter, but fought back through Olbis Andre and Cecilia Zandalasini as they cut the gap to six points before the break.",
    "image": "https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/d7d5d2fb7a99-WCup_United_States_Italy_Basketball_66844--4bac4.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "FOX SPORTS",
+   "title": "‘Embarrassment’: Young Socceroos hit 20-year low as rising star leaves Man Utd for A-League",
+   "iso": "2026-09-06T23:22:30.000Z",
+   "link": "https://www.foxsports.com.au/football/football-news-2026-young-socceroos-fail-to-qualify-for-u20-asian-cup-for-the-first-time-in-20-years-james-overy-joins-sydney-fc-from-manchester-united-latest-news-reaction/news-story/dc88d64cef358f6c285a53c8b16c304c",
+   "lede": "After winning the continental title in China last year, the Young Socceroos have failed to qualify for next year’s Under 20 Asian Cup in a bitter blow to Australian football. A 2-0 loss to Indonesia at New Laos National Stadium in Vientiane, Laos condemned the Young Socceroos to a third-place finish in their qualifying group with only the top two advancing to next year’s tournament in China. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Australia started the qualifying campaign with a 2-0 win over hosts Laos last Monday before drawing 2-2 with Malaysia on Thursday and the loss to Indonesia on Sunday left the Young Socceroos behind Malaysia on goal difference.",
+   "image": "https://content.api.news/v3/images/bin/7eb404ecbcd8d728d5c25552a2b595d6",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -17,9 +47,9 @@
    "iso": "2026-09-06T21:17:17.000Z",
    "link": "https://sports.yahoo.com/articles/kept-composure-lol-wnba-world-211717528.html",
    "lede": "Team USA is the heavy favorite to win the gold medal at the ongoing FIBA Women’s World Cup, for obvious reasons. While their bid for a fifth straight gold medal got off to the perfect start against China, Italy proved to be a difficult test in the second game of the group stage. While their bid for a fifth straight gold me...",
-   "image": "https://s.yimg.com/lo/mysterio/api/ac140a064cd3f930be8dabe54e87e973e9511d571940d821cd3abc3d35006d98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fe86a16b7d42c007810b105effe464574.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "image": "https://s.yimg.com/lo/mysterio/api/6392f09cc25efd00733c18db095829f81cad8eff82b9256f69402d19f129ca32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fed683ec6720adb91c9e3dc789f5896e9.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -28,56 +58,25 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/i-am-so-sorry-moroccan-world-cup-star-rushed-to-hospital-with-injury-so-horrific-it-leaves-rival-keeper-in-tears/articleshow/133836320.cms",
    "lede": "Football News: Ayoub El Kaabi suffered a horrific leg injury during a match between Olympiacos and Volos, resulting in a tearful reaction from rival goalkeeper Marios Siampanis. The midfielder Jota Silva dedicated a penalty goal to El Kaabi, who may face surgery and a lengthy recovery time. Olympiacos has expressed their support for the injured star.",
    "image": "https://static.toiimg.com/thumb/msid-133836722,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "AFRICA IS A COUNTRY",
-   "title": "The footballing gods",
-   "iso": "2026-09-06T19:34:23.000Z",
-   "link": "https://africasacountry.com/2026/06/the-footballing-gods",
-   "lede": "Why are the religious practices of African footballers treated as strange when athletes around the world turn to faith and superstition to navigate the game’s uncertainty? Moroccan players pray after scoring against Belgium at Al Thumama Stadium, Doha, Qatar on 27 November 2022. Source: Peter Dogvan via UK Sports Pics Ltd / Alamy. For centuries, theologians have struggled to precisely understand the role of sports, including football, in God’s greater purposes.",
-   "image": "https://media.africasacountry.com/images/2026/6/669598096159.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "GEMPAK",
-   "title": "GSC & TGV Are Hosting a Watch Party for the World Cup Final With Free-Flow Popcorn & Drinks",
-   "iso": "2026-09-06T18:21:49.000Z",
-   "link": "https://gempak.com/rojakdaily/lifestyle/gsc-tgv-are-hosting-watch-party-world-cup-final-free-flow-popcorn-drinks",
-   "lede": "There’s just something special about watching football with a crowd. Whether it’s celebrating a last-minute winner, gasping over a missed chance, or debating every refereeing decision, the experience always feels more exciting when you’re surrounded by fellow fans. With the 2026 FIFA World Cup final looming, it’s the perfect time to gather your football-loving friends and soak in the atmosphere together. Exclusively for the final match, two of Malaysia's well-known cinema chains, GSC and TGV, are set to host live watch parties.",
-   "image": "https://d3lmgsai2rsy7d.cloudfront.net/gempak/media/uploads/image/2026-07/posterft.jpg?VersionId=A.4CY4ez2aCL15.cGK5YMu73z8bPyIH9",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE JERUSALEM POST",
-   "title": "FIFA President Gianni Infantino says he will seek re-election in March despite calls to resign",
-   "iso": "2026-09-06T17:44:29.000Z",
-   "link": "https://www.jpost.com/international/article-907740",
-   "lede": "FIFA president Gianni Infantino remains committed to standing for re-election amid renewed opposition to his candidacy after a botched plan to sell a stake in FIFA competitions to private investors, a spokesperson for the global soccer body said on Sunday.Infantino, who had previously announced that he would seek a fourth term in March next year, has faced calls to resign from UEFA, the AFC and CONCACAF, after his plan to sell a 20% stake in the World Cup and other FIFA events was scrapped amid widespread backlash in July.But the 56-year-old retains support from the African and South American confederations.\" The FIFA president announced in April that he will stand for re-election in 2027. Of course, nothing has changed.",
-   "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736676",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "RFI",
-   "title": "Infantino reiterates intention to run for fourth term as Fifa boss",
-   "iso": "2026-09-06T16:12:28.000Z",
-   "link": "https://www.rfi.fr/en/sports/20260906-infantino-reiterates-intention-to-run-for-fourth-term-as-fifa-boss-world-cup-2026",
-   "lede": "Gianni Infantino, the head of world football's governing body Fifa, on Sunday redeclared his intention to continue until 2031 as the sport's most powerful executive despite calls for his resignation over his botched plan to sell a stake in Fifa competitions to private investors. \"The Fifa president announced in April that he will stand for re-election in 2027,\" a Fifa spokesperson said. \"Of course, nothing has changed. Mr Infantino will be standing for re-election.\"",
-   "image": "https://s.rfi.fr/media/display/8182f672-94f6-11f1-9be7-005056a90284/w:1280/p:16x9/AP26198800606552.jpg",
+   "cat": "TOD.TV",
+   "title": "Watch England vs Argentina",
+   "iso": "2026-09-07T04:27:33.000Z",
+   "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/semi-finals/england-vs-argentina-5057118",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Team USA struggles and survives World Cup scare from Italy",
-   "iso": "2026-09-06T22:18:52.000Z",
-   "link": "https://www.nytimes.com/athletic/7570828/2026/09/06/team-usa-italy-world-cup-win-struggle/",
-   "lede": "Team USA struggled scoring, barely getting by Italy in its second game of the World Cup to qualify for the quarterfinals.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/06163922/GettyImages-2293401813-1-e1788727176704.jpg?width=1200&height=630&fit=cover",
+   "cat": "E.VNEXPRESS.NET",
+   "title": "Egypt file complaint against referee after World Cup exit",
+   "iso": "2026-09-07T02:06:54.000Z",
+   "link": "https://e.vnexpress.net/news/sports/football/egypt-file-complaint-against-referee-after-world-cup-exit-5095497.html",
+   "lede": "The Egyptian football federation said on Wednesday it had asked for the officiating team from the Pharaohs' 3-2 defeat to Argentina in the last 16 of the World Cup to be thrown out of the competition. The Egyptian football federation said on Wednesday it had asked for the officiating team from the Pharaohs' 3-2 defeat to Argentina in the last 16 of the World Cup to be thrown out of the competition. - VnExpress International.",
+   "image": "https://vcdn1-english.vnecdn.net/2026/07/09/1ach-1783585539-1622-1783585610.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=A3YdlSoSE9RriWm_L39-nQ",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
