@@ -1,6 +1,25 @@
 {
- "updated": "2026-09-07T21:33:59.093Z",
+ "updated": "2026-09-07T23:41:57.467Z",
  "news": [
+  {
+   "cat": "TALKSPORT",
+   "title": "Kylian Mbappe labelled 'childish and pathetic' by France World Cup winner over Ballon d'Or claim",
+   "iso": "2026-09-07T21:57:15.000Z",
+   "link": "https://talksport.com/football/4564757/kylian-mbappe-childish-ballon-dor-christophe-dugarry/",
+   "lede": "Real Madrid star Mbappe thinks this 'might be a good year' for him to win the award for the first time. Talking up his chances ahead of Madrid's Champions League opener against Inter Milan, the France captain – who broke the all-time World Cup goals record this summer – said: \"I think when you play for Real Madrid, the best club in the world, people associate you with this award [the Ballon d'Or]. \"There are many people that speak about me and the Ballon d'Or. Of course I've made history in the most important competition.",
+   "image": "https://talksport.com/wp-content/uploads/2026/09/kylian-mbappe-real-madrid-cf-1106396497.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "NEWS ON AIR",
+   "title": "Philippines women’s national football team secures qualification for 2027 FIFA Women’s World Cup",
+   "iso": "2026-09-07T21:14:47.000Z",
+   "link": "https://newsonair.gov.in/philippines-womens-national-football-team-secures-qualification-for-2027-fifa-womens-world-cup/",
+   "lede": "News On AIR | March 19, 2026 1:13 PM. The Philippines women’s national football team have secured qualification for the 2027 FIFA Women’s World Cup after defeating the Uzbekistan women’s national football team 2-0 in a Women’s Asian Cup play-in match on the Gold Coast today. Angela Beard delivered a standout performance, opening the scoring early in the second half after earlier missed opportunities. She found the net in the 47th minute with a well-taken strike into the roof of the goal.",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "PLANET FOOTBALL",
    "title": "The 10 best right-backs in world football RANKED: Who can challenge Hakimi?",
@@ -8,8 +27,8 @@
    "link": "https://www.planetfootball.com/lists-and-rankings/best-right-backs-world-football-ranked",
    "lede": "The title of world’s best right-back isn’t up for much debate, but the race for the remaining places is fiercely contested. Europe’s elite are packed with top-class options, with stars from Arsenal, Barcelona, Tottenham, Chelsea and Real Madrid among the standouts. Some thrive as attacking outlets, others excel defensively, while the very best manage to do both. Here’s our ranking of the 10 best right-backs in world football right now.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/08/07101711/Best-Right-Backs-Ranked.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "PLANET FOOTBALL",
@@ -18,8 +37,8 @@
    "link": "https://www.planetfootball.com/lists-and-rankings/best-wingers-world-football-2026-ranked",
    "lede": "Who is the best winger in world football right now? Superstars from Barcelona, PSG and Bayern Munich are all up there and the World Cup has boosted their reputations. Europe’s biggest clubs are packed with elite wide attackers, yet only a select few can claim to be the very best. Narrowing our ranking down to just 10 names wasn’t easy, but we got there in the end.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/08/07125356/Best-Wingers-Ranked.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "PLANET FOOTBALL",
@@ -28,8 +47,18 @@
    "link": "https://www.planetfootball.com/stats-tables/2026-top-scorers-europe-club-country-list",
    "lede": "Big names from Real Madrid, Barcelona, Arsenal and Bayern Munich feature alongside some surprise names in the most prolific goalscorers of the calendar year so far. Some big names are surprisingly absent from the most prolific goalscorers of 2026 to date. Drawn from Europe’s five major leagues, here are the top 10 goalscorers in 2026 across club and international competitions. After a so-so stint with Aston Villa, the Dutch forward was in sensational form since his January move to Roma.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/08/07092719/Most-Goals-2026-1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "EGYPTIAN STREETS",
+   "title": "Masr! What the World Cup Taught Me About Being Egyptian",
+   "iso": "2026-09-07T16:55:49.000Z",
+   "link": "https://egyptianstreets.com/2026/09/07/masr-what-the-world-cup-taught-me-about-being-egyptian/",
+   "lede": "(“Left, right, we are Egyptians!”) a group of Egyptian fans chant outside Seattle’s iconic Pier 58 stadium. I joined the thousands dressed in red-black-and-white marching from the Central Waterfront to Lumen Field. We were going to war, but it wasn’t a military campaign.",
+   "image": "https://egyptianstreets.com/wp-content/uploads/2026/09/screenshot-2026-09-07-at-1-04-54%E2%80%AFpm.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -38,43 +67,13 @@
    "link": "https://www.bbc.com/sport/football/articles/cm2gee75vz7o",
    "lede": "Harry Kane helped England to third place in the World Cup. With the Ballon d'Or shortlist to be announced on Tuesday, Harry Kane heads the field as the bookmakers' favourite after a prolific season for club and country. History, however, suggests football's biggest individual prize is rarely decided on goals alone. Since the Ballon d'Or was first awarded in 1956, performances in the game's biggest competitions have consistently shaped the outcome.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/867e/live/60644180-aabd-11f1-b960-379ca4827622.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FIJIVILLAGE",
-   "title": "France face Morocco in high-stakes World Cup quarter-final tomorrow",
-   "iso": "2026-09-07T15:17:30.000Z",
-   "link": "https://www.fijivillage.com/t/france-face-morocco-in-high-stakes-world-cup-quarter-final-tomorrow-337bd0/",
-   "lede": "A place in the FIFA World Cup 2026 semi-finals is at stake when France and Morocco meet in a highly anticipated quarter-final clash tomorrow morning. France, making their 16th FIFA World Cup appearance, are chasing a third world title after triumphs in 1998 and 2018. The 2018 champions and 2022 runners-up have once again looked like serious title contenders, with a squad packed with attacking quality and tournament experience. France has scored 14 goals on their way to the last eight, with captain Kylian Mbappé leading the attack with seven goals at this year’s tournament.",
-   "image": "https://www.fijivillage.com/news_images/20260709181355_media_6a4f1552c07350_01707710.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SPORTINGTRIBUNE.COM",
-   "title": "Belgian FA demand answers over Balogun World Cup suspension decision",
-   "iso": "2026-09-07T14:26:39.000Z",
-   "link": "https://sportingtribune.com/belgian-fa-demand-answers-over-balogun-world-cup-suspension-decision/",
-   "lede": "The Belgian Football Association has demanded answers from FIFA over the decision to allow Folarin Balogun to play against Belgium at the World Cup despite the forward receiving a one-match suspension. The Royal Belgian Football Association (RBFA) has asked for the issue to be discussed at the next FIFA Council meeting on 15 October. Balogun was initially suspended for the last-16 tie after receiving a straight red card in the United States’ previous match. However, FIFA suspended the ban for a year, allowing the striker to feature against Belgium in one of the most controversial decisions of the tournament.",
-   "image": "https://sportingtribune.com/wp-content/uploads/2026/07/Balogun-e1783328438146.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Team USA bounces back from rough outing by dominating Czechia",
-   "iso": "2026-09-07T20:46:22.000Z",
-   "link": "https://www.nytimes.com/athletic/7572624/2026/09/07/team-usa-world-cup-czechia/",
-   "lede": "Breanna Stewart led the way for Team USA with 19 points.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/07162548/GettyImages-2294028640-scaled-e1788812771289.jpg?width=1200&height=630&fit=cover",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "TELEGRAPH INDIA",
    "title": "Commerce vs Carnival",
-   "iso": "2026-09-07T20:13:40.000Z",
+   "iso": "2026-09-07T21:11:52.000Z",
    "link": "https://www.telegraphindia.com/life/commerce-vs-carnival-how-america-and-brazil-experience-football-differently-prnt/cid/2174116",
    "lede": "",
    "emoji": "🧤",
