@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-09T11:30:38.847Z",
+ "updated": "2026-09-09T11:58:13.044Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
+   "iso": "2026-09-09T10:42:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
+   "lede": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League. Dani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying to pinpoint the moment he knew he was a world champion.",
+   "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53e721da4e13abf468ce63c35a4f0e63",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "CAMPAIGN MIDDLE EAST",
    "title": "How Afia Arabia turned the World Cup into a 42-million-view food tournament",
@@ -8,16 +18,6 @@
    "link": "https://campaignme.com/how-afia-arabia-turned-the-fifa-world-cup-into-a-42-million-view-food-tournament/",
    "lede": "Every World Cup creates a second competition away from the pitch. As national teams fight for progression, brands fight for association. Sponsors activate global rights, advertisers recruit football stars, creators fill social feeds and companies search for some credible way to attach themselves to the cultural moment. Against that backdrop, a cooking-oil brand might not appear to have the most obvious route into football.",
    "image": "https://campaignme.com/wp-content/uploads/2026/09/Afia-Arabia-1.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "FOOTBALL ITALIA",
-   "title": "From World champions to coaches: Italy’s 2006 heroes face mixed fortunes",
-   "iso": "2026-09-09T10:27:10.000Z",
-   "link": "https://football-italia.net/world-cup-champions-italy-2006-heroes-fortunes/",
-   "lede": "While Fabio Grosso and Daniele De Rossi have had a very poor start to the season, there are two 2006 Italy World Cup winners, Gennaro Gattuso and Filippo Inzaghi, at the top of the Serie A and Serie B standings. La Gazzetta dello Sport examines results from 2006 Italy World Cup winners who have become coaches. So far, none of the players who lifted the World Cup 20 years ago has reached the same high level in management. Grosso has made headlines as he was sacked by Fiorentina after just three Serie A matches, all lost by the Tuscans.",
-   "image": "https://icdn.football-italia.net/wp-content/uploads/2025/12/final-italy-v-france-world-cup-2.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,22 +42,22 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "DW.COM",
+   "title": "World Cup 2026: Could this be Africa's moment of glory?",
+   "iso": "2026-09-09T08:03:25.000Z",
+   "link": "https://www.dw.com/en/world-cup-2026-could-this-be-africas-moment-of-glory/audio-77492523",
+   "lede": "To play this audio please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video. African teams are heading to the World Cup with bigger dreams than ever. The stage is set, the stakes are high, and Africa’s finest are ready. Is this the tournament where Africa goes all the way, and can the continent finally break the ultimate barrier and lift the trophy?",
+   "image": "https://static.dw.com/image/74973921_6.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "BAVARIAN FOOTBALL WORKS",
    "title": "Ballon d’Or Goalkeeper of the Year: All nominees",
    "iso": "2026-09-09T08:00:00.000Z",
    "link": "https://www.bavarianfootballworks.com/germany-international-soccer/253753/ballon-dor-2026-nominees-goalkeeper-of-the-year-courtois-safonov-vozinha-world-cup-martinez-argentina-cabo-verde-berger-hampton-yamashita-women-chelsea-manchester-city-real-madrid-brazil-spain-arsenal",
    "lede": "And this year, it brings a new set of nominees with results influenced by not just club football, but also the FIFA World Cup 2026. The World Cup had a massive impact on who ended up being nominated and nowhere is this more apparent than with the Yashin Trophy. The Yashin Trophy, named after the goalkeeping legend Lev Yashin, will be awarded to one goalkeeper each in the men’s and women’s categories. This year, ten nominees for men’s and five nominees for women’s have been selected.",
    "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/09/gettyimages-2236422349.jpg?quality=90&strip=all&crop=0%2C14.270344075967%2C100%2C71.459311848065&w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-   "iso": "2026-09-09T07:00:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
-   "lede": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League. Dani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying to pinpoint the moment he knew he was a world champion.",
-   "image": "https://i.guim.co.uk/img/media/2054650759c79da62a63530e7007d526220244f0/297_0_2970_2376/master/2970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53e721da4e13abf468ce63c35a4f0e63",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
