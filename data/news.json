@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T23:32:18.714Z",
+ "updated": "2026-09-09T23:58:30.618Z",
  "news": [
   {
    "cat": "THE DAILY STAR",
@@ -61,21 +61,22 @@
    "bg": "#0c5c2e"
   },
   {
+   "cat": "BBC",
+   "title": "FIFA World Cup 2026",
+   "iso": "2026-09-09T21:51:55.000Z",
+   "link": "https://www.bbc.co.uk/iplayer/episodes/m002gjj0/fifa-world-cup-2026?seriesId=m002gjj0-manual-1-highlights&page=3",
+   "lede": "Across Canada, Mexico and the USA - follow the heartbreaks and triumphs as the world's best players fight for the biggest prize in men's football.",
+   "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0nntql5.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "THE NEW YORK TIMES",
    "title": "Fantasy football rankings Week 1: Sleepers, starts, projections",
    "iso": "2026-09-09T20:25:04.000Z",
    "link": "https://www.nytimes.com/athletic/7557051/2026/09/09/fantasy-football-rankings-week-1-sleepers-starts-projections/",
    "lede": "Jake Ciely gets an early jump on his fantasy football player rankings for Week 1, which will be updated up to kickoffs on Sunday.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2025/09/14205132/GettyImages-2235405445-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SOFASCORE",
-   "title": "Ancelotti Names Young Brazil Squad After 2026 World Cup",
-   "iso": "2026-09-09T19:29:04.000Z",
-   "link": "https://www.sofascore.com/news/ancelotti-names-young-brazil-squad-after-2026-world-cup",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
