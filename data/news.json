@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T06:05:37.223Z",
+ "updated": "2026-09-09T06:44:33.637Z",
  "news": [
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "UNIVERSIDAD DE GUADALAJARA",
+   "title": "American football team, heading to the U19 World Cup",
+   "iso": "2026-09-09T05:26:23.000Z",
+   "link": "https://www.udg.mx/en/noticia/seleccion-de-futbol-americano-rumbo-al-mundial-u19",
+   "lede": "University of Guadalajara, Av. 976, Colonia Centro, CP 44100, Guadalajara, Jalisco, Mexico. Telephone: +52 (33) 3134 2222.",
+   "image": "https://www.udg.mx/sites/default/files/img_noticias/180129_seleccion_de_futbol_americano_rumbo_al_mundial_u19_cortesia.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "THE KOREA TIMES",
    "title": "North Korea eyes 2nd straight title at FIFA U-20 Women's World Cup",
    "iso": "2026-09-09T05:10:03.000Z",
    "link": "https://www.koreatimes.co.kr/sports/20260909/north-korea-eyes-2nd-straight-title-at-fifa-u-20-womens-world-cup",
    "lede": "North Korean players celebrate their 2-0 win against Portugal in their opening match of the 2026 FIFA U-20 Women’s World Cup in Lodz, Poland, Monday. Captured from FIFA's Instagram account North Korea’s women’s football team continued to showcase its dominance at the youth level, cruising to a 2-0 victory over Portugal in its opening match of the 2026 FIFA U-20 Women’s World Cup. North Korea defeated Portugal, representing the Union of European Football Associations, 2-0 in Group E action in Lodz, Poland, on Monday. North Korea is drawn in Group E alongside Portugal, Costa Rica of the Confederation of North, Central America and Caribbean Association Football, and Colombia of the South American Football Confederation.",
    "image": "https://newsimg.koreatimes.co.kr/2026/09/09/84779efb-face-4eeb-a190-d95c585e2cd7.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SPORTSTAR",
@@ -28,25 +38,16 @@
    "link": "https://sportstar.thehindu.com/football/tony-popovic-australia-head-coach-contract-extension-asian-cup-news/article71445659.ece",
    "lede": "AP AP https://ss-i.thgim.com/public/incoming/6yh3ha/article71445701.ece/alternates/FREE_1200/Australia_US_WCup_Soccer_34747.jpg LINDSEY WASSON Australia head coach Tony Popovic gestures during the World Cup Group D soccer match between the United States and Australia in Seattle, Friday, June 19, 2026. (AP Photo/Lindsey Wasson) Under Popovic’s leadership, the Socceroos reached the knockout rounds of the FIFA World Cup 2026, suffering a round-of-32 loss on penalties against Egypt. SYDNEY Australia head coach Tony Popovic said on Wednesday that he turned down a four-year contract extension and signed a deal only until next year’s Asian Cup. Under his leadership, the Socceroos reached the knockout rounds of the FIFA World Cup 2026, suffering a round-of-32 loss on penalties against Egypt.",
    "image": "https://ss-i.thgim.com/public/incoming/6yh3ha/article71445701.ece/alternates/LANDSCAPE_1200/Australia_US_WCup_Soccer_34747.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "ASSAMTRIBUNE.COM",
+   "cat": "THE ASSAM TRIBUNE",
    "title": "After 20 years, India back in AFC U20 Asian Cup with FIFA U20 World Cup in sight",
    "iso": "2026-09-09T04:51:14.000Z",
    "link": "https://assamtribune.com/sports/after-20-years-india-back-in-afc-u20-asian-cup-with-fifa-u20-world-cup-in-sight-1616798",
    "lede": "Guwahati, Sept 9: India’s return to the AFC U-20 Asian Cup after a 20-year absence offers the country’s emerging footballers a chance to compete against Asia’s leading youth teams and potentially move closer to the FIFA U20 World Cup. India secured qualification for the AFC U20 Asian Cup China 2027 with a 3-0 win over Bangladesh in Tashkent on September 6. The victory took India to six points in Group B and secured their place as one of the seven best runners-up from the eight qualifying groups. India last featured in the continental U20 championship in 2006.",
    "image": "https://assamtribune.com/h-upload/2026/09/09/1796927-2.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SPORTS247 NIGERIA",
-   "title": "Africa’s U20 Women’s World Cup Campaign Under Pressure as Benin, Tanzania Suffer Heavy Defeats",
-   "iso": "2026-09-09T04:46:53.000Z",
-   "link": "https://www.sports247.ng/africas-u20-womens-world-cup-campaign-under-pressure-as-benin-tanzania-suffer-heavy-defeats/",
-   "lede": "Africa’s representatives endured another difficult day at the 12th FIFA U20 Women’s World Cup in Poland, with Benin Republic and Tanzania suffering heavy defeats that have raised fresh concerns about the continent’s performance on the global stage. Sports247 reports that Benin Republic, making their debut at the tournament, were brutally exposed by Argentina in Group A, suffering an 8-0 defeat, while Tanzania’s Twiga Stars were thrashed 5-1 by England in Group B. The results underline the challenging gap African teams continue to face against some of the world’s established women’s football nations, with the continent struggling to make the desired impact in the early stages of the competition. Tanzania’s defeat was particularly painful as Nigeria-born Princess Ademiluyi helped England establish early control.",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
