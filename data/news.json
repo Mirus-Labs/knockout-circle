@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T19:17:58.823Z",
+ "updated": "2026-09-10T19:48:28.547Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -32,14 +32,33 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "BUSINESSTIMES-BD.COM",
+   "title": "Morocco vs Spain: Dispute Over 2030 World Cup Final Venue",
+   "iso": "2026-09-10T19:36:13.000Z",
+   "link": "https://www.businesstimes-bd.com/sports/football/11062",
+   "lede": "A heated battle has erupted between co-hosts Morocco and Spain over who will host the 2030 FIFA World Cup final. A fierce dispute has erupted between Morocco and Spain over hosting the 2030 FIFA World Cup final, amid ongoing diplomatic tensions between the co-hosts.",
+   "image": "https://www.businesstimes-bd.com/cache-images/news_photos/2026/09/11/resize-600x315x0x0-image_11062_1789068857.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE NEW TIMES",
    "title": "Pape Thiaw: World Cup 2026 left Senegal with a bitter taste, but Africa is not far off| The New Times",
    "iso": "2026-09-10T17:35:53.000Z",
    "link": "https://www.newtimes.co.rw/article/38866/sports/football/pape-thiaw-world-cup-2026-left-senegal-with-a-bitter-taste-but-africa-is-not-far-off/amp",
    "lede": "For Pape Thiaw, Senegal’s 2026 World Cup campaign left more than disappointment. It left a bitter taste—the feeling that a team with the talent and...",
    "image": "https://www.newtimes.co.rw/thenewtimes/uploads/images/2026/09/10/114564.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "BREAKINGNEWS.IE",
+   "title": "Casablanca will host 2030 World Cup final, says Moroccan federation chief",
+   "iso": "2026-09-10T17:25:54.000Z",
+   "link": "https://www.breakingnews.ie/soccer/casablanca-will-host-2030-world-cup-final-says-moroccan-federation-chief-1948590.html",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS UK",
@@ -48,34 +67,15 @@
    "link": "https://uk.sports.yahoo.com/news/moroccos-top-soccer-official-says-172045314.html",
    "lede": "Fouzi Lekjaa says the North African nation will be the site of the 2030 World Cup final, though no official word has come from FIFA.",
    "image": "https://s.yimg.com/lo/mysterio/api/22bef6c32aa64a817e9636fa98f0f1351640724c3a999a993c49ecdb45c80e85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fa3397c67ae9e86c139544d635b74109f.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DAILY NATION",
-   "title": "Casablanca 'to host' 2030 World Cup final, Moroccan football boss claims",
-   "iso": "2026-09-10T17:15:45.000Z",
-   "link": "https://nation.africa/kenya/sports/football/casablanca-host-2030-world-cup-final-moroccan-football-boss-5591042",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "NDTV SPORTS",
-   "title": "2030 World Cup Final Sparks Fresh Morocco-Spain Conflict",
-   "iso": "2026-09-10T17:05:35.000Z",
-   "link": "https://sports.ndtv.com/football/2030-world-cup-final-sparks-fresh-morocco-spain-conflict-12029310",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NYTIMES.COM",
-   "title": "NFL Week 1 fantasy football injury report and weather forecast",
-   "iso": "2026-09-10T16:54:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7562362/2026/09/09/fantasy-football-injury-report-weather-week-1/",
-   "lede": "With a full fantasy injury report, complete with analysis, a weather report and our new start/sit tool, trust us with tough lineup choices.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/08170510/GettyImages-2249268450-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "NATION.AFRICA",
+   "title": "Casablanca 'to host' 2030 World Cup final, Moroccan football boss claims",
+   "iso": "2026-09-10T17:15:45.000Z",
+   "link": "https://nation.africa/kenya/sports/football/casablanca-host-2030-world-cup-final-moroccan-football-boss-5591042",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
