@@ -1,25 +1,75 @@
 {
- "updated": "2026-09-10T11:52:04.497Z",
+ "updated": "2026-09-10T13:37:39.187Z",
  "news": [
   {
-   "cat": "MOROCCO WORLD NEWS",
+   "cat": "BBC",
+   "title": "France wants to transform Fifa after withdrawing Infantino support",
+   "iso": "2026-09-10T13:04:31.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo",
+   "lede": "The French Football Federation announced its support for Infantino in June, before the investment plan was announced. France's football leaders have proposed to seek ways to transform how Fifa is run after its national association became the latest to withdraw support for Gianni Infantino's presidency. On Thursday, the French Football Federation (FFF) followed England, Italy, Republic of Ireland and Scotland in withdrawing support for Infantino over his aborted plan to sell stakes in Fifa competitions - including the World Cup - to private investors. The FFF had pledged its support for Infantino in June before his investment proposal came to light.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f006/live/8213d6a0-ad16-11f1-826f-933990eae6f0.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "REDIFF",
+   "title": "2030 FIFA World Cup final up for grabs as Morocco, Spain fight for hosting rights",
+   "iso": "2026-09-10T12:55:18.000Z",
+   "link": "https://www.rediff.com/sports/report/2030-fifa-world-cup-final-up-for-grabs-as-morocco-spain-fight-for-hosting-rights/20260910.htm",
+   "lede": "Morocco and Spain are locked in a high-stakes contest to host the 2030 World Cup final, with FIFA yet to officially decide the venue for football’s showpiece. The 2030 World Cup final will be held in Casablanca, the President of the Royal Moroccan Football Federation was reported as saying by Spanish news agency EFE on Thursday. Soccer's world governing body FIFA has yet to announce the venue of the final, with Spain and Morocco in a heated battle to host soccer's biggest showpiece match. \"The province of Benslimane will have the honour of hosting the 2030 World Cup final,\" Fouzi Lekjaa told a political party event in Bouznika, Morocco on Thursday, EFE reported.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/sep/10fifa-world-cup-replica.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Moroccan football chief claims Casablanca will stage 2030 World Cup final amid Spain hosting row",
+   "iso": "2026-09-10T12:32:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/2030-world-cup-final-location-morocco-casablanca-spain-b3047964.html",
+   "lede": "Morocco and Spain are currently battling to earn the hosting rights for the 2030 World Cup final. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/09/10/13/2166881325..?trim=0,313,0,313&width=1200&height=800&crop=1200:800",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SPORTSTAR",
+   "title": "France will not support Infantino in FIFA elections",
+   "iso": "2026-09-10T12:25:12.000Z",
+   "link": "https://sportstar.thehindu.com/football/france-no-support-gianni-infantino-fifa-president-elections-march-2027-controversy-explained/article71451666.ece",
+   "lede": "This involves third parties to buy a share in the FIFA World Cup and have a say in how the tournament in conducted. Getty Images Getty Images https://ss-i.thgim.com/public/incoming/uvcxjo/article71451662.ece/alternates/FREE_1200/GettyImages-2286813527.jpg Image Photo Agency EAST RUTHERFORD, NEW JERSEY - JULY 19: Donald Trump president of United States and Gianni Infantino FIFA during award cerimony of the FIFA World Cup 2026 Final match between Spain and Argentina at New York New Jersey Stadium on July 19, 2026 in East Rutherford, New Jersey. (Photo by Image Photo Agency/Getty Images) PARIS As it stands, 56-year-old Gianni Infantino is the only candidate and no credible adversaries have emerged. France will not support Gianni Infantino’s candidacy in the elections for FIFA president in March 2027, the French Football Federation (FFF) announced on Thursday.",
+   "image": "https://ss-i.thgim.com/public/incoming/uvcxjo/article71451662.ece/alternates/LANDSCAPE_1200/GettyImages-2286813527.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "DECCANCHRONICLE.COM",
+   "title": "French Football Federation Withdraws Support For FIFA President Infantino",
+   "iso": "2026-09-10T11:56:33.000Z",
+   "link": "https://www.deccanchronicle.com/sports/french-football-federation-withdraws-support-for-fifa-president-infantino-1986399",
+   "lede": "The French Football Federation is withdrawing its support for Gianni Infantino's reelection bid as head of FIFA ‌next year, FFF President Philippe Diallo said on Thursday. Several European federations, including England's and Italy's, have withdrawn their backing for Infantino since the collapse ‌of ⁠his proposed World Cup stake sale. UEFA, the Asian Football Confederation and North America's CONCACAF have called for change at the top ⁠of FIFA and are seeking a credible alternative ahead of the March election. Infantino still has ⁠the support of South America's CONMEBOL and Africa's CAF.",
+   "image": "https://www.deccanchronicle.com/h-upload/2026/09/10/2087280-aa-8082607.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE STRAITS TIMES",
+   "title": "Casablanca will host 2030 World Cup final, says Moroccan football federation chief",
+   "iso": "2026-09-10T11:47:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/casablanca-will-host-2030-world-cup-final-says-moroccan-federation-chief",
+   "lede": "Fans in Casablanca before Morocco’s World Cup quarter-final on July 9, against France, who won 2-0 in Boston. The north African side had reached the semi-finals four years earlier. The 2030 World Cup final will be held in Casablanca, the president of the Royal Moroccan Football Federation was reported as saying by Spanish news agency EFE on Sept 10. Football’s world governing body FIFA has yet to announce the venue of the final, with Spain and Morocco in a heated battle to host the sport’s biggest showpiece match.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0b73b6501152581ea97f1cec56eafbbfe298b4970d72fc1732e580e3baf3c954",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "MOROCCOWORLDNEWS.COM",
    "title": "Lekjaa Says Benslimane Will Host 2030 World Cup Final, Hopes for Morocco-France Clash",
    "iso": "2026-09-10T11:28:36.000Z",
    "link": "https://www.moroccoworldnews.com/2026/09/337822/lekjaa-says-benslimane-will-host-2030-world-cup-final-hopes-for-morocco-france-clash/",
    "lede": "Casablanca – Fouzi Lekjaa, member of the Authenticity and Modernity Party (PAM) Political Bureau and President of the Royal Moroccan Football Federation (FRMF), said the province will have the honor of hosting the 2030 World Cup final at the Hassan II Stadium. Speaking at an electoral gathering in Benslimane Province, Lekjaa told the crowd, “What you need to know is that Benslimane Province will have the honor of hosting the 2030 World Cup final.” He said the prospect would place development of the province high on the agenda of the government that will take office after the upcoming legislative elections. Whoever serves in the next government will have no option but to develop Benslimane Province,” Lekjaa said.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-10-at-12.01.07.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "INQUIRER.NET",
-   "title": "Filipinas test young players at Asian Games with World Cup in mind",
-   "iso": "2026-09-10T11:23:00.000Z",
-   "link": "https://sports.inquirer.net/694534/filipinas-test-young-players-at-asian-games-with-world-cup-in-mind",
-   "lede": "The Philippine women’s football team, also known as Filipinas, during training ahead of the Asian Games 2026. –PFF PHOTO. MANILA, Philippines–The Philippine women’s football team is looking to hit two birds with one stone for its campaign in the Aichi-Nagoya Asian Games 2026. Coach Mark Torcaso is looking to steer the Filipinas past the quarterfinal finish they achieved three years ago while also gaining more progression ahead of next year’s Fifa Women’s World Cup campaign. For the Asian Games, Torcaso has put some of the youngsters to the test with a few notable names unavailable.",
-   "image": "https://sports.inquirer.net/files/2026/09/801284599_1533181362159987_2337853595789547713_n.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LIVESCORE",
@@ -28,56 +78,6 @@
    "link": "https://www.livescore.com/en/news/football/more/lekjaa-announces-it-before-fifa-morocco-will-host-the-2030-world-cup-final-goal/",
    "lede": "Great Moroccan confidence in settling the race with SpainMorocco have raised the bar in the race to host the 2030 World Cup final. Fouzi Lekjaa, president of the Royal Moroccan Football Federation, has confirmed that the Grand Stade Hassan II in Benslimane will stage the tournament's showpiece, even though FIFA are yet to name the venue for the match.Lekjaa spoke at an Authenticity and Modernity Party event in the city of Bouznika, where he backed Morocco to settle the battle over the tournament's biggest game with striking confidence.As highlighted by the Spanish newspaper \" Sport \", the president of the Moroccan federation said: \"What you need to know is that the province of Benslimane will have the honour of hosting the 2030 World Cup final.\" He went further still, picturing the two finalists and wishing for Morocco to meet France.",
    "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_4.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "ONEFOOTBALL",
-   "title": "🇪🇸🇲🇦 Morocco challenges Spain over 2030 World Cup final amid tension",
-   "iso": "2026-09-10T10:14:21.000Z",
-   "link": "https://onefootball.com/en/news/morocco-challenges-spain-over-2030-world-cup-final-amid-tension-43434516",
-   "lede": "Declan Rice hands Arsenal boost after ending fitness frustration with England at World Cup. VIDEO | De Paul to Lewandowski: ‘Who are you? Manchester United handed new boost after shock selection decision confirmed. ‘I’ve worked hard for this moment’ - Quinones revels in Ballon d’Or recognition.",
-   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43434516%3Fdate=2026-09-10",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THEGUARDIAN.COM",
-   "title": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
-   "iso": "2026-09-10T09:59:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england",
-   "lede": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day. If things had worked out differently, Mauricio Pochettino would have gone back to his beloved Tottenham over the summer. They had put in the call and it stirred him. Nothing was going to put him off – not even the possibility of the club being in the Championship.",
-   "image": "https://i.guim.co.uk/img/media/31afd1ab77ed20ae039844f610733302592072e8/889_120_4537_3630/master/4537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d50924ee18409d5b5c87950eecd66fe5",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DE.UEFA.COM",
-   "title": "The Unity EURO Cup: A celebration of football uniting refugees and their host communities",
-   "iso": "2026-09-10T08:04:26.000Z",
-   "link": "https://de.uefa.com/news-media/news/02a6-20e61154c73b-b97c85c1a324-1000--the-unity-euro-cup-a-celebration-of-football-uniting-refug/",
-   "lede": "On World Refugee Day we celebrate a competition that has become one of European football’s most inspiring examples of inclusion in action. For people forced to leave their homes, football can provide something invaluable: a sense of belonging. Organised by UEFA and the United Nations High Commissioner for Refugees (UNHCR), the Unity EURO Cup does just that by bringing together refugees and members of their host communities through football. Since kicking off in 2022, the annual tournament has grown steadily in size and impact.",
-   "image": "https://editorial.uefa.com/resources/02a6-20e7b0a7e5eb-c6c7b7ca34c5-1000/_777_event_19477_2.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Texas wins late, Oklahoma wins easily: College football Week 2 oddly specific predictions",
-   "iso": "2026-09-10T10:00:43.000Z",
-   "link": "https://www.nytimes.com/athletic/7578296/2026/09/10/college-football-predictions-texas-ohio-state-texas-michigan/",
-   "lede": "Memphis, which already has a win at UNLV, will ruin the 40th anniversary of the blue turf in Boise and establish itself as the top G6 team.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/09111636/2026-09-05T225627Z_1909906405_MT1USATODAY29750871_RTRMADP_3_NCAA-FOOTBALL-TEXAS-STATE-AT-TEXAS-scaled.jpg?width=1200&height=630&fit=cover",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The rage of Ryan Garcia: ‘I took it out on the world and life and myself’",
-   "iso": "2026-09-10T10:00:10.000Z",
-   "link": "https://www.nytimes.com/athletic/7577748/2026/09/10/ryan-garcia-fight-interview/",
-   "lede": "The U.S. fighter has a controversial past but feels that should not stop him being the face of boxing.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/09074139/GettyImages-2148069004-scaled-e1788954361459.jpg?width=1200&height=630&fit=cover",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
