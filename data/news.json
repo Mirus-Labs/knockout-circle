@@ -1,15 +1,35 @@
 {
- "updated": "2026-09-10T06:39:31.046Z",
+ "updated": "2026-09-10T09:05:53.050Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
+   "iso": "2026-09-10T06:04:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england",
+   "lede": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day. If things had worked out differently, Mauricio Pochettino would have gone back to his beloved Tottenham over the summer. They had put in the call and it stirred him. Nothing was going to put him off – not even the possibility of the club being in the Championship.",
+   "image": "https://i.guim.co.uk/img/media/31afd1ab77ed20ae039844f610733302592072e8/889_120_4537_3630/master/4537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d50924ee18409d5b5c87950eecd66fe5",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Mauricio Pochettino on the Balogun scandal, the England job and the problem with club football",
+   "iso": "2026-09-10T06:00:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/mauricio-pochettino-usa-balogun-england-manager-b3047354.html",
+   "lede": "Mauricio Pochettino tells Miguel Delaney why he has chosen to stay on as manager of the USA beyond the World Cup despite offers from the club game. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/09/09/16/41/GettyImages-2284965051.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "BBC",
    "title": "'It started as a joke, a fantasy' - F1 heads to football-obsessed Madrid",
    "iso": "2026-09-10T05:21:13.000Z",
-   "link": "https://www.bbc.co.uk/sport/formula1/articles/cjw5n195nx8o",
+   "link": "https://www.bbc.com/sport/formula1/articles/cjw5n195nx8o",
    "lede": "You could never accuse Formula 1 of shirking a challenge. Who else would consider competing for the attention of a football-obsessed country, home to the World Cup winners, in a city where a constant stream of the world's most talented players do awe-inspiring things most weeks? F1 last had a Spanish world champion 20 years ago and there hasn't been a race in Madrid since 1981. Does F1, which has experienced a huge rise in popularity in other territories around the world, need another track in its crowded European heartland?",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6356/live/471fff50-ab87-11f1-83f1-8f6cbf03142e.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "ANI NEWS",
@@ -18,8 +38,8 @@
    "link": "https://www.aninews.in/news/sports/football/head-coach-ancelotti-plans-to-use-fifa-windows-to-build-a-strong-cohesive-brazil-ahead-of-2030-world-cup20260910103737",
    "lede": "Kolkata (West Bengal) [India], September 10 (ANI): Brazil head coach Carlo Ancelotti has outlined his plans for the national team as they begin a new cycle with the 2030 FIFA World Cup in focus, with the Italian keen to make full use of the available FIFA international windows to build a strong and cohesive collective. Ancelotti believes the squad must maintain a balance between players who have featured in previous campaigns and newcomers who can form the core of the team in the years ahead, according to a press release from AIFF. “We have to make a balanced list, with players who played in the last campaign and young players who can bring new energy to the team. The idea is to build something for the future without losing our competitiveness,” said Ancelotti.",
    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260910050459-thumbnail-320x180-70.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SPORTS247 NIGERIA",
@@ -28,8 +48,8 @@
    "link": "https://www.sports247.ng/fifa-u20-womens-world-cup-janet-akekoromowei-eventually-lands-in-falconets-camp/",
    "lede": "New signing at Benfica Feminino of Portugal, Janet Akekoromowei (aka Semenya) has eventually arrived at the camp of Nigeria’s youth female national team, Falconets at the FIFA U-20 Women’s World Cup in Poland, Sports247 reports. The product of Asisat Oshoala Football Academy, who made waves in the Nigerian Women’s Football League (NWFL) with Nasarawa Amazons of Lafia and Bayelsa Queens of Yenagoa, arrived just in time for Thursday’s second group game versus China. In her absence, Coach Moses Aduku’s team lost their opening match 2-0 to Spain on Monday, such that the squad will rely heavily on her presence to make a lot of difference against the Chinese on Thursday.",
    "image": "https://www.sports247.ng/wp-content/uploads/2026/09/Janet-Akekoromowei.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "NEWS18",
@@ -38,18 +58,18 @@
    "link": "https://www.news18.com/sports/football/psg-vs-slovan-world-cup-hero-ferran-torres-hits-hat-trick-in-6-1-thrashing-of-bratislava-ws-l-10319889.html",
    "lede": "Paris Saint-Germain made a flying start to their bid for a third straight Champions League crown, sweeping aside Slovan Bratislava 6-1 at the Parc des Princes on Wednesday as Ousmane Dembele and Ferran Torres stole the spotlight. Dembele, the reigning Ballon d’Or winner, struck twice before the half-hour mark before turning provider for Torres, whose finish made it 3-0 before the break. The former Barcelona forward completed his hat-trick shortly after half-time, scoring twice more to put the result beyond doubt. Suleiman Camara pulled a goal back for the Slovakian champions, but Fabian Ruiz restored PSG’s five-goal advantage late on.",
    "image": "https://images.news18.com/ibnlive/uploads/2026/09/Ferran-Torres-goal-celebration-PSG-AP-2026-09-0d699c49d9651381f2139142b2af2bf5-1200x675.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "SPORTSTAR",
+   "cat": "SPORTSTAR.THEHINDU.COM",
    "title": "India vs Brazil — Ancelotti discusses Brazilian squad, eyes successful beginning of next World Cup cycle",
    "iso": "2026-09-10T01:38:49.000Z",
    "link": "https://sportstar.thehindu.com/football/indian-football/india-vs-brazil-coach-carlo-ancelotti-comments-on-squad-selection-team-for-ind-v-bra-kolkata-match/article71449997.ece",
    "lede": "Reuters Reuters https://ss-i.thgim.com/public/incoming/2vfnvw/article71449999.ece/alternates/FREE_1200/2026-06-24T012332Z_144337811_UP1EM6O03V752_RTRMADP_3_SOCCER-WORLDCUP-SCO-BRA-PREVIEW.JPG PAUL CHILDS Soccer Football - FIFA World Cup 2026 - Brazil Press Conference - Miami Stadium, Miami Gardens, Florida, U.S. - June 23, 2026 Brazil coach Carlo Ancelotti during the press conference REUTERS/Paul Childs Brazil, the five-time world champion, appointed Carlo Ancelotti as head coach in 2025, with the Italian taking the team to the round of 16 of the World Cup this year. Chennai Brazil head coach Carlo Ancelotti has outlined his plans for the national team as it begins a new cycle with the 2030 FIFA World Cup in focus. The five-time world champion appointed Ancelotti as head coach in 2025, with the Italian taking the team to the round of 16 of the World Cup this year.",
    "image": "https://ss-i.thgim.com/public/incoming/2vfnvw/article71449999.ece/alternates/LANDSCAPE_1200/2026-06-24T012332Z_144337811_UP1EM6O03V752_RTRMADP_3_SOCCER-WORLDCUP-SCO-BRA-PREVIEW.JPG",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "IRISH EXAMINER",
@@ -58,25 +78,6 @@
    "link": "https://www.irishexaminer.com/sport/soccer/arid-41908927.html",
    "lede": "Growth in registered female football players has plateaued after an initial explosion in participation following the World Cup breakthrough. Pic: David Fitzgerald/Sportsfile. Lizzy Kent was installed as head of women’s and girls’ football at the FAI in January and will produce her own action plan once the underwhelming two-year version unfurled by her predecessor Hannah Dingley expires in March. Compared to a figure of 45,000 players referenced in that blueprint of 2025, the latest figure is put at 47,000, a mere 5% increase over an 18-month period.",
    "image": "https://www.irishexaminer.com/cms_media/module_img/10445/5222779_10_org_3152077.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "NEWS ON AIR",
-   "title": "Philippines women’s national football team secures qualification for 2027 FIFA Women’s World Cup",
-   "iso": "2026-09-09T22:48:42.000Z",
-   "link": "https://newsonair.gov.in/philippines-womens-national-football-team-secures-qualification-for-2027-fifa-womens-world-cup/",
-   "lede": "News On AIR | March 19, 2026 1:13 PM. The Philippines women’s national football team have secured qualification for the 2027 FIFA Women’s World Cup after defeating the Uzbekistan women’s national football team 2-0 in a Women’s Asian Cup play-in match on the Gold Coast today. Angela Beard delivered a standout performance, opening the scoring early in the second half after earlier missed opportunities. She found the net in the 47th minute with a well-taken strike into the roof of the goal.",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE DAILY STAR",
-   "title": "‘Not today, not here’: Infantino tight-lipped on abandoned World Cup rights proposal",
-   "iso": "2026-09-09T21:01:12.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/not-today-not-here-infantino-tight-lipped-abandoned-world-cup-rights-proposal-4265916",
-   "lede": "FIFA President Gianni Infantino, who attended the opening match of the Under-20 Women's World Cup in Katowice on Saturday, remained tight-lipped about whether he regrets his abandoned proposal to sell a stake in the World Cup. The event is the first tournament organised by world soccer's ruling body since the Swiss administrator called off the plan, which valued the commercial rights of the World Cup and other FIFA tournaments at $20 billion. The proposal was abandoned in late July following a fierce backlash and boycott threats from regional governing bodies, including Europe's UEFA and major stakeholders in the sport. \"I'm very happy to be here in beautiful Poland, in Katowice, a fantastic setting for this Under-20 FIFA Women's World Cup.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
