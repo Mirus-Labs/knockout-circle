@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-11T20:03:09.023Z",
+ "updated": "2026-09-11T21:01:04.481Z",
  "news": [
+  {
+   "cat": "LIVESCORE",
+   "title": "'Stop making promises!' - Moroccan PM steps in after football boss claims 2030 World Cup final",
+   "iso": "2026-09-11T20:52:10.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/stop-making-promises-moroccan-pm-steps-in-after-football-boss-claims-2030-world-cup-final-goal/",
+   "lede": "Internal friction over World Cup plansMorocco's Prime Minister Akhannouch has delivered a stern warning to Fouzi Lekjaa, the president of the Royal Moroccan Football Federation (RMFF), urging him to cease making public guarantees regarding the location of the 2030 World Cup final . The tournament, which celebrates the centenary of the competition, is set to be co-hosted by Morocco, Spain, and Portugal, with opening fixtures also taking place in South America to honour the event's history . As reported by BBC Sport , tension erupted after Lekjaa publicly stated at a political party event that the new stadium in Casablanca would have the 'honour' of hosting the final match. There should be some respect, brothers.",
+   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_1.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "MOROCCO WORLD NEWS",
    "title": "Spain’s Football Chief Dismisses World Cup Withdrawal Talk Amid 2030 Final Debate",
@@ -8,18 +18,38 @@
    "link": "https://www.moroccoworldnews.com/2026/09/337996/spains-football-chief-dismisses-world-cup-withdrawal-talk-amid-2030-final-debate/",
    "lede": "Rabat – Spanish Football Federation President Rafael Louzán has dismissed reports suggesting that Spain could withdraw from hosting the 2030 FIFA World Cup if Morocco is awarded the tournament’s final. Speaking to Spanish radio station Cadena COPE, Louzán said there was no basis for claims that Spain could pull out of the joint hosting project. He stressed that the tournament is governed by formal agreements signed by the parties involved. These agreements include Spain, Portugal, Morocco, FIFA, and the Spanish government, according to the official source.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/Spains-Football-Chief-Dismisses-World-Cup-Withdrawal-Talk-Amid-2030-Final-Debate.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "BBC",
+   "cat": "BBC.CO.UK",
    "title": "2030 World Cup: Moroccan prime minister tells football chief to 'stop making promises' over final",
    "iso": "2026-09-11T18:58:10.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo",
    "lede": "Fouzi Lekjaa (left) with Fifa president Gianni Infantino during this summer's World Cup, which was co-hosted by the USA, Canada and Mexico. Morocco's prime minister has told the head of the country's football federation to stop making promises about the 2030 World Cup final as Spain says they should stage it. The next men's World Cup will be co-hosted by Morocco, Spain and Portugal, although the opening three matches will be played in Uruguay, Argentina and Paraguay to mark the competition's 100th anniversary. While a list of host stadiums has been proposed, the line-up has yet to be finalised, as well as where the showpiece will take place.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c0af/live/186ed2c0-ae0d-11f1-b502-e5cdfe1c097c.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "AL JAZEERA",
+   "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+   "iso": "2026-09-11T18:45:18.000Z",
+   "link": "https://www.aljazeera.com/amp/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness",
+   "lede": "Former United assistant coach reveals his pursuit of a teenage Mbappe after a tip-off from a French scout. Premier League club confirms accident, says 27-year-old Welsh international ‘unscathed’. Prime Minister Aziz Akhannouch slams his country’s football chief after claim Morocco will host 2030 World Cup final. Morocco to co-host 2030 tournament with Spain and Portugal, but FIFA denies final will be in North Africa.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T191004Z_1929128573_UP1EM981H8R06_RTRMADP_3_SOCCER-CHAMPIONS-RMA-INT-1789149958.jpg?resize=1920%2C1440",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE DAILY STAR",
+   "title": "Japan end Bangladesh’s unbeaten run, World Cup dream",
+   "iso": "2026-09-11T18:20:23.000Z",
+   "link": "https://www.thedailystar.net/sports/more-sports/news/japan-end-bangladeshs-unbeaten-run-world-cup-dream-4269626",
+   "lede": "Bangladesh’s hopes of securing a place in the FIH Women’s Junior World Cup were dashed on Thursday as the women in red and green suffered a 2-0 defeat to Japan in the quarterfinals of the Women’s Junior Asia Cup in China. Bangladesh will now play a fifth-sixth place-deciding match against either Malaysia or South Korea. The top four teams in the tournament will qualify for the next edition of the Women’s Junior World Cup. The women in red and green entered the quarterfinals as unbeaten champions of the Challenger Pool, having won all four of their matches.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "SPORTSTAR",
@@ -28,8 +58,8 @@
    "link": "https://sportstar.thehindu.com/football/fifa-world-cup-2030-final-host-controversy-morocco-prime-minister-reaction-spain-portugal/article71457029.ece",
    "lede": "Tug-of-war escalates as Morocco PM rebukes FA head; Spain stakes claim left Prime Minister Aziz Akhannouch (in picture) directed his criticism at Royal Moroccan Football Federation (RMFF) President Fouzi Lekjaa. Getty Images Getty Images https://ss-i.thgim.com/public/incoming/z0amad/article71457065.ece/alternates/FREE_1200/GettyImages-2265318797.jpg Tom Nicholson PARIS, FRANCE - MARCH 10: Morocco's Prime Minister Aziz Akhannouch arrives for a dinner held at the conclusion of the Civil Nuclear Energy Summit at the Elysee Palace on March 10, 2026 in Paris, France. The summit, which followed an inaugural event in Brussels in 2024, brought heads of state, officials, and industry representatives to discuss the role of civil nuclear energy in addressing energy and climate challenges.",
    "image": "https://ss-i.thgim.com/public/incoming/z0amad/article71457065.ece/alternates/LANDSCAPE_1200/GettyImages-2265318797.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TALKSPORT",
@@ -38,46 +68,16 @@
    "link": "https://talksport.com/football/4575702/wesley-sneijder-world-cup-prize-cristiano-ronaldo-shirt-auction/",
    "lede": "The Dutch football legend retired from football in 2019, having starred for the likes of Real Madrid, Inter Milan and the Netherlands national team. Sneijder enjoyed a trophy-laden career, tasting league glory in Holland, Spain and Italy among his 20 major honours. He was at the peak of his powers in 2010, as he inspired Inter to treble success - including the Champions League - and scored five goals at the World Cup final to fire the Netherlands to the final. The playmaker continued to star on the European and international stage thereafter, turning out for Galatasaray and Nice before retiring at Qatari side Al Gharafa, and also played at the 2014 World Cup.",
    "image": "https://talksport.com/wp-content/uploads/2026/09/crop-1954195_17531f.jpg?strip=all&quality=100&w=1620&h=1079&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "HESPRESS ENGLISH - MOROCCO NEWS",
+   "cat": "EN.HESPRESS.COM",
    "title": "FIFA says 2030 World Cup final venue remains undecided after Morocco claim",
    "iso": "2026-09-11T16:19:44.000Z",
    "link": "https://en.hespress.com/145288-fifa-says-2030-world-cup-final-venue-remains-undecided-after-morocco-claim.html",
    "lede": "FIFA said Friday that no decision has been made on the venue for the 2030 World Cup final, following remarks by Fouzi Lekjaa, president of the Royal Moroccan Football Federation, that the championship match would be played in Ben Slimane. A FIFA spokesperson told Agence France-Presse that the governing body’s position remains unchanged from its previous statement, adding that “a decision will be made by FIFA in due course.” Morocco, Spain and Portugal will jointly host the 2030 World Cup, while three centenary matches are scheduled to be played in Argentina, Paraguay and Uruguay. FIFA officially appointed the three European and African co-hosts in December 2024.",
    "image": "https://e2.hespress.com/wp-content/overlay/2026/09/Gianni-Infantino-annonce-la-signature-d-un-accord-pour-l-installation-de-30-mini-terrains-FIFA-Arena-au-Maroc.jpg.webp?v2",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
-   "iso": "2026-09-11T15:41:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe",
-   "lede": "The US manager’s relationship with the international job has changed with a full World Cup cycle beginning. I hope, in this lifetime, you find someone who loves you the way Mauricio Pochettino loves Tottenham Hotspur. The grip Spurs have on his heart seems the stuff of a literary classic: his imperfect partner who called things off at the first sign of trouble must merely check in on him occasionally to rekindle hopes of a reunion. Perhaps a bit extreme, but this week’s revelation – that he’d return to Tottenham even if they were relegated and chalking his absence up to imperfect timing, not the part about handing the club a decade-old title – has implicity laid out the terms of his return as United States manager.",
-   "image": "https://i.guim.co.uk/img/media/3d3835bfda8c47db8faf7a662fd2e97ed18d7df9/427_0_3197_2558/master/3197.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b49716d56ffa6b65b92cd720ee6a929",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DEVDISCOURSE.COM",
-   "title": "World Cup 2030: Morocco vs. Spain Battle for Hosting Final Heats Up",
-   "iso": "2026-09-11T15:37:52.000Z",
-   "link": "https://www.devdiscourse.com/article/sports-games/3976145-world-cup-2030-morocco-vs-spain-battle-for-hosting-final-heats-up?amp",
-   "lede": "The competition over hosting the 2030 World Cup final took a dramatic turn as Morocco's Prime Minister cautioned against premature promises. This was after the Spanish FA insisted the event should be held in Spain. Morocco had declared its ambition amidst the ongoing development of a major stadium.",
-   "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_03_2025_12_56_57_814023.png&width=1280",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "PUNCHNG.COM",
-   "title": "No decision yet on 2030 World Cup final venue – FIFA",
-   "iso": "2026-09-11T15:14:44.000Z",
-   "link": "https://punchng.com/no-decision-yet-on-2030-world-cup-final-venue-fifa/",
-   "lede": "FIFA said on Friday that a decision on the venue for the 2030 World Cup final would be made “in due course”, after Moroccan football federation president Fouzi Lekjaa said the showpiece match would be staged in Morocco. Morocco, Spain and Portugal are co-hosting the 2030 tournament and have already begun competing for the right to stage the final, with Madrid’s Santiago Bernabeu and a planned 115,000-seat stadium in Benslimane, near Casablanca, viewed as the leading contenders. Lekjaa said on Wednesday that the final would take place in Morocco. “Benslimane province will host the World Cup final.",
-   "image": "https://punchng.com/wp-content/uploads/2026/08/FIFA_1786224667.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
