@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T17:15:32.628Z",
+ "updated": "2026-09-12T18:37:39.642Z",
  "news": [
   {
    "cat": "SHARJAH24",
@@ -7,7 +7,7 @@
    "iso": "2026-09-12T16:58:15.000Z",
    "link": "https://sharjah24.ae/en/Articles/2026/09/12/d66",
    "lede": "Sharjah24: Argentine coach Gustavo Alfaro will remain in charge of Paraguay’s national football team until the 2030 FIFA World Cup after reaching an agreement to extend his contract for another four years. Alfaro earns renewed confidenceQuestions had surrounded the future of the coach who guided “La Albirroja” back to the World Cup in the North American edition, following their elimination by France in the round of 16. It was Paraguay’s first World Cup appearance since the 2010 tournament in South Africa.Announcing the contract extension, Paraguayan Football Association President Robert Harrison wrote on Instagram: “2030, here we go!”",
-   "image": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/September-2026/12/d66.jpg?20260912211524",
+   "image": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/September-2026/12/d66.jpg?20260912223731",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "CRYPTO BRIEFING",
+   "title": "FIFA Legal Committee faces allegations of evading questions on Infantino's World Cup proposal",
+   "iso": "2026-09-12T15:34:45.000Z",
+   "link": "https://cryptobriefing.com/fifa-legal-committee-infantino-world-cup-proposal/",
+   "lede": "Danish football chief accuses FIFA of dodging scrutiny over the abandoned $20 billion World Cup commercial rights plan and renews calls for Infantino's resignation. FIFA’s internal governance machinery hit another speed bump on September 12 when Jesper Moller, president of the Danish Football Association (DBU), publicly accused the organization’s Legal Committee of sidestepping pointed questions about a controversial commercial rights proposal that briefly threatened to reshape global football’s financial architecture. Moller expressed astonishment that the FIFA Forward Enterprise (FFE) plan, a proposal to spin off World Cup commercial rights into a new subsidiary, was entirely absent from the committee meeting’s agenda. FIFA reportedly deferred the matter to an upcoming Council meeting in October, a move Moller characterized as evasion rather than process.",
+   "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/12113441/library-fifa-legal-committee-faces-allegations-of-evading-questi-800x450.png",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "MARCA",
    "title": "Kylian Mbappé or Lamine Yamal: Who will win a second World Cup first?",
    "iso": "2026-09-12T14:59:03.000Z",
    "link": "https://www.marca.com/en/football/international-football/2026/09/12/kylian-mbappe-or-lamine-yamal-who-will-win-second-world-cup-first.html",
    "lede": "Every generation produces a handful of players who seem destined to define world football. Right now, two of the biggest names on the planet happen to share more than just superstar status. Both Kylian Mbappé and Lamine Yamal are World Cup champions before the age of 20. Mbappé helped France lift the trophy in 2018, becoming the first teenager since Pelé to score in a World Cup final.",
    "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/09/12/6aa565d4ddc12.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO CREATORS",
@@ -38,8 +48,8 @@
    "link": "https://creators.yahoo.com/lifestyle/story/norways-viral-world-cup-viking-row-just-made-its-way-to-college-football--heres-whos-doing-it-180807494.html",
    "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, two months later, it has officially made its way into American college football. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium, with the student section sitting in rows and mimicking the same exaggerated rowing motion that Norwegian fans made famous this summer. Former Gophers linebacker Kamal Martin led the chant before kickoff.",
    "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE ASUNCIÓN TIMES",
@@ -48,8 +58,8 @@
    "link": "https://asunciontimes.com/sport/international-sport/dream-maker-gustavo-alfaro-extends-paraguay-contract-until-2030-world-cup/",
    "lede": "Gustavo Alfaro will continue as the manager of the Paraguayan national football team until the conclusion of the 2030 FIFA World Cup. The announcement was made by Robert Harrison, president of the Paraguayan Football Association (APF), through the organisation’s social media channels. The Argentine coach has been pivotal in the recent success of the national team, known as the Albirroja. He successfully guided the squad to qualify for the 2026 World Cup, marking a significant achievement for the nation.",
    "image": "https://asunciontimes.com/wp-content/uploads/2026/02/Paraguayan-fans-in-California.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "INSHORTS",
@@ -58,26 +68,15 @@
    "link": "https://inshorts.com/en/amp_news/morocco-pm-rejects-own-football-chief-s-2030-world-cup-final-claim--asks-him-not-to-make-promises-1789213046330",
    "lede": "Morocco's PM Aziz Akhannouch rebuked football federation chief Fouzi Lekjaa after he declared Benslimane would host 2030 World Cup final. 'Don't offer to host...big final game in Morocco while we still haven't ​discussed the matter with our allies, cohosts Spain and Portugal,' he said. Spanish FA president Rafael Louzan insisted the final 'cannot and mustn't' be held anywhere but Spain.",
    "image": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/09_sep/12_sat/img_1789212534329_999.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Team USA Starting Lineup Today vs. Spain (Sept. 12) | 2026 FIBA Women’s Basketball World Cup",
-   "iso": "2026-09-12T09:47:10.000Z",
-   "link": "https://sports.yahoo.com/articles/team-usa-starting-lineup-today-094710252.html",
-   "lede": "Team USA will take on Spain on Saturday in the semifinal of the 2026 FIBA World Cup. The Americans tipped off their knockout round with a 108-56 blowout win over Hungary in the quarterfinal on Thursday, improving to 4-0 in the tournament after an unbeaten run in group play. The Americans tipped off their knockout round with a 108-56 blowout win...",
-   "image": "https://s.yimg.com/lo/mysterio/api/47cd6ce5a27c1232fd23fc992b9ea8e743485b335a4b1ab8a74ba181d1a645b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2Fc70d98f4c6afa50f1727165f10ec07c6.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SPORTINGTRIBUNE.COM",
-   "title": "Morocco PM warns football chief over 2030 World Cup final",
-   "iso": "2026-09-12T07:20:00.000Z",
-   "link": "https://sportingtribune.com/morocco-pm-warns-football-chief-over-2030-world-cup-final/",
-   "lede": "Morocco’s Prime Minister, Aziz Akhannouch, has warned the country’s football federation president, Fouzi Lekjaa, against making promises about hosting the 2030 World Cup final before discussions with co-hosts Spain and Portugal. The 2030 men’s World Cup will be jointly hosted by Morocco, Spain and Portugal, with the opening three matches taking place in Uruguay, Argentina and Paraguay as part of celebrations marking the tournament’s centenary. Although a proposed list of host stadiums has been drawn up, FIFA has yet to confirm the final venues or where the tournament’s showpiece match will be played. Lekjaa, president of the Royal Moroccan Football Federation (RMFF), had said at a political party event that Casablanca would have the “honour” of hosting the final.",
-   "image": "https://i0.wp.com/sportingtribune.com/wp-content/uploads/2026/09/Morocco-PM.webp?fit=1200%2C675&ssl=1",
+   "cat": "DAILYSPORTS",
+   "title": "Ghana suffered a heavy defeat against France in their final Group C match at the 2026 FIFA U-20 Women’s World Cup",
+   "iso": "2026-09-12T18:18:04.000Z",
+   "link": "https://dailysports.net/news/ghana-lost-to-france-in-their-final-group-c-match-at-the-2026-fifa-u-20-womens-world-cup/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
