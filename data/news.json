@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T21:27:41.255Z",
+ "updated": "2026-09-13T23:01:57.089Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -7,9 +7,19 @@
    "iso": "2026-09-13T20:20:33.000Z",
    "link": "https://sports.yahoo.com/articles/changes-offense-fall-grace-caitlin-202033208.html",
    "lede": "Caitlin Clark has endured a difficult FIBA World Cup campaign on a personal level, limited to a bench role. The Indiana Fever star helped Team USA win the World Cup final against France on Sunday, but her performance left the WNBA world divided. The Indiana Fever star helped Team USA win the Wo...",
-   "image": "https://s.yimg.com/lo/mysterio/api/56062b1cb592fc9eafeea8db686496b4bc480963dcaff3a6e9b6a4de13112b14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F3f0c62f6a355cc96906fd92ef507a2d6.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/a792b32f89c081558c5c9057a899e08825205d6650040d3882f792d6f17d2baa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fc5b2c284bc3e751dd509c10cd307c9f2.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE DAILY STAR",
+   "title": "FIFA denies claim that Morocco will host 2030 World Cup final",
+   "iso": "2026-09-13T18:51:33.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/fifa-denies-claim-morocco-will-host-2030-world-cup-final-4270171",
+   "lede": "FIFA responded to a claim by the president of the Royal Moroccan Football Federation that his nation would host the 2030 FIFA World Cup final, saying that decision has not been made yet. Morocco will co-host the 2030 tournament with Spain and Portugal. It marks just the second time an African nation will host World Cup games, after South Africa staged the 2010 event. FIFA told multiple news outlets Thursday a host venue for the final will be decided upon \"in due course.\"",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE DAILY STAR",
@@ -18,8 +28,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/casablanca-will-host-2030-world-cup-final-says-moroccan-federation-chief-4269601",
    "lede": "The 2030 World Cup final will be held in Casablanca, the President of the Royal Moroccan Football Federation was reported as saying by Spanish news agency EFE on Thursday. Soccer's world governing body FIFA has yet to announce the venue of the final, with Spain and Morocco in a heated battle to host soccer's biggest showpiece match. \"The province of Benslimane will have the honour of hosting the 2030 World Cup final,\" Fouzi Lekjaa told a political party event in Bouznika, Morocco on Thursday, EFE reported. Benslimane is a city 60km from Casablanca and the site of the $12-billion Hassan II stadium, which is being built for the World Cup with a projected capacity of 115,000.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE DAILY STAR",
@@ -28,8 +38,8 @@
    "link": "https://www.thedailystar.net/sports/more-sports/news/japan-end-bangladeshs-unbeaten-run-world-cup-dream-4269626",
    "lede": "Bangladesh’s hopes of securing a place in the FIH Women’s Junior World Cup were dashed on Thursday as the women in red and green suffered a 2-0 defeat to Japan in the quarterfinals of the Women’s Junior Asia Cup in China. Bangladesh will now play a fifth-sixth place-deciding match against either Malaysia or South Korea. The top four teams in the tournament will qualify for the next edition of the Women’s Junior World Cup. The women in red and green entered the quarterfinals as unbeaten champions of the Challenger Pool, having won all four of their matches.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SPORTSGAMBLER",
@@ -38,8 +48,8 @@
    "link": "https://www.sportsgambler.com/lineups/football/",
    "lede": "Explore the latest football lineups. View predicted starting XIs ahead of kick-off and confirmed team news as soon as lineups are announced. Choose a competition below to see the latest lineups and expected formations. Our aim is to provide daily predicted football lineups for as many football matches taking place across the world as possible.",
    "image": "https://sportsgambler.sirv.com/sportsgambler/social/sm_img_lineupspage.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "PM NEWS NIGERIA",
@@ -48,22 +58,12 @@
    "link": "https://pmnewsnigeria.com/2026/09/13/falconets-fire-10-goals-past-new-caledonia-storm-into-u20-world-cup-knockouts/",
    "lede": "Kareem then completed her brace in the 27th minute as the Falconets raced into a commanding 4-0 lead before half-time. Nigeria’s Falconets delivered a breathtaking attacking display on Sunday, thrashing New Caledonia 10-1 to complete their group-stage campaign in emphatic fashion at the FIFA Women’s U20 World Cup. The Nigerian side dominated from the opening whistle at Stadion ŁKS in Lodz, scoring four goals in the first half before adding six more after the interval to record one of the tournament’s biggest victories. Rasheedat Kareem set the tone in the 17th minute, confidently converting a penalty to give Nigeria the lead.",
    "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2026/09/Falconets.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LIVESCORE",
-   "title": "Royal treatment for the champions! Levante honour eight Barcelona World Cup winners with gifts and a standing ovation",
-   "iso": "2026-09-13T15:08:23.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/royal-treatment-for-the-champions-levante-honour-eight-barcelona-world-cup-winners-with-gifts-and-a-standing-ovation-goal/",
-   "lede": "A guard of honour for Barcelona’s eliteThe spirit of sportsmanship was on full display in Valencia as Levante UD took a moment to celebrate the achievements of their opponents' international contingent. Following the lead of Elche, who hosted a similar tribute during the second matchday of the season, the Granotas ensured that the Barcelona players felt the appreciation of the wider Spanish football community.As the teams emerged for the warm-ups and subsequent protocol, the atmosphere was electric. Fans at the Ciutat de Valencia put aside club rivalries to deliver a sustained standing ovation for the men who helped bring the World Cup trophy back to Spanish soil.",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_4.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
    "cat": "NG.HEADTOPICS.COM",
-   "title": "Michael Olise: From Academy Rejection to World Cup Star with Bayern Munich",
+   "title": "Michael Olise: From Academy Rejection to World Cup Star with Bayern Munich | Football",
    "iso": "2026-09-13T20:22:00.000Z",
    "link": "https://ng.headtopics.com/news/michael-olise-from-academy-rejection-to-world-cup-star-87707219",
    "lede": "",
@@ -71,7 +71,7 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NYTIMES.COM",
+   "cat": "THE NEW YORK TIMES",
    "title": "Team USA takes down France for fifth consecutive World Cup gold medal",
    "iso": "2026-09-13T20:05:07.000Z",
    "link": "https://www.nytimes.com/athletic/7590561/2026/09/13/team-usa-takes-down-france-for-fifth-consecutive-world-cup-gold-medal/",
