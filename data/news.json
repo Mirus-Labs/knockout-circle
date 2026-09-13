@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T23:01:57.089Z",
+ "updated": "2026-09-13T23:36:59.111Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -7,7 +7,7 @@
    "iso": "2026-09-13T20:20:33.000Z",
    "link": "https://sports.yahoo.com/articles/changes-offense-fall-grace-caitlin-202033208.html",
    "lede": "Caitlin Clark has endured a difficult FIBA World Cup campaign on a personal level, limited to a bench role. The Indiana Fever star helped Team USA win the World Cup final against France on Sunday, but her performance left the WNBA world divided. The Indiana Fever star helped Team USA win the Wo...",
-   "image": "https://s.yimg.com/lo/mysterio/api/a792b32f89c081558c5c9057a899e08825205d6650040d3882f792d6f17d2baa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fc5b2c284bc3e751dd509c10cd307c9f2.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c84654274d9e90a4070d060ede39448bbb93127a3b130d7838bc002fcbb40d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F6a6aa70fc1acd31b9b6b2be259a64a5a.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -52,17 +52,17 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "PM NEWS NIGERIA",
-   "title": "Falconets fire 10 goals past New Caledonia, storm into U20 World Cup knockouts",
-   "iso": "2026-09-13T15:58:49.000Z",
-   "link": "https://pmnewsnigeria.com/2026/09/13/falconets-fire-10-goals-past-new-caledonia-storm-into-u20-world-cup-knockouts/",
-   "lede": "Kareem then completed her brace in the 27th minute as the Falconets raced into a commanding 4-0 lead before half-time. Nigeria’s Falconets delivered a breathtaking attacking display on Sunday, thrashing New Caledonia 10-1 to complete their group-stage campaign in emphatic fashion at the FIFA Women’s U20 World Cup. The Nigerian side dominated from the opening whistle at Stadion ŁKS in Lodz, scoring four goals in the first half before adding six more after the interval to record one of the tournament’s biggest victories. Rasheedat Kareem set the tone in the 17th minute, confidently converting a penalty to give Nigeria the lead.",
-   "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2026/09/Falconets.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Team USA takes down France for fifth consecutive World Cup gold medal",
+   "iso": "2026-09-13T23:26:01.000Z",
+   "link": "https://www.nytimes.com/athletic/7590561/2026/09/13/team-usa-takes-down-france-for-fifth-consecutive-world-cup-gold-medal/",
+   "lede": "Despite France built up as a rival contender, Team USA used a dominant third quarter to shut the door on their bid.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/13163402/GettyImages-2294652143-scaled.jpg?width=1200&height=630&fit=cover",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NG.HEADTOPICS.COM",
+   "cat": "HEAD TOPICS",
    "title": "Michael Olise: From Academy Rejection to World Cup Star with Bayern Munich | Football",
    "iso": "2026-09-13T20:22:00.000Z",
    "link": "https://ng.headtopics.com/news/michael-olise-from-academy-rejection-to-world-cup-star-87707219",
@@ -71,12 +71,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Team USA takes down France for fifth consecutive World Cup gold medal",
-   "iso": "2026-09-13T20:05:07.000Z",
-   "link": "https://www.nytimes.com/athletic/7590561/2026/09/13/team-usa-takes-down-france-for-fifth-consecutive-world-cup-gold-medal/",
-   "lede": "Despite France built up as a rival contender, Team USA used a dominant third quarter to shut the door on their bid.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/13163402/GettyImages-2294652143-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "TOD",
+   "title": "Watch Sweden vs Tunisia",
+   "iso": "2026-09-13T19:35:16.000Z",
+   "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/group-stage/sweden-vs-tunisia-5044396",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
