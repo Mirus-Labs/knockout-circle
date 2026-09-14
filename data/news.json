@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T01:08:04.194Z",
+ "updated": "2026-09-14T01:44:05.413Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -52,19 +52,18 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Vikings’ fourth-quarter comeback stuns Packers but concern over Kyler Murray’s injury lingers",
-   "iso": "2026-09-13T23:47:58.000Z",
-   "link": "https://www.nytimes.com/athletic/7591258/2026/09/13/packers-vikings-nfl-2026-score-result-takeaways/",
-   "lede": "With Green Bay seemingly in control, Minnesota scored 22 points in 2:42 of game time to win its season opener.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/13193156/GettyImages-2295119163-scaled.jpg?width=1200&height=630&fit=cover",
+   "cat": "NG.HEADTOPICS.COM",
+   "title": "Michael Olise: From Academy Rejection to World Cup Star with Bayern Munich | Football",
+   "iso": "2026-09-13T20:22:00.000Z",
+   "link": "https://ng.headtopics.com/news/michael-olise-from-academy-rejection-to-world-cup-star-87707219",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Team USA takes down France for fifth consecutive World Cup gold medal",
-   "iso": "2026-09-13T23:33:57.000Z",
+   "iso": "2026-09-13T20:05:00.000Z",
    "link": "https://www.nytimes.com/athletic/7590561/2026/09/13/team-usa-takes-down-france-for-fifth-consecutive-world-cup-gold-medal/",
    "lede": "Despite France built up as a rival contender, Team USA used a dominant third quarter to shut the door on their bid.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/13163402/GettyImages-2294652143-scaled.jpg?width=1200&height=630&fit=cover",
@@ -72,10 +71,10 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NG.HEADTOPICS.COM",
-   "title": "Michael Olise: From Academy Rejection to World Cup Star with Bayern Munich | Football",
-   "iso": "2026-09-13T20:22:00.000Z",
-   "link": "https://ng.headtopics.com/news/michael-olise-from-academy-rejection-to-world-cup-star-87707219",
+   "cat": "TOD",
+   "title": "Watch Sweden vs Tunisia",
+   "iso": "2026-09-13T19:35:16.000Z",
+   "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/group-stage/sweden-vs-tunisia-5044396",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
