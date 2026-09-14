@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-14T06:20:18.678Z",
+ "updated": "2026-09-14T07:11:26.388Z",
  "news": [
+  {
+   "cat": "SPORTS BYTES PHILIPPINES",
+   "title": "Filipinas Eye World Cup Boost in Asian Games Gauntlet",
+   "iso": "2026-09-14T06:58:59.000Z",
+   "link": "https://sportsbytes.com.ph/2026/09/14/filipinas-asian-games-2026-world-cup-push/",
+   "lede": "Posted By Staff Writer on September 14, 2026. The Philippine Women’s National Football Team is treating a brutal Asian Games group as the ultimate proving ground. With China, Hong Kong, and Uzbekistan standing in their way, the Filipinas see the gauntlet as fuel for their 2027 FIFA Women’s World Cup push. The squad opens the 20th Asian Games in Nagoya, Japan, running from September 14 to October 2.",
+   "image": "http://sportsbytes.com.ph/wp-content/uploads/2026/09/Untitled-design717.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "AFRICA TOP SPORTS",
    "title": "FIFA U-17 World Cup: Kunsanama appointed Zambia head coach",
@@ -8,8 +18,8 @@
    "link": "https://en.africatopsports.com/fifa-u-17-world-cup-kunsanama-appointed-zambia-head-coach/",
    "lede": "The Football Association of Zambia (FAZ) has appointed Brian Kunsanama as Head Coach of the Zambia Under-15 Boys National Team ahead of the inaugural FIFA U-15 World Cup and Festival 2026. Kunsanama will lead a newly constituted technical bench that will immediately begin preparations for the global youth competition scheduled for Baku, Azerbaijan, from October 22 to 31, 2026. FAZ General Secretary Charles Chakatazya said Kunsanama will be assisted by Lawrence Lubinda, Josephat Nkhoma, Brian Lubaba and Joyford Mambe. Former Chipolopolo and Zanaco goalkeeper Racha Kola has been appointed Goalkeeper Coach, while Mike Mudenda takes up the role of Physical Trainer.",
    "image": "https://en.africatopsports.com/wp-content/uploads/2026/09/797684819_1633088061808348_5943329470862201358_n-e1789364950349.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "SPORTS247 NIGERIA",
@@ -18,8 +28,8 @@
    "link": "https://www.sports247.ng/womens-u20-world-cup-falcons-can-get-better-ikpeme-declares-ahead-of-clash-with-england/",
    "lede": "Nigeria’s female youth national team, Falconets have been tipped to put up a better performance against England this Thursday at the ongoing FIFA U-20 Women’s World Cup in Poland. Sports247 reports that this prediction was provided by the acting general secretary of Nigeria Football Federation (NFF), Dr Emmanuel Ikpeme, while reflecting over the team’s 10-1 trouncing of New Caledonia on Sunday. The result took Moses Aduku’s squad up to second place on the final group table with goals difference, though level on four points with China, who lost 3-1 to Spain in the corresponding simultaneous fixture to end the first round campaign. Ikpeme noted that the Herculean performance by Aduku’s team was worthy of commendation, but charged the players to keep on seeking how to improve, as they get ready to tackle Group E winners, England in the round of 16 on Thursday.",
    "image": "https://www.sports247.ng/wp-content/uploads/2026/09/file_00000000ef348246909195b2eafe6b57-983x1024.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "DW.COM",
@@ -28,8 +38,8 @@
    "link": "https://www.dw.com/en/2026-mens-world-cup-mexicos-most-creative-football-pitches/g-77490969",
    "lede": "On the southern outskirts of Mexico City, amateur teams meet on a very unique football pitch every Sunday. Known as the \"Field of the Gods,\" it is perched inside the extinct Teoca volcano and situated a breathtaking 2,700 meters (8,800 feet) above sea level. The pitch was created by the nearby community more than 60 years ago and is a source of local pride. Cars above, sports below: this pitch in Mexico City's colorful Las Aguilas neighborhood gives people the space to play soccer beneath a highway overpass.",
    "image": "https://static.dw.com/image/77484405_6.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SPORTSGAMBLER",
@@ -38,8 +48,8 @@
    "link": "https://www.sportsgambler.com/lineups/football/",
    "lede": "Explore the latest football lineups. View predicted starting XIs ahead of kick-off and confirmed team news as soon as lineups are announced. Choose a competition below to see the latest lineups and expected formations. Our aim is to provide daily predicted football lineups for as many football matches taking place across the world as possible.",
    "image": "https://sportsgambler.sirv.com/sportsgambler/social/sm_img_lineupspage.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DW.COM",
@@ -48,8 +58,8 @@
    "link": "https://www.dw.com/en/africa-at-the-fifa-world-cup-2026-what-are-the-chances/audio-77506403",
    "lede": "To play this audio please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video. As the World Cup kicks off, African teams are ready to battle it out on the pitch. Is this the tournament where Africa goes all the way, and can the continent finally break the ultimate barrier and lift the trophy? African teams have long been a vibrant and unpredictable force at the FIFA World Cup, known for their flair, resilience, and raw talent.",
    "image": "https://static.dw.com/image/74973921_6.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DW.COM",
@@ -58,26 +68,16 @@
    "link": "https://www.dw.com/en/boycotts-bans-and-no-shows-notable-world-cup-absentees/g-76500538",
    "lede": "The first World Cup was hosted by Uruguay in 1930 and featured 13 teams, just four of which were from Europe: France, Belgium, Romania and Yugoslavia. The paucity of European teams wasn't due to a boycott but largely had to do with funds being short during the Great Depression and the difficulty of traveling such a long distance by sea. It would be linked to a boycott at the next World Cup. Italy both hosted and won their first World Cup in 1934.",
    "image": "https://static.dw.com/image/76507462_6.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "FRENCH FOOTBALL WEEKLY",
-   "title": "A goal from the Bleuettes at the U20 World Cup creates a global buzz (video)",
-   "iso": "2026-09-13T20:48:45.000Z",
-   "link": "https://frenchfootballweekly.com/2026/09/13/a-goal-from-the-bleuettes-at-the-u20-world-cup-creates-a-global-buzz-video/",
-   "lede": "It’s the football buzz of the weekend, the image which has already gone around the planet via social networks. Saturday evening in Sosnowiec, Poland, the Bleuettes made headlines during the U20 Women’s World Cup. Then opposed to their Ghanaian counterparts, the young French women won 4-0, thus validating their first place in the group and their qualification for the round of 16. A first direct elimination match that they will play against Canada next Thursday in Lodz.",
-   "image": "https://frenchfootballweekly.com/wp-content/uploads/2026/09/A-goal-from-the-Bleuettes-at-the-U20-World-Cup.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TIMES WEST VIRGINIAN",
-   "title": "US wins fifth straight women's FIBA World Cup title, beating France 97-79",
-   "iso": "2026-09-13T20:45:00.000Z",
-   "link": "https://www.timeswv.com/sports/us-wins-fifth-straight-womens-fiba-world-cup-title-beating-france-97-79/article_41e2953f-585d-5148-af2e-8699fdbfa9ba.html",
-   "lede": "BERLIN (AP) — Breanna Stewart and the U.S. faced a stiff challenge from France before dominating in the second half to win its fifth consecutive women’s FIBA World Cup. The 97-79 victory extended the Americans' streak to 36 straight World Cup wins, dating to the semifinals of the 2006 World Cup, where they lost to Russia. The U.S. improved to 9-0 in gold-medal games since finishing second in 1983 to the Soviet Union. France's Marine Johannes guards Breanna Stewart, of the United States, during the Women's Basketball World Cup final match between the United States and France in Berlin, Sunday, Sept.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/0/c0/0c00c314-b26b-517a-90f4-b7fa7ddf4a30/6aa7086108482.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "CommBank Pararoos squad named for IFCPF Men’s World Cup 2026",
+   "iso": "2026-09-14T00:04:41.000Z",
+   "link": "https://footballaustralia.com.au/news/commbank-pararoos-squad-named-ifcpf-mens-world-cup-2026",
+   "lede": "Head Coach Kai Lammert’s squad features significant World Cup experience, with 11 players returning from the group that represented Australia at the 2024 edition in Salou, Spain. The squad also includes first-time Pararoo Josh De Silva (Football West), whose journey back to football following an acquired brain injury has culminated in his maiden national team selection. The squad features players from five Member Federations across Australia, with five representatives from Football NSW, four from Football West, three from Football Victoria, and one each from Football Queensland and Capital Football. Australia has been drawn into Group B alongside Brazil, Spain and Chile, with all matches to be played at the U.S.",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-09/Pararoos_H4C7165.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
