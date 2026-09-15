@@ -1,15 +1,54 @@
 {
- "updated": "2026-09-15T15:12:03.595Z",
+ "updated": "2026-09-15T17:04:42.009Z",
  "news": [
+  {
+   "cat": "ZAMBIANFOOTBALL.CO.ZM",
+   "title": "Captain Mubanga leads Kanyemba’s provisional Zambia U-17 World Cup squad",
+   "iso": "2026-09-15T16:44:23.000Z",
+   "link": "https://zambianfootball.co.zm/captain-mubanga-leads-kanyembas-provisional-zambia-u-17-world-cup-squad/",
+   "lede": "Zambia Under-17 Women’s National Team captain Taonga Mubanga leads a 35-member provisional squad named by coach Carol Kanyemba for next month’s FIFA U-17 Women’s World Cup in Morocco. Mubanga, who was part of Zambia’s squad at the previous World Cup, is among four players with previous tournament experience included in Kanyemba’s provisional group. She is joined by fellow returning players Esther Ngabwe, Grace Phiri and Beatrice Njobvu, as Kanyemba begins the final phase of preparations for Zambia’s third consecutive appearance at the global tournament. The Copper Princesses will enter a long-haul training camp this weekend, with the programme set to culminate in a pre-tournament international camp.",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Every country opposing and supporting Gianni Infantino in Fifa crisis",
+   "iso": "2026-09-15T16:03:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/who-support-gianni-infantino-fifa-president-uefa-boycott-b3032486.html",
+   "lede": "Italy is the latest to withdraw their endorsement of Infantino after his botched World Cup sell-off plan. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
-   "iso": "2026-09-15T12:45:00.000Z",
+   "iso": "2026-09-15T15:29:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
    "lede": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year. The 2026 Under-20 Women’s World Cup is entering the knockout stage in Poland and, after an intriguing group stage, we pick some of the young stars who have stood out. Celia Segura (Spain and Barcelona) Segura is no stranger to knockout football having helped Spain to silver at the Under-17 World Cup two years ago and finishing with the Bronze Ball and Bronze Boot. She has picked up the mantleagain as La Roja eased through their group.",
    "image": "https://i.guim.co.uk/img/media/4079c3d72712d8eca2b3990da501e30a83c6db63/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eeac1848c28b4f0713dcd6feeac8e5d2",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "CNA",
+   "title": "Spain manager Luis de la Fuente agrees contract extension until 2030 World Cup",
+   "iso": "2026-09-15T15:19:47.000Z",
+   "link": "https://www.channelnewsasia.com/sport/spain-manager-luis-de-la-fuente-agrees-contract-extension-until-2030-world-cup-6386676",
+   "lede": "MADRID, Sept 15 : Spain's World Cup-winning coach Luis de la Fuente has agreed a contract extension until 2030 after guiding the men's national team to back-to-back major titles, media reported on Tuesday,. De la Fuente, who led Spain to glory at Euro 2024 before winning the World Cup in July, had a contract in place until 2028. The new deal ensures that de la Fuente will remain in charge when Spain attempt to defend their global title on home soil. Spain will co-host the 2030 World Cup with Morocco and Portugal.",
+   "image": "https://dam.mediacorp.sg/image/upload/s--TJr4F27g--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T151947Z_1_LYNXMPEM8E1I8_RTROPTP_3_SOCCER-WORLDCUP-ESP-CELEBRATIONS.JPG?itok=MUX_Te0p",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE STRAITS TIMES",
+   "title": "UEFA pressure on Infantino grows as Greek FA, Bierhoff back change",
+   "iso": "2026-09-15T14:12:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/uefa-pressure-on-infantino-grows-as-greek-fa-bierhoff-back-change",
+   "lede": "THESSALONIKI, Greece, Sept 15 - Greek Football Association president Makis Gagatsis and former Germany national team director Oliver Bierhoff on Tuesday backed UEFA's push for change in FIFA's leadership, underscoring a united European front in opposition to FIFA president Gianni Infantino. \"The Greek FA (EPO) has taken a clear position against a candidacy of Gianni Infantino,\" EPO President Makis Gagatsis told reporters. \"We saw things happen at the World Cup that are not acceptable to football public opinion,\" Gagatsis said. \"Then... came a programme to sell World Cup rights and we are clearly against it, so we withdrew our support of the FIFA president.\"",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7bfd4e7253fe342c96a47ae05100c6acc03b9be6779dea18140fdf6e03d45c0f",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "TIMES WEST VIRGINIAN",
@@ -18,18 +57,8 @@
    "link": "https://www.timeswv.com/sports/scotland-call-for-sevilla-forward-robbie-ure-in-post-world-cup-reset-under-new-coach/article_dc7dcb9e-d106-54a2-980e-40c39d447eb8.html",
    "lede": "GLASGOW, Scotland (AP) — A transfer to Spain and change of Scotland coach finally earned Sevilla striker Robbie Ure a first international call Tuesday in a reset after a disappointing World Cup where the Tartan Army of fans far outperformed the team. Scotland’s new coach Sébastien Pocognoli made the 22-year-old Ure the standout inclusion among sweeping changes for four games in a second-tier Nations League group where World Cup quarterfinalist Switzerland starts favorite. Celtic's Colby Donovan, left, and Rangers' Djeidi Gassama battle for the ball during the Scottish League Cup soccer match between Rangers and Celtic, in Glasgow, Sunday Sept. Napoli's Scott McTominay reacts after a missed opportunity during a Champions League opening phase soccer match between SL Benfica and Napoli in Lisbon, Wednesday, Dec.",
    "image": "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/a/bb/abb4d54a-8c57-5dd7-a9bf-ce02d86f3836/6aa93651ef4d9.image.jpg?crop=1701%2C893%2C0%2C162&resize=1200%2C630&order=crop%2Cresize",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "İDMAN.BIZ",
-   "title": "Astana to host 2028 UEFA Super Cup",
-   "iso": "2026-09-15T10:35:00.000Z",
-   "link": "https://www.idman.biz/en/news/world-football/156311",
-   "lede": "The venue for the 2028 UEFA Super Cup has been confirmed. As reported by İdman.Biz, the UEFA Executive Committee has approved Astana, the capital of Kazakhstan, as the host city for the match. The 2028 UEFA Super Cup will be played at Astana Arena. The traditional season-opening fixture brings together the winners of the UEFA Champions League and UEFA Europa League.",
-   "image": "https://www.idman.biz/media/2026/09/15/1920x1280/og-default.webp?v=1789466749",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE MIRROR",
@@ -38,46 +67,16 @@
    "link": "https://www.mirror.co.uk/sport/football/news/thomas-tuchel-still-bruised-bitter-37663722",
    "lede": "Thomas Tuchel still feels very hard done by. In fact, it would be fair to say the England manager has been bruised by the whole World Cup 2026 experience. England finished third in the World Cup, their best-ever performance on foreign soil. So, why are so many England fans still so frustrated, still hurt and why, when looking back upon the summer, do they do it with regret rather than happy memories?",
    "image": "https://i2-prod.mirror.co.uk/article37663906.ece/ALTERNATES/s1200d/1_premium-canvas-1789464335249.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "TALKSPORT.COM",
+   "cat": "TALKSPORT",
    "title": "New Scotland boss calls-up just 14 World Cup players as Oli McBurnie picked for first time in nearly six years",
    "iso": "2026-09-15T10:24:24.000Z",
    "link": "https://talksport.com/football/4582114/scotland-squad-named-oli-mcburnie-pocognoli/",
    "lede": "The Hull City striker was controversially left out of Steve Clarke's World Cup squad despite helping fire the Tigers to promotion. His omission came despite scoring 17 Championship goals as well as the winner in the play-off final last term. He has since featured in all four of Hull's Premier League outings this season. McBurnie, who has featured 17 times at senior international level, could now win his first cap since appearing against the Faroe Islands in March 2021.",
    "image": "https://talksport.com/wp-content/uploads/2026/09/sebastien-pocognoli-unveiled-scotland-mens-1101813902.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MENSXP.COM",
-   "title": "FIFA President Gianni Infantino Under Scanner After Failed Sell-Off; FIFPRO Demands Change",
-   "iso": "2026-09-15T09:49:34.000Z",
-   "link": "https://www.mensxp.com/sports/football/185831-fifa-president-gianni-infantino-under-scanner-after-failed-sell-off-fifpro-demands-change.html",
-   "lede": "The failed sell-off plan by FIFA boss Gianni Infantino has resulted in FIFPRO, a union for European footballers, to demand changes in the decision structure of the governing body. Infantino had tried to sell stakes in FIFA, and FIFPRO said this exposed how flawed things were. After the FIFA World Cup 2026 final, Infantino proposed to raise $20 billion by selling a 20 percent stake in the body. The backlash resulted in the plan not going through.",
-   "image": "https://mxp-media.ilnmedia.com/media/content/2026/Sep/FB_6aa9155c86163.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "FRENCH FOOTBALL WEEKLY",
-   "title": "2030 World Cup: Morocco still insists on the final",
-   "iso": "2026-09-15T09:42:43.000Z",
-   "link": "https://frenchfootballweekly.com/2026/09/15/2030-world-cup-morocco-still-insists-on-the-final/",
-   "lede": "Spain’s victory in the final of the 2026 World Cup at the expense of Argentina (1-0, ap) officially opened the way for the 24th edition of the World Cup, co-organized by Spain, Morocco and Portugal, with three matches played in Latin America to celebrate the centenary of the competition. While Spain and Morocco are already arguing behind the scenes over the organization of the final, Fouzi Lekjaa, president of the Royal Moroccan Football Federation (FRMF), continues to demand this final meeting. A few days after affirming that the final of the next World Cup would take place in Casablanca, before being taken over by Fifa, the Moroccan leader was at it again. Also Minister Delegate for the Budget, Fouzi Lekjaa spoke in an interview given to Young AfricaMonday, while he is in the middle of the campaign before the Moroccan legislative elections on September 23.",
-   "image": "https://frenchfootballweekly.com/wp-content/uploads/2026/09/2030-World-Cup-Morocco-still-insists-on-the-final.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "LEGIT.NG",
-   "title": "Édouard Mendy: African footballers who retired after 2026 World Cup",
-   "iso": "2026-09-15T09:31:26.000Z",
-   "link": "https://www.legit.ng/sports/football/1730879-african-legends-retired-2026-world-cup-edouard-mendys-announcement/",
-   "lede": "PAY ATTENTION: Find it fast with our new search feature at Legit.ng! The 2026 FIFA World Cup marked the end of some iconic international careers in African football after they stepped aside from the national teams. Africa had 10 representatives at the tournament, and Morocco, who were eliminated in the quarter-finals, had the best outing, while Tunisia were poor after a group-stage elimination. Legit.ng looks at the African football legends who retired from national team duty after the World Cup.",
-   "image": "https://cdn.legit.ng/images/1200x675/df4c406df8812a15.jpeg?v=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
