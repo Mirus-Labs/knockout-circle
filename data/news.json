@@ -1,15 +1,25 @@
 {
- "updated": "2026-09-16T17:18:08.718Z",
+ "updated": "2026-09-16T18:54:58.524Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
-   "title": "USA fall to Brazil on penalties for disappointing exit from U-20 Women’s World Cup",
-   "iso": "2026-09-16T17:14:00.000Z",
+   "title": "USA exits U-20 World Cup on penalties as tournament’s timing draws criticism",
+   "iso": "2026-09-16T17:41:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
-   "lede": "Americans have not won tournament since 2012. US youth teams have struggled in recent showings. Timing of U-20 World Cup has drawn criticism. The United States were eliminated from the U-20 Women’s World Cup in the last 16, falling to Brazil on penalties on Wednesday after playing to a 1-1 draw after extra-time.",
+   "lede": "Brazil advances to quarter-finals in Poland. Americans have not won tournament since 2012. US youth teams have struggled in recent showings. The United States were eliminated from the U-20 Women’s World Cup in the last 16 on Wednesday, falling to Brazil on penalties after playing to a 1-1 draw after extra-time.",
    "image": "https://i.guim.co.uk/img/media/702b0858ca118e59e36522b3db59536875c0059a/127_0_2745_2197/master/2745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61f9746bd85fb62ad2b55880cfde2f33",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "LIVESCORE",
+   "title": "Thomas Tuchel explains how Argentina’s ‘f*** it football’ dismantled England in World Cup failure",
+   "iso": "2026-09-16T17:40:30.000Z",
+   "link": "https://www.livescore.com/en/news/football/world-cup/thomas-tuchel-explains-how-argentinas-f-it-football-dismantled-england-in-world-cup-failure-the-independent/",
+   "lede": "Thomas Tuchel has opened up on England’s World Cup semi-final capitulation and how Argentina’s “f***-it football” left his team “waiting for death”. England achieved their best World Cup finish since 1966 this summer, taking home bronze after defeating France 6-4 in a thrilling third-place play-off in Miami. However, their campaign was defined by gut-wrenching semi-final failure against Argentina, which saw England surrender a lead to the defending champions before losing in stoppage time. The tide of the match seemed to shift in Argentina’s favour after Tuchel went heavily defensive, going to a back-five by bringing on Ezri Konsa with 20 minutes to play, before having the team sit back.",
+   "image": "https://static.independent.co.uk/2026/07/17/06/2286425030..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "OMANOBSERVER.OM",
@@ -18,8 +28,8 @@
    "link": "https://www.omanobserver.om/article/1196335/sports/worldcup/al-mouj-muscat-supports-oman-u15-for-world-cup",
    "lede": "​MUSCAT: Al Mouj Muscat, the Sultanate of Oman’s premier destination for major sporting and lifestyle events, has announced its sponsorship of the Oman U15 national football team as they prepare to represent Oman at the upcoming U15 World Cup. The partnership with the Oman Football Association (OFA) reflects a shared commitment to investing in young Omani talent and creating opportunities that contribute to the long-term development of national sport. The 14-player national squad will represent Oman at the inaugural Fifa U15 World Cup 2026 in Azerbaijan, beginning on October 22. The milestone represents a significant step forward for Omani youth football, giving some of the country’s most promising young players the opportunity to test themselves internationally and gain valuable experience at a formative stage in their development.",
    "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/09/16/thumbs/600x600/3515529.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "LIVESCORE",
@@ -28,8 +38,8 @@
    "link": "https://www.livescore.com/en/news/football/more/spain-strike-and-tie-down-the-best-coach-in-the-world-for-the-2030-world-cup-goal/",
    "lede": "Luis de la Fuente has extended his contract with the Spanish Football Federation until the 2030 World Cup, federation president Rafael Louzan announced to Diario AS on Wednesday.De la Fuente has been Spain coach for the past three years. He replaced Luis Enrique in 2023 after the World Cup in Qatar.That appointment proved a masterstroke. In 2024, De la Fuente led Spain to the European Championship in Germany, beating England in the final.Two years later, Spain also won the World Cup in North America under his leadership. They beat Argentina 1-0 in the final.Previously in charge of, among others, Athletic Club and Alavés, the former manager was still under contract with the federation until mid-2028, but will now sign until mid-2030.",
    "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_2.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SPECIAL OLYMPICS",
@@ -38,46 +48,33 @@
    "link": "https://www.specialolympics.org/stories/news/veo-highlights-the-power-of-connection-at-the-special-olympics-unified-football-world-cup",
    "lede": "Veo recently featured a story showcasing how access to live-streamed matches helped supporters around the world stay connected to the Special Olympics Unified Football World Cup, held in Paris from 6 to 11 July. The article, \"They Are Footballers\", highlights how the partnership between Special Olympics and Veo made it possible for families, friends, and fans around the world to follow the tournament through live streaming and match recordings. By expanding access to the competition, the collaboration helped ensure that athletes' achievements could be celebrated far beyond the stadium.",
    "image": "https://dotorg.brightspotcdn.com/b0/6d/b0d715c54b319d74fbe692b0b342/060726-pd-504.JPG",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FOOTBALL ITALIA",
-   "title": "Donnarumma calls on Italy supporters after ‘heartbreaking’ summer with no World Cup",
-   "iso": "2026-09-16T12:06:45.000Z",
-   "link": "https://football-italia.net/donnarumma-calls-on-italy-supporters/",
-   "lede": "Gianluigi Donnarumma has rallied the Italy supporters, calling on them to help the Azzurri into a new era under Roberto Mancini after a ‘heartbreaking’ summer that left the squad watching the 2026 World Cup from home: ‘Together, we have to rewrite our history’. The Manchester City stopper and Italy national team captain spoke in-depth to Sky Sport Italia ahead of the upcoming September-October international break, which will see the Azzurri take on Belgium, Turkiye, France and Turkiye again in the Nations League. Donnarumma captained the side that lost to Bosnia and Herzegovina in the 2026 World Cup play-off final at the end of March, which led to a complete overhaul of the Italy national team set-up. Head coach Gennaro Gattuso has been replaced by Euro 2020 winner Mancini, Gianluigi Buffon has also left the delegation, as has FIGC President Gabriele Gravina.",
-   "image": "https://icdn.football-italia.net/wp-content/uploads/2026/03/Gianluigi-Donnarumma-celebrate-1.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE INDEPENDENT",
-   "title": "Gianni Infantino World Cup sell-off plan review to be presented to Fifa Council after backlash",
-   "iso": "2026-09-16T11:55:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-world-cup-sale-review-fifa-council-b3051193.html",
-   "lede": "Infantino was forced to abandon the sell-off plan following fierce criticism. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
-   "image": "https://static.independent.co.uk/2026/09/16/12/01M27TJV9TACJC1DYZFAEKP4NK.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Your alma mater is paying WHAT for its college football roster?! MoneyCall",
+   "iso": "2026-09-16T18:07:43.000Z",
+   "link": "https://www.nytimes.com/athletic/7600731/2026/09/16/college-football-roster-costs-nil-moneycall/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Your alma mater is paying WHAT for its college football roster?! MoneyCall",
-   "iso": "2026-09-16T16:57:30.000Z",
-   "link": "https://www.nytimes.com/athletic/7600731/2026/09/16/college-football-roster-costs-nil-moneycall/",
-   "lede": "This week's free sports business newsletter from The Athletic includes analysis about NFL Week 1 ratings, misogyny in sports media and more.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/16123321/GettyImages-2294966757-scaled.jpg?width=1200&height=630&fit=crop",
+   "cat": "SOFASCORE",
+   "title": "Italy U20 vs China U20 live score, H2H and lineups",
+   "iso": "2026-09-16T17:22:17.000Z",
+   "link": "https://www.sofascore.com/football/match/china-u20-italy-u20/aNDseND",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Eating grass, turkey legs and milk showers: Sport’s strangest winning rituals",
-   "iso": "2026-09-16T16:38:45.000Z",
-   "link": "https://www.nytimes.com/athletic/7600402/2026/09/16/strange-sport-rituals-grass-turkey-milk/",
-   "lede": "From full-fat dairy to cutting nets and tattoos, here’s how sportspeople savour winning moments.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/16112934/GettyImages-2259323963-scaled-e1789572773636.jpg?width=1200&height=630&fit=crop",
+   "title": "College football best bets Week 3: Should Louisville be a bigger favorite against SMU?",
+   "iso": "2026-09-16T16:52:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7600235/2026/09/16/college-football-best-bets-week-3/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
