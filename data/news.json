@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T22:11:18.378Z",
+ "updated": "2026-09-17T23:07:45.954Z",
  "news": [
   {
    "cat": "سانا",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE STRAITS TIMES",
+   "title": "US coach Pochettino bets on youth for upcoming friendlies",
+   "iso": "2026-09-17T18:53:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/us-coach-pochettino-bets-on-youth-for-upcoming-friendlies",
+   "lede": "FILE PHOTO: Soccer Football - FIFA World Cup 2026 - Round of 16 - United States v Belgium - Seattle Stadium, Seattle, Washington, U.S. - July 6, 2026 U.S. coach Mauricio Pochettino looks dejected after the match following their elimination from the World Cup IMAGN IMAGES via Reuters/Blake Dahlin/File Photo. Sept 17 - US coach Mauricio Pochettino is betting on youth for the nation's upcoming friendlies against Peru, Chile, Mexico and Canada, with Christian Pulisic among the big names absent from the 28-man squad unveiled on Thursday. Pochettino is beginning a new chapter with the team after agreeing to lead them through to the 2030 World Cup earlier this year. He has called up 13 uncapped players alongside veterans for the country's first matches since this summer's World Cup, where they bowed out in the round of 16 on home soil.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4c343d144dfed629834b470f2c22ba7d52fb0e5c078453790002b10b112ea8ed",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "THE SUN",
    "title": "FA chief demands full Fifa probe into Gianni Infantino's World Cup sell plot & Donald Trump's secret call to unban star",
    "iso": "2026-09-17T18:08:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40413052/fa-gianni-infantino-fifa-donald-trump-debbie-hewitt/",
    "lede": "FA CHAIR Debbie Hewitt wants Gianni Infantino to release all the documents concerning his radical plan to flog stakes in the World Cup. Hewitt, 63, wrote a letter to the Fifa president this week and it was also sent to the governing body’s secretary general Mattias Grafstrom. The Fifa Council are due to meet next month and Hewitt believes all members should have the files relating to Infantino’s scheme before then. She has also called for an explanation over the decision to suspend USA striker Folarin Balogun’s ban at this summer’s World Cup.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/HB-OP-FA-INFANTINO.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO CREATORS",
@@ -38,43 +48,34 @@
    "link": "https://creators.yahoo.com/lifestyle/story/this-college-football-team-just-adopted-the-world-cups-most-viral-chant--keeping-norways-viking-row-alive-180807494.html",
    "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, two months later, it has officially made its way into American college football. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium, with the student section sitting in rows and mimicking the same exaggerated rowing motion that Norwegian fans made famous this summer. Former Gophers linebacker Kamal Martin led the chant before kickoff.",
    "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "THEGUARDIAN.COM",
+   "cat": "THE GUARDIAN",
    "title": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
    "iso": "2026-09-17T18:00:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan",
    "lede": "Letter sent before Fifa council meeting on 15 October. Infantino under pressure before presidential election. The Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding that Fifa releases all documents relating to his abandoned World Cup sell-off plan and the decision to lift the USA striker Folarin Balogun’s suspension during last summer’s tournament. The Guardian revealed last month that Hewitt and other members of the Fifa council were lobbying for an independent review of the proposed Fifa Forward Enterprise (FFE) sell-off and the Balogun controversy.",
    "image": "https://i.guim.co.uk/img/media/107b6f4ef391a9382948dc52730ee547d22bfab9/423_0_4228_3382/master/4228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=701677363a11633340b27d052a30b271",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "THESTAR.COM.MY",
+   "cat": "THE STAR",
    "title": "Soccer-FA's Hewitt asks Infantino to release records on World Cup plan, Balogun suspension",
    "iso": "2026-09-17T17:44:00.000Z",
    "link": "https://www.thestar.com.my/sport/football/2026/09/18/soccer-fa039s-hewitt-asks-infantino-to-release-records-on-world-cup-plan-balogun-suspension",
    "lede": "Sept 17 (Reuters) - England ⁠FA chair and FIFA vice-president Debbie Hewitt has ⁠written to FIFA President Gianni Infantino seeking the ‌release of material related to his abandoned World Cup investment plan and the lifting of U.S. striker Folarin Balogun's suspension, an FA ​source confirmed to Reuters on Thursday. Infantino, ⁠56, has been under ⁠mounting pressure since unveiling a proposal to sell a commercial ⁠stake ‌in the World Cup to private investors. The plan sparked fierce opposition, with UEFA, the Asian ⁠Football Confederation and North America's CONCACAF among ​those calling for ‌changes at the top of FIFA. Balogun was handed ⁠a one-match ​ban at the 2026 World Cup after receiving a red card in his side's 2-0 round-of-32 win over Bosnia ⁠and Herzegovina that would have ruled ​him out of their last-16 clash with Belgium.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/09/18/4116272.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "College football picks ATS Week 3: LSU-Ole Miss, SMU-Louisville and more",
-   "iso": "2026-09-17T21:04:06.000Z",
-   "link": "https://www.nytimes.com/athletic/7601657/2026/09/17/cfb-predictions-picks-spread-week-3/",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Netflix in talks with Megan Rapinoe and Marta over potential Women’s World Cup analyst roles",
-   "iso": "2026-09-17T20:45:11.000Z",
-   "link": "https://www.nytimes.com/athletic/7605083/2026/09/17/netflix-rapinoe-marta-womens-world-cup/",
+   "title": "Steve Belichick resigns after investigation finds ‘certain actions’ by UNC football disregarded standards",
+   "iso": "2026-09-17T21:38:56.000Z",
+   "link": "https://www.nytimes.com/athletic/7604058/2026/09/17/unc-football-investigation-steve-belichick-resigns/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
