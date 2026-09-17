@@ -1,6 +1,56 @@
 {
- "updated": "2026-09-17T12:11:31.099Z",
+ "updated": "2026-09-17T15:02:10.290Z",
  "news": [
+  {
+   "cat": "THE TELEGRAPH",
+   "title": "FA demands Infantino releases World Cup sell-off and Balogun files",
+   "iso": "2026-09-17T14:13:00.000Z",
+   "link": "https://www.telegraph.co.uk/football/2026/09/17/fa-demands-infantino-releases-world-cup-sell-off-balogun/",
+   "lede": "Chair Debbie Hewitt calls for independent review into abandoned plan as Fifa president attempts to cling on to power. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent. Before joining the Telegraph in 2013, Ben spent more than eight years at the Press Association, including as a football and rugby reporter.",
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/09/17/TELEMMGLPICT000494939851_17896533630630_trans_NvBQzQNjv4BqQ-FcM1OG-qq7zMY6JGkaSuYdlf6xaRBoAWhljI2d_qg.jpeg?impolicy=OG-Standard",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "FA chair demands Infantino release World Cup sell-off documents",
+   "iso": "2026-09-17T14:12:16.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo",
+   "lede": "Gianni Infantino was first elected as Fifa president in 2016. Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup in a letter sent by Football Association chair Debbie Hewitt. Hewitt, a Fifa vice-president, said that the Fifa Council should also receive a written explanation for the cancelled suspension of United States forward Folarin Balogun at the World Cup. Infantino should make all documents available before the next Fifa Council meeting, which is on 15 October.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d5c2/live/09f162a0-b29d-11f1-9b18-ad61bef6e34f.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "TALKSPORT",
+   "title": "England World Cup star ruled out of Nations League games as club confirm injury blow",
+   "iso": "2026-09-17T12:27:20.000Z",
+   "link": "https://talksport.com/football/4587580/england-injury-nations-league-john-stones/",
+   "lede": "The Inter Milan defender has suffered a thigh injury, his club have confirmed. Stones is set to be sidelined for a minimum of three-and-a-half weeks after straining a muscle in his left thigh. However, Inter fear he could be out for up to a month, missing their next four matches in all competitions. At best, the 32-year-old will not return to action until after the upcoming international break.",
+   "image": "https://talksport.com/wp-content/uploads/2026/07/thomas-tuchel-head-coach-england-1095572384.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SPORTSTAR",
+   "title": "India schedule for FIFA U-15 World Cup out: Blue Colts in Group K; Full list of fixtures, dates",
+   "iso": "2026-09-17T11:59:11.000Z",
+   "link": "https://sportstar.thehindu.com/football/indian-football/india-schedule-fifa-u15-world-cup-group-k-fixtures-dates/article71476047.ece",
+   "lede": "AIFF Media AIFF Media https://ss-i.thgim.com/public/incoming/dzskfo/article71476019.ece/alternates/FREE_1200/Bibiano%20Fernandes%20IND%20U17%20coach.jpg Joan Mathew Jacob _12089 Chennai The inaugural edition of the competition will be conducted in a format different to the original rules, featuring an 8v8 format, with two 20-minute halves separated by a five-minute half-time break. India has been drawn in Group K for the inaugural FIFA Under-15 World Cup and Festival set to take place at the Hovsan Competition Complex in Baku, Azerbaijan between October 22 and 31. The inaugural edition of the competition will be conducted in a format different to the original rules, featuring an 8v8 format, with two 20-minute halves separated by a five-minute half-time break. The pitch will measure 68 metres by 50 metres, while rolling substitutions will be permitted throughout the match.",
+   "image": "https://ss-i.thgim.com/public/incoming/dzskfo/article71476019.ece/alternates/LANDSCAPE_1200/Bibiano%20Fernandes%20IND%20U17%20coach.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE SUN",
+   "title": "England World Cup star set to miss out on Thomas Tuchel's latest squad after club confirm major injury setback",
+   "iso": "2026-09-17T11:29:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40408295/england-world-cup-thomas-tuchel-john-stones/",
+   "lede": "JOHN STONES is set to miss out on Thomas Tuchel’s latest England squad after Inter confirmed the defender has suffered a thigh injury. Three Lions boss Tuchel is due to name his first squad since the World Cup on Friday at 10am, with Stones now facing a race against time to recover from the setback. Inter confirmed on Thursday morning that the 32-year-old has suffered a muscle strain to the flexor muscles in his left thigh. The Italian giants said Stones underwent clinical and diagnostic tests at the Istituto Humanitas in Rozzano, with his condition set to be reassessed over the coming days.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/goalkeeper-jordan-pickford-england-marc-1094970938.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE DEVELOPER",
    "title": "Reportage - Ukraine reconstruction tool funded by Built World Cup launches",
@@ -8,28 +58,18 @@
    "link": "https://thedeveloper.live/reportage/ukraine-reconstruction-tool-funded-by-built-world-cup-launches",
    "lede": "A reconstruction tool funded by the proceeds from the 2025 Built World Cup football tournament – which raised £10,000 for Ukrainian architecture practice balbek bureau – has launched and can now be used for the Cherkasy region. RE: Ukraine Villages documents traditional architecture and material-use through in-depth field research to create culturally-sensitive plans and elevations to facilitate reconstruction and preserve a unique sense of place appropriate to the region. The Built World Cup, founded by ING Media and The Developer, is a tournament for mixed-gender built environment teams to raise money for charity. The funds raised by the Built World Cup 2025 were used to visit 42 villages in Cherkasy to document the local vernacular, covering thousands of kilometres to photograph architectural details and collect references.",
    "image": "https://thedeveloper.live/AcuCustom/Sitename/DAM/158/4.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "REDIFF",
-   "title": "India Drawn In Group K For Inaugural FIFA U15 World Cup In Azerbaijan",
-   "iso": "2026-09-17T10:54:32.000Z",
-   "link": "https://www.rediff.com/sports/report/india-drawn-in-fifa-u15-world-cup-festival-2026/20260917.htm",
-   "lede": "India's U15 men's football team is poised for a significant challenge, drawn into Group K for the inaugural FIFA U15 World Cup & Festival Azerbaijan 2026, set to kick off in October. India have been drawn alongside Bahrain, Cameroon, Grenada, Laos and Senegal in Group K of the inaugural FIFA U15 World Cup & Festival Azerbaijan 2026, which will be held in Baku in October. The India U15 men's team, coached by Bibiano Fernandes, will play five matches across three days in the qualification stage at the Hovsan Competition Complex in Baku. With the tournament open for participation to all FIFA Member Associations, 191 national teams have been divided into 32 groups. 943 matches will be played across 20 match pitches over six competition days.",
-   "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "DEVDISCOURSE",
-   "title": "India Gears Up for Historic Debut at FIFA U15 World Cup in Azerbaijan",
-   "iso": "2026-09-17T10:43:09.000Z",
-   "link": "https://www.devdiscourse.com/article/sports-games/3978443-india-gears-up-for-historic-debut-at-fifa-u15-world-cup-in-azerbaijan",
-   "lede": "The Indian U15 men's football team has been placed in Group K for the inaugural FIFA U15 World Cup, set to be held in Azerbaijan in October 2026. India's opponents in the group include Bahrain, Cameroon, Grenada, Laos, and Senegal. Led by coach Bibiano Fernandes, the team is preparing for five matches to determine their qualification for the next stage of the tournament. The competition, open to all FIFA Member Associations, has seen the participation of 191 teams divided into 32 groups.",
-   "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_09_2026_16_13_04_2382709.jpg&width=920&format=jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "cat": "THE MIRROR",
+   "title": "Thomas Tuchel can start new England era with 6 call-ups after World Cup autopsy",
+   "iso": "2026-09-17T10:26:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/thomas-tuchel-england-squad-fixtures-37671921",
+   "lede": "Thomas Tuchel spoke about “ball possession” and the “English DNA” as the fundamental reasons behind their World Cup semi-final defeat. Tuchel was brutally honest about England’s failings after the disappointment in Atlanta and looked for reasons as to why they lost to Argentina. Fans, pundits and journalists rightly seized on his words as he was quizzed about England losing a control of a game they had within their grasp. Why they retreated deeper and why Tuchel made defensive substitutions.",
+   "image": "https://i2-prod.mirror.co.uk/article37667445.ece/ALTERNATES/s1200d/2_GettyImages-2286258269-1.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "CAPITALFOOTBALL.COM.AU",
@@ -38,46 +78,6 @@
    "link": "https://capitalfootball.com.au/capital-football-duo-set-to-represent-australia-at-ifcpf-world-cups-in-atlanta/",
    "lede": "Two products of Capital Football’s All Abilities program will fly the flag for the ACT this October, with Luc Launder and Carly Salmon named in the CommBank Pararoos and CommBank ParaMatildas squads for the IFCPF World Cups in Atlanta, USA. Launder, a defender, has been selected in the 14-player CommBank Pararoos squad for the IFCPF Men’s World Cup 2026, running from 12 to 24 October. Head Coach Kai Lammert’s side has been drawn into Group B alongside Brazil, Spain and Chile, with all matches to be played at the U.S. Soccer National Training Center.",
    "image": "https://capitalfootball.com.au/wp-content/uploads/2026/09/ParaMatildas-ParaRoos-1140x641.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FRIENDSOFFOOTBALLNZ.COM",
-   "title": "Here we come! Young Ferns qualify for 2027 FIFA U-17 Women’s World Cup",
-   "iso": "2026-09-17T06:59:26.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/09/17/here-we-come-young-ferns-qualify-for-2027-fifa-u-17-womens-world-cup/",
-   "lede": "New Zealand have qualified for next year’s FIFA U-17 Women’s World Cup in Morocco after beating Papua New Guinea 3-0 in Honiara. The win, in the semi-finals of the OFC U-16 Women’s Championship, ensures New Zealand will be one of Oceania’s two representatives at the 2027 global tournament. It will be New Zealand’s 11th consecutive appearance at the U-16 World Cup. The second qualifying spot at the World Cup will go to New Caledonia who beat Fiji 1-0 in the other semi-final.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/09/New-Zealand-U-16-women-champions.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC.COM",
-   "title": "Beckham backs Messi for Ballon d'Or after 100th Miami goal",
-   "iso": "2026-09-17T05:44:41.000Z",
-   "link": "https://www.bbc.com/sport/football/live/c64gr3v2m2jkt",
-   "lede": "Messi joined Inter Miami in the summer of 2023. Lionel Messi deserves to win this year's Ballon d'Or, according to Inter Miami co-owner and former England captain David Beckham. The 39-year-old Argentina great, who has won the global player of the year award eight times and has been nominated on the 30-player shortlist for 2026, scored his 100th goal for Miami on Wednesday. He also provided an assist for Casemiro to score their second goal in a 2-0 victory over Cruz Azul that clinched the Campeones Cup - an annual match contested by US and Mexican cup winners.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/702f/live/db8b6920-b25f-11f1-81c2-17e97ccb67a1.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE DAILY STAR",
-   "title": "FIFA rebuffs Morocco claim over 2030 World Cup final",
-   "iso": "2026-09-17T05:29:45.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/fifa-rebuffs-morocco-claim-over-2030-world-cup-final-4270476",
-   "lede": "FIFA said on Friday that a decision on the venue for the 2030 World Cup final would be made \"in due course\", after Moroccan football federation president Fouzi Lekjaa said the showpiece match would be staged in Morocco. Morocco, Spain and Portugal are co-hosting the 2030 tournament and have already begun competing for the right to stage the final, with Madrid's Santiago Bernabeu and a planned 115,000-seat stadium in Benslimane, near Casablanca, viewed as the leading contenders. Lekjaa said on Wednesday that the final would take place in Morocco. \"Benslimane province will host the World Cup final.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE DAILY STAR",
-   "title": "2014 World Cup star James Rodriguez retires from national team",
-   "iso": "2026-09-17T05:10:34.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/2014-world-cup-star-james-rodriguez-retires-national-team-4274026",
-   "lede": "Colombian football star James Rodriguez, one of the best players in the country's history, on Tuesday announced his retirement from the national team after 15 years and three World Cups. \"I'm leaving with serenity because I know I gave absolutely everything,\" the 35-year-old captain said in a social media video, his eyes welling with tears. Rodriguez powered himself and his country to stardom at the 2014 World Cup in Brazil, when Los Cafeteros made the quarterfinals for the first time. He won the tournament's Golden Boot as the top scorer and became a global superstar.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
