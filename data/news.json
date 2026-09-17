@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-17T01:31:36.760Z",
+ "updated": "2026-09-17T05:10:35.962Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+   "iso": "2026-09-17T01:30:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+   "lede": "Coach says Argentina’s gung-ho approach forced hand. ‘No one is more hurt than me, no one wanted it more’. Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he made them too early. Tuchel said England were “waiting for death”, unable to cope with the attacking tactics adopted by Argentina in Atlanta as they chased the game after Anthony Gordon’s opener on the hour.",
+   "image": "https://i.guim.co.uk/img/media/40843a59121918d699ab4901cd166a7019877f83/468_275_4505_3605/master/4505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1053c0d2a62ccf292e417c0aa893fc9f",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "New Zealand U-17 men’s team visit Japan for World Cup preparation",
@@ -8,8 +18,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/09/17/new-zealand-u-17-mens-team-visit-japan-for-world-cup-preparation/",
    "lede": "New Zealand’s U-17 men will begin an important phase of their FIFA World Cup preparations when they open a three-match tournament in Japan. Head coach Martin Bullock’s 18-player squad will face hosts Niigata, Myanmar and Japan at the International Youth Soccer Tournament in Niigata. The tournament provides New Zealand with competitive international football two months before the FIFA U-17 Men’s World Cup in Qatar. The squad prepared for Japan with two matches between academy teams from Wellington Phoenix and Auckland United at the NZCIS facility in Trentham last weekend.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/09/Phoenix-v-Auckland-United-U-17-cr-Warren-Olson.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "BBC",
@@ -18,8 +28,8 @@
    "link": "https://www.bbc.com/sport/football/articles/c6eq8z9wjjqlo",
    "lede": "Luis de la Fuente's new contract will extend his tenure as Spain head coach to 10 years. World Cup-winning head coach Luis de la Fuente has agreed a contract extension with Spain until 2032. The 65-year-old's previous deal was due to expire in 2028. De la Fuente, who guided Spain to their fourth European Championship title in 2024 before securing global honours this summer, is now set to remain in charge for Spain's World Cup defence on home soil in 2030.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b5f0/live/d60f2240-b11d-11f1-8ecc-07cd1cee2987.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BLUEPRINT NEWSPAPERS",
@@ -28,16 +38,6 @@
    "link": "https://blueprint.ng/spain-rewards-luis-de-la-fuente-with-new-contract-after-world-cup-2026-victory/",
    "lede": "September 16, 2026 Austine Agbo Emmanuel Sports 0. Spain have confirmed that head coach Luis de la Fuente has renewed his contract with the national team, keeping him in charge until 2030 as the Spanish Football Federation continues to build around the coach who has overseen a highly successful period for La Roja. The contract extension means De la Fuente is set to remain at the helm through the next major international cycle, including the 2026 FIFA World Cup and the 2028 European Championship, with his new deal running until 2030. De la Fuente took charge of Spain’s senior national team in December 2022 after previously working extensively within the country’s youth setup.",
    "image": "https://blueprint.ng/wp-content/uploads/2026/09/IMG-20260916-WA0011.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "James Rodriguez Announces Retirement from International Football",
-   "iso": "2026-09-16T21:13:44.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/09/338591/james-rodriguez-announces-retirement-from-international-football/",
-   "lede": "Rabat - James Rodriguez retired from international football on Tuesday after 131 games for Colombia, famously remembered for leading his country to the 2014 World Cup quarter-finals. The 35-year-old midfielder announced his decision in an emotional social media video , expressing deep gratitude to fans for his time with the national team. \"Thank you for every match, every joy, every tear and every dream we shared. Defending ​the colours of the Colombia national team ​was one of the greatest honours of ⁠my life,\" Rodriguez said.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/James-Rodriguez-Announces-Retirement-from-International-Football.webp",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -62,7 +62,7 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "EN.VIJESTI.ME",
+   "cat": "VIJESTI.ME",
    "title": "Tuchel: Substitution decisions in the match against Argentina at the World Cup are my scar",
    "iso": "2026-09-16T19:31:49.000Z",
    "link": "https://en.vijesti.me/sports-e/football-c/827036/Tuchel%27s-substitution-decisions-in-the-match-against-Argentina-at-the-World-Cup-are-my-scar",
