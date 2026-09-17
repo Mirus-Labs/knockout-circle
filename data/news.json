@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T00:19:17.590Z",
+ "updated": "2026-09-17T01:31:36.760Z",
  "news": [
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -12,7 +12,7 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "BBC.COM",
+   "cat": "BBC",
    "title": "World Cup-winning coach Luis de la Fuente extends Spain contract to 2032",
    "iso": "2026-09-16T22:02:44.000Z",
    "link": "https://www.bbc.com/sport/football/articles/c6eq8z9wjjqlo",
@@ -32,22 +32,22 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "James Rodriguez Announces Retirement from International Football",
+   "iso": "2026-09-16T21:13:44.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/09/338591/james-rodriguez-announces-retirement-from-international-football/",
+   "lede": "Rabat - James Rodriguez retired from international football on Tuesday after 131 games for Colombia, famously remembered for leading his country to the 2014 World Cup quarter-finals. The 35-year-old midfielder announced his decision in an emotional social media video , expressing deep gratitude to fans for his time with the national team. \"Thank you for every match, every joy, every tear and every dream we shared. Defending ​the colours of the Colombia national team ​was one of the greatest honours of ⁠my life,\" Rodriguez said.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/James-Rodriguez-Announces-Retirement-from-International-Football.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "BLUEPRINT NEWSPAPERS",
    "title": "FIFA moves to review Infantino’s shelved World Cup investment plan amid scrutiny",
    "iso": "2026-09-16T20:38:53.000Z",
    "link": "https://blueprint.ng/fifa-moves-to-review-infantinos-shelved-world-cup-investment-plan-amid-scrutiny/",
    "lede": "September 16, 2026 Adejayan Gbenga Sports 0. FIFA has confirmed that a review of the withdrawn FIFA Forward Enterprise investment proposal will be presented to the FIFA Council amid growing criticism over the controversial plan. The development followed criticism from Danish Football Association president Jesper Moller, who accused FIFA of failing to provide answers to what he described as “critical questions” surrounding the shelved proposal. FIFA said the matter would be reviewed in accordance with its governance procedures, with the findings eventually presented to the FIFA Council.",
    "image": "https://blueprint.ng/wp-content/uploads/2026/07/Infantino-e1555266144712.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "GET ITALIAN FOOTBALL NEWS",
-   "title": "Manchester City’s Gigio Donnarumma vows to turn things around for Italy",
-   "iso": "2026-09-16T20:21:59.000Z",
-   "link": "https://www.getfootballnewsitaly.com/2026/manchester-citys-gigio-donnarumma-vows-to-turn-things-around-for-italy/",
-   "lede": "It is quite unfortunate that Manchester City’s Gianluigi Donnarumma is yet to play at a World Cup in his already illustrious career. The goalkeeper has now spoken about how Italian football is entering a new era and they want to put the failures behind them. The ex-AC Milan man saw Italy fail to make it to the 2026 World Cup, as they lost to Bosnia in the playoffs final in March. He spoke to Sky Italia about the Azzurri and urged for more positivity around the team.",
-   "image": "https://www.getfootballnewsitaly.com/assets/bosnia-and-herzegovina-v-italy-fifa-world-cup-2026-european-qualifiers-ko-play-offs-1024x683.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
@@ -62,7 +62,7 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "VIJESTI.ME",
+   "cat": "EN.VIJESTI.ME",
    "title": "Tuchel: Substitution decisions in the match against Argentina at the World Cup are my scar",
    "iso": "2026-09-16T19:31:49.000Z",
    "link": "https://en.vijesti.me/sports-e/football-c/827036/Tuchel%27s-substitution-decisions-in-the-match-against-Argentina-at-the-World-Cup-are-my-scar",
