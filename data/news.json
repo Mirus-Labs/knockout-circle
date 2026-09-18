@@ -1,15 +1,65 @@
 {
- "updated": "2026-09-18T09:48:02.919Z",
+ "updated": "2026-09-18T11:53:35.648Z",
  "news": [
   {
-   "cat": "INDIA NEWS NETWORK",
-   "title": "FIFA World Cup 2026 to Feature Expanded Format and Venues",
-   "iso": "2026-09-18T05:40:35.000Z",
-   "link": "https://www.indianewsnetwork.com/en/fifa-world-cup-2026-feature-expanded-format-venues-20260918",
-   "lede": "The 2026 FIFA World Cup is poised to mark a significant change in the tournament's history, with an expanded format and host locations across three nations: the United States, Canada, and Mexico. The tournament will feature 48 teams, an increase from the traditional 32, which was in place for previous competitions. This adjustment represents FIFA's aim to enhance the global nature of the event, allowing more nations to participate. As a result, the tournament will consist of 80 matches, up from the previous count of 64.",
-   "image": "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202609/20260918-img-20260918-2c7df4aab8b781e0.jpg",
+   "cat": "GULF DAILY NEWS (BAHRAIN)",
+   "title": "Football: Barcelona duo left out of Spain squad with four changes from World Cup victory",
+   "iso": "2026-09-18T11:28:20.000Z",
+   "link": "https://www.gdnonline.com/Details/1406925/Barcelona-duo-left-out-of-Spain-squad-with-four-changes-from-World-Cup-victory",
+   "lede": "Spain manager Luis de la Fuente has called up four new players to his Spain squad that won the World Cup in July, as Barcelona duo Gavi and Joan Garcia were left out. Espanyol forward Roberto Fernandez and Inter Milan goalkeeper Josep Martinez have received their first call-ups. Real Madrid defender Dean Huijsen returns to the squad after missing out on victory in the US in July. Fermin Lopez has also been selected by De la Fuente after injury prevented him from being part of the World Cup.",
+   "image": "https://www.gdnonline.com/gdnimages/20260918/20260918142033Delaf.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE WHISTLER NEWSPAPER",
+   "title": "Brazil Unveils Eight Stadiums For 2027 FIFA Women’s World Cup",
+   "iso": "2026-09-18T11:21:53.000Z",
+   "link": "https://thewhistler.ng/brazil-unveils-eight-stadiums-for-2027-fifa-womens-world-cup/",
+   "lede": "Brazil is preparing to host the 2027 FIFA Women’s World Cup, with eight stadiums selected for the tournament. Eight stadiums in Brazil have been selected to host matches at the 2027 FIFA Women’s World Cup, with all eight venues having previously hosted games during the 2014 FIFA Men’s World Cup. The tournament will take place from June 24 to July 25, 2027, and will mark the first time the FIFA Women’s World Cup is held in South America. The selected venues are the Estádio do Maracanã in Rio de Janeiro, Estádio Nacional in Brasília, Estádio Mineirão in Belo Horizonte, Arena Castelão in Fortaleza, Estádio Beira-Rio in Porto Alegre, Arena Itaquera in São Paulo, Arena Fonte Nova in Salvador and Arena de Pernambuco in Recife, FIFA announced on Friday.",
+   "image": "https://thewhistler.ng/wp-content/uploads/2026/09/Untitled-design-87-1.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "Elijah Just: Will Swansea City midfielder's unlikely journey lead to Premier League?",
+   "iso": "2026-09-18T11:04:16.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c6grvzxqwwrpo",
+   "lede": "Elijah Just was linked with likes of Celtic and Rangers before joining Swansea in July. Elijah Just remembers getting up as a kid in the early hours of the morning to see New Zealand play at the World Cup and to watch Premier League football. Sixteen years after the All Whites went to South Africa 2010, Just fulfilled one boyhood dream this summer by starring for New Zealand as they returned to the World Cup. Now comes the challenge of reaching the Premier League.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/742a/live/16344020-b2af-11f1-819c-176371125270.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "Trent Alexander-Arnold and Cole Palmer recalled by England as Thomas Tuchel snubs Man City star",
+   "iso": "2026-09-18T10:07:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/thomas-tuchel-england-squad-trent-alexander-arnold-cole-palmer-marcus-rashford-b3052361.html",
+   "lede": "Palmer missed out on England’s World Cup squad in the summer but is back in the fold after returning to form with Chelsea. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging. At such a critical moment in US history, we need reporters on the ground.",
+   "image": "https://static.independent.co.uk/2026/05/22/08/2269544793..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE STAR",
+   "title": "Soccer-Alexander-Arnold returns to England squad as Tuchel makes 10 changes from World Cup",
+   "iso": "2026-09-18T10:00:00.000Z",
+   "link": "https://www.thestar.com.my/sport/football/2026/09/18/soccer-alexander-arnold-returns-to-england-squad-as-tuchel-makes-10-changes-from-world-cup",
+   "lede": "Sept 18 (Reuters) - Trent Alexander-Arnold has ⁠the chance to prove a point after being recalled to the England ⁠squad, manager Thomas Tuchel said on Friday as he named his first ‌selection since the World Cup. England begin their Nations League campaign against world champions Spain at Wembley on September 26, the first of four matches they will play during the international break. Real Madrid's Alexander-Arnold had ​not featured for England since June 2025 and returns ⁠after more than a year out ⁠of the international set-up, with Tuchel favouring other options at right back. Brighton goalkeeper Jason ⁠Steele ‌and Bournemouth midfielder Alex Scott were also included in the squad and could make their England debuts.",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/09/18/4117541.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "METRO.CO.UK",
+   "title": "Thomas Tuchel drops Arsenal and Chelsea stars in first England squad since World Cup heartbreak",
+   "iso": "2026-09-18T09:10:00.000Z",
+   "link": "https://metro.co.uk/2026/09/18/thomas-tuchel-drops-arsenal-chelsea-stars-first-england-squad-since-world-cup-heartbreak-29632947/",
+   "lede": "Thomas Tuchel has named his first England squad since the 2026 World Cup (Photo: Getty) Thomas Tuchel has named his first England squad since the 2026 World Cup, with Arsenal and Chelsea stars among the surprise names left out. Chelsea captain Reece James has been a stalwart under Tuchel but the right-back has been dropped, with Real Madrid’s Trent Alexander-Arnold receiving a surprising recall to the national team. Arsenal winger Noni Madueke has also been omitted but there is a return for Cole Palmer, who was controversially left at home during the World Cup, following a brilliant start to the season. Several inexperienced players have also been called up for the four upcoming Nations League matches, including Bournemouth midfielder Alex Scott, Everton defender Jarrad Branthwaite and Liverpool winger Rio Ngumoha.",
+   "image": "https://metro.co.uk/wp-content/uploads/2026/09/GettyImages-2286574115-b266_1789724906.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE MIRROR",
@@ -18,65 +68,16 @@
    "link": "https://www.mirror.co.uk/sport/football/news/england-trent-alexander-arnold-tuchel-37665273.amp",
    "lede": "Trent Alexander-Arnold has told Thomas Tuchel that he's always available for selection for England. The first Three Lions squad of the season will be announced today (Friday, September 18) ahead of the Nations League later this month. The Real Madrid defender was among several high-profile omissions from England's World Cup squad this past summer after a difficult first season in Spain. Alexander-Arnold, 27, has yet to lay a marker down at the Santiago Bernabeu and has started just one league game this season under new manager Jose Mourinho.",
    "image": "https://i2-prod.mirror.co.uk/incoming/article37306964.ece/ALTERNATES/s1200/1_Andorra-v-England-World-Cup-Qualifier-RCDE-Stadium-Saturday-June-7th.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "Former Australia captain Ryan absent from Socceroos squad for Brazil friendlies",
-   "iso": "2026-09-18T01:13:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/former-australia-captain-ryan-absent-from-socceroos-squad-for-brazil-friendlies",
-   "lede": "Soccer Football - FIFA World Cup 2026 - Round of 32 - Australia v Egypt - Dallas Stadium, Arlington, Texas, U.S. - July 3, 2026 Australia's Mathew Ryan concedes a penalty during the penalty shootout IMAGN IMAGES via Reuters/Jerome Miron. SYDNEY, Sept 18 - Socceroos coach Tony Popovic has omitted 105-cap former captain Mathew Ryan from his squad for friendlies against Brazil in Townsville and Brisbane later this month, Australia's last home matches before the Asian Cup early next year. • Ryan, 34, went to this year's World Cup as skipper and presumed starting goalkeeper but was dropped for Patrick Beach and brought on only as a substitute for the penalty shootout as Australia lost to Egypt in the Round of 32. • The 26-man squad includes Beach and 15 other players who were involved in the World Cup campaign, as well as seven uncapped players.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e7ce7505783966a28a28c02edd91f46c3a7242e1742da439b897b92b5479691e",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "NINE.COM.AU",
-   "title": "Popovic swings axe on Socceroos skipper as Asian Cup auditions begin",
-   "iso": "2026-09-18T01:12:00.000Z",
-   "link": "https://www.nine.com.au/sport/football/news-socceroos-team-lists-mat-ryan-absent-tony-popovic-comments-brazil-friendlies-20260918-p60yim.html",
-   "lede": "Updated September 18, 2026 - 1.26am. First published at 1.12am. Mat Ryan may have already played his last game for the Socceroos after he failed to make the 26-player squad for the side’s upcoming friendlies against Brazil. Tony Popovic named seven uncapped players in his line-up for the games later this month, while 16 members of his impressive World Cup squad were recalled.",
-   "image": "https://static.ffx.io/images/$zoom_0.8455%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_272%2C$y_24/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c1c944d5245d2aaa2f5b9714590c577b949d6ca7",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FOOTBALL AUSTRALIA",
-   "title": "Seven potential debutants called up for CommBank Socceroos' Brazil matches",
-   "iso": "2026-09-18T00:29:20.000Z",
-   "link": "https://footballaustralia.com.au/news/seven-potential-debutants-called-commbank-socceroos-brazil-matches",
-   "lede": "They join 16 players who were part of the Socceroos' FIFA World Cup 2026 campaign, six of whom (Patrick Beach, Paul Okon-Engstler, Jackson Irvine, Lucas Herrington, Nestory Irankunda and Alessandro Circati) have transferred to new clubs since the World Cup campaign. Eli Adams (Gamba Osaka), Kealey Adamson (QPR), Jacob Chapman (St Mirren), Yaya Dukuly (NK Celje) and Marcus Younis (Brondby IF) have been called into their maiden Socceroos camps. Uncapped players Kasey Bos (Excelsior Rotterdam) and Dylan Leonard (Alemannia Aachen) have been called up, having been selected in previous camps under CommBank Socceroos Head Coach Tony Popovic. Midfielders Riley McGree (Middlesbrough) and Patrick Yazbek (Nashville SC) have been recalled after missing the FIFA World Cup 2026 through injury.",
-   "image": "https://footballaustralia.com.au/sites/default/files/2026-09/Socceroos_GettyImages-2283353988.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SCOTTISH FOOTBALL SUPPORTERS ASSOCIATION",
-   "title": "World Cup Research update",
-   "iso": "2026-09-18T09:33:34.000Z",
-   "link": "https://scottishfsa.org/world-cup-research-update/",
-   "lede": "After the World Cup, with the help of University of Stirling, we looked at the impact of the tournament from...",
-   "image": "https://scottishfsa.org/wp-content/uploads/2026/05/world-cup-2026-ticket-prices-revealed-2R2ACM4.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "TNT SPORTS",
-   "title": "England squad announcement LIVE - Tuchel makes first selection since World Cup",
-   "iso": "2026-09-18T07:30:00.000Z",
-   "link": "https://www.tntsports.co.uk/football/uefa-nations-league/2026-2027/england-squad-announcement-thomas-tuchel-world-cup_sto23338310/story.shtml",
-   "lede": "Thomas Tuchel is set to name his first England squad since the World Cup ahead of Nations League matches against Spain, Czech Republic and Croatia.",
-   "image": "https://imgresizer.tntsports.io/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.tntsports.io/2026/09/18/image-a151b977-f4e0-4d35-bb19-d2f4629bad41-85-2560-1440.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BRITANNICA",
-   "title": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained",
-   "iso": "2026-09-18T04:08:24.000Z",
-   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
-   "lede": "",
+   "cat": "AL JAZEERA",
+   "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+   "iso": "2026-09-18T10:52:30.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub",
+   "lede": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2269303361-1789726281.jpg?resize=1200%2C675",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
