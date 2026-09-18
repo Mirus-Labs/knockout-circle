@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T06:42:13.911Z",
+ "updated": "2026-09-18T09:48:02.919Z",
  "news": [
   {
    "cat": "INDIA NEWS NETWORK",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE STRAITS TIMES",
+   "title": "Former Australia captain Ryan absent from Socceroos squad for Brazil friendlies",
+   "iso": "2026-09-18T01:13:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/former-australia-captain-ryan-absent-from-socceroos-squad-for-brazil-friendlies",
+   "lede": "Soccer Football - FIFA World Cup 2026 - Round of 32 - Australia v Egypt - Dallas Stadium, Arlington, Texas, U.S. - July 3, 2026 Australia's Mathew Ryan concedes a penalty during the penalty shootout IMAGN IMAGES via Reuters/Jerome Miron. SYDNEY, Sept 18 - Socceroos coach Tony Popovic has omitted 105-cap former captain Mathew Ryan from his squad for friendlies against Brazil in Townsville and Brisbane later this month, Australia's last home matches before the Asian Cup early next year. • Ryan, 34, went to this year's World Cup as skipper and presumed starting goalkeeper but was dropped for Patrick Beach and brought on only as a substitute for the penalty shootout as Australia lost to Egypt in the Round of 32. • The 26-man squad includes Beach and 15 other players who were involved in the World Cup campaign, as well as seven uncapped players.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e7ce7505783966a28a28c02edd91f46c3a7242e1742da439b897b92b5479691e",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "NINE.COM.AU",
    "title": "Popovic swings axe on Socceroos skipper as Asian Cup auditions begin",
    "iso": "2026-09-18T01:12:00.000Z",
    "link": "https://www.nine.com.au/sport/football/news-socceroos-team-lists-mat-ryan-absent-tony-popovic-comments-brazil-friendlies-20260918-p60yim.html",
    "lede": "Updated September 18, 2026 - 1.26am. First published at 1.12am. Mat Ryan may have already played his last game for the Socceroos after he failed to make the 26-player squad for the side’s upcoming friendlies against Brazil. Tony Popovic named seven uncapped players in his line-up for the games later this month, while 16 members of his impressive World Cup squad were recalled.",
    "image": "https://static.ffx.io/images/$zoom_0.8455%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_272%2C$y_24/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c1c944d5245d2aaa2f5b9714590c577b949d6ca7",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "FOOTBALL AUSTRALIA",
@@ -38,43 +48,34 @@
    "link": "https://footballaustralia.com.au/news/seven-potential-debutants-called-commbank-socceroos-brazil-matches",
    "lede": "They join 16 players who were part of the Socceroos' FIFA World Cup 2026 campaign, six of whom (Patrick Beach, Paul Okon-Engstler, Jackson Irvine, Lucas Herrington, Nestory Irankunda and Alessandro Circati) have transferred to new clubs since the World Cup campaign. Eli Adams (Gamba Osaka), Kealey Adamson (QPR), Jacob Chapman (St Mirren), Yaya Dukuly (NK Celje) and Marcus Younis (Brondby IF) have been called into their maiden Socceroos camps. Uncapped players Kasey Bos (Excelsior Rotterdam) and Dylan Leonard (Alemannia Aachen) have been called up, having been selected in previous camps under CommBank Socceroos Head Coach Tony Popovic. Midfielders Riley McGree (Middlesbrough) and Patrick Yazbek (Nashville SC) have been recalled after missing the FIFA World Cup 2026 through injury.",
    "image": "https://footballaustralia.com.au/sites/default/files/2026-09/Socceroos_GettyImages-2283353988.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SANA.SY",
-   "title": "FA chair urges FIFA president to release documents over controversial World Cup plan",
-   "iso": "2026-09-17T20:22:32.000Z",
-   "link": "https://sana.sy/en/sport/2343646/",
-   "lede": "London, Sepr.17 (SANA) Football Association (FA) chair Debbie Hewitt has called on FIFA President Gianni Infantino to release all documents related to his abandoned plan to sell a stake in a new commercial company managing World Cup and other tournament rights. In a letter sent to Infantino and FIFA Secretary General Mattias Grafström, Hewitt, who is also a FIFA vice-president, requested that the FIFA Council receive a written explanation for the decision to suspend the one-match ban imposed on US forward Folarin Balogun during the World Cup. Hewitt asked FIFA to make the documents available before the next FIFA Council meeting scheduled for Oct. 15, citing concerns over governance and the organisation’s internal culture. Scrapped commercial proposal sparks controversy.",
-   "image": "https://cdn.sananews.sy/2026/09/Debbie-Hewitt-set-become-first-female-chairman-of-the-FA-Banner-1.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "TALKSPORT",
-   "title": "Man City-bound wonderkid, 16, handed USMNT call-up in new era after World Cup humbling",
-   "iso": "2026-09-17T20:21:51.000Z",
-   "link": "https://talksport.com/football/4588257/cavan-sullivan-usa-squad-stats-man-city/",
-   "lede": "The 16-year-old was named in Mauricio Pochettino's United States national team squad for the upcoming international break. The make-up of the 28-man roster very much signifies a new era for the USMNT, with 12 players receiving their first call-up. Adding to the freshness of the squad is that the average age of those called up is 22 years and nine months. That is aided by the fact six players in the squad are aged 18 or under, including Sullivan, who turns 17 on September 28.",
-   "image": "https://talksport.com/wp-content/uploads/2026/09/crop-4384188.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "cat": "SCOTTISH FOOTBALL SUPPORTERS ASSOCIATION",
+   "title": "World Cup Research update",
+   "iso": "2026-09-18T09:33:34.000Z",
+   "link": "https://scottishfsa.org/world-cup-research-update/",
+   "lede": "After the World Cup, with the help of University of Stirling, we looked at the impact of the tournament from...",
+   "image": "https://scottishfsa.org/wp-content/uploads/2026/05/world-cup-2026-ticket-prices-revealed-2R2ACM4.webp",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How college football made a beeline for Wembley – and intends to stay there",
-   "iso": "2026-09-18T06:00:11.000Z",
-   "link": "https://www.nytimes.com/athletic/7545283/2026/09/18/college-football-wembley-arizona-state-kansas/",
-   "lede": "",
+   "cat": "TNT SPORTS",
+   "title": "England squad announcement LIVE - Tuchel makes first selection since World Cup",
+   "iso": "2026-09-18T07:30:00.000Z",
+   "link": "https://www.tntsports.co.uk/football/uefa-nations-league/2026-2027/england-squad-announcement-thomas-tuchel-world-cup_sto23338310/story.shtml",
+   "lede": "Thomas Tuchel is set to name his first England squad since the World Cup ahead of Nations League matches against Spain, Czech Republic and Croatia.",
+   "image": "https://imgresizer.tntsports.io/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.tntsports.io/2026/09/18/image-a151b977-f4e0-4d35-bb19-d2f4629bad41-85-2560-1440.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "MALAY MAIL",
-   "title": "English FA urges Infantino to disclose documents on abandoned World Cup sell‑off plan",
-   "iso": "2026-09-18T03:06:50.000Z",
-   "link": "https://www.malaymail.com/news/sports/2026/09/18/english-fa-urges-infantino-to-disclose-documents-on-abandoned-world-cup-selloff-plan/235614",
+   "cat": "BRITANNICA",
+   "title": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained",
+   "iso": "2026-09-18T04:08:24.000Z",
+   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
