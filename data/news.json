@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-18T01:18:36.489Z",
+ "updated": "2026-09-18T05:03:24.803Z",
  "news": [
   {
    "cat": "FOX SPORTS",
-   "title": "Ex-skipper axed, World Cup stars’ homecoming as Socceroos unveil fresh faces for Brazil friendlies",
-   "iso": "2026-09-18T00:11:02.000Z",
+   "title": "‘We know what he is’: Popa lift lids on ex-skipper’s axing as Socceroos unveil new-look squad",
+   "iso": "2026-09-18T03:28:22.000Z",
    "link": "https://www.foxsports.com.au/football/socceroos/socceroos-v-brazil-2026-tony-popovic-announces-seven-uncapped-players-and-ten-changes-to-socceroos-squad-mat-ryan-dumped-for-national-team-after-world-cup-announcement-latest-news/news-story/efe68ae07ab318c75967e1a7798e3f12",
    "lede": "Socceroos boss Tony Popovic has swung the axe, naming seven uncapped players in his 26-player squad to take on the might of Brazil in two friendlies in Townsville and Brisbane later this month. Sixteen members of the squad that made it to the knockout rounds at this year’s World Cup - headlined by Patrick Beach, Paul Okon-Engstler, Lucas Herrington, Nestory Irankunda and Alessandro Circati, who all made big European moves after their exploits in Canada and the USA - have retained their place. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. Popovic said he will bring in fresh faces to tackle the South American powerhouse during his first press conference after the World Cup earlier this month and he has delivered on that promise.",
    "image": "https://content.api.news/v3/images/bin/7cc4537bf5a042d32d121339f69d7e8a",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "7NEWS",
-   "title": "Socceroos captain Mat Ryan missing from first squad since World Cup as Tony Popovic overhauls",
-   "iso": "2026-09-17T23:50:00.000Z",
-   "link": "https://7news.com.au/sport/soccer/socceroos-captain-mat-ryan-missing-from-first-squad-since-world-cup-as-tony-popovic-overhauls--c-22888107",
-   "lede": "Socceroos captain Maty Ryan has been dropped from the first squad since his World Cup heartbreak as coach Tony Popovic looks to the future. The goalkeeper was overlooked at the World Cup before being brought off the bench for the Round of 32 penalty shootout against Egypt, without success. He has now missed out on selection for Australia’s two-match series against Brazil later this month in Townsville (September 25) and Brisbane (September 29) despite playing regular football in Spain’s top division. Ryan has kept two clean sheets for Levante this season but conceded four goals against Barcelona over the weekend.",
-   "image": "https://images.7news.com.au/publication/C-22888107/4c5fe000648da0cfbf81bea3d3ad9abfb76be309-16x9-x0y0w1280h720.jpg?imwidth=1200",
+   "cat": "NINE.COM.AU",
+   "title": "Popovic swings axe on Socceroos skipper as Asian Cup auditions begin",
+   "iso": "2026-09-18T01:14:55.000Z",
+   "link": "https://www.nine.com.au/sport/football/news-socceroos-team-lists-mat-ryan-absent-tony-popovic-comments-brazil-friendlies-20260918-p60yim.html",
+   "lede": "Updated September 18, 2026 - 1.26am. First published at 1.12am. Mat Ryan may have already played his last game for the Socceroos after he failed to make the 26-player squad for the side’s upcoming friendlies against Brazil. Tony Popovic named seven uncapped players in his line-up for the games later this month, while 16 members of his impressive World Cup squad were recalled.",
+   "image": "https://static.ffx.io/images/$zoom_0.8455%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_272%2C$y_24/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c1c944d5245d2aaa2f5b9714590c577b949d6ca7",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "Seven potential debutants called up for CommBank Socceroos' Brazil matches",
+   "iso": "2026-09-17T23:19:48.000Z",
+   "link": "https://footballaustralia.com.au/news/seven-potential-debutants-called-commbank-socceroos-brazil-matches",
+   "lede": "They join 16 players who were part of the Socceroos' FIFA World Cup 2026 campaign, six of whom (Patrick Beach, Paul Okon-Engstler, Jackson Irvine, Lucas Herrington, Nestory Irankunda and Alessandro Circati) have transferred to new clubs since the World Cup campaign. Eli Adams (Gamba Osaka), Kealey Adamson (QPR), Jacob Chapman (St Mirren), Yaya Dukuly (NK Celje) and Marcus Younis (Brondby IF) have been called into their maiden Socceroos camps. Uncapped players Kasey Bos (Excelsior Rotterdam) and Dylan Leonard (Alemannia Aachen) have been called up, having been selected in previous camps under CommBank Socceroos Head Coach Tony Popovic. Midfielders Riley McGree (Middlesbrough) and Patrick Yazbek (Nashville SC) have been recalled after missing the FIFA World Cup 2026 through injury.",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-09/Socceroos_GettyImages-2283353988.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "سانا",
@@ -28,8 +38,8 @@
    "link": "https://sana.sy/en/sport/2343646/",
    "lede": "London, Sepr.17 (SANA) Football Association (FA) chair Debbie Hewitt has called on FIFA President Gianni Infantino to release all documents related to his abandoned plan to sell a stake in a new commercial company managing World Cup and other tournament rights. In a letter sent to Infantino and FIFA Secretary General Mattias Grafström, Hewitt, who is also a FIFA vice-president, requested that the FIFA Council receive a written explanation for the decision to suspend the one-match ban imposed on US forward Folarin Balogun during the World Cup. Hewitt asked FIFA to make the documents available before the next FIFA Council meeting scheduled for Oct. 15, citing concerns over governance and the organisation’s internal culture. Scrapped commercial proposal sparks controversy.",
    "image": "https://cdn.sananews.sy/2026/09/Debbie-Hewitt-set-become-first-female-chairman-of-the-FA-Banner-1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TALKSPORT",
@@ -38,28 +48,26 @@
    "link": "https://talksport.com/football/4588257/cavan-sullivan-usa-squad-stats-man-city/",
    "lede": "The 16-year-old was named in Mauricio Pochettino's United States national team squad for the upcoming international break. The make-up of the 28-man roster very much signifies a new era for the USMNT, with 12 players receiving their first call-up. Adding to the freshness of the squad is that the average age of those called up is 22 years and nine months. That is aided by the fact six players in the squad are aged 18 or under, including Sullivan, who turns 17 on September 28.",
    "image": "https://talksport.com/wp-content/uploads/2026/09/crop-4384188.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Tunisia star retires from international football after three World Cup appearances",
-   "iso": "2026-09-17T19:42:18.000Z",
-   "link": "https://www.goal.com/en-in/news/tunisia-star-retires-from-international-football-after-three-world-cup-appearances/blt4ca6fc5ef322da5e",
-   "lede": "Cologne star Ellyes Skhiri has called time on his international career with Tunisia. Skhiri broke the news on his Instagram account: \"The moment has come for me to announce the end of my international career.\" \"Wearing this shirt and representing my homeland was a source of immense pride and honour,\" he added. \"The emotions, the moments of participation, and all these memories will remain engraved in my mind.\"",
-   "image": "https://assets.goal.com/images/v3/imago-sport-1078840121/crop/MM5DGMZZGI5DCOJQHA5G433XMU5DOMBWHIZTSNI=/imago-image.jpeg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "SPORTS247 NIGERIA",
-   "title": "“It Hurts, But It Was Special Facing Nigeria” — Princess Ademiluyi Reflects on World Cup Exit Against Country of Her Roots",
-   "iso": "2026-09-17T19:40:48.000Z",
-   "link": "https://www.sports247.ng/it-hurts-but-it-was-special-facing-nigeria-princess-ademiluyi-reflects-on-world-cup-exit-against-country-of-her-roots/",
-   "lede": "England forward Princess Ademiluyi experienced mixed emotions as her FIFA U-20 Women’s World Cup journey ended against Nigeria, the country of her family roots, following the Young Lionesses’ 3-0 Round of 16 defeat. 9, Thursday’s encounter carried a special personal significance because of her Nigerian heritage, even though her immediate responsibility was helping England fight for a quarter-final place. Ademiluyi had acknowledged the significance of the fixture before kickoff. “It’s amazing to play against Nigeria, but it doesn’t change the game,” she told England Football.",
-   "image": "https://www.sports247.ng/wp-content/uploads/2026/09/IMG-20260917-WA0271.jpg",
+   "cat": "MALAYMAIL.COM",
+   "title": "English FA urges Infantino to disclose documents on abandoned World Cup sell‑off plan",
+   "iso": "2026-09-18T03:06:50.000Z",
+   "link": "https://www.malaymail.com/news/sports/2026/09/18/english-fa-urges-infantino-to-disclose-documents-on-abandoned-world-cup-selloff-plan/235614",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Steve Sarkisian regrets not being more patient in interview with Holly Rowe",
+   "iso": "2026-09-17T23:46:16.000Z",
+   "link": "https://www.nytimes.com/athletic/7604697/2026/09/17/steve-sarkisian-apologizes-holly-rowe-skipping-postgame-interview/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -67,16 +75,6 @@
    "iso": "2026-09-17T23:33:29.000Z",
    "link": "https://www.nytimes.com/athletic/7605626/2026/09/17/pro-football-hall-of-fame-voting-changes/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "CODE SPORTS",
-   "title": "World Cup heroes axed amid major Socceroos shake-up",
-   "iso": "2026-09-17T23:28:37.000Z",
-   "link": "https://www.codesports.com.au/football/world-cup/socceroos-captain-mat-ryan-dropped-from-tony-popovics-squad-to-play-brazil/news-story/e8106d0c4ab741d191c184ec8cfcd1be",
-   "lede": "",
-   "image": "https://www.codesports.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-codesports-169.svg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
