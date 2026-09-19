@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T14:50:06.232Z",
+ "updated": "2026-09-19T16:45:10.433Z",
  "news": [
   {
    "cat": "THE DAILY STAR",
@@ -12,24 +12,34 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THESUN.NG",
+   "cat": "THE SUN NIGERIA",
    "title": "Football reform: Daniel calls for technocrats to lead",
    "iso": "2026-09-19T11:44:12.000Z",
    "link": "https://thesun.ng/football-reform-daniel-calls-for-technocrats-to-lead/",
-   "lede": "Akpabio-led Senate has recorded historic legislative legacy — Group. EPL: Tottenham suffer 3-2 home defeat to Aston Villa. Oyo police deny arraignimg student over N8,000 death, causing death. 2027: Daranijo inaugurates campaign council, vows people-oriented campaign.",
+   "lede": "Insecurity, bad governance: Catholic Bishops raise fresh alarm. Anglican Bishops worry over insecurity, hunger, high cost of living. $500,000 Mambilla payment: APC Campaign Council attacks Atiku, demands withdrawal from 2027 race. Macron hosts Tinubu to private dinner at Élysée Palace.",
    "image": "https://cdn.thesun.ng/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-18.24.55.png",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THESUN.NG",
-   "title": "Crisis rocks Madagascar over player’s invitation",
-   "iso": "2026-09-19T11:44:12.000Z",
-   "link": "https://thesun.ng/crisis-rocks-madagascar-over-players-invitation/",
-   "lede": "2027: Daranijo inaugurates campaign council,vows people-oriented campaign. Ogun 2027: Bring your record to the table – APC Student Affairs committee dares Adebutu. Orji Kalu directs media team, supporters to focus on record ahead of 2027. Mambilla: Show evidence of corruption verdict against me, Atiku challenges APC.",
-   "image": "https://cdn.thesun.ng/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-18.24.55.png",
+   "cat": "GOAL.COM",
+   "title": "Sandro Mazzola has died at 83: Inter and Italian football remember him",
+   "iso": "2026-09-19T10:05:59.000Z",
+   "link": "https://www.goal.com/en/lists/sandro-mazzola-has-died-aged-83-the-memories-of-inter-and-all-of-italian-football/bltffe1fc636845b05b",
+   "lede": "The football world mourns Sandro Mazzola, who has died at the age of 83. By a twist of fate, Saturday 19 September marks the 100th anniversary of the inauguration of San Siro, which staged a Milan derby won 6-3 by Inter. San Siro was his home for a lifetime, where he played for two decades from 1957 to 1977, the first three seasons in the youth team. He scored 158 goals in 565 matches for the first team in the Nerazzurri shirt, the only one he wore in his career.",
+   "image": "https://assets.goal.com/images/v3/getty-51953418/crop/MM5DCNRTGI5DSMJYHJXG653FHI2DUOBV/GettyImages-51953418.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Italy and Inter icon Sandro Mazzola passes away aged 83 as world of football pays tribute to legendary playmaker",
+   "iso": "2026-09-19T09:38:38.000Z",
+   "link": "https://www.goal.com/en-us/lists/italy-and-inter-icon-sandro-mazzola-passes-away-aged-83-as-world-of-football-pays-tribute-to-legendary-playmaker/bltebf38325a72701c7",
+   "lede": "Italian football is mourning the loss of Sandro Mazzola, who has passed away at the age of 83 following an illness. The legendary attacking midfielder spent his entire playing career at Inter and remains one of the most decorated figures in the history of the sport. Italian football has lost one of its greatest ever players after Mazzola passed away on Saturday at the age of 83 following an illness. The iconic attacking midfielder spent his entire career with Inter, etching his name into football folklore.",
+   "image": "https://assets.goal.com/images/v3/getty-98962962/crop/MM5DCNRTGI5DSMJYHJXG653FHI2DUMJQG4======/GettyImages-98962962.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LIVESCORE",
@@ -37,29 +47,9 @@
    "iso": "2026-09-19T08:03:06.000Z",
    "link": "https://www.livescore.com/en/news/football/world-cup/russia-handed-partial-international-football-return-as-fifa-includes-youth-team-in-under-15-world-cup-draw-goal/",
    "lede": "Youth squad enters tournamentRussia have officially returned to the international football fold at youth level after being included in the group-stage draw for the Under-15 World Cup in Azerbaijan. Placed in a six-team pool alongside Turkey, Afghanistan, Djibouti, Sierra Leone, and Sudan, the decision marks the first easing of sporting sanctions against the nation since the invasion of Ukraine in February 2022. Explaining the central purpose behind launching the pilot competition, FIFA stated: \"The FIFA U-15 World Cup & Festival addresses a fundamental challenge in international football: providing meaningful competitive opportunities for nations in which qualifying for FIFA competitions remains an enormous challenge.\"",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_3.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "YAHOO",
-   "title": "Italy and Inter icon Sandro Mazzola passes away aged 83 as world of football pays tribute to legendary playmaker",
-   "iso": "2026-09-19T07:38:38.000Z",
-   "link": "https://ca.sports.yahoo.com/news/italy-inter-icon-sandro-mazzola-073838244.html",
-   "lede": "Italian football is mourning the loss of Sandro Mazzola, who has passed away at the age of 83 following an illness. The legendary attacking midfielder spent his entire playing career at Inter and remains one of the most decorated figures in the history of the sport. The legendary attacking midfielder spent...",
-   "image": "https://s.yimg.com/lo/mysterio/api/cd5fc6d77a7ac14242e7961ad84c8f8a8fe485e53ab2c65e12d60eb48db16364/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_ca_683%2F14811d0643f612ef28217d46ab2496b9.jpg",
+   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_5.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
-  },
-  {
-   "cat": "MENSXP",
-   "title": "FIFA Boss Gianni Infantino in Danger of Losing Job? Greek FA President Wants Change at Top",
-   "iso": "2026-09-19T05:21:52.000Z",
-   "link": "https://www.mensxp.com/sports/football/185903-fifa-boss-gianni-infantino-in-danger-of-losing-job-greek-fa-president-wants-change-at-top.html",
-   "lede": "FIFA boss Gianni Infantino is hoping to be re-elected in 2027 but may have just received a hard hit as the Greek FA president Makis Gagatsis along with Oliver Bierhoff, who was Germany's team director for 18 years, have called for a change in leadership. Gagatsis confirmed that the GFA does not stand in favour of Infantino's candidacy. The Greek FA pulled its support for the head of FIFA after a proposal of privatisation to raise $20 billion. What They Had to Say\"The Greek FA (EPO) has taken a ‌clear position against a candidacy of Gianni Infantino.",
-   "image": "https://mxp-media.ilnmedia.com/media/content/2026/Sep/FB_6aae1bdba2517.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
   },
   {
    "cat": "SPORTS247 NIGERIA",
@@ -68,8 +58,8 @@
    "link": "https://www.sports247.ng/falconets-receive-huge-warning-about-colombias-credentials-at-fifa-womens-world-cup/",
    "lede": "Nigeria’s female youth national team, Falconets have received a huge warning that they will not find the going easy when they face Colombia in the quarter-finals of the ongoing FIFA U-20 Women’s World Cup in Poland, Sports247 reports. The warning comes with a reminder that the South Americans are into the competition’s quarter-finals for a second consecutive edition, though they progressed from Group E of this year’s championship as a third-placed team. With their sudden burst of form turning out to be good enough, Moses Aduku’s squad will have to redouble their efforts in order to overcome the Colombians, who reached the last eight after edging hosts Poland 1-0 on Thursday.",
    "image": "https://www.sports247.ng/wp-content/uploads/2026/09/Falconets-vs-Colombia.jfif_.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE EASTLEIGH VOICE",
@@ -78,6 +68,16 @@
    "link": "https://eastleighvoice.co.ke/sports/402333/var-under-scrutiny-as-technologys-role-in-football-expands?amp=1",
    "lede": "Another domestic football season is underway, and already, in mid-September, the shortcomings of technology in sport are at the centre of the discourse once again. The video assistant referee (VAR) is perhaps the most discussed technology in modern sport. While video replays have been in use for years in sports like American football, rugby or cricket, it has only been a decade since the International Football Association Board (IFAB), the highest regulatory authority in the sport, approved the use of VAR. With artificial intelligence (AI) reportedly reaching dangerous levels of development and technological optimisation of people's lives at an all-time high, it is perhaps a pertinent time to consider the use of technology in sport.",
    "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/09/eastleighvoice-co-ke-2026-september-19-081143.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "INDIA TODAY",
+   "title": "Thomas Tuchel admits Kobbie Mainoo's World Cup omission 'hurt' him",
+   "iso": "2026-09-19T03:13:47.000Z",
+   "link": "https://www.indiatoday.in/sports/football/story/kobbie-mainoo-england-recall-thomas-tuchel-world-cup-omission-hurt-2998091-2026-09-19",
+   "lede": "England manager Thomas Tuchel has admitted it “hurt” him that Kobbie Mainoo did not get a single minute at the FIFA World Cup 2026. The Manchester United midfielder has been recalled for the upcoming Nations League fixtures, with Tuchel saying it is now his responsibility to give the 21-year-old an opportunity.Mainoo was part of England’s World Cup squad but remained an unused substitute throughout the tournament. Speaking after naming his latest squad on Friday, Tuchel explained why he preferred Declan Rice and Elliot Anderson in midfield and why Mainoo would have played in the third-place match against France had he not been injured.“. He didn't put a foot wrong in the World Cup.",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/thomas-tuchel--kobbie-mainoo-191320417-16x9_0.jpg?VersionId=i3nfecFG60o1JuvvvFS0jSDj7m38uJqP",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
