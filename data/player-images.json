@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-19T11:37:10.288Z",
- "refreshed": "2026-09-12T14:14:21.754Z",
+ "updated": "2026-09-19T14:50:29.535Z",
+ "refreshed": "2026-09-19T14:50:29.535Z",
  "source": "Wikipedia / Wikimedia Commons",
  "players": {
   "Jamal Musiala": {
@@ -12,8 +12,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:01.535Z",
-   "videoCheckedAt": "2026-09-12T14:14:02.132Z",
+   "portraitCheckedAt": "2026-09-19T14:50:08.943Z",
+   "videoCheckedAt": "2026-09-19T14:50:09.511Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -30,7 +30,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:20.082Z",
+   "videoCheckedAt": "2026-09-19T14:50:27.704Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -46,8 +46,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:00.763Z",
-   "videoCheckedAt": "2026-09-12T14:14:01.352Z",
+   "portraitCheckedAt": "2026-09-19T14:50:08.027Z",
+   "videoCheckedAt": "2026-09-19T14:50:08.549Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -63,8 +63,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:01.652Z",
-   "videoCheckedAt": "2026-09-12T14:14:02.201Z",
+   "portraitCheckedAt": "2026-09-19T14:50:09.044Z",
+   "videoCheckedAt": "2026-09-19T14:50:09.598Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -80,8 +80,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-08-08T10:14:55.551Z",
-   "videoCheckedAt": "2026-09-12T14:14:04.700Z",
+   "portraitCheckedAt": "2026-09-19T14:50:10.934Z",
+   "videoCheckedAt": "2026-09-19T14:50:11.416Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -98,7 +98,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-09-05T13:33:34.190Z",
-   "videoCheckedAt": "2026-09-12T14:14:04.803Z",
+   "videoCheckedAt": "2026-09-19T14:50:12.514Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -114,25 +114,25 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:02.476Z",
-   "videoCheckedAt": "2026-09-12T14:14:03.112Z",
+   "portraitCheckedAt": "2026-09-19T14:50:09.840Z",
+   "videoCheckedAt": "2026-09-19T14:50:10.406Z",
    "videoChannel": "FIFA",
-   "videoVerified": false,
+   "videoVerified": true,
    "videoVerifierVersion": 2
   },
   "Cristiano Ronaldo": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg/1920px-Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "page": "https://en.wikipedia.org/?curid=43992506",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1920px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "page": "https://en.wikipedia.org/?curid=623737",
    "attribution": "Wikipedia / Wikimedia Commons",
-   "videoTitle": "Cristiano Ronaldo | All 11 World Cup Goals For Portugal",
-   "youtubeId": "KyyuE7ClNI0",
-   "youtubeUrl": "https://www.youtube.com/watch?v=KyyuE7ClNI0",
+   "videoTitle": "🇵🇹 Cristiano Ronaldo | FIFA World Cup Goals",
+   "youtubeId": "BkiTScinYOQ",
+   "youtubeUrl": "https://www.youtube.com/watch?v=BkiTScinYOQ",
    "playerId": "cristiano-ronaldo",
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:02.438Z",
-   "videoCheckedAt": "2026-09-12T14:14:03.101Z",
+   "portraitCheckedAt": "2026-09-19T14:50:09.968Z",
+   "videoCheckedAt": "2026-09-19T14:50:10.536Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -148,8 +148,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:00.768Z",
-   "videoCheckedAt": "2026-09-12T14:14:01.334Z",
+   "portraitCheckedAt": "2026-09-19T14:50:08.030Z",
+   "videoCheckedAt": "2026-09-19T14:50:08.690Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -165,8 +165,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:00.736Z",
-   "videoCheckedAt": "2026-09-12T14:14:01.272Z",
+   "portraitCheckedAt": "2026-09-19T14:50:08.090Z",
+   "videoCheckedAt": "2026-09-19T14:50:08.619Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -182,8 +182,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:01.555Z",
-   "videoCheckedAt": "2026-09-12T14:14:02.075Z",
+   "portraitCheckedAt": "2026-09-19T14:50:08.944Z",
+   "videoCheckedAt": "2026-09-19T14:50:09.476Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -197,7 +197,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-09-12T14:14:03.365Z",
-   "videoCheckedAt": "2026-09-12T14:14:03.595Z",
+   "videoCheckedAt": "2026-09-19T14:50:11.860Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -212,8 +212,8 @@
    "portraitSource": "Wikimedia",
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
-   "portraitCheckedAt": "2026-09-12T14:14:02.479Z",
-   "videoCheckedAt": "2026-09-12T14:14:03.103Z",
+   "portraitCheckedAt": "2026-09-19T14:50:09.846Z",
+   "videoCheckedAt": "2026-09-19T14:50:10.314Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -230,7 +230,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:06.495Z",
+   "videoCheckedAt": "2026-09-19T14:50:14.188Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -247,15 +247,15 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:08.258Z",
+   "videoCheckedAt": "2026-09-19T14:50:15.963Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
   },
   "Raúl Jiménez": {
-   "videoTitle": "Raúl Jiménez goal | Mexico 2-0 South Africa | FIFA World Cup 2026™",
-   "youtubeId": "yYQpRBcO7tA",
-   "youtubeUrl": "https://www.youtube.com/watch?v=yYQpRBcO7tA",
+   "videoTitle": "Raúl Jiménez Goal | Mexico 2-0 Ecuador | FIFA World Cup 2026™",
+   "youtubeId": "X2A3t5iVzU8",
+   "youtubeUrl": "https://www.youtube.com/watch?v=X2A3t5iVzU8",
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ra%C3%BAl_Jim%C3%A9nez.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Ra%C3%BAl_Jim%C3%A9nez.jpg",
    "attribution": "Wikimedia Commons",
@@ -264,15 +264,15 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:06.447Z",
+   "videoCheckedAt": "2026-09-19T14:50:14.093Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
   },
   "Achraf Hakimi": {
-   "videoTitle": "Morocco On Playing Brazil |  Mohamed Ouahbi & Achraf Hakimi Take Questions",
-   "youtubeId": "MAsVbiZaHRo",
-   "youtubeUrl": "https://www.youtube.com/watch?v=MAsVbiZaHRo",
+   "videoTitle": "That feeling when Achraf Hakimi sent Morocco to the Quarter-Finals for the first time!",
+   "youtubeId": "ghSA4jVmwTM",
+   "youtubeUrl": "https://www.youtube.com/watch?v=ghSA4jVmwTM",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg/1920px-Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg",
    "page": "https://en.wikipedia.org/?curid=52004386",
    "attribution": "Wikipedia / Wikimedia Commons",
@@ -281,7 +281,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:08.263Z",
+   "videoCheckedAt": "2026-09-19T14:50:16.069Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -298,7 +298,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:08.363Z",
+   "videoCheckedAt": "2026-09-19T14:50:16.211Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -315,7 +315,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:06.558Z",
+   "videoCheckedAt": "2026-09-19T14:50:14.265Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -331,7 +331,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:01.296Z",
-   "videoCheckedAt": "2026-09-12T14:14:11.708Z",
+   "videoCheckedAt": "2026-09-19T14:50:19.503Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -348,7 +348,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:00.645Z",
-   "videoCheckedAt": "2026-09-12T14:14:10.102Z",
+   "videoCheckedAt": "2026-09-19T14:50:17.786Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -365,15 +365,15 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:00.672Z",
-   "videoCheckedAt": "2026-09-12T14:14:09.986Z",
+   "videoCheckedAt": "2026-09-19T14:50:17.772Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
   },
   "Alphonso Davies": {
-   "videoTitle": "Alphonso Davies Scores Canada's First FIFA World Cup Goal",
-   "youtubeId": "zCUGgdWQhRU",
-   "youtubeUrl": "https://www.youtube.com/watch?v=zCUGgdWQhRU",
+   "videoTitle": "Alphonso Davies scores Canada’s first World Cup goal!",
+   "youtubeId": "g_VISVA-gOU",
+   "youtubeUrl": "https://www.youtube.com/watch?v=g_VISVA-gOU",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alphonso_Davies_Canada_v_Qatar_18_June_2026-007_%28cropped%29.jpg/1920px-Alphonso_Davies_Canada_v_Qatar_18_June_2026-007_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/?curid=49538223",
    "attribution": "Wikipedia / Wikimedia Commons",
@@ -382,7 +382,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:01.294Z",
-   "videoCheckedAt": "2026-09-12T14:14:11.724Z",
+   "videoCheckedAt": "2026-09-19T14:50:19.434Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -399,7 +399,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:02.330Z",
-   "videoCheckedAt": "2026-09-12T14:14:13.294Z",
+   "videoCheckedAt": "2026-09-19T14:50:20.999Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -416,7 +416,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:02.359Z",
-   "videoCheckedAt": "2026-09-12T14:14:13.396Z",
+   "videoCheckedAt": "2026-09-19T14:50:21.084Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -433,7 +433,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:03.015Z",
-   "videoCheckedAt": "2026-09-12T14:14:15.122Z",
+   "videoCheckedAt": "2026-09-19T14:50:22.802Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -450,7 +450,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:02.350Z",
-   "videoCheckedAt": "2026-09-12T14:14:13.488Z",
+   "videoCheckedAt": "2026-09-19T14:50:21.192Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -467,7 +467,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:15.040Z",
+   "videoCheckedAt": "2026-09-19T14:50:22.933Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -484,7 +484,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:18.289Z",
+   "videoCheckedAt": "2026-09-19T14:50:26.014Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -501,15 +501,15 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:18.522Z",
+   "videoCheckedAt": "2026-09-19T14:50:26.200Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
   },
   "Edin Džeko": {
-   "videoTitle": "Team Feature: Bosnia and Herzegovina | Legendary Striker Edin Dzeko Aims To Do His Country Proud",
-   "youtubeId": "CVly5PzQFhg",
-   "youtubeUrl": "https://www.youtube.com/watch?v=CVly5PzQFhg",
+   "videoTitle": "Edin Dzeko Interview - EXCLUSIVE",
+   "youtubeId": "MG0A5DUlAeg",
+   "youtubeUrl": "https://www.youtube.com/watch?v=MG0A5DUlAeg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg",
    "page": "https://en.wikipedia.org/?curid=6926377",
    "attribution": "Wikipedia / Wikimedia Commons",
@@ -518,7 +518,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:18.415Z",
+   "videoCheckedAt": "2026-09-19T14:50:26.193Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -535,7 +535,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:16.775Z",
+   "videoCheckedAt": "2026-09-19T14:50:24.570Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -552,7 +552,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:20.020Z",
+   "videoCheckedAt": "2026-09-19T14:50:27.714Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -569,7 +569,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:21.754Z",
+   "videoCheckedAt": "2026-09-19T14:50:29.535Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -586,7 +586,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:20.283Z",
+   "videoCheckedAt": "2026-09-19T14:50:28.089Z",
    "videoChannel": "FIFA",
    "videoVerified": true,
    "videoVerifierVersion": 2
@@ -600,7 +600,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:01.858Z",
-   "videoCheckedAt": "2026-09-12T14:14:11.622Z",
+   "videoCheckedAt": "2026-09-19T14:50:19.288Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -613,7 +613,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:16.547Z",
+   "videoCheckedAt": "2026-09-19T14:50:24.422Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -626,7 +626,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:15.156Z",
+   "videoCheckedAt": "2026-09-19T14:50:22.886Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -639,7 +639,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-07-11T05:13:55.707Z",
-   "videoCheckedAt": "2026-09-12T14:14:16.690Z",
+   "videoCheckedAt": "2026-09-19T14:50:24.418Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   },
@@ -652,7 +652,7 @@
    "portraitType": "editorial",
    "focalPoint": "50% 20%",
    "portraitCheckedAt": "2026-08-08T10:15:00.655Z",
-   "videoCheckedAt": "2026-09-12T14:14:09.770Z",
+   "videoCheckedAt": "2026-09-19T14:50:17.543Z",
    "videoVerified": false,
    "videoVerifierVersion": 2
   }
