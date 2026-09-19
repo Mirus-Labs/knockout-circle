@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-19T01:40:04.698Z",
+ "updated": "2026-09-19T05:08:41.235Z",
  "news": [
+  {
+   "cat": "INDIA TODAY",
+   "title": "Thomas Tuchel admits Kobbie Mainoo's World Cup omission 'hurt' him",
+   "iso": "2026-09-19T03:13:47.000Z",
+   "link": "https://www.indiatoday.in/sports/football/story/kobbie-mainoo-england-recall-thomas-tuchel-world-cup-omission-hurt-2998091-2026-09-19",
+   "lede": "England manager Thomas Tuchel has admitted it “hurt” him that Kobbie Mainoo did not get a single minute at the FIFA World Cup 2026. The Manchester United midfielder has been recalled for the upcoming Nations League fixtures, with Tuchel saying it is now his responsibility to give the 21-year-old an opportunity.Mainoo was part of England’s World Cup squad but remained an unused substitute throughout the tournament. Speaking after naming his latest squad on Friday, Tuchel explained why he preferred Declan Rice and Elliot Anderson in midfield and why Mainoo would have played in the third-place match against France had he not been injured.“. He didn't put a foot wrong in the World Cup.",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/thomas-tuchel--kobbie-mainoo-191320417-16x9_0.jpg?VersionId=i3nfecFG60o1JuvvvFS0jSDj7m38uJqP",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "NINE.COM.AU",
    "title": "Great perplexed by Popovic’s ‘strange’ axing of Socceroos skipper",
@@ -8,16 +18,6 @@
    "link": "https://www.nine.com.au/sport/football/news-socceroos-team-lists-mat-ryan-absent-tony-popovic-comments-brazil-friendlies-20260918-p60yim.html",
    "lede": "Updated September 18, 2026 - 11.31pm. First published at 1.12am. Mark Bosnich cannot understand the “strange” omission of Mat Ryan for the Socceroos after he failed to make the 26-player squad for the side’s upcoming friendlies against Brazil. Tony Popovic named seven uncapped players in his line-up for the games later this month, while 16 members of his impressive World Cup squad were recalled.",
    "image": "https://static.ffx.io/images/$zoom_0.8455%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_272%2C$y_24/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/c1c944d5245d2aaa2f5b9714590c577b949d6ca7",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "KOMU 8",
-   "title": "No. 20 Tigers celebrate Memorial Stadium 100th anniversary",
-   "iso": "2026-09-18T22:30:00.000Z",
-   "link": "https://www.komu.com/sports/mizzouxtra/no-20-tigers-celebrate-memorial-stadium-100th-anniversary/article_d200f5ab-1861-4e8b-8f0e-a514efcb91e3.html",
-   "lede": "Mizzou football (2-0, 0-0 SEC) is back at home this week to host Troy (2-0, 0-0 SBC) for the Memorial Stadium 100th anniversary game at 6 p.m. The 20th-ranked team will celebrate the 100th anniversary of Memorial Stadium by wearing special throwback uniforms on the field, according to Mizzou Athletics. The uniforms will bring back Tiger nostalgia, combining elements from several areas of Mizzou football including the 1920's-style \"M' on the jersey, 1970's-inspired sleeve stripes and a narrow Block M with a gray facemask reminiscent of the helmet design introduced in 1971, according to Mizzou Athletics. The helmets front bumper will display the six Columns of Francis Quadrangle, while the pants will represent the historic shade of gold worn by the Tigers through the 20th century, according to Mizzou Athletics.",
-   "image": "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/d/20/d200f5ab-1861-4e8b-8f0e-a514efcb91e3/6aadad1f00b2e.preview.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,7 +42,7 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "BBC",
+   "cat": "BBC.CO.UK",
    "title": "Portugal: Cristiano Ronaldo named in new coach Jorge Jesus' first squad",
    "iso": "2026-09-18T21:03:10.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o",
@@ -62,10 +62,10 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Rams’ Aaron Donald plans to make season debut on ‘Monday Night Football’ vs. Giants",
-   "iso": "2026-09-18T22:41:52.000Z",
-   "link": "https://www.nytimes.com/athletic/7604025/2026/09/18/rams-aaron-donald-giants-monday-night-football/",
+   "cat": "BUSINESS STANDARD",
+   "title": "FIFA challengers seek $10m grants for federations from post-World Cup funds",
+   "iso": "2026-09-19T04:20:30.000Z",
+   "link": "https://www.business-standard.com/sports/football-news/fifa-challengers-seek-10m-grants-for-federations-from-post-world-cup-funds-126091801333_1.html",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
@@ -73,7 +73,7 @@
   {
    "cat": "THE NEW YORK TIMES",
    "title": "NFL Week 2 fantasy football injury report and weather forecast",
-   "iso": "2026-09-18T22:10:00.000Z",
+   "iso": "2026-09-18T23:31:00.000Z",
    "link": "https://www.nytimes.com/athletic/7600775/2026/09/17/fantasy-football-injury-report-weather-week-2/",
    "lede": "",
    "emoji": "🧤",
