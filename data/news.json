@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-18T23:37:41.542Z",
+ "updated": "2026-09-19T00:40:10.173Z",
  "news": [
   {
    "cat": "GULF DAILY NEWS (BAHRAIN)",
    "title": "Football: Spain make four changes from World Cup squad",
    "iso": "2026-09-18T22:19:08.000Z",
-   "link": "https://www.gdnonline.com/Details/1406962",
+   "link": "https://www.gdnonline.com/Details/1406962/Spain-make-four-changes-from-World-Cup-squad",
    "lede": "FOOTBALL – Spain manager Luis de la Fuente has called up four new players to his Spain squad that won the World Cup ‌in July, as Barcelona duo Gavi and Joan Garcia were left out. Espanyol forward Roberto Fernandez and Inter Milan goalkeeper Josep Martinez have received their first call-ups. Real Madrid defender Dean Huijsen returns to the squad after missing out on their World Cup victory. Fermin Lopez has also been selected by de la Fuente after injury prevented him from being part of the World Cup.",
    "image": "https://www.gdnonline.com/gdnimages/20260919/20260919011314DeLaFuente.jpg",
    "emoji": "⚽",
@@ -70,12 +70,11 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "CITIZEN DIGITAL",
-   "title": "England can build on World Cup 'spirit', says Tuchel",
-   "iso": "2026-09-18T20:52:56.000Z",
-   "link": "https://citizen.digital/article/england-can-build-on-world-cup-spirit-says-tuchel-n390466",
-   "lede": "Tuchel faced fierce criticism for his tactics as England sat on their 1-0 lead against Argentina before their late collapse in Atlanta.",
-   "image": "https://assets.citizen.digital/171502/conversions/a92059c4-6cb2-44d3-8228-36b7b6afe811_AFP__20260711__B9XH9WD__v1__MidRes__FblWc2026Match99NorEng-og_image.webp",
+   "cat": "THE NEW YORK TIMES",
+   "title": "USMNT World Cup star Folarin Balogun makes Monaco return after Everton move collapsed",
+   "iso": "2026-09-18T22:07:06.000Z",
+   "link": "https://www.nytimes.com/athletic/7607134/2026/09/18/folarin-balogun-monaco-usmnt-return/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
