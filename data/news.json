@@ -1,6 +1,26 @@
 {
- "updated": "2026-09-20T06:54:23.251Z",
+ "updated": "2026-09-20T10:07:43.435Z",
  "news": [
+  {
+   "cat": "LIVEMINT",
+   "title": "Football: India seek World Cup feel with three expensive friendlies",
+   "iso": "2026-09-20T08:30:39.000Z",
+   "link": "https://www.livemint.com/mint-lounge/ideas/india-brazil-uruguay-football-friendlies-aiff-11789713943190.html",
+   "lede": "This is a Mint Premium article gifted to you. Playing in a Fifa World Cup against world-class opponents being a distant dream, India have apparently opted for a shortcut to get a feel of it. In the September-October Fifa international window, India’s senior men’s national team will host three teams that featured in the World Cup 2026 that concluded in July. While the first match is against Panama (Fifa ranking 44) on 25 September at Bengaluru’s Sree Kanteerava Stadium, the other two are at Kolkata’s Salt Lake Stadium (VYBK) against five-time World Cup winners Brazil (ranked 5) and Uruguay (ranked 20) on 3 and 6 October, respectively.",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/aiff_president_kalyan_chaubey_pti_1789714706475_9yeV_1789714706658_hLTJ_03b2d84e-5583-4065-be1f-79a9c9d9cc47_ZfHj.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE SUN NIGERIA",
+   "title": "European scouts eye Nigerian talents at Dominion Peace Cup",
+   "iso": "2026-09-20T07:46:45.000Z",
+   "link": "https://thesun.ng/european-scouts-eye-nigerian-talents-at-dominion-peace-cup/",
+   "lede": "Akpabio in Italy, prays for end to banditry, terrorism. Why I let fans name my new album – Yemi Alade. Toyin Abraham opens up on another pregnancy loss, hospital ordeal. Obi, Atiku and I have different political ideologies – Olawepo-Hashim.",
+   "image": "https://cdn.thesun.ng/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-18.24.55.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "SUNDAYWORLD.CO.ZA",
    "title": "Mighty Sundowns show Africa how global football is done",
@@ -8,28 +28,28 @@
    "link": "https://sundayworld.co.za/sports/soccer/mighty-sundowns-show-africa-how-global-football-is-done/",
    "lede": "Mamelodi Sundowns may be the African champions but after yesterday’s performance, they are slowly but surely starting to prove that they could be more than that and are setting the benchmark of African football at this point. Masandawana represented Africa once again at a Fifa competition when they went pound for pound against the back-to-back Asian champions, Al Ahli Saudi, at Loftus Versfeld Stadium in Tshwane. The Brazilians unleashed their “shoe-shine and piano” when they beat the Saudi Arabian giants 2-1 to lift the Fifa African Asian-Pacific Cup and advance to the semi-finals of the Fifa Intercontinental Cup. Sundowns will now face either Mexican club Toluca or the team that wins the Copa Libertadores in South America in the semi-finals.",
    "image": "https://media.sundayworld.co.za/wp-content/uploads/2026/09/P20-Downs1-Galllo-Images.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE SUN NIGERIA",
-   "title": "European scouts eye Nigerian talents at Dominion Peace Cup",
-   "iso": "2026-09-20T02:35:44.000Z",
-   "link": "https://thesun.ng/european-scouts-eye-nigerian-talents-at-dominion-peace-cup/",
-   "lede": "NDLEA and Edo government hold anti-drug mini-marathon. Gombe, Kano, Bauchi, Delta polls test-run for 2027 – INEC. Niger: Bago reveals disturbing signs found on bodies of 37 dead miners. Farouq Aliyu alleges rejection of ₦650m offer to back Obasanjo’s third term bid.",
-   "image": "https://cdn.thesun.ng/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-18.24.55.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BENINWEBTV.BJ",
+   "cat": "BENIN WEB TV",
    "title": "Italy: Mancini calls up nine newcomers after World Cup 2026 failure",
    "iso": "2026-09-20T02:07:32.000Z",
    "link": "https://beninwebtv.bj/en/italy-mancini-calls-up-nine-newcomers-after-world-cup-2026-failure/",
    "lede": "In his first squad since returning to lead Italy, Roberto Mancini has called up nine uncapped players in a group of 34 to launch the Nations League. Roberto Mancini has called up nine uncapped players in a squad of 34 for Italy’s first four matches in the Nations League. This list, published on Friday, September 18, marks the coach’s first selection since returning to lead the Azzurri following the team’s failure to qualify for the 2026 World Cup. Massimo Pessina, Daniele Ghilardi, Michael Kayode, Eddy Kouadio, Issa Doumbia, Alessandro Romano, Sebastiano Esposito, Antonio Vergara, and Mohamed Alì Zoma are set to make their debut in the senior national team.",
    "image": "https://beninwebtv.bj/en/wp-content/uploads/sites/3/wpwap-preview/og-551093-551009-1789869046.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Hans-Joachim Watzke reveals that he considered making Thomas Tuchel Germany coach after 2022 World Cup",
+   "iso": "2026-09-20T02:00:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/bayern-munich-alumni/258011/hans-joachim-watzke-reveals-that-he-considered-making-thomas-tuchel-germany-coach-after-2022-world-cup",
+   "lede": "It seems Germany could have had a change in coach sooner after the 2022 FIFA World Cup. Hans-Joachim Watzke, vice-president of the German Football Association (DFB), revealed to Sky Sport (as captured by @iMiaSanMia) that after Germany’s group stage exit in Qatar, he had considered replacing then-national coach Hansi Flick with Thomas Tuchel. Tuchel was without a job at the time after being sacked by Chelsea. We were knocked out quite miserably in Qatar.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/09/gettyimages-2152076430.jpg?quality=90&strip=all&crop=0%2C10.737597971458%2C100%2C78.524804057084&w=1200",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GOAL.COM",
@@ -38,8 +58,8 @@
    "link": "https://www.goal.com/en-ca/lists/italy-and-inter-icon-sandro-mazzola-passes-away-aged-83-as-world-of-football-pays-tribute-to-legendary-playmaker/bltebf38325a72701c7",
    "lede": "Italian football is mourning the loss of Sandro Mazzola, who has passed away at the age of 83 following an illness. The legendary attacking midfielder spent his entire playing career at Inter and remains one of the most decorated figures in the history of the sport. Italian football has lost one of its greatest ever players after Mazzola passed away on Saturday at the age of 83 following an illness. The iconic attacking midfielder spent his entire career with Inter, etching his name into football folklore.",
    "image": "https://assets.goal.com/images/v3/getty-98962962/crop/MM5DCNRTGI5DSMJYHJXG653FHI2DUMJQG4======/GettyImages-98962962.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO CREATORS",
@@ -48,36 +68,16 @@
    "link": "https://creators.yahoo.com/lifestyle/story/this-college-football-team-just-adopted-norways-world-cup-viking-row-180807494.html",
    "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, two months later, it has officially made its way into American college football. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium, with the student section sitting in rows and mimicking the same exaggerated rowing motion that Norwegian fans made famous this summer. Former Gophers linebacker Kamal Martin led the chant before kickoff, keeping one of the World Cup's biggest fan traditions going long after the tournament ended.",
    "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "KOREA JOONGANG DAILY",
-   "title": "From Son-Lee clash to World Cup collapse, can Moreno get Warriors back on track?",
-   "iso": "2026-09-19T22:03:05.000Z",
-   "link": "https://www.koreajoongangdaily.com/sports/from-sonlee-clash-to-world-cup-collapse-can-moreno-get-warriors-back-on-track/12873049",
-   "lede": "A lack of camaraderie — and even a tinge of hostility — paired with a languid mentality brought Korean football to its lowest point in years. Can an interim gaffer fix that? Korean football is coming off one of its most demoralizing summers since rising to the top of the sport in Asia. However, the dismal World Cup result — failing to make the knockout round — was a by-product of a bigger issue: a loss of camaraderie and fighting spirit among the players.",
-   "image": "https://image.koreajoongangdaily.com/12873064.jpg?imageId=12873064&x=0&y=0&cropw=100&croph=72.47&panox=0&panoy=0&panow=100&panoh=72.47&width=1200&height=683",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "Panama name 14 World Cuppers for India friendly",
-   "iso": "2026-09-19T18:22:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/panama-name-14-world-cuppers-for-india-friendly/amp_articleshow/134359226.cms",
-   "lede": "Panaji: At 44, Panama is the lowest-ranked team that India will face during the FIFA international match window, but Khalid Jamil’s team has a fierce battle on its hand as Los Canaleros will arrive here with 14 players who were part of the squad for the FIFA World Cup 2026. Panama were placed in a challenging World Cup group, which included England, Croatia and Ghana. Central America’s only representatives were competitive but suffered narrow losses against Croatia and Ghana, and ended their campaign with a 2-0 loss against England as Jude Bellingham and Harry Kane clinched top spot for the Three Lions.After ending without a point at the World Cup, coach Thomas Christiansen has now started rebuilding the squad.",
-   "image": "https://static.toiimg.com/thumb/msid-134359237,width-1280,height-720,imgsize-89728,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LA GAZZETTA DELLO SPORT",
-   "title": "Italy Women's U20 Beat South Korea 3-1 to Reach World Cup Semi-Finals",
-   "iso": "2026-09-19T16:04:52.000Z",
-   "link": "https://www.gazzetta.it/en/football/womens-national-team/19-09-2026/azzurre-u20-beat-south-korea-3-1-secure-world-cup-semi-final-spot_amp.shtml",
-   "lede": "A historic day for the Italy Women's Under-20 team. The national side reached a historic semi-final at the U20 World Cup, overcoming South Korea with a clear 3-1 victory in Sosnowiec, Poland. Appiah's brace proved decisive, with goals in the 16th and 48th minutes. Fadda then sealed the win in the 63rd minute with a superb long-range strike, rendering Haeun's 42nd-minute goal for South Korea a mere consolation.",
-   "image": "https://www.gazzetta.it/images/default.jpg",
+   "cat": "KOREA JOONGANG DAILY",
+   "title": "From Son-Lee clash to World Cup collapse, can Moreno get Warriors fighting fit?",
+   "iso": "2026-09-19T22:03:05.000Z",
+   "link": "https://www.koreajoongangdaily.com/sports/from-sonlee-clash-to-world-cup-collapse-can-moreno-get-warriors-fighting-fit/12873049",
+   "lede": "A lack of camaraderie — and even a tinge of hostility — paired with a languid mentality brought Korean football to its lowest point in years. Can an interim gaffer fix that? Korean football is coming off one of its most demoralizing summers since rising to the top of the sport in Asia. However, the dismal World Cup result — failing to make the knockout round — was a by-product of a bigger issue: a loss of camaraderie and fighting spirit among the players.",
+   "image": "https://image.koreajoongangdaily.com/12873064.jpg?imageId=12873064&x=0&y=0&cropw=100&croph=72.47&panox=0&panoy=0&panow=100&panoh=72.47&width=1200&height=683",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
