@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-20T16:09:52.010Z",
+ "updated": "2026-09-20T17:31:16.490Z",
  "news": [
   {
-   "cat": "PHILIPPINE FOOTBALL FEDERATION",
-   "title": "Philippines to compete in inaugural FIFA U15 World Cup & Festival",
-   "iso": "2026-09-20T13:48:42.000Z",
-   "link": "https://pff.org.ph/philippines-to-compete-in-inaugural-fifa-u15-world-cup-festival/",
-   "lede": "The Philippine Football Federation (PFF) is gearing up to participate in the inaugural FIFA U15 World Cup & Festival in Azerbaijan, a groundbreaking tournament running from October 24 to 30, 2026. This marks the first time a FIFA youth competition has been opened to all 211 member associations without any qualifying rounds required. The Philippines has been drawn into Group F alongside African sides Morocco and Liberia and North American teams Costa Rica, Curaçao, and Belize. PFF President John Anthony Gutierrez called the tournament a landmark opportunity for the country’s grassroots football development.",
-   "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
+   "cat": "SPORTS247 NIGERIA",
+   "title": "Heartbreak in Lodz! Falconets Crash Out of U-20 World Cup After Late Colombia Strike",
+   "iso": "2026-09-20T15:07:55.000Z",
+   "link": "https://www.sports247.ng/heartbreak-in-lodz-falconets-crash-out-of-u-20-world-cup-after-late-colombia-strike/",
+   "lede": "Nigeria’s Falconets suffered heartbreaking elimination from the 2026 FIFA U-20 Women’s World Cup after Colombia scored a dramatic late winner to secure a narrow quarter-final victory. Sports247 reports that after an impressive run to the last eight, Nigeria were undone in the closing stages, with Valerin Loboa finding the decisive goal in the 90+2nd minute to send Colombia into the semi-finals. The defeat ended Nigeria’s hopes of reaching the last four of the competition for the first time since 2014. The Falconets had entered the quarter-final full of confidence after producing a commanding 3-0 victory over England in the Round of 16.",
+   "image": "https://www.sports247.ng/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-4.04.35-PM.jpeg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -32,37 +32,35 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "TEMPO.CO ENGLISH",
-   "title": "Top 20 Best Wingers in World Football 2026",
-   "iso": "2026-09-20T11:46:02.000Z",
-   "link": "https://en.tempo.co/read/2119955/top-20-best-wingers-in-world-football-2026",
-   "lede": "TEMPO.CO, Jakarta - The modern football game has reshaped expectations for wide attackers, with the best wingers in the world evolving from traditional touchline runner whose sole duty was to deliver high crosses into the penalty box into inverted goalscorers, primary playmakers, and high-intensity pressers. In an evaluation by sports publication GiveMeSport, wide attackers were ranked based on goal contributions, team reliance, tactical impact, and silver-tier success over the past year. To maintain positional clarity, the list strictly includes players classified primarily as right or left wingers on Transfermarkt. Thus, central figures like Kylian Mbappe or converted attacking midfielders like Cole Palmer and Phil Foden were excluded from consideration.",
-   "image": "https://statik.tempo.co/data/2025/09/22/id_1429773/1429773_720.jpg",
+   "cat": "DAILYSPORTS",
+   "title": "Nigeria knocked out of the 2026 FIFA U-20 Women’s World Cup",
+   "iso": "2026-09-20T16:32:56.000Z",
+   "link": "https://dailysports.net/news/nigeria-knocked-out-of-the-2026-fifa-u-20-womens-world-cup/",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "THE SUN NIGERIA",
-   "title": "European scouts eye Nigerian talents at Dominion Peace Cup",
-   "iso": "2026-09-20T07:46:45.000Z",
-   "link": "https://thesun.ng/european-scouts-eye-nigerian-talents-at-dominion-peace-cup/",
-   "lede": "Niger: PRP knocks rescue of Dekara abduction victims. FG, SEZ stakeholders seek stronger investment, exports. Kwankwaso opens door to reconciliation with Abba Yusuf. 2027: Obi promises to return youths to farming, small businesses.",
-   "image": "https://cdn.thesun.ng/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-18.24.55.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "36KR",
+   "cat": "EU.36KR.COM",
    "title": "World Cup Reshapes Catering Consumption Time Slots: Half of Matches Fall 5AM-12PM, Breakfast Orders Surge 60% During 4AM-5AM",
    "iso": "2026-09-20T15:24:05.000Z",
    "link": "https://eu.36kr.com/en/p/3991613482318601",
    "lede": "The early-stage matches of the 2026 FIFA World Cup have unlocked unprecedented growth opportunities for the global catering sector, demanding targeted, format-specific adaptation strategies across diverse food service segments. As the high-stakes tournament drives surging fan foot traffic, extended operating hour demands, and evolving consumer preferences for match-viewing integrated dining experiences, full-service restaurants, fast-casual outlets, street food vendors, stadium concession stands, and cloud kitchen operators all face distinct operational challenges and untapped revenue potential.",
    "image": "https://img.36krcdn.com/hsossms/20260920/v2_8c9a7aeac55e4d67965a3823081f6692@5284654@ai_oswg1019460oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "NYTIMES.COM",
+   "title": "College Football Playoff bracket projections: SEC could be in position to stack the field",
+   "iso": "2026-09-20T14:59:20.000Z",
+   "link": "https://www.nytimes.com/athletic/7611932/2026/09/20/college-football-playoff-bracket-prediction-projections/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
+   "cat": "NYTIMES.COM",
    "title": "AP Top 25 predictions: Who will rise, fall and enter the new college football rankings?",
    "iso": "2026-09-20T14:32:51.000Z",
    "link": "https://www.nytimes.com/athletic/7612636/2026/09/20/ap-top-25-college-football-week-3/",
@@ -71,10 +69,10 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "The Kiffin Bowl was awesome, plus college football’s blunder of the year",
-   "iso": "2026-09-20T12:27:49.000Z",
-   "link": "https://www.nytimes.com/athletic/7612770/2026/09/20/lane-kiffin-ole-miss-lsu-until-saturday/",
+   "cat": "ESPN",
+   "title": "Why are England playing four games in 11 days? Extended international break explained",
+   "iso": "2026-09-20T14:16:31.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
