@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-20T22:30:14.524Z",
+ "updated": "2026-09-20T23:23:26.500Z",
  "news": [
   {
    "cat": "AFRICA TOP SPORTS",
-   "title": "Falconets Crash Out of U-20 Women’s World Cup After Late Colombia Goal",
+   "title": "Falconets Crash Out of U-20 Women’s World Cup as Colombia Score Late Winner",
    "iso": "2026-09-20T19:50:36.000Z",
    "link": "https://en.africatopsports.com/falconets-crash-out-of-u-20-womens-world-cup-as-colombia-score-late-winner/",
    "lede": "Nigeria’s Falconets have been eliminated from the 2026 FIFA U-20 Women’s World Cup after suffering a heartbreaking 1-0 quarter-final defeat to Colombia in Łódź, Poland. The Nigerian side were denied a place in the semi-finals after Colombia struck in stoppage time through Valerin Loboa, ending the Falconets’ hopes of reaching the last four for the first time since 2014. The match remained goalless for much of the encounter, with both teams battling for control as the quarter-final produced few openings. Nigeria’s task became more difficult after Kafayat Mafisere was sent off, leaving the Falconets to finish the match with 10 players.",
@@ -32,23 +32,13 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "PFF.ORG.PH",
-   "title": "Philippines to compete in inaugural FIFA U15 World Cup & Festival",
-   "iso": "2026-09-20T13:48:42.000Z",
-   "link": "https://pff.org.ph/philippines-to-compete-in-inaugural-fifa-u15-world-cup-festival/",
-   "lede": "The Philippine Football Federation (PFF) is gearing up to participate in the inaugural FIFA U15 World Cup & Festival in Azerbaijan, a groundbreaking tournament running from October 24 to 30, 2026. This marks the first time a FIFA youth competition has been opened to all 211 member associations without any qualifying rounds required. The Philippines has been drawn into Group F alongside African sides Morocco and Liberia and North American teams Costa Rica, Curaçao, and Belize. PFF President John Anthony Gutierrez called the tournament a landmark opportunity for the country’s grassroots football development.",
-   "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "ESPN",
    "title": "Why are England playing four games in 11 days? Extended international break explained",
    "iso": "2026-09-20T20:17:47.000Z",
    "link": "https://www.espn.co.uk/football/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -56,8 +46,8 @@
    "iso": "2026-09-20T19:33:54.000Z",
    "link": "https://www.nytimes.com/athletic/7612701/2026/09/20/fantasy-football-inactives-injuries-week-2/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -65,8 +55,8 @@
    "iso": "2026-09-20T18:36:51.000Z",
    "link": "https://www.nytimes.com/athletic/7612636/2026/09/20/ap-top-25-college-football-week-3/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "AFRICASOCCER.COM",
@@ -75,6 +65,15 @@
    "link": "https://africasoccer.com/nigerias-falconets-suffer-late-heartbreak-against-colombia-to-exit-u-20-womens-world-cup/",
    "lede": "Nigeria side have been eliminated from the 2026 FIFA U-20 Women’s World Cup in Poland after suffering a narrow 1-0 defeat to Colombia in the quarter-finals on.",
    "image": "https://africasoccer.com/wp-content/uploads/2026/09/Nigeria.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "SQUAWKA",
+   "title": "World Cup Analysis: Why Germany can be dark horses in 2026",
+   "iso": "2026-09-20T17:34:43.000Z",
+   "link": "https://www.squawka.com/en/features/world-cup-analysis-why-germany-can-be-dark-horses-in-2026/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
