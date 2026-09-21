@@ -1,15 +1,35 @@
 {
- "updated": "2026-09-21T06:59:01.771Z",
+ "updated": "2026-09-21T11:08:30.173Z",
  "news": [
+  {
+   "cat": "SPORTSGAMBLER",
+   "title": "Football Lineups",
+   "iso": "2026-09-21T09:44:13.000Z",
+   "link": "https://www.sportsgambler.com/lineups/football/",
+   "lede": "Explore the latest football lineups. View predicted starting XIs ahead of kick-off and confirmed team news as soon as lineups are announced. Choose a competition below to see the latest lineups and expected formations. Our aim is to provide daily predicted football lineups for as many football matches taking place across the world as possible.",
+   "image": "https://sportsgambler.sirv.com/sportsgambler/social/sm_img_lineupspage.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "Italy and Inter icon Sandro Mazzola passes away aged 83 as world of football pays tribute to legendary playmaker",
+   "iso": "2026-09-21T09:28:31.000Z",
+   "link": "https://www.goal.com/en/lists/italy-and-inter-icon-sandro-mazzola-passes-away-aged-83-as-world-of-football-pays-tribute-to-legendary-playmaker/bltebf38325a72701c7",
+   "lede": "Italian football is mourning the loss of Sandro Mazzola, who has passed away at the age of 83 following an illness. The legendary attacking midfielder spent his entire playing career at Inter and remains one of the most decorated figures in the history of the sport. Italian football has lost one of its greatest ever players after Mazzola passed away on Saturday at the age of 83 following an illness. The iconic attacking midfielder spent his entire career with Inter, etching his name into football folklore.",
+   "image": "https://assets.goal.com/images/v3/getty-98962962/crop/MM5DCNRTGI5DSMJYHJXG653FHI2DUMJQG4======/GettyImages-98962962.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "PUNCH NEWSPAPERS",
    "title": "Junk food ads flooded 2026 World Cup matches — Report",
-   "iso": "2026-09-21T06:47:17.000Z",
-   "link": "https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/?amp",
+   "iso": "2026-09-21T06:45:43.000Z",
+   "link": "https://punchng.com/junk-food-ads-flooded-2026-world-cup-matches-report/",
    "lede": "World Cup trophy and Trionda, the AI powered official football of the 2026 World Cup. Football fans were exposed to tens of thousands of advertisements for junk food and drinks during the 2026 FIFA World Cup, according to a study by researchers from the universities of Bristol and Oxford. As reported by BBC Sport on Monday, using an artificial intelligence tool, the researchers analysed advertisements visible to television viewers during live play across all 104 matches of the tournament, which was hosted by the United States, Canada and Mexico. The study recorded 65,722 appearances of logos and products from brands classified under UK government criteria as being high in fat, salt or sugar.",
    "image": "https://punchng.com/wp-content/uploads/2026/06/2026-FIFA-World-Cup_1782626297-1200x630.webp",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "STREAMLINEFEED.CO.KE",
@@ -18,64 +38,46 @@
    "link": "https://streamlinefeed.co.ke/news/football-fans-bombarded-with-65000-junk-food-advertisements-during-2026-world-cup",
    "lede": "A new academic study reveals that audiences viewing the 2026 World Cup were exposed to more than 28 hours of high-fat, salt, and sugar brand advertising. Football fans were exposed to more than 65,000 advertisements for high-fat, salt, and sugar products during the live broadcasts of the 2026 FIFA World Cup, according to a comprehensive new academic study. Researchers from the University of Bristol and the University of Oxford have published findings demonstrating a \"constant bombardment\" of junk food marketing throughout the tournament, which was jointly hosted by the United States, Canada, and Mexico. To quantify the scale of the advertising exposure, the research team developed a specialized artificial intelligence tool designed to analyse the international television feed for all 104 matches of the expanded tournament.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d9e/live/b22d0eb0-b293-11f1-9b18-ad61bef6e34f.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "FOOTBALL AUSTRALIA",
+   "cat": "FOOTBALLAUSTRALIA.COM.AU",
    "title": "CommBank ParaMatildas name squad for IFCPF Women's World Cup title defence",
    "iso": "2026-09-21T06:17:48.000Z",
    "link": "https://footballaustralia.com.au/news/commbank-paramatildas-name-squad-ifcpf-womens-world-cup-title-defence",
    "lede": "The CommBank ParaMatildas will head to Atlanta next month to defend their historic IFCPF Women's World Cup title, with a 10-player squad named by Head Coach Charlotte Ercil. Australia enters the tournament as the reigning world champions and the world’s No. 1-ranked Women’s CP football team, two years after making history in Salou, Spain, by becoming the first Australian national football team to win a World Cup. The ParaMatildas produced a stunning comeback in the 2024 Final, overturning a 2-0 deficit to defeat the USA 6-2 and claim the world title. They have continued to compete at the highest level since, finishing runners-up to the USA at last year’s IFCPF Women’s Intercontinental Cup.",
    "image": "https://footballaustralia.com.au/sites/default/files/2026-09/PM%20Cover.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BBC",
-   "title": "'Constant bombardment' - Fans shown 65,000 junk food ads at World Cup",
-   "iso": "2026-09-21T05:19:38.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cq4g528drx79o",
-   "lede": "This summer's World Cup featured ads promoting an official beverage partner (Coca-Cola), official snack food partner (Lay's), and an official quick-service restaurant sponsor (McDonald's). Football fans were shown a \"constant bombardment\" of advertisements promoting junk food and drinks during matches at the 2026 Fifa World Cup, according to a new study. Researchers at the University of Bristol and University of Oxford created an AI tool to analyse ads which were visible to television viewers during live play in the tournament's 104 matches, mostly displayed on pitchside advertising boards and around stadiums in the USA, Canada, and Mexico. They found that logos and products for brands that produce junk food and drinks - defined by the UK government as being high in fat, salt or sugar - were displayed 65,722 times in total.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d9e/live/b22d0eb0-b293-11f1-9b18-ad61bef6e34f.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "TOFFEEWEB",
-   "title": "World Cup Betting Tips: 2026 Expert Guide",
-   "iso": "2026-09-20T20:45:11.000Z",
-   "link": "https://www.toffeeweb.com/world-cup-betting-tips-2026/",
-   "lede": "Our World Cup betting tips cut through the noise of 104 matches. We tested 10 leading UK offers worth up to £50 in free bets, then ranked the smartest ways to bet. Inside you’ll find the best bookmaker deals, our tipsters’ picks and proven betting strategy. Read on — the value goes fast once kick-off arrives.",
-   "image": "https://www.toffeeweb.com/wp-content/uploads/2026/06/Light-3.png",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "New Zealand drawn in six-team group for inaugural FIFA U-15 Boys’ World Cup",
-   "iso": "2026-09-20T20:29:01.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/09/21/new-zealand-drawn-in-six-team-group-for-inaugural-fifa-u-15-boys-world-cup/",
-   "lede": "New Zealand have been invited to join 190 other nations at the inaugural FIFA U-15 World Cup & Festival in Azerbaijan in October. The new FIFA tournament will bring together 191 international boys’ teams in Baku, with almost 1,000 matches scheduled across six matchdays from October 24-30, 2026. New Zealand have been drawn in six-team Group T with Madagascar, Mozambique, Puerto Rico, Somalia and Venezuela. Eleven Oceania Football Confederation nations are scheduled to take part.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/09/FIFA-U-15-World-Cup.jpg",
+   "cat": "SPORTSGAMBLER",
+   "title": "Football Injuries & Suspensions | Injury News",
+   "iso": "2026-09-21T05:52:35.000Z",
+   "link": "https://www.sportsgambler.com/injuries/football/",
+   "lede": "Stay up to date with the latest injuries and suspensions. Track unavailable players, expected return dates and suspension updates, with team news refreshed several times per day. Choose a competition below to view the latest football injury reports. Injuries are part and parcel of the professional game and we can provide you with the latest football injury news so that you’re informed when visiting the best betting or DFS sites.",
+   "image": "https://sportsgambler.sirv.com/sportsgambler/social/sm_img_injuriespage.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "IRISH INDEPENDENT",
-   "title": "‘I couldn’t even walk up the stairs, now I’m running around a football pitch’ — meet Ireland’s Transplant World Cup stars",
-   "iso": "2026-09-21T05:30:00.000Z",
-   "link": "https://www.independent.ie/irish-news/health/i-couldnt-even-walk-up-the-stairs-now-im-running-around-a-football-pitch-meet-irelands-transplant-world-cup-stars/a/161551936.html",
-   "lede": "",
+   "cat": "BBC",
+   "title": "test",
+   "iso": "2026-09-21T05:19:38.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cq4g528drx79o",
+   "lede": "This summer's World Cup featured ads promoting an official beverage partner (Coca-Cola), official snack food partner (Lay's), and an official quick-service restaurant sponsor (McDonald's). Football fans were shown a \"constant bombardment\" of advertisements promoting junk food and drinks during matches at the 2026 Fifa World Cup, according to a new study. Researchers at the University of Bristol and University of Oxford created an AI tool to analyse ads which were visible to television viewers during live play in the tournament's 104 matches, mostly displayed on pitchside advertising boards and around stadiums in the USA, Canada, and Mexico. They found that logos and products for brands that produce junk food and drinks - defined by the UK government as being high in fat, salt or sugar - were displayed 65,722 times in total.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf09/live/ff9b7b10-b58a-11f1-bc1f-3f186ca4140c.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ESPN",
-   "title": "Why are England playing four games in 11 days? Extended international break explained",
-   "iso": "2026-09-21T05:23:02.000Z",
-   "link": "https://www.espn.co.uk/football/story/_/id/49949073/england-uefa-nations-league-international-break-euro-2028-thomas-tuchel",
-   "lede": "",
+   "cat": "CHRONICLE LIVE",
+   "title": "Newcastle star Lewis Hall breaks silence on World Cup snub amid England recall - 'if I'm honest'",
+   "iso": "2026-09-21T05:00:00.000Z",
+   "link": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-star-lewis-hall-breaks-34643750",
+   "lede": "Newcastle United star Lewis Hall admits he was 'not necessarily expecting' his omission from England's World Cup squad that left him 'gutted' over the summer. Hall missed out on a place in Thomas Tuchel's Three Lions squad for the 2026 showpiece in the USA, Mexico and Canada as he opted to take Manchester City's Nico O'Reilly and Tottenham's Djed Spence instead. The 21-year-old had come off the back of a strong individual campaign that had seen him excel against Barcelona star Lamine Yamal in the Champions League and he has now admitted that his non-selection blindsided him. Get Chronicle Premium now for just £1 HERE – exclusive news and features, our NUFC and Academy notebooks, plus an ad-lite experience “Yeah, I was gutted,\" Hall told Chronicle Live.",
+   "image": "https://i2-prod.chroniclelive.co.uk/article34643777.ece/ALTERNATES/s1200d/0_GettyImages-2295531645.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
