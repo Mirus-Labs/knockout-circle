@@ -1,15 +1,45 @@
 {
- "updated": "2026-09-22T14:59:33.453Z",
+ "updated": "2026-09-22T17:13:25.149Z",
  "news": [
   {
-   "cat": "BBC.CO.UK",
-   "title": "Fifa reform claims questioned by FAW chief Mooney",
+   "cat": "UEFA.COM",
+   "title": "UEFA Grassroots Week 2026: Getting Europe active through football",
+   "iso": "2026-09-22T15:18:55.000Z",
+   "link": "https://www.uefa.com/news-media/news/02a9-21a52b1cc4c3-f6a059730ca6-1000--uefa-grassroots-week-2026-getting-europe-active-through-foo/",
+   "lede": "Running from 23-30 September, UEFA Grassroots Week shines a spotlight on the people, programmes and communities that make football accessible and enjoyable for everyone across Europe. UEFA Grassroots Week showcases the power of grassroots football to unite communities and inspire movement. With the support of our strategic partner Lidl, we are showcasing the beauty of the game and its continued positive impact, from the UEFA Football in Schools programme to the array of grassroots initiatives delivered every day by Europe's national football associations. UEFA Grassroots Week takes place every September alongside the European Commission's Week of Sport, which is designed to inspire activity and healthy lifestyle choices across the continent.",
+   "image": "https://editorial.uefa.com/resources/02a9-21a6ae61bb9f-967a6041ca29-1000/football_in_schools_festival_-_uefa_executive_committee_-_thessaloniki_2026.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "‘Be less sh*t’ - Jurgen Klopp set simple challenge as Germany boss as ex-Liverpool manager is backed to bring ‘heavy metal football’ to the Euros & World Cup",
+   "iso": "2026-09-22T15:08:06.000Z",
+   "link": "https://www.goal.com/en-ke/lists/jurgen-klopp-simple-challenge-germany-boss-liverpool-heavy-metal-football-euros-world-cup/blt25077aabc1c41f66",
+   "lede": "Jurgen Klopp has been set the simple challenge of being “less sh*t” as he prepares to embark on a new challenge as manager of the Germany national team. Robert Huth has told GOAL that the former Borussia Dortmund and Liverpool boss will bring “heavy metal football” to the international arena while chasing down European Championship and World Cup crowns. Klopp stepped away from the stresses of coaching during the summer of 2024 when bringing an iconic nine-year stint at Anfield to a close. He had delivered Premier League and Champions League titles to Merseyside.",
+   "image": "https://assets.goal.com/images/v3/blt26440de25a92bcf0/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-09-22T090224.658.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE MIRROR",
+   "title": "Real Madrid star Jude Bellingham reignites World Cup feud - 'You don't talk without Messi'",
+   "iso": "2026-09-22T15:05:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/bellingham-romero-clash-world-cup-37690269",
+   "lede": "Jude Bellingham and Cristian Romero clashed during the Madrid derby at the weekend as the opposing players reignited their World Cup feud. Atletico Madrid got the better of Jose Mourinho and Real Madrid in an ill-tempered affair, which saw Bellingham and the former Tottenham defender clash and the match end 2-1. The duo were seen exchanging words through the match at the Metropolitano, with their World Cup semi-final clash clearly still fresh in the memory. England took the lead that night before the South Americans rallied late on, scoring their winner in stoppage time.",
+   "image": "https://i2-prod.mirror.co.uk/article37690294.ece/ALTERNATES/s1200d/0_GettyImages-2296242324.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BBC",
+   "title": "Fifa reform claims questioned by FAW chief Noel Mooney",
    "iso": "2026-09-22T13:48:47.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck9802yzr716o",
    "lede": "Gianni Infantino succeeded Sepp Blatter as Fifa president in 2016. Football Association of Wales chief executive Noel Mooney has played down suggestions Fifa is planning major reforms. Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates and says he is open to reform. In a letter sent to members of the Fifa Council and all of its national associations, Infantino explains the independent process would \"recommend potential improvements\".",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eca5/live/4e5db730-b68b-11f1-97fb-8d66d3951490.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "WORLD FOOTBALL INDEX",
@@ -18,8 +48,8 @@
    "link": "https://worldfootballindex.com/2026/09/conmebol-international-preview-messi-era-ends-as-new-eras-begin-after-2026-world-cup/",
    "lede": "The first international window since the 2026 World Cup is upon us, with all ten CONMEBOL sides set to take part. Many countries have opted to play their matches away from home, while some will remain in South America. It promises to be an intriguing window, even though there is no competitive action. It gives managers a fresh opportunity to experiment with new ideas and players as preparations begin for the 2028 Copa América and the 2030 World Cup qualifiers.",
    "image": "https://worldfootballindex.com/wp-content/uploads/2026/09/Messi-last-Argentina-game.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GOAL.COM",
@@ -28,52 +58,23 @@
    "link": "https://www.goal.com/en/news/the-president-of-the-german-federation-exposes-infantino-his-message-is-an-obvious-trick-to-stay-in-power/blt28a0b5fb681c3054",
    "lede": "Less than 24 hours after Gianni Infantino's conciliatory message, the FIFA president found the fiercest response coming from within his own house. Bernd Neuendorf, president of the German Football Association and a member of the FIFA Council, detonated a resounding bombshell. He dismissed the FIFA president's move as no reform but a \"blatant electoral ploy\", declaring that the Swiss had completely lost his credibility and was no longer the right man to lead the game. Infantino had written to all 211 member nations this week, proposing talks on reform within world football's governing body in a bid to contain the ongoing crisis.",
    "image": "https://assets.goal.com/images/v3/getty-2293650791/crop/MM5DINRRGA5DENJZGM5G433XMU5DAORSGM3Q====/GettyImages-2293650791.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "TALKSPORT",
-   "title": "Nations League outright betting tips and predictions: Selections for the 2026/27 campaign",
-   "iso": "2026-09-22T11:04:11.000Z",
-   "link": "https://talksport.com/football/4597754/talksport-tips-best-football-bets-nations-league-tips/",
-   "lede": "They face a daunting opening fixture against World Cup winners Spain, who beat the Three Lions in the final of Euro 2024. Zinedine Zidane's France and Jurgen Klopp's Germany are rated serious contenders while Nations League holders Portugal also have a new manager, replacing Roberto Martinez with former Benfica boss Jorge Jesus. talkSPORT BET - Bet £10 Get £40 In Free Bets + A Boost Token - CLAIM HERE*. Spain, France and England dominated the World Cup outright betting and all three reached the semi-finals of this summer's tournament.",
-   "image": "https://talksport.com/wp-content/uploads/2025/09/1500x1000-TS-Blog-1_e03607.webp?strip=all&quality=100&w=1500&h=1000&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "PLANET FOOTBALL",
-   "title": "Chelsea linked with Iraola, Silva, Alonso from 10 available managers this summer",
-   "iso": "2026-09-22T10:30:16.000Z",
-   "link": "https://www.planetfootball.com/lists-and-rankings/available-football-managers-summer-2026-ranked",
-   "lede": "Former managers of Liverpool, Manchester City and Tottenham are among the biggest names currently available. Fortunately for them, there are some proven managers and promising coaches who are either available right now, or will be after the World Cup. We’ve ranked the 10 best coaches who will be available this summer. Martinez’s reputation as a Golden Generation ruiner will be difficult to recover from.",
-   "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/08/06155026/Didier-Deschamps-pep-guardiola-eddie-howe.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Latest fantasy football news: QB injury bug still ravenous as Jaxson Dart goes down",
-   "iso": "2026-09-22T14:16:56.000Z",
-   "link": "https://www.nytimes.com/athletic/7620048/2026/09/22/latest-fantasy-football-news-qb-jaxson-dart/",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "TNT SPORTS",
-   "title": "'It was quite difficult' - Chelsea's Estevao opens up on missing out on Brazil World Cup squad",
-   "iso": "2026-09-22T14:12:00.000Z",
-   "link": "https://www.tntsports.co.uk/football/it-was-quite-difficult-chelseas-estevao-opens-up-on-missing-out-on-brazil-world-cup-squad_vid60100153/video.shtml",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Georgia, Clemson cancel 4-game future series amid college football scheduling shifts - The Athletic",
+   "iso": "2026-09-22T15:34:46.000Z",
+   "link": "https://www.nytimes.com/athletic/7619927/2026/09/22/georgia-clemson-cancel-football-series/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "How college football is scrambling to solve a scheduling ‘puzzle’ when Week 0 becomes Week 1",
-   "iso": "2026-09-22T13:49:44.000Z",
-   "link": "https://www.nytimes.com/athletic/7618631/2026/09/22/college-football-2027-season-start-scheduling/",
+   "title": "Fantasy football market share report: Tre Tucker, Josh Downs getting the looks",
+   "iso": "2026-09-22T15:19:24.000Z",
+   "link": "https://www.nytimes.com/athletic/7619817/2026/09/22/fantasy-football-market-share-report-tucker-downs/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
