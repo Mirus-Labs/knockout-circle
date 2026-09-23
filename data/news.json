@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-23T00:41:33.581Z",
+ "updated": "2026-09-23T01:31:20.929Z",
  "news": [
   {
-   "cat": "THEGUARDIAN.COM",
+   "cat": "THE GUARDIAN",
    "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
    "iso": "2026-09-22T23:06:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "YAHOO CREATORS",
+   "cat": "PLANET FOOTBALL",
+   "title": "Chelsea linked with Iraola, Silva, Alonso from 10 available managers this summer",
+   "iso": "2026-09-22T22:40:54.000Z",
+   "link": "https://www.planetfootball.com/lists-and-rankings/available-football-managers-summer-2026-ranked",
+   "lede": "Former managers of Liverpool, Manchester City and Tottenham are among the biggest names currently available. Fortunately for them, there are some proven managers and promising coaches who are either available right now, or will be after the World Cup. We’ve ranked the 10 best coaches who will be available this summer. Martinez’s reputation as a Golden Generation ruiner will be difficult to recover from.",
+   "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/08/06155026/Didier-Deschamps-pep-guardiola-eddie-howe.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "CREATORS.YAHOO.COM",
    "title": "This college football team just adopted Norway's World Cup Viking Row — keeping the viral tradition alive",
    "iso": "2026-09-22T21:33:35.000Z",
    "link": "https://creators.yahoo.com/lifestyle/story/this-college-football-team-just-adopted-norways-world-cup-viking-row--keeping-the-viral-tradition-alive-180807494.html",
    "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, two months later, it has officially made its way into American college football. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium, with the student section sitting in rows and mimicking the same exaggerated rowing motion that Norwegian fans made famous this summer. Former Gophers linebacker Kamal Martin led the chant before kickoff, keeping one of the World Cup's biggest fan traditions going long after the tournament ended.",
    "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GOAL.COM",
@@ -28,23 +38,13 @@
    "link": "https://www.goal.com/en-ca/lists/jurgen-klopp-simple-challenge-germany-boss-liverpool-heavy-metal-football-euros-world-cup/blt25077aabc1c41f66",
    "lede": "Jurgen Klopp has been set the simple challenge of being “less sh*t” as he prepares to embark on a new challenge as manager of the Germany national team. Robert Huth has told GOAL that the former Borussia Dortmund and Liverpool boss will bring “heavy metal football” to the international arena while chasing down European Championship and World Cup crowns. Klopp stepped away from the stresses of coaching during the summer of 2024 when bringing an iconic nine-year stint at Anfield to a close. He had delivered Premier League and Champions League titles to Merseyside.",
    "image": "https://assets.goal.com/images/v3/blt26440de25a92bcf0/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-09-22T090224.658.png",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "PLANETFOOTBALL.COM",
-   "title": "Chelsea linked with Iraola, Silva, Alonso from 10 available managers this summer",
-   "iso": "2026-09-22T20:26:26.000Z",
-   "link": "https://www.planetfootball.com/lists-and-rankings/available-football-managers-summer-2026-ranked",
-   "lede": "Former managers of Liverpool, Manchester City and Tottenham are among the biggest names currently available. Fortunately for them, there are some proven managers and promising coaches who are either available right now, or will be after the World Cup. We’ve ranked the 10 best coaches who will be available this summer. Martinez’s reputation as a Golden Generation ruiner will be difficult to recover from.",
-   "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/08/06155026/Didier-Deschamps-pep-guardiola-eddie-howe.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
    "cat": "SPORTSADDA",
    "title": "Italy national football team players: the 34 Mancini picked after a third World Cup miss",
-   "iso": "2026-09-22T19:09:13.000Z",
+   "iso": "2026-09-22T19:09:32.000Z",
    "link": "https://www.sportsadda.asia/football/features-football/italy-national-football-team-full-squad-and-key-players/",
    "lede": "Roberto Mancini is back as Italy coach and has named 34 players for the Nations League, 11 of whom have never been capped. Here is the full squad, and what the caps column says about where Italy are. Italy will miss a World Cup for the third time running, and the squad Roberto Mancini has named for his first competitive matches back in the job is the first real sign of what he intends to do about it. Thirty-four players were called up for the 2026-27 Nations League games against Belgium, Turkey and France.",
    "image": "https://www.sportsadda.asia/wp-content/uploads/2026/09/italy-national-football-team-squad.webp",
@@ -52,20 +52,19 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "Motivated De Bruyne wants to keep playing for Belgium",
-   "iso": "2026-09-22T16:49:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/motivated-de-bruyne-wants-to-keep-playing-for-belgium",
-   "lede": "Kevin De Bruyne had not considered quitting the team after the World Cup despite being the last of the country’s golden generation. Belgium midfielder Kevin De Bruyne will continue to play international football as long as he remains motivated, saying he had not considered quitting the team after the World Cup despite being the last of the country’s golden generation. De Bruyne, 35, has won 124 caps since his debut as a teenager in 2010 under Georges Leekens and is lined up to add more appearances as Belgium now have Mark van Bommel in charge. The new era begins against Italy in Rome on Sept 25, followed by Nations League clashes with France (twice) and Turkey over the next three weeks.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1be35e50da89362c30997753b758a4443c8e2d3b1b16766dc1dfe84465206cf3",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "THE NEW YORK TIMES",
    "title": "Latest fantasy football news: Dart facing surgery; Bagent in concussion protocol",
    "iso": "2026-09-22T23:52:54.000Z",
    "link": "https://www.nytimes.com/athletic/7620048/2026/09/22/latest-fantasy-football-news-qb-jaxson-dart/",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "BRITANNICA",
+   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+   "iso": "2026-09-22T22:46:29.000Z",
+   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
