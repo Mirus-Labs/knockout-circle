@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-23T22:20:39.275Z",
+ "updated": "2026-09-23T23:11:42.371Z",
  "news": [
+  {
+   "cat": "FOX SPORTS",
+   "title": "Socceroos WC heartbreak story returns as Popa’s big questions emerge for Brazil clashes",
+   "iso": "2026-09-23T23:07:12.000Z",
+   "link": "https://www.foxsports.com.au/football/socceroos-v-brazil-2026-riley-mcgree-returns-after-world-cup-heartbreak-vinicius-jr-leads-brazil-squad-preview-of-friendlies-in-townsville-and-brisbane-squads-fixtures-dates-latest-news-video/news-story/bfa815bcd5d2d58248fb2d0563aac7d1",
+   "lede": "The start of a new World Cup cycle for the Socceroos gets underway on Friday night, with Australia taking on five-time world champions Brazil in a two-game series that starts in Townsville before moving to Brisbane on Tuesday. The fixtures come just months after Tony Popovic’s side exited the last World Cup in North America after a heartbreaking penalty shootout loss to Egypt in the Round of 32, and while there are plenty of familiar faces in the squad named by the manager, there’s also a healthy dose of new blood. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail.",
+   "image": "https://content.api.news/v3/images/bin/c188b2f0875251e4f82423a98705a036",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Harry Kane admits England’s World Cup 2026 exit ‘hurt more than any other’",
@@ -8,8 +18,18 @@
    "link": "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain",
    "lede": "‘It wasn’t the team that we wanted and said we’d be’. England host Spain in Nations League on Saturday. Harry Kane has described England’s World Cup semi-final defeat against Argentina as his most painful tournament exit because of how the team lost sight of who they were. The captain is determined to move on as quickly as possible and is chasing a statement performance against Spain at Wembley on Saturday night in the Nations League.",
    "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=410d75de928624d90bb7be5376f7cc38",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE SUN",
+   "title": "PSG and World Cup star Achraf Hakimi to stand trial for rape after losing appeal",
+   "iso": "2026-09-23T20:02:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40475732/achraf-hakimi-rape-trial-football-news/",
+   "lede": "ACHRAF HAKIMI will stand trial for rape after losing his bid to have the case thrown out. It was announced in June that the PSG and Morocco star would go on trial for an alleged assault on a woman in February 2023. Hakimi, who vehemently denies the allegation, tried to get the case thrown out by lodging a motion to dismiss it with a French appeals court. But on Wednesday, the Cour de cassation rejected his bid to have the case struck off, meaning The Atlas Lions’ talismanic skipper will have to go in the dock to address the allegation.",
+   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/paris-saint-germains-moroccan-defender-1110538912.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE TELEGRAPH",
@@ -18,8 +38,8 @@
    "link": "https://www.telegraph.co.uk/football/2026/09/23/harry-kane-we-went-against-our-beliefs-at-the-world-cup/",
    "lede": "England captain offers frank assessment of summer failings; plus, contract talks at Bayern Munich and his ambitions to play in NFL. Mike has been a football reporter with the Telegraph since 2019, working on Premier League and England news. This summer will be his third World Cup and he has covered four European Championships, including England's two finals under Gareth Southgate. Mike can be contacted at mike.mcgrath@telegraph.co.uk and on X @mcgrathmike.",
    "image": "https://www.telegraph.co.uk/content/dam/football/2026/09/23/TELEMMGLPICT000495476894_17901821783850_trans_NvBQzQNjv4Bqg9ZeoBAnnjQodLBNGHv_PpZ5FUl9Ca4MeZ1m7DVPsDQ.jpeg?impolicy=OG-Standard",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SPORTSTAR",
@@ -28,8 +48,8 @@
    "link": "https://sportstar.thehindu.com/football/uefa-president-aleksander-ceferin-repair-trust-broken-by-infantino-fifa-world-cup-sale-plan/article71501485.ece",
    "lede": "AP AP https://ss-i.thgim.com/public/incoming/4cw55l/article71501482.ece/alternates/FREE_1200/image%2017.jpeg GENEVA Ceferin led UEFA’s backlash in July that helped stop Infantino’s plan to sell at least 20% of FIFA’s future commercial rights for USD 4.2 billion to investors led by Josh Kushner, the brother of U.S. President Donald Trump’s son-in-law Jared Kushner. European football leader Aleksander Ceferin said Wednesday it is “our work” to repair the unity and trust broken by FIFA President Gianni Infantino’s failed World Cup sell-off plan. The UEFA president, in rare public comments two months into the divisive global rift in football, did not cite Infantino by name but said “not everyone places the game above their own ambitions.”",
    "image": "https://ss-i.thgim.com/public/incoming/4cw55l/article71501482.ece/alternates/LANDSCAPE_1200/image%2017.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE STAR",
@@ -38,18 +58,18 @@
    "link": "https://www.thestar.com.my/sport/football/2026/09/24/soccer-vieira-leads-wave-of-new-coaches-into-africa-cup-of-nations-qualifying",
    "lede": "CAPE TOWN, Sept 23 (Reuters) - World ⁠Cup winner Patrick Vieira headlines a lengthy list of new coaches in charge of African ⁠national teams as the group qualifiers for next year’s Africa Cup of Nations finals kick ‌off on Thursday. Vieira takes charge of Senegal, where he was born, as they look to recover from a disappointing World Cup where they were expected to pose Africa’s best challenge at the tournament in Canada, Mexico, and the United States but delivered an underwhelming performance ​that cost their former coach Pape Bouna Thiaw his job. A total ⁠of 21 new coaches will be in ⁠charge this week as 48 countries begin the group phase of the qualifiers. The list includes six of ⁠the ‌10 African countries who competed at the World Cup.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/09/24/4126440.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
-   "cat": "THE MIRROR",
+   "cat": "DAILY MIRROR",
    "title": "Harry Kane opens up on true impact of England's World Cup heartbreak vs Argentina",
    "iso": "2026-09-23T18:02:00.000Z",
    "link": "https://www.mirror.co.uk/sport/football/news/harry-kane-england-argentina-spain-37694569",
    "lede": "Harry Kane insists England must put the “hurt” of the last World Cup behind them. Kane admits the pain of losing to Argentina last summer was even worse for him personally than missing the penalty against France in the 2022 quarter final. Three Lions captain Kane admitted they did not show their “true selves” against Argentina in the semi-final but says they must use that as motivation in the future. England start their Nations League campaign against world champions Spain at Wembley on Saturday and Kane wants to start a new chapter after the pain in the United States.",
    "image": "https://i2-prod.mirror.co.uk/article37694478.ece/ALTERNATES/s1200d/0_GettyImages-2286282264.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE SUN",
@@ -58,24 +78,6 @@
    "link": "https://www.thesun.co.uk/sport/40473229/harry-kane-world-cup-pain-england-golf/",
    "lede": "HARRY KANE has revealed the World Cup semi-final loss was the worst moment of his career. The England captain admitted the 2-1 defeat to Argentina was even more painful than his penalty miss against France in the quarter-finals four years ago while he was also in the team which lost to Italy on penalties in the Euro 2020 final. Kane could not even face watching the final between Argentina and Spain and although he was in New York, played golf instead. He said: “It stays with you.",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/RW-23-09-KANEv2_OP_fdb141.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "UK PM Andy Burnham open to trialling end to alcohol ban at football stadiums",
-   "iso": "2026-09-23T22:12:30.000Z",
-   "link": "https://www.nytimes.com/athletic/7624183/2026/09/23/andy-burnham-uk-prime-minister-drinking-alcohol-ban/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Napoli’s owner wanted to ‘shoot’ Gianni Infantino before seeing the ‘extraordinary’ World Cup",
-   "iso": "2026-09-23T21:39:05.000Z",
-   "link": "https://www.nytimes.com/athletic/7624056/2026/09/23/gianni-infantino-world-cup-shoot-napoli-de-laurentiis/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
