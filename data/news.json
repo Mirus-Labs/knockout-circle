@@ -1,15 +1,25 @@
 {
- "updated": "2026-09-25T21:20:19.393Z",
+ "updated": "2026-09-25T21:51:20.183Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "England aim to win over Wembley and revive Wonderwall in Spain glamour fixture",
+   "iso": "2026-09-25T19:38:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/sep/25/england-spain-thomas-tuchel-nations-league-wonderwall",
+   "lede": "Emotions of a Nations League match cannot pulse to the same levels as the World Cup but Tuchel needs to reconnect. Thomas Tuchel has pictured the scene. It comes after the final whistle has blown on England’s Nations League opener against Spain on Saturday night, the first post-World Cup fixture for both teams, and it has Wembley swaying to the strains of Wonderwall. It is a moment of communion, a reconnection with the Oasis classic that was the soundtrack to England’s World Cup campaign, which delivered so much only to end in such disappointment.",
+   "image": "https://i.guim.co.uk/img/media/853d50bf1d89c343cb9322eae37c07c6939a1c21/1096_76_4904_3924/master/4904.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86ffcf5533346e87f22884c82a8da8a1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "YAHOO CREATORS",
    "title": "This college football team adopted Norway's Viking Row — here's who is keeping the World Cup chant alive",
    "iso": "2026-09-25T18:15:16.000Z",
    "link": "https://creators.yahoo.com/lifestyle/story/this-college-football-team-adopted-norways-viking-row--heres-who-is-keeping-the-world-cup-chant-alive-180807494.html",
-   "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, two months later, it has officially made its way into American college football. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium, with the student section sitting in rows and mimicking the same exaggerated rowing motion that Norwegian fans made famous this summer. Former Gophers linebacker Kamal Martin led the chant before kickoff, keeping one of the World Cup's biggest fan traditions going long after the tournament ended.",
+   "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, months later, the chant has officially made its way onto American college football fields. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium. In the stands, the student section sat shoulder-to-shoulder in rows, pulling imaginary oars in unison and mimicking the exaggerated motion Norwegian supporters made famous this past summer.",
    "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE DAILY STAR",
@@ -18,8 +28,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/new-look-brazil-set-post-world-cup-reset-4282656",
    "lede": "Carlo Ancelotti's Brazil and hosts Australia will use their friendly double-header as the first stage of a rebuilding process following the World Cup. Brazil take on the Socceroos in Townsville today (4:00pm Bangladesh Time) before a second clash in Brisbane next Tuesday. It will be both countries' first outings since their World Cup campaigns ended in July. The Socceroos bowed out in the round of 32 while five-time champions Brazil suffered a shock loss to Norway in the last 16.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "GOAL.COM",
@@ -28,37 +38,38 @@
    "link": "https://www.goal.com/en/news/spain-star-gives-up-one-million-euros-of-world-cup-bonus-to-federation-staff/blta9455fe3bb5db5d6",
    "lede": "A press report revealed today, Thursday, a stunning surprise concerning one of the players of the Spain national team, crowned champions of the 2026 World Cup. Money isn't always everything in football, according to newspaper \"AS\", and it pointed to a fresh example: someone who will wear two stars on his chest this Saturday at Wembley Stadium, where Spain face England in the UEFA Nations League. The player in question, whose identity the paper did not reveal, gave up his World Cup winning bonus and donated it to the staff of the Spanish Football Federation in appreciation of their outstanding efforts. You can discuss topics and news in greater depth in the Kooora forums.",
    "image": "https://assets.goal.com/images/v3/getty-2286972259/crop/MM5DKMRTG45DEOJUGY5G433XMU5DAORRGIYQ====/GettyImages-2286972259.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "BBC",
-   "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-   "iso": "2026-09-25T16:00:44.000Z",
-   "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo",
-   "lede": "Sir David Beckham has netted a £38.5m payout from his sports, fashion, and media business after the 2026 Men's Football World Cup helped it bring in record profits. The former England star's DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier. Sales rose from £72.2m to £84m. The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald's, Verizon, and PepsiCo Lay's.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b69/live/25d24650-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "De la Fuente brings insatiable Spain to England knowing World Cup is not enough",
-   "iso": "2026-09-25T15:38:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
-   "lede": "Spain have won back-to-back major tournaments, but there is still one more to go to draw equal with feted team of 2008-2012. “I’m going to tell you a story,” Luis de la Fuente said. “As soon as the game finished on 19 July, before anyone had cooled down at all, just two or three minutes after the final, one of the players – and you’ll have to forgive me for not telling you which one, but it was one of those who has been with us for the longest time – came up to me and said: ‘Mister, now what? And I said: ‘Bloody hell, the game against England at Wembley on 26 September.’”",
-   "image": "https://i.guim.co.uk/img/media/5dd24a1e57fad012f61250cdcf19dfde4d0bcd26/40_0_1892_1513/master/1892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23ab38c6df8c91056846b0253f3f8fb0",
+   "cat": "AL JAZEERA",
+   "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+   "iso": "2026-09-25T21:33:45.000Z",
+   "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins",
+   "lede": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26268684723536-1790369778.jpg?resize=1920%2C1440",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "PORTUGOAL.NET",
-   "title": "World Cup veterans prove age is just a number",
-   "iso": "2026-09-25T14:58:55.000Z",
-   "link": "https://portugoal.net/classics-topmenu/6113-world-cup-veterans-prove-age-is-just-a-number",
-   "lede": "Football's got a proper obsession with youth—always has. Scouts trawl the globe for teenagers, clubs snap up kids straight out of academies, and every pundit within earshot won't shut up about potential and promise and the next big bloody thing. But every now and then, some bloke in his late thirties—or even his forties, no word of a lie—rocks up and reminds the whole football world that the old dogs still pack a hell of a bite. The World Cup has dished up some absolute rippers of stories about veterans who waited donkey's years for their moment, then grabbed it with both hands and refused to let go.",
+   "cat": "BLEACHER REPORT",
+   "title": "USMNT's Pochettino Addresses World Cup Controversy, Says 'Energy Changed' After Balogun Ruling",
+   "iso": "2026-09-25T21:29:46.000Z",
+   "link": "https://bleacherreport.com/articles/25503018-usmnts-pochettino-addresses-world-cup-controversy-says-energy-changed-after-balogun-ruling",
+   "lede": "USMNT manager Mauricio Pochettino says he regrets not getting \"more involved\" in the decision to suspend a red card for striker Folarin Balogun he says changed the energy of the 2026 FIFA World Cup.",
+   "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2284688866_large_cropped.jpg?w=1120&h=630",
    "emoji": "🎯",
    "bg": "#0c5c2e"
+  },
+  {
+   "cat": "FORZA FOOTBALL",
+   "title": "USMNT’s Mauricio Pochettino With One ’Regret’ Over Folarin Balogun, President Trump World Cup Scandal",
+   "iso": "2026-09-25T21:00:00.000Z",
+   "link": "https://forzafootball.com/news/usmnts-mauricio-pochettino-with-one-regret-over-folarin-balogun-president-trump-world-cup-scandal-159456228",
+   "lede": "Forza Football covers more than 1400 football leagues and cups around the world.",
+   "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_limit,w_912,f_auto,q_auto/images/voltaxMediaLibrary/mmsport/si/01m3cn10b7feerr0p1cp.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -66,16 +77,6 @@
    "iso": "2026-09-25T20:57:50.000Z",
    "link": "https://www.nytimes.com/athletic/7626475/2026/09/25/college-football-top-games-week-4/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BLEACHER REPORT",
-   "title": "UMSNT's Pochettino Addresses World Cup Controversy, Says 'Energy Changed' After Balogun Ruling",
-   "iso": "2026-09-25T20:56:42.000Z",
-   "link": "https://bleacherreport.com/articles/25503018-umsnts-pochettino-addresses-world-cup-controversy-says-energy-changed-after-balogun-ruling",
-   "lede": "USMNT manager Mauricio Pochettino says he regrets not getting \"more involved\" in the decision to suspend a red card for striker Folarin Balogun he says changed the energy of the 2026 FIFA World Cup.",
-   "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2284688866_large_cropped.jpg?w=1120&h=630",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
