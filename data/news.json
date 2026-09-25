@@ -1,15 +1,45 @@
 {
- "updated": "2026-09-25T07:34:38.924Z",
+ "updated": "2026-09-25T07:54:54.997Z",
  "news": [
   {
-   "cat": "THEGUARDIAN.COM",
+   "cat": "THENATIONALNEWS.COM",
+   "title": "Egypt World Cup stars begin new chapter: Mohamed Salah and next generation target Afcon",
+   "iso": "2026-09-25T07:37:54.000Z",
+   "link": "https://www.thenationalnews.com/sport/football/2026/09/25/egypt-world-cup-stars-begin-new-chapter-mohamed-salah-and-next-generation-target-afcon/",
+   "lede": "Mohamed Salah and his fellow Egyptian national team members have reunited in Cairo for the Pharaohs’ first match since their historic run to the last-16 at the Fifa World Cup. First off for Egypt in their post-World Cup era are a pair of Africa Cup of Nations qualifiers, starting with a homecoming clash against Angola at Cairo International Stadium on Friday, before flying to Juba to take on South Sudan on Tuesday, September 29. There is also a scheduled friendly game against South Africa in Cairo on October 4. The next Africa Cup of Nations, dubbed Pamoja 2027, will take place from June 19 to July 17 next year and will be co-hosted by Kenya, Uganda, and Tanzania (Pamoja means ‘together’ in Swahili, one of the official languages of all three host nations).",
+   "image": "https://www.thenationalnews.com/resizer/v2/PUHDE5P5ZVE5FDPLYB6T67WFD4?auth=84252edcc05ebfa32054f0b3644ac38c98cf4ecb4180926caf4ebc3cdcd296ff&focal=861%2C163&width=1200&height=630",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE GUARDIAN",
    "title": "De la Fuente: ‘What we did at the World Cup is not enough to keep us winning’",
    "iso": "2026-09-25T07:06:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
    "lede": "Spain have won back-to-back major tournaments, but there is still one more to go to draw equal with feted team of 2008-2012. “I’m going to tell you a story,” Luis de la Fuente said. “As soon as the game finished on 19 July, before anyone had cooled down at all, just two or three minutes after the final, one of the players – and you’ll have to forgive me for not telling you which one, but it was one of those who has been with us for the longest time – came up to me and said: ‘Mister, now what? And I said: ‘Bloody hell, the game against England at Wembley on 26 September.’”",
    "image": "https://i.guim.co.uk/img/media/5dd24a1e57fad012f61250cdcf19dfde4d0bcd26/40_0_1892_1513/master/1892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23ab38c6df8c91056846b0253f3f8fb0",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "SKYSPORTS.COM",
+   "title": "England vs Spain: Thomas Tuchel faces crucial test against world champions as Nations League campaign begins",
+   "iso": "2026-09-25T07:01:46.000Z",
+   "link": "https://www.skysports.com/football/news/13591373/england-vs-spain-thomas-tuchel-faces-crucial-test-against-world-champions-as-nations-league-campaign-begins",
+   "lede": "After World Cup heartbreak this summer they kick-off their Nations League campaign against Spain on Saturday at Wembley. The arrival of the world champions in the capital will be a painful reminder of what England were so close to achieving in North America - and re-exposes the scar, as boss Thomas Tuchel put it - of the mistakes made late on in that semi-final loss to Argentina. Tuchel has been eager to highlight the positives of England's campaign at the World Cup, insisting the experience and bonds built through the tournament leave the group well placed to kick on and achieve success in the Nations League and then at Euro 2028.",
+   "image": "https://e0.365dm.com/26/09/1600x900/skysports-tuchel-gordon-england_7360243.jpg?20260924133223",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SKYSPORTS.COM",
+   "title": "Netherlands 1-1 Germany: Jurgen Klopp's first game in charge ends all square after late Cody Gakpo equaliser",
+   "iso": "2026-09-25T06:39:39.000Z",
+   "link": "https://www.skysports.com/football/news/13591589/netherlands-x-x-germany-report",
+   "lede": "Cody Gakpo hit a stoppage-time volley to earn the Netherlands a 1-1 draw against Germany in their Nations League Group A2 opener on Thursday, denying Jurgen Klopp victory in his first match as Germany boss. Former Liverpool manager Klopp took charge in July after their surprise early exit from the World Cup against Paraguay in the last 32 under Julian Nagelsmann. His side appeared set to give him the perfect start after Felix Nmecha put Germany ahead, but Gakpo finished off a swift counter-attack in the closing stages to level the contest and earn a draw for the Dutch, who were coached by former Spain and Barcelona star Xavi Hernandez for the first time. \"A difficult game against a fantastic team with a great coach,\" said Klopp afterwards.",
+   "image": "https://e0.365dm.com/26/09/1600x900/skysports-klopp-jurgen-germany_7360835.jpg?20260925071651",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BBC",
@@ -18,8 +48,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo",
    "lede": "Lamine Yamal is just one of Barcelona's academy products playing for Spain. Undefeated in two and a half years. Spain are the dominant force in men's world football. Of the past 10 major international tournaments, they have won five.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a4e/live/1d070840-adfc-11f1-8169-6fdea7f79791.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE DAILY STAR",
@@ -28,8 +58,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/new-look-brazil-set-post-world-cup-reset-4282656",
    "lede": "Carlo Ancelotti's Brazil and hosts Australia will use their friendly double-header as the first stage of a rebuilding process following the World Cup. Brazil take on the Socceroos in Townsville today (4:00pm Bangladesh Time) before a second clash in Brisbane next Tuesday. It will be both countries' first outings since their World Cup campaigns ended in July. The Socceroos bowed out in the round of 32 while five-time champions Brazil suffered a shock loss to Norway in the last 16.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -38,8 +68,8 @@
    "link": "https://www.independent.co.uk/sport/football/england-spain-thomas-tuchel-nations-league-b3055505.html",
    "lede": "Tuchel has moved on from the World Cup and must now develop an ideology for England to harness ahead of Euro 2028. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
    "image": "https://static.independent.co.uk/2026/09/18/12/706d78a32a8a492320cf156e8c47634aY29udGVudHNlYXJjaGFwaSwxNzg5ODE1MjE4-2.85893266.jpg?width=1200&height=800&crop=1200:800",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -47,35 +77,6 @@
    "iso": "2026-09-25T06:19:14.000Z",
    "link": "https://www.nytimes.com/athletic/7627941/2026/09/25/cristiano-ronaldo-portugal-jorge-jesus-lisbon-wales-1000/",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-   "iso": "2026-09-25T05:56:30.000Z",
-   "link": "https://www.skysports.com/football/live-blog/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-   "lede": "Latest updates from La Liga, Serie A, Bundesliga and Ligue 1.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-thomas-tuchel-england_7291130.jpg?20260706123454",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "NEWS.COM.AU",
-   "title": "‘Devastating’: Socceroo reveals World Cup pain",
-   "iso": "2026-09-25T05:50:45.000Z",
-   "link": "https://www.news.com.au/sport/football/socceroos-star-riley-mcgree-reveals-how-world-cup-speech-fuelled-injury-comeback/news-story/7a765bfa5dbe620084e604485d007d16?amp",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Brazil XI vs Australia – Predicted lineup and team news",
-   "iso": "2026-09-25T05:30:00.000Z",
-   "link": "https://sports.yahoo.com/articles/brazil-xi-vs-australia-predicted-053000570.html",
-   "lede": "Brazil is heading across the globe to face Australia on Friday at Queensland Country Bank Stadium, marking their first game since the World Cup.Brazil arrives in this new chapter keen to move on from ... Brazil is heading across the globe to face Australia on Friday at Queensland Country Bank Stadium, marking their first game since the World Cup.Brazil arrive...",
-   "image": "https://s.yimg.com/lo/mysterio/api/564b779c9029851df8ab98de40b85a2dca92d19859d3e427a277b9c5b7dc7492/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2F2cfbaf1aad434c904629fb956d4f8a03.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
