@@ -1,15 +1,35 @@
 {
- "updated": "2026-09-25T17:54:49.119Z",
+ "updated": "2026-09-25T18:41:13.376Z",
  "news": [
   {
-   "cat": "THE TIMES OF INDIA",
+   "cat": "YAHOO CREATORS",
+   "title": "This college football team adopted Norway's Viking Row — here's who is keeping the World Cup chant alive",
+   "iso": "2026-09-25T18:15:16.000Z",
+   "link": "https://creators.yahoo.com/lifestyle/story/this-college-football-team-adopted-norways-viking-row--heres-who-is-keeping-the-world-cup-chant-alive-180807494.html",
+   "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, two months later, it has officially made its way into American college football. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium, with the student section sitting in rows and mimicking the same exaggerated rowing motion that Norwegian fans made famous this summer. Former Gophers linebacker Kamal Martin led the chant before kickoff, keeping one of the World Cup's biggest fan traditions going long after the tournament ended.",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE DAILY STAR",
+   "title": "New-look Brazil set for post-World Cup reset",
+   "iso": "2026-09-25T17:37:30.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/new-look-brazil-set-post-world-cup-reset-4282656",
+   "lede": "Carlo Ancelotti's Brazil and hosts Australia will use their friendly double-header as the first stage of a rebuilding process following the World Cup. Brazil take on the Socceroos in Townsville today (4:00pm Bangladesh Time) before a second clash in Brisbane next Tuesday. It will be both countries' first outings since their World Cup campaigns ended in July. The Socceroos bowed out in the round of 32 while five-time champions Brazil suffered a shock loss to Norway in the last 16.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "TIMESOFINDIA.INDIATIMES.COM",
    "title": "India impress against Panama in 1-1 draw as Blue Tigers stand firm against World Cup side",
    "iso": "2026-09-25T17:21:00.000Z",
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-impress-against-panama-in-1-1-draw-as-blue-tigers-stand-firm-against-world-cup-side/articleshow/134489862.cms",
    "lede": "India had to surrender a first-half lead, but the Blue Tigers came away from Bengaluru with plenty to take from a 1-1 draw against Panama, a side ranked 94 places above them in the FIFA rankings and featuring several players from the country’s recent World Cup campaign. Ryan Williams put India ahead shortly before half-time, only for Omar Valencia to level with a long-range strike in the second half, leaving Khalid Jamil’s side with an encouraging result against the world No. India's national football team held World Cup squad Panama to a 1-1 draw, showcasing their determination with a first-half lead before succumbing to a long-range equalizer, setting the stage for future challenges against Brazil and Uruguay.",
    "image": "https://static.toiimg.com/thumb/msid-134490096,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
@@ -18,18 +38,8 @@
    "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo",
    "lede": "Sir David Beckham has netted a £38.5m payout from his sports, fashion, and media business after the 2026 Men's Football World Cup helped it bring in record profits. The former England star's DRJB Holdings, which includes the Beckham brand, reported an almost £50m profit in 2025, a 46% jump compared to a year earlier. Sales rose from £72.2m to £84m. The rise was driven by a slew of advertising partnerships struck in the runup to the tournament, including with Bank of America, McDonald's, Verizon, and PepsiCo Lay's.",
    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b69/live/25d24650-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "BBC",
-   "title": "Education, Barcelona & Basque culture - why Spain are dominating football",
-   "iso": "2026-09-25T15:39:07.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c1e5d2n273zo",
-   "lede": "Lamine Yamal is just one of Barcelona's academy products playing for Spain. Undefeated in two and a half years. Spain are the dominant force in men's world football. Of the past 10 major international tournaments, they have won five.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a4e/live/1d070840-adfc-11f1-8169-6fdea7f79791.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +48,8 @@
    "link": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
    "lede": "Spain have won back-to-back major tournaments, but there is still one more to go to draw equal with feted team of 2008-2012. “I’m going to tell you a story,” Luis de la Fuente said. “As soon as the game finished on 19 July, before anyone had cooled down at all, just two or three minutes after the final, one of the players – and you’ll have to forgive me for not telling you which one, but it was one of those who has been with us for the longest time – came up to me and said: ‘Mister, now what? And I said: ‘Bloody hell, the game against England at Wembley on 26 September.’”",
    "image": "https://i.guim.co.uk/img/media/5dd24a1e57fad012f61250cdcf19dfde4d0bcd26/40_0_1892_1513/master/1892.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23ab38c6df8c91056846b0253f3f8fb0",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "PORTUGOAL.NET",
@@ -47,8 +57,8 @@
    "iso": "2026-09-25T14:58:55.000Z",
    "link": "https://portugoal.net/classics-topmenu/6113-world-cup-veterans-prove-age-is-just-a-number",
    "lede": "Football's got a proper obsession with youth—always has. Scouts trawl the globe for teenagers, clubs snap up kids straight out of academies, and every pundit within earshot won't shut up about potential and promise and the next big bloody thing. But every now and then, some bloke in his late thirties—or even his forties, no word of a lie—rocks up and reminds the whole football world that the old dogs still pack a hell of a bite. The World Cup has dished up some absolute rippers of stories about veterans who waited donkey's years for their moment, then grabbed it with both hands and refused to let go.",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "LIVESCORE",
@@ -56,9 +66,9 @@
    "iso": "2026-09-25T13:55:21.000Z",
    "link": "https://www.livescore.com/en/news/football/world-cup/beckham-reaps-a-huge-fortune-from-the-2026-world-cup-goal/",
    "lede": "David's empire growsDavid Beckham no longer needs to chase the spotlight on football pitches. His stardom has become a commercial empire that keeps reaping millions long after his retirement. As the 2026 World Cup lit up pitches and advertising boards around the world, the former England star cashed in as one of the tournament's biggest financial winners.French website \" Foot Mercato \", citing \"The Telegraph\" newspaper, reported that Beckham banked 38 million pounds sterling, around 44 million euros, in distributed profits after his brand's business grew sharply.Much of that money came from deals his brand management company struck with major global firms. Among them were \"McDonald's, Verizon, Pepsi and Lay's\", whose adverts dominated the scene throughout the World Cup.The distributed profits were only part of the story.",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_1.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_5.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE DAILY STAR",
@@ -67,16 +77,6 @@
    "link": "https://www.thedailystar.net/sports/football/news/brazils-post-world-cup-reset-stumbles-ancelotti-points-pitch-4282786",
    "lede": "For Brazil, the post-World Cup reset was supposed to offer a glimpse of renewal. Instead, it provided another reminder of just how much work Carlo Ancelotti has on his hands. Three months after their heartbreaking Round-of-16 exit to Norway, Brazil returned to action on Friday and managed only a 1-1 draw with Australia in Townsville. The result was rescued by Rayan in the fifth minute of stoppage time, sparing the five-time world champions an even more uncomfortable night.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SPORTSTAR.THEHINDU.COM",
-   "title": "Bellingham voted England men’s player of the year",
-   "iso": "2026-09-25T12:20:17.000Z",
-   "link": "https://sportstar.thehindu.com/football/jude-bellingham-england-player-of-the-year-2025-26-kane-news/article71508648.ece",
-   "lede": "AP AP Photo/Fernando Llano https://ss-i.thgim.com/public/incoming/mjiet8/article71508654.ece/alternates/FREE_1200/Mexico_England_WCup_Soccer_9496_.jpg FERNANDO LLANO England's Jude Bellingham (10) celebrates with teammates after scoring their second goal against Mexico during the World Cup round of 16 soccer match in Mexico City, Sunday, July 5, 2026. (AP Photo/Fernando Llano) Bellingham’s World Cup tally set a record for an England men’s player ‌at a major tournament as the Three Lions secured their best finish at ‌the competition since 1966 by finishing third. LONDON Jude Bellingham has been named England men’s player of the year for a ​second successive season after a standout campaign in ‌which he scored a record seven goals at ​the 2026 World Cup, the Football ⁠Association said on Friday.",
-   "image": "https://ss-i.thgim.com/public/incoming/mjiet8/article71508654.ece/alternates/LANDSCAPE_1200/Mexico_England_WCup_Soccer_9496_.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
