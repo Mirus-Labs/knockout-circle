@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-26T05:02:00.143Z",
+ "updated": "2026-09-26T05:34:18.623Z",
  "news": [
   {
-   "cat": "THE GUARDIAN",
+   "cat": "THEGUARDIAN.COM",
    "title": "England aim to win over Wembley and revive Wonderwall in Spain glamour fixture",
    "iso": "2026-09-26T01:30:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/25/england-spain-thomas-tuchel-nations-league-wonderwall",
@@ -32,7 +32,7 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "CREATORS.YAHOO.COM",
+   "cat": "YAHOO CREATORS",
    "title": "A college football team adopted Norway’s Viking Row — and its coach’s culture made it an instant fit",
    "iso": "2026-09-25T21:25:04.000Z",
    "link": "https://creators.yahoo.com/lifestyle/story/a-college-football-team-adopted-norways-viking-row--and-its-coachs-culture-made-it-an-instant-fit-180807494.html",
@@ -62,19 +62,20 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Roberto Mancini’s second spell in charge of Italy could hardly have got off to a worse start",
-   "iso": "2026-09-26T04:41:05.000Z",
-   "link": "https://www.nytimes.com/athletic/7630810/2026/09/26/roberto-mancini-italy-belgium/",
-   "lede": "",
+   "cat": "YAHOO CREATORS",
+   "title": "This college football team adopted Norway's Viking Row — here's who is keeping the World Cup chant alive",
+   "iso": "2026-09-25T18:15:16.000Z",
+   "link": "https://creators.yahoo.com/lifestyle/story/this-college-football-team-adopted-norways-viking-row--heres-who-is-keeping-the-world-cup-chant-alive-180807494.html",
+   "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, months later, the chant has officially made its way onto American college football fields. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium. In the stands, the student section sat shoulder-to-shoulder in rows, pulling imaginary oars in unison and mimicking the exaggerated motion Norwegian supporters made famous this past summer.",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BRITANNICA",
-   "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
-   "iso": "2026-09-26T00:56:46.000Z",
-   "link": "https://www.britannica.com/money/economics-of-the-FIFA-World-Cup",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Roberto Mancini’s second spell in charge of Italy could hardly have got off to a worse start",
+   "iso": "2026-09-26T04:41:05.000Z",
+   "link": "https://www.nytimes.com/athletic/7630810/2026/09/26/roberto-mancini-italy-belgium/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
