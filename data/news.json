@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T23:26:51.737Z",
+ "updated": "2026-09-26T23:40:10.012Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -22,24 +22,14 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "SUPERSPORT.COM",
-   "title": "England's best 'for a long time' despite Spain defeat, says Kane",
-   "iso": "2026-09-26T21:50:26.000Z",
-   "link": "https://supersport.com/football/news/3ebaf36f-f74f-4d79-825d-fc6fd4aad398/england-s-best-for-a-long-time-despite-spain-defeat-says-kane",
-   "lede": "England captain Harry Kane said that the Three Lions produced some of their best football for a long time despite losing 3-2 at home to world champions Spain in the Nations League on Friday. Thomas Tuchel's men got off to a disastrous start when Marc Guehi gifted Lamine Yamal the opening goal at Wembley. But England roared back to lead before half-time thanks to a brilliant counter-attack finished off by Anthony Gordon and Kane's header. Kane then hit the bar with a second half penalty that would have made it 3-1 before Spain roared back to extend their unbeaten run to 39 games through Alex Baena and Mikel Oyarzabal.",
-   "image": "https://images.supersport.com/media/51lpywir/harry-kane-ready-260613g-1920.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
    "cat": "WPEC",
    "title": "College football fans welcome Trump, Air Force One flyover with cheers at big game",
    "iso": "2026-09-26T21:48:29.000Z",
    "link": "https://cbs12.com/news/nation-world/trump-heads-to-texas-tennessee-game-presidents-cup-this-weekend-sports-college-football-matchup-knoxville-tennessee-presidents-cup-2026-golf-competition-medinah-country-club-pga-tour-team",
    "lede": "College football fans greeted President Donald Trump with cheers as Air Force One soared over Neyland Stadium in Tennessee on Saturday. The Southeastern Conference matchup between the No. 14 Volunteers was one of the biggest games in the country this weekend, with Texas beating Tennessee 20-17. Trump visited the stadium to watch Texas quarterback Arch Manning play for the first time in the stadium where his uncle Peyton became famous.",
    "image": "https://cbs12.com/resources/media2/16x9/5598/1320/0x1/90/bf1f7de5-438c-4c1e-a75a-26098106d48c-GettyImages2297270538.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,8 +38,8 @@
    "link": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
    "lede": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when they will begin to experience a future without the most potent get-out-of-jail-free card football has known. Messi’s international career falls into two distinct halves. There was the first decade when there was a sense that he didn’t quite fit, was somehow insufficiently Argentinian, didn’t care for his country.",
    "image": "https://i.guim.co.uk/img/media/2d93de81e37d386ed14a8a486fdb950354f958a4/683_82_2316_1852/master/2316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8247eda39d058fddea5288c4c27c29e6",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BBC",
@@ -58,8 +48,8 @@
    "link": "https://www.bbc.com/sport/football/articles/cmy0zz2ylr5no",
    "lede": "Alex Baena curled in Spain's second goal. England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - the Three Lions' first match since this summer's World Cup. Lamine Yamal gave Spain the lead before goals from Anthony Gordon and Harry Kane put England ahead. Kane then missed a penalty before Alex Baena curled in to level the score, with Mikel Oyarzabal scoring the winner.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc71/live/eeee61e0-b9e7-11f1-a7c8-cfea26a12219.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "UA.NEWS",
@@ -68,14 +58,23 @@
    "link": "https://ua.news/en/sport/gana-zigraie-z-angoloiu-kolumbiieiu-ta-irakom-na-chs-z-ampfutbolu-myjoyonline",
    "lede": "Ghana’s Black Challenge amputee football national team has been drawn into Group D of the 2026 WAFF World Cup in Mexico, where it will play against Angola, Colombia and Iraq. The draw took place in the Mexican city of San Juan de los Lagos, which will also host the tournament. As MyJoyOnline reports, the Ghanaian team will enter the competition as the reigning African champion and will seek to win its first world title. Ghana’s national team will compete in Group D alongside three opponents from Africa, South America and Asia.",
    "image": "https://cdn-cabinet.ua.news/uploads/images/ghana_group_stage_2026_amputee_football_1790450804631.webp",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "NYTIMES.COM",
+   "title": "Coming East Coast storm forces sports world to move, cancel events throughout region - The Athletic",
+   "iso": "2026-09-26T22:38:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7630236/noreaster-storm-sports-weather-impact-tracker/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Coming East Coast storm forces sports world to move, cancel events throughout region - The Athletic",
-   "iso": "2026-09-26T22:38:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7630236/noreaster-storm-sports-weather-impact-tracker/",
+   "cat": "NYTIMES.COM",
+   "title": "USMNT beats Peru in first match since World Cup; How did Cavan Sullivan look in his debut?",
+   "iso": "2026-09-26T22:36:32.000Z",
+   "link": "https://www.nytimes.com/athletic/7633251/2026/09/26/usmnt-peru-friendly-score-takeaways-cavan-sullivan-ellis-pochettino/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
