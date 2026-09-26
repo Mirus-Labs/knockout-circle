@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T14:15:35.949Z",
+ "updated": "2026-09-26T14:45:01.622Z",
  "news": [
   {
    "cat": "BREAKINGNEWS.IE",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE SUN",
-   "title": "World Cup and Champions League star Lola Gallardo joins OnlyFans so followers can 'get to know her off the pitch'",
-   "iso": "2026-09-26T11:26:00.000Z",
-   "link": "https://www.thesun.co.uk/sport/40501891/lola-gallardo-spain-atletico-madrid/",
-   "lede": "SPAIN star Lola Gallardo has announced a new partnership with OnlyFans. Gallardo, 33, has joined the platform in a bid to give fans a behind-the-scenes look into her life as a top goalkeeper. The experienced stopper earned 38 Spain caps and was selected for two World Cups by La Roja. She has also won the Champions League with Lyon at club level and now plays for Atletico Madrid.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/HB-OP-GALLARDO.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "THE GUARDIAN",
    "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
    "iso": "2026-09-26T10:57:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
    "lede": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career. Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourhood where it all began, but it might have been. “We’re in a World Cup final and I wanted to carry on,” he says, and there’s the smile again, the braces.",
    "image": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25938e61251d4abc038af4bb59463340",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "SPORTS247 NIGERIA",
@@ -38,24 +28,33 @@
    "link": "https://www.sports247.ng/fifa-u15-world-cup-requires-more-attention-says-grassroots-sport-forum-president-godwin-bamigboye/",
    "lede": "The president of Nigerian Grassroots Sport Development Forum (NGSDF), Godwin Bamigboye has charged the country’s decision makers in football to give better attention to preparations for the forthcoming FIFA U-15 World Cup. Sports247 reports that, with the cadet championship and festival scheduled to hold in Azerbaijan from the 24th to 30th of next month, Bamigboye is worried that Nigeria has not set preparations in motion; and warned that such levity could adversely affect the country’s team. Bamigboye went on to urge top shots at Nigeria Football Federation (NFF) and National Sports Commission (NSC) to immediately commence full fledged action, in order to ensure the country’s team, Baby Eagles, get a good outing in the championship.",
    "image": "https://www.sports247.ng/wp-content/uploads/2026/09/IMG-20260926-WA0004.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE NEWS INTERNATIONAL",
+   "cat": "THENEWS.COM.PK",
    "title": "Lamine Yamal sends emotional message to Messi after World Cup final",
    "iso": "2026-09-26T12:56:00.000Z",
    "link": "https://www.thenews.com.pk/latest/1417738-lamine-yamal-sends-emotional-message-to-messi-after-world-cup-final",
    "lede": "In a recent update, Lamine Yamal showed his appreciation to Lionel Messi after the World Cup final, sharing an emotional message for the football legend and contemplating his legacy.",
    "image": "https://www.thenews.com.pk/assets/uploads/2026-09-26/1417738_055607_updates.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Mohamed Salah rested for Egypt’s AFCON qualifier due to artificial pitch",
    "iso": "2026-09-26T12:52:59.000Z",
    "link": "https://www.nytimes.com/athletic/7632222/2026/09/26/mohamed-salah-egypt-artificial-pitch/",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE SUN",
+   "title": "World Cup and Champions League star Lola Gallardo joins OnlyFans so followers can 'get to know her off the pitch'",
+   "iso": "2026-09-26T11:26:00.000Z",
+   "link": "https://www.thesun.co.uk/sport/40501891/lola-gallardo-spain-atletico-madrid/",
    "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
