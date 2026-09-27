@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T17:46:19.352Z",
+ "updated": "2026-09-27T18:28:45.848Z",
  "news": [
   {
    "cat": "SPORTS247 NIGERIA",
@@ -32,24 +32,13 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "ZAMIN.UZ",
-   "title": "2030 World Cup Final: The Rivalry Between Spain and Morocco",
-   "iso": "2026-09-27T07:38:01.000Z",
-   "link": "https://zamin.uz/en/sport/222709-2030-world-cup-final-the-rivalry-between-spain-and-morocco.html",
-   "lede": "In the world of futsal and football, intense debates continue regarding the hosting of the 2030 World Cup. Although the Fédération Internationale de Football Association (FIFA) has awarded the right to host this prestigious tournament to a joint bid from three countries—Spain, Portugal, and Morocco—the question of which nation will host the most important match, the final, is causing serious controversy. Currently, a unique hidden rivalry is brewing between Madrid and Rabat. This is reported by Goal.com reports .",
-   "image": "https://zamin.uz/uploads/posts/2026-09/zamin_2030-yilgi-jahon-chempionati-finali-ispaniya-va-marokash-raq_20260927_124009_4278d05b.webp",
+   "cat": "THE NEW YORK TIMES",
+   "title": "AP Top 25: Florida surges into top 10; Oklahoma State, UCLA leap into rankings",
+   "iso": "2026-09-27T18:19:39.000Z",
+   "link": "https://www.nytimes.com/athletic/7635288/2026/09/27/ap-top-25-college-football-week-4/",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "Is Spain more deserving than Morocco to host the 2030 World Cup final? The facts prove otherwise",
-   "iso": "2026-09-27T07:30:01.000Z",
-   "link": "https://www.goal.com/en-gb/lists/is-spain-more-deserving-than-morocco-to-host-the-2030-world-cup-final-the-facts-prove-otherwise/blt8e5d70775a806f62",
-   "lede": "The growing racism seen in Spain's stadiums lately reopens the hot-button issue. A tug of war has broken out over who hosts the 2030 World Cup final between Spain and Morocco. The European nation insists the trophy must be lifted on its soil. Morocco, meanwhile, pitches itself as the stronger option on readiness, infrastructure and the image FIFA wants the tournament to carry.",
-   "image": "https://assets.goal.com/images/v3/blt896e3f54ad4df9d2/crop/MM5DCOBQHA5DCMBRG45G433XMU5DKOB2GA======/1920%201080.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
   },
   {
    "cat": "FRONT ROW SOCCER",
@@ -57,8 +46,8 @@
    "iso": "2026-09-27T16:58:38.000Z",
    "link": "https://www.frontrowsoccer.com/2026/09/27/cerebral-palsy-world-cup-for-men-women-in-fayetteville-ga-oct-14-24/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -66,14 +55,23 @@
    "iso": "2026-09-27T15:51:34.000Z",
    "link": "https://www.nytimes.com/athletic/7635677/2026/09/27/trump-presidents-cup-appearance/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Every college football Top 25 score and result from Week 4’s games - The Athletic",
    "iso": "2026-09-27T14:47:24.000Z",
    "link": "https://www.nytimes.com/athletic/7633874/2026/09/27/cfb-scores-results-week-4/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Fantasy football Week 3 intel: Injuries, last-minute roster moves and matchups to embrace",
+   "iso": "2026-09-27T12:39:29.000Z",
+   "link": "https://www.nytimes.com/athletic/7630727/2026/09/27/fantasy-football-week-3-intel-injuries-matchups/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
