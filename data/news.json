@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-26T23:40:10.012Z",
+ "updated": "2026-09-27T01:42:05.121Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "England embrace chaos - but Spain show it never claims big prizes",
+   "iso": "2026-09-26T22:39:52.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o",
+   "lede": "England captain Harry Kane missed a second-half penalty in the 3-2 defeat by Spain at Wembley. Thomas Tuchel talked about England having to \"embrace the chaos\" as they embarked on recovery from the crushing disappointment of World Cup semi-final defeat by Argentina. As England took those first steps on the road to rehabilitation against reigning world and European champions Spain in the Nations League at Wembley, head coach Tuchel learned the brutal lesson that chaos without control is a loser's strategy at elite level. Spain do control, not chaos.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c5a/live/3a5d71b0-b9f3-11f1-afb9-0ba46641015c.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "LIVESCORE",
    "title": "To pave the way for the World Cup final? Spain nominates the Bernabeu to host a major tournament",
@@ -8,18 +18,28 @@
    "link": "https://www.livescore.com/en/news/football/more/to-pave-the-way-for-the-world-cup-final-spain-nominates-the-bernabeu-to-host-a-major-tournament-goal/",
    "lede": "The dispute has recently escalated over hosting the 2030 World Cup final. Spain are to submit a bid to host the final stage of the UEFA Nations League, part of the Spanish Football Federation's drive to cement the country's standing as a host of major football competitions and events. Rafael Louzán, president of the Spanish Football Federation, confirmed the plan in the mixed zone at Wembley Stadium after Saturday evening's 3-2 win over England. His country would put forward its candidacy to host the semi-final and final, he said, with the Santiago Bernabéu in Madrid and the José Zorrilla in Valladolid named in the bid.",
    "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_3.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "GOAL.COM",
    "title": "In preparation for the World Cup final? Spain nominates the Bernabeu to host a major tournament",
-   "iso": "2026-09-26T22:12:09.000Z",
-   "link": "https://www.goal.com/en-za/news/in-preparation-for-the-world-cup-final-spain-nominates-the-bernabeu-to-host-a-major-tournament/blt073b369dae68d048",
+   "iso": "2026-09-26T22:14:54.000Z",
+   "link": "https://www.goal.com/en/news/in-preparation-for-the-world-cup-final-spain-nominates-the-bernabeu-to-host-a-major-tournament/blt073b369dae68d048",
    "lede": "Tensions have escalated recently over hosting the 2030 World Cup final. Spain will submit a bid to host the final stage of the UEFA Nations League, part of the Spanish Football Federation's drive to cement the country's status as a host of major football competitions and events. Rafael Louzán, president of the Spanish Football Federation, confirmed the plan in the mixed zone at Wembley Stadium after Saturday evening's 3-2 win over England. His country would bid to host the semi-final and final, he said, with the Santiago Bernabéu in Madrid and the José Zorrilla in Valladolid named in the proposal.",
    "image": "https://assets.goal.com/images/v3/getty-2297300077/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2297300077.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SUPERSPORT.COM",
+   "title": "England's best 'for a long time' despite Spain defeat, says Kane",
+   "iso": "2026-09-26T21:50:26.000Z",
+   "link": "https://supersport.com/football/news/3ebaf36f-f74f-4d79-825d-fc6fd4aad398/england-s-best-for-a-long-time-despite-spain-defeat-says-kane",
+   "lede": "England captain Harry Kane said that the Three Lions produced some of their best football for a long time despite losing 3-2 at home to world champions Spain in the Nations League on Friday. Thomas Tuchel's men got off to a disastrous start when Marc Guehi gifted Lamine Yamal the opening goal at Wembley. But England roared back to lead before half-time thanks to a brilliant counter-attack finished off by Anthony Gordon and Kane's header. Kane then hit the bar with a second half penalty that would have made it 3-1 before Spain roared back to extend their unbeaten run to 39 games through Alex Baena and Mikel Oyarzabal.",
+   "image": "https://images.supersport.com/media/51lpywir/harry-kane-ready-260613g-1920.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "WPEC",
@@ -28,18 +48,18 @@
    "link": "https://cbs12.com/news/nation-world/trump-heads-to-texas-tennessee-game-presidents-cup-this-weekend-sports-college-football-matchup-knoxville-tennessee-presidents-cup-2026-golf-competition-medinah-country-club-pga-tour-team",
    "lede": "College football fans greeted President Donald Trump with cheers as Air Force One soared over Neyland Stadium in Tennessee on Saturday. The Southeastern Conference matchup between the No. 14 Volunteers was one of the biggest games in the country this weekend, with Texas beating Tennessee 20-17. Trump visited the stadium to watch Texas quarterback Arch Manning play for the first time in the stadium where his uncle Peyton became famous.",
    "image": "https://cbs12.com/resources/media2/16x9/5598/1320/0x1/90/bf1f7de5-438c-4c1e-a75a-26098106d48c-GettyImages2297270538.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "THE GUARDIAN",
+   "cat": "THEGUARDIAN.COM",
    "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
    "iso": "2026-09-26T21:17:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
    "lede": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when they will begin to experience a future without the most potent get-out-of-jail-free card football has known. Messi’s international career falls into two distinct halves. There was the first decade when there was a sense that he didn’t quite fit, was somehow insufficiently Argentinian, didn’t care for his country.",
    "image": "https://i.guim.co.uk/img/media/2d93de81e37d386ed14a8a486fdb950354f958a4/683_82_2316_1852/master/2316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8247eda39d058fddea5288c4c27c29e6",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -48,34 +68,16 @@
    "link": "https://www.bbc.com/sport/football/articles/cmy0zz2ylr5no",
    "lede": "Alex Baena curled in Spain's second goal. England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - the Three Lions' first match since this summer's World Cup. Lamine Yamal gave Spain the lead before goals from Anthony Gordon and Harry Kane put England ahead. Kane then missed a penalty before Alex Baena curled in to level the score, with Mikel Oyarzabal scoring the winner.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc71/live/eeee61e0-b9e7-11f1-a7c8-cfea26a12219.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "UA.NEWS",
-   "title": "Ghana to face Angola, Colombia and Iraq at Amputee Football World Cup — MyJoyOnline",
-   "iso": "2026-09-26T19:30:10.000Z",
-   "link": "https://ua.news/en/sport/gana-zigraie-z-angoloiu-kolumbiieiu-ta-irakom-na-chs-z-ampfutbolu-myjoyonline",
-   "lede": "Ghana’s Black Challenge amputee football national team has been drawn into Group D of the 2026 WAFF World Cup in Mexico, where it will play against Angola, Colombia and Iraq. The draw took place in the Mexican city of San Juan de los Lagos, which will also host the tournament. As MyJoyOnline reports, the Ghanaian team will enter the competition as the reigning African champion and will seek to win its first world title. Ghana’s national team will compete in Group D alongside three opponents from Africa, South America and Asia.",
-   "image": "https://cdn-cabinet.ua.news/uploads/images/ghana_group_stage_2026_amputee_football_1790450804631.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "NYTIMES.COM",
-   "title": "Coming East Coast storm forces sports world to move, cancel events throughout region - The Athletic",
-   "iso": "2026-09-26T22:38:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7630236/noreaster-storm-sports-weather-impact-tracker/",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NYTIMES.COM",
-   "title": "USMNT beats Peru in first match since World Cup; How did Cavan Sullivan look in his debut?",
-   "iso": "2026-09-26T22:36:32.000Z",
-   "link": "https://www.nytimes.com/athletic/7633251/2026/09/26/usmnt-peru-friendly-score-takeaways-cavan-sullivan-ellis-pochettino/",
-   "lede": "",
+   "cat": "NBC SPORTS",
+   "title": "England 2-3 Spain: Baena leads World Cup champs to Nations League-opening win",
+   "iso": "2026-09-26T23:10:49.000Z",
+   "link": "https://www.nbcsports.com/soccer/news/how-to-watch-england-vs-spain-in-uefa-nations-league-live-stream-tv-team-news-prediction",
+   "lede": "Spain blew a second-minute lead but would not be bowed, as Alex Baena came off the bench to score and set up Mikel Oyarzabal's winner with a brilliant through ball in the second half.",
+   "image": "https://nbcsports.brightspotcdn.com/dims4/default/10e10b2/2147483647/strip/true/crop/4564x2567+0+144/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fce%2Fc1f2ba2b44b7b0c9c9f515af7e21%2F2296744126.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
