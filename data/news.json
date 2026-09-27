@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T01:42:05.121Z",
+ "updated": "2026-09-27T01:52:16.653Z",
  "news": [
   {
    "cat": "BBC",
@@ -72,12 +72,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NBC SPORTS",
-   "title": "England 2-3 Spain: Baena leads World Cup champs to Nations League-opening win",
-   "iso": "2026-09-26T23:10:49.000Z",
-   "link": "https://www.nbcsports.com/soccer/news/how-to-watch-england-vs-spain-in-uefa-nations-league-live-stream-tv-team-news-prediction",
-   "lede": "Spain blew a second-minute lead but would not be bowed, as Alex Baena came off the bench to score and set up Mikel Oyarzabal's winner with a brilliant through ball in the second half.",
-   "image": "https://nbcsports.brightspotcdn.com/dims4/default/10e10b2/2147483647/strip/true/crop/4564x2567+0+144/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fce%2Fc1f2ba2b44b7b0c9c9f515af7e21%2F2296744126.jpg",
+   "cat": "UA.NEWS",
+   "title": "Ghana to face Angola, Colombia and Iraq at Amputee Football World Cup — MyJoyOnline",
+   "iso": "2026-09-26T19:30:10.000Z",
+   "link": "https://ua.news/en/sport/gana-zigraie-z-angoloiu-kolumbiieiu-ta-irakom-na-chs-z-ampfutbolu-myjoyonline",
+   "lede": "Ghana’s Black Challenge amputee football national team has been drawn into Group D of the 2026 WAFF World Cup in Mexico, where it will play against Angola, Colombia and Iraq. The draw took place in the Mexican city of San Juan de los Lagos, which will also host the tournament. As MyJoyOnline reports, the Ghanaian team will enter the competition as the reigning African champion and will seek to win its first world title. Ghana’s national team will compete in Group D alongside three opponents from Africa, South America and Asia.",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/ghana_group_stage_2026_amputee_football_1790450804631.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
