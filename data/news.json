@@ -1,25 +1,65 @@
 {
- "updated": "2026-09-28T19:42:44.294Z",
+ "updated": "2026-09-28T23:32:44.530Z",
  "news": [
   {
-   "cat": "TIMESOFINDIA.INDIATIMES.COM",
+   "cat": "BBC",
+   "title": "Gianni Infantino: Fifa president indicates there could a greater cash pledge to members",
+   "iso": "2026-09-28T22:32:29.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c6n4k9exz4v3o",
+   "lede": "Gianni Infantino was first elected as Fifa president in 2016. Gianni Infantino has indicated a greater amount of money could be distributed to Fifa members from its estimated £4.4bn cash reserves. In a letter seen by BBC Sport, and sent to the governing body's six continental confederations on Monday, Fifa president Infantino said he would support \"the greatest level of additional funding that can responsibly be delivered\". Infantino has come under increasing pressure over his aborted Fifa Forward Enterprise (FFE) plan, which proposed selling stakes in the World Cup and other competitions to private investors, sparking a major backlash.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef71/live/e2976ac0-bb83-11f1-a7f1-45ae25eeed0b.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "FOOTBALL ITALIA",
+   "title": "Bastoni: ‘I am in debt with the Italian people, we hit rock bottom’",
+   "iso": "2026-09-28T21:13:01.000Z",
+   "link": "https://football-italia.net/bastoni-i-am-in-debt-with-the-italian-people/",
+   "lede": "Alessandro Bastoni admits he feels ‘in debt to the Italian people’ after the World Cup play-off red card, but hopes his goal against Turkiye can get them off ‘rock bottom.’ The Azzurri made eight changes from the side that lost 2-0 to Belgium on Friday, yet even that does not reflect the vast difference seen between these two performances. They ran out 4-1 winners in Turkiye with goals from Bastoni in his first international game since the red card in the World Cup play-off with Bosnia and Herzegovina, Frattesi, Kayode and Francesco Pio Esposito. Check the Football Italia Player Ratings for Turkiye 1-4 Italy.",
+   "image": "https://icdn.football-italia.net/wp-content/uploads/2026/09/Italy-celebrate-Bastoni.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FOOTBALLTODAY.COM",
+   "title": "Lewis Hall using World Cup disappointment as motivation after England recall",
+   "iso": "2026-09-28T21:08:48.000Z",
+   "link": "https://footballtoday.com/2026/09/28/lewis-hall-using-world-cup-disappointment-as-motivation-after-england-recall/",
+   "lede": "Lewis Hall has revealed that he is using the disappointment of missing the World Cup to fuel his attempt to establish himself in Thomas Tuchel’s England squad. The Newcastle United defender was overlooked for the tournament in the United States, Canada and Mexico, where England eventually finished third after beating France in the bronze-medal match. Hall has responded impressively at club level and was recalled by Tuchel for England’s opening Nations League fixtures of the new campaign. The 22-year-old admitted his World Cup omission hurt but believes channelling that frustration positively can help him force his way into Tuchel’s long-term plans.",
+   "image": "https://footballtoday.com/wp-content/uploads/2026/09/england-men-training-and-press-conference-2-1000x600.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Europe’s top-flight clubs to get share of £185m from Club World Cup",
+   "iso": "2026-09-28T20:55:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup",
+   "lede": "Europe dividing money 50-50 with rest of the world. Confirmation expected after Fifa meeting in October. Europe’s top-flight clubs will share half of the $250m (£185m) solidarity pot from the Club World Cup last year, ending a saga that had caused widespread frustration among those who did not participate in the tournament. Fifa and European Football Clubs (EFC) are close to an agreement that would bring a 50-50 split between sides in Europe and the rest of the world.",
+   "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c49e89be5fa8d9173a8e8ec5d7b9fde8",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE MIRROR",
+   "title": "Lewis Hall using World Cup snub as fuel to win England boss Thomas Tuchel over",
+   "iso": "2026-09-28T19:34:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/england-lewis-hall-thomas-tuchel-37712163",
+   "lede": "Lewis Hall says he is using the pain of World Cup rejection as fuel this season. The Newcastle left-back has started the campaign in great form for his club and that earned him an instant recall from Thomas Tuchel after he missed out in the summer. Hall has signed a new deal at Newcastle , looks in great shape and wants to make the England left-back slot his own. When asked whether the World Cup heartbreak as fuel, Hall said: “Yeah, I think it's important to use that.",
+   "image": "https://i2-prod.mirror.co.uk/article37712171.ece/ALTERNATES/s1200d/0_GettyImages-2297587079.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE TIMES OF INDIA",
    "title": "Cape Verde World Cup hero Vozinha has 28m followers, new club and Ballon d’Or nomination but now wants hi",
    "iso": "2026-09-28T16:56:00.000Z",
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/cape-verde-world-cup-hero-vozinha-has-28m-followers-new-club-and-ballon-dor-nomination-but-now-wants-his-old-life-back/articleshow/134546270.cms",
    "lede": "Six months ago, Vozinha was a goalkeeper playing in Portugal's second tier, living quietly in the small city of Chaves with little attention beyond Cape Verde. Then came seven saves against Spain at the World Cup, a million Instagram followers in a day and a level of fame he never expected. Now, with more than 28 million followers, he says he would choose his old life back.Seven saves against Spain changed Vozinha's lifeFor anyone who follows football, Vozinha is now one of the recognisable faces of Cape Verde's remarkable World Cup story.",
    "image": "https://static.toiimg.com/thumb/msid-134547121,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Europe’s top-flight clubs to get share of £185m from Club World Cup",
-   "iso": "2026-09-28T16:53:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup",
-   "lede": "Europe dividing money 50-50 with rest of the world. Confirmation expected after Fifa meeting in October. Europe’s top-flight clubs will share half of the $250m (£185m) solidarity pot from the Club World Cup last year, ending a saga that had caused widespread frustration among those who did not participate in the tournament. Fifa and European Football Clubs (EFC) are close to an agreement that would bring a 50-50 split between sides in Europe and the rest of the world.",
-   "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c49e89be5fa8d9173a8e8ec5d7b9fde8",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,56 +68,15 @@
    "link": "https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league",
    "lede": "Thomas Tuchel’s side had 36 touches in the Spain penalty area at Wembley but were given a lesson in taking chances. England dominated Spain to an extent very few teams have in recent years. Sadly for them, not in terms of goals. But ownership of the ball is less important than where on the pitch it occurs.",
    "image": "https://i.guim.co.uk/img/media/a198b2b68b4b8cddf0f255a9d35b2fd4355bb7ff/508_0_3683_2946/master/3683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4d2be32f5df73e856411beed9ca5f78",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "YAHOO CREATORS",
-   "title": "College football just found the perfect home for Norway’s viral World Cup Viking Row",
-   "iso": "2026-09-28T15:57:27.000Z",
-   "link": "https://creators.yahoo.com/lifestyle/story/college-football-just-found-the-perfect-home-for-norways-viral-world-cup-viking-row-180807494.html",
-   "lede": "Norway's Viking Row was one of the most viral fan traditions of the 2026 World Cup. Now, months later, the chant has officially made its way onto American college football fields. The University of Minnesota debuted its own version of the synchronized rowing chant at its season opener at Huntington Bank Stadium. In the stands, the student section sat shoulder-to-shoulder in rows, pulling imaginary oars in unison and mimicking the exaggerated motion Norwegian supporters made famous this past summer.",
-   "image": "https://s.yimg.com/lo/mysterio/api/4c924328fd3482b9ba8092df6eb5423e1960d99eef64f999ac78dcc96643f827/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnorway-viking-row-times-square-world-cup-2026_8758.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "HEAVY.COM",
-   "title": "Retired Soccer Stars Are Cashing In — Beckham’s $51M Payout Tops World Cup Prize",
-   "iso": "2026-09-28T15:44:07.000Z",
-   "link": "https://heavy.com/sports/soccer/retired-soccer-stars-beckham-51-million-payout/",
-   "lede": "Spain's World Cup triumph came with a $50 million prize from FIFA. David Beckham, who retired from professional soccer in 2013, recently collected a business payout worth roughly $51 million. The comparison isn't quite apples-to-apples, but it makes for one heck of a reminder of what retired soccer stars can build after their playing days are over. Retired Soccer Stars Are Turning Fame Into Fortunes Beckham's DRJB Holdings reported almost £50 million ($67 million) in pre-tax profit for 2025, up about 47%, while revenue climbed from £72.2 million to £84 million.",
-   "image": "https://heavy.com/wp-content/uploads/2026/09/GettyImages-2285625792-e1790610056999.jpg?quality=65&strip=all",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LA GAZZETTA DELLO SPORT",
-   "title": "Spain's Eight Crowns: Football Dominance from Senior to Youth Teams",
-   "iso": "2026-09-28T14:48:01.000Z",
-   "link": "https://www.gazzetta.it/en/football/national-teams/28-09-2026/spain-dominates-world-football-8-titles-across-men-s-women-s-and-youth-national-teams_amp.shtml",
-   "lede": "Following the women's Under-20 World Cup triumph in Poland on Sunday, Spain now boasts eight crowns across its men's, women's, boys', and girls' teams. Eight prestigious titles to defend in the coming seasons. Here's the full list, starting with the trophy that kicked off this remarkable run. We begin, of course, with the recently conquered men's World Cup, which completed a historic double alongside their 2024 European Championship success.",
-   "image": "https://www.gazzetta.it/images/default.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GHANA FOOTBALL ASSOCIATION",
-   "title": "Ghana's Black Challenge drawn in Group D for 2026 WAFF Amputee Football World Cup",
-   "iso": "2026-09-28T14:14:58.000Z",
-   "link": "https://www.ghanafa.org/ghanas-black-challenge-drawn-in-group-d-for-2026-waff-amputee-football-world-cup",
-   "lede": "Ghana’s national amputee football team, the Black Challenge, have been drawn in Group D of the 2026 WAFF Amputee Football World Cup, where they will face Angola, Colombia and Iraq in the global championship in Mexico. The tournament is scheduled for 13–22 November 2026 in San Juan de los Lagos, Mexico, and will bring together 24 national teams from Africa, Asia, Europe and the Americas. The Group D draw brings together teams from three continents and sets up a significant test for the reigning African champions. Ghana will meet fellow African representatives Angola, alongside Colombia from South America and Iraq from Asia.",
-   "image": "https://cdn.ghanafa.org/2026/09/image0-2026-09-28T114058.083-2-610x400.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TNT SPORTS",
-   "title": "Vozinha on 'unthinkable' Ballon d’Or, admits losing ‘peace’ after World Cup fame",
-   "iso": "2026-09-28T18:08:00.000Z",
-   "link": "https://www.tntsports.co.uk/football/ballon-d-or/2026/vozinha-nomination-best-goalkeeper-world-cup-fame-peace-tranquillity-cabo-verde-colo-colo_sto23341114/story.shtml",
-   "lede": "Vozinha enjoyed a breakout 2026 World Cup with Cabo Verde but he admits that the fame that he has received afterwards has not always been positive.",
-   "image": "https://imgresizer.tntsports.io/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.tntsports.io/2026/09/28/image-aa99a63b-455d-409b-9199-aa5ca6f5c5a1-85-2560-1440.jpeg",
+   "cat": "ESPN",
+   "title": "Will anyone stop Infantino? FIFA president is confident U20 World Cup cameo says otherwise",
+   "iso": "2026-09-28T23:15:00.000Z",
+   "link": "https://www.espn.com.au/football/story/_/id/50045992/gianni-infantino-fifa-president-scandal-u20-world-cup-uefa-victor-montigliani",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
