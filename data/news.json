@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-27T23:49:15.687Z",
+ "updated": "2026-09-28T00:00:08.774Z",
  "news": [
   {
-   "cat": "SKYSPORTS.COM",
+   "cat": "SKY SPORTS",
    "title": "England 2-3 Spain: World champions win at Wembley in Nations League despite Anthony Gordon and Harry Kane goals",
    "iso": "2026-09-27T21:20:46.000Z",
    "link": "https://www.skysports.com/football/news/13591676/england-2-3-spain-world-champions-win-at-wembley-in-nations-league-despite-anthony-gordon-and-harry-kane-goals",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "SPORTS247.NG",
-   "title": "Flamingos Get Very Strong Tip To Excel At 2026 FIFA U17 Women’s World Cup",
-   "iso": "2026-09-27T14:02:51.000Z",
-   "link": "https://www.sports247.ng/flamingos-get-very-strong-tip-to-excel-at-2026-fifa-u17-womens-world-cup/",
-   "lede": "Nigeria’s cadet female national team, Flamingos have received a very strong tip to excel next month at the 2026 FIFA Women’s U17 World Cup, based on their amazing form at West African Football Union (WAFU)-B competition in Cote d’Ivoire. READ ALSO: Flamingos Fly To Glory! Nigeria Sweep WAFU-B U17 Girls Cup With Five Straight Wins. Sports247 reports that Coach Hakeem Busari’s side ended the competition with a 4-0 trouncing of Togo to complete a clean sweep of five straight victories that gave them top spot on the round robin table, much to the delight of Nigeria Football Federation (NFF) officials.",
-   "image": "https://www.sports247.ng/wp-content/uploads/2026/09/IMG-20260927-WA0211.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "BBC",
    "title": "Cavan Sullivan: The 16-year-old US debutant primed for the Premier League",
    "iso": "2026-09-27T11:14:29.000Z",
    "link": "https://www.bbc.com/sport/football/articles/c6vgyy4v938no",
    "lede": "Cavan Sullivan made his MLS debut at the age of 14. With a little over a year to go before he can officially join Manchester City, United States wonderkid Cavan Sullivan has taken his next step towards the big time. At 16 years and 363 days, the Philadelphia Union midfielder became the fourth youngest player to play for the USA - starting Saturday's 4-1 friendly win over Peru. Ever since City moved to secure the future signing of a then 14-year-old Sullivan back in 2024, there has been plenty of intrigue around his progress, and hype to go with it.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aadd/live/78d000e0-ba00-11f1-8520-ed16c173ce21.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -57,17 +47,17 @@
    "iso": "2026-09-27T18:48:06.000Z",
    "link": "https://www.nytimes.com/athletic/7632339/2026/09/27/manchester-city-premier-league-115-what-next/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "AP Top 25: Florida surges into top 10; Oklahoma State, UCLA leap into college football rankings - The Athletic",
+   "title": "AP Top 25: Florida surges into top 10; Oklahoma State, UCLA leap into college football rankings",
    "iso": "2026-09-27T18:46:21.000Z",
    "link": "https://www.nytimes.com/athletic/7635288/2026/09/27/ap-top-25-college-football-week-4/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -76,6 +66,15 @@
    "link": "https://sports.yahoo.com/articles/totti-2006-world-cup-win-183500353.html",
    "lede": "Francesco Totti believes the 2006 World Cup is what lifted him beyond being a purely Roman figure, and he has no doubt about the part he played in it.Speaking to Corriere dello Sport for his 50th birt... Francesco Totti believes the 2006 World Cup is what lifted him beyond being a purely Roman figure, and he has no doubt about the part he played in it.Speakin...",
    "image": "https://s.yimg.com/lo/mysterio/api/98a2b6a6f454f891120b309d937dea82da5e9183297542dbb071b482df0b354a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F713dd26ec0bc59ef32f10a4d8273c39c.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "FRONT ROW SOCCER",
+   "title": "CEREBRAL PALSY WORLD CUP: For men, women in Fayetteville, Ga. Oct. 14-24",
+   "iso": "2026-09-27T16:58:38.000Z",
+   "link": "https://www.frontrowsoccer.com/2026/09/27/cerebral-palsy-world-cup-for-men-women-in-fayetteville-ga-oct-14-24/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
