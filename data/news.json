@@ -1,25 +1,15 @@
 {
- "updated": "2026-09-28T23:58:11.672Z",
+ "updated": "2026-09-29T02:45:38.040Z",
  "news": [
   {
    "cat": "BBC",
    "title": "Gianni Infantino: Fifa president indicates there could a greater cash pledge to members",
    "iso": "2026-09-28T22:32:29.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c6n4k9exz4v3o",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o",
    "lede": "Gianni Infantino was first elected as Fifa president in 2016. Gianni Infantino has indicated a greater amount of money could be distributed to Fifa members from its estimated £4.4bn cash reserves. In a letter seen by BBC Sport, and sent to the governing body's six continental confederations on Monday, Fifa president Infantino said he would support \"the greatest level of additional funding that can responsibly be delivered\". Infantino has come under increasing pressure over his aborted Fifa Forward Enterprise (FFE) plan, which proposed selling stakes in the World Cup and other competitions to private investors, sparking a major backlash.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef71/live/e2976ac0-bb83-11f1-a7f1-45ae25eeed0b.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
-  },
-  {
-   "cat": "FOOTBALL ITALIA",
-   "title": "Bastoni: ‘I am in debt with the Italian people, we hit rock bottom’",
-   "iso": "2026-09-28T21:13:01.000Z",
-   "link": "https://football-italia.net/bastoni-i-am-in-debt-with-the-italian-people/",
-   "lede": "Alessandro Bastoni admits he feels ‘in debt to the Italian people’ after the World Cup play-off red card, but hopes his goal against Turkiye can get them off ‘rock bottom.’ The Azzurri made eight changes from the side that lost 2-0 to Belgium on Friday, yet even that does not reflect the vast difference seen between these two performances. They ran out 4-1 winners in Turkiye with goals from Bastoni in his first international game since the red card in the World Cup play-off with Bosnia and Herzegovina, Frattesi, Kayode and Francesco Pio Esposito. Check the Football Italia Player Ratings for Turkiye 1-4 Italy.",
-   "image": "https://icdn.football-italia.net/wp-content/uploads/2026/09/Italy-celebrate-Bastoni.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
   },
   {
    "cat": "FOOTBALLTODAY.COM",
@@ -28,8 +18,8 @@
    "link": "https://footballtoday.com/2026/09/28/lewis-hall-using-world-cup-disappointment-as-motivation-after-england-recall/",
    "lede": "Lewis Hall has revealed that he is using the disappointment of missing the World Cup to fuel his attempt to establish himself in Thomas Tuchel’s England squad. The Newcastle United defender was overlooked for the tournament in the United States, Canada and Mexico, where England eventually finished third after beating France in the bronze-medal match. Hall has responded impressively at club level and was recalled by Tuchel for England’s opening Nations League fixtures of the new campaign. The 22-year-old admitted his World Cup omission hurt but believes channelling that frustration positively can help him force his way into Tuchel’s long-term plans.",
    "image": "https://footballtoday.com/wp-content/uploads/2026/09/england-men-training-and-press-conference-2-1000x600.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -38,8 +28,8 @@
    "link": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup",
    "lede": "Europe dividing money 50-50 with rest of the world. Confirmation expected after Fifa meeting in October. Europe’s top-flight clubs will share half of the $250m (£185m) solidarity pot from the Club World Cup last year, ending a saga that had caused widespread frustration among those who did not participate in the tournament. Fifa and European Football Clubs (EFC) are close to an agreement that would bring a 50-50 split between sides in Europe and the rest of the world.",
    "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c49e89be5fa8d9173a8e8ec5d7b9fde8",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE MIRROR",
@@ -48,26 +38,35 @@
    "link": "https://www.mirror.co.uk/sport/football/news/england-lewis-hall-thomas-tuchel-37712163",
    "lede": "Lewis Hall says he is using the pain of World Cup rejection as fuel this season. The Newcastle left-back has started the campaign in great form for his club and that earned him an instant recall from Thomas Tuchel after he missed out in the summer. Hall has signed a new deal at Newcastle , looks in great shape and wants to make the England left-back slot his own. When asked whether the World Cup heartbreak as fuel, Hall said: “Yeah, I think it's important to use that.",
    "image": "https://i2-prod.mirror.co.uk/article37712171.ece/ALTERNATES/s1200d/0_GettyImages-2297587079.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Ranking college football’s top 10 Group of 6 quarterbacks after 4 weeks",
+   "iso": "2026-09-28T23:57:54.000Z",
+   "link": "https://www.nytimes.com/athletic/7638090/2026/09/28/colllege-football-quarterbacks-group-six/",
+   "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "TIMESOFINDIA.INDIATIMES.COM",
-   "title": "Cape Verde World Cup hero Vozinha has 28m followers, new club and Ballon d’Or nomination but now wants hi",
-   "iso": "2026-09-28T16:56:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/cape-verde-world-cup-hero-vozinha-has-28m-followers-new-club-and-ballon-dor-nomination-but-now-wants-his-old-life-back/articleshow/134546270.cms",
-   "lede": "Six months ago, Vozinha was a goalkeeper playing in Portugal's second tier, living quietly in the small city of Chaves with little attention beyond Cape Verde. Then came seven saves against Spain at the World Cup, a million Instagram followers in a day and a level of fame he never expected. Now, with more than 28 million followers, he says he would choose his old life back.Seven saves against Spain changed Vozinha's lifeFor anyone who follows football, Vozinha is now one of the recognisable faces of Cape Verde's remarkable World Cup story.",
-   "image": "https://static.toiimg.com/thumb/msid-134547121,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "cat": "OCEANIAFOOTBALL.COM",
+   "title": "Voices of Oceania | Sunil Kumar: The Coach Behind Fiji’s Golden Generation",
+   "iso": "2026-09-28T23:38:08.000Z",
+   "link": "https://www.oceaniafootball.com/sunil-kumar-the-coach-behind-fijis-golden-generation/",
+   "lede": "Three consecutive FIFA U-17 World Cup™ qualifications have placed Sunil Kumar at the heart of one of the most successful periods in Fiji’s youth football history. The Head Coach of the Fiji U-16 and U… Three consecutive FIFA U-17 World Cup™ qualifications have placed Sunil Kumar at the heart of one of the most successful periods in Fiji’s youth football…",
+   "image": "https://i0.wp.com/www.oceaniafootball.com/cms/wp-content/uploads/2026/09/250827pt115.jpg?fit=2560%2C1708&ssl=1",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Data shows England made inroads against Spain but they must be more clinical | Andrew Beasley",
-   "iso": "2026-09-28T16:39:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/28/england-spain-penalty-box-touches-nations-league",
-   "lede": "Thomas Tuchel’s side had 36 touches in the Spain penalty area at Wembley but were given a lesson in taking chances. England dominated Spain to an extent very few teams have in recent years. Sadly for them, not in terms of goals. But ownership of the ball is less important than where on the pitch it occurs.",
-   "image": "https://i.guim.co.uk/img/media/a198b2b68b4b8cddf0f255a9d35b2fd4355bb7ff/508_0_3683_2946/master/3683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4d2be32f5df73e856411beed9ca5f78",
+   "cat": "CAPE TIMES",
+   "title": "Ruud Gullit says South Africa and emerging nations have closed the gap on football's elite",
+   "iso": "2026-09-28T23:15:12.000Z",
+   "link": "https://capetimes.co.za/sport/soccer/2026-09-28-ruud-gullit-says-south-africa-and-emerging-nations-have-closed-the-gap-on-footballs-elite/",
+   "lede": "Dutch legend Ruud Gullit praised Bafana Bafana's historic World Cup run, highlighting how rising physical conditioning and defensive structure across smaller nations are making international football tougher for established powerhouses like France and Spain.",
+   "image": "https://iol-prod.appspot.com/image/9108dd176d12bb73f1ad4f74bdac697731986b36/533/jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
