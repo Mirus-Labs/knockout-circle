@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-30T19:28:18.049Z",
+ "updated": "2026-09-30T21:22:10.498Z",
  "news": [
   {
-   "cat": "NZ HERALD",
-   "title": "All Whites captain coy on Fifa World Cup verdict, ahead of NZ football review",
-   "iso": "2026-09-30T19:07:30.000Z",
-   "link": "https://www.nzherald.co.nz/sport/football/all-whites-why-chris-wood-still-feels-pain-of-new-zealands-fifa-world-cup-exit/IB47O32IOBCB5CEFUR72LANXIA/",
-   "lede": "Three months on from the All Whites’ Fifa World Cup exit, captain Chris Wood is still yet to fully get over the pain. That was the obvious conclusion from his interview with New Zealand media on Wednesday night, soon after he joined the team in Japan for the Kirin Cup, especially with a succinct eight-word summary. “We know we left a lot out there,” Wood said when asked for his initial reflection on the tournament. The last time we had seen Wood was in the depths of BC Place Stadium in Vancouver, after the All Whites’ 5-1 defeat to Belgium on June 27.",
-   "image": "https://www.nzherald.co.nz/resizer/v2/DIX4ZCR6RFGDPBNJVDNBXWEWJA.jpg?auth=cb8f61b7c118b3a652a0142e4b4dcc1be540a548f1f2fd106aeb17c1a586dc65&width=1200&height=675&quality=70&smart=true",
+   "cat": "GOAL.COM",
+   "title": "A volcanic revolution that burned the giants: how did Spain dominate world football over a quarter of a century?",
+   "iso": "2026-09-30T19:44:51.000Z",
+   "link": "https://www.goal.com/en-in/news/a-volcanic-revolution-that-burned-the-giants-how-did-spain-dominate-world-football-over-a-quarter-of-a-century/blt2eeec8cf8088f138",
+   "lede": "Spanish football has seized the global throne on all fronts. Until the end of the twentieth century, the Spanish national team's trophy cabinet contained only a single European title, in 1964. Its best achievement at the World Cup was fourth place in 1950, a ranking that remained Spain's highest at the tournament until 2010. Fast forward a quarter of a century, and Spain sit on the throne of world football, still shining at European level in the Nations League after a summer that crowned \"La Roja\" with a second World Cup title.",
+   "image": "https://assets.goal.com/images/v3/getty-2297257787/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DAORSGYYA====/GettyImages-2297257787.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
-   "cat": "THEGUARDIAN.COM",
+   "cat": "NZHERALD.CO.NZ",
+   "title": "All Whites captain coy on Fifa World Cup verdict, ahead of NZ football review",
+   "iso": "2026-09-30T18:22:00.000Z",
+   "link": "https://www.nzherald.co.nz/sport/football/all-whites-why-chris-wood-still-feels-pain-of-new-zealands-fifa-world-cup-exit/IB47O32IOBCB5CEFUR72LANXIA/",
+   "lede": "Three months on from the All Whites’ Fifa World Cup exit, captain Chris Wood is still yet to fully get over the pain. That was the obvious conclusion from his interview with New Zealand media on Wednesday night, soon after he joined the team in Japan for the Kirin Cup, especially with a succinct eight-word summary. “We know we left a lot out there,” Wood said when asked for his initial reflection on the tournament. The last time we had seen Wood was in the depths of BC Place Stadium in Vancouver, after the All Whites’ 5-1 defeat to Belgium on June 27.",
+   "image": "https://www.nzherald.co.nz/resizer/v2/DIX4ZCR6RFGDPBNJVDNBXWEWJA.jpg?auth=cb8f61b7c118b3a652a0142e4b4dcc1be540a548f1f2fd106aeb17c1a586dc65&width=1200&height=675&quality=70&smart=true",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
    "title": "Dropping Kelly and Toone could prove a World Cup masterstroke by Wiegman | Tom Garry",
    "iso": "2026-09-30T17:54:00.000Z",
    "link": "https://www.theguardian.com/football/2026/sep/30/dropping-toone-and-kelly-world-cup-masterstroke-wiegman",
    "lede": "England’s coach has given a wake-up call to her whole squad by leaving out two heroes of 2022 and 2025. Sarina Wiegman sent a clear message to two of England’s biggest names on Tuesday and – in doing so, irrespective of reputations – fired the same warning to every player: perform for your club or you will not go to the World Cup. Wiegman was unequivocal with her reasoning for leaving Ella Toone and Chloe Kelly out of her squad for October’s playoff against Greece. Her straight-to-the-point and typically honest style made it inescapably clear, when she said: “The main reason is that I think the levels weren’t what I expect from them on the pitch.”",
    "image": "https://i.guim.co.uk/img/media/ef4de43411e6b25db79ded4db733554a27279c84/0_161_5308_4246/master/5308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95f7bec5e8afd70511cd64f1b416eb91",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LIVESCORE",
@@ -38,44 +48,33 @@
    "link": "https://www.livescore.com/en/news/football/premier-league/world-cup-winner-wishes-he-could-have-liverpool-star-incredible-anfieldwatch/",
    "lede": "Spain's World Cup-winning head coach Luis de la Fuente wishes he could have one Liverpool star. He's far from alone in that.Liverpool have not been at the top of their game for the last year and a bit. Far from it, in fact, as we've watched a title-winning team degrade into one that just doesn't quite work.Go back to early 2025 and every club in the world wanted several Liverpool stars. Alisson Becker, Virgil van Dijk, Trent Alexander-Arnold, Alexis Mac Allister, Ryan Gravenberch and, above all, Mohamed Salah were all arguably the best in the world in their respective positions.Last season?",
    "image": "https://staticcdn.anfieldwatch.co.uk/images/cf/026cf795-aab7-4bde-b4e2-49bbf326064c-1781006020/q=auto,f=auto,fit=contain,w=1200,h=800",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "SPORTSTAR.THEHINDU.COM",
+   "cat": "SPORTSTAR",
    "title": "Vikash Dhorasoo: Hope many more players of Indian origin come through in football",
    "iso": "2026-09-30T16:26:34.000Z",
    "link": "https://sportstar.thehindu.com/football/indian-football/vikash-dhorasoo-interview-indian-football-growth-dual-citizenship-ind-vs-brazil-match/article71529816.ece",
    "lede": "PTI PTI https://ss-i.thgim.com/public/incoming/xzcfae/article71529925.ece/alternates/FREE_1200/IND0483B_B-83__DEL-040417_.jpg B-83, DEL-040417, APRIL 04, 2009: New Delhi: French legendary footballer Vikash Dhorasoo during the launch of 'DSC Soccer Baalak ki Khoj', a soccer talent search initiative for underprivileged children, in New Delhi on Saturday. PTI Photo by Manvender Vashist *** Local Caption *** Vikash Dhorasoo advocates Indian football growth, dual citizenship for athletes, and mentoring India’s talent to reach global stages. CHENNAI When Vikash Dhorasoo played for the French national team at the 2006 FIFA World Cup, there were very few people who believed that an Indian could excel on football’s world stage. Ever since Dhorasoo made his debut for Les Bleus, the belief has grown that Indian footballers can do well at the world level.",
    "image": "https://ss-i.thgim.com/public/incoming/xzcfae/article71529925.ece/alternates/LANDSCAPE_1200/IND0483B_B-83__DEL-040417_.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "HINDUSTAN TIMES",
-   "title": "Football: Uruguay reach Kolkata, Brazil due on Thursday | Football News",
-   "iso": "2026-09-30T15:36:43.000Z",
-   "link": "https://www.hindustantimes.com/sports/football/football-uruguay-reach-kolkata-brazil-due-on-thursday-101790782603522.html",
-   "lede": "Fresh from their 4-1 win against South Korea, Uruguay arrived here on Monday evening for next week’s football friendly against India. A group of players also got a feel of the conditions at Salt Lake stadium where they will play India on October 6. With five-time world champions Brazil due to check in on Thursday, the city will, for the first time, host teams who have won the World Cup multiple times. Winners of the 1930 and 1950 World Cup, Uruguay are ranked 20th in the world.Coached by Diego Forlan, who replaced Marcelo Bielsa after a disappointing World Cup, Uruguay are here without skipper Federico Valverde.",
-   "image": "https://www.hindustantimes.com/ht-img/img/2026/09/30/1600x900/logo/Winners-of-the-1930-and-950-World-Cup--Uruguay-are_1790784521273_SoVb.jpeg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
-  },
-  {
-   "cat": "REDIFF",
-   "title": "Former France Star Vikash Dhorasoo Believes India Can Reach FIFA World Cup",
-   "iso": "2026-09-30T14:15:44.000Z",
-   "link": "https://www.rediff.com/sports/report/vikash-dhorasoo-india-brazil-match-a-new-story-for-indian-football/20260930.htm",
-   "lede": "Vikash Dhorasoo, the first Indian-origin player in a FIFA World Cup, expresses strong belief in India's potential to reach football's biggest stage. Visiting India for a friendly match against Brazil, Dhorasoo highlights the importance of method, clear objectives, and leveraging players of Indian origin to elevate the national team's level. He also offers his coaching expertise to help develop young talent in India.",
-   "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Cristiano Ronaldo leaves Portugal camp after ‘crisis’ meeting",
    "iso": "2026-09-30T19:10:57.000Z",
    "link": "https://www.nytimes.com/athletic/7646813/2026/09/30/cristiano-ronaldo-leaves-portugal-camp/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "247SPORTS.COM",
+   "title": "Listen: Talking Ohio State football, Sorsby, World Cup, NBA Finals, more (Biddle & Scotty Vegas on The Fan)",
+   "iso": "2026-09-30T19:00:36.000Z",
+   "link": "https://247sports.com/article/ohio-state-football-talking-buckeyes-sorsby-world-cup-nba-finals-more-dave-biddle-scotty-vegas-on-the-fan-287690533/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
