@@ -1,6 +1,16 @@
 {
- "updated": "2026-09-30T00:12:03.191Z",
+ "updated": "2026-09-30T01:38:03.732Z",
  "news": [
+  {
+   "cat": "ONEFOOTBALL",
+   "title": "Tim Ream, USMNT World Cup captain, retires from international football",
+   "iso": "2026-09-30T01:21:05.000Z",
+   "link": "https://onefootball.com/en/news/tim-ream-usmnt-world-cup-captain-retires-from-international-football-43539193",
+   "lede": "Tim Ream announces USMNT retirement after 2026 World Cup. USMNT youngsters bring \"contagious\" energy to Chile test. Ainhoa Marín called up by Spain, Real Sociedad forward among new faces for United States friendlies. Two dominant stars still waiting for first appearances under Carrick, they can turn United into a real force.",
+   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43539193%3Fdate=2026-09-30",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
@@ -8,8 +18,8 @@
    "link": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
    "lede": "Teenager scores twice in 4-1 win to boost Ballon d’Or case. Slovenia beat North Macedonia; Faroe Islands hold Moldova. Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup. Lamine Yamal had opened the scoring within two minutes against England in Saturday’s Wembley win and took just 75 seconds to do so against Slaven Bilic’s side in Andalusia.",
    "image": "https://i.guim.co.uk/img/media/29705b8b0897d299a3e38f966ec8451596da100a/149_0_4759_3807/master/4759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=143f83e2a204d8418e8532e89561bb12",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "FOX SPORTS",
@@ -18,16 +28,6 @@
    "link": "https://www.foxsports.com.au/football/football-news-2026-socceroos-lose-42-to-brazil-in-front-of-record-crowd-at-brisbanes-suncorp-stadium-why-australia-can-win-the-asian-cup-talking-points-latest-news-video-highlights/news-story/bc2c40b4a4289427129600432f9b5cc8",
    "lede": "In a strange twist of fate, a draw and a loss against Brazil have shown the Socceroos are perfectly placed for a tilt at a second Asian Cup title in January. Australia might have lost the second showdown against the South American giants 4-2 in Brisbane, but the match showed more was right within the Australian set-up than wrong. The side’s confident, front-footed use of the ball across the two games sent a message that Australia is ready to take on the best in the world again, instead of just soaking up pressure against them. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail.",
    "image": "https://content.api.news/v3/images/bin/dd215225c0b26d59b00436800c1af4c4",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "GULF NEWS",
-   "title": "Rare scenes as a draw decided Gulf Cup 27 semifinalists between Oman and Iraq",
-   "iso": "2026-09-29T21:09:57.000Z",
-   "link": "https://gulfnews.com/sport/rare-scenes-as-a-draw-decided-gulf-cup-27-semifinalists-between-oman-and-iraq-1.500692783",
-   "lede": "Dubai: Saudi Arabia booked their place in the Gulf Cup 27 semi-finals as Group One winners, but they had to wait for a draw to discover their fellow last-four team after an extraordinary finish to the group stage.The hosts beat Iraq 2-0 at the Alinma Stadium in Jeddah on Tuesday to finish Group A top with nine points. At the same time, Oman fought back from a goal down to beat Kuwait 3-1, leaving Oman and Iraq level on four points in the same group.The situation became complicated because the two teams were level on the relevant qualification criteria. Both had drawn 1-1 in their opening game, while the results of the final round left them level on points and goal difference.",
-   "image": "https://media.assettype.com/gulfnews%2F2026-09-29%2Flaark8js%2FOman-National-Football-Team?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,31 +52,31 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "SPORTSTAR",
-   "title": "La Liga chief Tebas says Balogun red card case the ‘most serious incident’ in football history",
-   "iso": "2026-09-29T18:03:59.000Z",
-   "link": "https://sportstar.thehindu.com/football/javier-tebas-folarin-balogun-red-card-most-serious-incident-fifa-trump-infantino/article71525563.ece",
-   "lede": "AP AP https://ss-i.thgim.com/public/incoming/rc60f7/article71525556.ece/alternates/FREE_1200/Belgium_US_WCup_Soccer_35_71.jpg Ted S. Warren United States' Folarin Balogun (20) walks off the pitch after losing to Belgium in their World Cup round of 16 soccer match in Seattle, Monday, July 6, 2026. Warren) Javier Tebas used the Folarin Balogun incident to prove how football’s governing bodies are not paying heed to the the clubs, the domestic leagues and player unions. Chennai La Liga president Javier Tebas has described the suspension of U.S. men’s national team player Folarin Balogun’s red card at FIFA World Cup 2026 as “the most serious incident in the history of football.”",
-   "image": "https://ss-i.thgim.com/public/incoming/rc60f7/article71525556.ece/alternates/LANDSCAPE_1200/Belgium_US_WCup_Soccer_35_71.jpg",
+   "cat": "DAILY STAR",
+   "title": "Thomas Tuchel corrects dreadful World Cup mistake as England beat Czech Republic",
+   "iso": "2026-09-29T20:44:22.000Z",
+   "link": "https://www.dailystar.co.uk/sport/football/breaking-england-tuchel-czech-republic-37716272",
+   "lede": "England were good value in Prague as they picked up their first win of the Nations League against the Czech Republic. Anthony Gordon and Harry Kane scored in the second-half as the Three Lions beat the 10-men 2-0 to get their first points on the board of the Nations League campaign. England dominated proceedings for the large part as the hosts failed to show any signs of attacking threat after a 25th minute red card. England fell to defeat against the world and European champions Spain on Saturday as three individual errors shaped the game in the way of the visitors in their opening Nations League game.",
+   "image": "https://i2-prod.dailystar.co.uk/article37716392.ece/ALTERNATES/s1200d/1_Czechia-v-England-UEFA-Nations-League-202627-Group-A3-MD2.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NST.COM.MY",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Tim Ream, USMNT World Cup captain, announces retirement from international soccer",
+   "iso": "2026-09-30T00:13:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7644580/2026/09/29/tim-ream-usmnt-retirement/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "NST ONLINE",
    "title": "Yamal inspires Spain to Croatia romp on World Cup homecoming",
    "iso": "2026-09-29T23:40:34.000Z",
    "link": "https://www.nst.com.my/sports/football/2026/09/1544319/yamal-inspires-spain-croatia-romp-world-cup-homecoming",
    "lede": "SEVILLE: Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup.",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/DF3C4E5BB2899813EFF1FA3C746C0D9C_data.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Aleksander Ceferin reinforces calls for FIFA president change: ‘It is time to say enough’",
-   "iso": "2026-09-29T22:50:47.000Z",
-   "link": "https://www.nytimes.com/athletic/7644344/2026/09/29/infantino-fifa-president-ceferin-feud/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
