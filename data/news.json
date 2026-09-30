@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T11:22:56.466Z",
+ "updated": "2026-09-30T14:15:27.147Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "BBC",
+   "title": "Northern Ireland: Jess Kelmore one of five new call-ups for World Cup play-off",
+   "iso": "2026-09-30T08:54:26.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cj3v4gy5ek7qo",
+   "lede": "Kess Elmore came through the youth system at Liverpool and has played the majority of her senior career in Europe. Sparta Prague forward Kess Elmore is a surprise first call-up for Northern Ireland's 2027 Women's World Cup play-off with Portugal. Elmore, 27, is a former England youth international and is one of five new call-ups in Michael McArdle's squad. Galway United full back Lucy-Jayne Grant is included for the first time, as are the Irish Premiership trio Naomi McLaughlin, Jane McMaster and Charlotte Havern.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8eec/live/28680050-bcab-11f1-a3e9-bbda6f9b9e25.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "SPORTSTAR",
    "title": "PSG president Al-Khelaïfi says he won’t be candidate in FIFA presidential election",
    "iso": "2026-09-30T08:41:03.000Z",
-   "link": "https://sportstar.thehindu.com/football/psg-president-nasser-al-khelaifi-not-running-fifa-presidential-election/article71527428.ece/amp/",
+   "link": "https://sportstar.thehindu.com/football/psg-president-nasser-al-khelaifi-not-running-fifa-presidential-election/article71527428.ece",
    "lede": "REUTERS REUTERS https://ss-i.thgim.com/public/incoming/o3gczt/article71527590.ece/alternates/FREE_1200/2026-09-29T191133Z_967795854_RC22TNAFPPN7_RTRMADP_3_SOCCER-CLUBS.JPG TOM LITTLE European Football Clubs chairman Nasser Al-Khelaifi speaks at the EFC General Assembly in Copenhagen, Denmark, September 29, 2026. REUTERS/Tom Little Geneva Al-Khelaïfi also is chairman of the influential European Football Clubs group and so sits on the executive committee of UEFA, which is leading efforts to oust Infantino after his failed plan to sell stakes in future World Cup profits to private investors. European football’s search for a candidate to challenge Gianni Infantino in the FIFA presidential election will not land on clubs’ leader Nasser Al-Khelaïfi, the Paris Saint-Germain boss insisted Tuesday.",
-   "image": "https://ss-i.thgim.com/public/incoming/o3gczt/article71527590.ece/alternates/FREE_1200/2026-09-29T191133Z_967795854_RC22TNAFPPN7_RTRMADP_3_SOCCER-CLUBS.JPG",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "image": "https://ss-i.thgim.com/public/incoming/o3gczt/article71527590.ece/alternates/LANDSCAPE_1200/2026-09-29T191133Z_967795854_RC22TNAFPPN7_RTRMADP_3_SOCCER-CLUBS.JPG",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "LIVESCORE",
@@ -27,9 +37,9 @@
    "iso": "2026-09-30T07:34:30.000Z",
    "link": "https://www.livescore.com/en/news/football/more/unfortunately-he-does-not-have-a-spanish-passport-world-cup-winning-coach-luis-de-la-fuente-raves-about-a-germany-international-goal/",
    "lede": "Spain coach Luis de la Fuente (65) believes Jürgen Klopp (59) is capable of leading the Germany national team back to the top of the world game. But he said it would require a great deal of patience. The World Cup and European Championship-winning coach also waxed lyrical about a midfield star in the DFB team.Asked by Sport Bild which German player he would like in his Spain squad, de la Fuente replied: \"Florian Wirtz, he is fantastic. Unfortunately he does not have a Spanish passport (laughs).",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_4.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_2.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TÜRKIYE TODAY",
@@ -38,8 +48,8 @@
    "link": "https://www.turkiyetoday.com/sports/cia-reptilians-and-vinicius-jr-double-inside-footballs-wildest-conspiracy-theory-3229271",
    "lede": "A bizarre conspiracy theory claiming that Real Madrid star Vinicius Jr. has been replaced by a double has started circulating on Brazilian forums and TikTok accounts, according to Spanish sports newspaper MARCA. The unfounded claims suggest that Vinicius disappeared under mysterious circumstances and that another person has since stepped in to fulfil his football and advertising commitments. The player's entourage and Real Madrid have reportedly chosen to completely ignore the claims. TWEET Tattoos and physical changes fuel online claims According to MARCA, some social media users have pointed to supposed differences in Vinicius' thigh tattoos, arguing that the player seen during Brazil's training camp and match against Australia was not the same person who plays for Real Madrid.",
    "image": "https://img.turkiyetoday.com/images/2026/9/30/cia-reptilians-and-a-vinicius-jr-double-inside-footballs-wildest-conspiracy-theory-3229271_20260930091603.avif",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "CAPITALFOOTBALL.COM.AU",
@@ -48,35 +58,25 @@
    "link": "https://capitalfootball.com.au/berchilay-earns-australia-call-up-to-inaugural-u-15-world-cup/",
    "lede": "Local talent Ater Berchilay has been selected to represent Australia in the first FIFA U-15 World Cup and Festival in Azerbaijan this October. Berchilay’s appearance in the National Select Squad caps off an impressive 2026 campaign for the O’Connor Knights player , in which he won Capital Football’s NPL Boy’s U-15s Player of the Year and the Grand Final Player of the Match. In 2025, the young attacker was named the Knights’ Players’ Player and finished as the club’s top goalscorer, as well as claiming another Grand Final win, this time with the NPL Boys U-14s. Football Australia has only recently established an U-15s outfit, in line with the establishment of FIFA’s new tournament, set to debut in Baku this October for boys, before the girls’ competition takes place in 2027.",
    "image": "https://capitalfootball.com.au/wp-content/uploads/2026/09/Website-News-Article-Feature-Image-Size-2-1140x760.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "SUPERSPORT.COM",
-   "title": "England break down stubborn Czechs to claim first Nations League win",
-   "iso": "2026-09-30T03:53:04.000Z",
-   "link": "https://supersport.com/football/news/652585dd-eaf9-45b9-ab2a-576242ff6ac2/three-lions-roar-england-break-down-stubborn-czechs-to-claim-first-nations-league-win?utm_source=twitter&utm_medium=paid&utm_campaign=mcg_ss_supersport_ctw_twitter_vodacom_urc_23_24_dec-23_jan-24_za_cpc_platform_incl&utm_marketing_tactic=ctw&utm_creative_format=gif&utm_id=mcg_ss_840&utm_content=mcg_ss_840_vodacom_urc_23_24&utm_term=rugby",
-   "lede": "Anthony Gordon and Harry Kane were on target again as England saw off 10-man Czech Republic 2-0 to get their Nations League campaign up and running on Tuesday. Thomas Tuchel's side lost an entertaining opener 3-2 against world champions Spain at Wembley on Saturday while the Czechs were beaten by Croatia. The home team kept England at bay in the first half at the Fortuna Arena despite being a man down but Gordon broke the deadlock shortly after the break and Kane gave England a cushion. Tuchel made four changes to his starting line-up from the weekend, bringing in Real Madrid defender Trent Alexander-Arnold for his first start in almost two years.",
-   "image": "https://images.supersport.com/media/cc4fwzmi/harry-kane-2000g.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "US team captain Tim Ream retires from international football after 16 years",
-   "iso": "2026-09-30T03:52:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/united-states-captain-ream-retires-from-international-football",
-   "lede": "Charlotte FC defender Tim Ream captained the US side at the 2026 FIFA World Cup tournament on home soil. MISSOURI - United States captain Tim Ream, 38, retired from international football on Sept 29, having earned 86 caps and won two CONCACAF Nations League titles. Charlotte FC defender Ream captained the US side at the 2026 FIFA World Cup tournament on home soil, where they reached the round of 16 before being eliminated by Belgium. I’m proud of being part of something for 16 years, but it is time to step away from the national team,” the former Fulham and Bolton Wanderers player told reporters ahead of a friendly match against Chile in his hometown of St Louis, Missouri.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c5d469ddc4727cf469b002909f848250e03ec41591fe0a1cb4fdb3e5f22f1c9a",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Explained: Cristiano Ronaldo’s ‘crisis’ meeting with Portugal after not playing vs. Norway",
+   "iso": "2026-09-30T12:37:20.000Z",
+   "link": "https://www.nytimes.com/athletic/7645719/2026/09/30/cristiano-ronaldo-portugal-future-retirement/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "NYTIMES.COM",
-   "title": "College football programs are betting on AI. Can programs manage the risks?",
-   "iso": "2026-09-30T10:12:29.000Z",
-   "link": "https://www.nytimes.com/athletic/7644119/2026/09/30/college-football-programs-ai-risk/",
-   "lede": "",
+   "cat": "FOOTYHEADLINES.COM",
+   "title": "Special Nike 2026 Spain World Cup Winners Boots Revealed - Close-Up Images",
+   "iso": "2026-09-30T11:18:00.000Z",
+   "link": "https://www.footyheadlines.com/3301301031/special-nike-2026-spain-world-cup-winners-boots-revealed-close-up-images.html",
+   "lede": "Update: Football retailer Futbol Emotion has shared a close-up video showcasing the Nike Mercurial Vapor 17 and Superfly 11 boots in the special &ldquo;2026 Spain World Cup Winners&rdquo; edition. Update: Football retailer Futbol Emotion has shared a close-up video showcasing the Nike Mercurial Vapor 17 and Superfly 11 boots in the special “2026 Spain World Cup Winners” edition.",
+   "image": "https://www.footyheadlines.com/static/img/post/2026/09/30/AtAbIQWxHTofHaK/special-nike-2026-spain-world-cup-winners-boots-revealed-close-up-images.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
