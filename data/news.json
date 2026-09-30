@@ -1,15 +1,75 @@
 {
- "updated": "2026-09-30T01:38:03.732Z",
+ "updated": "2026-09-30T05:38:52.341Z",
  "news": [
+  {
+   "cat": "CAPITALFOOTBALL.COM.AU",
+   "title": "Berchilay earns Australia call-up to inaugural U-15 World Cup",
+   "iso": "2026-09-30T05:07:42.000Z",
+   "link": "https://capitalfootball.com.au/berchilay-earns-australia-call-up-to-inaugural-u-15-world-cup/",
+   "lede": "Local talent Ater Berchilay has been selected to represent Australia in the first FIFA U-15 World Cup and Festival in Azerbaijan this October. Berchilay’s appearance in the National Select Squad caps off an impressive 2026 campaign for the O’Connor Knights player , in which he won Capital Football’s NPL Boy’s U-15s Player of the Year and the Grand Final Player of the Match. In 2025, the young attacker was named the Knights’ Players’ Player and finished as the club’s top goalscorer, as well as claiming another Grand Final win, this time with the NPL Boys U-14s. Football Australia has only recently established an U-15s outfit, in line with the establishment of FIFA’s new tournament, set to debut in Baku this October for boys, before the girls’ competition takes place in 2027.",
+   "image": "https://capitalfootball.com.au/wp-content/uploads/2026/09/Website-News-Article-Feature-Image-Size-2-1140x760.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SUPERSPORT.COM",
+   "title": "England break down stubborn Czechs to claim first Nations League win",
+   "iso": "2026-09-30T03:53:04.000Z",
+   "link": "https://supersport.com/football/news/652585dd-eaf9-45b9-ab2a-576242ff6ac2/three-lions-roar-england-break-down-stubborn-czechs-to-claim-first-nations-league-win?utm_source=twitter&utm_medium=paid&utm_campaign=mcg_ss_supersport_ctw_twitter_vodacom_urc_23_24_dec-23_jan-24_za_cpc_platform_incl&utm_marketing_tactic=ctw&utm_creative_format=gif&utm_id=mcg_ss_840&utm_content=mcg_ss_840_vodacom_urc_23_24&utm_term=rugby",
+   "lede": "Anthony Gordon and Harry Kane were on target again as England saw off 10-man Czech Republic 2-0 to get their Nations League campaign up and running on Tuesday. Thomas Tuchel's side lost an entertaining opener 3-2 against world champions Spain at Wembley on Saturday while the Czechs were beaten by Croatia. The home team kept England at bay in the first half at the Fortuna Arena despite being a man down but Gordon broke the deadlock shortly after the break and Kane gave England a cushion. Tuchel made four changes to his starting line-up from the weekend, bringing in Real Madrid defender Trent Alexander-Arnold for his first start in almost two years.",
+   "image": "https://images.supersport.com/media/cc4fwzmi/harry-kane-2000g.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE STRAITS TIMES",
+   "title": "United States captain Ream retires from international football",
+   "iso": "2026-09-30T03:52:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/united-states-captain-ream-retires-from-international-football?ref=latest-headlines",
+   "lede": "Charlotte FC defender Tim Ream captained the US side at the 2026 FIFA World Cup tournament on home soil. MISSOURI - United States captain Tim Ream, 38, retired from international football on Sept 29, having earned 86 caps and won two CONCACAF Nations League titles. Charlotte FC defender Ream captained the US side at the 2026 FIFA World Cup tournament on home soil, where they reached the round of 16 before being eliminated by Belgium. I’m proud of being part of something for 16 years, but it is time to step away from the national team,” the former Fulham and Bolton Wanderers player told reporters ahead of a friendly match against Chile in his hometown of St Louis, Missouri.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c5d469ddc4727cf469b002909f848250e03ec41591fe0a1cb4fdb3e5f22f1c9a",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "KOMU 8",
+   "title": "Mizzou football's Kitchen and Smith questionable with injury",
+   "iso": "2026-09-30T01:45:00.000Z",
+   "link": "https://www.komu.com/sports/mizzouxtra/mizzou-footballs-kitchen-and-smith-questionable-with-injury/article_445d2d91-bdf9-4aab-83d6-ad83d509a3a7.html",
+   "lede": "25 Mizzou football edge rushers Darris Smith and Langden Kitchen are questionable for Saturday's homecoming game against No. 8 Florida, head coach Eli Drinkwitz said Tuesday. Smith exited the game against Troy in Week 3 with a lower-leg injury and did not play against Mississippi State. Kitchen left last week against the Bulldogs with a lower-body injury and did not return.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/4/45/445d2d91-bdf9-4aab-83d6-ad83d509a3a7/6abc5c8c963e0.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "ONEFOOTBALL",
    "title": "Tim Ream, USMNT World Cup captain, retires from international football",
    "iso": "2026-09-30T01:21:05.000Z",
    "link": "https://onefootball.com/en/news/tim-ream-usmnt-world-cup-captain-retires-from-international-football-43539193",
-   "lede": "Tim Ream announces USMNT retirement after 2026 World Cup. USMNT youngsters bring \"contagious\" energy to Chile test. Ainhoa Marín called up by Spain, Real Sociedad forward among new faces for United States friendlies. Two dominant stars still waiting for first appearances under Carrick, they can turn United into a real force.",
+   "lede": "Tim Ream announces USMNT retirement after 2026 World Cup. USMNT youngsters bring \"contagious\" energy to Chile test. Ainhoa Marín called up by Spain, Real Sociedad forward among new faces for United States friendlies. USMNT youth revolution forges ahead in record fashion.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43539193%3Fdate=2026-09-30",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE SUN MALAYSIA",
+   "title": "Yamal inspires Spain to Croatia romp on World Cup homecoming",
+   "iso": "2026-09-30T01:07:18.000Z",
+   "link": "https://thesun.my/sports/football/yamal-inspires-spain-to-croatia-romp-on-world-cup-homecoming/",
+   "lede": "SEVILLE: Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup. Yamal, 19, was joined on the scoresheet by Marc Pubill and Nico Williams as they extended their unbeaten run to 40 matches, which includes June’s final triumph over Argentina in the United States. La Roja next play Czech Republic on Saturday in Group A3. Yamal’s contribution strengthened his case for the Ballon d’Or, with voting having closed on Monday and the winner announced on October 26.",
+   "image": "https://thesun.my/wp-content/uploads/2026/09/FBL-EUR-NATIONS-ESP-CRO-.webp",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "UA.NEWS",
+   "title": "UEFA President Čeferin criticizes Infantino’s approach to football governance — Korea Herald",
+   "iso": "2026-09-30T00:29:22.000Z",
+   "link": "https://ua.news/en/world/prezident-uefa-cheferin-rozkritikuvav-infantino-za-pidkhid-do-upravlinnia-futbolom-korea-herald",
+   "lede": "In Copenhagen, Denmark, UEFA President Aleksander Čeferin sharply criticized FIFA President Gianni Infantino at the general assembly of European Football Clubs. He said that football does not need “emperors” and that leaders of football bodies should be stewards of the game, not its owners. Korea Herald reports on Čeferin’s speech. The UEFA chief compared Infantino to the emperor in Hans Christian Andersen’s fairy tale “The Emperor’s New Clothes” and stressed that comfortable words do not change an uncomfortable reality.",
+   "image": "https://cdn-cabinet.ua.news/uploads/images/ceferin_criticized_infantino_over_footba_1790727753902.webp",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE GUARDIAN",
@@ -18,65 +78,6 @@
    "link": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
    "lede": "Teenager scores twice in 4-1 win to boost Ballon d’Or case. Slovenia beat North Macedonia; Faroe Islands hold Moldova. Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup. Lamine Yamal had opened the scoring within two minutes against England in Saturday’s Wembley win and took just 75 seconds to do so against Slaven Bilic’s side in Andalusia.",
    "image": "https://i.guim.co.uk/img/media/29705b8b0897d299a3e38f966ec8451596da100a/149_0_4759_3807/master/4759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=143f83e2a204d8418e8532e89561bb12",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Proof of ‘special’ Socceroos turning point; shift after WC lesson laid bare — Talking Pts",
-   "iso": "2026-09-29T22:04:09.000Z",
-   "link": "https://www.foxsports.com.au/football/football-news-2026-socceroos-lose-42-to-brazil-in-front-of-record-crowd-at-brisbanes-suncorp-stadium-why-australia-can-win-the-asian-cup-talking-points-latest-news-video-highlights/news-story/bc2c40b4a4289427129600432f9b5cc8",
-   "lede": "In a strange twist of fate, a draw and a loss against Brazil have shown the Socceroos are perfectly placed for a tilt at a second Asian Cup title in January. Australia might have lost the second showdown against the South American giants 4-2 in Brisbane, but the match showed more was right within the Australian set-up than wrong. The side’s confident, front-footed use of the ball across the two games sent a message that Australia is ready to take on the best in the world again, instead of just soaking up pressure against them. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail.",
-   "image": "https://content.api.news/v3/images/bin/dd215225c0b26d59b00436800c1af4c4",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Chloe Kelly and Ella Toone dropped by England after not hitting ‘expected’ level",
-   "iso": "2026-09-29T20:56:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/sep/29/england-women-squad-lexi-potter-chloe-kelly-ella-toone-sarina-wiegman-world-cup-playoff-greece",
-   "lede": "Chelsea’s Lexi Potter gets first call-up to face Greece. Leah Williamson back after injury for World Cup playoff. Ella Toone and Chloe Kelly have been dropped from England’s squad because of their performance levels by Sarina Wiegman, who has given a first call-up to the 20-year-old ­Chelsea midfielder Lexi Potter. Toone and Kelly have played key roles in England’s run of three consecutive major tournament finals but Wiegman made clear on Tuesday, when announcing her selection for the Women’s World Cup qualifying playoff against Greece, that she wants to see more from them for their clubs.",
-   "image": "https://i.guim.co.uk/img/media/95de2eacee7818a4cf0f5949775f7a27eb3803dd/353_161_2593_2075/master/2593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81c2f5c5d12f8958f965989cd96363cd",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "HINDUSTAN TIMES",
-   "title": "Yamal inspires Spain to Croatia romp on World Cup homecoming | Football News",
-   "iso": "2026-09-29T20:53:54.000Z",
-   "link": "https://www.hindustantimes.com/sports/football/yamal-inspires-spain-to-croatia-romp-on-world-cup-homecoming-101790715235205.html",
-   "lede": "Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup.Yamal, 19, was joined on the scoresheet by Marc Pubill and Nico Williams as they extended their unbeaten run to 40 matches, which includes June's final triumph over Argentina in the United States.La Roja next play Czech Republic on Saturday in Group A3. Yamal's contribution strengthened his case for the Ballon d'Or, with voting having closed on Monday with the winner announced on October 26. Captain Rodri showed off the World Cup trophy before kick-off at the packed Estadio Ramon Sanchez-Pizjuan, being handed it by Sevilla legend Jesus Navas, a winner with Spain in 2010.",
-   "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/football2_1751286882884_1751286895207.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DAILY STAR",
-   "title": "Thomas Tuchel corrects dreadful World Cup mistake as England beat Czech Republic",
-   "iso": "2026-09-29T20:44:22.000Z",
-   "link": "https://www.dailystar.co.uk/sport/football/breaking-england-tuchel-czech-republic-37716272",
-   "lede": "England were good value in Prague as they picked up their first win of the Nations League against the Czech Republic. Anthony Gordon and Harry Kane scored in the second-half as the Three Lions beat the 10-men 2-0 to get their first points on the board of the Nations League campaign. England dominated proceedings for the large part as the hosts failed to show any signs of attacking threat after a 25th minute red card. England fell to defeat against the world and European champions Spain on Saturday as three individual errors shaped the game in the way of the visitors in their opening Nations League game.",
-   "image": "https://i2-prod.dailystar.co.uk/article37716392.ece/ALTERNATES/s1200d/1_Czechia-v-England-UEFA-Nations-League-202627-Group-A3-MD2.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Tim Ream, USMNT World Cup captain, announces retirement from international soccer",
-   "iso": "2026-09-30T00:13:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7644580/2026/09/29/tim-ream-usmnt-retirement/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NST ONLINE",
-   "title": "Yamal inspires Spain to Croatia romp on World Cup homecoming",
-   "iso": "2026-09-29T23:40:34.000Z",
-   "link": "https://www.nst.com.my/sports/football/2026/09/1544319/yamal-inspires-spain-croatia-romp-world-cup-homecoming",
-   "lede": "SEVILLE: Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup.",
-   "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/DF3C4E5BB2899813EFF1FA3C746C0D9C_data.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
