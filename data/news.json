@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T19:22:14.774Z",
+ "updated": "2026-10-02T21:00:45.042Z",
  "news": [
   {
    "cat": "TVC NEWS",
@@ -12,14 +12,33 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "THENATIONALNEWS.COM",
+   "title": "Coaching, climate, continuity - and Cruyff: How Spain conquered international football",
+   "iso": "2026-10-02T18:11:23.000Z",
+   "link": "https://www.thenationalnews.com/sport/football/2026/10/02/coaching-climate-continuity-and-cruyff-how-spain-conquered-international-football/",
+   "lede": "Spain became the first international team to go 40 matches unbeaten on Tuesday with a 4-1 Uefa Nations League win against Croatia in Seville. That followed a weekend when the European and world champions defeated an England side ranked fourth in the world, 3-2 at Wembley . Spain’s Under-20 women's team were crowned world champions with a triumph against North Korea on Sunday. Most of those players were already Under-17 world champions in 2024, retaining the title they had won in 2022.",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "DECCAN HERALD",
+   "title": "High ticket prices threaten turnout for historic India-Brazil Kolkata friendly",
+   "iso": "2026-10-02T17:56:00.000Z",
+   "link": "https://www.deccanherald.com/amp/story/sports%2Ffootball%2Fhigh-ticket-prices-threaten-turnout-for-historic-india-brazil-kolkata-friendly-4168518",
+   "lede": "Kolkata: Brazil coming to Kolkata was always supposed to be a date with destiny for a football-mad city that has loved the Selecao from afar for generations. From Pele, whose 1977 visit remains part of the city’s football folklore, to the World Cup-winning sides featuring mega stars like Ronaldo, Rivaldo and Ronaldinho, Brazil have inspired a devotion here matched only by arch-rivals Argentina. So when the five-time world champions finally arrived to play India at the Salt Lake Stadium, a packed house appeared almost a given. Even Marquinhos seemed overwhelmed by the reception on Friday with close to 200 journalists packing the pre-match press conference and then the pre-match training sessions.",
+   "image": "https://cf-images.assettype.com/deccanherald%2F2026-10-02%2F7vfht1hv%2Ffile87us5w3fo5i10ajgd21hu.jpg?rect=0%2C0%2C4079%2C2141&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "MOROCCO WORLD NEWS",
    "title": "FIFA Reportedly to Decide 2030 World Cup Final Venue in 2028",
    "iso": "2026-10-02T17:42:12.000Z",
    "link": "https://www.moroccoworldnews.com/2026/10/340521/fifa-reportedly-to-decide-2030-world-cup-final-venue-in-2028/",
    "lede": "Casablanca – FIFA is reportedly expected to announce its decision on the 2030 World Cup final venue in 2028, leaving Morocco’s bid to stage the showpiece match at the Hassan II Stadium firmly alive. According to Spanish outlet Mundo Deportivo, sources familiar with the process say FIFA does not plan to reveal the final venue before 2028. The report points to the previous World Cup cycle, when FIFA waited until February 2024 to confirm New Jersey as the venue for the 2026 final. The timeline means the competition between Morocco and Spain remains open despite increasingly confident statements from both sides.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-12.00.36.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DAILY GUARDIAN",
@@ -28,56 +47,36 @@
    "link": "https://www.dailyguardian.com.ph/blog/filipinas-regroup-for-peru-friendlies-world-cup-buildup",
    "lede": "The Philippine women’s national football team has regrouped in Manila as the Filipinas continue preparations for the 2027 FIFA Women’s World Cup in Brazil. Fresh from a second consecutive quarterfinal appearance at the Asian Games, the Filipinas will next travel to South America for two international friendlies against Peru in Chincha. The matches are scheduled for Oct. 9 and 13, 2026, during the FIFA international window. The Peru fixtures will expose the Filipinas to South American football as the team builds toward a World Cup that will be staged on the same continent next year.",
    "image": "https://old.dailyguardian.com.ph/wp-content/uploads/2026/10/Filipinas-regroup-for-Peru-friendlies-World-Cup-buildup.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "CAFONLINE.COM",
+   "title": "CAF Strategy Conference: Desabre – the coach who restored DR Congo to the World Cup after 52 years",
+   "iso": "2026-10-02T15:04:01.000Z",
+   "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-desabre-the-coach-who-restored-dr-congo-to-the-world-cup-after-52-years/",
+   "lede": "Sébastien Desabre will arrive at the CAF Strategy Conference in Cabo Verde carrying the experience of rebuilding one of African football’s traditional powers and taking DR Congo back to the FIFA World Cup after a 52-year absence. The French coach guided the Leopards to the 2026 global finals for only the second time in their history before taking them into the knockout stage, where they pushed England deep into the match before losing 2-1 in the Round of 32. His journey is particularly relevant to a CAF Strategy Conference that will examine why nine of Africa’s record 10 representatives progressed beyond the group stage in 2026 and how those lessons can strengthen African football on the road to 2030. Desabre’s contribution also offers a different perspective from several of the other World Cup coaches.",
+   "image": "https://www.cafonline.com//media/zk4edbho/desabre.jpg?width=1200",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DAILY STAR",
    "title": "English WAG who supported Argentina at World Cup has contract ripped up after eight weeks",
-   "iso": "2026-10-02T14:41:00.000Z",
+   "iso": "2026-10-02T14:54:00.000Z",
    "link": "https://www.dailystar.co.uk/sport/football/wag-world-cup-tottenham-bournemouth-37728641",
    "lede": "Kelci-Rose Bowers made a splash after supporting Argentina against England at the World Cup. And the English WAG of Spurs defender Marcos Senesi has now agreed to leave Hashtag United Women after just eight weeks at the club. Bowers, who was born in England, was slammed when cheered on Sensei's Argentina in the semi-finals at World Cup by fans on social media. But after the semi-final clash, she took to Instagram with a four-word admission: \"Proud of my country.\"",
    "image": "https://i2-prod.dailystar.co.uk/article37506531.ece/ALTERNATES/s1200d/1_45aa96a0-5dfe-4375-8862-4e993d77e31d.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
-   "cat": "AFFA.AZ",
+   "cat": "AFFA",
    "title": "Media accreditation opens for the FIFA U-15 World Cup & Festival 2026 in Azerbaijan",
    "iso": "2026-10-02T14:32:02.000Z",
    "link": "https://www.affa.az/index.php/news/media-accreditation-opens-for-the-fifa-u-15-world-cup-festival-2026-in-azerbaijan/81532",
    "lede": "The accreditation process will be available from 2 October through the accreditation portal, the sole official platform for registration. The deadline for applications is 9 October at 23:00 (GMT+4). All media representatives must submit their accreditation applications exclusively through this registration platform. Please note that all accreditation requests are subject to approval.",
    "image": "https://www.affa.az/images/25173/1258/62/3/3_3/01_fu15wcf2026_smm_media_press_release_eng.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "REDIFF",
-   "title": "Brazil's Kolkata Training Session Becomes World Cup-Like Spectacle",
-   "iso": "2026-10-02T14:23:41.000Z",
-   "link": "https://www.rediff.com/sports/report/brazil-training-in-kolkata-world-cup-buzz-and-accreditation-chaos/20261002.htm",
-   "lede": "The Brazil national football team's training session in Kolkata generated immense excitement and an unprecedented media turnout, setting the stage for their anticipated friendly against India amidst significant accreditation challenges. More than 300 journalists and photographers, including foreign media, gathered to watch the opening 15 minutes of Brazil's training in an unprecedented media turnout. Media personnel had travelled from across the country, while around a dozen Brazilian journalists were also present to capture the five-time world champions' preparations for Saturday's clash against India. The Selecao put in a full one-hour training session less than 24 hours after landing in Kolkata on a private jet from Brisbane, where they had played two friendlies.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/jul/25brazil1.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "Petty or justified? Erling Haaland sues airline over post made during World Cup featuring his blonde pony",
-   "iso": "2026-10-02T14:13:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/petty-or-justified-erling-haaland-sues-airline-over-post-made-during-world-cup-featuring-his-blonde-ponytail/articleshow/134640900.cms",
-   "lede": "Erling Haaland is taking Norwegian Air Shuttle to court over a marketing post published during the 2026 World Cup that featured a distinctive part of his image. The airline’s social media campaign showed an aircraft carrying the blonde ponytail that had become closely associated with Haaland during his stellar run with Norway, despite the striker having since cut his famous hair short. The post was later removed, but the use of Haaland’s recognisable image has now become the subject of a legal dispute.Haaland's legal team says the airline used his distinctive characteristicsAccording to Aftenposten, the case centres on an alleged breach of marketing law after Norwegian published a social media post featuring an aircraft digitally edited with blonde hair tied into a ponytail, resembling Haaland’s former hairstyle.",
-   "image": "https://static.toiimg.com/thumb/msid-134641569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "CAFONLINE.COM",
-   "title": "CAF Strategy Conference: Sébastien Desabre – the coach who restored DR Congo to the World Cup after 52 years",
-   "iso": "2026-10-02T14:06:08.000Z",
-   "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-sebastien-desabre-the-coach-who-restored-dr-congo-to-the-world-cup-after-52-years/",
-   "lede": "Sébastien Desabre will arrive at the CAF Strategy Conference in Cabo Verde carrying the experience of rebuilding one of African football’s traditional powers and taking DR Congo back to the FIFA World Cup after a 52-year absence. The French coach guided the Leopards to the 2026 global finals for only the second time in their history before taking them into the knockout stage, where they pushed England deep into the match before losing 2-1 in the Round of 32. His journey is particularly relevant to a CAF Strategy Conference that will examine why nine of Africa’s record 10 representatives progressed beyond the group stage in 2026 and how those lessons can strengthen African football on the road to 2030. Desabre’s contribution also offers a different perspective from several of the other World Cup coaches.",
-   "image": "https://www.cafonline.com//media/zk4edbho/desabre.jpg?width=1200",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
