@@ -1,25 +1,55 @@
 {
- "updated": "2026-10-02T16:38:50.889Z",
+ "updated": "2026-10-02T19:22:14.774Z",
  "news": [
   {
-   "cat": "DAILY GUARDIAN",
-   "title": "Filipinas regroup for Peru friendlies, World Cup buildup",
-   "iso": "2026-10-02T16:09:54.000Z",
-   "link": "https://www.dailyguardian.com.ph/blog/filipinas-regroup-for-peru-friendlies-world-cup-buildup",
-   "lede": "The Philippine women’s national football team has regrouped in Manila as the Filipinas continue preparations for the 2027 FIFA Women’s World Cup in Brazil. Fresh from a second consecutive quarterfinal appearance at the Asian Games, the Filipinas will next travel to South America for two international friendlies against Peru in Chincha. The matches are scheduled for Oct. 9 and 13, 2026, during the FIFA international window. The Peru fixtures will expose the Filipinas to South American football as the team builds toward a World Cup that will be staged on the same continent next year.",
-   "image": "https://old.dailyguardian.com.ph/wp-content/uploads/2026/10/Filipinas-regroup-for-Peru-friendlies-World-Cup-buildup.jpg",
+   "cat": "TVC NEWS",
+   "title": "FIFA Identifies Key Trends From 2026 World Cup",
+   "iso": "2026-10-02T18:15:00.000Z",
+   "link": "https://www.tvcnews.tv/fifa-identifies-key-trends-from-2026-world-cup/",
+   "lede": "FIFA has published its post-tournament technical report on the 2026 World Cup, highlighting counter-pressing, tactical flexibility and the evolving role of goalkeepers as some of the major trends that shaped the tournament. The report, compiled by FIFA’s Technical Study Group (TSG) and Football Performance Insights Department, analysed all 104 matches…... The report, compiled by FIFA’s Technical Study Group (TSG) and Football Performance Insights Department, analysed all 104 matches using expert assessment, football data and video analysis. According to FIFA, counter-pressing emerged as one of the defining features of the tournament, with top teams frequently turning the loss of possession into immediate attacking opportunities.",
+   "image": "https://tvcnews.tv/wp-content/uploads/2026/09/FIFA-Logo.png",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "AFFA",
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "FIFA Reportedly to Decide 2030 World Cup Final Venue in 2028",
+   "iso": "2026-10-02T17:42:12.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/340521/fifa-reportedly-to-decide-2030-world-cup-final-venue-in-2028/",
+   "lede": "Casablanca – FIFA is reportedly expected to announce its decision on the 2030 World Cup final venue in 2028, leaving Morocco’s bid to stage the showpiece match at the Hassan II Stadium firmly alive. According to Spanish outlet Mundo Deportivo, sources familiar with the process say FIFA does not plan to reveal the final venue before 2028. The report points to the previous World Cup cycle, when FIFA waited until February 2024 to confirm New Jersey as the venue for the 2026 final. The timeline means the competition between Morocco and Spain remains open despite increasingly confident statements from both sides.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-12.00.36.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "DAILY GUARDIAN",
+   "title": "Filipinas regroup for Peru friendlies, World Cup buildup",
+   "iso": "2026-10-02T16:08:46.000Z",
+   "link": "https://www.dailyguardian.com.ph/blog/filipinas-regroup-for-peru-friendlies-world-cup-buildup",
+   "lede": "The Philippine women’s national football team has regrouped in Manila as the Filipinas continue preparations for the 2027 FIFA Women’s World Cup in Brazil. Fresh from a second consecutive quarterfinal appearance at the Asian Games, the Filipinas will next travel to South America for two international friendlies against Peru in Chincha. The matches are scheduled for Oct. 9 and 13, 2026, during the FIFA international window. The Peru fixtures will expose the Filipinas to South American football as the team builds toward a World Cup that will be staged on the same continent next year.",
+   "image": "https://old.dailyguardian.com.ph/wp-content/uploads/2026/10/Filipinas-regroup-for-Peru-friendlies-World-Cup-buildup.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "DAILY STAR",
+   "title": "English WAG who supported Argentina at World Cup has contract ripped up after eight weeks",
+   "iso": "2026-10-02T14:41:00.000Z",
+   "link": "https://www.dailystar.co.uk/sport/football/wag-world-cup-tottenham-bournemouth-37728641",
+   "lede": "Kelci-Rose Bowers made a splash after supporting Argentina against England at the World Cup. And the English WAG of Spurs defender Marcos Senesi has now agreed to leave Hashtag United Women after just eight weeks at the club. Bowers, who was born in England, was slammed when cheered on Sensei's Argentina in the semi-finals at World Cup by fans on social media. But after the semi-final clash, she took to Instagram with a four-word admission: \"Proud of my country.\"",
+   "image": "https://i2-prod.dailystar.co.uk/article37506531.ece/ALTERNATES/s1200d/1_45aa96a0-5dfe-4375-8862-4e993d77e31d.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "AFFA.AZ",
    "title": "Media accreditation opens for the FIFA U-15 World Cup & Festival 2026 in Azerbaijan",
    "iso": "2026-10-02T14:32:02.000Z",
    "link": "https://www.affa.az/index.php/news/media-accreditation-opens-for-the-fifa-u-15-world-cup-festival-2026-in-azerbaijan/81532",
    "lede": "The accreditation process will be available from 2 October through the accreditation portal, the sole official platform for registration. The deadline for applications is 9 October at 23:00 (GMT+4). All media representatives must submit their accreditation applications exclusively through this registration platform. Please note that all accreditation requests are subject to approval.",
    "image": "https://www.affa.az/images/25173/1258/62/3/3_3/01_fu15wcf2026_smm_media_press_release_eng.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "REDIFF",
@@ -28,8 +58,8 @@
    "link": "https://www.rediff.com/sports/report/brazil-training-in-kolkata-world-cup-buzz-and-accreditation-chaos/20261002.htm",
    "lede": "The Brazil national football team's training session in Kolkata generated immense excitement and an unprecedented media turnout, setting the stage for their anticipated friendly against India amidst significant accreditation challenges. More than 300 journalists and photographers, including foreign media, gathered to watch the opening 15 minutes of Brazil's training in an unprecedented media turnout. Media personnel had travelled from across the country, while around a dozen Brazilian journalists were also present to capture the five-time world champions' preparations for Saturday's clash against India. The Selecao put in a full one-hour training session less than 24 hours after landing in Kolkata on a private jet from Brisbane, where they had played two friendlies.",
    "image": "https://im.rediff.com/1200-630/sports/2026/jul/25brazil1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -38,8 +68,8 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/petty-or-justified-erling-haaland-sues-airline-over-post-made-during-world-cup-featuring-his-blonde-ponytail/articleshow/134640900.cms",
    "lede": "Erling Haaland is taking Norwegian Air Shuttle to court over a marketing post published during the 2026 World Cup that featured a distinctive part of his image. The airline’s social media campaign showed an aircraft carrying the blonde ponytail that had become closely associated with Haaland during his stellar run with Norway, despite the striker having since cut his famous hair short. The post was later removed, but the use of Haaland’s recognisable image has now become the subject of a legal dispute.Haaland's legal team says the airline used his distinctive characteristicsAccording to Aftenposten, the case centres on an alleged breach of marketing law after Norwegian published a social media post featuring an aircraft digitally edited with blonde hair tied into a ponytail, resembling Haaland’s former hairstyle.",
    "image": "https://static.toiimg.com/thumb/msid-134641569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "CAFONLINE.COM",
@@ -48,36 +78,6 @@
    "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-sebastien-desabre-the-coach-who-restored-dr-congo-to-the-world-cup-after-52-years/",
    "lede": "Sébastien Desabre will arrive at the CAF Strategy Conference in Cabo Verde carrying the experience of rebuilding one of African football’s traditional powers and taking DR Congo back to the FIFA World Cup after a 52-year absence. The French coach guided the Leopards to the 2026 global finals for only the second time in their history before taking them into the knockout stage, where they pushed England deep into the match before losing 2-1 in the Round of 32. His journey is particularly relevant to a CAF Strategy Conference that will examine why nine of Africa’s record 10 representatives progressed beyond the group stage in 2026 and how those lessons can strengthen African football on the road to 2030. Desabre’s contribution also offers a different perspective from several of the other World Cup coaches.",
    "image": "https://www.cafonline.com//media/zk4edbho/desabre.jpg?width=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FREE MALAYSIA TODAY",
-   "title": "Fifa highlights rise of back three, but no ‘winning formula’ at World Cup",
-   "iso": "2026-10-02T13:53:48.000Z",
-   "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/02/fifa-highlights-rise-of-back-three-but-no-winning-formula-at-world-cup",
-   "lede": "A Fifa report says the build-up in a back three was observed as very important at the 2026 World Cup 'but it wasn’t something that (champions) Spain did'. (EPA Images pic) LONDON: Fifa’s technical report on the 2026 World Cup has highlighted an increased number of tactical strategies at the tournament but concluded that there was not necessarily a \"winning formula\". A 500-page report on the tournament published on Friday said the key tactical innovations identified included building with a back three, wide player rotations, changing the point of attack, attacking transitions, a structured high press, defensive blocks and counter-pressing. The report offered “unprecedented insights into how the best national teams and players on the planet are reshaping the modern game”, PA Media/dpa reported.",
-   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/b26cde85-a48e-4473-ad99-0ebce0ef2544-Lamine-Yamal-EPA-Images-pic-021026-1.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "CAFONLINE.COM",
-   "title": "CAF Strategy Conference: Ouahbi – the youth developer who carried Morocco’s new generation to another World Cup quarter-final",
-   "iso": "2026-10-02T13:45:02.000Z",
-   "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-ouahbi-the-youth-developer-who-carried-morocco-s-new-generation-to-another-world-cup-quarter-final/",
-   "lede": "Mohamed Ouahbi will arrive at the CAF Strategy Conference in Cabo Verde with one of the clearest examples of how long-term investment in youth development can feed directly into success at senior international level. The 49-year-old was appointed Morocco coach only three months before the FIFA World Cup 2026, replacing Walid Regragui after the Atlas Lions had already established themselves among the leading sides in world football. Despite the limited preparation time, Ouahbi guided Morocco through the group stage and into the quarter-finals, where their campaign ended with a 2-0 defeat by France. In doing so, Morocco became the first African nation to reach the last eight at consecutive World Cups.",
-   "image": "https://www.cafonline.com//media/pvpcrdhp/ouahbi1.jpg?width=1200",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "EWN",
-   "title": "Nigeria's Special Eagles prep for 2026 Amputee World Cup",
-   "iso": "2026-10-02T11:41:19.000Z",
-   "link": "https://www.ewn.co.za/2026/10/02/nigerias-special-eagles-prep-for-2026-amputee-world-cup",
-   "lede": "Nigeria amputee football team training. Picture: Marabou News Agency. Nigeria's men's national amputee football team, known as the Special Eagles, is hard at work in Abuja as they prepare for the 2026 Amputee World Cup. The Major tournament will take place in San Juan De Los Lagos, Mexico, running from November 13 to 22.",
-   "image": "https://media-cache.primedia-service.com/media/khodu54r/nigeria_amputee_football_team_training_5.jpg?width=1200&height=630",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
