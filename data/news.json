@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T18:00:00.968Z",
+ "updated": "2026-10-03T18:42:06.772Z",
  "news": [
   {
    "cat": "RNZ",
@@ -12,34 +12,24 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "ENGLANDFOOTBALL.COM",
-   "title": "Match Centre: Croatia v England",
-   "iso": "2026-10-03T15:57:22.000Z",
-   "link": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/Nations-League/croatia-england-uefa-nations-league-saturday-3-october-2026-match-centre",
-   "lede": "The Three Lions travel to Rijeka as they continue their UEFA Nations League 2026-27 campaign. Follow the game via our live match commentary and stats service from Rijeka. England v Senegal FIFA World Cup, Qatar 2022 Round of 16 7pm GMT, Sunday 4 December 2022 Al Bayt Stadium, Doha.",
-   "image": "https://cdn.englandfootball.com/-/media/EnglandFootball/Article/england/mens-senior-team/2026/October/Croatia/20260310-1440-shallow-bellingham-arrival.jpg?h=436&iar=0&w=1440&rev=eaf5a54eaa254344b463e02dacc39f56&hash=D2DF6A69FC9CC8C6C3EE913C783FAA44",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "PUNCH NEWSPAPERS",
    "title": "Arsene Wenger, African coaches to dissect record 2026 World Cup run",
    "iso": "2026-10-03T15:17:48.000Z",
    "link": "https://punchng.com/arsene-wenger-african-coaches-to-dissect-record-2026-world-cup-run/",
    "lede": "Arsenal's French manager Arsene Wenger waves as he manages his final game for Arsenal, the English Premier League football match between Huddersfield Town and Arsenal at the John Smith's stadium in Huddersfield, northern England on May 13, 2018. FIFA’s Chief of Global Football Development, Arsene Wenger, will lead a panel of coaches behind Africa’s record-breaking performance at the 2026 FIFA World Cup at the CAF Strategy Conference in Cabo Verde next week. The Confederation of African Football disclosed this in a statement published on its website on Friday, announcing that Wenger would be joined by coaches including Cabo Verde’s Bubista, Egypt’s Hossam Hassan, Morocco’s Mohamed Ouahbi and Democratic Republic of Congo’s Sébastien Desabre.",
    "image": "https://cdn.punchng.com/wp-content/uploads/2018/05/13204524/wenger-farewell.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
-   "cat": "LA GAZZETTA DELLO SPORT",
+   "cat": "GAZZETTA.IT",
    "title": "Giugliano: \"Roma, You",
    "iso": "2026-10-03T12:00:38.000Z",
    "link": "https://www.gazzetta.it/en/football/womens-football/03-10-2026/manuela-giugliano-interview-dream-of-the-world-cup-and-becoming-mother_amp.shtml",
    "lede": "There's Giugliano, Roma's number ten since her arrival in the capital, the captain, the first Italian candidate for the Ballon d'Or, last season's best female player, and a key figure for an Italy side still needing to qualify for the World Cup – a constant and wonderful thought. Then there's Manuela, the woman who will turn 30 next year and who, in 2027, hopes to play a starring role in a World Cup. She also dreams of having children in the future to whom she can recount her achievements and make them proud. Amidst a football chat, her on-field aspirations intertwine with more intimate, private desires.",
    "image": "https://www.gazzetta.it/images/default.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "PLANETFOOTBALL.COM",
@@ -48,18 +38,18 @@
    "link": "https://www.planetfootball.com/quizzes/england-xi-2018-world-cup-semi-final-croatia",
    "lede": "England seem to play Croatia every week these days, but their most famous meeting came in the 2018 World Cup semi-final. The Three Lions made unexpected progress that year under Gareth Southgate and we all thought football was coming home when England took an early lead. But Croatia were the better team, led by the peerless Luka Modric. They gradually reeled Southgate’s team in and won 2-1 after extra-time.",
    "image": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2026/07/13100713/kieran-trippier-england-croatia-2018.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "LA GAZZETTA DELLO SPORT",
+   "cat": "GAZZETTA.IT",
    "title": "\"The World Cup, then a burst of machine gun fire, an operation without anaesthetic and I lost my legs\": Obilale's Unyielding Spirit",
    "iso": "2026-10-03T11:06:40.000Z",
    "link": "https://www.gazzetta.it/en/football/national-teams/03-10-2026/togo-s-2006-world-cup-the-terrorist-attack-disability-obilale-s-story_amp.shtml",
    "lede": "On the Togo national team bus, the phone rings. Kodjovi Obilalé, one of the goalkeepers, answers. It's his girlfriend; the two exchange greetings as the Sparrowhawks' vehicle – as the yellow-and-greens are nicknamed – travels through Cabinda province, an Angolan exclave sandwiched between Congo (to the north) and the Democratic Republic of Congo (to the south). They hang up, and immediately afterwards, chaos erupts.",
    "image": "https://www.gazzetta.it/images/default.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "AFP.COM",
@@ -68,16 +58,25 @@
    "link": "https://www.afp.com/es/node/3845277",
    "lede": "Published on Octubre 3, 2026 at 10:25. From Diego Maradona's infamous \"Hand of God\" to Zinedine Zidane's headbutt, Indian football fan Dipak Nandy has witnessed some of the World Cup's defining moments from the stands. But on Saturday, the 77-year-old will savour a rare sporting occasion from the comfort of his hometown Kolkata, where Brazil take on his home country in their first-ever international friendly. Nandy, who has travelled far and wide to attend 11 World Cups, will take in this particular match in front of the television.",
    "image": "https://www.afp.com/sites/default/files/afp-stories/d8b89f226d2d56006320be7cd44c63b6-0-hi.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "USMNT vs. Mexico friendly preview: Predictions, odds, must-reads and more as rivalry renews",
+   "iso": "2026-10-03T16:50:02.000Z",
+   "link": "https://www.nytimes.com/athletic/7654564/2026/10/03/usmnt-mexico-friendly-preview-odds-lineup-predictions/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "YAHOO",
-   "title": "Egypt start without Salah, Uruguay at full strength",
-   "iso": "2026-10-03T07:09:06.000Z",
-   "link": "https://www.yahoo.com/egypt-decide-not-risk-starting-salah-vs-uruguay-113009914--sow.html",
-   "lede": "YEKATERINBURG, Russia (Reuters) - Egypt will start without Mohamed Salah in their World Cup opener against a full-strength Uruguay on Friday, in a setback for millions of Egyptians who are pinning their tournament hopes on the Liverpool striker. Coach Hector Cuper decided not to risk his talisman despite telling reporters on Thursday that Salah had responded well to treatment on the shoulder injury he sustained in the Champions League final last month and was nearly 100 percent certain to play in Egypt's first appearance at the finals for 28 years. It was not clear if he would come on as a substitute or whether Cuper would save him for the later group games against Russia and Saudi Arabia. Salah, who turned 26 on Friday, came out with other players to inspect the pitch in Yekaterinburg.",
-   "image": "https://s.yimg.com/lo/mysterio/api/d1c411e81ae899490b13b7ccb9608ce26ec06212cc289db3328ac23074e4ff8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/http%3A%2F%2Fmedia.zenfs.com%2Fen_us%2FNews%2FReuters%2F2018-06-15T125040Z_2_LYNXMPEE5E0PA_RTROPTP_2_SOCCER-WORLDCUP-EGY-URY-PREVIEW.JPG",
+   "cat": "ENGLANDFOOTBALL.COM",
+   "title": "Match Centre: Croatia v England",
+   "iso": "2026-10-03T15:57:22.000Z",
+   "link": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/Nations-League/croatia-england-uefa-nations-league-saturday-3-october-2026-match-centre",
+   "lede": "A record UEFA Nations League victory for the Three Lions in Rijeka. England v Senegal FIFA World Cup, Qatar 2022 Round of 16 7pm GMT, Sunday 4 December 2022 Al Bayt Stadium, Doha.",
+   "image": "https://cdn.englandfootball.com/-/media/EnglandFootball/Article/england/mens-senior-team/2026/October/Croatia/20260310-1440-england-celeb-croatia.jpg?h=810&iar=0&w=1440&rev=08777a5b0c5c422eb6c24d25e9f817ba&hash=78555FCBFF218A94994A84E5DDA8564D",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
