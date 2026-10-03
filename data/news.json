@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T23:17:25.340Z",
+ "updated": "2026-10-03T00:31:22.519Z",
  "news": [
   {
    "cat": "TVC NEWS",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "DAILYGUARDIAN.COM.PH",
+   "cat": "LIVESCORE",
+   "title": "Virgil van Dijk says reports he decided Netherlands tactics at World Cup are ‘utter nonsense’",
+   "iso": "2026-10-02T16:39:50.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/virgil-van-dijk-says-reports-he-decided-netherlands-tactics-at-world-cup-are-utter-nonsense-hayters/",
+   "lede": "Virgil van Dijk has hit back at criticism following the Netherlands’ World Cup failure and dismissed claims that he was responsible for the team changing tactics.The Netherlands defender insisted tactical decisions were made by the coaching staff and described suggestions that he and Ronald Koeman had “destroyed Dutch football” as “utter nonsense”.“. One of your colleagues also said, of course, that it was my idea to switch to playing with a back five. That is utter nonsense,” Van Dijk told one reporter.“. The fact is we simply failed at the World Cup.",
+   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_1.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "DAILY GUARDIAN",
    "title": "Filipinas regroup for Peru friendlies, World Cup buildup",
    "iso": "2026-10-02T16:08:46.000Z",
    "link": "https://www.dailyguardian.com.ph/blog/filipinas-regroup-for-peru-friendlies-world-cup-buildup",
    "lede": "The Philippine women’s national football team has regrouped in Manila as the Filipinas continue preparations for the 2027 FIFA Women’s World Cup in Brazil. Fresh from a second consecutive quarterfinal appearance at the Asian Games, the Filipinas will next travel to South America for two international friendlies against Peru in Chincha. The matches are scheduled for Oct. 9 and 13, 2026, during the FIFA international window. The Peru fixtures will expose the Filipinas to South American football as the team builds toward a World Cup that will be staged on the same continent next year.",
    "image": "https://old.dailyguardian.com.ph/wp-content/uploads/2026/10/Filipinas-regroup-for-Peru-friendlies-World-Cup-buildup.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "CAFONLINE.COM",
@@ -58,8 +68,8 @@
    "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-desabre-the-coach-who-restored-dr-congo-to-the-world-cup-after-52-years/",
    "lede": "Sébastien Desabre will arrive at the CAF Strategy Conference in Cabo Verde carrying the experience of rebuilding one of African football’s traditional powers and taking DR Congo back to the FIFA World Cup after a 52-year absence. The French coach guided the Leopards to the 2026 global finals for only the second time in their history before taking them into the knockout stage, where they pushed England deep into the match before losing 2-1 in the Round of 32. His journey is particularly relevant to a CAF Strategy Conference that will examine why nine of Africa’s record 10 representatives progressed beyond the group stage in 2026 and how those lessons can strengthen African football on the road to 2030. Desabre’s contribution also offers a different perspective from several of the other World Cup coaches.",
    "image": "https://www.cafonline.com//media/zk4edbho/desabre.jpg?width=1200",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "DAILY STAR",
@@ -68,16 +78,6 @@
    "link": "https://www.dailystar.co.uk/sport/football/wag-world-cup-tottenham-bournemouth-37728641",
    "lede": "Kelci-Rose Bowers made a splash after supporting Argentina against England at the World Cup. And the English WAG of Spurs defender Marcos Senesi has now agreed to leave Hashtag United Women after just eight weeks at the club. Bowers, who was born in England, was slammed when cheered on Sensei's Argentina in the semi-finals at World Cup by fans on social media. But after the semi-final clash, she took to Instagram with a four-word admission: \"Proud of my country.\"",
    "image": "https://i2-prod.dailystar.co.uk/article37506531.ece/ALTERNATES/s1200d/1_45aa96a0-5dfe-4375-8862-4e993d77e31d.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "AFFA",
-   "title": "Media accreditation opens for the FIFA U-15 World Cup & Festival 2026 in Azerbaijan",
-   "iso": "2026-10-02T14:32:02.000Z",
-   "link": "https://www.affa.az/index.php/news/media-accreditation-opens-for-the-fifa-u-15-world-cup-festival-2026-in-azerbaijan/81532",
-   "lede": "The accreditation process will be available from 2 October through the accreditation portal, the sole official platform for registration. The deadline for applications is 9 October at 23:00 (GMT+4). All media representatives must submit their accreditation applications exclusively through this registration platform. Please note that all accreditation requests are subject to approval.",
-   "image": "https://www.affa.az/images/25173/1258/62/3/3_3/01_fu15wcf2026_smm_media_press_release_eng.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
