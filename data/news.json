@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-03T05:47:11.131Z",
+ "updated": "2026-10-03T08:34:33.373Z",
  "news": [
+  {
+   "cat": "METRO.CO.UK",
+   "title": "Thomas Tuchel's Trent Alexander-Arnold treatment reveals England fear that led to World Cup failure",
+   "iso": "2026-10-03T07:00:00.000Z",
+   "link": "https://metro.co.uk/2026/10/03/thomas-tuchels-trent-alexander-arnold-treatment-reveals-england-fear-led-world-cup-failure-29670750/",
+   "lede": "How do you solve a problem like Trent Alexander-Arnold? To start with, it’s probably best to acknowledge that there might not be that much of a problem at all. The England and Real Madrid defender/midfielder/playmaker/nobody-quite-knows-what-er made his first start under Thomas Tuchel against Czechia on Tuesday and proved the difference in creating the first goal to break down a stubborn defence just after half-time. Trent, as he likes to be called these days, has always confused England fans and pundits alike.",
+   "image": "https://metro.co.uk/wp-content/uploads/2026/03/SEI_290759015-7085_1790954131.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE BUSINESS STANDARD",
    "title": "Erling Haaland sues Norwegian Air over World Cup ad featuring his ponytail",
@@ -8,8 +18,8 @@
    "link": "https://www.tbsnews.net/sports/erling-haaland-sues-norwegian-air-over-world-cup-ad-featuring-his-ponytail-1560976",
    "lede": "Norway football star Erling Haaland has taken legal action against Norwegian Air Shuttle, alleging that the airline used elements of his appearance without permission in a World Cup advertisement. The dispute centres on a social media post released during the 2026 FIFA World Cup, when Norway made its first appearance at the tournament since 1998. According to Norwegian newspaper Verdens Gang (VG), the airline shared a composite image of one of its aircraft featuring a ponytail resembling Haaland's distinctive hairstyle. The post carried the caption, \"We've never looked more Norwegian,\" referencing the national team's World Cup campaign.",
    "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2022/12/29/erling_haaland.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "EWN",
@@ -18,64 +28,54 @@
    "link": "https://www.ewn.co.za/nigerias-special-eagles-prep-for-2026-amputee-world-cup/",
    "lede": "Nigeria amputee football team training. Picture: Marabou News Agency. Nigeria's men's national amputee football team, known as the Special Eagles, is hard at work in Abuja as they prepare for the 2026 Amputee World Cup. The Major tournament will take place in San Juan De Los Lagos, Mexico, running from November 13 to 22.",
    "image": "https://media-cache.primedia-service.com/media/khodu54r/nigeria_amputee_football_team_training_5.jpg?width=1200&height=630",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "TVCNEWS.TV",
-   "title": "FIFA Identifies Key Trends From 2026 World Cup",
-   "iso": "2026-10-02T18:15:00.000Z",
-   "link": "https://www.tvcnews.tv/fifa-identifies-key-trends-from-2026-world-cup/",
-   "lede": "FIFA has published its post-tournament technical report on the 2026 World Cup, highlighting counter-pressing, tactical flexibility and the evolving role of goalkeepers as some of the major trends that shaped the tournament. The report, compiled by FIFA’s Technical Study Group (TSG) and Football Performance Insights Department, analysed all 104 matches…... The report, compiled by FIFA’s Technical Study Group (TSG) and Football Performance Insights Department, analysed all 104 matches using expert assessment, football data and video analysis. According to FIFA, counter-pressing emerged as one of the defining features of the tournament, with top teams frequently turning the loss of possession into immediate attacking opportunities.",
-   "image": "https://tvcnews.tv/wp-content/uploads/2026/09/FIFA-Logo.png",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "THENATIONALNEWS.COM",
-   "title": "Coaching, climate, continuity - and Cruyff: How Spain conquered international football",
-   "iso": "2026-10-02T18:11:23.000Z",
-   "link": "https://www.thenationalnews.com/sport/football/2026/10/02/coaching-climate-continuity-and-cruyff-how-spain-conquered-international-football/",
-   "lede": "Spain became the first international team to go 40 matches unbeaten on Tuesday with a 4-1 Uefa Nations League win against Croatia in Seville. That followed a weekend when the European and world champions defeated an England side ranked fourth in the world, 3-2 at Wembley . Spain’s Under-20 women's team were crowned world champions with a triumph against North Korea on Sunday. Most of those players were already Under-17 world champions in 2024, retaining the title they had won in 2022.",
-   "image": "https://www.thenationalnews.com/resizer/v2/ZB6KJ5AJSBESVBEXWHCNLM74A4.jpg?auth=ff53f9bdce44b89f465ce77e6d12aa8ab24eab229823dc07b9234f437dd471ac&smart=true&width=1200&height=630",
+   "cat": "DW.COM",
+   "title": "Lionel Messi retires from international football",
+   "iso": "2026-10-03T00:08:05.000Z",
+   "link": "https://www.dw.com/en/lionel-messi-retires-from-international-football/g-78372844",
+   "lede": "Having started playing football in his native Argentina, Lionel Messi joined Barcelona's youth academy in 2001 at the age of 13. It wasn't long before he was promoted to the first team, making his La Liga debut in October 2004 at the age of 17. The following May he scored his first goal. His first title also came in his debut season, as Barcelona won La Liga in 2004-05.",
+   "image": "https://static.dw.com/image/78584364_6.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "DECCAN HERALD",
-   "title": "High ticket prices threaten turnout for historic India-Brazil Kolkata friendly",
-   "iso": "2026-10-02T17:56:00.000Z",
-   "link": "https://www.deccanherald.com/amp/story/sports%2Ffootball%2Fhigh-ticket-prices-threaten-turnout-for-historic-india-brazil-kolkata-friendly-4168518",
-   "lede": "Kolkata: Brazil coming to Kolkata was always supposed to be a date with destiny for a football-mad city that has loved the Selecao from afar for generations. From Pele, whose 1977 visit remains part of the city’s football folklore, to the World Cup-winning sides featuring mega stars like Ronaldo, Rivaldo and Ronaldinho, Brazil have inspired a devotion here matched only by arch-rivals Argentina. So when the five-time world champions finally arrived to play India at the Salt Lake Stadium, a packed house appeared almost a given. Even Marquinhos seemed overwhelmed by the reception on Friday with close to 200 journalists packing the pre-match press conference and then the pre-match training sessions.",
-   "image": "https://cf-images.assettype.com/deccanherald%2F2026-10-02%2F7vfht1hv%2Ffile87us5w3fo5i10ajgd21hu.jpg?rect=0%2C0%2C4079%2C2141&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "cat": "YAHOO",
+   "title": "Split loyalties for Indian football fans at Brazil friendly",
+   "iso": "2026-10-03T06:55:00.000Z",
+   "link": "https://uk.sports.yahoo.com/news/split-loyalties-indian-football-fans-065533070.html",
+   "lede": "Excited Indian football fans admitted to divided loyalties as they looked forward to their country's first-ever friendly with the mighty Brazil in Kolkata on Saturday.\" Excited Indian football fans admitted to divided loyalties as they looked forward to their country's first-ever friendly with the mighty Brazil in Kolkata on...",
+   "image": "https://s.yimg.com/lo/mysterio/api/f0fd11b7c0443840f2a240cf35824cdf220fb3a0fbbd4dbe92db3baf8c5f791c/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F9491637387f587ec808c96c4681f6e00.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "FIFA Reportedly to Decide 2030 World Cup Final Venue in 2028",
-   "iso": "2026-10-02T17:42:12.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/340521/fifa-reportedly-to-decide-2030-world-cup-final-venue-in-2028/",
-   "lede": "Casablanca – FIFA is reportedly expected to announce its decision on the 2030 World Cup final venue in 2028, leaving Morocco’s bid to stage the showpiece match at the Hassan II Stadium firmly alive. According to Spanish outlet Mundo Deportivo, sources familiar with the process say FIFA does not plan to reveal the final venue before 2028. The report points to the previous World Cup cycle, when FIFA waited until February 2024 to confirm New Jersey as the venue for the 2026 final. The timeline means the competition between Morocco and Spain remains open despite increasingly confident statements from both sides.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-12.00.36.jpeg",
+   "cat": "FACEBOOK.COM",
+   "title": "The Philippine women’s national football team has regrouped in Manila as the Filipinas continue preparations for the 2027 FIFA Women’s World Cup in Brazil. Link to the full story in comment section.",
+   "iso": "2026-10-03T06:01:02.000Z",
+   "link": "https://www.facebook.com/DailyGuardianPH/posts/the-philippine-womens-national-football-team-has-regrouped-in-manila-as-the-fili/1538081808348597/",
+   "lede": "Link to the full story in comment section.",
+   "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/833907478_1038107205946499_3067376670675792895_n.png?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s600x600&_nc_cat=110&ccb=1-7&_nc_sid=cae128&_nc_ohc=P910aoHKxZwQ7kNvwHNPwax&_nc_oc=Adqp-UpLKutpYG6jL_hy7A-qHP-SZMEIs17N8eRfgymIF6gbRqjN3TO9ZMDRpxBbQxg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GwqRRnWS-Ef1szz7bzrhbg&_nc_ss=7c289&oh=00_AQMAKjHTSTxMD3A9isRpQpLHHqFHC6eTrFPQGB5ej_k--Q&oe=6AC6AAA1",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "PULSE SPORTS KENYA",
-   "title": "Mildred Cheche: Why Junior Starlets Are Better Prepared for Morocco World Cup",
-   "iso": "2026-10-03T04:39:22.000Z",
-   "link": "https://www.pulsesports.co.ke/story/mildred-cheche-why-junior-starlets-are-better-prepared-for-morocco-world-cup-2026100304281652635",
-   "lede": "Mildred Cheche expressed confidence in Kenya's preparations for their second FIFA U-17 Women's World Cup appearance in Morocco.",
-   "image": "https://sportal365images.com/process/smp-images-production/ringier.africa.ke/14072026/0d306025-e173-4a76-ab5b-c2ef7bf5bc8f.jpg?operations=autocrop(1200:630)",
+   "cat": "TIMES OF OMAN",
+   "title": "FIFA report on World Cup identifies counter-pressing as defining trend",
+   "iso": "2026-10-03T05:55:00.000Z",
+   "link": "https://timesofoman.com/article/177580-fifa-report-on-world-cup-identifies-counter-pressing-as-defining-trend",
+   "lede": "Goalkeepers are increasingly used as active participants in the build-up phase.",
+   "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/10/1791006936-1791006935-5yvwd1qkifqe-700x400.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "What World Cup’s main characters did next: Red card after 40 seconds, ‘losing peace’, scoring spree",
-   "iso": "2026-10-03T04:05:38.000Z",
-   "link": "https://www.nytimes.com/athletic/7643153/2026/10/03/world-cup-vozinha-what-next/",
+   "cat": "TOD",
+   "title": "Watch France vs Sweden",
+   "iso": "2026-10-03T05:36:34.000Z",
+   "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/16th-finals/france-vs-sweden-5054336",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
