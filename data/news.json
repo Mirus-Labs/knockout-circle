@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-03T02:21:40.667Z",
+ "updated": "2026-10-03T05:47:11.131Z",
  "news": [
+  {
+   "cat": "THE BUSINESS STANDARD",
+   "title": "Erling Haaland sues Norwegian Air over World Cup ad featuring his ponytail",
+   "iso": "2026-10-03T04:35:00.000Z",
+   "link": "https://www.tbsnews.net/sports/erling-haaland-sues-norwegian-air-over-world-cup-ad-featuring-his-ponytail-1560976",
+   "lede": "Norway football star Erling Haaland has taken legal action against Norwegian Air Shuttle, alleging that the airline used elements of his appearance without permission in a World Cup advertisement. The dispute centres on a social media post released during the 2026 FIFA World Cup, when Norway made its first appearance at the tournament since 1998. According to Norwegian newspaper Verdens Gang (VG), the airline shared a composite image of one of its aircraft featuring a ponytail resembling Haaland's distinctive hairstyle. The post carried the caption, \"We've never looked more Norwegian,\" referencing the national team's World Cup campaign.",
+   "image": "https://www.tbsnews.net/sites/default/files/styles/social_gpi_bKash_cash_apr26/public/images/2022/12/29/erling_haaland.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "EWN",
+   "title": "Nigeria's Special Eagles prep for 2026 Amputee World Cup",
+   "iso": "2026-10-03T02:11:31.000Z",
+   "link": "https://www.ewn.co.za/nigerias-special-eagles-prep-for-2026-amputee-world-cup/",
+   "lede": "Nigeria amputee football team training. Picture: Marabou News Agency. Nigeria's men's national amputee football team, known as the Special Eagles, is hard at work in Abuja as they prepare for the 2026 Amputee World Cup. The Major tournament will take place in San Juan De Los Lagos, Mexico, running from November 13 to 22.",
+   "image": "https://media-cache.primedia-service.com/media/khodu54r/nigeria_amputee_football_team_training_5.jpg?width=1200&height=630",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "TVCNEWS.TV",
    "title": "FIFA Identifies Key Trends From 2026 World Cup",
@@ -8,8 +28,8 @@
    "link": "https://www.tvcnews.tv/fifa-identifies-key-trends-from-2026-world-cup/",
    "lede": "FIFA has published its post-tournament technical report on the 2026 World Cup, highlighting counter-pressing, tactical flexibility and the evolving role of goalkeepers as some of the major trends that shaped the tournament. The report, compiled by FIFA’s Technical Study Group (TSG) and Football Performance Insights Department, analysed all 104 matches…... The report, compiled by FIFA’s Technical Study Group (TSG) and Football Performance Insights Department, analysed all 104 matches using expert assessment, football data and video analysis. According to FIFA, counter-pressing emerged as one of the defining features of the tournament, with top teams frequently turning the loss of possession into immediate attacking opportunities.",
    "image": "https://tvcnews.tv/wp-content/uploads/2026/09/FIFA-Logo.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THENATIONALNEWS.COM",
@@ -18,8 +38,8 @@
    "link": "https://www.thenationalnews.com/sport/football/2026/10/02/coaching-climate-continuity-and-cruyff-how-spain-conquered-international-football/",
    "lede": "Spain became the first international team to go 40 matches unbeaten on Tuesday with a 4-1 Uefa Nations League win against Croatia in Seville. That followed a weekend when the European and world champions defeated an England side ranked fourth in the world, 3-2 at Wembley . Spain’s Under-20 women's team were crowned world champions with a triumph against North Korea on Sunday. Most of those players were already Under-17 world champions in 2024, retaining the title they had won in 2022.",
    "image": "https://www.thenationalnews.com/resizer/v2/ZB6KJ5AJSBESVBEXWHCNLM74A4.jpg?auth=ff53f9bdce44b89f465ce77e6d12aa8ab24eab229823dc07b9234f437dd471ac&smart=true&width=1200&height=630",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DECCAN HERALD",
@@ -28,8 +48,8 @@
    "link": "https://www.deccanherald.com/amp/story/sports%2Ffootball%2Fhigh-ticket-prices-threaten-turnout-for-historic-india-brazil-kolkata-friendly-4168518",
    "lede": "Kolkata: Brazil coming to Kolkata was always supposed to be a date with destiny for a football-mad city that has loved the Selecao from afar for generations. From Pele, whose 1977 visit remains part of the city’s football folklore, to the World Cup-winning sides featuring mega stars like Ronaldo, Rivaldo and Ronaldinho, Brazil have inspired a devotion here matched only by arch-rivals Argentina. So when the five-time world champions finally arrived to play India at the Salt Lake Stadium, a packed house appeared almost a given. Even Marquinhos seemed overwhelmed by the reception on Friday with close to 200 journalists packing the pre-match press conference and then the pre-match training sessions.",
    "image": "https://cf-images.assettype.com/deccanherald%2F2026-10-02%2F7vfht1hv%2Ffile87us5w3fo5i10ajgd21hu.jpg?rect=0%2C0%2C4079%2C2141&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -38,45 +58,25 @@
    "link": "https://www.moroccoworldnews.com/2026/10/340521/fifa-reportedly-to-decide-2030-world-cup-final-venue-in-2028/",
    "lede": "Casablanca – FIFA is reportedly expected to announce its decision on the 2030 World Cup final venue in 2028, leaving Morocco’s bid to stage the showpiece match at the Hassan II Stadium firmly alive. According to Spanish outlet Mundo Deportivo, sources familiar with the process say FIFA does not plan to reveal the final venue before 2028. The report points to the previous World Cup cycle, when FIFA waited until February 2024 to confirm New Jersey as the venue for the 2026 final. The timeline means the competition between Morocco and Spain remains open despite increasingly confident statements from both sides.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-12.00.36.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "TIMESOFINDIA.INDIATIMES.COM",
-   "title": "India vs Brazil football 2026 friendly: Where to watch live; venue, kick-off time, squads, line-ups; all",
-   "iso": "2026-10-02T16:18:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-vs-brazil-football-2026-friendly-where-to-watch-live-venue-kick-off-time-squads-line-ups-all-you-need-to-know/articleshow/134642441.cms",
-   "lede": "India are set for one of the biggest football nights in their history when the Blue Tigers face five-time FIFA World Cup champions Brazil in Kolkata on Saturday. The match will bring Vinicius Junior, Endrick and a star-studded Brazil squad coached by Carlo Ancelotti to Salt Lake Stadium, with the 138th-ranked Indians facing the world No. 5 side in the first senior men's international meeting between the two countries.India vs Brazil: A historic night in KolkataThe India vs Brazil international friendly will be played at the Vivekananda Yuba Bharati Krirangan, better known as Salt Lake Stadium, in Kolkata on Saturday, October 3, 2026. Kick-off is scheduled for 7:30 PM Indian Standard Time (IST). It will be the first-ever senior men's international football match between India and Brazil, while Brazil will also be playing an international match on Indian soil for the first time.",
-   "image": "https://static.toiimg.com/thumb/msid-134643142,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DAILYGUARDIAN.COM.PH",
-   "title": "Filipinas regroup for Peru friendlies, World Cup buildup",
-   "iso": "2026-10-02T16:08:46.000Z",
-   "link": "https://www.dailyguardian.com.ph/blog/filipinas-regroup-for-peru-friendlies-world-cup-buildup",
-   "lede": "The Philippine women’s national football team has regrouped in Manila as the Filipinas continue preparations for the 2027 FIFA Women’s World Cup in Brazil. Fresh from a second consecutive quarterfinal appearance at the Asian Games, the Filipinas will next travel to South America for two international friendlies against Peru in Chincha. The matches are scheduled for Oct. 9 and 13, 2026, during the FIFA international window. The Peru fixtures will expose the Filipinas to South American football as the team builds toward a World Cup that will be staged on the same continent next year.",
-   "image": "https://old.dailyguardian.com.ph/wp-content/uploads/2026/10/Filipinas-regroup-for-Peru-friendlies-World-Cup-buildup.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "CAFONLINE.COM",
-   "title": "CAF Strategy Conference: Desabre – the coach who restored DR Congo to the World Cup after 52 years",
-   "iso": "2026-10-02T15:04:01.000Z",
-   "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-desabre-the-coach-who-restored-dr-congo-to-the-world-cup-after-52-years/",
-   "lede": "Sébastien Desabre will arrive at the CAF Strategy Conference in Cabo Verde carrying the experience of rebuilding one of African football’s traditional powers and taking DR Congo back to the FIFA World Cup after a 52-year absence. The French coach guided the Leopards to the 2026 global finals for only the second time in their history before taking them into the knockout stage, where they pushed England deep into the match before losing 2-1 in the Round of 32. His journey is particularly relevant to a CAF Strategy Conference that will examine why nine of Africa’s record 10 representatives progressed beyond the group stage in 2026 and how those lessons can strengthen African football on the road to 2030. Desabre’s contribution also offers a different perspective from several of the other World Cup coaches.",
-   "image": "https://www.cafonline.com//media/zk4edbho/desabre.jpg?width=1200",
+   "cat": "PULSE SPORTS KENYA",
+   "title": "Mildred Cheche: Why Junior Starlets Are Better Prepared for Morocco World Cup",
+   "iso": "2026-10-03T04:39:22.000Z",
+   "link": "https://www.pulsesports.co.ke/story/mildred-cheche-why-junior-starlets-are-better-prepared-for-morocco-world-cup-2026100304281652635",
+   "lede": "Mildred Cheche expressed confidence in Kenya's preparations for their second FIFA U-17 Women's World Cup appearance in Morocco.",
+   "image": "https://sportal365images.com/process/smp-images-production/ringier.africa.ke/14072026/0d306025-e173-4a76-ab5b-c2ef7bf5bc8f.jpg?operations=autocrop(1200:630)",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FOOTBALL.COM",
-   "title": "Spain vs Austria: World Cup 2026 Last-32 Preview | News | Football.com Nigeria",
-   "iso": "2026-10-03T00:00:00.000Z",
-   "link": "https://www.football.com/ng/m/n/news/109922",
-   "lede": "Spain are backed to beat Austria in their World Cup 2026 last-32 tie, with possession control, group form and recent history pointing to a 2-0 win.",
+   "cat": "THE NEW YORK TIMES",
+   "title": "What World Cup’s main characters did next: Red card after 40 seconds, ‘losing peace’, scoring spree",
+   "iso": "2026-10-03T04:05:38.000Z",
+   "link": "https://www.nytimes.com/athletic/7643153/2026/10/03/world-cup-vozinha-what-next/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
