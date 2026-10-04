@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T00:06:47.160Z",
+ "updated": "2026-10-04T00:24:42.442Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "Tuchel convinced England have buried World Cup woes with Croatia thrashing",
-   "iso": "2026-10-03T23:20:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/oct/03/tuchel-convinced-england-have-buried-world-cup-woes-with-croatia-thrashing",
-   "lede": "‘We’ll always have a scar, but this is how we move forward’. Manager praises ‘complete package’ Scott on full debut. Thomas Tuchel said England have moved on from their World Cup pain after seeing his side deliver a statement performance in Rijeka and hand Croatia their biggest ever defeat. Tuchel was delighted after his front four combined to devastating effect at Stadion HNK Rijeka, where 6,200 local schoolchildren were allowed in free of charge even though the game was supposed to take place behind closed doors after Croatia were punished by Uefa for racist and discriminatory fan behaviour last year.",
-   "image": "https://i.guim.co.uk/img/media/61efffc3f902e5770d413791fa7030ab1c6ae7d8/704_0_4705_3764/master/4705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f7f37d3cc6c42939b82e7361693d85b",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "RTL TODAY",
    "title": "Football friendly: Brazil shine on Selecao's first visit to India",
    "iso": "2026-10-03T22:41:15.000Z",
    "link": "https://today.rtl.lu/news/world/brazil-shine-on-selecaos-first-visit-to-india-323694963",
    "lede": "Five-time World Cup winners Brazil showed glimpses of their class in a 4-0 win over India in a rare football friendly between the two nations in Kolkata on Saturday. India's hosting of a senior men's Brazil team for the first time had created buzz but a half-empty 65,000-capacity Salt Lake Stadium greeted the players. Critics blamed the pricing of tickets for the low attendance despite Brazil's top stars including Real Madrid forward Vinicius Junior and Marquinhos in the line-up. The cheapest tickets were priced at 999 rupees ($10) but they were sold minutes after going on sale, while the next categories ranged between 3,500 and 25,000 rupees.",
    "image": "https://static-prod.rtl.lu/dims4/default/478048d/2147483647/strip/true/crop/768x432+0+0/resize/1224x689!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2F03%2F48%2F3fa7e184d6ae4c0f81edb9f220fa%2Fahr0chm6ly9hznatyxbpy29yzs1wcm9klmfmcc5jb20vb2jqzwn0cy9hcgkvbwvkawfzp2lkpwexa2tjuzbuu2haq1dguxnwmghhvuvwrefragvlalpdu2gwrmvbzhfcwhbxqxdnr2f3wnpmr3ndq3c5cufxoengr1jbvuy4quhcviuyqkxdvkzmvmrtyjewmvyzd21xmvvoqlhjvuvrz0zdd3h5zdjntvpooevcd0fxv0zgu2vewknwqnheskzvz1ftwjncd1vbtmtbdgf5z3pimhhev1fvclhgcehxrjvkuuz3wupdumrgmuzitejsm0firnpbd0vbzdjcd2mzzhpeutkzr0z3cvdnqlfcd1jyr2s5ull6tkvyutlpsm1vsfz5a3vxegrdszfna2vdd3zybezkvte1alhgvkvyrujwwgdvsgnuc2ved0vezefcd0fuujhgrvzas1zfeu1tvxjtuvfjqvfgmensa0jcz2ngr2drqll5rkjtzzlatkzzefdtngdwbghswwtjmuldtw5wmvlrvuzrcfnrz1nwa1losfi1rulyogrimgrbzkfkalf6bdrbd0ffzlfkes5qcgc.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "CTV NEWS",
@@ -38,6 +28,16 @@
    "link": "https://www.ctvnews.ca/calgary/article/grey-cup-legacy-project-brings-three-new-flag-football-fields-to-calgary/",
    "lede": "A special celebration was held Saturday at Fonda Park, showcasing an empty and underused recreation space that will soon become three brand new flag football fields. “It’s a partnership between the Calgary Stampeders Foundation and the City of Calgary. This will be open for bookings and use as of April 2027, and these three dedicated flag football fields will create more opportunities for young athletes, families and communities from across the entire city to get active, come together, and connect through sports,” said Tourism Calgary’s senior vice-president of sales Carson Ackroyd. “Fonda Park was selected because it already has the infrastructure, the transit access, and parking needs to support increased recreational use.",
    "image": "https://www.ctvnews.ca/resizer/v2/XUK4C6G2ZNDRTMMOAQ6FYZ5ACI.bmp?smart=true&auth=283c04faea9c62e52693f8827d6755a5d825dbd97c5a04e4bd6c19337102735b&width=1200&height=630",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Tuchel convinced England have buried World Cup woes with Croatia thrashing",
+   "iso": "2026-10-03T19:50:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/oct/03/tuchel-convinced-england-have-buried-world-cup-woes-with-croatia-thrashing",
+   "lede": "‘We’ll always have a scar, but this is how we move forward’. Manager praises ‘complete package’ Scott on full debut. Thomas Tuchel said England have moved on from their World Cup pain after seeing his side deliver a statement performance in Rijeka and hand Croatia their biggest ever defeat. Tuchel was delighted after his front four combined to devastating effect at Stadion HNK Rijeka, where 6,200 local schoolchildren were allowed in free of charge even though the game was supposed to take place behind closed doors after Croatia were punished by Uefa for racist and discriminatory fan behaviour last year.",
+   "image": "https://i.guim.co.uk/img/media/61efffc3f902e5770d413791fa7030ab1c6ae7d8/704_0_4705_3764/master/4705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f7f37d3cc6c42939b82e7361693d85b",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -62,22 +62,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "MEZHA.NET",
+   "cat": "TNT SPORTS",
+   "title": "Today’s football games and predictions: Croatia vs England | North Macedonia vs Scotland | Saturday, 3 October",
+   "iso": "2026-10-03T18:20:22.000Z",
+   "link": "https://www.tntsports.co.uk/betting/tips/football-games-today-predictions/",
+   "lede": "The second week of this bumper international break is upon us as the UEFA Nations League continues with eight more matches from Leagues A, B and C. Today, England face Croatia as they look to stay in touching distance of Spain at the top of Group A3, while Scotland take on North Macedonia in search of their first win of the campaign. Below, check out our expert predictions for both matches. Please gamble responsibly.",
+   "image": "https://www.tntsports.co.uk/betting/thumbor/NqtHQgYEbyowE3qW570ARXvtZKg=/1200x630/smart/filters:format(jpeg)/https%3A%2F%2Fmedia-eurosport.s3.gra.io.cloud.ovh.net%2Fbetting%2F2026%2F07%2FTodays-football-games-and-predictions.png",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "МЕЖА. НОВИНИ УКРАЇНИ.",
    "title": "Ukraine names 15-player squad for 2026 WAFF Amputee Football World Championship",
    "iso": "2026-10-03T18:06:27.000Z",
    "link": "https://mezha.net/eng/news/6abfce5a_ukraine_names_15-player/",
    "lede": "Ukraine faces a demanding group in Mexico, and one opponent brings a record that could make the opening challenge especially difficult. Ukraine’s amputee football team has announced its squad for the 2026 WAFF World Cup. The roster includes 15 first-team players and four reserves. Head coach Nazarii Rusetskyi announced the squad, the Ukrainian Association of Football reported.",
    "image": "https://mezha.net/eng/kd_image_generate/6abfce5a_ukraine_names_15-player/3728203.jpg?ver=2.0.15",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "RNZ.CO.NZ",
-   "title": "Football Ferns coach Michael Mayne formulates plan for 2027 World Cup",
-   "iso": "2026-10-03T17:55:39.000Z",
-   "link": "https://www.rnz.co.nz/news/sport/1708041/football-ferns-coach-michael-mayne-formulates-plan-for-2027-world-cup",
-   "lede": "Time is ticking for the Football Ferns. Six months have passed since they qualified for the 2027 Football World Cup in Brazil and four months since the team was last together. Next week in Panama, coach Michael Mayne will see how close he is to the \"winning combination\" that will inform who makes the plane for the global tournament in June. He has four international windows before Brazil, two months before the World Cup draw and plenty to consider.",
-   "image": "https://media.rnztools.nz/rnz/image/upload/s--ycdeJi2H--/t_tohu-badge-facebook/f_auto/q_auto/4JX0E7F_251202_MatildasFootballFerns_024_JPG",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
