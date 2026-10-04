@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T12:28:30.171Z",
+ "updated": "2026-10-04T12:28:56.310Z",
  "news": [
   {
    "cat": "INDIAN TELEVISION DOT COM",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "TNT SPORTS",
-   "title": "Today’s football games and predictions: Republic of Ireland vs Israel | Wales vs Denmark | Sunday, 4 October",
-   "iso": "2026-10-04T10:22:17.000Z",
-   "link": "https://www.tntsports.co.uk/betting/tips/football-games-today-predictions/",
-   "lede": "The second week of this bumper international break concludes today, with eight more matches from the UEFA Nations League taking place. In League A, Wales play the penultimate home match of their campaign as they welcome Denmark to Cardiff. Meanwhile, in League B, the Republic of Ireland take on Israel at a neutral venue due to the tense political situation between the two countries. Below, check out our expert predictions for both matches.",
-   "image": "https://www.tntsports.co.uk/betting/thumbor/NqtHQgYEbyowE3qW570ARXvtZKg=/1200x630/smart/filters:format(jpeg)/https%3A%2F%2Fmedia-eurosport.s3.gra.io.cloud.ovh.net%2Fbetting%2F2026%2F07%2FTodays-football-games-and-predictions.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "CAFONLINE.COM",
    "title": "CAF Strategy Conference: Hossam Hassan – the Egyptian legend who finally took the Pharaohs into the World Cup knockouts",
    "iso": "2026-10-04T10:04:29.000Z",
    "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-hossam-hassan-the-egyptian-legend-who-finally-took-the-pharaohs-into-the-world-cup-knockouts/",
    "lede": "Hossam Hassan will arrive at the CAF Strategy Conference in Cabo Verde having achieved something generations of Egyptian players and coaches had been unable to do – guide the Pharaohs beyond the opening stage of a FIFA World Cup. The 60-year-old took Egypt to the Round of 16 at the 2026 tournament, their deepest World Cup run, after an unbeaten group campaign and a dramatic penalty shootout victory over Australia in the Round of 32. Their journey ended in a 3-2 defeat by defending champions Argentina in Atlanta, but only after Egypt had led for much of the match and pushed one of the tournament favourites to the limit. For Hassan, the achievement carried particular significance.",
    "image": "https://www.cafonline.com//media/v1zpmuxg/hossam-hassan1jpg.png?width=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE STRAITS TIMES",
@@ -38,8 +28,8 @@
    "link": "https://www.straitstimes.com/sport/football/saudi-arabia-quietly-shelving-neom-stadium-one-of-2034-world-cup-venues?ref=latest-headlines",
    "lede": "A model of the proposed NEOM Stadium seen inside the Saudi Arabia World Cup bid exhibition. RIYADH/DUBAI – Saudi Arabia is quietly shelving plans to build one of its most ambitious stadiums for the 2034 FIFA World Cup, two sources familiar with the matter said, after delays and downscaling of the futuristic development housing it. The NEOM Stadium was billed as an elevated arena in a glitzy 160km steel-and-glass structure known as The Line, in turn part of the broader development known as NEOM. NEOM was introduced about a decade ago as a centrepiece of de facto ruler Crown Prince Mohammed bin Salman’s Vision 2030, an ambitious plan to diversify the economy and cut reliance on oil.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/05ecadd829ee9ac71fa64e1e296ab76d2fa0dede851a48bc15da0994918cc663",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
@@ -48,8 +38,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o",
    "lede": "Highlights: North Macedonia 0-2 Scotland. Sometimes, the solution to a problem can be hiding in plain sight. On 19 May, Steve Clarke assembled his collection of players to embark on a World Cup journey. Despite featuring and scoring for a Hellas Verona side heading for relegation from Serie A, and with a perennial problem of strikers not firing regularly for Scotland, Kieron Bowie was overlooked.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e53/live/7ab140f0-bfc7-11f1-ae6d-41d695ddb617.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,8 +48,8 @@
    "link": "https://sports.yahoo.com/articles/tuchel-wants-england-world-cup-071000210.html",
    "lede": "Thomas Tuchel has said England can use their record-breaking 7-0 win against Croatia to heal from their World Cup disappointment. England produced the best performance of Tuchel’s tenure so far to s... England produced the best p...",
    "image": "https://s.yimg.com/lo/mysterio/api/01a3e8532189c749301f58473ad2216b6512d1680c84c9cecee268c65304a26b/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2F1feb208a98aa549f5925e36050581409.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE PENINSULA QATAR",
@@ -68,14 +58,23 @@
    "link": "https://thepeninsulaqatar.com/article/04/10/2026/sc-showcases-qatars-volunteering-legacy-at-asian-games-2026",
    "lede": "Doha, Qatar: The Supreme Committee for Delivery Legacy (SC) showcased the legacy of its Qatar Volunteer Programme at Bayt Qatar during the Asian Gam...",
    "image": "https://thepeninsulaqatar.com/get/maximage/20261004_1791093255-658.jpeg?1791093255",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SPORTSDESK",
    "title": "England healing pain of World Cup heartache says Tuchel",
    "iso": "2026-10-04T11:15:00.000Z",
    "link": "https://sport.timesofmalta.com/2026/10/04/england-healing-pain-of-world-cup-heartache-says-tuchel/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Inside Cavan Sullivan’s record-breaking USMNT moment vs. Mexico: ‘Greatest day of my life’",
+   "iso": "2026-10-04T11:00:31.000Z",
+   "link": "https://www.nytimes.com/athletic/7657952/2026/10/04/cavan-sullivan-usmnt-mexico-goal-birthday-record-pochettino/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
