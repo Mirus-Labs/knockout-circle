@@ -1,15 +1,55 @@
 {
- "updated": "2026-10-06T00:22:30.588Z",
+ "updated": "2026-10-06T06:53:34.354Z",
  "news": [
+  {
+   "cat": "SKY SPORTS",
+   "title": "Liverpool defender Jeremy Jacquet left out of France game after suffering hamstring strain - Paper Talk | Football News",
+   "iso": "2026-10-06T05:48:26.000Z",
+   "link": "https://www.skysports.com/football/news/13595580/x-paper-talk",
+   "lede": "The top stories and transfer rumours from Tuesday's newspapers... PREMIER LEAGUE Liverpool defender Jeremy Jacquet was left out of the France squad on Monday evening after picking up a hamstring strain - talkSPORT Noni Madueke has sparked interest from Champions League clubs after struggling to get into the Arsenal side at the start of this season - The Telegraph Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE HERALD",
    "title": "From Wembley wizard to World Cup woe, Billy Gilmour looks back on 50 Scotland caps",
-   "iso": "2026-10-05T22:52:30.000Z",
+   "iso": "2026-10-06T05:35:04.000Z",
    "link": "https://www.heraldscotland.com/sport/26609584.50-not-gilmour-wembley-wizardry-world-cup-woe/",
    "lede": "Billy Gilmour has come a long way since his early days as a young, hot Scotland prospect, and his headline grabbing performance on his first start for his country against England at Wembley in the Euros. “I remember that,” Gilmour said. Before adding, rather candidly; “I was s******g myself.” It is a little hard to believe that the fresh-faced youth who conquered those nerves to run the show at the home of the Auld Enemy and announce himself on the international scene is about to pick up his 50th Scotland cap, with his certain selection against Slovenia tonight ensuring he will earn his place on the national team roll of honour.",
    "image": "https://www.heraldscotland.com/resources/images/20993880.jpg?type=og-image",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "Women's World Cup qualifying play-offs: Gemma Grainger reunion looms as Wales face Albania",
+   "iso": "2026-10-06T04:56:59.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c617j1klwpwqo",
+   "lede": "Wales are unbeaten in their past eight internationals. Wales resume their bid to reach a first Women's World Cup this week knowing former boss Gemma Grainger may eventually stand between them and a place in Brazil next summer. Grainger came closer than any of her predecessors to ending Wales' wait for a World Cup appearance in qualifying for the 2023 tournament. Yet as they head into the play-offs for the 2027 World Cup, Wales' players are aware that something special is likely to be required against Grainger's Norway side if they are to achieve their dream this time around.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2a51/live/9a623490-bb49-11f1-a071-65d2e11c8f4a.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE TIMES OF INDIA",
+   "title": "Khalid Jamil’s bolder India faces Uruguay as Forlan begins rebuilding after World Cup debacle",
+   "iso": "2026-10-06T03:27:00.000Z",
+   "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/khalid-jamils-bolder-india-faces-uruguay-as-forlan-begins-rebuilding-after-world-cup-debacle/articleshow/134722058.cms",
+   "lede": "KOLKATA: In the past few days, Diego Forlan and his Uruguay team have been staying here like passive guests, happily blending into the background and letting Carlo Ancelotti’s Brazil enjoy the public eye. With the departure of their fellow South American rivals, the spotlight is back on La Celeste. So is India’s final act of their extraordinary brush with three World Cup teams in this Fifa international window.Being a football team in transition comes with its own set of challenges. In holding Panama 1-1 and even in losing 0-4 to Brazil, Khalid Jamil’s team has shown glimpses of promise.",
+   "image": "https://static.toiimg.com/thumb/msid-134722079,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "FOX 4 NEWS DALLAS-FORT WORTH",
+   "title": "Viral World Cup fan Freddy set to attend Red River Rivalry game in Dallas",
+   "iso": "2026-10-06T02:09:43.000Z",
+   "link": "https://www.fox4news.com/news/viral-world-cup-fan-freddy-set-attend-red-river-rivalry-game-dallas",
+   "lede": "Freddy, the German soccer fan who went viral during the 2026 FIFA World Cup for documenting his trip through the United States, is coming to North Texas for college football's Red River Rivalry game.The Texas Longhorns and Oklahoma Sooners are scheduled to meet Saturday, Oct. 10 at 2:30 p.m. at the Cotton Bowl in Dallas. After returning to the United States this Fall, Freddy began documenting a new trip focused on college football. His Dallas visit will combine two of his interests: American football and the State Fair of Texas. Freddy announced the visit in a post on X, where he uses the handle @FreddyLA7 and typically posts photos while keeping his face covered, and staying anonymous.Freddy became an online sensation during a six-week trip through the United States and Canada to follow Germany during the World Cup.",
+   "image": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2025/10/1200/630/gettyimages-2178435632.jpg?ve=1&tl=1",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "CAFONLINE.COM",
@@ -18,8 +58,8 @@
    "link": "https://www.cafonline.com/caf-strategy-conference/news/everything-you-need-to-know-about-the-caf-strategy-conference-dates-venue-and-key-issues/",
    "lede": "The Confédération Africaine de Football (CAF) will bring together leading decision-makers, coaches and football experts in Cape Verde in October for a landmark Strategy Conference aimed at shaping the next phase of African football development. The three-day gathering will take place from 7 to 9 October 2026 in Santa Maria, Sal Island, and will be convened under the leadership of CAF President Dr Patrice Motsepe. The Conference comes after Africa’s record participation at the FIFA World Cup 2026, where 10 national teams represented the continent and nine progressed to the knockout stages. Their performances will form an important part of discussions as CAF examines what worked, what can be improved and how African teams can become even more competitive by the FIFA World Cup 2030.",
    "image": "https://www.cafonline.com//media/3gbgmqno/cape-who.jpg?width=1200",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TALKSPORT",
@@ -28,54 +68,15 @@
    "link": "https://talksport.com/football/4627067/gennaro-gattuso-health-battle-illness-italy-world-cup/",
    "lede": "Gattuso admitted that he retired after being diagnosed with an autoimmune disease that he has been battling since. The iconic midfielder hung up his boots in 2013 after an impressive playing career spanning almost two decades. And he has now opened up about his long-term struggles with his illness that takes a toll on him on a daily basis. Speaking at the Festival dello Sport, Gattuso revealed: \"I stopped playing because of the autoimmune disease I got.",
    "image": "https://talksport.com/wp-content/uploads/2026/10/crop-1743800.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "CAFONLINE.COM",
-   "title": "CAF Strategy Conference: Carlos Queiroz – five World Cups and a Ghana campaign with lessons for Africa",
-   "iso": "2026-10-05T20:21:18.000Z",
-   "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-carlos-queiroz-five-world-cups-and-a-ghana-campaign-with-lessons-for-africa/",
-   "lede": "Carlos Queiroz will arrive at the CAF Strategy Conference in Cabo Verde only days after his spell as Ghana coach came to an end, but carrying with him another chapter in one of international football’s most travelled coaching careers. The 73-year-old mutually ended his agreement with the Ghana Football Association on 1 October, just weeks after being handed a new mandate following the FIFA World Cup 2026. Despite leaving the Black Stars, Queiroz will still attend the Conference in Sal to share the experience of guiding Ghana through one of the most demanding groups at the World Cup and into the knockout stage for the first time since 2010.",
-   "image": "https://www.cafonline.com//media/dmrpqr4x/carlos-queiroz.jpg?width=1200",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Tebas Calls Real Madrid ‘Most Rebellious Team’ in Spanish Football",
-   "iso": "2026-10-05T20:11:39.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/340785/tebas-calls-real-madrid-most-rebellious-team-in-spanish-football/",
-   "lede": "Rabat - LaLiga president Javier Tebas has described Real Madrid as the “most rebellious” club in Spanish professional football, criticizing how the club’s leadership views the sport's future structure. Tebas made the comments on Monday during the first National Conference on Journalism and Sport in Vigo, organized by the Galician Association of Sports Journalists (AGAXORDE). “The most rebellious team in Spain is Real Madrid because Madrid’s directors have a way of understanding football that I do not have,” Tebas said. “In Europe, there is Al-Khelaifi.”",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2025/10/1207059133.0.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "ESPN.COM.AU",
-   "title": "Following World Cup failure, Ancelotti's Brazil still haven't convinced many",
-   "iso": "2026-10-05T22:52:30.000Z",
-   "link": "https://www.espn.com.au/football/story/_/id/50110277/following-world-cup-failure-carlo-ancelottis-brazil-havent-convinced-many",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE SCOTSMAN",
-   "title": "Billy Gilmour on his Wembley high, World Cup low and new role leading Scotland’s next generation",
-   "iso": "2026-10-05T21:30:00.000Z",
-   "link": "https://www.scotsman.com/sport/football/international/billy-gilmour-on-his-wembley-high-world-cup-low-and-new-role-leading-scotlands-next-generation-9267913",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BROADCAST",
-   "title": "Rick Edwards and Lloyd Griffith return to BBC Football Daily podcast",
-   "iso": "2026-10-05T21:22:25.000Z",
-   "link": "https://www.broadcastnow.co.uk/broadcasting/rick-edwards-and-lloyd-griffith-return-to-bbc-football-daily-podcast/5221030.article",
-   "lede": "The duo returns following a FIFA World Cup 2026 run that generated more than 7.3 million streams, with new episodes dropping every Thursday and Sunday.",
-   "image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/4/1/1488841_footballdailylogo9x16_26627.png",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Why Argentina can’t retire Lionel Messi’s No 10 shirt",
+   "iso": "2026-10-06T04:25:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7662750/2026/10/06/lionel-messi-argentina-no-10-shirt/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
