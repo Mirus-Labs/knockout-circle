@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-06T13:40:22.859Z",
+ "updated": "2026-10-06T14:14:44.466Z",
  "news": [
+  {
+   "cat": "COVENTRYOBSERVER.CO.UK",
+   "title": "FOOTBALL - World Cup winner Emmanuel Petit believes Frank Lampard is ready for top jobs after Coventry City success",
+   "iso": "2026-10-06T14:00:06.000Z",
+   "link": "https://coventryobserver.co.uk/sport/football-world-cup-winner-emmanuel-petit-believes-frank-lampard-is-ready-for-top-jobs-after-coventry-city-success/",
+   "lede": "And Petit also won 63 caps for France and lifted the World Cup and European Championships on the international stage. He scored the third goal in the 1998 FIFA World Cup final as France thrashed Brazil 3-0 on home soil in Paris. Petit played alongside Coventry boss Lampard for just over two seasons at Chelsea. And Petit believes Lampard has learned his lessons from his early struggles in management to take on a top job once again.",
+   "image": "https://coventryobserver.co.uk/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-14.40.03.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE MIRROR",
    "title": "Gianni Infantino under pressure over new World Cup scandal after allowing ineligible player",
@@ -8,8 +18,8 @@
    "link": "https://www.mirror.co.uk/sport/football/news/infantino-world-cup-scandal-congo-37740787",
    "lede": "Gianni Infantino has come under yet more scrutiny after it emerged that FIFA knowingly allowed an ineligible player to play for DR Congo in a crucial World Cup qualifier. Congo made a mark at the World Cup in the summer, reaching the knockout stages, where they gave England a scare in a competitive 2-1 come-from-behind win for Thomas Tuchel's side in the last 32. One of their stars in that match was goalkeeper Lionel Mpasi, who has now found himself at the centre of an eligibility scandal. As first reported by The New York Times , FIFA knew that Congo hadn't completed the paperwork for Mpasi to switch his international allegiance from France to the African nation before they played, and beat, Jamaica in a World Cup qualification play-off in March.",
    "image": "https://i2-prod.mirror.co.uk/article37587169.ece/ALTERNATES/s1200d/5_Business-Leaders-Speak-At-The-Semafor-World-Economy-Summit.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE TIMES OF INDIA",
@@ -18,18 +28,18 @@
    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-paulo-dybala-and-nahuel-molina-are-blocked-from-messis-farewell-despite-the-whole-2022-world-cup-winning-squad-being-invited/articleshow/134738313.cms",
    "lede": "View this post on Instagram A post shared by Nahuel Molina Lucero (@nahuelmolina35). Discover why Paulo Dybala and Nahuel Molina have been prevented from attending Lionel Messi's farewell match despite being part of Argentina's 2022 World Cup-winning squad. Find out Roma's reasons and the implications for both players and the club.",
    "image": "https://static.toiimg.com/thumb/msid-134739375,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "TELEGRAPH.CO.UK",
+   "cat": "THE TELEGRAPH",
    "title": "Infantino faces fresh row over secret ineligible DR Congo player being cleared for World Cup",
    "iso": "2026-10-06T11:09:00.000Z",
    "link": "https://www.telegraph.co.uk/football/2026/10/06/infantino-dr-congo-world-cup-ineligible/",
    "lede": "African nation escaped punishment despite failing to properly register Lionel Mpasi in case that raises fresh questions over Fifa governance. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent. Before joining the Telegraph in 2013, Ben spent more than eight years at the Press Association, including as a football and rugby reporter.",
    "image": "https://www.telegraph.co.uk/content/dam/football/2026/10/06/TELEMMGLPICT000506190937_17912818648850_trans_NvBQzQNjv4BqOQLl5ekLzbybos8SOap6xNDQKCcySSvmVDIrsejRqPE.jpeg?impolicy=OG-Standard",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -38,8 +48,8 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-lionel-mpasi-dr-congo-fifa-world-cup-england-b3062079.html",
    "lede": "Lionel Mpasi faced England at the World Cup, but questions have now been raised over his eligibility. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Gianni Infantino is facing fresh questions following reports that Fifa lawyers knew in March that DR Congo’s goalkeeper Lionel Mpasi was allegedly ineligible.",
    "image": "https://static.independent.co.uk/2026/09/29/08/2026-09-27T192520Z_1318916432_UP1EM9R1HY7OO_RTRMADP_3_SOCCER-WORLDCUPU20-ESP-PRK.JPG?trim=17,0,17,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE GUARDIAN",
@@ -48,8 +58,8 @@
    "link": "https://www.theguardian.com/football/2026/oct/06/lionel-messi-completed-football-argentina-farewell-world-cup-glory",
    "lede": "Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come. Not for the first time, Lionel Messi is returning to the Argentina national team. This occasion, however, will be accompanied by a sense of completion and celebration rather than obligation, as the country bids farewell to probably the greatest footballer ever. Messi will wear the Argentina shirt one last time this week for a friendly in Buenos Aires against Benin (who else?!)",
    "image": "https://i.guim.co.uk/img/media/840e3b3bc9df565af3f59cd3d94fbcbde70361f9/1046_0_6689_5350/master/6689.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af9a6f3ddc28e274cf81a2e9fed7e5b0",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,26 +68,15 @@
    "link": "https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football",
    "lede": "From ‘the new Toni Kroos’ to the US’ next big hope, Cavan Sullivan, we select some of the most talented players born in 2009. Here’s our Premier League class of 2026. From Vinicius Júnior, who has already signed for Real Madrid, to 'the Romanian Donnarumma' the Guardian identifies 60 of the best players in the world born in 2000.",
    "image": "https://i.guim.co.uk/img/media/b7ba568b001c9d37f27a841072d55afde100d7cf/0_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=311902bcec8aed18d52bbd4f7d16bd70",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "TALKSPORT",
-   "title": "World Cup star who faced England was deemed ineligible before tournament",
-   "iso": "2026-10-06T10:30:51.000Z",
-   "link": "https://talksport.com/football/4627671/lionel-mpasi-ineligible-congo-world-cup-fifa/",
-   "lede": "As FIFA president Gianni Infantino fights to be re-elected after a summer of controversies, the New York Times reports the organisation allowed DR Congo to field an ineligible player at the World Cup. The report named Congo goalkeeper Lionel Mpasi as the player in the eye of the storm. Mpasi represented France at youth level but went on to be capped by Congo as a senior international and debuted in February 2022. However, according to the report, Congo did not complete the documentation for Mpasi to fully change his international allegiance.",
-   "image": "https://talksport.com/wp-content/uploads/2026/10/crop-4627876.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SPORTSTAR",
-   "title": "Argentina vs Benin, Messi farewell match: Streaming, Kickoff time in IST, Where to Watch in India",
-   "iso": "2026-10-06T10:30:00.000Z",
-   "link": "https://sportstar.thehindu.com/football/argentina-vs-benin-messi-farewell-match-streaming-kickoff-time-ist-where-to-watch-in-india/article71550507.ece",
-   "lede": "REUTERS REUTERS https://ss-i.thgim.com/public/incoming/qqxyho/article71550520.ece/alternates/FREE_1200/2026-10-05T214623Z_1085063938_UP1EMA51OH93K_RTRMADP_3_SOCCER-FRIENDLY-ARG-BEN-PREVIEW.JPG PEDRO LAZARO FERNANDEZ Soccer Football - International Friendly - Argentina Training - Ezeiza Training Complex, Buenos Aires, Argentina - October 5, 2026 Argentina's Lionel Messi during training REUTERS/Pedro Lazaro Fernandez The 39-year-old icon announced his retirement from international football days after the 0-1 loss to Spain in the 2026 FIFA World Cup final. Chennai Lionel Messi will bring the curtains down on a storied international career when Argentina plays Benin in a friendly on Tuesday. The 39-year-old icon announced his retirement from international football days after the 0-1 loss to Spain in the 2026 FIFA World Cup final.",
-   "image": "https://ss-i.thgim.com/public/incoming/qqxyho/article71550520.ece/alternates/LANDSCAPE_1200/2026-10-05T214623Z_1085063938_UP1EMA51OH93K_RTRMADP_3_SOCCER-FRIENDLY-ARG-BEN-PREVIEW.JPG",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Fantasy football market share report: Quinshon Judkins’ stock is rising",
+   "iso": "2026-10-06T13:57:52.000Z",
+   "link": "https://www.nytimes.com/athletic/7665380/2026/10/06/fantasy-football-market-share-report-quinshon-judkins/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
