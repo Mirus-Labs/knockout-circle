@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:17:14.149Z",
+ "updated": "2026-10-06T00:22:30.588Z",
  "news": [
   {
    "cat": "THE HERALD",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "SUPERSPORT.COM",
-   "title": "Modric hopes fans back Croatia against Spain after England shame",
-   "iso": "2026-10-05T20:37:30.000Z",
-   "link": "https://supersport.com/football/news/3ca1ef53-38eb-481c-bfe5-1495376f846b/modric-hopes-fans-back-croatia-against-spain-after-england-shame",
-   "lede": "Croatia captain Luka Modric said he hoped the country's fans would support the team despite a hefty defeat by England when they face world champions Spain on Tuesday in the Nations League. Modric and his team-mates were crushed 7-0 at home by Thomas Tuchel's England on Saturday and the AC Milan midfielder said afterwards he was \"ashamed\" of the team's performance. Croatia host Spain in Split in Group A3 seeking to make amends, while La Roja are hoping to seal qualification to the quarter-finals. \"Losing isn't the problem, but the way we lost is,\" 41-year-old former Real Madrid star Modric told reporters Monday.",
-   "image": "https://images.supersport.com/media/c1ah34sk/luka-modric-2000g.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "CAFONLINE.COM",
    "title": "CAF Strategy Conference: Carlos Queiroz – five World Cups and a Ghana campaign with lessons for Africa",
    "iso": "2026-10-05T20:21:18.000Z",
    "link": "https://www.cafonline.com/caf-strategy-conference/news/caf-strategy-conference-carlos-queiroz-five-world-cups-and-a-ghana-campaign-with-lessons-for-africa/",
    "lede": "Carlos Queiroz will arrive at the CAF Strategy Conference in Cabo Verde only days after his spell as Ghana coach came to an end, but carrying with him another chapter in one of international football’s most travelled coaching careers. The 73-year-old mutually ended his agreement with the Ghana Football Association on 1 October, just weeks after being handed a new mandate following the FIFA World Cup 2026. Despite leaving the Black Stars, Queiroz will still attend the Conference in Sal to share the experience of guiding Ghana through one of the most demanding groups at the World Cup and into the knockout stage for the first time since 2010.",
    "image": "https://www.cafonline.com//media/dmrpqr4x/carlos-queiroz.jpg?width=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -58,8 +48,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/340785/tebas-calls-real-madrid-most-rebellious-team-in-spanish-football/",
    "lede": "Rabat - LaLiga president Javier Tebas has described Real Madrid as the “most rebellious” club in Spanish professional football, criticizing how the club’s leadership views the sport's future structure. Tebas made the comments on Monday during the first National Conference on Journalism and Sport in Vigo, organized by the Galician Association of Sports Journalists (AGAXORDE). “The most rebellious team in Spain is Real Madrid because Madrid’s directors have a way of understanding football that I do not have,” Tebas said. “In Europe, there is Al-Khelaifi.”",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2025/10/1207059133.0.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "ESPN.COM.AU",
@@ -67,8 +57,8 @@
    "iso": "2026-10-05T22:52:30.000Z",
    "link": "https://www.espn.com.au/football/story/_/id/50110277/following-world-cup-failure-carlo-ancelottis-brazil-havent-convinced-many",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE SCOTSMAN",
@@ -76,6 +66,16 @@
    "iso": "2026-10-05T21:30:00.000Z",
    "link": "https://www.scotsman.com/sport/football/international/billy-gilmour-on-his-wembley-high-world-cup-low-and-new-role-leading-scotlands-next-generation-9267913",
    "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "BROADCAST",
+   "title": "Rick Edwards and Lloyd Griffith return to BBC Football Daily podcast",
+   "iso": "2026-10-05T21:22:25.000Z",
+   "link": "https://www.broadcastnow.co.uk/broadcasting/rick-edwards-and-lloyd-griffith-return-to-bbc-football-daily-podcast/5221030.article",
+   "lede": "The duo returns following a FIFA World Cup 2026 run that generated more than 7.3 million streams, with new episodes dropping every Thursday and Sunday.",
+   "image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/4/1/1488841_footballdailylogo9x16_26627.png",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
