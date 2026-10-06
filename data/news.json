@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T23:04:49.709Z",
+ "updated": "2026-10-06T23:20:12.469Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "ETV BHARAT",
-   "title": "Football: Thapa Scores But India Go Down 1-6 To Strong Uruguayan Side",
-   "iso": "2026-10-06T18:33:24.000Z",
-   "link": "https://www.etvbharat.com/en/sports/football-thapa-scores-but-india-go-down-to-strong-uruguayan-side-enn26100608779",
-   "lede": "Kolkata: The national senior men s football team ended its international window with a disappointing 1-6 defeat to two-time World Cup winner Uruguay at the Vivekananda Yuba Bharati Kriranga in Kolkata on Tuesday. Anirudh Thapa scored the lone goal for India in the 22nd minute to level an early goal from the penalty spot by Darwin Nunez in the 12th minute. The visitors then scored five times, with Maxi Araujo scoring a brace of goals in the 28th and 59th minutes. Rodrigo Zalazar (53rd), JM Sanabria (71st), and Rodrigo Aguirre (86th minute) secured a comfortable victory.",
-   "image": "https://imgs.etvbharat.com/etvbharat/prod-images/07-10-2026/1200-675-27806823-thumbnail-16x9-football-aspera.jpg",
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "CommBank Matildas return to Victoria for Colombia blockbuster",
+   "iso": "2026-10-06T20:18:40.000Z",
+   "link": "https://footballaustralia.com.au/news/commbank-matildas-return-victoria-colombia-blockbuster",
+   "lede": "The CommBank Matildas will make a long-awaited return to Victoria this December, with Geelong’s GMHBA Stadium set to host the second and final match of Australia’s international series against Colombia. The Wednesday 2 December clash marks the CommBank Matildas' first game in Victoria since December 2024, with fans from across the state expected to descend on GMHBA Stadium for the opportunity to see Australia's favourite team in action. The fixture will also be just the third time the national team has played in Geelong, and the first time it has faced a South American opposition in the city. Colombia has emerged as a consistent force on the international stage and continues to attract passionate support around the world.",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-10/FA2576_MATvCOL_Geelong_Announce_16x9_UPDATE2.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "ROLLING STONE",
+   "title": "Where to Watch Lionel Messi’s Final Match With Argentina",
+   "iso": "2026-10-06T20:00:00.000Z",
+   "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-lionel-messi-last-game-argentina-vs-benin-1235637028/",
+   "lede": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission. An international friendly between Argentina and Benin wouldn’t necessarily be must-see TV for soccer fans, but this is no ordinary friendly: It’s Lionel Messi‘s final appearance for La Albiceleste. The match is set to be an emotional send-off for the superstar, who led his team to a World Cup and two Copa America championships after over two decades with the team. If you’re looking to stream the game in the U.S., you can watch it on ViX, a Spanish-language streaming service.",
+   "image": "https://www.rollingstone.com/wp-content/uploads/2026/10/lionel-messi.png?w=900&h=600&crop=1",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "VIJESTI.ME",
@@ -48,8 +58,8 @@
    "link": "https://en.vijesti.me/sports-e/football-c/830149/He-did-not-complete-the-procedure-to-play-for-Congo--but-FIFA-allowed-him-to-play-in-the-World-Cup.",
    "lede": "The International Football Federation (FIFA) knew before the World Cup that Congolese goalkeeper Lionel Mpasi was ineligible when he played in several qualifying matches, but allowed him to continue playing in the tournament held this summer in the USA, Canada and Mexico, world media reported today. The New York Times and the French daily Le Monde cited internal FIFA documents on the Mpasi case, further intensifying the focus on the disciplinary procedures of the world football body under president Gianni Infantino. As reported, the 32-year-old Mpasi was a member of the French under-17 national team, but never completed the procedure before FIFA for a change, that is, for the right to play for Congo, with which he has family ties.",
    "image": "https://www.vijesti.me/data/images/2026/06/24/04/5736920_20260624t020920z-1588371760-up1em6o05zi73-rtrmadp-3-soccerworldcupcolcod_share.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -58,8 +68,8 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-lionel-mpasi-dr-congo-fifa-world-cup-england-b3062079.html",
    "lede": "Lionel Mpasi faced England at the World Cup, but questions have now been raised over his eligibility. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Gianni Infantino is facing fresh questions following reports that Fifa lawyers knew in March that DR Congo’s goalkeeper Lionel Mpasi was allegedly ineligible.",
    "image": "https://static.independent.co.uk/2026/09/29/08/2026-09-27T192520Z_1318916432_UP1EM9R1HY7OO_RTRMADP_3_SOCCER-WORLDCUPU20-ESP-PRK.JPG?trim=17,0,17,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "NST ONLINE",
@@ -68,15 +78,6 @@
    "link": "https://www.nst.com.my/sports/football/2026/10/1549351/england-needed-move-world-cup-pain-says-tuchel",
    "lede": "LONDON: Thomas Tuchel hailed England's response to an agonising World Cup exit after scoring 14 goals in their opening four Nations League matches.",
    "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/socialmedia/6307051C30BA86B8ED61FB63E5A55B34_data.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Cristiano Ronaldo’s farewell to Portugal is becoming a tragic mess. Goodwill is draining away",
-   "iso": "2026-10-06T22:43:05.000Z",
-   "link": "https://www.nytimes.com/athletic/7666842/2026/10/06/cristiano-ronaldo-portugal-statement-coach/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
