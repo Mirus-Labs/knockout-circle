@@ -1,6 +1,55 @@
 {
- "updated": "2026-10-07T17:02:22.550Z",
+ "updated": "2026-10-07T21:36:37.116Z",
  "news": [
+  {
+   "cat": "BAVARIAN FOOTBALL WORKS",
+   "title": "Thomas Müller recounts Germany’s 7-1 win against Brazil in the 2014 World Cup",
+   "iso": "2026-10-07T17:30:00.000Z",
+   "link": "https://www.bavarianfootballworks.com/bayern-munich-alumni/265048/thomas-muller-germany-7-1-win-brazil-2014-world-cup-fifa-khedira-kroos-neuer-dante-david-luiz-real-madrid-dortmund-champions-league",
+   "lede": "Thomas Müller is never going to retire, is he? The Bayern Munich legend and Vancouver Whitecaps attacker recently featured on an episode of the Late Run podcast. In the episode, they look back at his career, and one of the main talking points was Germany’s incredible run in the 2014 World Cup and their ultimate victory. Specifically, Müller provided a behind-the-scenes look at their famous 7-1 win against Brazil.",
+   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-451863364.jpg?quality=90&strip=all&crop=0%2C10.773633377776%2C100%2C78.452733244447&w=1200",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "TIMES NEWS GROUP",
+   "title": "Matildas bring World Cup build-up to Geelong",
+   "iso": "2026-10-07T17:02:07.000Z",
+   "link": "https://timesnewsgroup.com.au/surfcoasttimes/news/matildas-bring-world-cup-build-up-to-geelong/",
+   "lede": "Football Australia executive director of football Heather Garriock. Photo: Asanka Ratnayake/Getty Images. Geelong football fans will get another chance to cheer on the Matildas at home when Australia takes on Colombia at Kardinia Park this December. The 2 December clash will bring international women’s football back to the city, two years after more than 30,000 supporters watched the Matildas defeat Chinese Taipei 6–0 at the same venue.",
+   "image": "https://static.timesnewsgroup.com.au/prod/uploads/sites/2/2026/10/7sep-tng-17.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "ZAMFOOT",
+   "title": "Copper Princesses goalkeepers sharpen reflexes ahead of World Cup",
+   "iso": "2026-10-07T16:57:13.000Z",
+   "link": "https://zambianfootball.co.zm/copper-princesses-goalkeepers-sharpen-reflexes-ahead-of-world-cup/",
+   "lede": "Zambia’s Copper Princesses continued their preparations for the FIFA Under-17 Women’s World Cup with a focused goalkeeping session in Casablanca on Tuesday. Goalkeeper coach Danny Mbao put the team’s three goalkeepers — Bukata Kakumbi, Winfridah Mutale and Decent Mbewe — through their paces at the Club Sportif Academie des Electricienes de Football. The trio worked on their reflexes and reactions as Zambia stepped up preparations for the World Cup, which begins in Morocco later this month. Despite the demands of a long-haul journey, the goalkeepers completed a full training session as the technical bench continued to fine-tune the squad ahead of the tournament.",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "GOAL.COM",
+   "title": "A new equation shocks the football world: Yamal breaks the Messi and Cristiano barrier",
+   "iso": "2026-10-07T16:47:21.000Z",
+   "link": "https://www.goal.com/en/news/a-new-equation-shocks-the-football-world-yamal-breaks-the-messi-and-cristiano-barrier/blt6cb1206c47ff7694",
+   "lede": "How did Lamine prove he is better than \"the Flea\" and \"the Don\"? In an era obsessed with numbers, Barcelona's gifted Lamine Yamal has chosen to answer the doubters in a language only the greats understand: consistency and impact. The 19-year-old is no longer merely a promising talent. He has become an unprecedented goalscoring phenomenon, achieving what Lionel Messi, Cristiano Ronaldo, Kylian Mbappé and Erling Haaland could not at the same age.",
+   "image": "https://assets.goal.com/images/v3/getty-2286971496/crop/MM5DGMZXGM5DCOBZG45G433XMU5DAORW/GettyImages-2286971496.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "TRIBALFOOTBALL",
+   "title": "World Cup winner Pedro confirms retirement after incredible 20-year career",
+   "iso": "2026-10-07T15:36:18.000Z",
+   "link": "https://www.tribalfootball.com/article/soccer-laliga-world-cup-winner-pedro-confirms-retirement-after-incredible-20-year-career-378a3110-1d3b-4e9b-b8c8-1d81c330ccba",
+   "lede": "Pedro, who ‌became a free agent after leaving ‌Lazio when his contract expired in July, ‌was a key member of Spain's 2010 ‌World Cup-winning squad and started in the final as they beat the Netherlands. He also ‌helped Spain win Euro 2012. The time to take a step forward ​and begin a new chapter in my life,\" Pedro said in a ​statement on social media. \"I leave proud of having lived my dream and of ⁠all the people ​who stood by my side to make it a reality.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/7a5c03ca-55bf-405d-91bd-cff593494afe.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "THE MIRROR",
    "title": "Gianni Infantino under pressure over new World Cup scandal after 'allowing ineligible player'",
@@ -8,74 +57,24 @@
    "link": "https://www.mirror.co.uk/sport/football/news/infantino-world-cup-scandal-congo-37740787",
    "lede": "Gianni Infantino has come under yet more scrutiny after it was reported that FIFA knowingly allowed an ineligible player to play for DR Congo in a crucial World Cup qualifier. Congo made a mark at the World Cup in the summer, reaching the knockout stages, where they gave England a scare in a competitive 2-1 come-from-behind win for Thomas Tuchel's side in the last 32. One of their stars in that match was goalkeeper Lionel Mpasi, who has now found himself at the centre of an eligibility scandal. As first reported by The New York Times , FIFA knew that Congo hadn't completed the paperwork for Mpasi to switch his international allegiance from France to the African nation before they played, and beat, Jamaica in a World Cup qualification play-off in March.",
    "image": "https://i2-prod.mirror.co.uk/article37587169.ece/ALTERNATES/s1200d/5_Business-Leaders-Speak-At-The-Semafor-World-Economy-Summit.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "England: Thomas Tuchel still stinging from World Cup criticism despite Nations League positives",
-   "iso": "2026-10-07T12:37:46.000Z",
-   "link": "https://www.skysports.com/football/news/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
-   "lede": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant, a Nations League quarter-final all-but guaranteed. Some 83 days after England succumbed to Argentina in the World Cup semi-final, we'd moved on. And then Tuchel showed that he hasn't, and revealed his underlying bitterness and hurt.",
-   "image": "https://e0.365dm.com/26/10/1600x900/skysports-thomas-tuchel-england_7370526.jpg?20261007131746",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-World Cup winner Pedro calls time on 20-year career",
-   "iso": "2026-10-07T12:28:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/10/07/soccer-world-cup-winner-pedro-calls-time-on-20-year-career",
-   "lede": "Oct 7 (Reuters) - Former Spain ⁠forward Pedro Rodriguez announced his retirement on Wednesday at ⁠the age of 39, bringing the curtain down ‌on a glittering 20-year career that yielded 25 major trophies. Pedro, who became a free agent after leaving Lazio when his contract expired in July, was ​a key member of Spain's 2010 ⁠World Cup-winning squad and started ⁠in the final as they beat the Netherlands. He also ⁠helped ‌Spain win Euro 2012. The time to take a step forward and begin ⁠a new chapter in my life,\" Pedro said ​in a statement ‌on social media.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/07/4150229.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "AYUNTAMIENTO DE TORREVIEJA",
-   "title": "Torrevieja will host the Medical Football World Cup in its first edition in Spain",
-   "iso": "2026-10-07T12:12:29.000Z",
-   "link": "https://torrevieja.es/en/noticias/2026-10-07-torrevieja-will-host-the-medical-football-world-cup-in-its-first-edition-in",
-   "lede": "The Councillor for Sports of the Torrevieja City Council, Diana Box, and the Councillor for Public Health, Rosa Cañón, presented this morning at a press conference, together with the psychiatrist and president of the Organizing Committee, Jesús Enrique Mesones, the World Medical Football Championship (WMFC) 2027, which will be held in the city from September 25 to October 2, 2027. This will be the first time this international championship has been held in Spain. The event will bring together 60 teams from 40 countries around the world, made up exclusively of doctors from different specialties, and will feature four tournaments running concurrently at the Ciudad Deportiva facilities. The selection of Torrevieja as the venue builds on the city's experience in this sport, having hosted the Spanish Medical Football Championship in 2025.",
-   "image": "https://torrevieja.es/sites/default/files/repositorio-imagenes/Imagen%20webCOMUNICACIO%CC%81N%20%282%29_13.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "KUWAIT TIMES",
-   "title": "Englands Nations League form eases World Cup pain",
-   "iso": "2026-10-07T10:55:32.000Z",
-   "link": "https://kuwaittimes.com/article/51135/sports/football/englands-nations-league-form-eases-world-cup-pain/",
-   "lede": "LONDON: England's free-scoring start to the Nations League has begun to ease the pain of their World Cup exit, as coach Thomas Tuchel's side set their sights on winning the 2028 European Championship, hosted by the UK and Ireland. Harry Kane scored twice at Wembley on Tuesday in a 3-0 win over the Czech Republic, taking England to 14 goals in four matches. Kane matched Peter Shilton's men's appearance record of 125 caps on the night and took his international goal tally to 91. Tuchel had come into the extended international window needing to change the narrative after criticism of his defensive approach in the World Cup semi-final defeat by Argentina.",
-   "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/10/07/454026.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "'Bring the magic' - Scotland's Ross eyes World Cup dream",
-   "iso": "2026-10-07T10:35:28.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/ckgelj5x2e7lo",
-   "lede": "Leanne Ross (left) represented Scotland at Euro 2017 as a player, but retired before the country qualified for the 2019 World Cup. Leanne Ross is Scotland's most decorated player, earning 133 international caps across a career which garnered 14 league titles and 13 major cup medals, but still the national team's assistant coach wants more. Having reached the 2017 European Championship, Ross was part of the first women's squad to compete at a major tournament, but one thing has eluded her. Ross retired after the Euros, meaning she did not take part in the 2019 edition in France, but her dream has not been dashed.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f48/live/32db4590-c1ad-11f1-93a9-f546f29a5f8e.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "Cristiano Ronaldo: Portugal star breaks silence over national team walkout in statement",
-   "iso": "2026-10-07T10:30:32.000Z",
-   "link": "https://www.skysports.com/football/news/13595921/cristiano-ronaldo-portugal-star-breaks-silence-over-national-team-walkout-in-statement",
-   "lede": "Cristiano Ronaldo has broken his silence over his Portugal walkout in a lengthy statement in which he says he is not retiring from the national team. The 41-year-old, whose actions had raised doubts over his international future, accused Portugal's new head coach Jorge Jesus of broken promises in a near 2,000-word statement to his 679 million Instagram followers. You can read the statement in full at the bottom of this article. Addressing the uncertainty over his Portugal future, the Al Nassr forward said: \"If I am physically well, playing for my club, with goals I hope, after serving the suspension that may be applied to me, I will be available, as I have always been until today, to compete and win for our national team.\"",
-   "image": "https://e0.365dm.com/26/09/1600x900/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
+   "cat": "FORZA FOOTBALL",
+   "title": "Four Things We Learned From USMNT’s Perfect World Cup Response",
+   "iso": "2026-10-07T19:30:00.000Z",
+   "link": "https://forzafootball.com/news/four-things-we-learned-from-usmnts-perfect-world-cup-response-159461431",
+   "lede": "Forza Football covers more than 1400 football leagues and cups around the world.",
+   "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_974,h_547,x_0,y_39/c_limit,w_912,f_auto,q_auto/images/voltaxMediaLibrary/mmsport/si/01m4bq0eqgdr6nazsxpn.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "FIFA’s Women’s Club World Cup poised to majorly disrupt next season’s WSL schedule",
-   "iso": "2026-10-07T16:16:24.000Z",
-   "link": "https://www.nytimes.com/athletic/7668793/2026/10/07/fifa-club-world-cup-wsl-schedule-arsenal-chelsea-man-city/",
+   "title": "Ramon Vega: Ex-Tottenham defender says he will run against Gianni Infantino for FIFA presidency",
+   "iso": "2026-10-07T18:59:17.000Z",
+   "link": "https://www.nytimes.com/athletic/7669096/2026/10/07/ramon-vega-fifa-president-gianni-infantino/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
