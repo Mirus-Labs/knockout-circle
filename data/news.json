@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T21:36:37.116Z",
+ "updated": "2026-10-07T22:02:18.660Z",
  "news": [
   {
    "cat": "BAVARIAN FOOTBALL WORKS",
@@ -14,10 +14,10 @@
   {
    "cat": "TIMES NEWS GROUP",
    "title": "Matildas bring World Cup build-up to Geelong",
-   "iso": "2026-10-07T17:02:07.000Z",
-   "link": "https://timesnewsgroup.com.au/surfcoasttimes/news/matildas-bring-world-cup-build-up-to-geelong/",
+   "iso": "2026-10-07T17:00:25.000Z",
+   "link": "https://timesnewsgroup.com.au/geelongtimes/news/matildas-bring-world-cup-build-up-to-geelong/",
    "lede": "Football Australia executive director of football Heather Garriock. Photo: Asanka Ratnayake/Getty Images. Geelong football fans will get another chance to cheer on the Matildas at home when Australia takes on Colombia at Kardinia Park this December. The 2 December clash will bring international women’s football back to the city, two years after more than 30,000 supporters watched the Matildas defeat Chinese Taipei 6–0 at the same venue.",
-   "image": "https://static.timesnewsgroup.com.au/prod/uploads/sites/2/2026/10/7sep-tng-17.jpg",
+   "image": "https://static.timesnewsgroup.com.au/prod/uploads/sites/21/2026/10/7sep-tng-17.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -71,11 +71,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Ramon Vega: Ex-Tottenham defender says he will run against Gianni Infantino for FIFA presidency",
-   "iso": "2026-10-07T18:59:17.000Z",
-   "link": "https://www.nytimes.com/athletic/7669096/2026/10/07/ramon-vega-fifa-president-gianni-infantino/",
-   "lede": "",
+   "cat": "GEO SUPER",
+   "title": "Portugal makes it into top 5 of FIFA world rankings",
+   "iso": "2026-10-07T19:05:00.000Z",
+   "link": "https://www.geosuper.tv/latest/60268-portugal-makes-it-into-top-5-of-fifa-world-rankings",
+   "lede": "Portugal were brilliant in the UEFA Nations League, winning all four matches.",
+   "image": "https://www.geosuper.tv/assets/uploads/updates/2026-10-08/l_60268_120556_updates.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
