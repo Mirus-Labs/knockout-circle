@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T01:20:31.505Z",
+ "updated": "2026-10-08T02:00:44.223Z",
  "news": [
   {
    "cat": "NINE.COM.AU",
@@ -32,14 +32,24 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "GOAL.COM",
+   "title": "\"To restore credibility to football\": former player challenges Infantino in FIFA elections",
+   "iso": "2026-10-07T21:45:00.000Z",
+   "link": "https://www.goal.com/en/news/to-restore-credibility-to-football-former-player-challenges-infantino-in-fifa-elections/blta8fa484c0cca6bd6",
+   "lede": "Does Ramón Vega officially meet the candidacy requirements? Former Tottenham defender Ramon Vega announced on Wednesday that he wants to run for the presidency of FIFA, throwing down a challenge to current president Gianni Infantino. First, though, the Swiss must satisfy a number of conditions before he can officially complete his candidacy. Vega, 55, insists his goal in contesting the elections is \"simple\".",
+   "image": "https://assets.goal.com/images/v3/getty-2293665279/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2293665279.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE SUN",
    "title": "Former Tottenham star announces plan to run against Gianni Infantino for Fifa president after World Cup sell-off shame",
    "iso": "2026-10-07T17:54:00.000Z",
    "link": "https://www.thesun.co.uk/sport/40614162/gianni-infantino-fifa-presidential-election-tottenham-ramon-vega/",
    "lede": "FORMER Spurs defender Ramon Vega says he wants to stand against Fifa President Gianni Infantino. As European football’s top brass prepared to meet in Berlin to plot the next move in their fight against the world governing body, ex-Switzerland centre-back Vega, 55, became the first to actually put his head above the parapet. Vega accused Infantino and the current Fifa leadership of “demoralising” the game, blasting that “weak governance has damaged Fifa’s credibility and eroded trust across the global football family. “We must stop this conflict from escalating.”",
    "image": "https://www.thesun.co.uk/wp-content/uploads/2026/10/LB-OFF-vega.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "GOAL.COM",
@@ -48,32 +58,24 @@
    "link": "https://www.goal.com/en/news/a-new-equation-shocks-the-football-world-yamal-breaks-the-messi-and-cristiano-barrier/blt6cb1206c47ff7694",
    "lede": "How did Lamine prove he is better than \"the Flea\" and \"the Don\"? In an era obsessed with numbers, Barcelona's gifted Lamine Yamal has chosen to answer the doubters in a language only the greats understand: consistency and impact. The 19-year-old is no longer merely a promising talent. He has become an unprecedented goalscoring phenomenon, achieving what Lionel Messi, Cristiano Ronaldo, Kylian Mbappé and Erling Haaland could not at the same age.",
    "image": "https://assets.goal.com/images/v3/getty-2286971496/crop/MM5DGMZXGM5DCOBZG45G433XMU5DAORW/GettyImages-2286971496.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "TARMAC LIFE",
-   "title": "Bentley Signs World Cup Winner Mats Hummels as Brand Ambassador",
-   "iso": "2026-10-07T23:06:24.000Z",
-   "link": "https://www.tarmaclife.co.nz/news/bentley-signs-world-cup-winner-mats-hummels-as-brand-ambassador/",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "CHANNELS TELEVISION",
-   "title": "Former Spain, Barca Winger Pedro Retires From Football",
-   "iso": "2026-10-07T22:09:37.000Z",
-   "link": "https://www.channelstv.com/2026/10/07/former-spain-barca-winger-pedro-retires-from-football/",
-   "lede": "",
+   "cat": "US SOCCER",
+   "title": "Everything You Need to Know About the FIPFA Powerchair Football World Cup",
+   "iso": "2026-10-08T01:49:12.000Z",
+   "link": "https://www.ussoccer.com/stories/2026/10/ent/everything-you-need-to-know-fipfa-powerchair-football-world-cup",
+   "lede": "Power Soccer National Team will compete in its fifth World Cup in Buenos Aires, Argentina later this month.",
+   "image": "https://content.ussoccer.com/media/images/oyf3dba6/production/2b06b6d107ecb7ccf3e9e3df420e97d913f6beba-4000x4000.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Ramon Vega: Ex-Tottenham defender says he will run against Gianni Infantino for FIFA presidency - The Athletic",
-   "iso": "2026-10-07T21:59:07.000Z",
-   "link": "https://www.nytimes.com/athletic/7669096/2026/10/07/ramon-vega-fifa-president-gianni-infantino/",
+   "cat": "TARMAC LIFE",
+   "title": "Bentley Signs World Cup Winner Mats Hummels as Brand Ambassador",
+   "iso": "2026-10-07T23:11:02.000Z",
+   "link": "https://www.tarmaclife.co.nz/news/bentley-signs-world-cup-winner-mats-hummels-as-brand-ambassador/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
