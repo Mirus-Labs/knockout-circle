@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T14:32:46.465Z",
+ "updated": "2026-10-09T15:20:42.105Z",
  "news": [
   {
    "cat": "SPORTSTAR",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "SWANSEA BAY NEWS",
+   "title": "CYMRU WOMEN: World Cup play-off decider against Albania comes to Parc y Scarlets on Tuesday",
+   "iso": "2026-10-09T13:30:00.000Z",
+   "link": "https://swanseabaynews.com/cymru-women-world-cup-play-off-decider-against-albania-comes-to-parc-y-scarlets-on-tuesday/",
+   "lede": "Cymru Women’s World Cup hopes come to Llanelli on Tuesday, when they play the second leg of their play-off against Albania at Parc y Scarlets. Kick-off is at 7.15pm on Tuesday 13 October. The first leg is tonight at the Loro Boriçi Stadium in Shkodër, Albania, with kick-off at 5pm UK time. The tie is decided on aggregate over the two legs.",
+   "image": "https://swanseabaynews.com/wp-content/uploads/2026/10/cymru-women-celebrate-goal.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "RFI",
    "title": "African football chiefs back Infantino to remain as Fifa boss",
    "iso": "2026-10-09T13:14:42.000Z",
    "link": "https://www.rfi.fr/en/sports/20261009-african-football-chiefs-back-infantino-to-remain-as-fifa-boss-2026-world-cup",
    "lede": "Gianni Infantino's bid to remain the head of world football's governing body Fifa gathered strength on Friday after backing from African executives and reports that a potential rival was pulling out of the race for the job as the game's most powerful administrator. Issued on: 09/10/2026 - 15:14Modified: 09/10/2026 - 15:15. The president of the Confederation of African Football (CAF), Patrice Motsepe, hailed Infantino on Thursday for his support for African football during a three-day CAF strategy meeting on Sal island in Cape Verde. \"We took a resolution, unanimous that we support him and we will stand by him for the next elections,\" Motsepe said in an address to delegates from the 54 national federations that form the CAF.",
    "image": "https://s.rfi.fr/media/display/ede2549a-b64b-11f1-ada9-1d61c7110e09/w:1280/p:16x9/AP26253509299379.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE NIGERIAN OBSERVER",
@@ -28,8 +38,8 @@
    "link": "https://nigerianobservernews.com/2026/10/motsepe-african-country-must-win-fifa-world-cup/?amp",
    "lede": "President of the Confederation of African Football (CAF), Dr Patrice Motsepe, has declared that an African national team must win the FIFA World Cup. Motsepe made the statement yesterday during the CAF Strategy Conference in Cape Verde. ‎ ‎ ‎. The CAF president stressed the need for African football to raise its ambitions and compete [&hellip;].",
    "image": "https://nigerianobservernews.com/wp-content/uploads/2026/10/IMG-20261004-WA0396-1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "BUSINESSDAY NG",
@@ -37,8 +47,18 @@
    "iso": "2026-10-09T12:56:22.000Z",
    "link": "https://businessday.ng/sports/article/caf-boss-motsepe-backs-african-nation-to-win-fifa-world-cup/?amp",
    "lede": "Patrice Motsepe, president of the Confederation of African Football (CAF), has expressed confidence that an African nation will eventually win the FIFA World Cup, challenging the continent to turn its growing competitiveness into football’s biggest prize. Speaking at the CAF Strategy Conference in Santa Maria, on Sal Island in Cape Verde, Motsepe said African teams had shown the ability to compete against the world’s strongest football nations and must now aspire to win the global title. “We know how good we are, and the world has seen how good we are,” Motsepe said. “We have to win the World Cup one day.",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "GLOBAL NEWS NETWORK LIBERIA",
+   "title": "FIFA Reportedly Allowed Ineligible DR Congo Player In 2026 World Cup",
+   "iso": "2026-10-09T12:33:24.000Z",
+   "link": "https://gnnliberia.com/fifa-reportedly-allowed-ineligible-dr-congo-player-in-2026-world-cup/",
+   "lede": "FIFA, the world football governing body, allowed the Democratic Republic of Congo to compete in this year’s World Cup hosted by Canada, the USA and Mexico, despite reports that an internal investigation found the country fielded an ineligible player in qualifying. The player in question, goalkeeper Lionel Mpasi, starred for DR Congo at the tournament, including against England in the last 32. Mpasi, who was born in France and played for Les Bleus at youth level, had never completed the process of switching nationalities, FIFA reportedly found. No punishment was levied against the Congolese federation, FECOFA.",
+   "image": "https://gnnliberia.com/wp-content/uploads/2026/10/DR-Congo-goalkeeper-Lionel-Mpasi-at-the-centre-of-FIFA-World-Cup-controversy.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -47,36 +67,16 @@
    "link": "https://www.independent.co.uk/sport/football/greece-england-tv-channel-time-world-cup-play-off-b3062856.html",
    "lede": "England travel to Greece for the first leg of their qualifying play-off for the 2027 Women’s World Cup. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. England travel to Greece for the first leg of their qualifying play-off for the 2027 Women’s World Cup this evening before hosting the return leg at the King Power Stadium on Tuesday.",
    "image": "https://static.independent.co.uk/2026/10/07/15/01M48H7SKMF5BBGG2MB483KRC4.jpg?trim=140,0,140,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "VIJESTI.ME",
    "title": "The Fifth Ulcinj World Cup: Tribute to Gudelj, Vujošević, Dalipagić, Koprivica...",
    "iso": "2026-10-09T10:24:24.000Z",
    "link": "https://en.vijesti.me/amp/830564/The-fifth-Ulcinj-World-Cup-is-a-tribute-to-Gudelj-Vujosevic-and-Dalipagiuc--Koprivica.",
-   "lede": "Another gathering of sports greats from the former state will have an emotional opening tomorrow at 19 pm at the Ulcinj Cultural Center. The fifth Ulcinj Friendship World Cup - an event that has already become recognizable in almost every corner of the entire region - will begin tonight in the southernmost Montenegrin city. It will start symbolically: with some kind of tribute, a remembrance for the five greats and heroes of the Friendship World Cup who have passed away in the meantime. These include the celebrated Hajduk captain and Yugoslav national team player Ivan Gudelj, then the writer Božo Koprivica, water polo player Goran Sukno, basketball coaching icon Duško Vujošević and the absolute legend of the game under the hoops, Dražen Praja Dalipagić.",
+   "lede": "Another gathering of sports greats from the former state will have an emotional opening tonight at 19 pm at the Ulcinj Cultural Center. The fifth Ulcinj Friendship World Cup - an event that has already become recognizable in almost every corner of the entire region - will begin tonight in the southernmost Montenegrin city. It will start symbolically: with some kind of tribute, a remembrance for the five greats and heroes of the Friendship World Cup who have passed away in the meantime. These include the celebrated Hajduk captain and Yugoslav national team player Ivan Gudelj, then the writer Božo Koprivica, water polo player Goran Sukno, basketball coaching icon Duško Vujošević and the absolute legend of the game under the hoops, Dražen Praja Dalipagić.",
    "image": "https://www.vijesti.me/data/images/2025/09/26/21/5674363_ivan-gudelj_share.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Lekjaa Joins CAF Talks on Africa’s Football Future Beyond 2026",
-   "iso": "2026-10-09T10:11:52.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/341341/lekjaa-joins-caf-talks-on-africas-football-future-beyond-2026/",
-   "lede": "Rabat – Royal Moroccan Football Federation President Fouzi Lekjaa took part in the CAF Strategy Conference in Cape Verde on Thursday, with the gathering placing Africa’s development beyond the 2026 World Cup at the center of discussions. Lekjaa attended in his dual capacity as FRMF president and CAF’s first vice president, a position he has held since April 2025. The conference, held from October 7 to 9 in Santa Maria on Sal Island, has brought together the presidents of CAF’s 54 member associations, members of the continental body’s executive committee, zonal leaders, national-team coaches and international football experts. CAF has framed the meeting around two broad questions: how to make football structures across its member associations stronger and more sustainable, and how African national teams can build on their strongest collective World Cup showing to date.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/images-8.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "CAFONLINE.COM",
-   "title": "“We have to win the World Cup”: Key quotes from Day Two of the CAF Strategy Conference in Cabo Verde",
-   "iso": "2026-10-09T08:56:36.000Z",
-   "link": "https://www.cafonline.com/caf-strategy-conference/news/we-have-to-win-the-world-cup-key-quotes-from-day-two-of-the-caf-strategy-conference-in-cabo-verde/",
-   "lede": "African football’s ambition to turn its record FIFA World Cup 2026 performance into lasting progress dominated the opening addresses on Day Two of the CAF Strategy Conference in Santa Maria, Sal Island, Cabo Verde. CAF President Dr Patrice Motsepe, Cabo Verde Head of State Dr Janira Hopffer Almada, FIFA President Gianni Infantino and Cabo Verde Football Federation President Mario Semedo addressed delegates as the Conference moved into its main strategic discussions. Their messages centred on investment, stronger Member Associations, African coaching and technical development, infrastructure, women’s football and the need to convert Africa’s football talent into sustainable results.",
-   "image": "https://www.cafonline.com//media/pxukc1yk/mario-semedo3.jpg?width=1200",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
