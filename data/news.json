@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-09T07:24:47.431Z",
+ "updated": "2026-10-09T08:02:11.231Z",
  "news": [
+  {
+   "cat": "LIVESCORE",
+   "title": "Africa stands with Gianni Infantino! FIFA president secures unanimous CAF backing after promising massive funding boost following World Cup success",
+   "iso": "2026-10-09T07:12:19.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/africa-stands-with-gianni-infantino-fifa-president-secures-unanimous-caf-backing-after-promising-massive-funding-boost-following-world-cup-success-goal/",
+   "lede": "Unanimous backing in Cape VerdeInfantino’s campaign to retain his position as FIFA president received a massive boost after securing the unanimous support of Africa’s 54 member associations. The endorsement was confirmed during a landmark CAF Strategy Conference in Santa Maria, Cape Verde.This unified backing provides critical momentum for the 56-year-old Swiss-Italian administrator. There is a unanimous decision by the 54 CAF member associations to unconditionally support Gianni as president of FIFA,\" Motsepe told the delegates, as quoted by Reuters . \"This is because of the history and the support that Gianni has given to African football.\"",
+   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_2.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "England Women in World Cup 2027 play-offs: Lionesses have obligation to prove themselves after Spain disappointment",
@@ -8,8 +18,8 @@
    "link": "https://www.skysports.com/football/news/13595760/england-women-in-world-cup-2027-play-offs-lionesses-have-obligation-to-prove-themselves-after-spain-disappointment",
    "lede": "When England were consigned to the World Cup play-offs back in June, it felt like a massive step backwards. How were the European champions not a shoo-in for the next major tournament in the international calendar? The Lionesses only missed out by a whisker, finishing their qualifying campaign with 15 points from a possible 18. But it's difficult to overlook how we got here.",
    "image": "https://e0.365dm.com/26/10/1600x900/skysports-england-women-williamson_7369657.jpg?20261006132641",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "CAFONLINE.COM",
@@ -18,8 +28,8 @@
    "link": "https://www.cafonline.com/caf-strategy-conference/news/watch-live-arsene-wenger-joins-leading-african-coaches-for-fifa-world-cup-2026-discussion-caf-president-dr-patrice-motsepe-to-host-press-conference/",
    "lede": "FIFA Chief of Global Football Development and former Arsenal manager Arsène Wenger will join several coaches who led African National Teams at the FIFA World Cup 2026 for a special panel discussion at the CAF Strategy Conference in Santa Maria, Sal Island, Cabo Verde on Friday, 9 October 2026, live on CAF TV. Later in the day, Confédération Africaine de Football (“CAF”) President Dr Patrice Motsepe will host a press conference as the three-day CAF Strategy Conference concludes. Dr Motsepe’s press conference will be at 12h40 local time (13h40 GMT | 16h40 Cairo time) and will conclude the conference. Earlier, Wenger will be joined by Cabo Verde coach Bubista, Egypt’s Hossam Hassan and DR Congo coach Sébastien Desabre, among others, for an insightful discussion on the progress of African football and the lessons from the continent’s performances at the FIFA World Cup 2026.",
    "image": "https://www.cafonline.com//media/sfib1svk/wl2.jpg?width=1200",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "TÜRKIYE TODAY",
@@ -28,8 +38,28 @@
    "link": "https://www.turkiyetoday.com/sports/turkiye-host-slovenia-in-womens-world-cup-playoff-first-leg-3229928",
    "lede": "Türkiye’s women’s national football team hosts Slovenia on Oct. 9 in the first leg of the first round of the European playoffs for the 2027 FIFA Women’s World Cup. The match will be played at Pendik Stadium in Pendik, a district on Istanbul's Asian side. Kickoff is set for 6:00 p.m. Head coach Necla Gungor Kiragasi and team captains Selda Akgoz and Ebru Topcu spoke at a stadium news conference ahead of the match.",
    "image": "https://img.turkiyetoday.com/images/2026/10/9/turkiye-host-slovenia-in-womens-world-cup-playoff-first-leg-3229928_20261009092620.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE INDEPENDENT",
+   "title": "How to watch Greece v Lionesses in World Cup play-off",
+   "iso": "2026-10-09T06:09:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/greece-england-tv-channel-time-world-cup-play-off-b3062856.html",
+   "lede": "England travel to Greece for the first leg of their qualifying play-off for the 2027 Women’s World Cup. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. England travel to Greece for the first leg of their qualifying play-off for the 2027 Women’s World Cup this evening before hosting the return leg at the King Power Stadium on Tuesday.",
+   "image": "https://static.independent.co.uk/2026/10/07/15/01M48H7SKMF5BBGG2MB483KRC4.jpg?trim=140,0,140,0&width=1200&height=800&crop=1200:800",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "NINE.COM.AU",
+   "title": "Big test for Tillies stars as Montemurro begins World Cup auditions",
+   "iso": "2026-10-09T05:29:30.000Z",
+   "link": "https://www.nine.com.au/sport/football/news-matildas-friendly-matches-joe-montemurro-world-cup-selection-auditions-20261009-p613wn.html",
+   "lede": "Joe Montemurro has nine months to work out how to keep the Matildas in the race for the World Cup. Australia’s upcoming friendly opponents will be the key for him to work out who is up for the challenge of taking on the world’s best. Football’s pinnacle tournament is set to be hosted in the sport’s spiritual home – Brazil – next year, with Australia wasting no time locking in three fierce competitors to get a taste of the talent that will go far in the tournament. Caitlin Foord and Sam Kerr are back in national team colours this week.",
+   "image": "https://static.ffx.io/images/$zoom_0.3824%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_177/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/6d70db63cb0ef5e44b4269ae60b8bd80e8a73a38",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "KOREA JOONGANG DAILY",
@@ -38,46 +68,16 @@
    "link": "https://www.koreajoongangdaily.com/sports/serve-rising-youth-or-a-setting-son-mens-football-faces-crossroads-with-captaincy-tensionsnbsp-nbsp/12912407",
    "lede": "Recent internal rifts have renewed questions over whether Son Heung-min should end his nine-year run as Korea's captain and how the team can move forward in the absence of long-term organizational leadership. As internal divisions threaten to derail Korea's national football team, interim head manager Robert Moreno finds himself caught between a rock and a hard place: Ditch the country's star player or risk escalating the resentment of other teammates. With tensions among players now out in the open, Moreno can neither easily drop star player Son Heung-min of LAFC nor ignore the objections of three other, younger key players — Kim Min-jae of Bayern Munich, Hwang In-beom of Porto and Hwang Hee-chan of Schalke, who all coincidentally happen to be born in 1996.",
    "image": "https://image.koreajoongangdaily.com/12912463.jpg?imageId=12912463&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BBC",
    "title": "Albania v Wales: Angharad James has Women's World Cup on her mind before play-off",
    "iso": "2026-10-09T03:27:58.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwp8gnj1n7yyo",
+   "link": "http://news.bbc.co.uk/sport/football/articles/cwp8gnj1n7yyo",
    "lede": "Angharad James is set to win her 146th cap in Albania on Friday. Captain Angharad James says the Women's World Cup is always on her mind as Wales prepare for Friday's play-off semi-final first leg in Albania. Wales' women look to take a step closer to a first World Cup appearance in the nation's history as they face the Albanians in Shkoder. Rhian Wilkinson's side will have home advantage in next Tuesday's return leg at Parc y Scarlets with the winners facing either Norway or Romania in a two-legged play-off final in December.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c49/live/d14c9ca0-c2ee-11f1-89a3-9b445bfcfe23.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "Football Ferns return to action with two-match friendly series in Panama",
-   "iso": "2026-10-09T03:05:31.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/10/09/football-ferns-return-to-action-with-two-match-friendly-series-in-panama/",
-   "lede": "The Football Ferns will tour Central America again, with a duo of friendly matches against Panama on the calendar as preparation continues for the 2027 FIFA Women’s World Cup. The Ferns, who have already confirmed qualification by finishing top in OFC qualification, are now counting down to the tournament, which will kick off next June. Head coach Michael Mayne’s team are looking to end a seven-game winless run against non-OFC opposition, with their last victory coming in June 2025 against Venezuela. Though the Ferns have not played Panama before, it will be a familiar part of the world for many in the team, as they played two matches against neighbouring Costa Rica last year, winning one and drawing the other.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/05/Ferns-stock-22.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "GOAL.COM",
-   "title": "From packs to pitches: How Lay’s RePlay became a global football movement",
-   "iso": "2026-10-08T22:42:35.000Z",
-   "link": "https://www.goal.com/en/news/from-packaging-to-pitches-how-lay-s-replay-became-a-global-football-movement/blt4f7ea231f03fd155",
-   "lede": "In 2019, Lay's came up with a novel way of using old chip packets. That idea has since become a part of football's cultural landscape. It started with two ambitious football people, a piece of paper, and a question: Could Lay’s packaging be given a second life as a place to play football? In the middle of the COVID-19 pandemic, with the world, in effect, shut down, Adam Warner, then Senior Director of Global Sports Marketing at Lay’s, and a colleague began sketching out an idea that seemed ambitious, if not slightly insane.",
-   "image": "https://assets.goal.com/images/v3/bltcf0fcef879ca533a/STILLS%20LA00.png",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "WILLIAM HILL NEWS",
-   "title": "Greece vs England Predictions: Goal Fest Looms in Women’s World Cup Qualifier",
-   "iso": "2026-10-08T20:08:27.000Z",
-   "link": "https://news.williamhill.com/football/greece-women-vs-england-women-predictions/",
-   "lede": "England return to competitive action on Friday evening when they travel to Crete to face Greece and here are William Hill’s FIFA Women’s World Cup 2027 European qualifying play-off predictions. The prices leave little doubt over the expected outcome, with England just 1/33 to win, while Greece are a huge 150/1 and the draw is 12/1. The goals market also points towards an entertaining evening, with Over 5.5 goals priced at 4/5 and Under 5.5 at 17/20. MORE OFFERS, ALL WEEKEND, GOLDEN – WILLIAM HILL GOLD WEEKEND The Prediction.",
-   "image": "https://news.williamhill.com/wp-content/uploads/2026/06/england-women-scaled.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
