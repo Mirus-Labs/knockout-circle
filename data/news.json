@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-10T21:49:26.547Z",
+ "updated": "2026-10-10T23:39:04.108Z",
  "news": [
   {
    "cat": "CITIZEN DIGITAL",
    "title": "OPINION: Will Kenya ever play in the FIFA World Cup?",
-   "iso": "2026-10-10T18:11:15.000Z",
+   "iso": "2026-10-10T18:11:46.000Z",
    "link": "https://citizen.digital/article/opinion-will-kenya-ever-play-in-the-fifa-world-cup-n391808",
    "lede": "Every four years, millions of Kenyans passionately follow the FIFA World Cup. We wear the jerseys of Argentina, Brazil, France, England, Germany, Spain or Morocco. We celebrate goals, debate tactics and dream that perhaps one day Kenya will also be part of football's greatest stage.",
    "image": "https://assets.citizen.digital/169930/conversions/d432c31c-d837-40bf-b709-aab11a4b4c8c_20260605_080215-og_image.webp",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "BBC",
-   "title": "Wales v Albania: Rhian Wilkinson's side hope pattern continues in Women's World Cup play-off semi-final",
-   "iso": "2026-10-10T09:57:38.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c8r4y6x4p2lzo",
-   "lede": "Wales are ranked 31st in the world, 17 places below Norway, who they could face in a play-off final in December. If the pattern of this Women's World Cup qualifying campaign continues, Wales will be starting preparations for a play-off final come Wednesday morning. Wales return home to Llanelli on Tuesday for the second leg of their play-off semi-final with a lead courtesy of a 1-0 triumph in Albania. It was a game which mirrored the three Wales played on their travels during the group stage of this World Cup qualifying campaign, in the Czech Republic, Albania and Montenegro.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/155a/live/184d89f0-c418-11f1-a175-8928617a734f.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "DW.COM",
    "title": "Saudi Arabia is shelving one if its big stadium projects. What does it mean for the 2034 World Cup?",
    "iso": "2026-10-10T09:10:22.000Z",
    "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948",
    "lede": "Since winning the right to hold the 2034 World Cup unopposed, Saudi Arabia has been pulling away from sport. With reports that its most ambitious stadium project will be abandoned, what does this mean for the World Cup? It was billed as \"the most unique stadium in the world,\" a key pillar of Saudi Arabia's World Cup 2034 plans. But now Neom Stadium, part of the kingdom's ambitious aims to build a 170-kilometer-long (111 miles) city in the desert known as The Line, looks set to be scrapped, with the broader project scaled back significantly.",
    "image": "https://static.dw.com/image/74722680_6.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DAILY NEWS",
@@ -58,8 +48,8 @@
    "link": "https://dailynews.co.tz/motsepe-africa-must-win-world-cup/",
    "lede": "SANTA MARIA: CAF President Patrice Motsepe has challenged African football to turn its growing influence on the world stage into tangible results, declaring that the continent must win the FIFA World Cup. He made the statement yesterday during the second day of the CAF Strategy Conference in Santa Maria, Sal Island, Cabo Verde. Motsepe said Africa must focus on investment, stronger football structures and improved standards across all 54 Member Associations to achieve its ambition. “We have to win the World Cup.",
    "image": "https://dailynews.co.tz/wp-content/uploads/2026/09/Patrice-Motsepe.webp",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DAILY TRIBUNE",
@@ -68,8 +58,8 @@
    "link": "https://tribune.net.ph/2026/10/09/filipinas-test-peruvians-mettle",
    "lede": "Ivan Suing·10 October 2026, 6:07 am PHT·1 MIN READ. KATRINA Guillou and the Filipinas play Peru in a goodwill game on Saturday as part of their buildup for the 2027 FIFA World Cup in Brazil. The Philippine women’s national football team takes on host Peru on Saturday (Manila time) as the Filipinas continue their preparations for the 2027 FIFA Women’s World Cup in Brazil. Ranked No. 39 in the world, the Filipinas will face the No.",
    "image": "https://images.assettype.com/tribune/2026-10-09/te67041u/ARTCARDS-NIGHT-SHIFT-22.png?w=1200&auto=format&q=70&mode=crop&ar=16%3A9&crop=entropy",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BULINEWS",
@@ -78,6 +68,15 @@
    "link": "https://bulinews.com/mario-gotze-reflects-mentorship-role-and-the-evolution-football",
    "lede": "Mario Götze spoke about his career in depth in an exclusive interview with the Bundesliga. The 34-year-old has a contract until 2028 with his third Bundesliga club, Eintracht Frankfurt. “I would say I’m very happy right now,” Götze said when he was asked whether he starts thinking about the final chapter of his career. “I don’t plan too much about the future because, in the end, a career is so short.",
    "image": "https://bulinews.com/i/1280/21261.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "ESPN",
+   "title": "2026-27 English Premier League Standings",
+   "iso": "2026-10-10T14:43:25.000Z",
+   "link": "https://www.espn.com.au/football/table/_/gameId/401876940",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
