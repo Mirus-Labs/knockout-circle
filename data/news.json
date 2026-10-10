@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T20:14:45.027Z",
+ "updated": "2026-10-10T21:49:26.547Z",
  "news": [
   {
    "cat": "CITIZEN DIGITAL",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "DW.COM",
+   "title": "Saudi Arabia is shelving one if its big stadium projects. What does it mean for the 2034 World Cup?",
+   "iso": "2026-10-10T09:10:22.000Z",
+   "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948",
+   "lede": "Since winning the right to hold the 2034 World Cup unopposed, Saudi Arabia has been pulling away from sport. With reports that its most ambitious stadium project will be abandoned, what does this mean for the World Cup? It was billed as \"the most unique stadium in the world,\" a key pillar of Saudi Arabia's World Cup 2034 plans. But now Neom Stadium, part of the kingdom's ambitious aims to build a 170-kilometer-long (111 miles) city in the desert known as The Line, looks set to be scrapped, with the broader project scaled back significantly.",
+   "image": "https://static.dw.com/image/74722680_6.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "DAILY NEWS",
    "title": "Motsepe: Africa must win World Cup",
    "iso": "2026-10-10T08:58:55.000Z",
    "link": "https://dailynews.co.tz/motsepe-africa-must-win-world-cup/",
    "lede": "SANTA MARIA: CAF President Patrice Motsepe has challenged African football to turn its growing influence on the world stage into tangible results, declaring that the continent must win the FIFA World Cup. He made the statement yesterday during the second day of the CAF Strategy Conference in Santa Maria, Sal Island, Cabo Verde. Motsepe said Africa must focus on investment, stronger football structures and improved standards across all 54 Member Associations to achieve its ambition. “We have to win the World Cup.",
    "image": "https://dailynews.co.tz/wp-content/uploads/2026/09/Patrice-Motsepe.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "DAILY TRIBUNE",
@@ -58,26 +68,16 @@
    "link": "https://tribune.net.ph/2026/10/09/filipinas-test-peruvians-mettle",
    "lede": "Ivan Suing·10 October 2026, 6:07 am PHT·1 MIN READ. KATRINA Guillou and the Filipinas play Peru in a goodwill game on Saturday as part of their buildup for the 2027 FIFA World Cup in Brazil. The Philippine women’s national football team takes on host Peru on Saturday (Manila time) as the Filipinas continue their preparations for the 2027 FIFA Women’s World Cup in Brazil. Ranked No. 39 in the world, the Filipinas will face the No.",
    "image": "https://images.assettype.com/tribune/2026-10-09/te67041u/ARTCARDS-NIGHT-SHIFT-22.png?w=1200&auto=format&q=70&mode=crop&ar=16%3A9&crop=entropy",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DW.COM",
-   "title": "Saudi Arabia is shelving one if its big stadium projects. What does it mean for the 2034 World Cup?",
-   "iso": "2026-10-10T06:09:36.000Z",
-   "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948",
-   "lede": "Since winning the right to hold the 2034 World Cup unopposed, Saudi Arabia has been pulling away from sport. With reports that its most ambitious stadium project will be abandoned, what does this mean for the World Cup? It was billed as \"the most unique stadium in the world,\" a key pillar of Saudi Arabia's World Cup 2034 plans. But now Neom Stadium, part of the kingdom's ambitious aims to build a 170-kilometer-long (111 miles) city in the desert known as The Line, looks set to be scrapped, with the broader project scaled back significantly.",
-   "image": "https://static.dw.com/image/74722680_6.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SPORTSTAR",
-   "title": "England gains edge over Greece in FIFA Women’s World Cup 2027 play-offs",
-   "iso": "2026-10-10T02:45:30.000Z",
-   "link": "https://sportstar.thehindu.com/football/womens-football/fifa-women-world-cup-2027-uefa-first-round-playoffs-scores-matches-results/article71567000.ece",
-   "lede": "REUTERS REUTERS https://ss-i.thgim.com/public/incoming/8gfofh/article71566998.ece/alternates/FREE_1200/2026-10-09T182629Z_1100204993_UP1EMA91F84J8_RTRMADP_3_SOCCER-WORLDCUP-GRC-ENG.JPG STEFANOS RAPANIS Soccer Football - FIFA World Cup 2027 - Play Off - Semi Final - First Leg - Greece v England - Pankritio Stadium, Heraklion, Greece - October 9, 2026 England's Alessia Russo celebrates scoring their third goal with teammates REUTERS/Stefanos Rapanis Kallisti Brouksair pulled one back for the host, giving Greece a glimmer of hope ahead of Tuesday’s return leg in Leicester against the 2023 World Cup runner-up. PARIS England secured a 3-1 win away to Greece on Friday in the first leg of their 2027 Women’s World Cup play-off. Georgia Stanway gave the Lionesses a first-half lead in Crete before Maya Le Tissier and Alessia Russo put England firmly in control with two more goals after the break.",
-   "image": "https://ss-i.thgim.com/public/incoming/8gfofh/article71566998.ece/alternates/LANDSCAPE_1200/2026-10-09T182629Z_1100204993_UP1EMA91F84J8_RTRMADP_3_SOCCER-WORLDCUP-GRC-ENG.JPG",
+   "cat": "BULINEWS",
+   "title": "Mario Götze reflects on mentorship role and the evolution of football",
+   "iso": "2026-10-10T07:00:00.000Z",
+   "link": "https://bulinews.com/mario-gotze-reflects-mentorship-role-and-the-evolution-football",
+   "lede": "Mario Götze spoke about his career in depth in an exclusive interview with the Bundesliga. The 34-year-old has a contract until 2028 with his third Bundesliga club, Eintracht Frankfurt. “I would say I’m very happy right now,” Götze said when he was asked whether he starts thinking about the final chapter of his career. “I don’t plan too much about the future because, in the end, a career is so short.",
+   "image": "https://bulinews.com/i/1280/21261.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
