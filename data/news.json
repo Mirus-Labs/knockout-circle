@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-11T18:58:11.796Z",
+ "updated": "2026-10-11T19:44:57.984Z",
  "news": [
+  {
+   "cat": "SPORTSGAMBLER",
+   "title": "Football Lineups",
+   "iso": "2026-10-11T17:08:07.000Z",
+   "link": "https://www.sportsgambler.com/lineups/football/",
+   "lede": "Explore the latest football lineups. View predicted starting XIs ahead of kick-off and confirmed team news as soon as lineups are announced. Choose a competition below to see the latest lineups and expected formations. Our aim is to provide daily predicted football lineups for as many football matches taking place across the world as possible.",
+   "image": "https://sportsgambler.sirv.com/sportsgambler/social/sm_img_lineupspage.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "IDISKI TIMES",
    "title": "CAF Backs Africa’s World Cup Ambitions With Bigger Investment – Motsepe",
@@ -8,8 +18,8 @@
    "link": "https://www.idiskitimes.co.za/african-football/caf-backs-africas-world-cup-ambitions-with-bigger-investment-motsepe/",
    "lede": "Patrice Motsepe told the CAF Strategy Conference that the money is now flowing into African football, and that the continent will be judged on what it does with it. Motsepe said the annual grant paid to each of CAF’s 54 Member Associations has grown from R2 million to R12 million in four years. The increase gives federations more room to invest in infrastructure, coaching, competitions and administration. CAF now sets aside R900 million annually for club football, up from R300 million.",
    "image": "https://www.idiskitimes.co.za/wp-content/uploads/2026/10/B26IRFRK0012-scaled-e1791734861556.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "NEWS AGENCY OF NIGERIA",
@@ -18,16 +28,6 @@
    "link": "https://nannews.ng/ex-fcta-spokesman-urges-fifa-to-introduce-over-40-world-cup/",
    "lede": "Former Spokesman of the Federal Capital Territory Administration (FCTA), Nosike Ogbuenyi, has urged the World Football Governing body (FIFA) to introduce an Over-40 World Cup for retired football stars. Ogbuenyi made the call in Abuja after submitting a proposal for the competition to FIFA through the Nigeria Football Federation (NFF) secretariat. He said the proposed tournament would enable football fans worldwide to continue enjoying the skills of legendary players beyond their active careers. He added that “the introduction of FIFA Over-40 World Cup will make the football-loving world to continue to watch the best of all time on the field of play for a longer period.”",
    "image": "https://nannews.ng/wp-content/uploads/2026/10/IMG_4029.webp",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "NINE.COM.AU",
-   "title": "Cruel ‘reality check’ key for Tillies stars to elevate World Cup auditions",
-   "iso": "2026-10-11T16:45:07.000Z",
-   "link": "https://www.nine.com.au/sport/football/matildas-lose-to-germany-craig-foster-comments-wide-world-of-sports-reality-check-20261011-p614k3.html",
-   "lede": "A cruel “reality check” from Germany could be the awakening the Matildas need heading into the 2027 FIFA Women’s World Cup, according to Craig Foster. Joe Montemurro needed little time to see the weaknesses in his team’s tactics, as Australia’s beloved national team suffered a 4-2 loss to Germany on Saturday. Germany celebrate after their fourth goal against the Matildas. Germany needed half an hour to find the back of the net twice, with countless chances presented before those two goals also.",
-   "image": "https://static.ffx.io/images/$zoom_0.4753%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_991%2C$y_225/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f2865e33f60f46553af67d54ed8f150ffbacd5b8",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
