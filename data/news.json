@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-12T19:50:34.773Z",
+ "updated": "2026-10-13T01:34:20.512Z",
  "news": [
+  {
+   "cat": "ST GEORGE & SUTHERLAND SHIRE LEADER",
+   "title": "Age is no barrier for 80-year-old soccer star heading to World Cup",
+   "iso": "2026-10-12T23:46:16.000Z",
+   "link": "https://www.theleader.com.au/story/9361255/ian-whatman-penshurst-grandfather-80-in-world-cup-squad/",
+   "lede": "From schoolyard kicks to wearing green and gold. Penshurst local Ian Whatman, 80, will represent Australia at the Over 80s World Cup despite living with Alzheimer's. Read his full journey here.",
+   "image": "https://www.theleader.com.au/images/transform/v1/crop/frm/cmVmMQsbi2AtDjEpmZLhes/8ed3b405-3eb3-4639-9074-31363fb97a03_rotated_270.jpg/r0_249_3072_1862_w1200_h630_fmax.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "RADIO TIMES",
+   "title": "Live football on TV today",
+   "iso": "2026-10-12T20:55:41.000Z",
+   "link": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/",
+   "lede": "Find what's worth watching with Radio Times magazine and app. Less scrolling, more great TV. WIN TICKETS AND AN OVERNIGHT STAY Win 4 tickets to The Snowman™ at Birmingham Rep on Fri 23 Oct, plus an overnight stay at The Grand Hotel Birmingham,. If your listening experience needs an upgrade, browse radios and music centres from brands like Roberts, Pure, Lenco and more.",
+   "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/10/GettyImages-2280762138-c968881.jpg?resize=1200%2C630",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Six questions facing England as they target next year’s Women’s World Cup",
+   "iso": "2026-10-12T20:42:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/oct/12/england-next-summer-womens-world-cup",
+   "lede": "Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air. England have two jobs to do on Tuesday. The first, avoiding an almighty upset and progressing past Greece on aggregate in their Women’s World Cup playoff to reach a final tie, should be a formality for one of the world’s best-resourced teams. The second, honing their style to play like contenders for next summer’s World Cup in Brazil, is a far trickier but crucial challenge.",
+   "image": "https://i.guim.co.uk/img/media/a205765fef6edd03c4d980dba2776bb8dcfff938/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d07cf66d98afb1d71708964ad5639461",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "SPORTSGAMBLER",
+   "title": "Football Lineups",
+   "iso": "2026-10-12T20:16:09.000Z",
+   "link": "https://www.sportsgambler.com/lineups/football/",
+   "lede": "Explore the latest football lineups. View predicted starting XIs ahead of kick-off and confirmed team news as soon as lineups are announced. Choose a competition below to see the latest lineups and expected formations. Our aim is to provide daily predicted football lineups for as many football matches taking place across the world as possible.",
+   "image": "https://sportsgambler.sirv.com/sportsgambler/social/sm_img_lineupspage.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE DAILY STAR",
+   "title": "Argentina were World Cup’s most targeted team online, says FIFA report",
+   "iso": "2026-10-12T19:20:36.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/argentina-were-world-cups-most-targeted-team-online-says-fifa-report-4295061",
+   "lede": "Argentina were the most targeted national team on social media during the 2026 FIFA World Cup, with accusations of referee favouritism, corruption and xenophobia among the main forms of abuse directed at the side, a FIFA report published on October 9 noted. The governing body’s Social Media Protection Service (SMPS) analysed more than 17.1 million posts and comments on X, Instagram, Facebook and TikTok between June 9 and July 20. Of those, 477,000 were referred for human review, with 240,000 verified as abusive. England were the second-most targeted team, followed by Spain, Brazil and Norway, the report found.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
   {
    "cat": "STV NEWS",
    "title": "Football fans can drink alcohol in seats during Scotland game",
@@ -8,8 +58,18 @@
    "link": "https://news.stv.tv/sport/football-fans-can-drink-alcohol-in-seats-during-scotlands-world-cup-play-off",
    "lede": "Renfrewshire Council has granted a licence for the controlled sale of alcohol at the second leg of Scotland’s encounter with Czechia. Football fans will be able to drink alcohol in the stands in Scotland for the first time in more than four decades at Tuesday’s Women’s World Cup play-off. Renfrewshire Council has granted a licence for the controlled sale of alcohol at the second leg of Scotland’s encounter with Czechia at St Mirren’s Marbill Coaches Stadium in Paisley. Major restrictions on alcohol sales were introduced after Rangers and Celtic fans clashed on the Hampden pitch after the 1980 Scottish Cup final.",
    "image": "https://news.stv.tv/wp-content/uploads/2026/10/396e3d924a7e40f5abf11bb00ed0fbd0-1791827783-social-sport.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "FOOTBALL LEAGUE WORLD",
+   "title": "Chris Wilder can still strike Sheffield United transfer gold - we saw it at the World Cup",
+   "iso": "2026-10-12T18:00:12.000Z",
+   "link": "https://footballleagueworld.co.uk/chris-wilder-can-strike-sheffield-united-transfer-gold-tahith-chong-world-cup/",
+   "lede": "Chris Wilder may yet have unearthed a valuable asset for Sheffield United in Tahith Chong, whose promising World Cup displays for Curacao offered a reminder of his ability. After an injury-disrupted start to life at Bramall Lane, the versatile winger or attacking midfielder finally made his mark by scoring in the Blades' 3-0 win over Lincoln City. Patrick Bamford's brace either side of Chong's goal collected their third league win of the season. With creativity in short supply for Chris Wilder's Sheffield United side, could this be the beginning of a long-awaited breakthrough for Chong?",
+   "image": "https://static0.footballleagueworldimages.com/wordpress/wp-content/uploads/2026/10/copy-of-copy-of-copy-of-flw-fi-3000x1500-2026-10-11t130836-815.jpg?w=1600&h=900&fit=crop",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "LEGIT.NG",
@@ -18,65 +78,6 @@
    "link": "https://www.legit.ng/sports/football/1735729-2026-fifa-world-cup-winner-hails-osimhen-champions-league-clash-barcelona/",
    "lede": "PAY ATTENTION: Find it fast with our new search feature at Legit.ng! Barcelona centre-back Pau Cubarsi has described Victor Osimhen as one of the best strikers in the world, issuing the warning ahead of his side's 2026/27 UEFA Champions League group stage visit to Galatasaray's Rams Park in Istanbul on matchday two. The Spanish defender recalled a previous encounter with the Super Eagles star, when Osimhen was still leading the line for Napoli in 2024. Drawing on that experience, Cubarsi said Barcelona know what to expect from the Nigerian forward, particularly in a home setting where the Turkish side will be backing their striker heavily.",
    "image": "https://cdn.legit.ng/images/1200x675/236998b978aa593a.jpeg?v=1",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "RADIO TIMES",
-   "title": "Live football on TV today",
-   "iso": "2026-10-12T17:17:57.000Z",
-   "link": "https://www.radiotimes.com/tv/sport/football/football-live-on-tv-tonight/",
-   "lede": "Find what's worth watching with Radio Times magazine and app. Less scrolling, more great TV. WIN TICKETS AND AN OVERNIGHT STAY Win 4 tickets to The Snowman™ at Birmingham Rep on Fri 23 Oct, plus an overnight stay at The Grand Hotel Birmingham,. If your listening experience needs an upgrade, browse radios and music centres from brands like Roberts, Pure, Lenco and more.",
-   "image": "https://images.immediate.co.uk/production/volatile/sites/3/2026/10/GettyImages-2280762138-c968881.jpg?resize=1200%2C630",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Six questions facing England as they target next year’s Women’s World Cup",
-   "iso": "2026-10-12T15:48:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/oct/12/england-next-summer-womens-world-cup",
-   "lede": "Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air. England have two jobs to do on Tuesday. The first, avoiding an almighty upset and progressing past Greece on aggregate in their Women’s World Cup playoff to reach a final tie, should be a formality for one of the world’s best-resourced teams. The second, honing their style to play like contenders for next summer’s World Cup in Brazil, is a far trickier but crucial challenge.",
-   "image": "https://i.guim.co.uk/img/media/a205765fef6edd03c4d980dba2776bb8dcfff938/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d07cf66d98afb1d71708964ad5639461",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "BBC",
-   "title": "Portugal v Northern Ireland: We'll have 'one last swing' at World Cup - Michael McArdle",
-   "iso": "2026-10-12T15:46:33.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo",
-   "lede": "Michael McArdle took over as Northern Ireland manager in March. Northern Ireland manager Michael McArdle says his side will have \"one last swing\" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal. Portugal backed up their favourite's tag as they ran out 4-0 winners in the first leg at Inver Park on Friday night. That result led to McArdle saying that the hopes of a first World Cup had gone from \"improbable to impossible\".",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4410/live/734c6e10-c653-11f1-8600-efb62b613ab5.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "Wales v Albania: Rhian Wilkinson wary of Albania with record run in sight",
-   "iso": "2026-10-12T15:31:33.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o",
-   "lede": "Rhian Wilkinson is under contract as Wales boss until 2029. Rhian Wilkinson insists Wales must take nothing for granted despite a 1-0 advantage going into their World Cup play-off semi-final second leg against Albania on Tuesday. Wales are favourites to move a step closer to a first World Cup after their narrow first-leg success. Wilkinson's side will achieve their longest unbeaten run of 10 games if they come through unscathed from the match in Llanelli.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbc0/live/f6654e80-c625-11f1-b048-6946f232cb95.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "BUSINESSDAY NG",
-   "title": "Wenger: We want to see an African team win the World Cup",
-   "iso": "2026-10-12T14:30:40.000Z",
-   "link": "https://businessday.ng/sports/article/wenger-we-want-to-see-an-african-team-win-the-world-cup/?amp",
-   "lede": "Arsene Wenger, former Arsenal manager and FIFA’s chief of global football development, believes an African team can win the FIFA World Cup. Wenger said African football had made significant strides in recent years and believes the continent is approaching a breakthrough at the global showpiece. Speaking at the CAF Strategy Conference in Santa Maria, Sal Island, Cape Verde, Wenger said Africa’s progress offered grounds for optimism, but warned teams must continue improving their mentality, unity, and attention to detail. Read Also: CAF boss Motsepe backs African nation to win FIFA World Cup.",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "WILLIAM HILL NEWS",
-   "title": "Women’s World Cup Qualifiers: Will Tuesday’s Second Legs Deliver More Big Wins?",
-   "iso": "2026-10-12T14:19:00.000Z",
-   "link": "https://news.williamhill.com/football/womens-world-cup-predictions-and-betting-odds-for-tuesday-13th-october-2026/",
-   "lede": "William Hill News tipster @Footy_Tipster previews Tuesday’s Women’s World Cup Qualifiers from across Europe. Portugal v Northern Ireland Prediction: Match Result & 4+ Match Goals – Portugal (19/20) | Portugal 4-0 Northern Ireland (5/1). Scotland v Czech Republic Prediction: Both Teams To Score & Scotland To Win (23/10) | Scotland 2-1 Czech Republic (6/1). Wales v Albania Prediction: Under 3.5 Goals (4/6).",
-   "image": "https://news.williamhill.com/wp-content/uploads/2026/09/3CDPN2N-scaled-e1790935724111.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
