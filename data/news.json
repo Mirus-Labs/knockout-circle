@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T00:32:59.415Z",
+ "updated": "2026-10-14T01:15:56.858Z",
  "news": [
   {
    "cat": "THE GUARDIAN",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "BALLS.IE",
+   "title": "Katie McCabe Issued Rallying Cry To Ireland Fans After World Cup Playoff Final Place Secured",
+   "iso": "2026-10-13T21:52:50.000Z",
+   "link": "https://www.balls.ie/football/katie-mccabe-ireland-fans-world-cup-playoff-665106",
+   "lede": "Katie McCabe has sent a clear request to Ireland fans after the Girls in Green booked their place in the World Cup playoff final with another rout of Kazakhstan on Tuesday night. Ireland ran riot in last Friday's 8-0 win in Astana, but this was a bit more of a challenge for Carla Ward's troops, as they found it difficult to break down a more stubborn Kazakh defence. Recommended They finally made their first-half pressure pay with Jessie Stapleton's header shortly before half-time, and the floodgates began to open after the break. For the first time in Cork, McCabe was on the scoresheet, rifling home from just outside the box shortly after the break.",
+   "image": "https://i.resized.co/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAyNlxcXC8xMFxcXC8xMzIyNTIyN1xcXC9LYXRpZS1NY0NhYmUtSVJlbGFuZC1Xb3JsZC1DdXAucG5nXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9pbWFnZXNcXFwvYnJhbmQtaW1hZ2UuanBnXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImNjYmI2YmM2YTA3YzY3MTllMjczMjU2YmI2NTAxMTgxZjg0MGJlZjgifQ==/katiemccabeissuedrallyingcrytoirelandfansafterplayoffwinballsie.png",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "BBC",
    "title": "Republic of Ireland 4-0 Kazakhstan (agg 12-0): We have to 'lock in' for World Cup dream - Katie McCabe",
    "iso": "2026-10-13T21:52:37.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8x235vx1d49o",
    "lede": "Katie McCabe scored in Cork as the Republic of Ireland booked their place in the final play-off round. The final whistle had just blown in Cork, but Katie McCabe's mind was already six weeks ahead. Eight goals to the good from Friday, the second leg of the Women's World Cup play-off with Kazakhstan was always going to be an easy night for the Republic of Ireland. There were another four goals on the night, including a powerful strike from McCabe, and it leaves Carla Ward's side just two matches away from the 2027 Women's World Cup.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1f1/live/fcd38030-c74b-11f1-b4d5-87f9c6c95a29.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE SPORTS EXAMINER",
@@ -58,8 +68,8 @@
    "link": "https://www.thesportsexaminer.com/football-the-times-london-reports-fifa-chief-infantino-paid-an-unreported-second-salary-of-1-7-million-as-head-of-2026-world-cup/",
    "lede": "★ The Sports Examiner: Chronicling the key competitive, economic and political forces shaping elite sport and the Olympic Movement. ★ To get the daily Sports Examiner Recap by e-mail: sign up here! The Times (London) reported on a Tuesday story that FIFA President Gianni Infantino (SUI) received not only a multi-million-dollar salary from FIFA, but an undisclosed second salary from the Coral Gables, Florida-based World Cup 2026 organizing committee:. “In 2024, Infantino was stated by Fifa’s annual report as earning 4.274m CHF (£3.88m).",
    "image": "https://www.thesportsexaminer.com/wp-content/uploads/2025/11/tsx-pix-2025-1109-infantino-am-bus-forum-miami.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "BBC",
@@ -68,15 +78,6 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o",
    "lede": "Wales are through to a second successive Women's World Cup play-off final. Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December. Wales moved a step closer to reaching the Women's World Cup for the first time as a 3-0 win over Albania in Llanelli secured a 4-0 aggregate success in their play-off semi-final. Wales now face a step up in a class as they take on a Norway side ranked 14th in the world, but Wilkinson insists Wales can \"absolutely\" cause an upset as they are reunited with former boss Grainger.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a699/live/8e085a30-c74c-11f1-b4d5-87f9c6c95a29.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "FIFA to propose associations receive $25m each as part of $6bn funding for football development",
-   "iso": "2026-10-13T23:24:37.000Z",
-   "link": "https://www.nytimes.com/athletic/7688018/2026/10/13/fifa-propose-6bn-25m-associations/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
