@@ -1,15 +1,25 @@
 {
- "updated": "2026-10-14T15:31:15.279Z",
+ "updated": "2026-10-14T17:17:35.676Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Fifa to offer extra £2.6bn for football development",
+   "iso": "2026-10-14T16:26:45.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo",
+   "lede": "Fifa president Gianni Infantino will be standing for re-election in March. Fifa is set to propose a $3.4bn (£2.6bn) increase in the amount of money it hands out for football development across the world. World football's governing body wants to release the money from its reserves in a move which would more than double the level of planned distribution funding for 2027-2030. It says it has been able to release the extra cash because of the commercial success of this summer's World Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting",
-   "iso": "2026-10-14T14:30:00.000Z",
+   "iso": "2026-10-14T15:45:00.000Z",
    "link": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize",
-   "lede": "World Cup sell-off, Balogun and peace prize on agenda. Opponents will press home need for independent review. Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan, the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council during the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since in Zurich with one attender predicting that the talks could be “explosive”.",
+   "lede": "World Cup sell-off, Balogun and peace prize on agenda. Opponents will press home need for independent review. Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan, the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council in the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since then in Zurich, with one attender predicting that the talks could be “explosive”.",
    "image": "https://i.guim.co.uk/img/media/21adaffdd713db0e62e8ccd6493a8095674d2c1e/176_109_2550_2039/master/2550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e36ec5dae6cba2f60fa9677056f0772",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE STAR",
@@ -18,8 +28,8 @@
    "link": "https://www.thestar.com.my/sport/football/2026/10/14/soccer-infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale",
    "lede": "ZURICH, Oct 14 (Reuters) - Gianni Infantino faces the soccer ⁠leaders who want him gone on Thursday in his first meeting with FIFA’s top brass since his plan to sell a stake in FIFA ⁠tournaments, including the World Cup, collapsed. Infantino has faced calls to resign from the leaders of three regional football confederations – UEFA (Europe), AFC (Asia) and ‌CONCACAF (North and Central America and the Caribbean) – and their representatives will be present in Zurich for a FIFA Council meeting. They will be joined by their counterparts from Africa, South America and Oceania. On the agenda will be a discussion of the failed FIFA Forward Enterprise (FFE) scheme, which Infantino was forced to abandon within days of announcing it in July.",
    "image": "https://apicms.thestar.com.my/uploads/images/2026/10/14/4162163.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "BBC",
@@ -28,8 +38,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo",
    "lede": "England have lost just once this year but have still not qualified for the 2027 Women's World Cup. The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is. The two-time European champions were superior in every sense as they won 8-1 on aggregate against a Greece side ranked 55 places lower in the world. Realistically, Greece stood little chance in a two-legged tie against Sarina Wiegman's side despite performing well in their home 3-1 defeat.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "VIJESTI.ME",
@@ -38,8 +48,8 @@
    "link": "https://en.vijesti.me/amp/831397/FIFA-to-propose-%2463-billion-for-football-development",
    "lede": "Fifa estimates revenue of approximately $15 billion in the 2022-2026 cycle. FIFA will propose a $6,35 billion development fund to its member associations for the next four-year cycle, including an increased $25 million for each national association, the Associated Press reported today. This information was confirmed by two people familiar with the plan, as well as a letter seen by the AP. FIFA planned to use the financial success of the last World Cup to increase investment in the sport among FIFA's 211 member associations, confederations and other stakeholders.",
    "image": "https://www.vijesti.me/data/images/2022/02/28/18/5394237_shutterstock-1891235512_share.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "LA GAZZETTA DELLO SPORT",
@@ -48,36 +58,25 @@
    "link": "https://www.gazzetta.it/en/football/world-cup/14-10-2026/balogun-fifa-wants-to-change-rules-to-justify-world-cup-disqualification_amp.shtml",
    "lede": "And unfortunately for the USA and Monaco's number 9, it's not a goal, but the ugly World Cup story that resurfaces on the eve of tomorrow's FIFA Council meeting. This comes with a desperate attempt to retroactively justify a decision that made no sense whatsoever, existing only in the realm of Trump and Infantino. Everyone remembers the American striker's sending off for a foul on Muharemovic in USA v Bosnia (2-0). The Brazilian referee, Claus, only decided on the red card after VAR review.",
    "image": "https://www.gazzetta.it/images/default.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "England women to host Ukraine at Wembley in World Cup playoff decider",
-   "iso": "2026-10-14T12:10:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/england-women-to-host-ukraine-at-wembley-in-world-cup-playoff-decider?ref=latest-headlines",
-   "lede": "MANCHESTER, England, Oct 14 - England will face Ukraine at Wembley on December 5 with a place at the 2027 Women's World Cup in Brazil at stake, the Football Association said on Wednesday. • England reached the final playoff round with an 8-1 aggregate victory over Greece, winning 3-1 away before a 5-0 victory at Leicester City's King Power Stadium on Tuesday. • The Lionesses will play the first leg against Ukraine away from home at a venue yet to be confirmed before returning to Wembley for the second leg. • \"To play at Wembley Stadium in front of our fans for a place at the World Cup is a big moment,\" England coach Sarina Wiegman said.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b6a3848e9ad63a2f5efcc8c2ddd69affdb34bf8281787b78fa9ddc4307dfda92?w=1200",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "WWW.KFMRADIO.COM",
-   "title": "Ireland's Women's Football Team To Face Poland In World Cup Bid",
-   "iso": "2026-10-14T11:41:34.000Z",
-   "link": "https://www.kfmradio.com/news/sports/irelands-womens-football-team-to-face-poland-in-world-cup-bid/",
-   "lede": "The Republic of Ireland will face Poland for a place at next year's World Cup in Brazil. Carla Ward's side eased past Kazakhstan in their playoff semi-final last night, winning 12-nil on aggregate. The Girls in Green missed out on qualifying for the 2025 Euros after a playoff defeat to Wales.",
-   "image": "https://mmo.aiircdn.com/516/6332dad47e144.jpg",
+   "cat": "THE TELEGRAPH",
+   "title": "Fifa trying to change rules to avoid repeat of Balogun scandal",
+   "iso": "2026-10-14T13:00:00.000Z",
+   "link": "https://www.telegraph.co.uk/football/2026/10/14/fifa-rule-change-folarin-balogun-scandal-world-cup-trump/",
+   "lede": "Amendment which would prohibit suspension of automatic one-game bans has been sprung on council members at short notice. Ben has been the Telegraph’s Sports Investigations Reporter since 2018. He was previously Sport News Correspondent. Before joining the Telegraph in 2013, Ben spent more than eight years at the Press Association, including as a football and rugby reporter.",
+   "image": "https://www.telegraph.co.uk/content/dam/football/2026/10/14/TELEMMGLPICT000494162542_17919812266660_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RURf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AFRICA TOP SPORTS",
-   "title": "Carlos Kameni Earns UEFA A Coaching Licence, Begins New Chapter in Football",
-   "iso": "2026-10-14T11:17:47.000Z",
-   "link": "https://en.africatopsports.com/carlos-kameni-earns-uefa-a-coaching-licence-begins-new-chapter-in-football/",
-   "lede": "Legendary Cameroonian goalkeeper Carlos Kameni has taken a significant step towards a career in coaching after obtaining his UEFA A Coaching Licence through the Royal Spanish Football Federation (RFEF). The former Cameroon international completed the coaching qualification in Madrid, marking a new chapter in a football journey that has seen him achieve success at both club and international levels. Kameni enjoyed an illustrious playing career, particularly in Spain, where he established himself as one of the standout goalkeepers in La Liga during spells with RCD Espanyol and Málaga CF. He made more than 300 appearances combined for the two clubs, earning a reputation for his reflexes, consistency and ability to deliver in high-pressure matches.",
-   "image": "https://en.africatopsports.com/wp-content/uploads/2026/10/IMG_20261014_111116.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "FIFA seeking to amend rules to prevent repeat of Folarin Balogun scandal at World Cup",
+   "iso": "2026-10-14T16:36:50.000Z",
+   "link": "https://www.nytimes.com/athletic/7690078/2026/10/14/fifa-infantino-balogun-proposal/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
