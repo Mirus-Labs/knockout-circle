@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T05:27:02.576Z",
+ "updated": "2026-10-14T06:14:09.798Z",
  "news": [
   {
    "cat": "SPORTSTAR",
@@ -32,34 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "NEWS18",
-   "title": "Netflix Buys FIFA World Cup 2030 Broadcast Rights In Co-hosts Spain",
-   "iso": "2026-10-14T03:55:41.000Z",
-   "link": "https://www.news18.com/sports/football/netflix-buys-fifa-world-cup-2030-broadcast-rights-in-co-hosts-spain-ws-l-10380886.html",
-   "lede": "Netflix bought exclusive rights to broadcast the 2030 World Cup in co-host Spain on Tuesday in a deal that lets a free-to-air public broadcaster show games each day including the defending champion’s. Netflix said in a statement it will stream all 104 games live during the 48-team tournament that Spain will co-host with Portugal and Morocco, after the opening three games are played in South America. The value of the deal was not disclosed. Spanish rights for the 104-game 2026 edition played across North America went to public broadcaster RTVE reportedly for 55 million euros ($61.6 million).",
-   "image": "https://images.news18.com/ibnlive/uploads/2026/10/FIFA-World-Cup-2026-10-b8d0e368904b010ff52435c6a68e1848-1200x675.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "INDIAN TELEVISION DOT COM",
    "title": "Netflix bags exclusive FIFA World Cup 2030 rights in Spain and Andorra",
    "iso": "2026-10-14T02:33:49.000Z",
    "link": "https://indiantelevision.com/iworld/netflix-bags-exclusive-fifa-world-cup-2030-rights-in-spain-and-andorra/",
    "lede": "MUMBAI: Netflix is taking its football ambitions to the World Cup, securing exclusive broadcasting rights for the 2030 FIFA World Cup in Spain and Andorra, where it will stream every match live as the tournament marks its centenary. The deal gives the streaming platform full live coverage of the competition, including pre-match, half-time and post-match shows, a daily match-day roundup and additional programming in the run-up to the tournament. The 2030 edition is scheduled to run from 8 June to 21 July. The announcement strengthens Netflix’s push into live sports, adding one of football’s biggest global events to a portfolio that already includes sports documentaries and other football-related programming.",
    "image": "https://indiantelevision.com/wp-content/uploads/2026/10/FIFA-World-Cup-1000x600.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "USWNT returnees earn 2-2 draw against Spain, an early World Cup wake-up call",
-   "iso": "2026-10-14T02:20:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/oct/13/uswnt-spain-friendly-ashley-sanchez-mallory-swanson",
-   "lede": "The US were on the verge of losing two straight at home, but second-half goals from Ashley Sanchez and Mallory Swanson saved a draw. It was nearly time for the panic button. Maybe not to press it, but to look at it – to acknowledge that it’s within reach. A listless, shorthanded US women’s national team were struggling against Spain, down 2-0, and facing the ignominy of two straight decisive losses at home after Saturday’s 2-0 drubbing in Washington DC.",
-   "image": "https://i.guim.co.uk/img/media/ab6acf63704348be134cd6ee94b515a51d0a50f0/596_0_5258_4209/master/5258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=303899fa29096d605ab5188f6b8f2c8e",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "매일경제",
@@ -68,8 +48,8 @@
    "link": "https://www.mk.co.kr/en/world/12175367",
    "lede": "Netflix has secured exclusive broadcast rights to the 2030 FIFA World Cup in Spain and Andorra in Europe. Analysts say the move into World Cup coverage is allowing Netflix to expand its dominance in sports. Reuters reported on the 13th (local time) that the deal marks the first time Netflix will broadcast a major men’s international tournament held in Spain. Viewers in Spain are expected to be able to watch one match for free on each day that World Cup matches are played.",
    "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.4c568f82f8254114b8cfd464a4026a45_R.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "NINE.COM.AU",
@@ -78,6 +58,26 @@
    "link": "https://www.nine.com.au/sport/football/matildas-beat-haiti-germany-loss-international-window-analysis-2027-fifa-womens-world-cup-20261014-p615cx.html",
    "lede": "The final auditions for Australia’s World Cup team are now underway, with eight months before Joe Montemurro picks his squad to board the plane for Brazil and important questions still to be answered despite a thumping finish to this international window. After a disappointing 4-2 defeat to Germany, the next generation of Matildas made the most of their chances and rallied together to beat Haiti 7-1. Australia’s World Cup stars led the younger generation to victory. Getty Images for Football Australia.",
    "image": "https://static.ffx.io/images/$zoom_0.238%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_129%2C$y_76/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/bf6b391fd2947d1ba6cb02e5836ec3e0aafd649fb44c0d3475c62ef442dd520a",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE GUARDIAN",
+   "title": "USWNT returnees earn 2-2 draw against Spain, an early World Cup wake-up call",
+   "iso": "2026-10-14T01:19:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/oct/13/uswnt-spain-friendly-ashley-sanchez-mallory-swanson",
+   "lede": "The US were on the verge of losing two straight at home, but second-half goals from Ashley Sanchez and Mallory Swanson saved a draw. It was nearly time for the panic button. Maybe not to press it, but to look at it – to acknowledge that it’s within reach. A listless, shorthanded US women’s national team were struggling against Spain, down 2-0, and facing the ignominy of two straight decisive losses at home after Saturday’s 2-0 drubbing in Washington DC.",
+   "image": "https://i.guim.co.uk/img/media/ab6acf63704348be134cd6ee94b515a51d0a50f0/596_0_5258_4209/master/5258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=303899fa29096d605ab5188f6b8f2c8e",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Women’s World Cup play-off: England sweep past Greece to keep tournament hopes alive",
+   "iso": "2026-10-13T23:03:00.000Z",
+   "link": "https://sports.yahoo.com/articles/women-world-cup-play-off-230300572.html",
+   "lede": "England did not leave much room for doubt this time. After a 3-1 win over Greece in Crete left questions about their finishing and defensive concentration, the Lionesses responded with a ruthless disp... After a 3-1 win over Greece in Crete left questions about their finishing and defensive concentration, t...",
+   "image": "https://s.yimg.com/lo/mysterio/api/3cc0b2a0d5973a4bf4eb61d2456fdafa2ebf2953109a7a5de701c7d46bfce3b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fher_football_hub_articles_508%2Ff4a5851945130f4820be6714d09800de.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
