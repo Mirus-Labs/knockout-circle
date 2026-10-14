@@ -1,15 +1,45 @@
 {
- "updated": "2026-10-14T20:58:55.915Z",
+ "updated": "2026-10-14T23:57:18.487Z",
  "news": [
   {
-   "cat": "FOOTBALL ITALIA",
-   "title": "Fabregas: ‘Como continue to learn; the Champions League is tougher than the World Cup’",
-   "iso": "2026-10-14T19:54:36.000Z",
-   "link": "https://football-italia.net/fabregas-como-continue-to-learn-ucl/",
-   "lede": "Cesc Fabregas admitted he may have got some decisions wrong as Como suffered their first ever Champions League defeat, but insisted the competition is tougher than a World Cup. With quotes via TuttoMercatoWeb, Fabregas told Sky Sport Italia that the 3-2 loss in Rotterdam was part of the learning curve on the club’s first ever European away trip. “This is constant growth, it’s our first European away game. We continue to learn,” he said.",
-   "image": "https://icdn.football-italia.net/wp-content/uploads/2026/10/Cesc-Fabregas-Baturina-Valle.jpg",
+   "cat": "FRIENDS OF FOOTBALL",
+   "title": "New Zealand select squad for first FIFA U-15 Boys World Cup in Azerbaijan",
+   "iso": "2026-10-14T23:08:40.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/10/15/new-zealand-select-squad-for-first-fifa-u-15-boys-world-cup-in-azerbaijan/",
+   "lede": "New Zealand Football have named their squad for the inaugural FIFA U-15 World Cup & Festival, starting in Azerbaijan this month. The squad includes six players from Wellington Phoenix, three from Auckland United, two from Christchurch United and one each from Nomads United, Bay Olympic and Fencibles United. Unlike traditional FIFA age-group tournaments, the competition will use an eight-a-side format, with matches comprising two 20-minute halves. The team will be coached by Wellington Phoenix’s head of boys’ talent development and men’s U-18 head coach, Cam Grieve.",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/09/FIFA-U-15-World-Cup.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "BBC",
+   "title": "Fifa to offer extra £2.6bn for football development",
+   "iso": "2026-10-14T21:58:01.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/c64g1ex2d7gvo",
+   "lede": "Fifa president Gianni Infantino will be standing for re-election in March. Fifa is set to propose a $3.4bn (£2.6bn) increase in the amount of money it hands out for football development across the world. World football's governing body wants to release the money from its reserves in a move which would more than double the level of planned distribution funding for 2027-2030. It says it has been able to release the extra cash because of the commercial success of this summer's World Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco Women to Face France in Friendly Ahead of 2027 World Cup",
+   "iso": "2026-10-14T21:22:46.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/342176/morocco-women-to-face-france-in-friendly-ahead-of-2027-world-cup/",
+   "lede": "Rabat - Morocco's women's national team is set to face France in an away friendly scheduled for Saturday, December 5. The game takes place at the Auguste Bonal Stadium in Sochaux, kicking off at 9:10 PM GMT. Both squads will use this encounter to test squad depth and refine their game plans ahead of major upcoming competitions, most notably the 2027 FIFA Women's World Cup in Brazil. For both sides, the fixture offers a valuable opportunity to evaluate player readiness and fine-tune strategy ahead of official tournament play.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/Morocco-Women-to-Face-France-in-Friendly-Ahead-of-2027-World-Cup.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE SUN NIGERIA",
+   "title": "FIFA moves to prevent repeat of Balogun’s World Cup controversy",
+   "iso": "2026-10-14T19:04:54.000Z",
+   "link": "https://thesun.ng/fifa-moves-to-prevent-repeat-of-baloguns-world-cup-controversy/",
+   "lede": "UCL: Real Madrid stun Roma with three late goals to win 4-3. COAS calls for joint training, coordination from ECOWAS countries. Kebbi police gets conviction of 19 persons for terrorism after 17 months. Nigeria, Ghana to strengthen bilateral cooperation on fisheries, vessel authorisation.",
+   "image": "https://sunnewsonline.com/wp-content/uploads/2026/08/FIFA-President-Gianni-Infantino.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
@@ -18,8 +48,8 @@
    "link": "https://www.abc.net.au/news/2026-10-15/paramatildas-out-to-defend-ifcpf-world-cup-title-in-atlanta/107245236",
    "lede": "Eloise Northam will be representing the ParaMatildas at her third IFCPF Women's World Cup. (ABC News: Daniel Irvine). The ParaMatildas are looking to defend their IFCPF World Cup title in Atlanta after winning the 2024 tournament. The Pararoos are also searching for a breakthrough top-10 finish in the men's competition.",
    "image": "https://live-production.wcms.abc-cdn.net.au/9489a1f1faa65a1867b3f03017755743?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=263&width=862&height=485&imformat=generic",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "UEFA.COM",
@@ -28,8 +58,18 @@
    "link": "https://www.uefa.com/news-media/news/02aa-21d3459c5283-ed878995b310-1000--tessa-wullaert-helping-girls-in-belgium-find-their-place-in/",
    "lede": "The Belgium captain knows what it takes to reach the top. She is now using that experience to support the next generation through grassroots football. As her country's all-time leading scorer, the first Belgian player to reach 100 international goals and the first Belgian woman nominated for the Ballon d'Or Féminin, Tessa Wullaert has already secured her place in European football history. But alongside her own achievements, the FC Como Women player is increasingly focused on where the next generation's journey begins – grassroots football.",
    "image": "https://editorial.uefa.com/resources/02aa-21d3459c5281-f703ed34cbd3-1000/202307_-_foot4girls_festival_tubize-187-scaled_20261012175411.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "UEFA.COM",
+   "title": "Unity EURO Cup: Mahmoud’s story",
+   "iso": "2026-10-14T18:33:45.000Z",
+   "link": "https://www.uefa.com/news-media/news/02aa-21d3546ccdca-a8bf02c2a679-1000--unity-euro-cup-mahmoud-s-story/",
+   "lede": "Syrian refugee Mahmoud Ali explains how football helped him to connect with people in his new home in Germany. Now he supports other refugees through the same organisation that helped him. In Syria, Mahmoud Ali only played football at school and for fun, but after he arrived in Germany in late 2015, the sport quickly became a huge part of his life. It was only through participating in open football training sessions with Berlin-based organisation Champions ohne Grenzen (Champions Without Borders) that he was able to find a sense of community and friendship.",
+   "image": "https://editorial.uefa.com/resources/02aa-21d35530ff11-ceea74d7ea7d-1000/unity_euro_cup_germany_16x9.png",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE JERUSALEM POST",
@@ -38,46 +78,6 @@
    "link": "https://www.jpost.com/diaspora/article-911723",
    "lede": "Local media said the exhibition galleries explore communal institutions, including synagogues, Hebrew schools, and rabbinical courts. The new Museum of Moroccan Jewish Culture opened its doors in the city of Fes on Monday, marking the first time in history that an Arab-Muslim country has allocated public funds to establish a museum entirely dedicated to Jewish culture. According to Morocco's National Foundation of Museums, the 1,700 square meters space invites visitors on a journey into the heart of Moroccan Jewish life and Judaism through a rich and diverse collection of ritual and everyday objects, archaeological, ethnographic and artistic artifacts, archives and rare manuscripts, crafts, traditions, as well as practices and testimonies handed down through the 2500 of Jewish history in the country.",
    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738101",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "FIFA to offer members US$6.35 billion development fund windfall",
-   "iso": "2026-10-14T17:24:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/fifa-to-offer-members-us6-35-billion-development-fund-windfall?ref=latest",
-   "lede": "FIFA would partly finance its 2026–2030 development fund using reserves built up following a commercially successful 2026 World Cup. PARIS - Football’s world governing body FIFA is planning to set up a US$6.35-billion (S$8 billion) development fund for the next four years, AFP learned on Oct 14 from a source close to the matter. The plan is due to be approved at its Council meeting on Oct 15 in Zurich, where FIFA president Gianni Infantino and the 36 other members of the federation’s executive will gather. To finance this development fund for the 2026–2030 period, which would allow money to be distributed to FIFA’s 211 federations as well as to the regional confederations, it would draw in part on its financial reserves after a commercially successful 2026 World Cup.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/752b87c5dd486b2ce1989c2a17ceda33ac5e4c6e154220791cfc5721ea51698c?w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "KFM RADIO",
-   "title": "Ireland's Women's Football Team To Face Poland In World Cup Bid",
-   "iso": "2026-10-14T17:16:53.000Z",
-   "link": "https://www.kfmradio.com/news/sports/irelands-womens-football-team-to-face-poland-in-world-cup-bid/",
-   "lede": "The Republic of Ireland will face Poland for a place at next year's World Cup in Brazil. Carla Ward's side eased past Kazakhstan in their playoff semi-final last night, winning 12-nil on aggregate. The Girls in Green missed out on qualifying for the 2025 Euros after a playoff defeat to Wales.",
-   "image": "https://mmo.aiircdn.com/516/6332dad47e144.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting",
-   "iso": "2026-10-14T17:05:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize",
-   "lede": "World Cup sell-off, Balogun and peace prize on agenda. Opponents will press home need for independent review. Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan, the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council in the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since then in Zurich, with one attender predicting that the talks could be “explosive”.",
-   "image": "https://i.guim.co.uk/img/media/21adaffdd713db0e62e8ccd6493a8095674d2c1e/176_109_2550_2039/master/2550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e36ec5dae6cba2f60fa9677056f0772",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "BBC",
-   "title": "Fifa to offer extra £2.6bn for football development",
-   "iso": "2026-10-14T16:17:46.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/c64g1ex2d7gvo",
-   "lede": "Fifa president Gianni Infantino will be standing for re-election in March. Fifa is set to propose a $3.4bn (£2.6bn) increase in the amount of money it hands out for football development across the world. World football's governing body wants to release the money from its reserves in a move which would more than double the level of planned distribution funding for 2027-2030. It says it has been able to release the extra cash because of the commercial success of this summer's World Cup.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
