@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:47:47.577Z",
+ "updated": "2026-10-16T00:48:57.697Z",
  "news": [
   {
    "cat": "FOOTBALL AUSTRALIA",
@@ -62,19 +62,20 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Who would have made a 24-team field in the College Football Playoff era? Try 80 different teams",
-   "iso": "2026-10-15T23:05:18.000Z",
-   "link": "https://www.nytimes.com/athletic/7295785/2026/10/15/college-football-playoff-24-teams-history-expansion/",
-   "lede": "",
+   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
+   "title": "Gianni Infantino apologises for World Cup furore but leaves critics unhappy",
+   "iso": "2026-10-15T19:59:21.000Z",
+   "link": "https://www.abc.net.au/news/2026-10-16/gianni-infantino-apologises-to-fifa-council-for-world-cup-furore/107273510",
+   "lede": "Gianni Infantino has addressed FIFA's council in Zurich. (Getty Images: Eurasia Sport Images/Martín Fonseca/File). Gianni Infantino has apologised to the FIFA Council for his secretive investment plan for the World Cup. Infantino addressed the council at a meeting in Zurich.",
+   "image": "https://live-production.wcms.abc-cdn.net.au/2754e216f39480d618f79fb33d07a6ae?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=414&width=862&height=485&imformat=generic",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ABS-CBN",
-   "title": "Infantino offers apology but 'no answers' at FIFA meeting over World Cup plan",
-   "iso": "2026-10-15T22:42:00.000Z",
-   "link": "https://news.abs-cbn.com/sports/othersports/2026/10/16/infantino-offers-apology-but-no-answers-at-fifa-meeting-over-world-cup-plan-0642",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Who would have made a 24-team field in the College Football Playoff era? Try 80 different teams",
+   "iso": "2026-10-15T23:05:18.000Z",
+   "link": "https://www.nytimes.com/athletic/7295785/2026/10/15/college-football-playoff-24-teams-history-expansion/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
