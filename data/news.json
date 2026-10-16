@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-15T22:36:30.105Z",
+ "updated": "2026-10-16T00:47:47.577Z",
  "news": [
+  {
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "CommBank Pararoos fall 1-0 to Brazil in IFCPF World Cup opener",
+   "iso": "2026-10-16T00:31:55.000Z",
+   "link": "https://footballaustralia.com.au/news/commbank-pararoos-fall-1-0-brazil-ifcpf-world-cup-opener",
+   "lede": "The only goal of the match came in the first half, a dangerous cross from the boot of Brazil’s Vinicius Araujo deflecting off the heel of Augustine Murphy and past David Barber in goals. Head Coach Kai Lammert named a mix of experience and youth in the first starting seven of the tournament. David Barber made his 121st appearance in green and gold between the sticks and in the process broke the record to hold the longest male international football career in the world at 26 years and 353 days. A post shared by CommBank Pararoos (@pararoos).",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-10/Pararoos_TIAR0768.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Moroccan Referees Zoulikha Hermas and Ihssane Ennawajli Join U-17 Women’s World Cup",
+   "iso": "2026-10-15T23:03:45.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/342352/moroccan-referees-zoulikha-hermas-and-ihssane-ennawajli-join-u-17-womens-world-cup/",
+   "lede": "Rabat - Morocco's representation at the FIFA U-17 Women's World Cup extends beyond the players competing on the pitch, with two Moroccan referees, Zoulikha Hermas and Ihssane Ennawajli, taking part in the global tournament hosted by the Kingdom this October. Their presence highlights the contribution of Moroccan women to international football and reflects the growing visibility of national refereeing talent at major competitions. Hermas will participate as an international referee, a status she has held since 2024. In this role, she belongs to the group of officials entrusted with overseeing matches and ensuring that the laws of the game are applied on the pitch.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U17-FIFA-Women-World-Cup.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "MOROCCO WORLD NEWS",
    "title": "Morocco Women’s Team to Face Venezuela and France in World Cup Warm-Up Friendlies",
@@ -8,18 +28,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342330/morocco-womens-team-to-face-venezuela-and-france-in-world-cup-warm-up-friendlies/",
    "lede": "Rabat – Morocco’s women’s national football team will face Venezuela and France in two friendly matches on December 1 and December 5, respectively, as part of their preparations for the 2027 FIFA Women’s World Cup. The Royal Moroccan Football Federation (FRMF) announced the fixtures in a statement published on its official website on Wednesday, confirming that both matches will serve as preparation for the tournament, which will take place in Brazil from June 24 to July 25, 2027. The match against France will take place at the Stade Auguste-Bonal in Sochaux, France, on December 5, with kick-off scheduled for 9:10 p.m. local time. Meanwhile, the FRMF has yet to announce the venue and kick-off time for Morocco's December 1 encounter against Venezuela.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/morocco-womens-national-team.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "FOX SPORTS",
-   "title": "Popa dilemma emerges, Ange impacted as boss breaks silence on Asian Cup’s fate",
-   "iso": "2026-10-15T20:46:53.000Z",
-   "link": "https://www.foxsports.com.au/football/football-news-2026-2027-asian-cup-likely-to-be-postponed-due-to-conflict-in-the-middle-east-tony-popovic-contract-dilemma-ange-postecoglous-alnassr-have-game-rescheduled-latest-news/news-story/80aabba743c4132b506e8fcb5e3a7b8a",
-   "lede": "The Socceroos’ quest for continental glory will likely be delayed by a year with the ongoing conflict in the Middle East set to postpone January’s Asian Cup. The tournament is due to kick off on January 7 in Saudi Arabia, but that plan is appearing unlikely to proceed following a pair of attacks on King Khalid International Airport in Riyadh, which left 14 dead and more than 300 injured. Get all the latest football news, highlights and analysis delivered straight to your inbox with Fox Sports Sportmail. The AFC are expected to hold an extraordinary meeting in Tokyo on October 22 and it is understood the state of the Asian Cup will be one of the key topics discussed, as will be upcoming Asian Champions League fixtures.",
-   "image": "https://content.api.news/v3/images/bin/365db57645cb80164c57b563513a6512",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
@@ -28,8 +38,8 @@
    "link": "https://www.abc.net.au/news/2026-10-16/rugby-league-world-cup-australia-new-zealand/107272788",
    "lede": "Fri, 11 Sept, 7:50 pm, Final score, Rabbitohs 10, Knights 20. Sat, 12 Sept, 4:05 pm, Final score, Warriors 16, Dolphins 26. Sat, 12 Sept, 7:50 pm, Final score, Sharks 26, Cowboys 16. Sun, 13 Sept, 4:05 pm, Final score, Panthers 19, Roosters 12.",
    "image": "https://live-production.wcms.abc-cdn.net.au/b650cdd68a30b75827bcbcf18afbfceb?impolicy=wcms_watermark_news&cropH=2705&cropW=4808&xPos=0&yPos=250&width=862&height=485&imformat=generic",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "NSS SPORTS",
@@ -38,8 +48,8 @@
    "link": "https://www.nss-sports.com/en/long-form/45846/pink-football-boots-world-cup-2026",
    "lede": "The pink boot trend exploded at the 2026 World Cup: it was obvious from the very first team photo of Mexico vs. South Africa, where almost every player—including those on the bench—was wearing fluorescent pink or electric fuchsia boots. As the tournament progressed, players from other national teams appeared in the same colourways, almost as if the major suppliers had coordinated their efforts. There was a time when football boots came exclusively in black.",
    "image": "https://data2.nssmag.com/images/galleries/48551/nss-world-cup-2026-pink-boots-cover-2.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "NSS SPORTS",
@@ -48,36 +58,24 @@
    "link": "https://www.nss-sports.com/en/long-form/46253/fifa-world-cup-2026-glossary",
    "lede": "The FIFA World Cup 2026 came to an end with Spain lifting the trophy. It was an intense journey, spanning 104 matches across 37 consecutive days. Throughout the tournament, we're sure you came across—perhaps for the very first time—a number of names and expressions that became part of the World Cup's shared vocabulary, leaving a lasting mark on the story of the competition. Below is a selection of the recurring terms that either gained new meaning or reached an unprecedented level of exposure.",
    "image": "https://data2.nssmag.com/images/galleries/48959/nss-dizionario-mondiali-2026-parole-cover-2.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "ABC NEWS & HEADLINES – AUSTRALIAN BROADCASTING CORPORATION",
-   "title": "Gianni Infantino apologises for World Cup furore but leaves critics unhappy",
-   "iso": "2026-10-15T19:59:21.000Z",
-   "link": "https://www.abc.net.au/news/2026-10-16/gianni-infantino-apologises-to-fifa-council-for-world-cup-furore/107273510",
-   "lede": "Gianni Infantino has addressed FIFA's council in Zurich. (Getty Images: Eurasia Sport Images/Martín Fonseca/File). Gianni Infantino has apologised to the FIFA Council for his secretive investment plan for the World Cup. Infantino addressed the council at a meeting in Zurich.",
-   "image": "https://live-production.wcms.abc-cdn.net.au/2754e216f39480d618f79fb33d07a6ae?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=414&width=862&height=485&imformat=generic",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NATIONAL",
-   "title": "Gianni Infantino apologises to Fifa Council over World Cup sell-off plan",
-   "iso": "2026-10-15T18:28:30.000Z",
-   "link": "https://www.thenationalnews.com/sport/football/2026/10/15/gianni-infantino-apologises-to-fifa-council-over-world-cup-sell-off-plan/",
-   "lede": "Gianni Infantino has apologised to the Fifa Council on Friday about his failed attempt to sell off stakes in its competitions to private investors. But the president of Fifa also faced continuing questions about his role in the $4.2 billion Fifa Forward Enterprise (FFE) scheme during a three-and-a-half-hour meeting in Zurich. Infantino was also asked to provide more information regarding the suspension of United States attacker Folarin Balogun's ban during this summer's World Cup in North America and the Fifa Peace Prize controversially awarded to US President Donald Trump. English and German football chiefs said they remained unconvinced Infantino was fit to ⁠continue as the head of football's world governing body.",
-   "image": "https://www.thenationalnews.com/resizer/v2/32MRVKKZ4TQLJ2TE75WHTKUXVA.jpg?auth=b01de9f417cb7702391b9a58928eac60533ed1dec0417bb66feb5ce7c7fead06&smart=true&width=1200&height=630",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Who would have made a 24-team field in the College Football Playoff era? Try 80 different teams",
+   "iso": "2026-10-15T23:05:18.000Z",
+   "link": "https://www.nytimes.com/athletic/7295785/2026/10/15/college-football-playoff-24-teams-history-expansion/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "Gianni Infantino: FIFA president apologises for World Cup sell-off plan - but FA and other European leaders still want him to resign",
-   "iso": "2026-10-15T18:14:23.000Z",
-   "link": "https://www.skysports.com/football/news/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
-   "lede": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday - and the Peace Prize he awarded to US President Donald Trump looks set to be ditched. Infantino's expression of regret for not telling the council about his plans earlier was not good enough for European football leaders, including FA chair Debbie Hewitt, who still want him to resign. UEFA wants Infantino to release all documents relating to the plan as they believe the 20 per cent stake in all future FIFA tournaments was being sold for a knockdown price.",
-   "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+   "cat": "ABS-CBN",
+   "title": "Infantino offers apology but 'no answers' at FIFA meeting over World Cup plan",
+   "iso": "2026-10-15T22:42:00.000Z",
+   "link": "https://news.abs-cbn.com/sports/othersports/2026/10/16/infantino-offers-apology-but-no-answers-at-fifa-meeting-over-world-cup-plan-0642",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
