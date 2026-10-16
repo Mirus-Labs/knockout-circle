@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:41:57.930Z",
+ "updated": "2026-10-16T19:02:27.735Z",
  "news": [
   {
    "cat": "AFRICA TOP SPORTS",
@@ -59,21 +59,21 @@
    "bg": "#0c5c2e"
   },
   {
+   "cat": "NAHARNET",
+   "title": "Infantino offers apology but 'no answers' at FIFA meeting over World Cup plan",
+   "iso": "2026-10-16T17:10:20.000Z",
+   "link": "https://m.naharnet.com/stories/en/323158-infantino-offers-apology-but-no-answers-at-fifa-meeting-over-world-cup-plan",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
    "cat": "BBC",
    "title": "Football Daily | The Commentators' View",
    "iso": "2026-10-16T16:24:19.000Z",
    "link": "https://www.bbc.com/audio/play/m0032shg",
    "lede": "John Murray, Ian Dennis & Ali Bruce-Ball lift the lid on life as 5 Live commentators.",
    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m6ztjd.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "South African rugby player Hyron Andrews dies on eve of Champions Cup match",
-   "iso": "2026-10-16T16:02:05.000Z",
-   "link": "https://www.nytimes.com/athletic/7696251/2026/10/16/hyron-andrews-death-johannesburg-lions-sale-sharks/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
