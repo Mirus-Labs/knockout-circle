@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:52:09.023Z",
+ "updated": "2026-10-17T16:30:17.891Z",
  "news": [
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE DAILY STAR",
+   "title": "‘I’ve lost my peace and tranquillity’: Vozinha on the price of World Cup fame",
+   "iso": "2026-10-17T13:19:30.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/ive-lost-my-peace-and-tranquillity-vozinha-the-price-world-cup-fame-4285066",
+   "lede": "Six months ago, Cape Verde goalkeeper Vozinha was largely unknown outside football circles. His life revolved around the small Portuguese city of Chaves, where he played in the country’s second tier. Then came the FIFA World Cup 2026, and everything changed. The 40-year-old goalkeeper became one of the tournament’s unexpected stars after Cape Verde’s historic campaign.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "How to watch New Zealand play Morocco at FIFA U-17 Women’s World Cup",
    "iso": "2026-10-17T12:24:38.000Z",
    "link": "https://www.friendsoffootballnz.com/2026/10/17/how-to-watch-new-zealand-play-morocco-at-fifa-u-17-womens-world-cup/",
    "lede": "New Zealand’s opening match against Morocco at the FIFA U-17 Women’s World Cup will be streamed live and free on Sunday morning. The match, which kicks off in Morocco at 7am (NZT), will be shown on the TVNZ+ digital platform. To watch the game, follow the link below:. Game to be played on Sunday October 18, 2026 (NZT).",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2023/06/Broadcast-television-glenn-carstens-peters-EOQhsfFBhRk-unsplash.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -38,23 +48,14 @@
    "link": "https://sports.yahoo.com/articles/germany-win-over-80-world-113339900.html",
    "lede": "Germany's over 80 team has won the inaugural World Cup title in Australia and said that this success goes beyond football. \"We need to ensure that more older people take part in sport,\" player Michael Rätsch from Hertha Berlin told dpa. \"We need to ensure that more older...",
    "image": "https://s.yimg.com/lo/mysterio/api/07461d05154ad45e9a8268fa2b50420d2c58bb44766fd0ea097ff930aeeead58/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fced30fe02ab9ff6bbde1999c1df7f141.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "TOD",
    "title": "Watch France vs England",
    "iso": "2026-10-17T14:41:52.000Z",
    "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/3rd-place-final/france-vs-england-5057235",
-   "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "SEC could’ve stopped a 24-team College Football Playoff, but it caved instead",
-   "iso": "2026-10-17T14:25:51.000Z",
-   "link": "https://www.nytimes.com/athletic/7698449/2026/10/17/college-football-playoff-expansion-sec-decision/",
    "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
