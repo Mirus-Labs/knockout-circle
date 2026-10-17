@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:58:03.056Z",
+ "updated": "2026-10-17T00:32:16.242Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "SPORTS247 NIGERIA",
-   "title": "“Every Team at the World Cup Is a Champion” — Busari Warns Flamingos Against Underestimating Opponents in Morocco",
-   "iso": "2026-10-16T19:03:08.000Z",
-   "link": "https://www.sports247.ng/every-team-at-the-world-cup-is-a-champion-busari-warns-flamingos-against-underestimating-opponents-in-morocco/",
-   "lede": "Flamingos head coach Akeem Busari has warned his players against underestimating any opponent at the 2026 FIFA U-17 Women’s World Cup in Morocco, insisting that Nigeria must approach every match with the same determination and respect. Busari stressed that every country competing at the tournament has earned its place through a demanding qualification process, making it dangerous to judge opponents by their reputation or previous achievements. “For any country that comes into a World Cup, it shows they are prepared for them to get their qualification,” Busari said. “So all of us are champions now.",
-   "image": "https://www.sports247.ng/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-12-at-2.26.28-PM.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "THE DAILY STAR",
    "title": "'Falklands issue was a special ingredient': Lautaro lifts lid on Argentina’s World Cup grudge match against England",
    "iso": "2026-10-16T18:28:43.000Z",
    "link": "https://www.thedailystar.net/sports/football/news/falklands-issue-was-special-ingredient-lautaro-lifts-lid-argentinas-world-cup-grudge-match-against-4300316",
    "lede": "Lautaro Martinez has revealed how Argentina’s long-running dispute with England over the Falkland Islands added an emotional edge to their 2026 World Cup semifinal, describing the clash as far more than a football match and dedicating his decisive goal to veterans of the 1982 war. The Inter Milan striker scored a 92nd-minute winner as Argentina came from behind to beat England 2-1 in Atlanta on July 15, booking their place in a second consecutive World Cup final. The goal has since taken on a significance beyond the result, particularly among Argentines who continue to regard the conflict over the islands as a defining chapter in their national history. In an interview with AFA Estudio, Martinez became emotional when shown footage of a Malvinas War veteran breaking down in tears while celebrating his goal.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "1NEWS.AZ",
@@ -38,14 +28,23 @@
    "link": "https://1news.az/en/news/20261016172517536-FIFA-unveils-official-brand-of-the-2027-World-Cup-which-will-be-held-in-Azerbaijan-and-Uzbekistan",
    "lede": "Today FIFA unveiled the official brand of the FIFA U-20 World Cup 2027™. The brand invites a new generation of football stars to write history at the tournament, which will be held in Azerbaijan and Uzbekistan. The official slogan — \"This game is for you\" — is addressed both to young footballers and to the fans supporting them. This was reported to 1news.az by the Association of Football Federations of Azerbaijan (AFFA).",
    "image": "https://1news.az/images/2026/10/16/20261016172517536/thumb.jpg?2026-10-16+18%3A42%3A59",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Two Central Methodist football players arrested for allegedly attacking teammate",
    "iso": "2026-10-16T23:05:04.000Z",
    "link": "https://www.nytimes.com/athletic/7697334/2026/10/16/central-methodist-football-assault-arrests/",
+   "lede": "",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "How to watch No. 4 Ohio State vs. No. 5 Indiana: TV channel and streaming options for October 17",
+   "iso": "2026-10-16T22:13:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7692972/2026/10/15/ohio-state-vs-indiana-stream-how-to-watch-oct-17/",
    "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
@@ -69,10 +68,10 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "DAZN",
-   "title": "2026 Ballon d’Or Betting Tips: Prolific Kane has the edge via his World Cup displays",
-   "iso": "2026-10-16T18:00:10.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/2026-ballon-dor-betting-tips-prolific-kane-has-the-edge-via-his-world-cup-displays-dbn/1592s9kuj6gp81208pin24omzu",
+   "cat": "CASPIAN POST",
+   "title": "FIFA Unveils Brand for 2027 U-20 World Cup in Azerbaijan, Uzbekistan",
+   "iso": "2026-10-16T18:27:42.000Z",
+   "link": "https://caspianpost.com/sport/fifa-unveils-brand-for-2027-u-20-world-cup-in-azerbaijan-uzbekistan",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
