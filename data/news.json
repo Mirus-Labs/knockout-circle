@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-17T18:52:05.849Z",
+ "updated": "2026-10-17T20:51:26.330Z",
  "news": [
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco U-15 Team to Compete in 2026 World Cup in Azerbaijan",
+   "iso": "2026-10-17T17:44:06.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/342659/morocco-u-15-team-to-compete-in-2026-world-cup-in-azerbaijan/",
+   "lede": "Rabat - Morocco's national under-15 football team will participate in the 2026 World Cup in Baku, Azerbaijan, with five matches scheduled between October 24 and 26. The Royal Moroccan Football Federation (FRMF) announced the team's participation on Saturday, October 17, confirming the match schedule and the 14 players selected to represent Morocco in the competition. According to the federation, the young Atlas Lions will begin their campaign against the Philippines on Saturday, October 24, at 5 a.m. Morocco will then play two matches on Sunday, October 25, starting with Costa Rica at 10:30 a.m., followed by a second encounter against Belize at 4:45 p.m.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/Morocco-U-15-Team.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "MOROCCO WORLD NEWS",
    "title": "Morocco Face New Zealand in U-17 Women’s World Cup Opener Today",
@@ -8,8 +18,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342631/morocco-face-new-zealand-in-u-17-womens-world-cup-opener-today/",
    "lede": "Rabat – Morocco's U-17 women's national football team will begin their FIFA U-17 Women's World Cup campaign against New Zealand today, Saturday, October 17, marking the start of a major international tournament hosted by the Morocco. The competition, running from October 17 to November 8, brings together emerging talents from across the world, offering Morocco another opportunity to demonstrate its ability to host major international football events. Led by head coach Younes Rabie, the young Atlas Lionesses will look to take advantage of playing on home soil and secure a positive result in their opening Group A encounter. The tournament's matches will take place at the Mohammed VI Football Complex in Salé, with the final scheduled for Moulay El Hassan Stadium.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U-17-morocco-women-national-team.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -18,28 +28,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342602/infantino-moroccos-u-17-womens-world-cup-brings-the-world-together/",
    "lede": "Rabat - FIFA President Gianni Infantino has praised Morocco as a country that brings people and cultures together through football, expressing his excitement about attending the opening of the 2026 FIFA U-17 Women’s World Cup. Speaking in remarks published by the Royal Moroccan Football Federation (FRMF) on Friday, Infantino said he was delighted to return to Morocco for the international tournament, describing the country as a place where football is celebrated with passion. “I am happy to be back in my country, Morocco, a country of football and passion, where we experience this beautiful game with love,” Infantino said. The FIFA chief explained that his visit would allow him to attend the tournament's opening ceremony and opening match, describing the occasion as a celebration that brings together people from different parts of the world.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/6ad2adc52cf2a0204ac78dbd_default.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE DAILY STAR",
-   "title": "‘I’ve lost my peace and tranquillity’: Vozinha on the price of World Cup fame",
-   "iso": "2026-10-17T13:19:30.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/ive-lost-my-peace-and-tranquillity-vozinha-the-price-world-cup-fame-4285066",
-   "lede": "Six months ago, Cape Verde goalkeeper Vozinha was largely unknown outside football circles. His life revolved around the small Portuguese city of Chaves, where he played in the country’s second tier. Then came the FIFA World Cup 2026, and everything changed. The 40-year-old goalkeeper became one of the tournament’s unexpected stars after Cape Verde’s historic campaign.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
-  },
-  {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "How to watch New Zealand play Morocco at FIFA U-17 Women’s World Cup",
-   "iso": "2026-10-17T12:24:38.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/10/17/how-to-watch-new-zealand-play-morocco-at-fifa-u-17-womens-world-cup/",
-   "lede": "New Zealand’s opening match against Morocco at the FIFA U-17 Women’s World Cup will be streamed live and free on Sunday morning. The match, which kicks off in Morocco at 7am (NZT), will be shown on the TVNZ+ digital platform. To watch the game, follow the link below:. Game to be played on Sunday October 18, 2026 (NZT).",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2023/06/Broadcast-television-glenn-carstens-peters-EOQhsfFBhRk-unsplash.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -48,8 +38,35 @@
    "link": "https://sports.yahoo.com/articles/germany-win-over-80-world-113339900.html",
    "lede": "Germany's over 80 team has won the inaugural World Cup title in Australia and said that this success goes beyond football. \"We need to ensure that more older people take part in sport,\" player Michael Rätsch from Hertha Berlin told dpa. \"We need to ensure that more older...",
    "image": "https://s.yimg.com/lo/mysterio/api/07461d05154ad45e9a8268fa2b50420d2c58bb44766fd0ea097ff930aeeead58/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fced30fe02ab9ff6bbde1999c1df7f141.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Who is Luke Fahey? Ohio State’s backup QB enters spotlight with Julian Sayin out several weeks",
+   "iso": "2026-10-17T20:26:15.000Z",
+   "link": "https://www.nytimes.com/athletic/7699226/2026/10/17/luke-fahey-ohio-state-backup-qb-sayin-injury/",
+   "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Florida completes Texas’ two-week spiral from No. 1 to panic mode",
+   "iso": "2026-10-17T19:25:10.000Z",
+   "link": "https://www.nytimes.com/athletic/7699077/2026/10/17/florida-texas-college-football-takeaways-analysis/",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Hezly Rivera, U.S. Olympic team gold medalist, withdraws from World Championships",
+   "iso": "2026-10-17T18:20:13.000Z",
+   "link": "https://www.nytimes.com/athletic/7698972/2026/10/17/hezly-rivera-usa-gymnastics-world-championships-withdraws/",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "TOD",
@@ -57,25 +74,6 @@
    "iso": "2026-10-17T14:41:52.000Z",
    "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/3rd-place-final/france-vs-england-5057235",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How to watch No. 21 Wake Forest vs. Cal: TV channel and streaming options for October 17",
-   "iso": "2026-10-17T14:13:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7695160/2026/10/16/wake-forest-vs-cal-stream-how-to-watch-oct-17/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "ABC NEWS - BREAKING NEWS, LATEST NEWS AND VIDEOS",
-   "title": "FIFA says it's not moving forward with controversial World Cup sell-off plan",
-   "iso": "2026-10-17T11:46:43.000Z",
-   "link": "https://abcnews.com/GMA/Culture/uefa-boycott-world-cup-fifa-continues-plan-sell/story?id=135231531",
-   "lede": "The move came after Europe's governing body for football said it would boycott the World Cup over the plan.",
-   "image": "https://i.abcnewsfe.com/a/238b42dc-1d77-4e60-b39e-1a64df5e8602/fifa-1-ap-gmh-260730_1785426883713_hpMain_16x9.jpg?w=1600",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
