@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:26:43.982Z",
+ "updated": "2026-10-18T20:50:59.708Z",
  "news": [
   {
    "cat": "THE DAILY STAR",
@@ -51,30 +51,29 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "FOOTBALL AUSTRALIA",
-   "title": "The CommBank ParaMatildas have defeated Ireland 19-0 to begin their IFCPF Women’s World Cup title defence.",
-   "iso": "2026-10-18T00:31:58.000Z",
-   "link": "https://footballaustralia.com.au/news/commbank-paramatildas-have-defeated-ireland-19-0-begin-their-ifcpf-womens-world-cup-title",
-   "lede": "Annmarie De Uriarte scored eight in the comprehensive victory, while Georgia Beikoff scored four, and both Carly Salmon and Eloise Northam added hat tricks. Head Coach Charlotte Ercil named an experienced starting five to begin the tournament. Katelyn Smith started in goal, while Tahlia Blanshard, Georgia Beikoff, Eloise Northam and Annmarie De Uriarte completed the side. De Uriarte got scoring underway in the third minute.",
-   "image": "https://footballaustralia.com.au/sites/default/files/2026-10/PM%20Cover.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "YAHOO SPORTS",
    "title": "Brazil face Canada in Women's U17 World Cup opener",
    "iso": "2026-10-17T23:19:00.000Z",
    "link": "https://sports.yahoo.com/articles/brazil-face-canada-womens-u17-231900904.html",
    "lede": "Brazil’s U-17 women’s national team kicks off its World Cup campaign this Sunday (18) against Canada at 12 p.m. (Brasília time) at the Women’s Football Complex in Salé, Morocco. (Brasília time) at the Women’s Football Compl...",
    "image": "https://s.yimg.com/lo/mysterio/api/7657b15ea53ca08601727d78c3e7ec6e50c668f3f6481afe440bb105f8e2c910/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7579db2f8d23997a04fda343e973b5c2.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Week 6 fantasy football injuries and inactives: Lamar Jackson, Tyler Warren out",
+   "iso": "2026-10-18T19:25:32.000Z",
+   "link": "https://www.nytimes.com/athletic/7699819/2026/10/18/fantasy-football-inactives-nfl-week-6/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "AP Top 25: Miami No. 1 for first time since 2002; BYU takes Notre Dame’s spot at No. 2",
-   "iso": "2026-10-18T18:45:13.000Z",
-   "link": "https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/",
+   "title": "Military member dies after botched rappel before UTSA game",
+   "iso": "2026-10-18T17:47:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7699848/2026/10/17/military-member-falls-injured-alamodome-utsa-navy-pregame/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
