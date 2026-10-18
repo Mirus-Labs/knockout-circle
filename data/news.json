@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:51:38.252Z",
+ "updated": "2026-10-18T01:33:59.281Z",
  "news": [
   {
    "cat": "YAHOO SPORTS",
@@ -61,20 +61,22 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Michigan pulls Bryce Underwood against Penn State, starts Tommy Carr for second half",
-   "iso": "2026-10-17T21:53:31.000Z",
-   "link": "https://www.nytimes.com/athletic/7699421/2026/10/17/michigan-quarterback-bryce-underwood-tommy-carr-penn-state/",
-   "lede": "",
+   "cat": "ABC NEWS - BREAKING NEWS, LATEST NEWS AND VIDEOS",
+   "title": "What to know about US soccer star Folarin Balogun's 1-game red card suspension, why team can't appeal",
+   "iso": "2026-10-17T17:18:09.000Z",
+   "link": "https://abcnews.com/GMA/Culture/us-soccer-star-folarin-baloguns-1-game-red/story?id=134403937",
+   "lede": "U.S. men's soccer striker Folarin Balogun got a red card against Bosnia and automatic suspension for the next match against Belgium in World Cup round of 16.",
+   "image": "https://i.abcnewsfe.com/a/95217278-7092-4ed9-b797-8d5867f88f7d/Folarin-Balogun-2-rt-gmh-260702_1782997447936_hpMain_16x9.JPG?w=1600",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Hezly Rivera, U.S. Olympic team gold medalist, withdraws from World Championships",
-   "iso": "2026-10-17T21:34:50.000Z",
-   "link": "https://www.nytimes.com/athletic/7698972/2026/10/17/hezly-rivera-usa-gymnastics-world-championships-withdraws/",
-   "lede": "",
+   "cat": "ABC NEWS - BREAKING NEWS, LATEST NEWS AND VIDEOS",
+   "title": "FIFA says it's not moving forward with controversial World Cup sell-off plan",
+   "iso": "2026-10-17T16:53:06.000Z",
+   "link": "https://abcnews.com/GMA/Culture/uefa-boycott-world-cup-fifa-continues-plan-sell/story?id=135231531",
+   "lede": "The move came after Europe's governing body for football said it would boycott the World Cup over the plan.",
+   "image": "https://i.abcnewsfe.com/a/238b42dc-1d77-4e60-b39e-1a64df5e8602/fifa-1-ap-gmh-260730_1785426883713_hpMain_16x9.jpg?w=1600",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
