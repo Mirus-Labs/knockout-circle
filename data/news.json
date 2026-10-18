@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:51:31.519Z",
+ "updated": "2026-10-18T14:53:54.179Z",
  "news": [
   {
    "cat": "THE DAILY STAR",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "The CommBank ParaMatildas have defeated Ireland 19-0 to begin their IFCPF Women’s World Cup title defence.",
+   "iso": "2026-10-18T07:32:42.000Z",
+   "link": "https://footballaustralia.com.au/news/commbank-paramatildas-have-defeated-ireland-19-0-begin-their-ifcpf-womens-world-cup-title",
+   "lede": "Annmarie De Uriarte scored eight in the comprehensive victory, while Georgia Beikoff scored four, and both Carly Salmon and Eloise Northam added hat tricks. Head Coach Charlotte Ercil named an experienced starting five to begin the tournament. Katelyn Smith started in goal, while Tahlia Blanshard, Georgia Beikoff, Eloise Northam and Annmarie De Uriarte completed the side. De Uriarte got scoring underway in the third minute.",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-10/PM%20Cover.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "New Zealand lose 4-0 to impressive Morocco at FIFA U-17 Women’s World Cup",
    "iso": "2026-10-18T06:12:57.000Z",
    "link": "https://www.friendsoffootballnz.com/2026/10/18/new-zealand-lost-4-0-to-impressive-morocco-at-fifa-u-17-womens-world-cup/",
    "lede": "New Zealand have lost their opening game at the FIFA U-17 Women’s World Cup, beaten 4-0 by hosts Morocco. The Young Football Ferns put up strong resistance in a scoreless first half, with goalkeeper Nienke Holland thwarting the wave of Moroccan attacks that created 16 attempts on goal. Led by Holland’s example, the New Zealand defenders scrambled to keep an impressive Morocco side at bay. Main photo: The New Zealanders block a Moroccan attack.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/NZ-U-17-v-Morocco.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SPOTV NOW",
@@ -27,8 +37,8 @@
    "iso": "2026-10-18T02:02:08.000Z",
    "link": "https://www.spotvnow.com/read/all-47-saudi-pro-league-players-selected-for-2026-fifa-world-cup/",
    "lede": "The 2026 FIFA World Cup will feature some of the biggest names in world football, and the Saudi Pro League is set to have a sizeable presence on the sport’s biggest stage. A total of 47 players from 18 national teams, including 25 representing Saudi Arabia, are contracted to Saudi Pro League clubs heading into the tournament, underlining the league’s growing influence beyond the Kingdom. That figure rises to 49 players from 19 nations when including Curaçao defender Juriën Gaari of Abha and Saudi Arabia goalkeeper Mohammed Al-Owais of Al-Ula, who both play outside the Saudi top flight. A post shared by SPOTV Indonesia (@spotv.indonesia).",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -37,8 +47,8 @@
    "link": "https://sports.yahoo.com/articles/brazil-face-canada-womens-u17-231900904.html",
    "lede": "Brazil’s U-17 women’s national team kicks off its World Cup campaign this Sunday (18) against Canada at 12 p.m. (Brasília time) at the Women’s Football Complex in Salé, Morocco. (Brasília time) at the Women’s Football Compl...",
    "image": "https://s.yimg.com/lo/mysterio/api/7657b15ea53ca08601727d78c3e7ec6e50c668f3f6481afe440bb105f8e2c910/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7579db2f8d23997a04fda343e973b5c2.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -47,8 +57,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342659/morocco-u-15-team-to-compete-in-2026-world-cup-in-azerbaijan/",
    "lede": "Rabat - Morocco's national under-15 football team will participate in the 2026 World Cup in Baku, Azerbaijan, with five matches scheduled between October 24 and 26. The Royal Moroccan Football Federation (FRMF) announced the team's participation on Saturday, October 17, confirming the match schedule and the 14 players selected to represent Morocco in the competition. According to the federation, the young Atlas Lions will begin their campaign against the Philippines on Saturday, October 24, at 5 a.m. Morocco will then play two matches on Sunday, October 25, starting with Costa Rica at 10:30 a.m., followed by a second encounter against Belize at 4:45 p.m.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/Morocco-U-15-Team.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -57,8 +67,8 @@
    "link": "https://sports.yahoo.com/articles/germany-win-over-80-world-113339900.html",
    "lede": "Germany's over 80 team has won the inaugural World Cup title in Australia and said that this success goes beyond football. \"We need to ensure that more older people take part in sport,\" player Michael Rätsch from Hertha Berlin told dpa. \"We need to ensure that more older...",
    "image": "https://s.yimg.com/lo/mysterio/api/07461d05154ad45e9a8268fa2b50420d2c58bb44766fd0ea097ff930aeeead58/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fced30fe02ab9ff6bbde1999c1df7f141.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "UNIVERSIDAD DE CÓRDOBA (UCO)",
@@ -67,15 +77,6 @@
    "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-jacksonville-jaguars-vs-houston-texans-nfl-football-lie-en-wtosicd",
    "lede": "Virtual tour generated by Visitas Virtuales Granada.",
    "image": "https://www.uco.es/scai/visita_virtual/SCAI%20UCOdata/thumbnail.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "AP Top 25 predictions: Who will rise, fall and enter the new college football rankings?",
-   "iso": "2026-10-18T13:00:30.000Z",
-   "link": "https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
