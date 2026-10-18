@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-18T11:46:00.317Z",
+ "updated": "2026-10-18T13:51:31.519Z",
  "news": [
   {
-   "cat": "SKY SPORTS",
-   "title": "Viktor Gyokeres keen to leave Arsenal due to lack of first team opportunites - Paper Talk | Football News",
-   "iso": "2026-10-18T10:22:34.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk",
-   "lede": "The top stories and transfer rumours from Sunday's newspapers... Premier League Viktor Gyokeres is reportedly keen to leave Arsenal due to a lack of first-team opportunities - Sunday Mirror Arsenal are hellbent on revamping whatever they can to capitalise on a first Premier League title in 22 years and cement their place in Europe's elite. Next in their sights is their London Colney training base - Mail on Sunday Transfer Centre LIVE! | Latest on YOUR PL club!",
-   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "cat": "THE DAILY STAR",
+   "title": "Netflix secures exclusive 2030 World Cup broadcast rights in Spain",
+   "iso": "2026-10-18T11:42:54.000Z",
+   "link": "https://www.thedailystar.net/sports/football/news/netflix-secures-exclusive-2030-world-cup-broadcast-rights-spain-4298201",
+   "lede": "Netflix added to its sports portfolio on Tuesday by landing the rights to broadcast the 2030 World Cup to the viewing audience in Spain and Andorra. Spain is one of three main co-hosts of the next edition of the FIFA World Cup, along with Portugal and Morocco. The first three games of the tournament will take place in South America. While FIFA prefers a free over-the-air broadcast partner over a streaming service, the deal includes a plan to air one match per day on public television.",
+   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
@@ -51,32 +51,31 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Morocco Face New Zealand in U-17 Women’s World Cup Opener Today",
-   "iso": "2026-10-17T15:49:01.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/342631/morocco-face-new-zealand-in-u-17-womens-world-cup-opener-today/",
-   "lede": "Rabat – Morocco's U-17 women's national football team will begin their FIFA U-17 Women's World Cup campaign against New Zealand today, Saturday, October 17, marking the start of a major international tournament hosted by the Morocco. The competition, running from October 17 to November 8, brings together emerging talents from across the world, offering Morocco another opportunity to demonstrate its ability to host major international football events. Led by head coach Younes Rabie, the young Atlas Lionesses will look to take advantage of playing on home soil and secure a positive result in their opening Group A encounter. The tournament's matches will take place at the Mohammed VI Football Complex in Salé, with the final scheduled for Moulay El Hassan Stadium.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U-17-morocco-women-national-team.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Infantino: Morocco’s U-17 Women’s World Cup ‘Brings the World Together’",
-   "iso": "2026-10-17T13:22:01.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/342602/infantino-moroccos-u-17-womens-world-cup-brings-the-world-together/",
-   "lede": "Rabat - FIFA President Gianni Infantino has praised Morocco as a country that brings people and cultures together through football, expressing his excitement about attending the opening of the 2026 FIFA U-17 Women’s World Cup. Speaking in remarks published by the Royal Moroccan Football Federation (FRMF) on Friday, Infantino said he was delighted to return to Morocco for the international tournament, describing the country as a place where football is celebrated with passion. “I am happy to be back in my country, Morocco, a country of football and passion, where we experience this beautiful game with love,” Infantino said. The FIFA chief explained that his visit would allow him to attend the tournament's opening ceremony and opening match, describing the occasion as a celebration that brings together people from different parts of the world.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/6ad2adc52cf2a0204ac78dbd_default.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
    "cat": "YAHOO SPORTS",
    "title": "Germany win over 80 World Cup",
    "iso": "2026-10-17T11:33:39.000Z",
    "link": "https://sports.yahoo.com/articles/germany-win-over-80-world-113339900.html",
    "lede": "Germany's over 80 team has won the inaugural World Cup title in Australia and said that this success goes beyond football. \"We need to ensure that more older people take part in sport,\" player Michael Rätsch from Hertha Berlin told dpa. \"We need to ensure that more older...",
    "image": "https://s.yimg.com/lo/mysterio/api/07461d05154ad45e9a8268fa2b50420d2c58bb44766fd0ea097ff930aeeead58/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fced30fe02ab9ff6bbde1999c1df7f141.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "UNIVERSIDAD DE CÓRDOBA (UCO)",
+   "title": "𝚆𝙰𝚃𝙲𝙷 (𝐓ODAY) Jacksonville Jaguars vs Houston Texans NFL Football LIVE Updates",
+   "iso": "2026-10-18T13:09:53.000Z",
+   "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-jacksonville-jaguars-vs-houston-texans-nfl-football-lie-en-wtosicd",
+   "lede": "Virtual tour generated by Visitas Virtuales Granada.",
+   "image": "https://www.uco.es/scai/visita_virtual/SCAI%20UCOdata/thumbnail.jpg",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "AP Top 25 predictions: Who will rise, fall and enter the new college football rankings?",
+   "iso": "2026-10-18T13:00:30.000Z",
+   "link": "https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
