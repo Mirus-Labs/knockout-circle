@@ -1,14 +1,34 @@
 {
- "updated": "2026-10-18T05:35:54.833Z",
+ "updated": "2026-10-18T06:37:51.335Z",
  "news": [
+  {
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "CommBank ParaMatildas defeat Colombia 8-0 in second group stage game",
+   "iso": "2026-10-18T05:58:23.000Z",
+   "link": "https://footballaustralia.com.au/news/commbank-paramatildas-defeat-colombia-8-0-second-group-stage-game",
+   "lede": "The CommBank ParaMatildas defeated Colombia 8-0 in the second group stage game of the IFCPF Women’s World Cup on Sunday morning (AEDT). Leah Spaine scored four goals on debut, while Trinity McPhie and Georgia Beikoff both scored braces to complete the comprehensive victory. All five starting players were changed from game one. Leah Spaine started on debut, Carly Salmon started between the sticks, and Trinity McPhie, Tamsin Colley and Lainee Harrison completed the starting team.",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-10/ParaMatildas%20cover.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SKY SPORTS",
+   "title": "Viktor Gyokeres keen to leave Arsenal due to lack of first team opportunites - Paper Talk | Football News",
+   "iso": "2026-10-18T04:24:00.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk",
+   "lede": "The top stories and transfer rumours from Sunday's newspapers... Premier League Viktor Gyokeres is reportedly keen to leave Arsenal due to a lack of first-team opportunities - Sunday Mirror Arsenal are hellbent on revamping whatever they can to capitalise on a first Premier League title in 22 years and cement their place in Europe's elite. Next in their sights is their London Colney training base - Mail on Sunday Transfer Centre LIVE! | Latest on YOUR PL club!",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "SPOTV NOW",
    "title": "All 47 Saudi Pro League players selected for 2026 FIFA World Cup",
    "iso": "2026-10-18T02:02:08.000Z",
    "link": "https://www.spotvnow.com/read/all-47-saudi-pro-league-players-selected-for-2026-fifa-world-cup/",
    "lede": "The 2026 FIFA World Cup will feature some of the biggest names in world football, and the Saudi Pro League is set to have a sizeable presence on the sport’s biggest stage. A total of 47 players from 18 national teams, including 25 representing Saudi Arabia, are contracted to Saudi Pro League clubs heading into the tournament, underlining the league’s growing influence beyond the Kingdom. That figure rises to 49 players from 19 nations when including Curaçao defender Juriën Gaari of Abha and Saudi Arabia goalkeeper Mohammed Al-Owais of Al-Ula, who both play outside the Saudi top flight. A post shared by SPOTV Indonesia (@spotv.indonesia).",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -17,8 +37,8 @@
    "link": "https://sports.yahoo.com/articles/brazil-face-canada-womens-u17-231900904.html",
    "lede": "Brazil’s U-17 women’s national team kicks off its World Cup campaign this Sunday (18) against Canada at 12 p.m. (Brasília time) at the Women’s Football Complex in Salé, Morocco. (Brasília time) at the Women’s Football Compl...",
    "image": "https://s.yimg.com/lo/mysterio/api/7657b15ea53ca08601727d78c3e7ec6e50c668f3f6481afe440bb105f8e2c910/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7579db2f8d23997a04fda343e973b5c2.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -27,8 +47,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/10/18/new-zealand-lost-4-0-to-impressive-morocco-at-fifa-u-17-womens-world-cup/",
    "lede": "New Zealand have lost their opening game at the FIFA U-17 Women’s World Cup, beaten 4-0 by hosts Morocco. The Young Football Ferns put up strong resistance in a scoreless first half, with goalkeeper Nienke Holland thwarting the wave of Moroccan attacks that created 16 attempts on goal. Led by Holland’s example, the New Zealand defenders scrambled to keep an impressive Morocco side at bay. Main photo: The New Zealanders block a Moroccan attack.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/NZ-U-17-v-Morocco.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -37,8 +57,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342659/morocco-u-15-team-to-compete-in-2026-world-cup-in-azerbaijan/",
    "lede": "Rabat - Morocco's national under-15 football team will participate in the 2026 World Cup in Baku, Azerbaijan, with five matches scheduled between October 24 and 26. The Royal Moroccan Football Federation (FRMF) announced the team's participation on Saturday, October 17, confirming the match schedule and the 14 players selected to represent Morocco in the competition. According to the federation, the young Atlas Lions will begin their campaign against the Philippines on Saturday, October 24, at 5 a.m. Morocco will then play two matches on Sunday, October 25, starting with Costa Rica at 10:30 a.m., followed by a second encounter against Belize at 4:45 p.m.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/Morocco-U-15-Team.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -47,8 +67,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342631/morocco-face-new-zealand-in-u-17-womens-world-cup-opener-today/",
    "lede": "Rabat – Morocco's U-17 women's national football team will begin their FIFA U-17 Women's World Cup campaign against New Zealand today, Saturday, October 17, marking the start of a major international tournament hosted by the Morocco. The competition, running from October 17 to November 8, brings together emerging talents from across the world, offering Morocco another opportunity to demonstrate its ability to host major international football events. Led by head coach Younes Rabie, the young Atlas Lionesses will look to take advantage of playing on home soil and secure a positive result in their opening Group A encounter. The tournament's matches will take place at the Mohammed VI Football Complex in Salé, with the final scheduled for Moulay El Hassan Stadium.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U-17-morocco-women-national-team.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -57,24 +77,6 @@
    "link": "https://www.moroccoworldnews.com/2026/10/342602/infantino-moroccos-u-17-womens-world-cup-brings-the-world-together/",
    "lede": "Rabat - FIFA President Gianni Infantino has praised Morocco as a country that brings people and cultures together through football, expressing his excitement about attending the opening of the 2026 FIFA U-17 Women’s World Cup. Speaking in remarks published by the Royal Moroccan Football Federation (FRMF) on Friday, Infantino said he was delighted to return to Morocco for the international tournament, describing the country as a place where football is celebrated with passion. “I am happy to be back in my country, Morocco, a country of football and passion, where we experience this beautiful game with love,” Infantino said. The FIFA chief explained that his visit would allow him to attend the tournament's opening ceremony and opening match, describing the occasion as a celebration that brings together people from different parts of the world.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/6ad2adc52cf2a0204ac78dbd_default.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Five top-7 teams lose on same day for first time in college football history",
-   "iso": "2026-10-18T03:51:05.000Z",
-   "link": "https://www.nytimes.com/athletic/7699763/2026/10/17/college-football-upsets-saturday-history/",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Military member injured in botched rappel during UTSA pregame ceremony at Alamodome",
-   "iso": "2026-10-18T02:28:19.000Z",
-   "link": "https://www.nytimes.com/athletic/7699848/2026/10/17/military-member-falls-injured-alamodome-utsa-navy-pregame/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
