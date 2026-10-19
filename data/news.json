@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-19T00:01:25.257Z",
+ "updated": "2026-10-19T01:48:17.199Z",
  "news": [
+  {
+   "cat": "FOOTBALL AUSTRALIA",
+   "title": "How to Watch the FIFA U-17 Women’s World Cup Morocco 2026™",
+   "iso": "2026-10-19T01:37:58.000Z",
+   "link": "https://footballaustralia.com.au/news/how-watch-fifa-u-17-womens-world-cup-morocco-2026tm",
+   "lede": "Australia secured its historic qualification at the AFC U-17 Women’s Asian Cup China 2026™ with a 2-0 quarter-final victory over Vietnam, before the team went on to finish fourth at the tournament. The FIFA U-17 Women’s World Cup Morocco 2026™ will run from 17 October to 7 November 2026, with Australia drawn into Group F alongside Spain, Mexico and Chile. All matches involving the CommBank Junior Matildas will be shown live on Paramount+ in Australia; find out how to watch around the rest of the world.",
+   "image": "https://footballaustralia.com.au/sites/default/files/2026-10/Watch%20JM.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SPOTV NOW",
+   "title": "5 Southeast Asian-based players going to 2026 FIFA World Cup",
+   "iso": "2026-10-18T22:48:37.000Z",
+   "link": "https://www.spotvnow.com/read/5-southeast-asian-based-players-going-to-2026-fifa-world-cup/",
+   "lede": "The 2026 FIFA World Cup is set to bring together the world’s best players across the United States, Canada and Mexico from June 11 to July 19. While no Southeast Asian national team managed to qualify for the expanded 48-team tournament, the region will still have a presence on football’s biggest stage through several players currently plying their trade in the region. Malaysia, Thailand and Indonesia are all represented, with Selangor, Terengganu, Port FC and Persib Bandung contributing players to World Cup squads. Several others also came close to securing places before final selections were announced.",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "FLASHSCORE.COM",
    "title": "Five-time world champions Nigeria miss fourth straight U17 World Cup",
@@ -8,18 +27,18 @@
    "link": "https://www.flashscore.com/news/soccer-world-cup-u17-five-time-world-champions-nigeria-miss-fourth-straight-u17-world-cup/l6Cc57O8/",
    "lede": "The five-time world champions saw their qualification hopes fade following a 1-1 draw against Ivory Coast in Burkina Faso on Saturday. Having suffered a 2-1 defeat to Niger Republic in their opening fixture, The Golden Eaglets needed victory against the Ivorians to keep their qualification ambitions alive. However, coach Eboboritse Uwejamomere's team could only manage a draw, finishing bottom of their three-team group and consequently missing out on qualification for the 2027 U17 Africa Cup of Nations and FIFA U17 World Cup. The latest setback represents another painful chapter in the decline of a country widely regarded as one of the greatest forces in youth international football.",
    "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/80adc669-35ec-4bad-8221-7ae558b282c4.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "Netflix secures exclusive 2030 World Cup broadcast rights in Spain",
-   "iso": "2026-10-18T11:42:54.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/netflix-secures-exclusive-2030-world-cup-broadcast-rights-spain-4298201",
-   "lede": "Netflix added to its sports portfolio on Tuesday by landing the rights to broadcast the 2030 World Cup to the viewing audience in Spain and Andorra. Spain is one of three main co-hosts of the next edition of the FIFA World Cup, along with Portugal and Morocco. The first three games of the tournament will take place in South America. While FIFA prefers a free over-the-air broadcast partner over a streaming service, the deal includes a plan to air one match per day on public television.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "cat": "ABC7 LOS ANGELES",
+   "title": "FIFA says it's not moving forward with controversial World Cup sell-off plan",
+   "iso": "2026-10-18T08:12:04.000Z",
+   "link": "https://abc7.com/post/fifa-says-not-moving-forward-controversial-world-cup-sell-off-plan/19609178/?userab=kfsn_content_recs-582*variant_b_trending_kfsn-2513,kabc_content_recs-577*variant_c_trending-2482,wls_content_recs-584*variant_a_control_wls-2516,wtvd_content_recs-585*variant_a_control_wtvd-2518,ktrk_content_recs-587*variant_a_control_ktrk-2522,wpvi_content_recs-586*variant_a_control_wpvi-2520,abcn_article_nfy_v2-691*v2_model_enabled-3729,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_c_share_plus_google_button-3496,otv_search_page_design_unification-546*variant_b_search_redesign-2300,otv_web_live-581*variant_a_live-2510,follow_otv_on_google-683*variant_b_share_drop_down-3661,abcn_popular_reads_exp_followup-648*variant_c_autotagswpopularity-3458,otv_mobile_web_content_recs-639*variant_b_mobile_content_recs_enabled-3431,kgo_content_recs-583*variant_b_trending_kgo-2515,abcn_verts_midterms-671*variant_b_verts_midterms_enabled-3588,otvlink_abcnnav-576*variant_a_control-2478",
+   "lede": "FIFA President Gianni Infantino said Friday that the international soccer governing body would not be moving forward with a controversial proposal to sell stakes in future competitions to private investors. The move came after Europe's governing body for football said it would boycott the World Cup over the plan. FIFA will not be moving forward with a controversial proposal to sell stakes in future competitions to private investors. The plan had been met with boycotts and a top resignation.",
+   "image": "https://cdn.abcotvs.com/dip/images/19609216_073126-ap-fifa-infantino-img.png?w=1600",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -28,8 +47,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/10/18/new-zealand-lost-4-0-to-impressive-morocco-at-fifa-u-17-womens-world-cup/",
    "lede": "New Zealand have lost their opening game at the FIFA U-17 Women’s World Cup, beaten 4-0 by hosts Morocco. The Young Football Ferns put up strong resistance in a scoreless first half, with goalkeeper Nienke Holland thwarting the wave of Moroccan attacks that created 16 attempts on goal. Led by Holland’s example, the New Zealand defenders scrambled to keep an impressive Morocco side at bay. Main photo: The New Zealanders block a Moroccan attack.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/NZ-U-17-v-Morocco.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "懂球帝",
@@ -38,25 +57,6 @@
    "link": "https://m.dongqiudi.com/en/news/42744",
    "lede": "Argentina will meet Spain in the 2026 FIFA World Cup final on Sunday, July 19, at 3 p.m. at MetLife Stadium in East Rutherford, New Jersey. Lionel Messi could win his second World Cup title as the defending champions take on a Spain team that has conceded just one goal in the entire tournament. Spain reached the final by beating France, a two-time World Cup winner, 2-0 on Tuesday. France had been considered a strong contender after topping the FIFA men's ranking.",
    "image": "https://m.dongqiudi.com/allfootball/icon-192.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SPOTV NOW",
-   "title": "All 47 Saudi Pro League players selected for 2026 FIFA World Cup",
-   "iso": "2026-10-18T01:52:51.000Z",
-   "link": "https://www.spotvnow.com/read/all-47-saudi-pro-league-players-selected-for-2026-fifa-world-cup/",
-   "lede": "The 2026 FIFA World Cup will feature some of the biggest names in world football, and the Saudi Pro League is set to have a sizeable presence on the sport’s biggest stage. A total of 47 players from 18 national teams, including 25 representing Saudi Arabia, are contracted to Saudi Pro League clubs heading into the tournament, underlining the league’s growing influence beyond the Kingdom. That figure rises to 49 players from 19 nations when including Curaçao defender Juriën Gaari of Abha and Saudi Arabia goalkeeper Mohammed Al-Owais of Al-Ula, who both play outside the Saudi top flight. A post shared by SPOTV Indonesia (@spotv.indonesia).",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Brazil face Canada in Women's U17 World Cup opener",
-   "iso": "2026-10-17T23:19:00.000Z",
-   "link": "https://sports.yahoo.com/articles/brazil-face-canada-womens-u17-231900904.html",
-   "lede": "Brazil’s U-17 women’s national team kicks off its World Cup campaign this Sunday (18) against Canada at 12 p.m. (Brasília time) at the Women’s Football Complex in Salé, Morocco. (Brasília time) at the Women’s Football Compl...",
-   "image": "https://s.yimg.com/lo/mysterio/api/7657b15ea53ca08601727d78c3e7ec6e50c668f3f6481afe440bb105f8e2c910/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7579db2f8d23997a04fda343e973b5c2.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
