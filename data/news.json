@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:57:41.587Z",
+ "updated": "2026-10-20T00:41:38.276Z",
  "news": [
   {
    "cat": "THE DAILY STAR",
@@ -26,7 +26,7 @@
    "title": "Football Ferns to end 2026 with home series against Philippines",
    "iso": "2026-10-19T22:10:26.000Z",
    "link": "https://www.rnz.co.nz/news/sport/2035415/football-ferns-to-end-2026-with-home-series-against-philippines",
-   "lede": "Following the cancellation of their games in Panama, the Football Ferns have confirmed their final fixtures for the year. New Zealand will end 2026 with two home games in Wellington against the Philippines (FIFA ranking 39) on 29 November and 4 December, as they seek some much needed game time ahead of next year's FIFA Women's World Cup. The Football Ferns had two games scheduled in Panama earlier this month but both were cancelled after a magnitude 7.7 earthquake struck the region. The New Zealanders were in Panama and in the middle of a team meeting when the earthquake hit.",
+   "lede": "As the Football Ferns gathered for a team meeting to name the squad to play Panama, they were interrupted by violent shaking. A magnitude 7.7 earthquake struck southern Panama on Friday, damaging homes, cutting power, halting flights and sending residents into the streets, while triggering more than a dozen aftershocks. Football Ferns coach Michael Mayne said it was a scary moment for the squad. \"We felt the biggest shake.",
    "image": "https://media.rnztools.nz/rnz/image/upload/s--1g2jBff0--/t_tohu-badge-facebook/f_auto/q_auto/4JQ4859_260415NZLvPNG_OFCFinal_056_JPG",
    "emoji": "🏟️",
    "bg": "#7a5b16"
@@ -63,19 +63,20 @@
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "China, U.S., Russia top women’s team qualification at gymnastics World Championships",
-   "iso": "2026-10-19T22:53:27.000Z",
-   "link": "https://www.nytimes.com/athletic/7705993/2026/10/19/gymnastics-world-championships-china-usa-russia-qualification/",
+   "title": "U.S. women’s U-17 soccer team sets World Cup record with 17-0 win over Samoa",
+   "iso": "2026-10-19T23:54:45.000Z",
+   "link": "https://www.nytimes.com/athletic/7705950/2026/10/19/uswnt-u-17-record-17-0-victory-samoa/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "U.S. women’s U-17 soccer team earns record-setting 17-0 victory at World Cup",
-   "iso": "2026-10-19T22:51:15.000Z",
-   "link": "https://www.nytimes.com/athletic/7705950/2026/10/19/uswnt-u-17-record-17-0-victory-samoa/",
-   "lede": "",
+   "title": "China, U.S., Russia top women’s team qualification at gymnastics World Championships",
+   "iso": "2026-10-19T22:53:27.000Z",
+   "link": "https://www.nytimes.com/athletic/7705993/2026/10/19/gymnastics-world-championships-china-usa-russia-qualification/",
+   "lede": "China enters Wednesday's final as the women's team to beat after topping qualification on Monday.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/10/19184900/GettyImages-2300811197-scaled.jpg?width=1200&height=630&fit=crop",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
