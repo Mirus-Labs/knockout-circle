@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-20T15:08:56.726Z",
+ "updated": "2026-10-20T15:17:43.470Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
+   "iso": "2026-10-20T15:15:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
+   "lede": "Result is largest margin at any age level of a World Cup. DiMaria is first to score six at Fifa finals since Haaland. Tournament is in year two of expanded 24-team field. The United States began their U-17 Women’s World Cup campaign on Monday with a record-setting 17-0 win over Samoa the biggest win at any age level in World Cup history.",
+   "image": "https://i.guim.co.uk/img/media/b258877357f68118e326d6fbac53b8d68552c038/1217_299_3460_2769/master/3460.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2880c7369bc0ab25b9bb575733bfbcaf",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "CURAÇAO CHRONICLE",
+   "title": "Curaçao U-15 Football Team Departs for Azerbaijan to Compete in Inaugural FIFA World Cup and Festival",
+   "iso": "2026-10-20T13:48:26.000Z",
+   "link": "https://www.curacaochronicle.com/post/local/curacao-u-15-football-team-departs-for-azerbaijan-to-compete-in-inaugural-fifa-world-cup-and-festival",
+   "lede": "WILLEMSTAD – Curaçao's Under-15 national football team has departed for Baku, Azerbaijan, where the young players are preparing to represent the island in the inaugural FIFA U-15 World Cup & Festival, scheduled to take place from October 22 to 30, 2026. The tournament will bring together youth football teams from more than 191 countries, according to the event announcement, offering young players an opportunity to compete internationally and gain valuable experience against opponents from different parts of the world. For Curaçao's young footballers, the trip represents an opportunity to wear the national colors on an international stage while continuing their development in the sport. Unlike traditional football competitions, the FIFA U-15 World Cup & Festival will follow a format designed to provide participating teams with playing opportunities throughout the event.",
+   "image": "https://www.curacaochronicle.com/media/posts/u15_curacao.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "WWW.FOOTBALLTRANSFERS.COM",
    "title": "UEFA demand Trump and World Cup sell-off plan explanation from Infantino",
@@ -8,8 +28,8 @@
    "link": "https://www.footballtransfers.com/us/transfer-news/world-fifa-club-world-cup/2026/10/uefa-demand-trump-and-world-cup-sell-off-plan-explanation-from-infantino",
    "lede": "UEFA have submitted 42 formal questions to FIFA demanding answers on a variety of issues, most of which surround FIFA President Gianni Infantino. On Thursday, the FIFA Council met in Zurich for the first time since Infantino's secret FIFA Forward Enterprise (FFE) proposal emerged. The proposals would have seen private investment firms gain equity in the World Cup and that would have granted them a say in where and when the tournament would be held moving forward. UEFA accused Infantino of trying to sell the soul of football, while the Italian saw support from various confederations and countries withdrawn for his actions.",
    "image": "https://static.footballtransfers.com/images/cf/image/upload/32609715-c93a-4223-a2dd-67f24a6b2e00/q=75,w=1200,format=auto",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -17,8 +37,8 @@
    "iso": "2026-10-20T14:47:00.000Z",
    "link": "https://www.nytimes.com/athletic/7705108/2026/10/19/uefa-fifa-peace-prize-balogun-ffe-deadline/",
    "lede": "",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "TRT AFRIKA",
@@ -27,8 +47,8 @@
    "link": "https://www.trtafrika.com/english/article/1a64921b2715",
    "lede": "FIFA has suspended Egypt head coach Hossam Hassan for three matches following comments he made after the team’s World Cup round-of-16 defeat to Argentina.",
    "image": "https://d341l694dl30ad.cloudfront.net/images/ap/2026/07/02/6a46d87cd7ba97a7c1777be9/original/ff635e20-4dd0-4f1d-94df-f8f2e533ad37-1783027836758.jpg?width=1080&format=jpg&quality=80",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DAZN",
@@ -36,8 +56,8 @@
    "iso": "2026-10-20T14:00:00.000Z",
    "link": "https://www.dazn.com/en-GB/news/football/fifa-u-17-womens-world-cup-which-teams-caught-usa-dpr-korea-germany-brazil-morocco/10xybqpfmh4qd1ut88usho77pu",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -45,32 +65,14 @@
    "iso": "2026-10-20T13:20:09.000Z",
    "link": "https://www.nytimes.com/athletic/7705424/2026/10/20/high-ceiling-week-7-fantasy-football-swings/",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Auburn dismisses star linebacker Xavier Atkins, who says he plans to enter transfer portal",
    "iso": "2026-10-20T13:06:44.000Z",
    "link": "https://www.nytimes.com/athletic/7707335/2026/10/20/xavier-atkins-auburn-dismissed/",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "NEW AGE BD",
-   "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
-   "iso": "2026-10-20T11:24:00.000Z",
-   "link": "https://www.newagebd.net/post/football/318762/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism-",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FOOTBALL ASSOCIATION OF SINGAPORE (FAS)",
-   "title": "Singapore U15 Boys gear up for international challenge at FIFA U15 World Cup and Festival 2026",
-   "iso": "2026-10-20T10:52:22.000Z",
-   "link": "https://fas.org.sg/singapore-u15-boys-gear-up-for-international-challenge-at-fifa-u15-world-cup-and-festival-2026/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
