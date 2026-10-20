@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-20T19:30:45.716Z",
+ "updated": "2026-10-20T22:41:24.658Z",
  "news": [
+  {
+   "cat": "ZAMFOOT",
+   "title": "Zambia U15 squad departs for inaugural FIFA World Cup in Azerbaijan",
+   "iso": "2026-10-20T20:23:07.000Z",
+   "link": "https://zambianfootball.co.zm/zambia-u15-squad-departs-for-inaugural-fifa-world-cup-in-azerbaijan/",
+   "lede": "Zambia’s Under-15 boys’ national team has departed Lusaka for Baku, Azerbaijan, ahead of the inaugural FIFA U15 World Cup and Festival, which runs from 24 to 31 October 2026. The Junior Chipolopolo left Kenneth Kaunda International Airport at 21:00 on Tuesday, beginning their journey to the week-long international competition. Head coach Brian Kunsanama has named a 13-player squad for the tournament, with the team featuring young prospects drawn from secondary schools, primary schools and football academies across the country. The squad includes two goalkeepers, three defenders, five midfielders and three strikers as Zambia prepares to test its emerging talent on the international stage.",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "MOROCCO WORLD NEWS",
    "title": "FIFA Plans Rule Change Following Controversial Balogun World Cup Suspension",
@@ -8,8 +17,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/343052/fifa-plans-rule-change-following-controversial-balogun-world-cup-suspension/",
    "lede": "Rabat - FIFA is preparing to change its disciplinary rules following the controversy surrounding American striker Folarin Balogun, whose automatic suspension was lifted during the 2026 World Cup after US President Donald Trump contacted FIFA President Gianni Infantino. The proposed amendment would prevent automatic one-match suspensions from being suspended in similar circumstances, following criticism of FIFA's decision to allow Balogun to participate in the tournament's knockout stages. The issue was discussed during a FIFA Council meeting in Zurich on October 15, where officials agreed to review the disciplinary procedures involved in the case. According to the Royal Belgian Football Association (RBFA), FIFA has committed to amending Article 27 of its Disciplinary Code, with the proposed changes expected to be submitted for approval at the next Council meeting in Doha on December 16.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-16.47.58.webp",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -18,63 +27,53 @@
    "link": "https://www.moroccoworldnews.com/2026/10/343042/morocco-to-host-2027-womens-world-cup-playoff-preliminary-round/",
    "lede": "Rabat – The International Federation of Association Football (FIFA) has selected Morocco to host the preliminary round of the playoff tournament for the 2027 FIFA Women’s World Cup, scheduled to take place from November 28 to December 5, 2026. According to FIFA’s official announcement , the matches will take place at the Mohammed VI Football Complex in Salé, near Rabat. Six national teams will participate in the competition: South Africa, Ghana, Ecuador, Uzbekistan, Chinese Taipei, and Papua New Guinea. The tournament will feature nine matches, with each team playing three games.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/MOHAMED-VI-FOOTBALL-COMPLEX.webp",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "SPORTSNET.CA",
-   "title": "Infantino set to take his FIFA reelection campaign to Japan",
-   "iso": "2026-10-20T17:56:00.000Z",
-   "link": "https://www.sportsnet.ca/soccer/article/infantino-set-to-take-his-fifa-reelection-campaign-to-japan/",
-   "lede": "TOKYO — Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation. This comes after Infantino apologized last week in Zurich, Switzerland, to FIFA's 37-member ruling council — which he chairs — for “mistakes” he made in assembling a now-scrapped $4.2 billion sell-off plan for the World Cup. The council is the main decision-making body at FIFA with a global spread of officials. The planned meeting with Asian soccer leaders is to be held in a five-star hotel in Tokyo with the media largely excluded.",
-   "image": "https://www.sportsnet.ca/wp-content/uploads/2026/10/infantino.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "Argentina striker’s double leaves New Zealand facing early World Cup exit",
-   "iso": "2026-10-20T17:52:37.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/10/21/argentina-strikers-double-leaves-new-zealand-facing-early-world-cup-exit/",
-   "lede": "New Zealand have suffered their second defeat at the FIFA U-17 Women’s World Cup in Morocco, losing 2-0 to Argentina in Group A. Argentinian striker Mercedes Diz scored both goals, striking either side of half-time to secure her country’s first victory of the tournament. The Argentinians created many first-half chances, hitting the crossbar three times with long-range efforts. Diz opened the scoring in the 42nd minute before adding her second in the 69th minute at the Mohammed VI Football Complex.",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/Argentina.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Japan wins another men’s gymnastics team gold at World Championships; U.S. sixth",
+   "iso": "2026-10-20T21:52:26.000Z",
+   "link": "https://www.nytimes.com/athletic/7708951/2026/10/20/japan-gold-gymnastics-world-championships-mens-team/",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "THE GUARDIAN",
-   "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
-   "iso": "2026-10-20T16:35:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
-   "lede": "Result is largest margin at any age level of a World Cup. DiMaria is first to score six at Fifa finals since Haaland. Tournament is in year two of expanded 24-team field. The United States began their U-17 Women’s World Cup campaign on Monday with a record-setting 17-0 win over Samoa the biggest win at any age level in World Cup history.",
-   "image": "https://i.guim.co.uk/img/media/b258877357f68118e326d6fbac53b8d68552c038/1217_299_3460_2769/master/3460.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2880c7369bc0ab25b9bb575733bfbcaf",
+   "cat": "THE NEW YORK TIMES",
+   "title": "College football best bets Week 8: Look for Indiana-Michigan to be a low-scoring game",
+   "iso": "2026-10-20T21:21:23.000Z",
+   "link": "https://www.nytimes.com/athletic/7708130/2026/10/20/cfb-best-bets-week-8-indiana-michigan/",
+   "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE EASTLEIGH VOICE",
-   "title": "Rabat to host FIFA Women’s World Cup 2027 play-offs as Ghana and South Africa chase qualification",
-   "iso": "2026-10-20T19:15:52.000Z",
-   "link": "https://eastleighvoice.co.ke/football/414237/rabat-to-host-fifa-womens-world-cup-2027-play-offs-as-ghana-and-south-africa-chase-qualification",
-   "lede": "",
+   "cat": "WWW.OCEANIAFOOTBALL.COM",
+   "title": "Morocco awaits as Papua New Guinea’s FIFA Women’s World Cup play-off schedule confirmed",
+   "iso": "2026-10-20T21:03:04.000Z",
+   "link": "https://www.oceaniafootball.com/morocco-awaits-as-papua-new-guineas-fifa-womens-world-cup-play-off-schedule-confirmed/",
+   "lede": "Papua New Guinea will travel to Rabat, Morocco, later this year for the FIFA Women’s World Cup 2027™ Play-Off Tournament preliminary phase. The match schedule and venues for the preliminary phase of…",
+   "image": "https://i0.wp.com/www.oceaniafootball.com/cms/wp-content/uploads/2026/10/260305pt697.jpg?fit=2560%2C1558&ssl=1",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Brewers-Rays World Series preview: Small-market standard-bearers vie for first championship",
-   "iso": "2026-10-20T18:35:48.000Z",
-   "link": "https://www.nytimes.com/athletic/7706469/2026/10/20/world-series-brewers-rays-predictions-questions-facts/",
+   "title": "NFL best bets Week 7: Bears to cover vs. Patriots, Bengals-Ravens under, more picks",
+   "iso": "2026-10-20T20:40:12.000Z",
+   "link": "https://www.nytimes.com/athletic/7707824/2026/10/20/nfl-best-bets-bears-patriots-bengals-ravens-week-7/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Eagles won’t be punished for handling of Jalen Hurts’ blood clots: Source - The Athletic",
-   "iso": "2026-10-20T18:29:48.000Z",
-   "link": "https://www.nytimes.com/athletic/7708077/2026/10/20/eagles-jalen-hurts-blood-clots-punishment/",
-   "lede": "",
+   "cat": "OCEANIA FOOTBALL CONFEDERATION",
+   "title": "Diz double leaves New Zealand facing uphill battle at FIFA U-17 Women’s World Cup",
+   "iso": "2026-10-20T20:24:24.000Z",
+   "link": "https://www.oceaniafootball.com/diz-double-leaves-new-zealand-facing-uphill-battle-at-fifa-u-17-womens-world-cup/",
+   "lede": "A brace from Argentina striker Mercedes Diz has condemned New Zealand to a second successive defeat at FIFA U-17 Women’s World Cup 2026™ in Morocco. The 2-0 loss leaves the Young Football Ferns on the…",
+   "image": "https://i0.wp.com/www.oceaniafootball.com/cms/wp-content/uploads/2026/10/2301162981.jpg?fit=2560%2C1701&ssl=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
