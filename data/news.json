@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:00:43.799Z",
+ "updated": "2026-10-21T01:01:56.479Z",
  "news": [
   {
    "cat": "ZAMFOOT",
@@ -11,14 +11,24 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "SPORTSNET.CA",
-   "title": "Infantino set to take his FIFA reelection campaign to Japan",
-   "iso": "2026-10-20T17:56:00.000Z",
-   "link": "https://www.sportsnet.ca/soccer/article/infantino-set-to-take-his-fifa-reelection-campaign-to-japan/",
-   "lede": "TOKYO — Gianni Infantino's campaign for reelection as FIFA president is set to move this week to Japan and a meeting scheduled for Wednesday with the Asian Football Confederation. This comes after Infantino apologized last week in Zurich, Switzerland, to FIFA's 37-member ruling council — which he chairs — for “mistakes” he made in assembling a now-scrapped $4.2 billion sell-off plan for the World Cup. The council is the main decision-making body at FIFA with a global spread of officials. The planned meeting with Asian soccer leaders is to be held in a five-star hotel in Tokyo with the media largely excluded.",
-   "image": "https://www.sportsnet.ca/wp-content/uploads/2026/10/infantino.jpg",
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "FIFA Plans Rule Change Following Controversial Balogun World Cup Suspension",
+   "iso": "2026-10-20T18:05:32.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/343052/fifa-plans-rule-change-following-controversial-balogun-world-cup-suspension/",
+   "lede": "Rabat - FIFA is preparing to change its disciplinary rules following the controversy surrounding American striker Folarin Balogun, whose automatic suspension was lifted during the 2026 World Cup after US President Donald Trump contacted FIFA President Gianni Infantino. The proposed amendment would prevent automatic one-match suspensions from being suspended in similar circumstances, following criticism of FIFA's decision to allow Balogun to participate in the tournament's knockout stages. The issue was discussed during a FIFA Council meeting in Zurich on October 15, where officials agreed to review the disciplinary procedures involved in the case. According to the Royal Belgian Football Association (RBFA), FIFA has committed to amending Article 27 of its Disciplinary Code, with the proposed changes expected to be submitted for approval at the next Council meeting in Doha on December 16.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-29-at-16.47.58.webp",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco to Host 2027 Women’s World Cup Playoff Preliminary Round",
+   "iso": "2026-10-20T18:01:32.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/343042/morocco-to-host-2027-womens-world-cup-playoff-preliminary-round/",
+   "lede": "Rabat – The International Federation of Association Football (FIFA) has selected Morocco to host the preliminary round of the playoff tournament for the 2027 FIFA Women’s World Cup, scheduled to take place from November 28 to December 5, 2026. According to FIFA’s official announcement , the matches will take place at the Mohammed VI Football Complex in Salé, near Rabat. Six national teams will participate in the competition: South Africa, Ghana, Ecuador, Uzbekistan, Chinese Taipei, and Papua New Guinea. The tournament will feature nine matches, with each team playing three games.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/MOHAMED-VI-FOOTBALL-COMPLEX.webp",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "INSIDE WORLD FOOTBALL",
@@ -26,8 +36,8 @@
    "iso": "2026-10-21T00:05:00.000Z",
    "link": "https://www.insideworldfootball.com/2026/10/21/game-changing-jpl-warriors-world-cup-set-for-friday-kick-off-in-doha/",
    "lede": "",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -35,8 +45,8 @@
    "iso": "2026-10-20T23:01:27.000Z",
    "link": "https://www.nytimes.com/athletic/7708328/2026/10/20/david-kogan-agent-fees-football-regulator/",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -44,8 +54,8 @@
    "iso": "2026-10-20T21:56:21.000Z",
    "link": "https://www.nytimes.com/athletic/7708292/2026/10/20/astros-general-manager-candidates/",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -53,8 +63,8 @@
    "iso": "2026-10-20T21:52:26.000Z",
    "link": "https://www.nytimes.com/athletic/7708951/2026/10/20/japan-gold-gymnastics-world-championships-mens-team/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -62,16 +72,6 @@
    "iso": "2026-10-20T21:21:23.000Z",
    "link": "https://www.nytimes.com/athletic/7708130/2026/10/20/cfb-best-bets-week-8-indiana-michigan/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "WWW.OCEANIAFOOTBALL.COM",
-   "title": "Morocco awaits as Papua New Guinea’s FIFA Women’s World Cup play-off schedule confirmed",
-   "iso": "2026-10-20T21:03:04.000Z",
-   "link": "https://www.oceaniafootball.com/morocco-awaits-as-papua-new-guineas-fifa-womens-world-cup-play-off-schedule-confirmed/",
-   "lede": "Papua New Guinea will travel to Rabat, Morocco, later this year for the FIFA Women’s World Cup 2027™ Play-Off Tournament preliminary phase. The match schedule and venues for the preliminary phase of…",
-   "image": "https://i0.wp.com/www.oceaniafootball.com/cms/wp-content/uploads/2026/10/260305pt697.jpg?fit=2560%2C1558&ssl=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
