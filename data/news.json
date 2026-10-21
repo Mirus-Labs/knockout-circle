@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-21T11:58:33.963Z",
+ "updated": "2026-10-21T16:55:55.405Z",
  "news": [
+  {
+   "cat": "NHAN DAN ONLINE",
+   "title": "Viet Nam maintain top spot in Southeast Asian women’s football",
+   "iso": "2026-10-21T14:11:52.000Z",
+   "link": "https://en.nhandan.vn/viet-nam-maintain-top-spot-in-southeast-asian-womens-football-post168055.html",
+   "lede": "Viet Nam’s women’s national team have maintained their position at 37th in the world, unchanged from the previous edition of the rankings. Under head coach Hoang Van Phuc, the team remain among Asia’s leading sides. In the continental rankings, Viet Nam are sixth, behind Japan, Democratic People's Republic of Korea, Australia, the Republic of Korea and China. They continue to lead the Southeast Asian region.",
+   "image": "https://en-cdn.nhandan.vn/images/PGsdfWzXfw3FSVNqQeLLm0WnHh29tUBsJfHYyabQ5hynhUOTFVNsrqitRI3tDDY2mvrVI6WQI42ItCghkOKQ2w/img-7321-2048x1466.jpg.webp",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "UZDAILY.UZ",
+   "title": "Uzbekistan Women Set World Cup Play-Off Schedule",
+   "iso": "2026-10-21T13:22:14.000Z",
+   "link": "https://www.uzdaily.uz/en/uzbekistan-women-set-world-cup-play-off-schedule/",
+   "lede": "Tashkent, Uzbekistan (UzDaily.uz) — Uzbekistan’s women’s national football team will play three matches in Morocco in the play-off tournament for a place at the 2027 FIFA Women’s World Cup in Brazil, the Uzbekistan Football Association said. The team will face Papua New Guinea on 28 November at 9:30 p.m., Ghana on 1 December at 9:30 p.m. and South Africa on 5 December at 10 p.m. All three matches will be held at the Mohammed VI Football Complex in Morocco. Anvar Umarov is the founder and editor-in-chief of UzDaily, a leading business and news publication covering Uzbekistan and Central Asia.",
+   "image": "https://www.uzdaily.uz/media/filer_public/f8/43/f843df9e-a5d5-4ec7-9926-02306b14cb07/footballwoman0607_20260613102228.webp",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "TALKSPORT",
+   "title": "Man United warned against hiring World Cup manager if Michael Carrick is sacked",
+   "iso": "2026-10-21T12:05:57.000Z",
+   "link": "https://talksport.com/football/4657380/man-united-manager-michael-carrick-julian-nagelsmann/",
+   "lede": "That is according to talkSPORT's chief football correspondent Alex Crook amid growing pressure on manager Michael Carrick. The Red Devils boss has endured a poor start to the new season following his permanent appointment in May. Carrick was rewarded for securing a third place finish and Champions League qualification with a two-year deal at Old Trafford. However, his side have won just twice in 10 matches in all competitions this term ahead of Wednesday's clash with Como.",
+   "image": "https://talksport.com/wp-content/uploads/2026/10/2026-27-league-phase-md2-1115651175_f52079.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "SPORTS247 NIGERIA",
    "title": "Ghana Joins Nigeria In Lamentations Over U17 National Team's World Cup Absence, Due To Dwindling Form",
@@ -8,71 +38,42 @@
    "link": "https://www.sports247.ng/ghana-joins-nigeria-in-lamentations-over-u17-national-teams-world-cup-absence-due-to-dwindling-form/",
    "lede": "Nigeria’s fellow English-speaking West African neighbour, Ghana, has joined their eternal rivals in lamentations over another FIFA U17 World Cup absence, due to the dwindling form of their cadet team, Black Starlets. Sports247 reports that, in an uncanny shift from the famous ‘jollof rivalry’ between both countries, Ghana and Nigeria now share the same ignominious absence from the continental and global spotlight of under-17 football. This follows the inability of both teams to advance from the ongoing West African Football Union (WAFU)-B U17 Championship in Ouagadougou, Burkina Faso, where Nigeria failed to reach the semi-finals, and Ghana could not make the final.",
    "image": "https://www.sports247.ng/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-12.07.54-PM.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "TRIBALFOOTBALL",
-   "title": "Nigeria beat Puerto Rico to revive U17 World Cup hopes",
-   "iso": "2026-10-21T10:04:33.000Z",
-   "link": "https://www.tribalfootball.com/article/soccer-world-cup-women-u17-nigeria-beat-puerto-rico-to-revive-u17-world-cup-hopes-1c65135a-ec43-44eb-a3e8-adb99faad27c",
-   "lede": "Oluwakemi Adegbuyi broke the deadlock in the 25th minute before substitute Precious Oscar sealed the victory three minutes into stoppage time. The Flamingos dominated proceedings but struggled to convert several opportunities, with Queen Joseph, captain Chidera Chidi and Tosin Rafiu all failing to find the target. Adegbuyi also came close to doubling her tally, while Puerto Rico threatened through Mia Colon, Megan Rivera and Caroline Rivera. The victory revived Nigeria's qualification hopes following their 2-1 defeat to Poland.",
-   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/211dde44-e320-4e25-bdeb-923e35911de0.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "PHILIPPINE FOOTBALL FEDERATION",
-   "title": "PFF NAMES 14-MAN PMNFT U15 FOR FIFA U15 WORLD CUP & FESTIVAL",
-   "iso": "2026-10-21T10:01:47.000Z",
-   "link": "https://pff.org.ph/pff-names-14-man-pmnft-u15-for-fifa-u15-world-cup-festival/",
-   "lede": "The Philippine Football Federation (PFF) has named the 14-player squad of the Philippine Under-15 Men’s National Football Team (PMNFT U15) for the inaugural FIFA U15 World Cup & Festival, which will be played in Baku, Azerbaijan, from October 24 to 30, 2026. The tournament uses an 8v8 format. FIFA requires national teams to field 14 players. “Representing the Philippines at the first FIFA U15 World Cup & Festival is a milestone for these young players and for our youth program.",
-   "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "YAHOO SPORTS",
-   "title": "Brazil face Ghana chasing second win at U-17 Women's World Cup",
-   "iso": "2026-10-21T08:31:00.000Z",
-   "link": "https://sports.yahoo.com/articles/brazil-face-ghana-chasing-second-083100827.html",
-   "lede": "Brazil’s U-17 women’s national team faces Ghana this Wednesday (21) at 3 p.m. (Brasília time) at the Mohammed VI Women’s Football Complex in Salé, Morocco, in the second round of Group C match... (Brasília time) at the Mohammed VI Women’s Football Complex in Salé, Morocco, i...",
-   "image": "https://s.yimg.com/lo/mysterio/api/c05ac9de2bc945a5821361136873b10d44fceeb752a388ddbab725519acb1f6b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7759df3ebbdb0e38a0b5e91511c52019.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "DAZN",
-   "title": "Canada vs. Norway: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction",
-   "iso": "2026-10-21T11:45:00.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/canada-vs-norway-fifa-u-17-world-cup-2026-how-to-watch-dazn-date-kick-off-times-preview/3cg0l99hrcrh1vybsxyaholvy",
-   "lede": "",
+   "cat": "TRIBALFOOTBALL",
+   "title": "Nigeria beat Puerto Rico to revive U17 World Cup hopes",
+   "iso": "2026-10-21T10:43:38.000Z",
+   "link": "https://www.tribalfootball.com/article/soccer-world-cup-women-u17-nigeria-beat-puerto-rico-to-revive-u17-world-cup-hopes-1c65135a-ec43-44eb-a3e8-adb99faad27c",
+   "lede": "Oluwakemi Adegbuyi broke the deadlock in the 25th minute before substitute Precious Oscar sealed the victory three minutes into stoppage time. The Flamingos dominated proceedings but struggled to convert several opportunities, with Queen Joseph, captain Chidera Chidi and Tosin Rafiu all failing to find the target. Adegbuyi also came close to doubling her tally, while Puerto Rico threatened through Mia Colon, Megan Rivera and Caroline Rivera. The victory revived Nigeria's qualification hopes following their 2-1 defeat to Poland.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/211dde44-e320-4e25-bdeb-923e35911de0.jpeg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Start? Sit? Craft your best Week 7 fantasy football lineup with our tool",
-   "iso": "2026-10-21T11:34:27.000Z",
-   "link": "https://www.nytimes.com/athletic/7538205/2026/10/21/fantasy-football-start-sit-advice-lineup-tips-player-rankings/",
+   "title": "How good is the Maryland football coaching job? Sizing up the first vacancy of the season",
+   "iso": "2026-10-21T16:28:29.000Z",
+   "link": "https://www.nytimes.com/athletic/7710740/2026/10/21/maryland-football-head-coach-search-job-candidates/",
    "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Week 8 college football streaming guide: 12 games to watch, from LSU-Auburn to Houston-Utah",
-   "iso": "2026-10-21T11:03:20.000Z",
-   "link": "https://www.nytimes.com/athletic/7706434/2026/10/21/college-football-lsu-auburn-houston-utah-tv-streaming/",
+   "title": "The one factor that separates harmless tournament and playoff expansions from ruinous ones",
+   "iso": "2026-10-21T15:17:42.000Z",
+   "link": "https://www.nytimes.com/athletic/7583484/2026/10/21/college-football-playoff-expansion-world-cup-mls-soccer-money/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "DAZN",
-   "title": "Meet the deadliest double act in FIFA U-17 Women's World Cup history",
-   "iso": "2026-10-21T11:00:00.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/fifa-u-17-womens-world-cup-yang-kim-dpr-korea-deadliest-double-act/1j4q90d3v6av81xqqyb1m818iv",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Barcelona request FIFA extension to compete in Champions Cup over lack of female staff",
+   "iso": "2026-10-21T15:00:42.000Z",
+   "link": "https://www.nytimes.com/athletic/7710452/2026/10/21/barcelona-femeni-fifa-women-staff-champions-cup/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
