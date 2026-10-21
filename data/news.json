@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:53:19.575Z",
+ "updated": "2026-10-21T11:58:33.963Z",
  "news": [
   {
    "cat": "SPORTS247 NIGERIA",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "TRIBALFOOTBALL",
+   "title": "Nigeria beat Puerto Rico to revive U17 World Cup hopes",
+   "iso": "2026-10-21T10:04:33.000Z",
+   "link": "https://www.tribalfootball.com/article/soccer-world-cup-women-u17-nigeria-beat-puerto-rico-to-revive-u17-world-cup-hopes-1c65135a-ec43-44eb-a3e8-adb99faad27c",
+   "lede": "Oluwakemi Adegbuyi broke the deadlock in the 25th minute before substitute Precious Oscar sealed the victory three minutes into stoppage time. The Flamingos dominated proceedings but struggled to convert several opportunities, with Queen Joseph, captain Chidera Chidi and Tosin Rafiu all failing to find the target. Adegbuyi also came close to doubling her tally, while Puerto Rico threatened through Mia Colon, Megan Rivera and Caroline Rivera. The victory revived Nigeria's qualification hopes following their 2-1 defeat to Poland.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/211dde44-e320-4e25-bdeb-923e35911de0.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "PHILIPPINE FOOTBALL FEDERATION",
    "title": "PFF NAMES 14-MAN PMNFT U15 FOR FIFA U15 WORLD CUP & FESTIVAL",
    "iso": "2026-10-21T10:01:47.000Z",
    "link": "https://pff.org.ph/pff-names-14-man-pmnft-u15-for-fifa-u15-world-cup-festival/",
    "lede": "The Philippine Football Federation (PFF) has named the 14-player squad of the Philippine Under-15 Men’s National Football Team (PMNFT U15) for the inaugural FIFA U15 World Cup & Festival, which will be played in Baku, Azerbaijan, from October 24 to 30, 2026. The tournament uses an 8v8 format. FIFA requires national teams to field 14 players. “Representing the Philippines at the first FIFA U15 World Cup & Festival is a milestone for these young players and for our youth program.",
    "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,18 +38,17 @@
    "link": "https://sports.yahoo.com/articles/brazil-face-ghana-chasing-second-083100827.html",
    "lede": "Brazil’s U-17 women’s national team faces Ghana this Wednesday (21) at 3 p.m. (Brasília time) at the Mohammed VI Women’s Football Complex in Salé, Morocco, in the second round of Group C match... (Brasília time) at the Mohammed VI Women’s Football Complex in Salé, Morocco, i...",
    "image": "https://s.yimg.com/lo/mysterio/api/c05ac9de2bc945a5821361136873b10d44fceeb752a388ddbab725519acb1f6b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7759df3ebbdb0e38a0b5e91511c52019.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "THE TIMES OF INDIA",
-   "title": "England rugby legend Lawrence Dallaglio’s World Cup medal sells for £54,000; Eric Cantona’s shorts go und",
-   "iso": "2026-10-21T07:56:00.000Z",
-   "link": "https://timesofindia.indiatimes.com/world/uk/england-rugby-legend-lawrence-dallaglios-world-cup-medal-sells-for-54000-eric-cantonas-shorts-go-under-the-hammer/articleshow/135083244.cms",
-   "lede": "A medal from one of English rugby’s most celebrated nights has changed hands for £54,000, while a pair of shorts associated with football icon Eric Cantona and other sporting keepsakes attracted collectors at an auction in England. The sale, held by sports memorabilia specialist Budds on October 13, featured 332 lots spanning rugby, football, cricket, boxing, golf and tennis, according to the auction house’s official results.The headline item was the 2003 Rugby World Cup winner’s medal belonging to former England captain Lawrence Dallaglio. The silver-gilt medal fetched a hammer price of £54,000, close to the lower end of its pre-sale estimate of £50,000 to £80,000.",
-   "image": "https://static.toiimg.com/thumb/msid-135083290,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
+  },
+  {
+   "cat": "DAZN",
+   "title": "Canada vs. Norway: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction",
+   "iso": "2026-10-21T11:45:00.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/canada-vs-norway-fifa-u-17-world-cup-2026-how-to-watch-dazn-date-kick-off-times-preview/3cg0l99hrcrh1vybsxyaholvy",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -47,8 +56,8 @@
    "iso": "2026-10-21T11:34:27.000Z",
    "link": "https://www.nytimes.com/athletic/7538205/2026/10/21/fantasy-football-start-sit-advice-lineup-tips-player-rankings/",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -56,23 +65,14 @@
    "iso": "2026-10-21T11:03:20.000Z",
    "link": "https://www.nytimes.com/athletic/7706434/2026/10/21/college-football-lsu-auburn-houston-utah-tv-streaming/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "DAZN",
    "title": "Meet the deadliest double act in FIFA U-17 Women's World Cup history",
    "iso": "2026-10-21T11:00:00.000Z",
    "link": "https://www.dazn.com/en-GB/news/football/fifa-u-17-womens-world-cup-yang-kim-dpr-korea-deadliest-double-act/1j4q90d3v6av81xqqyb1m818iv",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "NFL Week 7 fantasy football rankings: Are Michael Wilson, Colston Loveland in trouble?",
-   "iso": "2026-10-21T10:46:55.000Z",
-   "link": "https://www.nytimes.com/athletic/7708425/2026/10/21/fantasy-football-week-7-rankings-michael-wilson-colston-loveland/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
