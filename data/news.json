@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-22T13:07:31.723Z",
+ "updated": "2026-10-22T15:23:11.437Z",
  "news": [
+  {
+   "cat": "FOOTBALLTRANSFERS.COM",
+   "title": "EXCLUSIVE: Arsenal revive interest in Atletico Madrid star Baena",
+   "iso": "2026-10-22T11:30:00.000Z",
+   "link": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/arsenal-revive-alex-baena-interest-ahead-of-january-window",
+   "lede": "Arsenal are targeting a potential January transfer for Atletico Madrid’s World Cup-winning winger Alex Baena, FootballTransfers can reveal. The Gunners were known to be seeking an attacking midfielder in the previous transfer window, but while they were ready to splash out on Real Madrid’s Vinicius Junior, they ultimately only added Christos Tzolis to Mikel Arteta’s ranks. Despite a strong start to their Premier League defence and Champions League challenge, Arsenal are still striving to improve their squad and have identified Baena as a potential January signing, sources in Spain have told FootballTransfers. Arsenal previously targeted Baena back in 2024 before he left Villarreal for Atleti, and now the Gunners are revisiting a potential move.",
+   "image": "https://static.footballtransfers.com/images/cf/image/upload/b3c9b66a-9e3c-48a4-e669-64931e05b000/q=75,w=1200,format=auto",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FOOTBALL AUSTRALIA",
    "title": "CommBank Junior Matildas Squad Update: 22nd October 2026",
@@ -8,18 +18,45 @@
    "link": "https://footballaustralia.com.au/news/commbank-junior-matildas-squad-update-22nd-october-2026",
    "lede": "CommBank Junior Matildas goalkeeper Alyse Oppedisano has sustained an anterior cruciate ligament (ACL) injury during training and will take no further part in the FIFA U-17 Women’s World Cup. With the continued support of Football Australia and Sydney FC, Oppedisano will depart camp to commence her rehabilitation, with her focus now turning to the road ahead. We wish Alyse all the very best in her recovery. \"I’m disappointed that my tournament has come to an end, but I’m proud to have been part of this group.",
    "image": "https://footballaustralia.com.au/sites/default/files/2026-10/JM%20Squad.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE SOUTH FIRST",
-   "title": "Delhi police to replace all football players in a bid to win World Cup",
-   "iso": "2026-10-22T09:35:55.000Z",
-   "link": "https://thesouthfirst.com/injest/delhi-police-to-replace-all-football-players-in-a-bid-to-win-world-cup/",
-   "lede": "The Delhi police’s aggressive work tackling the protests against vote chori has earned them well-deserved rewards, not just promotions. To win the next World Cup, the Football Association of India has decided to replace all players with Delhi police personnel. The association took the unanimous decision despite all committee members voting against it. The House Minister, who also holds the additional charge of kicking, backed the decision he forced upon the association.",
-   "image": "https://static.thesouthfirst.com/wp-content/uploads/2024/09/InJest-caricature-fixed.jpeg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "TRIBALFOOTBALL",
+   "title": "World Cup star receives La Liga offer just FOUR MONTHS into Premier League career",
+   "iso": "2026-10-22T09:53:03.000Z",
+   "link": "https://www.tribalfootball.com/article/soccer-premier-league-world-cup-star-receives-la-liga-offer-just-four-months-into-premier-league-career-9eba381d-83bf-4597-9c66-ac95196dd390",
+   "lede": "The 21-year-old Swiss schemer joined Villa from SC Freiburg for €60M back in July, signing a contract at Villa Park until June 2031. He's hit the ground running as a perfect Premier League style box-to-box midfielder, registering three goals and two assists across all competitions. The links to Spain are in their early stages, as per reports from Football Insider, with the player himself currently happy working with Unai Emery after rejecting other offers after the 2026 FIFA World Cup. Barca and Real Madrid will continue to monitor his progress and the situation could be revisited if Villa fail to qualify for the UEFA Champions League in 2027.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/eb1b5ea8-37c7-4166-9e90-284d12d6431c.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "What is FIFA’s under-15s tournament? Eight-a-side and 950 games in six days…",
+   "iso": "2026-10-22T14:35:40.000Z",
+   "link": "https://www.nytimes.com/athletic/7710183/2026/10/22/fifa-u15s-baku-explained-russia/",
+   "lede": "",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "BEDFORD INDEPENDENT",
+   "title": "Local Lioness wins ‘Minifootball’ bronze for England at World Cup in Croatia",
+   "iso": "2026-10-22T12:56:41.000Z",
+   "link": "https://www.bedfordindependent.co.uk/local-lioness-wins-minifootball-bronze-for-england-at-world-cup-in-croatia/",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "BEDFORD TODAY",
+   "title": "Bedford Lioness helps England team roar to victory in mini football World Cup",
+   "iso": "2026-10-22T11:55:00.000Z",
+   "link": "https://www.bedfordtoday.co.uk/news/people/bedford-lioness-helps-england-team-roar-to-victory-in-mini-football-world-cup-9303856",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FOOTBALL GROUND GUIDE",
@@ -28,52 +65,14 @@
    "link": "https://footballgroundguide.com/news/saudi-arabias-3bn-flagship-2034-world-cup-stadium-takes-major-step-forward-in-qiddiya.html",
    "lede": "Saudi Arabia's ambitious Prince Mohammed bin Salman Stadium is progressing, with a major mechanical engineering contract marking another milestone in the.",
    "image": "https://footballgroundguide.com/thumbor/5V9v_rE74qGFkTt_RJXEVEJVbwI=/640x450/smart/filters:format(webp)/https%3A%2F%2Fmedia.footballgroundguide.com%2Fmain%2F2026%2F10%2FPrince-Mohammed-Bin-Salman-Stadium-AI.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "TOD",
-   "title": "Watch France vs England",
-   "iso": "2026-10-22T11:23:45.000Z",
-   "link": "https://www.tod.tv/en/sports/football/fifa-world-cup/3rd-place-final/france-vs-england-5057235",
-   "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Who should win the men’s Ballon d’Or? The Athletic asked 100 people from elite football to vote",
    "iso": "2026-10-22T11:04:04.000Z",
    "link": "https://www.nytimes.com/athletic/7707638/2026/10/22/ballon-dor-survey-winner-contenders-the-athletic/",
-   "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE ASTANA TIMES",
-   "title": "Tokayev Meets Atletico Madrid CEO as Kazakhstan Seeks to Expand Football Cooperation",
-   "iso": "2026-10-22T10:51:41.000Z",
-   "link": "https://astanatimes.com/2026/10/tokayev-meets-atletico-madrid-ceo-as-kazakhstan-seeks-to-expand-football-cooperation/",
-   "lede": "",
-   "image": "https://astanatimes.com/wp-content/uploads/2026/10/IMG_7560.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "YAHOO",
-   "title": "Tottenham will be secretly pleased after Djed Spence latest",
-   "iso": "2026-10-22T10:22:10.000Z",
-   "link": "https://uk.sports.yahoo.com/news/tottenham-secretly-pleased-djed-spence-102210368.html",
-   "lede": "Djed Spence of England, wearing an Inter Milan 26-27 home kit, looks on prior to the FIFA World Cup 2026 semi final football match between England and Argentina. Djed Spence of England, wearing an Inter Milan 26-27 home kit, looks on prior to the FIFA World Cup 2026 semi final football match between England and Argent...",
-   "image": "https://s.yimg.com/lo/mysterio/api/772955392401071747ee807d4d18483c7c27e92ea69044f25cf3b647735a7f28/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_insider_939%2Fe6d4f4484fdbabe89a755b725cc613f9.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Portland wants to host 2031 Women’s World Cup games. The Bhathal family is helping lead the charge",
-   "iso": "2026-10-22T10:15:30.000Z",
-   "link": "https://www.nytimes.com/athletic/7713154/2026/10/22/portland-2031-womens-world-cup-host-bid-bhathal/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
