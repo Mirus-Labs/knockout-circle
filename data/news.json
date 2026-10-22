@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-22T04:57:28.227Z",
+ "updated": "2026-10-22T07:21:02.384Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "'It's coming home': Meet the England players at the power football world cup",
+   "iso": "2026-10-22T06:45:53.000Z",
+   "link": "https://www.bbc.co.uk/newsround/videos/c60qklj5nzg3o",
+   "lede": "Tomorrow is the final of the 2026 FIPFA Powerchair Football World Cup. After five days of footballing action England sit comfortably in first place, and will be headed to the final, if they can beat the US today. Also known as power football or wheelchair football, it sees two teams of four-a-side players compete using powerchairs with front bumpers. BBC Sport's Ellis Palmer went to meet the England players before the tournament kicked off.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_newsround/1200/cpsprodpb/25bc/live/b47aad50-cbaf-11f1-a64c-550be9e3c66b.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "APA.AZ",
+   "title": "FIFA: Azerbaijan is ready for World Cup",
+   "iso": "2026-10-22T06:40:00.000Z",
+   "link": "https://en.apa.az/football/fifa-azerbaijan-is-ready-for-world-cup-531531",
+   "lede": "Preparations for the FIFA U-15 World Cup and Festival, which will be hosted by Azerbaijan, have been completed, FIFA posted on its social media account, Apasport.az reports. In its post about the tournament to be held in Baku, football's governing body stated that the Hovsan Competition Complex had been made ready. \"This complex was built by AFFA in just 66 days. Azerbaijan is ready for the FIFA U-15 World Cup and Festival,\" the post stated.",
+   "image": "https://en.apa.az/storage/news/2026/october/22/big/6ad9af6959bf26ad9af6959bf317926511136ad9af6959bf06ad9af6959bf1.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FOOTBALL TODAY",
+   "title": "Lionel Scaloni signs new Argentina deal until the 2030 World Cup",
+   "iso": "2026-10-22T06:10:05.000Z",
+   "link": "https://footballtoday.com/2026/10/22/lionel-scaloni-signs-new-argentina-deal-until-the-2030-world-cup/",
+   "lede": "Lionel Scaloni has agreed to extend his contract as Argentina head coach until the end of the 2030 World Cup, according to Cesar Luis Melo. Scaloni has ended speculation about his future following an emotionally demanding period leading the national team. The Argentine Football Association (AFA) has reached a full agreement with Scaloni to prolong his stay beyond December 2026, when his former contract was due to expire. The decision is a significant boost for Argentina as they will retain the coach who led them to the 2022 World Cup and ended the country’s 36-year wait for football’s biggest prize.",
+   "image": "https://footballtoday.com/wp-content/uploads/2026/10/argentina-v-benin-international-friendly-scaled.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "THE MEDIA ONLINE",
+   "title": "Football’s enduring controversies show why journalism matters",
+   "iso": "2026-10-22T05:00:59.000Z",
+   "link": "https://themediaonline.co.za/2026/10/footballs-enduring-controversies-show-why-journalism-matters/",
+   "lede": "Investigative journalism exposed FIFA President Gianni Infantino’s proposed FIFA Forward Enterprise, a commercial venture valued at $20 billion. Media reporting revealed the proposal before FIFA made a public announcement, prompting widespread criticism and the plan’s subsequent withdrawal. Journalism holds powerful institutions accountable by investigating decisions, verifying facts and exposing information that might otherwise remain secret. Artificial intelligence relies on information created and verified by people, making professional journalism essential to the reliability of AI-generated answers.",
+   "image": "https://themediaonline.co.za/wp-content/uploads/2026/10/FIFA_World_Cup_2026_Official_Draw.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
   {
    "cat": "THE GUAM DAILY POST",
    "title": "Guam to compete in FIFA U15 World Cup and Festival in Azerbaijan",
@@ -8,8 +48,8 @@
    "link": "https://www.postguam.com/sports/local/guam-to-compete-in-fifa-u15-world-cup-and-festival-in-azerbaijan/article_bec40177-cc18-4cdf-8e97-a94d6b9af7dc.html",
    "lede": "Guam’s U15 boys national soccer team will represent the island at the inaugural FIFA U15 World Cup and Festival, taking place Oct. 24-30 in Baku, Azerbaijan. Guam will compete in Group W alongside Uzbekistan, Ghana, Myanmar, the Bahamas and Kazakhstan, giving the island’s young players opportunities to face opponents from different backgrounds and gain valuable international match experience. The historic tournament will unite soccer players from across the world, offering Guam’s players an opportunity to test their skills, experience different styles of play and build connections with teams from diverse football cultures. “This tournament represents a monumental milestone not just for these young men, but for the entire football community in Guåhan as we take part in the inaugural FIFA U15 World Cup and Festival,” said head coach Ross Awa.",
    "image": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/2/83/283fcce9-5d22-4124-b3fe-4f590137802f/6ad95e4cb8fad.image.jpg?crop=1200%2C630%2C0%2C484",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "INFOVATICANA",
@@ -18,8 +58,8 @@
    "link": "https://infovaticana.com/en/2026/10/22/de-la-fuente-offers-the-world-cup-to-the-virgin-of-pilar/",
    "lede": "The national football team coach, Luis de la Fuente, offered the World Cup to the Virgin of the Pillar last Monday, October 19, at the Basilica of Our Lady of the Pillar in Zaragoza. According to Iglesia en Aragón, De la Fuente carried the trophy for much of the visit and placed it at the feet of the patroness of the Hispanic world and of Aragon. The event was attended by the Archbishop of Zaragoza, Carlos Escribano, and the Dean of the Metropolitan Chapter, Juan Sebastián Teruel, as well as the president of the Royal Spanish Football Federation, Rafael Louzán, and other representatives of Spanish football. Hundreds of people followed the ceremony inside and outside the church, according to EWTN News.",
    "image": "https://infovaticana.com/wp-content/uploads/2026/10/De-la-Fuente-Zaragoza.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "FOOTBALL AUSTRALIA",
@@ -28,8 +68,8 @@
    "link": "https://footballaustralia.com.au/news/commbank-paramatildas-defeat-finland-10-0-advance-final-ifcpf-womens-world-cup-2026",
    "lede": "The CommBank ParaMatildas have defeated Finland 10-0 in the semi-final to advance to the final of the IFCPF Women’s World Cup 2026. Carly Salmon and Annmarie De Uriarte scored four apiece, while Tamsin Colley and Eloise Northam were also on the scoresheet. There was one change to the side that defeated the Netherlands in the final group stage game. Eloise Northam started, wearing the captain’s armband, while Leah Spaine started from the bench.",
    "image": "https://footballaustralia.com.au/sites/default/files/2026-10/PMat%20Cover.png",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE SPORTS EXAMINER",
@@ -38,46 +78,6 @@
    "link": "https://www.thesportsexaminer.com/football-report-states-los-angeles-area-hotels-suffered-during-the-2026-fifa-world-cup-with-june-occupancy-2-lower-than-in-2024/",
    "lede": "★ The Sports Examiner: Chronicling the key competitive, economic and political forces shaping elite sport and the Olympic Movement. ★ To get the daily Sports Examiner Recap by e-mail: sign up here! “Promoted as 104 Super Bowls in visitor demand – one for every match, 8 in Los Angeles alone – the World Cup instead delivered an ordinary, in many cases underperforming, summer for Los Angeles hotels, with weaker occupancy (the share of available hotel rooms that were sold) and reduced staffing across the city. Nearly three-quarters of responding hotels said their property significantly underperformed projections.”",
    "image": "https://www.thesportsexaminer.com/wp-content/uploads/2026/10/tsx-pix-2026-1021-hero-la-hotel-rpt-26-fifa-wcup.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "Costa Rica appoint former captain Ruiz as head coach",
-   "iso": "2026-10-21T23:51:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/costa-rica-appoint-former-captain-ruiz-as-head-coach",
-   "lede": "Soccer Football - FIFA World Cup Qatar 2022 - Costa Rica Press Conference - Main Media Center, Doha, Qatar - November 22, 2022 Costa Rica's Bryan Ruiz during the press conference REUTERS/John Sibley/File Photo. Oct 21 - Costa Rica have appointed former captain Bryan Ruiz as head coach to lead the national team's campaign to qualify for the 2030 World Cup, the Costa Rican Football Federation (FCRF) said on Wednesday. • Ruiz, 41, takes the job after two wins as interim coach, with Costa Rica beating Nicaragua 3-0 and Haiti 2-0 in the CONCACAF Nations League earlier this month. • He succeeds Argentine Fernando Batista, who was dismissed in September, while Costa Rica missed out on the 2026 World Cup under former coach Miguel Herrera.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d0d23d0406107d12456bb184a12ce13e453db7f7660e61234f4a8fd63dd08823?w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "TRIBALFOOTBALL",
-   "title": "Nigeria beat Puerto Rico to revive U17 World Cup hopes",
-   "iso": "2026-10-21T22:49:29.000Z",
-   "link": "https://www.tribalfootball.com/article/soccer-world-cup-women-u17-nigeria-beat-puerto-rico-to-revive-u17-world-cup-hopes-1c65135a-ec43-44eb-a3e8-adb99faad27c",
-   "lede": "Oluwakemi Adegbuyi broke the deadlock in the 25th minute before substitute Precious Oscar sealed the victory three minutes into stoppage time. The Flamingos dominated proceedings but struggled to convert several opportunities, with Queen Joseph, captain Chidera Chidi and Tosin Rafiu all failing to find the target. Adegbuyi also came close to doubling her tally, while Puerto Rico threatened through Mia Colon, Megan Rivera and Caroline Rivera. The victory revived Nigeria's qualification hopes following their 2-1 defeat to Poland.",
-   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/211dde44-e320-4e25-bdeb-923e35911de0.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Ballon d’Or 2026 power rankings: Who leads the race with a week until ceremony?",
-   "iso": "2026-10-21T22:09:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/ballon-dor-contenders-power-rankings-odds-lamine-yamal-kane-messi-mbappe-b3068991.html",
-   "lede": "Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or ahead of the ceremony on 25 October. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. The race for the Ballon d’Or is entering its final stretch as we enter the final week before the world’s best player is crowned in London.",
-   "image": "https://static.independent.co.uk/2026/10/05/16/34/Ballon-dOr.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "DW.COM",
-   "title": "Ronaldinho to make football comeback aged 46",
-   "iso": "2026-10-21T21:39:24.000Z",
-   "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950",
-   "lede": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year is to play in Italy’s third tier. While Lionel Messi and Cristiano Ronaldo are still playing at 39 and 41 respectively, most football fans thought Ronaldinho belonged to another footballing era. That all changed in June, when Italian Serie C club, Ravenna, announced that the former Barcelona, Paris Saint-Germain and AC Milan forward would play for them in the upcoming season.",
-   "image": "https://static.dw.com/image/78455489_6.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
