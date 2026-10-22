@@ -1,15 +1,75 @@
 {
- "updated": "2026-10-22T19:32:38.334Z",
+ "updated": "2026-10-22T21:28:02.879Z",
  "news": [
   {
+   "cat": "NINE.COM.AU",
+   "title": "Teen prodigy’s World Cup dream revived as Sydney FC move aside",
+   "iso": "2026-10-22T21:23:48.000Z",
+   "link": "https://www.nine.com.au/sport/football/news-sydney-fc-akol-akon-fifa-under-17s-world-cup-australia-duties-blocked-statement-20261023-p617sw.html",
+   "lede": "Akol Akon’s hopes of playing at the under-17s FIFA World Cup have been revived as Sydney FC and Football Australia came to an agreement on his availability. It was reported by a number of outlets on Wednesday the winger would not represent Australia next month as the Sky Blues had blocked him from doing so. Akol Akon is the youngest player to ever feature in an A-League grand final. Sydney FC’s decision was reportedly related to concerns about the squad’s depth as well as Akon’s position in cementing himself as a key figure in the senior team.",
+   "image": "https://static.ffx.io/images/$zoom_0.3099%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_66%2C$y_37/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f52ac97294520dd6b9ef4fa7721624a573d675ab",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "THE SUN",
+   "title": "Inaugural Fifa tournament confirmed with USA to host major football competition just months after World Cup",
+   "iso": "2026-10-22T21:11:15.000Z",
+   "link": "https://www.the-sun.com/sport/17193260/usa-host-inaugural-fifa-womens-club-world-cup/",
+   "lede": "THE USA has been confirmed as the host of the inaugural Women’s Club World Cup – and seven clubs have already qualified. The tournament will take place in January 2028 with 19 teams competing. Fifa announced the decision to stage the first edition in the United States on Thursday. The host cities and stadiums are yet to be confirmed, but Dame Sarai Bareman, Chief Women’s Football Officer at Fifa, claimed the nation was the best option.",
+   "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/10/crop-40780044.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "LIVESCORE",
+   "title": "FIFA launches bidding war for 2030 and 2034 World Cup media rights in the United States",
+   "iso": "2026-10-22T20:24:45.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/fifa-launches-bidding-war-for-2030-and-2034-world-cup-media-rights-in-the-united-states-goal/",
+   "lede": "FIFA has officially opened the bidding process for the United States television and streaming rights for the historic 2030 World Cup. World football's governing body is actively seeking innovative broadcasting approaches following a massive surge in American viewership during recent international tournaments.Bidding process begins for media rightsFIFA has officially launched an invitation to tender for the media broadcast rights to the 2030 World Cup. The available broadcasting packages cover extensive television and streaming coverage across both the United States and Puerto Rico. Interested parties also have a valuable option to secure the rights for the 2034 edition of the tournament.The bidding process arrives amid a rapidly shifting media landscape in global sports broadcasting.",
+   "image": "https://storage.lsmedia1.com/images/web/medium/news_article_default_image_3.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "ACLSPORTS",
+   "title": "FIFA U15 World Cup: Future Eagles arrive in Baku",
+   "iso": "2026-10-22T19:46:04.000Z",
+   "link": "https://www.aclsports.com/fifa-u15-world-cup-future-eagles-arrive-in-baku/",
+   "lede": "Nigeria U15 boys, also known as the Future Eagles, as well as their officials, have arrived in Baku, the capital city of Azerbaijan, on Thursday afternoon for the inaugural edition of the FIFA U15 World Cup and Festival, reports www.aclsports.com. The 14 players and six accompanying officials, led by Head Coach Patrick Bassey and Team Administrator Nasiru Jibril, departed Abuja on Wednesday night for Istanbul via Turkish Airlines before proceeding to Azerbaijan’s capital. Nigeria have been placed in Group AD of the tournament and will play against their counterparts from South Sudan, Jordan, The Gambia, Cyprus and Pakistan. They will face South Sudan on Saturday before coming up against Jordan and The Gambia on Sunday, and then Cyprus and Pakistan on Monday.",
+   "image": "https://www.aclsports.com/wp-content/uploads/2026/10/Nigeria-U15-e1792698346392.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "3NEWS",
+   "title": "FIFA increases 2027 Women’s World Cup preparation funding to $2.5m per team",
+   "iso": "2026-10-22T19:42:51.000Z",
+   "link": "https://3news.com/sports/fifa-increases-2027-womens-world-cup-preparation-funding-to-2-5m-per-team",
+   "lede": "FIFA has approved a new financial package for the 2027 Women’s World Cup, raising preparation funding to $2.5m (£1.9m) for each participating national football association ahead of the tournament in Brazil. The decision was taken by the Bureau of the FIFA Council following a council meeting in Zurich, Switzerland, on 15 October 2026. The revised distribution model will include prize money, preparation funds and payments through the FIFA Club Benefits Programme, while players at the women’s tournament will receive the same level of services provided to their male counterparts at the 2026 Men’s World Cup. FIFA also confirmed that any surplus generated by the competition will be shared among participating member associations, with a designated portion set aside for players.",
+   "image": "https://media.3news.com/images%20(78).jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "USA to host inaugural FIFA Women’s Club World Cup",
+   "iso": "2026-10-22T18:00:00.000Z",
+   "link": "https://sports.yahoo.com/articles/usa-host-inaugural-fifa-women-180000420.html",
+   "lede": "FIFA has confirmed that the United States will host the inaugural Women’s Club World Cup from January 5 to 30, 2028. FIFA Congress approved the 19-team competition in December 2025, but the tournamen... FIFA Congress approved the 19-team compet...",
+   "image": "https://s.yimg.com/lo/mysterio/api/84ec7b70c2011bc37907676232d0dabe94639967f41ff3cab84cc48fc65d05e2/lightyear_networkapi/resizefill_w1000_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_today_articles_719%2Fefad8f8c90177ef69a6399439ece7f22.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "BBC",
-   "title": "US to host first Women's Club World Cup in 2028",
+   "title": "Women's Club World Cup: United States to host inaugural edition in 2028",
    "iso": "2026-10-22T17:49:08.000Z",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r7wgp9q0o",
    "lede": "The US is also set to co-host the Women's World Cup in 2031. The United States will host the inaugural Women's Club World Cup in January 2028, Fifa has confirmed. Arsenal have been named as one of seven teams set to play in the tournament, with a further 12 clubs to be determined at a later date. The 19-team tournament, designed to echo the revamped men's Club World Cup and take place every four years, is scheduled from 5-30 January 2028.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5b69/live/4a4ccc70-ce3d-11f1-a86f-f78305ec9987.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -18,66 +78,6 @@
    "link": "https://www.moroccoworldnews.com/2026/10/343403/united-states-to-host-first-fifa-womens-club-world-cup-in-2028/",
    "lede": "Casablanca - FIFA has chosen the United States to host the inaugural Women's Club World Cup, which will bring together 19 clubs from six continental confederations between January 5 and 30, 2028. The decision, announced on Thursday by the Bureau of the FIFA Council, gives the US another major international football competition following the expanded men's Club World Cup in 2025 and the 2026 FIFA World Cup, which it co-hosted with Mexico and Canada. The tournament will take place every four years and offer women's clubs an opportunity to compete for a world title. FIFA's Chief Women's Football Officer, Sarai Bareman, explained that the governing body selected the US after evaluating potential hosts.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-17.20.32.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Fifa increases preparation money for Women’s World Cup to match men’s teams",
-   "iso": "2026-10-22T17:26:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/oct/22/fifa-increase-funds-2027-womens-world-cup-teams",
-   "lede": "Funds for 2027 will match men’s World Cup in 2026. Players given better flights and individual hotel rooms. Teams in the 2027’s Women’s World Cup in Brazil will receive the same preparation money from Fifa as those that played at the 2026 men’s tournament, the world’s governing body has announced. The preparation money for the 32 teams has been more than doubled to $2.5m (£1.86m) each.",
-   "image": "https://i.guim.co.uk/img/media/87151aa53e63f5f6489d72a4dd36d07235b22477/410_0_4086_3270/master/4086.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0150d8da48180bc66b9af3db20f39cb",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "AFRICA TOP SPORTS",
-   "title": "FIFA Approves $2.5m Preparation Fund for Women’s World Cup Teams, Names USA 2028 Club World Cup Host",
-   "iso": "2026-10-22T17:16:23.000Z",
-   "link": "https://en.africatopsports.com/fifa-approves-2-5m-preparation-fund-for-womens-world-cup-teams-names-usa-2028-club-world-cup-host/",
-   "lede": "The Fédération Internationale de Football Association (FIFA) has approved a new financial distribution model for the 2027 FIFA Women’s World Cup, increasing preparation funding for participating countries to $2.5 million per team while committing to improved support for players. The decision was among several major resolutions reached by the Bureau of the FIFA Council following the Council’s meeting in Zurich, Switzerland, on October 15, 2026. Under the approved framework, funding for the women’s tournament in Brazil in 2027 will comprise prize money, preparation funding and allocations through FIFA’s Club Benefits Programme. The move is expected to strengthen preparations for the competition and provide participating member associations with additional resources to support their teams ahead of the global tournament.",
-   "image": "https://en.africatopsports.com/wp-content/uploads/2026/10/HVP4jJAWAAEk1UF.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "SPORTSTAR",
-   "title": "FIFA World Cup media rights — Tender process begins for USA-Puerto rights WC 2030 and 2034",
-   "iso": "2026-10-22T17:13:40.000Z",
-   "link": "https://sportstar.thehindu.com/football/fifa-world-cup-media-rights-soccer-wc-2030-2034-for-usa-puerto-rico-tender-process-begins/article71613097.ece",
-   "lede": "Reuters Reuters https://ss-i.thgim.com/public/incoming/itjnm0/article71613141.ece/alternates/FREE_1200/Spain%20World%20Cup.jpg FIFA is looking for a broadcaster for the next two World Cups who can reach large audiences through new approaches, with the bid submission deadline set on November 19. Chennai FIFA has opened the tender process for the media rights of the 2030 FIFA World Cup and a further option to secure the 2034 edition. This is exclusively for the United States and Puerto Rico. On Thursday, FIFA said in a press release, it is looking for a broadcaster that can reach large audiences through innovative approaches as well as be able to contribute revenues to the benefit of football, with the deadline for submission of bids set on November 19.",
-   "image": "https://ss-i.thgim.com/public/incoming/itjnm0/article71613141.ece/alternates/LANDSCAPE_1200/Spain%20World%20Cup.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "RFI",
-   "title": "USA to host women's football Club World Cup in 2028 - FIFA",
-   "iso": "2026-10-22T16:37:32.000Z",
-   "link": "https://www.rfi.fr/en/sports/20261022-usa-to-host-women-s-football-club-world-cup-in-2028-fifa",
-   "lede": "Paris (France) (AFP) – The United States will host the inaugural women's football Club World Cup in 2028, FIFA announced Thursday. \"The decision was taken in view of its experience in organising FIFA tournaments, the maturity of its infrastructure and services and the level of stakeholder interest in women's football in the country,\" world football's governing body said. The US has a proven track record of staging large sporting events, notably co-hosting the men's World Cup earlier this year. The first-ever women's Club World Cup will be staged from January 5-30, 2028.",
-   "image": "https://s.rfi.fr/media/display/e04494e4-ce36-11f1-983f-3f59e19fd7f8/w:1280/p:16x9/e29e8a750ffc0ea44683d6abb1271eec37781ba7.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-   "iso": "2026-10-22T16:35:09.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup",
-   "lede": "‘I have not given my own position any thought’, Carrick said after United’s 4-1 loss to Como in the Champions League. China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold. Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics. The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya’s mayor to apologise.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-05-23T185822Z_1179919417_UP1EM5N1GP9MP_RTRMADP_3_SOCCER-CHAMPIONS-BAR-OL-1792686225.jpg?resize=1920%2C1440",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Soccer-FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico",
-   "iso": "2026-10-22T16:22:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/10/23/soccer-fifa-opens-bidding-for-2030-and-2034-world-cup-media-rights-covering-us-and-puerto-rico",
-   "lede": "Oct 22 (Reuters) - FIFA ⁠launched an invitation to tender on Thursday ⁠for media rights in the United States ‌and Puerto Rico for the 2030 World Cup along with an option to secure the 2034 edition. FIFA said in ​a press release that it ⁠isopen to \"innovative approaches\" ⁠to reach large audiences and that the bid submission ⁠deadline ‌is November 19. Fox held the exclusive English-language broadcast rights in the United ⁠States for the 2026 World Cup co-hosted ​by the ‌US, Canada and Mexico whileTelemundo held the ⁠Spanish language ​rights. Spain, which won the 2026 World Cup, will co-host the 2030 edition with Portugal and Morocco, ⁠although Argentina, Paraguay and Uruguay will ​stage inaugural matches marking the tournament's 100th anniversary.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/23/4175937.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
