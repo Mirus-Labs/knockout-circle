@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-23T18:58:21.793Z",
+ "updated": "2026-10-23T19:59:33.055Z",
  "news": [
+  {
+   "cat": "DAILY TRIBUNE",
+   "title": "Phl kicks off historic U15 FIFA World Cup bid",
+   "iso": "2026-10-23T19:07:32.000Z",
+   "link": "https://tribune.net.ph/2026/10/23/phl-kicks-off-historic-u15-fifa-world-cup-bid",
+   "lede": "DT·24 October 2026 · 2:32 AM PHT·2 MIN READ. THE national men’s football team of Jonas Oliverio, Enrique Fernandez, Jordan Tan, Keanefred Versales, Matthew Zamora, Carlo Rendon, Juan Carlo Morales, Zhian Enario, Josef Peña, Nathan Caligdong, Micah Alva, and Dan Becera is expected to go all out when it competes in the FIFA U15 World Cup & Festival in Azerbaijan. The Philippine Men’s National Football Team (PMNFT) steps onto the Hovsan Competition Complex in Baku, Azerbaijan to open its campaign against Morocco in the inaugural FIFA U15 World Cup and Festival on Saturday. The roster showcases a wide talent pool spanning from Luzon and the Visayas to North America and Europe, with Jordan Tan of Makati FC and Keanefred Cristiane Versales of De La Salle-Zobel guiding the backline in goal.",
+   "image": "https://images.assettype.com/tribune/2026-10-23/v8n3oe3b/national-mens-football-team.jpg?w=1200&auto=format&q=70&rect=0%2C38%2C1206%2C678&h=675&fit=crop",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SKY SPORTS",
    "title": "Rugby League World Cup: Mikey Lewis on bench as England squad named for clash vs France after opening defeat",
@@ -8,8 +18,8 @@
    "link": "https://www.skysports.com/rugby-league/news/13601200/rugby-league-world-cup-mikey-lewis-on-bench-as-england-unchanged-for-clash-vs-france-despite-opening-defeat",
    "lede": "England head coach Brian McDermott has made one change to his 19-man squad for Saturday's Rugby League World Cup match against France. AJ Brimson retains the job at full-back with Jack Welsby again named as an interchange, while Luke Thompson starts at prop in the absence of Morgan Knowles, who suffered an injury in the lead-up to the opening-game defeat to Tonga. Veteran centre Kallum Watkins is listed among the reserves as he chases a cap at his fourth World Cup, while Mikey Lewis returns to the bench after missing out on a place in the squad last time out. As per World Cup rules, each side is able to name a six-player bench in each game, but only four of the six players named can be brought on.",
    "image": "https://e0.365dm.com/26/10/1600x900/skysports-mikey-lewis-england_7375628.jpg?20261020074329",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -18,8 +28,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/10/24/how-to-watch-new-zealand-play-germany-at-fifa-u-17-womens-world-cup-2-2/",
    "lede": "New Zealand’s group match against Germany at the FIFA U-17 Women’s World Cup will be streamed live and free on Saturday morning. The match, which kicks off in Morocco at 7am (NZT), will be shown on the TVNZ+ digital platform. To watch the game, follow the link below:. Game to be played on Saturday October 24, 2026.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2023/06/Broadcast-television-glenn-carstens-peters-EOQhsfFBhRk-unsplash.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -28,8 +38,26 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-fifa-president-who-supports-election-votes-b3072142.html",
    "lede": "Infantino needs to reach the magic number of 106 votes to secure re-election next March. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Gianni Infantino is facing a battle to cling onto his Fifa presidency heading into next year’s election after his botched bid to sell off stakes in the World Cup to private investors resulted in a significant loss in support.",
    "image": "https://static.independent.co.uk/2026/08/05/08/01KZ79CQMW08G0QPSY0DR6B3KF.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Fantasy football injury report: All eyes on Puka Nacua’s calf injury",
+   "iso": "2026-10-23T18:59:29.000Z",
+   "link": "https://www.nytimes.com/athletic/7715203/2026/10/23/fantasy-football-injury-report-streamers-pivots-week-7/",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Tom McKibbin will leave LIV Golf and head back to DP World Tour for 2027",
+   "iso": "2026-10-23T18:49:23.000Z",
+   "link": "https://www.nytimes.com/athletic/7672251/2026/10/23/liv-golf-tom-mckibbin-player-exit/",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -37,41 +65,14 @@
    "iso": "2026-10-23T17:25:49.000Z",
    "link": "https://www.nytimes.com/athletic/7717783/2026/10/23/bengals-vs-ravens-stream-how-to-watch-oct-25/",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "On heels of spirited final, U.S. Open Cup’s future can become more robust",
    "iso": "2026-10-23T17:16:54.000Z",
    "link": "https://www.nytimes.com/athletic/7715981/2026/10/23/us-open-cup-future-mls-teams/",
-   "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "How to watch Rays vs. Brewers: World Series Game 1 TV channel and streaming options for October 23",
-   "iso": "2026-10-23T17:12:15.000Z",
-   "link": "https://www.nytimes.com/athletic/7717738/2026/10/23/rays-vs-brewers-stream-how-to-watch-oct-23/",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DAZN",
-   "title": "Brazil vs. Norway: How to watch FIFA U-17 Women's World Cup on DAZN, date, kick-off times, prediction",
-   "iso": "2026-10-23T16:30:00.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/brazil-vs-norway-fifa-u-17-world-cup-2026-how-to-watch-dazn-date-kick-off-times-preview/vobctn3htgw213u5w6uz4r637",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Are fans interested in watching a Brewers-Rays World Series? Here’s what you said",
-   "iso": "2026-10-23T16:04:01.000Z",
-   "link": "https://www.nytimes.com/athletic/7715569/2026/10/23/world-series-2026-rays-brewers-mlb-survey/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
