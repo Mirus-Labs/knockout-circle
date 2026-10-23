@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-23T00:06:38.147Z",
+ "updated": "2026-10-23T01:02:19.758Z",
  "news": [
+  {
+   "cat": "NINE.COM.AU",
+   "title": "Sydney FC coach blasts ‘nonsense’ as teen’s World Cup tug-of-war resolved",
+   "iso": "2026-10-23T00:22:02.000Z",
+   "link": "https://www.nine.com.au/sport/football/news-sydney-fc-akol-akon-fifa-under-17s-world-cup-australia-duties-blocked-statement-20261023-p617sw.html",
+   "lede": "Updated October 23, 2026 - 12.14am. First published October 22, 2026 - 9.23pm. Sydney FC coach Patrick Kisnorbo was left furious by the commentary around Akol Akon’s international availability after the club confirmed the young star would be released to play at the under-17s FIFA World Cup if selected. It was reported by a number of outlets on Wednesday the winger would not represent Australia next month as the Sky Blues had blocked him from doing so.",
+   "image": "https://static.ffx.io/images/$zoom_0.3099%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_69%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f52ac97294520dd6b9ef4fa7721624a573d675ab",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "CAFONLINE.COM",
    "title": "Inside new Morocco’s Mohammed VI Football Complex hosting the 2026 U-17 Women’s World Cup",
@@ -8,16 +18,6 @@
    "link": "https://www.cafonline.com/womens-football/news/inside-new-morocco-s-mohammed-vi-football-complex-hosting-the-2026-u-17-women-s-world-cup/",
    "lede": "Four pitches, a centralised tournament format and a growing commitment to women’s football place Rabat at the heart of the 2026 FIFA U-17 Women’s World Cup. When the world’s emerging female football stars arrive in Morocco for the 2026 FIFA U-17 Women’s World Cup, they will compete for more than a trophy. They will step into a unique football environment designed to bring the game closer to supporters, create a showcase for young talent and underline Morocco’s growing ambitions as an international sporting destination. At the centre of that vision is Rabat’s Mohammed VI Football Complex, which will host matches from the opening round through the semi-finals across four pitches.",
    "image": "https://www.cafonline.com//media/bpldehqt/2300691215.jpg?width=1200",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Ballon d’Or 2026: Predicted Top 10",
-   "iso": "2026-10-22T22:15:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/bayern-munich-records-and-achievements/270858/ballon-dor-2026-predicted-top-10-bayern-municvh-kane-fc-barcelona-yamal-real-madrid-mbappe-manchester-city-psg",
-   "lede": "The prestigious 2026 Ballon d’Or will be awarded on the 26th of October. Its winner is set to join the best of the best players to have won the award. Several players are actively making a case for themselves, signaling to the voters and the public that they deserve the honor. An evaluation of the statistics for all the male nominees of the Ballon d’Or allows for a direct comparison.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-159065285.jpg?quality=90&strip=all&crop=0%2C9.9440579502259%2C100%2C80.111884099548&w=1200",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,12 +32,12 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "NINE.COM.AU",
-   "title": "Teen prodigy’s World Cup dream revived as Sydney FC move aside",
-   "iso": "2026-10-22T21:23:48.000Z",
-   "link": "https://www.nine.com.au/sport/football/news-sydney-fc-akol-akon-fifa-under-17s-world-cup-australia-duties-blocked-statement-20261023-p617sw.html",
-   "lede": "Akol Akon’s hopes of playing at the under-17s FIFA World Cup have been revived as Sydney FC and Football Australia came to an agreement on his availability. It was reported by a number of outlets on Wednesday the winger would not represent Australia next month as the Sky Blues had blocked him from doing so. Akol Akon is the youngest player to ever feature in an A-League grand final. Sydney FC’s decision was reportedly related to concerns about the squad’s depth as well as Akon’s position in cementing himself as a key figure in the senior team.",
-   "image": "https://static.ffx.io/images/$zoom_0.3099%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_66%2C$y_37/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/f52ac97294520dd6b9ef4fa7721624a573d675ab",
+   "cat": "FOOTBALLTRANSFERS.COM",
+   "title": "Arsenal get message from dream signing as World Cup winner lined up for transfer: FT Recap",
+   "iso": "2026-10-22T21:02:00.000Z",
+   "link": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/arsenal-message-dream-signing-world-cup-winner-lined-up-transfer-ft-recap",
+   "lede": "Find out the biggest stories today on FootballTransfers as Manchester United deal with turmoil and Arsenal express interest in a World Cup winner. Arsenal are targeting a potential January transfer for Atletico Madrid’s World Cup-winning winger Alex Baena, FootballTransfers can reveal. Celtic have begun planning for the January transfer window in order to back Martin O’Neill and ensure they defend their Scottish Premiership title after tense run of form. Chelsea are among the clubs said to be ‘hot on the trail’ of Nico Paz, with the Como wonderkid being thrust into the limelight after an impressive display against Manchester United in the Champions League.",
+   "image": "https://static.footballtransfers.com/images/cf/image/upload/3359ab81-8f40-48bc-63f0-0ddd931f2700/q=75,w=1200,format=auto",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -62,12 +62,11 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "3NEWS",
-   "title": "FIFA increases 2027 Women’s World Cup preparation funding to $2.5m per team",
-   "iso": "2026-10-22T19:42:51.000Z",
-   "link": "https://3news.com/sports/fifa-increases-2027-womens-world-cup-preparation-funding-to-2-5m-per-team",
-   "lede": "FIFA has approved a new financial package for the 2027 Women’s World Cup, raising preparation funding to $2.5m (£1.9m) for each participating national football association ahead of the tournament in Brazil. The decision was taken by the Bureau of the FIFA Council following a council meeting in Zurich, Switzerland, on 15 October 2026. The revised distribution model will include prize money, preparation funds and payments through the FIFA Club Benefits Programme, while players at the women’s tournament will receive the same level of services provided to their male counterparts at the 2026 Men’s World Cup. FIFA also confirmed that any surplus generated by the competition will be shared among participating member associations, with a designated portion set aside for players.",
-   "image": "https://media.3news.com/images%20(78).jpg",
+   "cat": "TEMPO.CO ENGLISH",
+   "title": "US to Host Inaugural Women's Club World Cup in 2028",
+   "iso": "2026-10-23T00:24:41.000Z",
+   "link": "https://en.tempo.co/read/2122166/us-to-host-inaugural-womens-club-world-cup-in-2028",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
