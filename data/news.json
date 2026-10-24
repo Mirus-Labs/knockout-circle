@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:32:01.903Z",
+ "updated": "2026-10-24T01:38:47.318Z",
  "news": [
   {
    "cat": "SKY SPORTS",
@@ -71,11 +71,12 @@
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Jacob Misiorowski sets World Series velocity record with first pitch of Game 1",
-   "iso": "2026-10-24T00:22:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7718583/2026/10/23/world-series-brewers-jacob-misiorowski-velocity-record/",
-   "lede": "",
+   "cat": "TALKSPORT",
+   "title": "Ronaldinho to play first match in 11 years at age 46 for Serie C side",
+   "iso": "2026-10-23T18:08:56.000Z",
+   "link": "https://talksport.com/football/4664052/ronaldinho-first-match-retirement-ravenna-serie-c-debut/",
+   "lede": "The World Cup and Ballon d'Or winner will don his boots again, aged 46, in his team's derby against Forlì on November 15. Ronaldinho, who is a minority owner at Stadio Bruno Benelli, was announced to have signed with the club as a player this summer. Ravenna have now confirmed the move wasn't a publicity stunt, as the Barcelona icon will indeed return to the pitch next month. \"[It is] an event set to turn the world's gaze toward the Stadio Bruno Benelli,\" Ravenna said in a statement.",
+   "image": "https://talksport.com/wp-content/uploads/2026/10/crop-4664065.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
