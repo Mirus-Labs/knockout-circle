@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:47:40.961Z",
+ "updated": "2026-10-24T23:20:11.225Z",
  "news": [
   {
    "cat": "CAFONLINE.COM",
@@ -12,14 +12,24 @@
    "bg": "#1d6f42"
   },
   {
+   "cat": "DAILY TRIBUNE",
+   "title": "Filipinas face new challenge in NZ return",
+   "iso": "2026-10-24T20:15:08.000Z",
+   "link": "https://tribune.net.ph/2026/10/24/filipinas-face-new-challenge-in-nz-return",
+   "lede": "Ivan Suing·25 October 2026 · 1:18 AM PHT·2 MIN READ. KATRINA Guillou and the Filipinas are making a return to Wellington armed with a mission of getting better for the FIFA Women’s World Cup next year in Brazil. Filipinas head coach Mark Torcaso is looking forward to testing his squad against New Zealand, believing that the two-game friendly series will provide them valuable preparation for the upcoming FIFA Women’s World Cup campaign. The Filipinas will face the Football Ferns in Wellington on 29 November and 4 December, with Torcaso expecting a tough challenge against the Oceania side.",
+   "image": "https://images.assettype.com/tribune/2026-10-24/j52wljvj/KATRINA-Guillou.jpeg?w=1200&auto=format&q=70&rect=0%2C112%2C1600%2C900&h=675&fit=crop",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "SKY SPORTS",
    "title": "Rugby League World Cup 2026: England 'not thinking about points difference' before France game, says Brad O'Neill",
    "iso": "2026-10-24T19:33:43.000Z",
    "link": "https://www.skysports.com/rugby-league/news/13601940/rugby-league-world-cup-2026-england-not-thinking-about-points-difference-before-france-game-says-brad-oneill",
    "lede": "England hooker Brad O'Neill says his side will resist the urge to go for broke when they face France in their second Rugby League World Cup match in Perth on Saturday. An opening 30-12 defeat to Tonga has left their hopes of reaching the semi-finals hanging by a thread, with points difference looking increasingly like the only way to progress. But head coach Brian McDermott has named an unchanged 19-man matchday squad, a sign that he does not plan radical changes against a France team smarting from their 78-4 humbling by Samoa. What did we learn from England in the first round of RLWC 2026?",
    "image": "https://e0.365dm.com/26/10/1600x900/skysports-rugby-league-brad-oneill_7382960.jpg?20261021161757",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "MALTAFOOTBALL.COM",
@@ -28,8 +38,8 @@
    "link": "https://www.maltafootball.com/2026/10/24/fifa-u15-world-cup-malta-lose-to-kenya-in-opening-match/",
    "lede": "Malta lost 2-6 to Kenya in the first match from the FIFA U15 World Cup & Festival being held at the Hovsan Competition Complex in Azerbaijan. Kenya took the lead thanks to Innocent Media on 5 minutes and Lewis Wafula doubled the score three minutes later. An own goal extended the lead for the African side on 15 minutes and Duncan Muyah made it 4-0. Malta hit back with two penalties by Declan Zammit on 25 minutes and Enzo De Freitas on 29 minutes but Kenya added another two goals thanks to Silas Juma on 32 minutes and Muyah four minutes later.",
    "image": "https://www.maltafootball.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-13.20.26.png",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "UA.NEWS",
@@ -38,8 +48,8 @@
    "link": "https://ua.news/en/sport/infantino-zaiaviv-pro-pidtrimku-bilshosti-futbolnogo-svitu-anadolu-agency",
    "lede": "After the FIFA Council meeting held on October 15 in Zurich, Switzerland, the organization’s president Gianni Infantino said he has the backing of the “vast, vast majority” of the football world. In an interview with BBC Sport, he also dismissed questions about a possible resignation after the withdrawal of a controversial proposal to transfer part of FIFA’s commercial rights to a private investment firm. Infantino said that disagreements in world football are normal, but after discussing different positions, it is necessary to move on. Calls for his resignation intensified two months ago amid the dispute over the FIFA Forward Enterprise project.",
    "image": "https://cdn-cabinet.ua.news/uploads/images/infantino_says_he_has_support_of_world_f_1792858511480.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "APA.AZ",
@@ -48,8 +58,8 @@
    "link": "https://en.apa.az/football/azerbaijan-u-15-national-football-team-makes-flying-start-at-world-cup-in-baku-532017",
    "lede": "The Azerbaijan U-15 national football team opened the FIFA U-15 World Cup and Festival in Baku in a commanding fashion as they beat Timor-Leste 6–0 on Saturday, APA reports. Azerbaijan took complete control of the match, with double strikes from Mushfig Zamanov and Hasan Mahmadov setting the tone before Yusif Alizada and Asif Allahverdizada also found the net to cap off a flawless opening performance at the Baky Crystal Hall. The national team will play their next match against Andorra on October 24. The first matches of the tournament kicked off on October 23.",
    "image": "https://en.apa.az/storage/news/2026/october/24/big/6adcfc9bd034b6adcfc9bd034c17928674836adcfc9bd03496adcfc9bd034a.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ONEFOOTBALL",
@@ -58,26 +68,15 @@
    "link": "https://onefootball.com/en/news/morocco-approves-world-cup-2030-tax-breaks-for-fifa-and-football-bodies-43665466",
    "lede": "U17 Women's World Cup: Germany first to qualify for knockout stages after wins over Argentina and hosts Morocco. Brazil beat Norway to reach U17 Women's World Cup knockouts unbeaten. Brazil U15s thrash Guinea-Bissau 8-0 in World Cup opener. Brazil v Norway: first-ever clash for top spot in U17 World Cup Group C.",
    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43665466%3Fdate=2026-10-24",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Every country opposing and backing Infantino in Fifa president re-election bid",
-   "iso": "2026-10-24T13:26:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-fifa-president-who-supports-election-votes-b3072695.html",
-   "lede": "Infantino needs to reach the magic number of 106 votes to secure re-election next March. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Gianni Infantino is facing a battle to cling onto his Fifa presidency heading into next year’s election after his botched bid to sell off stakes in the World Cup to private investors resulted in a significant loss in support.",
-   "image": "https://static.independent.co.uk/2026/10/24/14/2026-09-27T193206Z_2044747429_UP1EM9R1I9HP8_RTRMADP_3_SOCCER-WORLDCUPU20-ESP-PRK.JPG?trim=22,0,22,0&width=1200&height=800&crop=1200:800",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "BERNEWS",
-   "title": "Bermuda Win Opening Game In U15 World Cup",
-   "iso": "2026-10-24T18:56:15.000Z",
-   "link": "https://bernews.com/2026/10/bermuda-win-opening-game-u15-world-cup/",
-   "lede": "Bermuda’s under-15 boys’ football team made an outstanding showing to open their FIFA U-15 World Cup campaign with a commanding 5-0 victory over the British Virgin Islands in Azerbaijan. Five different players found the net for Bermuda in the Group AC match on Pitch 7A at the Hövsan Competition Complex, as the young Gombey Warriors &hellip;.",
-   "image": "https://cloudfront.bernews.com/wp-content/uploads/2026/10/U15-Soccer-MBB-generic-3767240-Option-4-XFB.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Texas Tech’s $40M roster, offseason QB drama no match for unranked Cincinnati",
+   "iso": "2026-10-24T22:39:21.000Z",
+   "link": "https://www.nytimes.com/athletic/7720817/2026/10/24/texas-tech-football-cincinnati-score-results/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
