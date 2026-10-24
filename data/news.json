@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-24T09:34:02.672Z",
+ "updated": "2026-10-24T11:40:02.655Z",
  "news": [
+  {
+   "cat": "BBC",
+   "title": "Gianni Infantino: Fifa president says he is backed by 'vast majority' in world football",
+   "iso": "2026-10-24T10:30:08.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o",
+   "lede": "Infantino laughs off resignation questions. Fifa president Gianni Infantino insists he has the backing of the \"vast, vast majority\" of world football, as he laughed off questions about whether he had considered resigning over the World Cup sell-off debacle. In a rare interview, he struck a defiant tone to BBC Sport about his own position in the wake of the controversial Fifa Forward Enterprise (FFE) proposal, and said it was not always easy to bring different points of view \"under one roof\". \"There is nothing bad in disagreeing,\" he said.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "PHILIPPINE FOOTBALL FEDERATION",
+   "title": "PH debuts in FIFA U15 World Cup vs Morocco",
+   "iso": "2026-10-24T10:20:56.000Z",
+   "link": "https://pff.org.ph/ph-debuts-in-fifa-u15-world-cup-vs-morocco/",
+   "lede": "BAKU – The Philippine Under-15 Men’s National Football Team (PMNFT U15) debuted in the inaugural FIFA U15 World Cup & Festival, 0-2, versus African power Morocco at Pitch 7B of the Hövsan Competition Complex. The tournament is the first global competition FIFA has held in the 8v8 format. It brings together the youth national teams of 189 member associations from six confederations, making it the largest FIFA tournament ever in terms of participation. It gives young players from many countries a chance to meet and to show the different ways the game is played around the world.",
+   "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "RESULTS: Saturday’s winners, scorers and latest league tables",
@@ -8,8 +28,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/10/24/results-saturdays-winners-scorers-and-latest-league-tables-106/",
    "lede": "Here’s Saturday’s round-up of top football results, with scorers and updated tables … and all on one page. We update this page as information becomes available. Please check for updates. Games played on Saturday October 24, 2026.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2024/01/Results-Roundup2.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SPORTSTAR",
@@ -18,65 +38,43 @@
    "link": "https://sportstar.thehindu.com/football/indian-football/fifa-u15-world-cup-india-laos-score-highlights/article71619337.ece",
    "lede": "AIFF media AIFF media https://ss-i.thgim.com/public/incoming/ftuud/article71619483.ece/alternates/FREE_1200/india%20real%20world%20cup.png Chennai Macdonnish Ngairangbam opened the scoring for the Blue Colts in the seventh minute before R Lalremruatfela doubled their adavantage in the 11th minute. India began its FIFA Under-15 World Cup campaign with a 4-2 win over Laos in Azerbaijan on Saturday. Bibiano Fernandes’ Blue Colts made a bright start on Saturday morning and created two chances in the opening four minutes. A powerful left-footed effort from inside the box by Deepak Singh Arambam was pushed away by the Laos goalkeeper Anousith Souksavanh in the third minute, before Macdonnish was denied by the advancing custodian a minute later.",
    "image": "https://ss-i.thgim.com/public/incoming/ftuud/article71619483.ece/alternates/LANDSCAPE_1200/india%20real%20world%20cup.png",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Rugby League World Cup 2026: Schedule, dates, format, results from men's, women's, and wheelchair tournaments",
-   "iso": "2026-10-24T06:21:29.000Z",
-   "link": "https://www.skysports.com/rugby-league/news/13598071/rugby-league-world-cup-2026-schedule-dates-format-results-from-mens-womens-and-wheelchair-tournaments",
-   "lede": "Latest scores and results from the 2026 Rugby League World Cup, with Australia, New Zealand, and Papua New Guinea playing host to the men's, women's and wheelchair tournaments. In the men's and women's tournaments, Australia are the defending champions, while England currently hold the title of world champions in the wheelchair competition. The men's match got the World Cup under way on Thursday October 15, as Australia pulled off a thrilling 24-22 win over New Zealand. Latest Rugby League World Cup news, reports Get Sky Sports or stream contract-free on NOW Choose the Sky Sports notifications you want England men suffered a tough opening 30-12 loss against Tonga but bounced back to thrash France 82-0 and earn their first points of the tournament.",
-   "image": "https://e0.365dm.com/26/10/1600x900/skysports-rugby-league-world-cup_7376637.jpg?20261014103256",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "SKY SPORTS",
-   "title": "Rugby League World Cup: Mikey Lewis on bench as England squad named for clash vs France after opening defeat",
-   "iso": "2026-10-23T21:43:21.000Z",
-   "link": "https://www.skysports.com/rugby-league/news/13601200/rugby-league-world-cup-mikey-lewis-on-bench-as-england-unchanged-for-clash-vs-france-despite-opening-defeat",
-   "lede": "England head coach Brian McDermott has made one change to his 19-man squad for Saturday's Rugby League World Cup match against France. AJ Brimson retains the job at full-back with Jack Welsby again named as an interchange, while Luke Thompson starts at prop in the absence of Morgan Knowles, who suffered an injury in the lead-up to the opening-game defeat to Tonga. Veteran centre Kallum Watkins is listed among the reserves as he chases a cap at his fourth World Cup, while Mikey Lewis returns to the bench after missing out on a place in the squad last time out. As per World Cup rules, each side is able to name a six-player bench in each game, but only four of the six players named can be brought on.",
-   "image": "https://e0.365dm.com/26/10/1600x900/skysports-mikey-lewis-england_7375628.jpg?20261020074329",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "ALL INDIA FOOTBALL FEDERATION",
-   "title": "India begin FIFA U15 World Cup & Festival with win over Laos",
-   "iso": "2026-10-24T07:43:19.000Z",
-   "link": "https://www.the-aiff.com/article/india-begin-fifa-u15-world-cup-festival-with-win-over-laos",
-   "lede": "",
+   "cat": "REDIFF",
+   "title": "Ronaldinho's surprise return to football with Italian club Ravenna",
+   "iso": "2026-10-24T04:40:45.000Z",
+   "link": "https://www.rediff.com/sports/report/ronaldinho-surprise-return-to-football-with-italian-club-ravenna/20261024.htm",
+   "lede": "Brazils football icon Ronaldinho, a World Cup winner and Ballon dOr recipient, is set to make a sensational return to competitive football at the age of 46, joining Italian third-tier club Ravenna for a match against Forli on November 15. IMAGE: Ravenna signed Ronaldinho in June and he later acquired a stake in the club, which is owned by his friend Ignazio Cipriani. Photograph: Ciro De Luca/ReutersKey PointsBrazil legend Ronaldinho, 46, will return to competitive football on November 15 for Italian third-tier side Ravenna.He will play against local rivals Forli, marking his first competitive match since 2015. Ronaldinho, who officially retired in 2018, won the 2002 World Cup and the 2005 Ballon dOr.He acquired a stake in Ravenna, owned by his friend Ignazio Cipriani, with the aim of engaging the city with the team.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/oct/24ronaldinho1.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "小豆島町",
-   "title": "~$!【France vs England】 Rugby League World Cup 2026 Live 𝐒𝐭𝐫𝐞𝐚𝐦 HS Football",
-   "iso": "2026-10-24T06:39:05.000Z",
-   "link": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-rugby-league-world-cup-2026-match-lie-fcahdwo",
-   "lede": "Virtual tour generated by Panotour.",
-   "image": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349data/thumbnail.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Gianni Infantino says ‘vast majority’ of football back him, but talks with UEFA needed",
+   "iso": "2026-10-24T10:30:01.000Z",
+   "link": "https://www.nytimes.com/athletic/7719694/2026/10/24/gianni-infantino-fifa-president-support-uefa/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "FOOTBALL360.COM.AU",
-   "title": "Former Matildas boss makes shock exit just eight months before World Cup after guiding world no.16 to qualification",
-   "iso": "2026-10-24T06:33:45.000Z",
-   "link": "https://football360.com.au/ante-milicic-china-coach-exit-2027-womens-world-cup/",
-   "lede": "Former Matildas coach Ante Milicic has departed China's national team just eight months before the 2027 FIFA Women's World Cup in Brazil.",
-   "image": "https://football360.com.au/wp-content/uploads/2026/02/CHN-Ante-Milicic-e1779148166776.webp",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Houston rolls out an old-school, candy-red Cadillac. It’s college football pageantry done right",
+   "iso": "2026-10-24T10:00:56.000Z",
+   "link": "https://www.nytimes.com/athletic/7718443/2026/10/24/houston-college-football-slab-cadillac-pageantry/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "小豆島町",
-   "title": "[Rugby World Cup] England vs. France Live Broadcast",
-   "iso": "2026-10-24T06:33:37.000Z",
-   "link": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL1B5ZHJ0cy5naXRodWIuaW8vY2JzdHYvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-france-vs-england-li-match-55612",
-   "lede": "Virtual tour generated by Panotour.",
-   "image": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349data/thumbnail.jpg",
+   "cat": "SPORTSDESK",
+   "title": "Malta beaten by Kenya in FIFA U-15 World Cup opener",
+   "iso": "2026-10-24T09:51:27.000Z",
+   "link": "https://sport.timesofmalta.com/2026/10/24/malta-beaten-by-kenya-in-fifa-u-15-world-cup-opener/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
