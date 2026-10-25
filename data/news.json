@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-25T19:58:43.801Z",
+ "updated": "2026-10-25T22:05:29.583Z",
  "news": [
+  {
+   "cat": "1NEWS",
+   "title": "FIFA's Infantino claims 'vast majority' support before election",
+   "iso": "2026-10-25T21:31:18.000Z",
+   "link": "https://www.1news.co.nz/2026/10/25/fifas-infantino-claims-vast-majority-support-before-election/",
+   "lede": "FIFA's embattled president Gianni Infantino said he has the backing of the \"vast, vast majority\" of football despite his failed plan to sell stakes in the World Cup. Infantino is seeking re-election next year in the face of attempts to force him to stand down following the divisive plan. He infuriated football leaders in Europe, North America and Asia over the proposal to sell profits in the World Cup through a commercial subsidiary. But in an interview released on Saturday with the BBC at the Under-15 World Cup in Azerbaijan, Infantino brushed off calls for him to step down.",
+   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaking-at-the-internationa-2EZBZHEDAFEMBJHAI6ZPQAV4OQ.jpg?auth=72cafdac04078703587e8e8d359004b700fb7ecf74ef94fd76df109f0699b150&quality=70&width=600&height=315&focal=1855%2C788",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "SPORTPESA BLOG",
+   "title": "Junior Starlets make history with maiden FIFA U17 World Cup knockout qualification",
+   "iso": "2026-10-25T20:33:16.000Z",
+   "link": "https://blog.ke.sportpesa.com/2026/10/25/junior-starlets-make-history-with-maiden-fifa-u17-world-cup-knockout-qualification/",
+   "lede": "Kenya’s U17 women’s team, the Junior Starlets, have etched their names in the history books after booking a place in the Round of 16 at the 2026 FIFA U17 Women’s World Cup in Rabat, Morocco, keeping the nation’s flag flying high on the global stage. The Junior Starlets managed to secure their spot on Sunday night after thrashing minnows Samoa 4-0 to finish third in Group E with three points, behind China PR who topped the group with nine points, while the USA finished second with six. The Mildred Cheche charges knew they needed a convincing win to keep their qualification hopes alive, and they delivered when it mattered most. ALSO READ: Junior Starlets target strong start against China in landmark World Cup return.",
+   "image": "https://i0.wp.com/blog.ke.sportpesa.com/wp-content/uploads/2026/10/image-358-e1792960273313.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "BBC",
+   "title": "Ballon d'Or: Lyon and Scotland's Caroline Weir would swap nominations for World Cup",
+   "iso": "2026-10-25T19:34:15.000Z",
+   "link": "https://www.bbc.com/sport/football/articles/cjvgx1xw7z9xo",
+   "lede": "Weir on back-to-back Women's Ballon d'Or nominations. When a football pitch is in sight, there are few things Caroline Weir cannot do well. But, leaning against a stand at St Mirren Park in her Scotland training gear, the back-to-back Ballon d'Or nominee struggles and squirms when she is forced to talk about herself. The 31-year-old has again been named on the 30-player shortlist after an exceptional year for club and country - having swapped Real Madrid for eight-time European champions Lyon and been named Scotland captain - but she is not one for shouting about her achievements.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9171/live/a7eb5cb0-d0af-11f1-84bc-f3a33719a550.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "INSTINCT MAGAZINE",
    "title": "Football, Foul Play, and Homophobia: FIFA’s Latest Findings Are Ugly",
@@ -8,18 +38,8 @@
    "link": "https://instinctmagazine.com/football-world-cup-online-homophobia/",
    "lede": "Isabella is a writer for Instinct Magazine who lives and breathes all things pop culture and LGBTQ+. She loves exploring the stories that make the community shine, from the latest celebrity buzz to he... Football fans are going to argue. It’s practically part of the game.",
    "image": "https://instinctmagazine.com/wp-content/uploads/2026/10/Instinct-Magazine_Featured-Image-36-e1792474175217.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "1NEWS",
-   "title": "FIFA's Infantino claims 'vast majority' support before election",
-   "iso": "2026-10-25T17:14:15.000Z",
-   "link": "https://www.1news.co.nz/2026/10/25/fifas-infantino-claims-vast-majority-support-before-election/",
-   "lede": "FIFA's embattled president Gianni Infantino said he has the backing of the \"vast, vast majority\" of football despite his failed plan to sell stakes in the World Cup. Infantino is seeking re-election next year in the face of attempts to force him to stand down following the divisive plan. He infuriated football leaders in Europe, North America and Asia over the proposal to sell profits in the World Cup through a commercial subsidiary. But in an interview released on Saturday with the BBC at the Under-15 World Cup in Azerbaijan, Infantino brushed off calls for him to step down.",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaking-at-the-internationa-2EZBZHEDAFEMBJHAI6ZPQAV4OQ.jpg?auth=72cafdac04078703587e8e8d359004b700fb7ecf74ef94fd76df109f0699b150&quality=70&width=600&height=315&focal=1855%2C788",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THAT ERIC ALPER",
@@ -28,18 +48,18 @@
    "link": "https://www.thatericalper.com/2026/10/25/lisa-anitta-and-rema-bring-three-continents-together-on-world-cup-anthem-goals/",
    "lede": "LISA, Anitta and Rema have made a World Cup song that represents three continents before anyone even kicks a ball. “Goals,” their collaboration for the Official FIFA World Cup 2026 Album, brings together a Thai K-pop superstar, a Brazilian pop powerhouse and one of Nigeria’s biggest Afrobeats exports. That’s an extraordinary amount of star power for one recording, and Grammy-winning producer Cirkut has the job of making three musical worlds fit together. The result is a rhythm-driven pop track designed for an international audience that already knows the excitement of hearing thousands of strangers celebrate the same thing at once.",
    "image": "https://www.thatericalper.com/wp-content/uploads/2026/10/download-2026-10-25T122603.125.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
-   "cat": "DW.COM",
-   "title": "Lionel Messi: A career in pictures",
-   "iso": "2026-10-25T14:36:33.000Z",
-   "link": "https://www.dw.com/en/lionel-messi-a-career-in-pictures/g-78372844",
-   "lede": "Having started playing football in his native Argentina, Lionel Messi joined Barcelona's youth academy in 2001 at the age of 13. It wasn't long before he was promoted to the first team, making his La Liga debut in October 2004 at the age of 17. The following May he scored his first goal. His first title also came in his debut season, as Barcelona won La Liga in 2004-05.",
-   "image": "https://static.dw.com/image/78656325_6.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "cat": "FOURFOURTWO",
+   "title": "“I’ve always had a laugh with Chris Waddle, especially during the World Cup in 1990. I always used to wind everyone up and steal their chocolate bars” Paul Gascoigne on his best mate in football and their Italia 90 antics",
+   "iso": "2026-10-25T16:00:00.000Z",
+   "link": "https://www.fourfourtwo.com/person/player/ive-always-had-a-laugh-with-chris-waddle-especially-during-the-world-cup-in-1990-i-always-used-to-wind-everyone-up-and-steal-their-chocolate-bars-paul-gascoigne-on-his-best-mate-in-football-and-their-italia-90-antics",
+   "lede": "The two former Tottenham stars remain good pals to this day. When you purchase through links on our site, we may earn an affiliate commission. On the pitch, Paul Gascoigne’s career was packed with highlights and moments of individual genius. Off it, the former midfielder was just as famous for his mischievous personality and his ability to bring team-mates together.",
+   "image": "https://cdn.mos.cms.futurecdn.net/rJoNvVCA9u865opuQ7Emtd-1024-80.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "UA.NEWS",
@@ -48,33 +68,14 @@
    "link": "https://ua.news/en/sport/angliia-vpershe-vigrala-kubok-svitu-sered-gravtsiv-iz-tserebralnim-paralichem-bbc-sport",
    "lede": "England's national team won the World Cup for football players with cerebral palsy for the first time, defeating the United States 2-1 in the final in Atlanta, USA. This was reported by BBC Sport. Tournament hosts the United States took the lead after a corner kick three minutes before the end of the match. Sam Dewhirst equalised and took the game into extra time.",
    "image": "https://cdn-cabinet.ua.news/uploads/images/england_wins_cerebral_palsy_world_cup_fo_1792931183176.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BBC",
-   "title": "England win Cerebral Palsy World Cup for first time",
-   "iso": "2026-10-25T12:13:40.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o",
-   "lede": "David Porcher scored the winner in the final for England. England have won the Cerebral Palsy World Cup for the first time by beating the United States 2-1 in a thrilling final. The hosts took the lead in Atlanta from a corner with three minutes left but Sam Dewhirst equalised to take the tie to extra time. And the Para Lions won it when David Porcher fired home after Dewhirst's shot was saved.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e550/live/c2f266a0-d06b-11f1-afcb-6b9b9432d8fc.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings",
-   "iso": "2026-10-25T18:47:47.000Z",
-   "link": "https://www.nytimes.com/athletic/7722928/2026/10/25/ap-top-25-college-football-week-8/",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Dave Aranda out at Baylor, unable to recreate early-tenure success",
-   "iso": "2026-10-25T17:01:04.000Z",
-   "link": "https://www.nytimes.com/athletic/7723380/2026/10/25/baylor-football-dave-aranda-fired/",
+   "cat": "DAILY NATION",
+   "title": "Junior Starlets thrash Samoa to reach round of 16 at Women's U-17 World Cup",
+   "iso": "2026-10-25T20:41:07.000Z",
+   "link": "https://nation.africa/kenya/sports/football/junior-starlets-reach-round-of-16-women-u-17-world-cup--5645602",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
