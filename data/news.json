@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:05:29.583Z",
+ "updated": "2026-10-25T22:27:52.110Z",
  "news": [
   {
    "cat": "1NEWS",
@@ -12,12 +12,12 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "SPORTPESA BLOG",
-   "title": "Junior Starlets make history with maiden FIFA U17 World Cup knockout qualification",
-   "iso": "2026-10-25T20:33:16.000Z",
-   "link": "https://blog.ke.sportpesa.com/2026/10/25/junior-starlets-make-history-with-maiden-fifa-u17-world-cup-knockout-qualification/",
-   "lede": "Kenya’s U17 women’s team, the Junior Starlets, have etched their names in the history books after booking a place in the Round of 16 at the 2026 FIFA U17 Women’s World Cup in Rabat, Morocco, keeping the nation’s flag flying high on the global stage. The Junior Starlets managed to secure their spot on Sunday night after thrashing minnows Samoa 4-0 to finish third in Group E with three points, behind China PR who topped the group with nine points, while the USA finished second with six. The Mildred Cheche charges knew they needed a convincing win to keep their qualification hopes alive, and they delivered when it mattered most. ALSO READ: Junior Starlets target strong start against China in landmark World Cup return.",
-   "image": "https://i0.wp.com/blog.ke.sportpesa.com/wp-content/uploads/2026/10/image-358-e1792960273313.png",
+   "cat": "KOMU 8",
+   "title": "Ahmad Hardy to return to practice for Mizzou football, Drinkwitz announces",
+   "iso": "2026-10-25T20:58:00.000Z",
+   "link": "https://www.komu.com/sports/mizzouxtra/ahmad-hardy-to-return-to-practice-for-mizzou-football-drinkwitz-announces/article_fe013f1a-06ec-4b46-9721-7c24bc70966f.html",
+   "lede": "Mizzou football All-American running back Ahmad Hardy will return to practice for the Tigers this week, head coach Eli Drinkwitz announced on a post on X Sunday. The announcement comes after months of speculation as Hardy rehabbed from a gunshot wound sustained at a concert in May. Drinkwitz said in the announcement that the team's medical staff will \"determine [Hardy's] return to game action.\" Previously, Drinkwitz told media that Hardy would need a two-week period after returning to practice to get up to speed before returning to play.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/f/e0/fe013f1a-06ec-4b46-9721-7c24bc70966f/6ade6f0e5e5a1.preview.jpg?crop=1701%2C893%2C0%2C162&resize=1200%2C630&order=crop%2Cresize",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,22 +52,22 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "FOURFOURTWO",
-   "title": "“I’ve always had a laugh with Chris Waddle, especially during the World Cup in 1990. I always used to wind everyone up and steal their chocolate bars” Paul Gascoigne on his best mate in football and their Italia 90 antics",
-   "iso": "2026-10-25T16:00:00.000Z",
-   "link": "https://www.fourfourtwo.com/person/player/ive-always-had-a-laugh-with-chris-waddle-especially-during-the-world-cup-in-1990-i-always-used-to-wind-everyone-up-and-steal-their-chocolate-bars-paul-gascoigne-on-his-best-mate-in-football-and-their-italia-90-antics",
-   "lede": "The two former Tottenham stars remain good pals to this day. When you purchase through links on our site, we may earn an affiliate commission. On the pitch, Paul Gascoigne’s career was packed with highlights and moments of individual genius. Off it, the former midfielder was just as famous for his mischievous personality and his ability to bring team-mates together.",
-   "image": "https://cdn.mos.cms.futurecdn.net/rJoNvVCA9u865opuQ7Emtd-1024-80.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
    "cat": "UA.NEWS",
    "title": "England win World Cup for players with cerebral palsy for the first time — BBC Sport",
    "iso": "2026-10-25T12:52:04.000Z",
    "link": "https://ua.news/en/sport/angliia-vpershe-vigrala-kubok-svitu-sered-gravtsiv-iz-tserebralnim-paralichem-bbc-sport",
    "lede": "England's national team won the World Cup for football players with cerebral palsy for the first time, defeating the United States 2-1 in the final in Atlanta, USA. This was reported by BBC Sport. Tournament hosts the United States took the lead after a corner kick three minutes before the end of the match. Sam Dewhirst equalised and took the game into extra time.",
    "image": "https://cdn-cabinet.ua.news/uploads/images/england_wins_cerebral_palsy_world_cup_fo_1792931183176.webp",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "BBC",
+   "title": "England win Cerebral Palsy World Cup for first time",
+   "iso": "2026-10-25T12:13:40.000Z",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o",
+   "lede": "David Porcher scored the winner in the final for England. England have won the Cerebral Palsy World Cup for the first time by beating the United States 2-1 in a thrilling final. The hosts took the lead in Atlanta from a corner with three minutes left but Sam Dewhirst equalised to take the tie to extra time. And the Para Lions won it when David Porcher fired home after Dewhirst's shot was saved.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e550/live/c2f266a0-d06b-11f1-afcb-6b9b9432d8fc.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
