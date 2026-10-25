@@ -1,49 +1,47 @@
 {
- "updated": "2026-10-25T12:36:15.861Z",
+ "updated": "2026-10-25T13:55:58.013Z",
  "news": [
   {
    "cat": "BBC",
    "title": "England win Cerebral Palsy World Cup for first time",
    "iso": "2026-10-25T12:13:40.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cm5yn2e0wpq9o",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o",
    "lede": "David Porcher scored the winner in the final for England. England have won the Cerebral Palsy World Cup for the first time by beating the United States 2-1 in a thrilling final. The hosts took the lead in Atlanta from a corner with three minutes left but Sam Dewhirst equalised to take the tie to extra time. And the Para Lions won it when David Porcher fired home after Dewhirst's shot was saved.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e550/live/c2f266a0-d06b-11f1-afcb-6b9b9432d8fc.png",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "1NEWS",
-   "title": "FIFA's Infantino claims 'vast majority' support before election",
-   "iso": "2026-10-25T11:13:59.000Z",
-   "link": "https://www.1news.co.nz/2026/10/25/fifas-infantino-claims-vast-majority-support-before-election/",
-   "lede": "FIFA's embattled president Gianni Infantino said he has the backing of the \"vast, vast majority\" of football despite his failed plan to sell stakes in the World Cup. Infantino is seeking re-election next year in the face of attempts to force him to stand down following the divisive plan. He infuriated football leaders in Europe, North America and Asia over the proposal to sell profits in the World Cup through a commercial subsidiary. But in an interview released on Saturday with the BBC at the Under-15 World Cup in Azerbaijan, Infantino brushed off calls for him to step down.",
-   "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/fifa-president-gianni-infantino-speaking-at-the-internationa-2EZBZHEDAFEMBJHAI6ZPQAV4OQ.jpg?auth=72cafdac04078703587e8e8d359004b700fb7ecf74ef94fd76df109f0699b150&quality=70&width=600&height=315&focal=1855%2C788",
+   "cat": "KHORASANTIMES.COM",
+   "title": "Argentina AFA #10 Soccer Scarf World Cup Football Sports New",
+   "iso": "2026-10-25T13:00:45.000Z",
+   "link": "https://khorasantimes.com/?kh=5028272",
+   "lede": "",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
   {
    "cat": "STADIUMDB.COM",
    "title": "UK: What if the United Kingdom hosted the 2042 World Cup?",
-   "iso": "2026-10-25T12:29:44.000Z",
+   "iso": "2026-10-25T12:29:28.000Z",
    "link": "https://stadiumdb.com/news/2026/10/uk_what_if_the_united_kingdom_hosted_the_2042_world_cup",
    "lede": "",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
   {
-   "cat": "TODAYPRESS.TV",
-   "title": "U-15 World Cup: Azerbaijan secure another victory",
-   "iso": "2026-10-25T12:10:16.000Z",
-   "link": "https://todaypress.tv/en/sports/u-15-world-cup-azerbaijan-secure-another-victory",
-   "lede": "Azerbaijan’s national team have secured another victory at the U-15 World Cup and Festival being held in Baku.",
-   "image": "https://todaypress.tv/uploads/news/6addf1a82e06e.webp",
+   "cat": "THE NEW YORK TIMES",
+   "title": "NFL Week 7 fantasy football rankings: Are Michael Wilson, Colston Loveland in trouble?",
+   "iso": "2026-10-25T12:18:44.000Z",
+   "link": "https://www.nytimes.com/athletic/7708425/2026/10/25/fantasy-football-week-7-rankings-michael-wilson-colston-loveland/",
+   "lede": "",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "College Football Playoff bracket projections: Who’s rising, who’s falling after Week 8",
-   "iso": "2026-10-25T10:41:09.000Z",
+   "iso": "2026-10-25T10:10:00.000Z",
    "link": "https://www.nytimes.com/athletic/7722530/2026/10/25/college-football-playoff-projections-week-8/",
    "lede": "",
    "emoji": "🌎",
