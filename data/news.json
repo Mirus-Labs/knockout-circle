@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-24T23:20:11.225Z",
+ "updated": "2026-10-25T00:07:46.485Z",
  "news": [
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco U17 Women Qualify for World Cup Round of 16",
+   "iso": "2026-10-24T21:51:55.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/343699/morocco-u17-women-qualify-for-world-cup-round-of-16/",
+   "lede": "Rabat – Morocco’s U17 women’s national team have officially qualified for the Round of 16 of the 2026 FIFA U17 Women’s World Cup, which is being hosted by Morocco. The Atlas Lionesses secured their place in the knockout stage after guaranteeing a finish among the four best third-placed teams in the group stage. Morocco qualified with a goal difference of -2, finishing ahead of Venezuela and Canada, who collected the same number of points but recorded inferior goal differences of -3 and -5, respectively. The qualification marks another step for Morocco’s young players in the global competition, which brings together some of the best emerging talents in women’s football.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U-17-morocco-women-national-team.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "CAFONLINE.COM",
    "title": "U-17 Women’s World Cup 2026: How Nigeria ending North Korea’s 18-match unbeaten run can inspire African women’s football",
@@ -8,8 +18,8 @@
    "link": "https://www.cafonline.com/womens-football/news/u-17-women-s-world-cup-2026-how-nigeria-ending-north-korea-s-18-match-unbeaten-run-can-inspire-african-women-s-football/",
    "lede": "Nigeria’s 3–1 victory over defending champions DPR Korea did more than secure a place in the Round of 16 on Friday. It ended an extraordinary unbeaten run and reminded Africa that its young footballers can challenge the world’s most accomplished teams. Nigeria’s Flamingos did not just defeat the defending champions at the FIFA U-17 Women’s World Cup in Morocco. They brought an end to a remarkable run of dominance and delivered a statement that should resonate across African women’s football.",
    "image": "https://www.cafonline.com//media/zrijtvsv/2301174550.jpg?width=1200",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "DAILY TRIBUNE",
@@ -18,8 +28,18 @@
    "link": "https://tribune.net.ph/2026/10/24/filipinas-face-new-challenge-in-nz-return",
    "lede": "Ivan Suing·25 October 2026 · 1:18 AM PHT·2 MIN READ. KATRINA Guillou and the Filipinas are making a return to Wellington armed with a mission of getting better for the FIFA Women’s World Cup next year in Brazil. Filipinas head coach Mark Torcaso is looking forward to testing his squad against New Zealand, believing that the two-game friendly series will provide them valuable preparation for the upcoming FIFA Women’s World Cup campaign. The Filipinas will face the Football Ferns in Wellington on 29 November and 4 December, with Torcaso expecting a tough challenge against the Oceania side.",
    "image": "https://images.assettype.com/tribune/2026-10-24/j52wljvj/KATRINA-Guillou.jpeg?w=1200&auto=format&q=70&rect=0%2C112%2C1600%2C900&h=675&fit=crop",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BREAKING AC NEWS",
+   "title": "Spain 1-0 Argentina: What the World Cup Final Taught Us About Football Forecasting",
+   "iso": "2026-10-24T20:06:52.000Z",
+   "link": "https://breakingac.com/news-from-our-partners/spain-1-0-argentina-what-the-world-cup-final-taught-us-about-football-forecasting/",
+   "lede": "Spain won the 2026 World Cup final against Argentina by a single goal, but the scoreline leaves out the detail that matters most to anyone assessing a forecast: the winner arrived in extra time. The champions were decided on 19 July at New York New Jersey Stadium. A prediction of Spain lifting the trophy and a prediction of Spain winning in regulation therefore described different events. Only one of those events happened.",
+   "image": "https://breakingac.com/wp-content/uploads/2026/05/cropped-BreakingAC.webp",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "SKY SPORTS",
@@ -28,8 +48,8 @@
    "link": "https://www.skysports.com/rugby-league/news/13601940/rugby-league-world-cup-2026-england-not-thinking-about-points-difference-before-france-game-says-brad-oneill",
    "lede": "England hooker Brad O'Neill says his side will resist the urge to go for broke when they face France in their second Rugby League World Cup match in Perth on Saturday. An opening 30-12 defeat to Tonga has left their hopes of reaching the semi-finals hanging by a thread, with points difference looking increasingly like the only way to progress. But head coach Brian McDermott has named an unchanged 19-man matchday squad, a sign that he does not plan radical changes against a France team smarting from their 78-4 humbling by Samoa. What did we learn from England in the first round of RLWC 2026?",
    "image": "https://e0.365dm.com/26/10/1600x900/skysports-rugby-league-brad-oneill_7382960.jpg?20261021161757",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "MALTAFOOTBALL.COM",
@@ -38,8 +58,8 @@
    "link": "https://www.maltafootball.com/2026/10/24/fifa-u15-world-cup-malta-lose-to-kenya-in-opening-match/",
    "lede": "Malta lost 2-6 to Kenya in the first match from the FIFA U15 World Cup & Festival being held at the Hovsan Competition Complex in Azerbaijan. Kenya took the lead thanks to Innocent Media on 5 minutes and Lewis Wafula doubled the score three minutes later. An own goal extended the lead for the African side on 15 minutes and Duncan Muyah made it 4-0. Malta hit back with two penalties by Declan Zammit on 25 minutes and Enzo De Freitas on 29 minutes but Kenya added another two goals thanks to Silas Juma on 32 minutes and Muyah four minutes later.",
    "image": "https://www.maltafootball.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-13.20.26.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "UA.NEWS",
@@ -48,8 +68,8 @@
    "link": "https://ua.news/en/sport/infantino-zaiaviv-pro-pidtrimku-bilshosti-futbolnogo-svitu-anadolu-agency",
    "lede": "After the FIFA Council meeting held on October 15 in Zurich, Switzerland, the organization’s president Gianni Infantino said he has the backing of the “vast, vast majority” of the football world. In an interview with BBC Sport, he also dismissed questions about a possible resignation after the withdrawal of a controversial proposal to transfer part of FIFA’s commercial rights to a private investment firm. Infantino said that disagreements in world football are normal, but after discussing different positions, it is necessary to move on. Calls for his resignation intensified two months ago amid the dispute over the FIFA Forward Enterprise project.",
    "image": "https://cdn-cabinet.ua.news/uploads/images/infantino_says_he_has_support_of_world_f_1792858511480.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "APA.AZ",
@@ -58,25 +78,6 @@
    "link": "https://en.apa.az/football/azerbaijan-u-15-national-football-team-makes-flying-start-at-world-cup-in-baku-532017",
    "lede": "The Azerbaijan U-15 national football team opened the FIFA U-15 World Cup and Festival in Baku in a commanding fashion as they beat Timor-Leste 6–0 on Saturday, APA reports. Azerbaijan took complete control of the match, with double strikes from Mushfig Zamanov and Hasan Mahmadov setting the tone before Yusif Alizada and Asif Allahverdizada also found the net to cap off a flawless opening performance at the Baky Crystal Hall. The national team will play their next match against Andorra on October 24. The first matches of the tournament kicked off on October 23.",
    "image": "https://en.apa.az/storage/news/2026/october/24/big/6adcfc9bd034b6adcfc9bd034c17928674836adcfc9bd03496adcfc9bd034a.png",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "ONEFOOTBALL",
-   "title": "Morocco approves World Cup 2030 tax breaks for FIFA and football bodies",
-   "iso": "2026-10-24T16:24:40.000Z",
-   "link": "https://onefootball.com/en/news/morocco-approves-world-cup-2030-tax-breaks-for-fifa-and-football-bodies-43665466",
-   "lede": "U17 Women's World Cup: Germany first to qualify for knockout stages after wins over Argentina and hosts Morocco. Brazil beat Norway to reach U17 Women's World Cup knockouts unbeaten. Brazil U15s thrash Guinea-Bissau 8-0 in World Cup opener. Brazil v Norway: first-ever clash for top spot in U17 World Cup Group C.",
-   "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F43665466%3Fdate=2026-10-24",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Texas Tech’s $40M roster, offseason QB drama no match for unranked Cincinnati",
-   "iso": "2026-10-24T22:39:21.000Z",
-   "link": "https://www.nytimes.com/athletic/7720817/2026/10/24/texas-tech-football-cincinnati-score-results/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
