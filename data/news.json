@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:25:38.785Z",
+ "updated": "2026-10-26T11:33:48.021Z",
  "news": [
   {
    "cat": "AFRICA TOP SPORTS",
@@ -32,24 +32,14 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "Asian football endorses Infantino re-election as FIFA president",
-   "iso": "2026-10-26T07:14:28.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/asian-football-endorses-infantino-re-election-fifa-president-4305611",
-   "lede": "The head of the Asian Football Confederation on Friday said the region supported Gianni Infantino's bid for re-election as FIFA president following weeks of fierce criticism of his aborted World Cup selloff plan. The 56-year-old Swiss was present at a Tokyo meeting of the AFC when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing. Sheikh Salman had previously condemned Infantino over his plan to open FIFA's premium competitions such as the World Cup to private investors. Infantino has faced calls to quit and had lost the support of many associations in his bid to be re-elected to a fourth and final term.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
    "cat": "BBC",
    "title": "Ballon d'Or: Will Lamine Yamal, Harry Kane, Kylian Mbappe or Lionel Messi win?",
    "iso": "2026-10-26T06:19:12.000Z",
    "link": "https://www.bbc.com/sport/football/articles/cqjdmn0ndxjxo",
    "lede": "Who should win the men's Ballon d'Or? The Ballon d'Or winner will be announced in London on 26 October - but who is going to win it? Bookmakers have Spain winger Lamine Yamal and England captain Harry Kane very close together as clear favourites. Lamine Yamal won La Liga with Barcelona and the World Cup with Spain, while Kane scored 73 goals for German champions Bayern Munich and England.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cc7/live/9ef6d620-cbd7-11f1-b139-f77a8b036d06.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "AL JAZEERA",
@@ -58,8 +48,8 @@
    "link": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks",
    "lede": "Asian Cup 2027 to kick off on January 7 with Saudi Arabia facing Palestine in Riyadh as the AFC announces the schedule.",
    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2024-11-19T142544Z_1036394119_UP1EKBJ142UGC_RTRMADP_3_SOCCER-WORLDCUP-IDN-SAU-REPORT-1793002345.jpg?resize=1920%2C1440",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "조선일보",
@@ -68,14 +58,23 @@
    "link": "https://www.chosun.com/english/sports-en/2026/10/26/7AMGPQFS6VA2ZNLG64EA2G4YUI/",
    "lede": "",
    "image": "https://www.chosun.com/resizer/v2/MU4GMYTCMQ2WKY3CMFRWGOJXGA.jpg?auth=aacde056faf5e0e278a16cce710cd5abbd4faccd26013a7d61d0e6b6b14e670d&width=650&height=341&smart=true",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "USMNT’s Pulisic, McKennie, Weah score to cap prolific club weekend for Americans abroad",
+   "iso": "2026-10-26T07:38:12.000Z",
+   "link": "https://www.nytimes.com/athletic/7725701/2026/10/26/pulisic-mckennie-weah-goals-usmnt-americans-abroad/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "REPORT.AZ",
-   "title": "U-15 World Cup: Azerbaijan beats Israel 3-1",
-   "iso": "2026-10-26T08:50:26.000Z",
-   "link": "https://report.az/en/football/u-15-world-cup-azerbaijan-beats-israel-3-1",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Kylian Mbappe has long been told he will win the Ballon d’Or. So why hasn’t he?",
+   "iso": "2026-10-26T07:38:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7719622/2026/10/25/kylian-mbappe-ballon-dor-real-madrid/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
