@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-26T21:53:54.168Z",
+ "updated": "2026-10-26T21:55:31.560Z",
  "news": [
+  {
+   "cat": "THE 42",
+   "title": "Ireland-England U15 World Cup match abandoned following racism allegation",
+   "iso": "2026-10-26T19:57:00.000Z",
+   "link": "https://www.the42.ie/ireland-england-u15-world-cup-racism-allegation-7205649-Oct2026/",
+   "lede": "THE REPUBLIC OF Ireland’s match with England at the U15 World Cup on Monday was abandoned following an allegation of racism. England walked off the pitch after an altercation between players from both sides in the final minute of the game in Azerbaijan. Ireland were leading 4-1 at the time. Match footage from DAZN shows an English player speaking to the referee and then approaching his coaching staff about the incident.",
+   "image": "https://img2.thejournal.ie/article/7205649/river/?height=400&version=7205679",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "England Under-15s walk off pitch against Ireland in World Cup after racism allegation",
@@ -8,8 +18,18 @@
    "link": "https://www.theguardian.com/football/2026/oct/26/england-under-15-walk-off-pitch-ireland-world-cup-racism-allegation",
    "lede": "Match in new Fifa competition abandoned. England players refuse to resume match. England abandoned their Under-15 World Cup match against the Republic of Ireland on Monday after a player reported being subjected to a racist slur. Fifa confirmed it was investigating what happened in the final minute of the Group C fixture in Baku, Azerbaijan, when Ireland were leading 4-1.",
    "image": "https://i.guim.co.uk/img/media/e0605b193f68751fe7088489812b26b6fa464889/0_0_813_650/master/813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6413872393e52f1e6256a01b4b7f42b1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE MIRROR",
+   "title": "FIFA issue statement as England walk off pitch at U15 World Cup after alleged racism",
+   "iso": "2026-10-26T18:38:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/england-u15-world-cup-racism-37812603",
+   "lede": "FIFA are investigating an allegation of racist abuse by a Republic of Ireland player that led to the abandonment of England's Under-15 World Cup match. The incident took place during Monday's match in Azerbaijan, when an England player was seen approaching the touchline to inform his coaching staff of the alleged abuse, before the complaint was brought to the referee's attention. England's coaching staff then instructed their players to leave the pitch, with the Republic of Ireland leading 4-1 heading into the final minute of the match. FIFA have since confirmed they are investigating the incident and gathering reports to establish the circumstances surrounding the allegation.",
+   "image": "https://i2-prod.mirror.co.uk/article37812606.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-26-at-182120.png",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE DAILY STAR",
@@ -18,18 +38,18 @@
    "link": "https://www.thedailystar.net/sports/football/news/asian-football-endorses-infantino-re-election-fifa-president-4305611",
    "lede": "The head of the Asian Football Confederation on Friday said the region supported Gianni Infantino's bid for re-election as FIFA president following weeks of fierce criticism of his aborted World Cup selloff plan. The 56-year-old Swiss was present at a Tokyo meeting of the AFC when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing. Sheikh Salman had previously condemned Infantino over his plan to open FIFA's premium competitions such as the World Cup to private investors. Infantino has faced calls to quit and had lost the support of many associations in his bid to be re-elected to a fourth and final term.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
-   "cat": "THE MIRROR",
-   "title": "FIFA issue statement as England walk off pitch at U15 World Cup after alleged racism",
-   "iso": "2026-10-26T18:28:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/news/england-u15-world-cup-racism-37812603",
-   "lede": "FIFA are investigating an allegation of racist abuse by a Republic of Ireland player that led to the abandonment of England's Under-15 World Cup match. The incident took place during Monday's match in Azerbaijan, when an England player was seen approaching the touchline to inform his coaching staff of the alleged abuse, before the complaint was brought to the referee's attention. England's coaching staff then instructed their players to leave the pitch, with the Republic of Ireland leading 4-1 heading into the final minute of the match. FIFA have since confirmed they are investigating the incident and gathering reports to establish the circumstances surrounding the allegation.",
-   "image": "https://i2-prod.mirror.co.uk/article37812606.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-26-at-182120.png",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "cat": "GULF TIMES",
+   "title": "FIFA U-17 World Cup Qatar 2026 tickets now on sale | Gulf Times",
+   "iso": "2026-10-26T18:24:00.000Z",
+   "link": "https://www.gulf-times.com/article/736780/sport/football/fifa-u-17-world-cup-qatar-2026-tickets-now-on-sale",
+   "lede": "General public tickets for the FIFA U-17 World Cup Qatar 2026 are now on sale at www.roadtoqatar.qa, as Qatar gets ready to welcome young generation for yet another spectacular edition of the prestigious competition. Taking place from November 19 to December 13, the FIFA U-17 World Cup Qatar 2026 will be held at the state-of-the-art Competition Complex at Aspire Zone, with 48 teams competing across 104 matches. The final will take place at Ahmad bin Ali Stadium. Fans can be part of the electrifying football festival-like atmosphere by purchasing a Day Pass, which will enable them to attend up to eight matches a day at Aspire Zone, as well as cultural and entertainment activities at the Fan Zone.",
+   "image": "https://www.gulf-times.com/gulftimes/uploads/images/2026/10/26/509317.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "TALKSPORT",
@@ -38,8 +58,8 @@
    "link": "https://talksport.com/football/4669332/england-under-15s-match-abandoned-racism-ireland/",
    "lede": "The Young Lions' fixture at the FIFA Under-15 World Cup and Festival was abandoned on Monday. Head coach Matt Thorpe withdrew his players in the final minute of the match following the incident. According to the Daily Mail, an England player claimed an opponent had made a racist comment towards them. It followed an altercation which saw the England youngster push a rival in the back.",
    "image": "https://talksport.com/wp-content/uploads/2026/10/RAS-TS-OP-FIFA-U15.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "GULF TIMES",
@@ -48,8 +68,8 @@
    "link": "https://www.gulf-times.com/article/736777/sport/football/fifa-u-17-world-cup-qatar-2026-trophy-tour-set-to-kick-off-at-doha-festival-city-on-october-29",
    "lede": "Football enthusiasts and families across Qatar will have the opportunity to see the FIFA U-17 World Cup Qatar 2026 trophy, as the prestigious tournament trophy will make its way to key vibrant destinations nationwide ahead of the global showpiece. The trophy tour will take place at the following locations:Doha Festival City: Date: Thursday, October 29; Time: 6pm-10pmWest Walk: Date: Thursday, November 5: Time: 6pm-10pmMsheireb Downtown Doha: Date: Thursday, November 12. Each stop will feature engaging fan activities and photo opportunities with the official trophy, as Qatar once again prepares to host 48 international teams competing across 104 matches from November 19 to December 13. The FIFA U-17 World Cup Qatar 2026 is the second of five consecutive editions that Qatar will host through 2029.",
    "image": "https://www.gulf-times.com/gulftimes/uploads/images/2026/10/26/509309.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -58,25 +78,6 @@
    "link": "https://www.independent.co.uk/sport/football/england-ireland-racism-u15-world-cup-b3073682.html",
    "lede": "England coach Matt Thorpe beckoned his players off the field after a confrontation during a match with Republic of Ireland. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. An England match at Fifa’s new Under-15 World Cup has been abandoned after their players walked off the field following an allegation of racism.",
    "image": "https://static.independent.co.uk/2026/10/26/17/17/Screenshot-2026-10-26-at-17-55-12.png?trim=0,783,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "New Zealand wrap up group fixtures at FIFA U-15 Boys World Cup",
-   "iso": "2026-10-26T17:34:47.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/10/27/new-zealand-wrap-up-fixtures-at-fifa-u-15-boys-world-cup/",
-   "lede": "New Zealand have finished their five group fixtures at the FIFA U-15 Boys’ World Cup and Festival in Baku, Azerbaijan. They lost 4-2 to Puerto Rico and were then shaded 1-0 by Mozambique. Game played on Tuesday October 27, 2026. New Zealand 0 Mozambique 1 (scorer to come).",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/09/FIFA-U-15-World-Cup.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Rays trail in World Series, but maybe DJ Kitty can help them claw back",
-   "iso": "2026-10-26T21:22:02.000Z",
-   "link": "https://www.nytimes.com/athletic/7725808/2026/10/26/rays-world-series-dj-kitty/",
-   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
