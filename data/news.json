@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:18:55.916Z",
+ "updated": "2026-10-27T01:30:26.346Z",
  "news": [
   {
    "cat": "ADELAIDE UNITED",
@@ -12,22 +12,22 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "LIVESCORE",
-   "title": "'Success is a motivation, not the end goal' - World Cup winner Luis de la Fuente reacts to Ballon d'Or coach award",
-   "iso": "2026-10-26T22:08:30.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/success-is-a-motivation-not-the-end-goal-world-cup-winner-luis-de-la-fuente-reacts-to-ballon-dor-coach-award-goal/",
-   "lede": "Luis de la Fuente has cemented his legacy as one of the modern greats after being named the best coach in world football. The Spanish tactician accepted the prestigious award following a historic campaign that saw his national team reach the summit of the sport.A night of glory for the Spanish mastermindDe la Fuente has officially been crowned the world's best coach after receiving the Johan Cruyff Trophy at the 2026 Ballon d'Or ceremony . The veteran manager was the clear favourite for the accolade following Spain's dominant run to the World Cup title, where his side captivated fans with a blend of tactical discipline and creative flair.Standing on the stage to accept the trophy, De la Fuente remained humble despite the magnitude of the occasion. He was quick to acknowledge the quality of his peers and the collective effort required to reach such heights.",
-   "image": "https://assets.goal.com/images/v3/getty-2301694998/crop/MM5DENBRGY5DCMZVHE5G433XMU5DIMBUHIZTQ===/GettyImages-2301694998.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
    "cat": "GULF NEWS",
    "title": "Luis de la Fuente wins Men's Coach of the Year after Spain's World Cup triumph",
    "iso": "2026-10-26T21:35:45.000Z",
    "link": "https://gulfnews.com/sport/football/luis-de-la-fuente-wins-mens-coach-of-the-year-after-spains-world-cup-triumph-1.500724732",
    "lede": "Spain coach Luis de la Fuente has been named Men's Coach of the Year at the 2026 Ballon d'Or ceremony in London, following an extraordinary year in which he guided his country to World Cup glory.The 65 year old received the prestigious honour after leading Spain to their second FIFA World Cup title, defeating defending champions Argentina 1-0 in a dramatic final on July 19. Ferran Torres scored the winner in the 106th minute as Spain lifted the trophy for the first time since 2010. Accepting the award, De la Fuente was quick to share the credit with his players and coaching staff.\" Good evening, it is a real honour for me to receive this prize,\" he said.\"",
    "image": "https://media.assettype.com/gulfnews%2F2026-10-26%2Fztlobul3%2Fnewsml_afp_com_20261026T212855Z_doc_d4hf7fw.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "KHEL NOW",
+   "title": "FIFA U-15 World Cup and Festival 2026 - Final points table after Senegal U-15 vs India U-15 in Group K",
+   "iso": "2026-10-26T21:14:00.000Z",
+   "link": "https://khelnow.com/football/indian-football-fifa-u-15-world-cup-and-festival-2026-final-points-table-after-senegal-u-15-vs-india-u-15",
+   "lede": "Blue Colts slip to Tier C after humiliating defeat to Senegal in final matchweek The Hovsan Competition Complex in Baku, Azerbaijan, geared up to host the final matchweek fixtures in Group K of the FIFA U-15 World Cup and Festival, where the Indian U15 team, led by Bibiano Fernandes, locked horns with Bahrain U15. India were up against Senegal tonight. India’s qualification in Tier A had the easiest permutation. Three teams were in contention for the top spot and India who were atop the points table with 10 points were just a win away from qualifying for Tier A.",
+   "image": "https://assets.khelnow.com/news/uploads/2026/10/U-15-WC-PT-Lead.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,13 +52,23 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "THE MIRROR",
+   "title": "FIFA issue statement as England walk off pitch at U15 World Cup after alleged racism",
+   "iso": "2026-10-26T18:38:00.000Z",
+   "link": "https://www.mirror.co.uk/sport/football/news/england-u15-world-cup-racism-37812603",
+   "lede": "FIFA are investigating an allegation of racist abuse by a Republic of Ireland player that led to the abandonment of England's Under-15 World Cup match. The incident took place during Monday's match in Azerbaijan, when an England player was seen approaching the touchline to inform his coaching staff of the alleged abuse, before the complaint was brought to the referee's attention. England's coaching staff then instructed their players to leave the pitch, with the Republic of Ireland leading 4-1 heading into the final minute of the match. FIFA have since confirmed they are investigating the incident and gathering reports to establish the circumstances surrounding the allegation.",
+   "image": "https://i2-prod.mirror.co.uk/article37812606.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-26-at-182120.png",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "NEWS.COM.AU",
    "title": "Sydney teen’s World Cup status revealed",
    "iso": "2026-10-26T23:48:45.000Z",
    "link": "https://www.news.com.au/sport/football/football-australia-confirms-akol-akon-in-fifa-under17-world-cup-squad-after-selection-uproar/news-story/a3feb18e356a0bda981625e41948b8e1",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -66,16 +76,6 @@
    "iso": "2026-10-26T23:33:17.000Z",
    "link": "https://www.nytimes.com/athletic/7710586/2026/10/26/harry-kane-ballon-dor-winner-2026/",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "FOOTBALL360.COM.AU",
-   "title": "Akon is IN as Australia names Under-17s World Cup Joeys squad headlined by EPL trio, incl Manchester United teen",
-   "iso": "2026-10-26T23:15:11.000Z",
-   "link": "https://football360.com.au/under-17s-world-cup-australia/",
-   "lede": "Sydney FC’s Akol Akon headlines Australia’s squad for the 2026 Under-17’s FIFA World Cup to be held in Qatar next month.",
-   "image": "https://football360.com.au/wp-content/uploads/2026/10/Jariyah-Shah.webp",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
