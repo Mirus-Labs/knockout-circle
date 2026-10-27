@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-27T19:00:06.877Z",
+ "updated": "2026-10-27T22:30:51.634Z",
  "news": [
+  {
+   "cat": "LIVESCORE",
+   "title": "Incredible World Cup hero is coming to Liverpool",
+   "iso": "2026-10-27T20:44:29.000Z",
+   "link": "https://www.livescore.com/en/news/football/croatian-cup/incredible-world-cup-hero-is-coming-to-liverpool-anfieldwatch/",
+   "lede": "An incredible wonderkid is coming to Liverpool who has become a World Cup hero for his country.The Julian Ward era has begun at Anfield. There's hope that it will be as fruitful as the promise shown by his predecessor, Richard Hughes.Liverpool have invested in their future over the last few years. The Reds have surrendered immediate success for a long-term vision buying future superstars in order to shed their veterans and build an exciting young squad.Hughes' strategy involved buying some of the best young players on the market. Florian Wirtz, Jeremy Jacquet, Hugo Ekitike, Milos Kerkez and Bradley Barcola all fall into that category.They have subsequently become the foundations for this current Liverpool team.",
+   "image": "https://staticcdn.anfieldwatch.co.uk/images/cf/7ef678a0-7481-4499-ab5c-4cce4334458f-1790449155/q=auto,f=auto,fit=contain,w=1200,h=800",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "SPORTSTAR",
    "title": "2030 World Cup: FIFA inspections of candidate venues set for November and December",
@@ -8,18 +18,18 @@
    "link": "https://sportstar.thehindu.com/football/fifa-2030-world-cup-host-city-visits-spain-portugal-morocco/article71633132.ece",
    "lede": "FIFA to visit potential 2030 World Cup host cities in November and December Chennai left File Photo: Three host nations, one tournament: inspectors are about to start weighing up the candidates. AP AP https://ss-i.thgim.com/public/incoming/q5jy4c/article71633147.ece/alternates/FREE_1200/FIFA_Life_Bans_Soccer_71649.jpg Andreas Becker FILE - The FIFA logo is seen at the entrance of FIFA headquarters in Zurich, Switzerland, Aug. (Andreas Becker/Keystone via AP, File) Fifteen cities across three countries are being assessed, with the biggest prize, the final, still undecided and a Spain-Morocco contest looming over the process, while the shape of the tournament’s centenary celebrations is already partly set.",
    "image": "https://ss-i.thgim.com/public/incoming/q5jy4c/article71633147.ece/alternates/LANDSCAPE_1200/FIFA_Life_Bans_Soccer_71649.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-FIFA to visit potential 2030 World Cup host cities in November and December",
-   "iso": "2026-10-27T17:21:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/10/28/soccer-fifa-to-visit-potential-2030-world-cup-host-cities-in-november-and-december",
-   "lede": "Oct 27 (Reuters) - FIFA ⁠will carry out a series of visits to ⁠candidate host cities in Spain, Portugal and Morocco ‌in November and December as part of the venue selection process for the 2030 World Cup, world football's governing body said on Tuesday. A ​FIFA delegation will visit candidate cities ⁠and stadiums in all ⁠three host countries to assess their suitability to host ⁠games. FIFA ‌has yet to confirm which venues will be included, and has not announced where the ⁠World Cup final will be held, withSpain and ​Morocco battling ‌to hold football's biggest match. Visits are planned forAgadir, Casablanca, ⁠Fez, Marrakech, ​Rabat and Tangier in Morocco; Lisbon and Porto in Portugal; and Barcelona, Bilbao, Las Palmas, Madrid, San Sebastian, Seville ⁠and Zaragoza in Spain.FIFA said it ​may also conduct visits to additional venues during the selection process.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4183670.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "THE STRAITS TIMES",
+   "title": "FIFA to visit potential 2030 World Cup host cities in November and December",
+   "iso": "2026-10-27T17:20:00.000Z",
+   "link": "https://www.straitstimes.com/sport/football/fifa-to-visit-potential-2030-world-cup-host-cities-in-november-and-december",
+   "lede": "A general view shows construction works of the Hassan II Stadium, ahead of the World Cup, in Benslimane, near Casablanca, Morocco, May 23, 2026. Picture taken with a mobile phone. Oct 27 - FIFA will carry out a series of visits to candidate host cities in Spain, Portugal and Morocco in November and December as part of the venue selection process for the 2030 World Cup, world football's governing body said on Tuesday. A FIFA delegation will visit candidate cities and stadiums in all three host countries to assess their suitability to host games.",
+   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5517ff5c2feefc3d793e55431b584aacb79c20b755226cddb29759ba87f7fc1d?w=1200",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -28,8 +38,8 @@
    "link": "https://sports.yahoo.com/articles/gamonal-eyes-brazil-u17-world-165800404.html",
    "lede": "Brazil’s U-17 Women’s National Team is entering a new stage of the World Cup. After overcoming the challenges of the group stage, Brazil is preparing to face Poland in the round of 16 this Wednesd... After overcoming the challenges of the group stage, Brazil is preparing to face...",
    "image": "https://s.yimg.com/lo/mysterio/api/9590e91c1ad8fc3c960a23ac415e098ead6e9749bd077b1e3b5d6d2e7ec2c8bd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F9168525a139b2b35f238a879392e3168.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "AFRICA IS A COUNTRY",
@@ -38,46 +48,33 @@
    "link": "https://africasacountry.com/2026/10/moroccos-long-game",
    "lede": "How Morocco stopped waiting for golden generations to emerge and began building the systems needed to compete at the highest level. Image © Andrzej Lisowski Travel / Shutterstock.com. “A bad system will beat a good person every time.” Deming, a pioneer of systems thinking, perfectly encapsulate the problems faced by Moroccan football throughout the 2000s.",
    "image": "https://media.africasacountry.com/images/2026/10/169115849322.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FACEBOOK",
-   "title": "Harry Kane finally reaches the summit of world football. The Bayern Munich striker has won the Ballon d'Or 2026, football's most coveted individual award. It is the first time in 30 years that a player from the German Bundesliga wins the trophy. #dwsports​ #Bay",
-   "iso": "2026-10-27T15:18:19.000Z",
-   "link": "https://www.facebook.com/deutschewellenews/posts/harry-kane-finally-reaches-the-summit-of-world-football-the-bayern-munich-strike/1584274933727815/",
-   "lede": "The Bayern Munich striker has won the Ballon d'Or 2026, football's most coveted individual award. It is the first time in 30 years that a... The Bayern Munich striker has won the Ballon d'Or 2026, football's most coveted individual...",
-   "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/868490090_1652600479915443_4740813112663505700_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=596eb7&_nc_ohc=zMVS4xPCdWYQ7kNvwFHJUZF&_nc_oc=Adp1AjL7YGjnlMIkNPuj-NyG-zkdVnk2JmBK4SprRCqKZCTeNhffs2xzL2HgUPGE6Uc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=LmeAa-jG67BJrvpVrtbxcw&_nc_ss=7c289&oh=00_AQPhgKMYfTeh8tXsAIDJi8fiYp2NU-TFqq-wVPgeAvsWgQ&oe=6AE6D58D",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "UZDAILY.UZ",
-   "title": "Uzbekistan U-15 Finish Second in World Cup Group",
-   "iso": "2026-10-27T15:07:00.000Z",
-   "link": "https://www.uzdaily.uz/en/uzbekistan-u-15-finish-second-in-world-cup-group/",
-   "lede": "Tashkent, Uzbekistan (UzDaily.uz) — Uzbekistan’s under-15 national team finished second in Group W at the FIFA U-15 World Cup & Festival 2026 in Baku and will now compete for the Level B title. The team’s next match is scheduled for 28 October against Guatemala, the Uzbekistan Football Association reported. Under the tournament format, teams advance after the group stage to compete across six levels: A, B, C, D, E and F. Each level has its own winner, while the Level A winner will be crowned the overall tournament champion.",
-   "image": "https://www.uzdaily.uz/media/filer_public/ae/03/ae031034-23bd-4eb0-82eb-88d9a9e8306a/uzbekistanu15bakuwc_20261027150758.webp",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Arsenal suffer shock defeat to League Two club Fleetwood in Carabao Cup – what went wrong?",
+   "iso": "2026-10-27T22:12:11.000Z",
+   "link": "https://www.nytimes.com/athletic/7730617/2026/10/27/arsenal-shock-defeat-fleetwood-league-cup/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "ATALAYAR",
-   "title": "2030 World Cup: Morocco prepares a package of tax exemptions for FIFA",
-   "iso": "2026-10-27T13:45:52.000Z",
-   "link": "https://www.atalayar.com/en/articulo/economy-and-business/2030-world-cup-morocco-prepares-package-of-tax-exemptions-for-fifa/20261027144552230106.html",
-   "lede": "Special tax regime for FIFA Benefits and beneficiaries 2030 World Cup Legacy Fund Morocco’s draft finance bill for 2027 provides for a package of tax and customs exemptions for FIFA and the organisations involved in organising the 2030 World Cup, which the country will co-host with Spain and Portugal. The measures include tax benefits for organisations, suppliers and other participants linked to the tournament, with the aim of facilitating the preparations and running of the competition. The initiative seeks to fulfil the financial and legal commitments undertaken by Morocco towards FIFA through a specific tax regime for activities related to the tournament. Football World Cup - Depositphotos Special tax regime for FIFA Morocco is preparing a special tax regime for FIFA and the organisations involved in organising the 2030 World Cup.",
-   "image": "https://www.atalayar.com/media/atalayar/images/2025/07/21/2025072111485953315.jpg",
+   "cat": "FOOTBALL.COM",
+   "title": "Spain Beat Argentina in Extra Time to Win World Cup | News",
+   "iso": "2026-10-27T22:00:00.000Z",
+   "link": "https://www.football.com/gh/m/n/news/134783",
+   "lede": "Spain beat Argentina in extra time through Ferran Torres, but the World Cup final is also under scrutiny over Argentina's conduct and the support it received.",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "LIVESCORE",
-   "title": "Inaugural FIFA U-15 World Cup & Festival kicks off in Azerbaijan",
-   "iso": "2026-10-27T13:37:10.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/inaugural-fifa-u-15-world-cup-festival-kicks-off-in-azerbaijan-goal/",
-   "lede": "A new era for international youth football has arrived as the inaugural FIFA U-15 World Cup & Festival officially kicked off in Baku, Azerbaijan. The historic tournament brings together thousands of aspiring players for a unique competition designed to provide a global stage for the next generation of stars. The groundbreaking competition features more than 3,000 players and officials representing 189 member associations, highlighting an unprecedented level of inclusivity in the international game, with as many as 78 of the nations participating in the tournament having never previously been represented at any FIFA World Cup level. Speaking at the opening ceremony, FIFA President Gianni Infantino - joined by Azerbaijani President Ilham Aliyev - emphasised the symbolic and practical importance of creating a pathway for young athletes from every corner of the planet.",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_5.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "World Series Game 1 draws 12.26 million viewers, defying low expectations",
+   "iso": "2026-10-27T21:53:24.000Z",
+   "link": "https://www.nytimes.com/athletic/7729570/2026/10/27/world-series-tv-ratings-fox-2026-brewers-rays/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
