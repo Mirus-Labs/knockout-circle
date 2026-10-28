@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:06:17.702Z",
+ "updated": "2026-10-28T09:00:20.326Z",
  "news": [
   {
    "cat": "PARAMOUNT AUSTRALIA & NEW ZEALAND",
@@ -32,13 +32,22 @@
    "bg": "#7a5b16"
   },
   {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Premier League champions Arsenal suffer shock defeat to League Two Fleetwood in Carabao Cup",
+   "iso": "2026-10-28T07:54:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7730617/2026/10/27/arsenal-shock-defeat-fleetwood-league-cup/",
+   "lede": "",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "ASAASE RADIO",
    "title": "Andre Ayew visits Black Challenge, donates ahead of Amputee Football World Cup",
    "iso": "2026-10-28T07:46:14.000Z",
    "link": "https://asaaseradio.com/andre-ayew-visits-black-challenge-donates-ahead-of-amputee-football-world-cup/",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NATION NEWSPAPER",
@@ -47,8 +56,8 @@
    "link": "https://thenationonlineng.net/2030-world-cup-fifa-to-visit-potential-host-cities-in-november-december/amp/",
    "lede": "FIFA will carry out a series of visits to candidate host cities in Spain, Portugal and ​Morocco in November and December as part ‌of the venue selection.",
    "image": "https://cdn.thenationonlineng.net/wp-content/uploads/2025/05/15062520/1311614_2297727_FIFA_akhbar.webp",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -56,8 +65,8 @@
    "iso": "2026-10-28T06:21:31.000Z",
    "link": "https://www.nytimes.com/athletic/7731422/2026/10/28/brewers-rays-game-4-world-series-mlb-playoffs-walk-off/",
    "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "REPORT.AZ",
@@ -65,16 +74,6 @@
    "iso": "2026-10-28T05:37:06.000Z",
    "link": "https://report.az/en/football/azerbaijan-to-face-chile-in-next-fifa-u-15-world-cup-match-in-baku",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE ANNAPURNA EXPRESS",
-   "title": "FIFA to visit potential 2030 World Cup host cities in November and December",
-   "iso": "2026-10-28T05:31:48.000Z",
-   "link": "https://theannapurnaexpress.com/story/68274/",
-   "lede": "FIFA will carry out a series of visits to candidate host cities in Spain, Portugal and ​Morocco in November and December as part of the venue selectio.",
-   "image": "https://annapurnaexpress.prixacdn.net/media/albums/IMG_6142_RJsfaiCqM6.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
