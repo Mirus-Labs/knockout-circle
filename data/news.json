@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-28T15:07:36.586Z",
+ "updated": "2026-10-28T16:07:06.081Z",
  "news": [
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco vs North Korea: How & When to Watch the U17 Women's World Cup Round of 16 Clash",
+   "iso": "2026-10-28T15:55:32.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/344131/morocco-vs-north-korea-how-when-to-watch-the-u17-womens-world-cup-round-of-16-clash/",
+   "lede": "Rabat – Morocco’s U17 Women’s national team return to action today, Wednesday, October 28, as they take on heavyweights North Korea in a high-stakes Round of 16 clash at the Mohammed VI Football Complex in Maâmora. Youness Rabie’s side enter the knockout phase determined to write a new chapter in Moroccan women's football history. Having reached the Round of 16 as one of the best third-placed teams, the host nation faces a familiar roadblock: the very same North Korean side that ended their tournament run at this exact stage last year before going on to lift the trophy. North Korea arrive in Maâmora as four-time world champions in this age category and clear tournament favorites.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/morocco-vs-north-africa-U17-WC-.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "KHEL NOW",
+   "title": "India U15 team come from behind to claim 3-2 win over Trinidad and Tobago 3-2 in FIFA U15 World Cup",
+   "iso": "2026-10-28T15:49:00.000Z",
+   "link": "https://khelnow.com/football/indian-football-fifa-u15-world-cup-india-u15-vs-trinidad-and-tobago-u15-match-report",
+   "lede": "India will now face Afghanistan in the quarter-finals for positions 81 to 88. India produced a strong second-half comeback to defeat Trinidad and Tobago 3-2 in the Round of 16 of the lower bracket in Tier C at the FIFA U15 World Cup & Festival Azerbaijan 2026 at the Hovsan Competition Complex Pitch 8A in Baku on Wednesday, October 28, 2026. Trailing 0-2 at half-time after goals from Jaylon Carrington (6’) and Djoshua Cyrus (18’), the Blue Colts responded through a Victor Lalawmpuia brace (23’, 25’) before R Lalremruatfela (29’) completed the turnaround. India will now face Afghanistan, who defeated Namibia 6-2, in the quarter-finals for positions 81 to 88, at 13:00 IST tomorrow.",
+   "image": "https://assets.khelnow.com/news/uploads/2026/10/India-U15-Men-vs-TRI-FIFAU15WCF.jpg-scaled.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "NEWSWAV",
+   "title": "Gianni Infantino critic quits over World Cup controversy in latest Fifa re-election twist",
+   "iso": "2026-10-28T15:05:25.000Z",
+   "link": "https://newswav.com/article/gianni-infantino-critic-quits-over-world-cup-controversy-in-latest-fifa-re-A2610_fHlghZ",
+   "lede": "Japan Football Association vice-president Takeshi Okada has stepped down from his role over controversies surrounding this year's Fifa World Cup. Okada's departure occurred just one week after the Asian Football Confederation officially endorsed Fifa president Gianni Infantino for re-election. The former Japan manager stated that recent governance actions surrounding the tournament significantly diverged from his personal convictions regarding sporting integrity. The resignation highlights internal divisions within the Asian football governing body despite its recent public show of support for Infantino.",
+   "image": "https://static.independent.co.uk/2026/10/24/12/63501f9d3625206df2ad7cec06aacdefY29udGVudHNlYXJjaGFwaSwxNzkyOTI2MjU0-2.86278590.jpg?width=1200&auto=webp&crop=3%3A2",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "BBC",
    "title": "Telford football referee returns from 'incredible' China tournament",
@@ -8,8 +38,8 @@
    "link": "https://www.bbc.com/news/articles/cq5ynx7ye73eo",
    "lede": "A young football referee who has just returned from officiating at a world schools tournament in China has said it was a \"scary\" but also \"incredible\" experience. Callum Oram, 18, has been refereeing for three years and hopes to make it his full time career. He spent 11 days working at the International School Sport Federation Football World Cup in Suzhou and made friends with other young referees from around the world. The Telford College student said he believed the tournament would be a valuable learning experience and would help him move ahead in the game.",
    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d9b/live/dd35fe10-d2db-11f1-b677-b762d2f83f6e.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YAHOO NEWS UK",
@@ -18,8 +48,18 @@
    "link": "https://uk.news.yahoo.com/fifa-politics-around-infantino-election-141811359.html",
    "lede": "GENEVA (AP) — Two-time World Cup coach Takeshi Okada resigned as Japanese soccer federation vice president in protest at the politics around FIFA during Gianni Infantino's campaign to be re-elected. Japan's soccer body on Wednesday published Okada's resignation statement dated last Saturday — 24 hours after the Asian Football Confederation had performed a U-turn by publicly supporting Infantino, who seeks a fourth and final presidential term at an election in March. Infantino has faced a backlash since July over his failed World Cup sell-off plan and broader management style including ties to U.S. President Donald Trump, provoking a furor from soccer leaders in Europe, North America and — initially — in Asia.",
    "image": "https://s.yimg.com/lo/mysterio/api/7cb71cd4e7d9980a3fc8c4ad5c89b7fbfab9123060691ecb1952cb0ed3fa7a6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd5e6ba210ec413476c231298ad2db5af.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "JAPAN WIRE BY KYODO NEWS",
+   "title": "Football: JFA VP Okada resigns over displeasure with FIFA, national body",
+   "iso": "2026-10-28T14:04:00.000Z",
+   "link": "https://english.kyodonews.net/articles/-/89714",
+   "lede": "TOKYO - The Japan Football Association announced Wednesday that Vice President Takeshi Okada, a former manager of the men's national team, has resigned before the end of his term. Sources familiar with the matter said the 70-year-old, who stepped down on Saturday, departed due to dissatisfaction over several issues involving world ruling body FIFA at this summer's World Cup, as well as the JFA's response. \"There was a significant gap between the handling of issues surrounding this World Cup and my own personal principles,\" Okada said in a statement released by the JFA. \"As a sportsman, I could not accept this, which led to my decision to resign.\"",
+   "image": "https://english-kyodo.ismcdn.jp/mwimgs/2/6/1200x/img_264f750b70ad8efd37b6f634a1f71fc5397673.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "TÜRKIYE TODAY",
@@ -28,56 +68,16 @@
    "link": "https://www.turkiyetoday.com/sports/japan-football-vice-president-okada-quits-over-fifa-world-cup-decisions-3231217",
    "lede": "Takeshi Okada, vice president of the Japan Football Association (JFA), resigned on Wednesday, stating that the organization’s \"series of responses\" to recent World Cup controversies conflicted with his personal values. Okada, who led Japan as head coach at the 1998 and 2010 World Cups, stepped down a week after Asian Football Confederation (AFC) president Sheikh Salman bin Ebrahim al-Khalifa declared the region's full support for Gianni Infantino’s FIFA re-election bid during a meeting in Tokyo. The AFC's endorsement marked a shift coming just weeks after joining European and North American governing bodies in criticizing Infantino over plans to open major FIFA competitions to private investors. Infantino continues to face pressure over governance decisions as continental associations debate his leadership tenure.",
    "image": "https://img.turkiyetoday.com/images/2026/10/28/japan-football-vice-president-okada-quits-over-fifa-world-cup-responses-3231217_20261028165047.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "TURKMENPORTAL.COM",
-   "title": "Turkmenistan’s youth football team lost to Canada at the U-15 World Cup",
-   "iso": "2026-10-28T12:15:48.000Z",
-   "link": "https://turkmenportal.com/en/news/106162-turkmenistans-youth-football-team-lost-to-canada-at-the-u-15-world-cup",
-   "lede": "Turkmenistan’s youth team lost to Canada in the Round of 32 (bracket D) of the FIFA U-15 World Cup and Festival, currently taking place in Azerbaijan. The match, held in Govsan, ended with a 4–0 victo. Turkmenistan, an Internet portal on cultural, business and entertainment life in Turkmenistan.",
-   "image": "https://turkmenportal.com/images/uploads/blogs/2026-10-28T14-26-40_6ea6241a-7ad7-49c0-ad46-21bd51d3df38.webp",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-Former Japan coach Okada quits JFA vice-president role over FIFA concerns",
-   "iso": "2026-10-28T11:44:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/10/28/soccer-former-japan-coach-okada-quits-jfa-vice-president-role-over-fifa-concerns",
-   "lede": "Oct 28 (Reuters) - Former Japan ⁠coach Takeshi Okada has resigned as vice-president of the ⁠Japan Football Association, citing concerns over developments surrounding FIFA and ‌the World Cup, the JFA said on Wednesday. Okada's resignation came a week after Asian Football Confederation (AFC) president Sheikh Salman bin Ibrahim Al Khalifa declared support for ​Gianni Infantino's bid for re-election as ⁠FIFA president at the AFC's ⁠extraordinary congress in Tokyo. The endorsement marked a sharp shift from the ⁠AFC's ‌position three months earlier, when the confederation accused FIFA of a \"fundamental breach of trust\" over the abandoned FIFA ⁠Forward Enterprise (FFE) proposal to sell a stake in ​FIFA competitions. \"Guided by ‌my belief that sports should embody integrity, I have always ⁠valued their ​social significance,\" Okada said in a statement on theJFA website.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4185093.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE STAR",
-   "title": "Football: Soccer-Ballon d'Or title will help keep Kane at Bayern, says Matthaeus",
-   "iso": "2026-10-28T11:42:00.000Z",
-   "link": "https://www.thestar.com.my/sport/football/2026/10/28/soccer-ballon-d039or-title-will-help-keep-kane-at-bayern-says-matthaeus",
-   "lede": "BERLIN, Oct 28 (Reuters) - Winning the ⁠Ballon d'Or will help convince Bayern Munich striker Harry Kane to ⁠extend his deal with the German champions, former World Cup winnerLothar ‌Matthaeus said on Wednesday. On Monday Kane became the first Englishmanto win the prestigious award -- the top individual honour in the sport -- since Michael Owen in 2001. The England captain was prolific last season, ​scoring 61 goals in 51 games for Bayern ⁠across all competitions as the ⁠German side completed a domestic league and cup double. He was also a World ⁠Cup ‌semi-finalist with England, scoring six goals in the tournament.",
-   "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4185088.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "AL JAZEERA",
-   "title": "Japan football association official resigns after AFC aligns with Infantino",
-   "iso": "2026-10-28T11:12:08.000Z",
-   "link": "https://www.aljazeera.com/amp/sports/2026/10/28/japan-football-association-official-resigns-after-afc-aligns-with-infantino",
-   "lede": "France international Kylian Mbappe’s remarks saw him become the latest foreign sports figure to anger Beijing. Granit Xhaka and Breel Embolo’s return to Switzerland ‘the right course of action,’ national team director says. Argentina forward Julian Alvarez’s contract with Atletico until 2030 means approach breached rules. Fourth-tier Fleetwood beat 10-man Arsenal 5-3 on penalties in ⁠the League Cup last 16, pulling off a major upset.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae1c60b-1793181195.jpg?resize=1920%2C1440",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "ANADOLU AJANSI",
-   "title": "Japanese football association vice president resigns over actions surrounding FIFA World Cup",
-   "iso": "2026-10-28T13:42:22.000Z",
-   "link": "https://www.aa.com.tr/en/asia-pacific/japanese-football-association-vice-president-resigns-over-actions-surrounding-fifa-world-cup/4103918",
-   "lede": "Resignation comes after Asian Football Confederation president pledged support for Gianni Infantino's bid for re-election as FIFA president | Anadolu. Resignation comes after Asian Football Confederation president pledged support for Gianni Infantino's bid for re-election as FIFA president.",
-   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_2e6faa4271b6641492c8ae3c269963f8.jpg",
+   "cat": "DAILY SABAH",
+   "title": "FIFA to inspect 15 candidate cities for 2030 World Cup | Daily Sabah",
+   "iso": "2026-10-28T15:33:11.000Z",
+   "link": "https://www.dailysabah.com/sports/football/fifa-to-inspect-15-candidate-cities-for-2030-world-cup",
+   "lede": "FIFA will inspect candidate host cities and stadiums in Spain, Portugal and Morocco in November and December as it moves closer to deciding where matches...",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/28/thumbs/1200x675/467991.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
