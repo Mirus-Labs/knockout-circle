@@ -1,16 +1,6 @@
 {
- "updated": "2026-10-29T19:53:52.158Z",
+ "updated": "2026-10-29T23:10:00.567Z",
  "news": [
-  {
-   "cat": "SPORTS247 NIGERIA",
-   "title": "FIFA U-17 Women’s World Cup: “I See Flamingos in the Final” – Abiola Backs Nigeria Against Venezuela, Hails SSA Adeboye’s Fatherly Support",
-   "iso": "2026-10-29T18:43:30.000Z",
-   "link": "https://www.sports247.ng/fifa-u-17-womens-world-cup-i-see-flamingos-in-the-final-abiola-backs-nigeria-against-venezuela-hails-ssa-adeboyes-fatherly-support/",
-   "lede": "Eniola Abiola Atanda, Principal Assistant to the Senior Special Assistant to the President on Grassroots Sports Development, has tipped Nigeria’s Flamingos to reach the final of the 2026 FIFA U-17 Women’s World Cup, expressing confidence ahead of their quarter-final clash against Venezuela, Sports247.ng reports. Atanda, who watched Nigeria’s thrilling 2-1 victory over Mexico from the stands in Morocco, believes the youngsters possess the unity, determination and fighting spirit required to challenge for the trophy. Read Also: “These Girls Are Too Good!” — SSA Adeboye Hails Flamingos After Thrilling Victory Over Mexico. “I already see these girls in the final.",
-   "image": "https://www.sports247.ng/wp-content/uploads/2026/10/IMG-20261029-WA0049.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "MOROCCO WORLD NEWS",
    "title": "FIFA Team to Visit Morocco for Inspection of Ongoing World Cup Preparations",
@@ -18,8 +8,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/344316/fifa-team-to-visit-morocco-for-inspection-of-ongoing-world-cup-preparations/",
    "lede": "A FIFA team will conduct an inspection tour of the 2030 World Cup co-host countries, including Morocco, in November and December. A communiqué from FIFA said the delegation will meet with representatives of local, regional, and national authorities in the three countries and inspect candidate stadiums as part of the ongoing planning process. The FIFA delegation will visit several host cities in Morocco, including Agadir, Fez, Marrakech, Rabat, and Tangier, as well as Casablanca. It will also visit host cities in Spain, including Bilbao, Barcelona, Las Palmas, Seville, Zaragoza, and San Sebastián.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/FIFA-Team-to-Visit-Morocco-for-Inspection-of-Ongoing-World-Cup-Preparations.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "⚽",
+   "bg": "#1d6f42"
   },
   {
    "cat": "DAILY TRIBUNE",
@@ -28,6 +18,16 @@
    "link": "https://tribune.net.ph/2026/10/29/pinoys-sustain-form-rip-macau",
    "lede": "DT·30 October 2026 · 1:28 AM PHT·2 MIN READ. NATHAN Caligdong connects a goal that lifted the Filipinos to a 2-0 win over Macdau in the preliminaries of the FIFA U15 World Cup and Festival in Baku, Azerbaijan. BAKU, Azerbaijan — The Philippine U15 Men’s National Football Team (PMNFT U15) notched their third straight win in the inaugural FIFA U15 World Cup and Festival, beating Macau, 2-0, to start the classification stage Tier D round of 32 at the Hovsan Competition Complex. The young Filipinos dominated offensively, dominating possession and mounting numerous attacks to the Macau goal.",
    "image": "https://images.assettype.com/tribune/2026-10-29/7d939se7/NATHAN-Caligdong.jpg?w=1200&auto=format&q=70&rect=0%2C83%2C1600%2C900&h=675&fit=crop",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MALTAFOOTBALL.COM",
+   "title": "FIFA U15 World Cup & Festival: A defeat and a win for Malta on Thursday",
+   "iso": "2026-10-29T18:13:06.000Z",
+   "link": "https://www.maltafootball.com/2026/10/29/fifa-u15-world-cup-festival-a-defeat-and-a-win-for-malta-on-thursday/",
+   "lede": "The Malta Under-15 team taking part in the FIFA U15 World Cup & Festival in Azerbaijan will be playing for the 165th place after losing to New Zealand in the Tier F quarter-finals on Thursday. After back-to-back wins over Suriname and São Tomé and Príncipe on Wednesday, Malta lost 1-2 to New Zealand to miss out on the chance to play for the 161st place in the tournament. Malta then had to play against Fiji later on Thursday, winning 4-0. In the match for the 165th place on Friday, Malta will be playing against Samoa who defeated Vanuatu on penalties following a 2-2 draw.",
+   "image": "https://www.maltafootball.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-13.20.26.png",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -52,29 +52,27 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "REDIFF",
-   "title": "India U15 Fightback Ends In Heartbreak Against Kazakhstan",
-   "iso": "2026-10-29T16:16:38.000Z",
-   "link": "https://www.rediff.com/sports/report/lalawmpuia-nets-four-but-india-u15-lose-shootout-to-kazakhstan/20261029.htm",
-   "lede": "In a dramatic FIFA U15 World Cup & Festival match, India's U15 football team, powered by Victor Lalawmpuia's four goals, mounted an incredible comeback from three goals down against Kazakhstan before ultimately losing a thrilling penalty shootout. Victor Lalawmpuia scored four times as India fought back from a three-goal deficit before eventually losing 4-5 on penalties to Kazakhstan following a 5-5 draw in the Tier C semi-final for positions 85 to 88 at the FIFA U15 World Cup & Festival in Baku on Thursday. The Blue Colts recovered from 0-3 down to lead 4-3 at half-time, only for Kazakhstan to strike twice after the restart. Lalawmpuia's fourth goal in the 37th minute forced a shootout, where Kazakhstan prevailed in sudden death after both sides missed their fifth penalties.",
-   "image": "https://im.rediff.com/1200-630/sports/2026/oct/29aiff-uzbek.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Packers vs. Panthers predictions: Our experts agree on the winner, but disagree on how close",
+   "iso": "2026-10-29T22:49:59.000Z",
+   "link": "https://www.nytimes.com/athletic/7730446/2026/10/29/packers-panthers-predictions-result-final/",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "KAWOWO SPORTS",
-   "title": "U17 Women’s World Cup: Morocco puts its infrastructure at the service of African and world football",
-   "iso": "2026-10-29T15:42:28.000Z",
-   "link": "https://kawowo.com/2026/10/29/u17-womens-world-cup-morocco-puts-its-infrastructure-at-the-service-of-african-and-world-football/",
-   "lede": "The FIFA U17 Women’s World Cup, being held in Morocco from 17 October to 7 November, stands out not only for the historic run of African teams. It also highlights the quality of Morocco’s infrastructure and the Kingdom’s ability to host major international competitions. At the heart of the set-up, the Mohammed VI Complex brings together high-level pitches, on-site accommodation, catering, physical preparation and sports medicine. It gives the 24 participating teams training and match conditions that meet the most demanding standards, within a centralised format that also allows fans to watch several matches on the same day.",
-   "image": "https://kawowo.com/wp-content/uploads/2026/10/Mohammed-VI-Sports-Complex-scaled.jpeg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Fantasy football injury report: Smart pivots and backup plans for Week 8",
+   "iso": "2026-10-29T22:16:43.000Z",
+   "link": "https://www.nytimes.com/athletic/7732303/2026/10/29/fantasy-football-injury-report-week-8/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "College football score projections Week 9: Model predicts every FBS vs. FBS game",
-   "iso": "2026-10-29T19:47:07.000Z",
+   "iso": "2026-10-29T20:23:01.000Z",
    "link": "https://www.nytimes.com/athletic/7736504/2026/10/29/college-football-score-projections-week-9-model-spreads/",
    "lede": "",
    "emoji": "🧤",
