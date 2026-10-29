@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:52:08.012Z",
+ "updated": "2026-10-29T19:53:52.158Z",
  "news": [
   {
    "cat": "SPORTS247 NIGERIA",
@@ -14,7 +14,7 @@
   {
    "cat": "MOROCCO WORLD NEWS",
    "title": "FIFA Team to Visit Morocco for Inspection of Ongoing World Cup Preparations",
-   "iso": "2026-10-29T18:37:49.000Z",
+   "iso": "2026-10-29T18:37:56.000Z",
    "link": "https://www.moroccoworldnews.com/2026/10/344316/fifa-team-to-visit-morocco-for-inspection-of-ongoing-world-cup-preparations/",
    "lede": "A FIFA team will conduct an inspection tour of the 2030 World Cup co-host countries, including Morocco, in November and December. A communiqué from FIFA said the delegation will meet with representatives of local, regional, and national authorities in the three countries and inspect candidate stadiums as part of the ongoing planning process. The FIFA delegation will visit several host cities in Morocco, including Agadir, Fez, Marrakech, Rabat, and Tangier, as well as Casablanca. It will also visit host cities in Spain, including Bilbao, Barcelona, Las Palmas, Seville, Zaragoza, and San Sebastián.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/FIFA-Team-to-Visit-Morocco-for-Inspection-of-Ongoing-World-Cup-Preparations.jpg",
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "BLACKSPORTSONLINE",
-   "title": "Best football betting sites for the full season, not the World Cup",
-   "iso": "2026-10-29T17:02:39.000Z",
-   "link": "https://blacksportsonline.com/2026/10/best-football-betting-sites-for-the-full-season-not-the-world-cup/",
-   "lede": "Spain lifted the World Cup on 19 July, beating Argentina 1-0 in the final, and within two weeks the fixture list was already filling up with pre-season friendlies. That gap between a six-week tournament and a nine-month season is where most bettors end up judging a bookmaker on the wrong evidence. This piece looks at the best football bookmakers the way a full season judges them: on daily-market pricing, account treatment, and coverage that does not disappear once the World Cup does. Every set of football odds contains an inherent cost – the overround or “margin” – that represents the degree to which the total implied probability of an event exceeds 100 per cent.",
-   "image": "https://blacksportsonline.com/wp-content/uploads/2025/12/soccer-balls.jpeg",
+   "cat": "3NEWS",
+   "title": "France eyes joint bid to host World Cup, with 2038 in focus",
+   "iso": "2026-10-29T16:42:21.000Z",
+   "link": "https://3news.com/football/france-eyes-joint-bid-to-host-world-cup-with-2038-in-focus",
+   "lede": "France is exploring the possibility of hosting a future Fifa World Cup, with French Football Federation (FFF) president Philippe Diallo indicating that a joint bid with other countries could be considered. The 2038 tournament has emerged as a potential target, although the FFF has not announced an official bid. Discussions remain at an early stage, with the federation yet to identify possible partners or establish which edition of the competition it might seek to host. Diallo outlined the idea in comments reported by French newspaper Ouest-France, describing a future World Cup bid as a potentially more ambitious project for French football.",
+   "image": "https://media.3news.com/HOUQiKsXsAASYBr-1200x630.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "REDIFF",
+   "title": "India U15 Fightback Ends In Heartbreak Against Kazakhstan",
+   "iso": "2026-10-29T16:16:38.000Z",
+   "link": "https://www.rediff.com/sports/report/lalawmpuia-nets-four-but-india-u15-lose-shootout-to-kazakhstan/20261029.htm",
+   "lede": "In a dramatic FIFA U15 World Cup & Festival match, India's U15 football team, powered by Victor Lalawmpuia's four goals, mounted an incredible comeback from three goals down against Kazakhstan before ultimately losing a thrilling penalty shootout. Victor Lalawmpuia scored four times as India fought back from a three-goal deficit before eventually losing 4-5 on penalties to Kazakhstan following a 5-5 draw in the Tier C semi-final for positions 85 to 88 at the FIFA U15 World Cup & Festival in Baku on Thursday. The Blue Colts recovered from 0-3 down to lead 4-3 at half-time, only for Kazakhstan to strike twice after the restart. Lalawmpuia's fourth goal in the 37th minute forced a shootout, where Kazakhstan prevailed in sudden death after both sides missed their fifth penalties.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/oct/29aiff-uzbek.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "KAWOWO SPORTS",
@@ -58,26 +68,15 @@
    "link": "https://kawowo.com/2026/10/29/u17-womens-world-cup-morocco-puts-its-infrastructure-at-the-service-of-african-and-world-football/",
    "lede": "The FIFA U17 Women’s World Cup, being held in Morocco from 17 October to 7 November, stands out not only for the historic run of African teams. It also highlights the quality of Morocco’s infrastructure and the Kingdom’s ability to host major international competitions. At the heart of the set-up, the Mohammed VI Complex brings together high-level pitches, on-site accommodation, catering, physical preparation and sports medicine. It gives the 24 participating teams training and match conditions that meet the most demanding standards, within a centralised format that also allows fans to watch several matches on the same day.",
    "image": "https://kawowo.com/wp-content/uploads/2026/10/Mohammed-VI-Sports-Complex-scaled.jpeg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Morocco U-15 Exit World Cup After Paraguay Defeat",
-   "iso": "2026-10-29T15:27:36.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/344276/morocco-u-15-exit-world-cup-after-paraguay-defeat/",
-   "lede": "Rabat – Morocco’s U-15 national team has been eliminated from the U-15 World Cup after losing 1-0 to Paraguay in the round of 16 on Wednesday. The match took place at the Hovsan Complex in Baku, Azerbaijan, where Paraguay secured a narrow victory to advance to the next round, ending Morocco’s campaign in the competition. The young Atlas Cubs were unable to overcome their South American opponents, who secured qualification with a single goal. Morocco had hoped to continue their run in the tournament but fell short in the knockout stage.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U15.jpeg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "GBC GHANA ONLINE",
-   "title": "Spanish Ambassador backs Ghana’s bid for Amputee Football World Cup glory",
-   "iso": "2026-10-29T17:26:15.000Z",
-   "link": "https://www.gbcghanaonline.com/news/spanish-ambassador-backs-ghanas-bid-for-amputee-football-world-cup-glory/2026/",
-   "lede": "Spain’s Ambassador to Ghana, His Excellency Ángel Lossada Torres-Quevedo, has delivered an inspiring message of solidarity to Ghana’s national amputee.",
-   "image": "https://www.gbcghanaonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-13.47.50.jpeg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "College football score projections Week 9: Model predicts every FBS vs. FBS game",
+   "iso": "2026-10-29T19:47:07.000Z",
+   "link": "https://www.nytimes.com/athletic/7736504/2026/10/29/college-football-score-projections-week-9-model-spreads/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
