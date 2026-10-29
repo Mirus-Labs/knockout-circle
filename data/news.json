@@ -1,15 +1,55 @@
 {
- "updated": "2026-10-28T21:08:44.799Z",
+ "updated": "2026-10-29T00:14:18.017Z",
  "news": [
   {
-   "cat": "THE SUN",
-   "title": "53,800-seater World Cup stadium labelled unfit for purpose and may be demolished",
-   "iso": "2026-10-28T18:24:00.000Z",
-   "link": "https://www.thesun.co.uk/sport/40840193/world-cup-stadiums-eintracht-frankfurt-demolished/",
-   "lede": "A FORMER World Cup stadium has been branded no longer fit for purpose just 21 years after its last renovation. The Waldstadion has been the home of Bundesliga side Eintracht Frankfurt since 1925. It’s undergone several renovations over the years, with the most recent being completed in 2005 ahead of the Fifa Confederations Cup and World Cup the following summer. That transformed the Waldstadion, which is known as Deutsche Bank Park for sponsorship reasons, into a football-only stadium.",
-   "image": "https://www.thesun.co.uk/wp-content/uploads/2026/10/newspress-collage-ownq5ac4w-1793211037700.jpg?quality=90&strip=all&1793211152&w=1920&h=1080&crop=1",
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco U15 Reach World Cup Round of 16 After Beating Cameroon",
+   "iso": "2026-10-28T22:41:09.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/10/344219/morocco-u15-reach-world-cup-round-of-16-after-beating-cameroon/",
+   "lede": "Rabat – Morocco’s U-15 national football team secured a place in the round of 16 of the FIFA U-15 World Cup & Festival on Wednesday after defeating Cameroon 4-1 at the Hovsan Competition Complex in Baku, Azerbaijan. The young Atlas Lions dominated the encounter, with Saïd Noufii scoring twice to help Morocco advance to the next stage of the competition. Noufii opened the scoring in the third minute before Yassine Ajana doubled Morocco’s lead in the 27th minute. Adam Mimouni added a third goal one minute later, putting the Moroccan side in a commanding position.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U15.jpeg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "3NEWS",
+   "title": "Morocco knocked out of U-17 Women’s World Cup",
+   "iso": "2026-10-28T21:31:43.000Z",
+   "link": "https://3news.com/football/morocco-knocked-out-of-u-17-womens-world-cup",
+   "lede": "Morocco’s Under-17 women’s team have been eliminated from the FIFA U-17 Women’s World Cup after suffering a 6-0 defeat against defending champions North Korea in the Round of 16. The match, played on Wednesday at pitch 2 of the Mohammed VI Football Complex in Salé, saw the North Korean side dominate the hosts to secure their place in the quarter-finals. North Korea established control in the first half, scoring four times before the break. Morocco struggled to contain their opponents’ attacking threat, leaving the hosts facing a significant deficit going into the second half.",
+   "image": "https://media.3news.com/HVviLuqXkAAqCGw-1200x630.jpg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "FRIENDS OF FOOTBALL",
+   "title": "Players and clubs to benefit from new FIFA Women’s World Cup funding plan",
+   "iso": "2026-10-28T21:14:40.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/10/29/players-and-clubs-to-benefit-from-new-fifa-womens-world-cup-funding-plan/",
+   "lede": "FIFA have approved a new financial distribution model for the 2027 Women’s World Cup, promising increased payments to players, national associations and clubs. The governing body’s Bureau of the Council have agreed on principles for distributing income from next year’s tournament in Brazil. The model will include prize money, preparation funding and payments through the FIFA Club Benefits Programme, which compensates clubs for releasing players. Each of the 32 participating national associations, including NZ Football, will receive US$2.5 million (NZ$4.3 million) in preparation funding, matching the amount provided for the 2026 men’s World Cup.",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/01/FIFA-Womens-World-Cup-trophy-Brazil.png",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BARBADOS TODAY",
+   "title": "Junior Tridents record historic World Cup win",
+   "iso": "2026-10-28T20:06:46.000Z",
+   "link": "https://barbadostoday.bb/2026/10/28/junior-tridents-record-historic-world-cup-win/",
+   "lede": "History was created in Baku, Azerbaijan, on Wednesday as a Barbadian team won for the first time at a FIFA World Cup final. Playing in Tier F of the U-15 World Cup, Barbados blanked the US Virgin Islands 5-0 thanks to a brace from Kaleb Catwell and a goal apiece from Raezario Roach, Jevonte Ward and Zion Greene. The junior Tridents had earlier begun their Tier F campaign with a hard-fought 5-4 defeat on penalties to Caribbean neighbours Grenada. Barbados had led that encounter on two occasions before Grenada scored a last-minute equaliser in extra time to leave the game locked at 2-2.",
+   "image": "https://barbadostoday.bb/wp-content/uploads/2026/10/The-Barbados-team-won-its-first-game-of-the-World-Cup-today.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "FOOTBALLTRANSFERS.COM",
+   "title": "Tottenham plot record transfer: 'One of the best' World Cup stars targeted",
+   "iso": "2026-10-28T18:32:00.000Z",
+   "link": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/tottenham-transfer-news-alex-freeman-pedro-porro",
+   "lede": "Tottenham are targeting Villarreal sensation Alex Freeman as a potential replacement for Pedro Porro, who continues to be courted by LaLiga clubs. The Spain international committed his long-term future to Spurs in the summer by signing a new contract until 2031, and yet transfer speculation has continued to swirl around Porro unabated. The 27-year-old is said to be a key target for Barcelona and Real Madrid heading into 2027, with both clubs potentially having to make adjustments in their right-back departments. Jules Kounde is constantly being linked with a transfer away from the Catalans, while Trent Alexander-Arnold has struggled since moving to Madrid last year.",
+   "image": "https://static.footballtransfers.com/images/cf/image/upload/9068c3af-9dd7-41c4-6348-0a9390294300/q=75,w=1200,format=auto",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "VIJESTI.ME",
@@ -18,65 +58,24 @@
    "link": "https://en.vijesti.me/sports-e/football-c/833711/Fifi%27s-wealth-comes-from-astronomical-ticket-prices-at-the-World-Cup-and-an-income-of-as-much-as-five-billion-dollars.",
    "lede": "FIFA earned five billion dollars from ticket sales for the 2026 World Cup. The 2026 World Cup brought in more money than expected for FIFA. The Times reported that the world football body has raised $5 billion from ticket sales, more than five times the $929 million it raised from the Qatar World Cup. FIFA's plan was for $3,3 billion from ticket sales, but it was greatly exceeded, with total revenue from the 2026 World Cup estimated at around $15 billion.",
    "image": "https://www.vijesti.me/data/images/2026/06/11/21/5733047_20260611t182255z-490876562-up1em6b1f25g1-rtrmadp-3-soccerworldcupmexzaf_share.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE MIRROR",
-   "title": "FIFA confirm staggering World Cup revenue after controversial ticket policy",
-   "iso": "2026-10-28T17:22:00.000Z",
-   "link": "https://www.mirror.co.uk/sport/football/news/fifa-world-cup-ticket-revenue-37820225",
-   "lede": "FIFA are thought to have earned a staggering £3.8billion in ticket and hospitality sales from the World Cup this summer - five times more than they did at the tournament in Qatar four years ago. The World Cup in North America was the first to have 104 matches as FIFA increased the amount of nations who qualified and introduced an extra knockout round. The increased amount of games, 40 more than there were in 2022, has allowed football's governing body to benefit financially with record fees generated. The Times has reported that the aforementioned figure, which was not confirmed by the organisation, far exceeded what FIFA anticipated to earn and contributed to its overall World Cup revenue of $15bn (£11.27bn).",
-   "image": "https://i2-prod.mirror.co.uk/article37775016.ece/ALTERNATES/s1200d/0_GettyImages-2298681176.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Morocco vs North Korea: How & When to Watch the U17 Women's World Cup Round of 16 Clash",
-   "iso": "2026-10-28T15:55:32.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/344131/morocco-vs-north-korea-how-when-to-watch-the-u17-womens-world-cup-round-of-16-clash/",
-   "lede": "Rabat – Morocco’s U17 Women’s national team return to action today, Wednesday, October 28, as they take on heavyweights North Korea in a high-stakes Round of 16 clash at the Mohammed VI Football Complex in Maâmora. Youness Rabie’s side enter the knockout phase determined to write a new chapter in Moroccan women's football history. Having reached the Round of 16 as one of the best third-placed teams, the host nation faces a familiar roadblock: the very same North Korean side that ended their tournament run at this exact stage last year before going on to lift the trophy. North Korea arrive in Maâmora as four-time world champions in this age category and clear tournament favorites.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/morocco-vs-north-africa-U17-WC-.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "KHEL NOW",
-   "title": "India U15 team come from behind to claim 3-2 win over Trinidad and Tobago 3-2 in FIFA U15 World Cup",
-   "iso": "2026-10-28T15:49:00.000Z",
-   "link": "https://khelnow.com/football/indian-football-fifa-u15-world-cup-india-u15-vs-trinidad-and-tobago-u15-match-report",
-   "lede": "India will now face Afghanistan in the quarter-finals for positions 81 to 88. India produced a strong second-half comeback to defeat Trinidad and Tobago 3-2 in the Round of 16 of the lower bracket in Tier C at the FIFA U15 World Cup & Festival Azerbaijan 2026 at the Hovsan Competition Complex Pitch 8A in Baku on Wednesday, October 28, 2026. Trailing 0-2 at half-time after goals from Jaylon Carrington (6’) and Djoshua Cyrus (18’), the Blue Colts responded through a Victor Lalawmpuia brace (23’, 25’) before R Lalremruatfela (29’) completed the turnaround. India will now face Afghanistan, who defeated Namibia 6-2, in the quarter-finals for positions 81 to 88, at 13:00 IST tomorrow.",
-   "image": "https://assets.khelnow.com/news/uploads/2026/10/India-U15-Men-vs-TRI-FIFAU15WCF.jpg-scaled.jpeg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Drew Rasmussen to start Game 5 on short rest as Rays try to extend World Series",
-   "iso": "2026-10-28T19:45:59.000Z",
-   "link": "https://www.nytimes.com/athletic/7733228/2026/10/28/drew-rasmussen-rays-world-series-game-5/",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "CITI SPORTS ONLINE",
-   "title": "U-17 Women’s World Cup: Our tactical game led us to win over Argentina - Black Maidens Head Coach",
-   "iso": "2026-10-28T18:27:06.000Z",
-   "link": "https://citisportsonline.com/2026/10/u-17-womens-world-cup-our-tactical-game-led-us-to-win-over-argentina-black-maidens-head-coach/",
-   "lede": "Black Maidens head coach Joe Nana Adarkwa has praised his players for their tactical discipline after Ghana beat Argentina on. Black Maidens head coach Joe Nana Adarkwa has praised his players for their tactical discipline after Ghana beat Argentina on penalties to reach the.",
-   "image": "https://citisportsonline.com/wp-content/uploads/2026/10/Maid-1-1024x683.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Bradford City vs Manchester City Box Score - December 15, 2026 - The Athletic",
+   "iso": "2026-10-29T00:02:59.000Z",
+   "link": "https://www.nytimes.com/athletic/football/game/bradford-city-vs-manchester-city/IsIBAnlHzOVjHR1C/",
+   "lede": "Get real-time EFL League Cup coverage and scores as Bradford City take on Manchester City at 12:00am GMT on December 15, 2026. The Athletic brings you the latest stats, scores, and analysis of your favorite teams.",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "CITI SPORTS ONLINE",
-   "title": "Black Maidens beat Argentina on penalties to reach U-17 World Cup quarter-finals Ghana’s Black Maidens have advanced to the quarter-finals of the 2026 FIFA U-17 Women’s World Cup after defeating Argentina 5-4 on penalties following a 1-1 draw in regul",
-   "iso": "2026-10-28T18:27:06.000Z",
-   "link": "https://citisportsonline.com/2026/10/black-maidens-beat-argentina-on-penalties-to-reach-u-17-world-cup-quarter-finals/",
-   "lede": "Black Maidens beat Argentina on penalties to reach U-17 World Cup quarter-finals Ghana’s Black Maidens have advanced to the quarter-finals of the 2026 FIFA U-17 Women’s World Cup after defeating Argentina 5-4 on penaltie",
-   "image": "https://citisportsonline.com/wp-content/uploads/2026/10/HVvB0abXYAAJ2OY-1024x683.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Big 12 fines UCF $100,000 for anti-Mormon chants, sets on-field penalties for repeat offenses",
+   "iso": "2026-10-28T23:09:29.000Z",
+   "link": "https://www.nytimes.com/athletic/7733764/2026/10/28/big-12-fines-ucf-100k-discriminatory-conduct-byu/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
