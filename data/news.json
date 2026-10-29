@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-29T05:59:07.414Z",
+ "updated": "2026-10-29T07:10:48.634Z",
  "news": [
+  {
+   "cat": "JAPAN WIRE BY KYODO NEWS",
+   "title": "Football: Goto, Shiogai at double as Freiburg down Wolfsburg in German Cup",
+   "iso": "2026-10-29T06:53:01.000Z",
+   "link": "https://english.kyodonews.net/articles/-/89795",
+   "lede": "BERLIN - Wolfsburg's Kento Shiogai bagged a brace before Freiburg's Keisuke Goto netted a double of his own to steer the home team to a 3-2 comeback win in the second round of the German Cup on Wednesday. The 21-year-old Japanese forwards, who both appeared in this summer's World Cup in North America, played big parts in turning the game around for their respective teams in a thrilling encounter at Freiburg's Europa-Park Stadion. Igor Matanovic's sixth-minute header gave the hosts the lead, but Shiogai got the second-tier side level just two minutes later when he latched onto a long ball behind the Freiburg backline and smashed home a low half-volley. The former NEC Nijmegen man put the visitors in front two minutes from the break when he found himself unmarked to bury a close-range header from a left-wing corner.",
+   "image": "https://english-kyodo.ismcdn.jp/mwimgs/e/5/1200x/img_e536eb9397e774d0788570f7759ff33b647964.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "CONTENT + TECHNOLOGY",
+   "title": "World Cup Fever Returns In 2027",
+   "iso": "2026-10-29T06:25:32.000Z",
+   "link": "https://content-technology.com/sportscasting/world-cup-fever-returns-in-2027/",
+   "lede": "Four years after the CommBank Matildas captivated the nation with their history-making run to the semi-finals on home soil, Australia’s football heroes will once again be chasing World Cup glory. Their unforgettable 2023 campaign united the country, shattered viewing records and inspired a new generation of football fans. Now, the stage is set for another thrilling chapter as the world’s best descend on Brazil. And the FIFA Women’s World Cup 2027 is just the beginning.",
+   "image": "https://content-technology.com/wp-content/uploads/2026/10/World-Cup-Fever-27.png",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "AFRICA TOP SPORTS",
    "title": "South Africa U-15 go down to Portugal in FIFA World Cup clash, face UAE in quarterfinals",
@@ -8,18 +28,8 @@
    "link": "https://en.africatopsports.com/south-africa-u-15-go-down-to-portugal-in-fifa-world-cup-clash-face-uae-in-quarterfinals/",
    "lede": "he South African U15 Boys National team went down 1-2 to Portugal in their Round of 16 – Tier B clash in the FIFA U15 Boys World Cup and Festival in Baku, Azerbaijan, on Wednesday. Head Coach Selekedi’s charges will now face the United Arab Emirates (UAE) in the quarterfinal battle for play-off positions between 41-48. Kickoff is at 08h15 South African time. UAE lost 3-2 to Iran who will now face Portugal.",
    "image": "https://en.africatopsports.com/wp-content/uploads/2026/10/download-31-e1793082550421.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "NEWSWIRE",
-   "title": "Sports Minister meets Sri Lanka U15 team at FIFA World Cup in Azerbaijan",
-   "iso": "2026-10-29T04:40:32.000Z",
-   "link": "https://www.newswire.lk/2026/10/29/sports-minister-meets-sri-lanka-u15-team-at-fifa-world-cup-in-azerbaijan/",
-   "lede": "Minister of Youth Affairs and Sports Sunil Kumara Gamage met with the Sri Lanka Under-15 National Football Team participating in the inaugural FIFA U15 World Cup and Festival in Baku, Azerbaijan, on Wednesday (28). The Minister, accompanied by Football Federation of Sri Lanka (FFSL) President Jaswar Umar, visited the young players to encourage their participation in the historic international football event. The inaugural FIFA U15 World Cup and Festival provides young footballers with an opportunity to gain international exposure, develop their skills and experience competition against teams from other countries. Speaking during the visit, Minister Gamage highlighted the importance of providing young athletes with opportunities to compete internationally.",
-   "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Footbal-U15-FIFA.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE DAILY STAR",
@@ -28,8 +38,8 @@
    "link": "https://www.thedailystar.net/sports/football/news/bangladesh-reach-u-15-world-cup-quarterfinals-4310376",
    "lede": "Bangladesh continued their winning run at FIFA’s inaugural U-15 World Cup and Festival, beating Singapore 4-3 on penalties to reach the quarterfinals in Baku, Azerbaijan, on Wednesday. The last-16 encounter at the Hovsan Competition Complex ended 1-1 after regulation time before Bangladesh prevailed in the shootout to secure a place in the last eight. Earlier in the day, Akbar Hossain Ridon’s side had also needed penalties to overcome Seychelles in the last 32. After a 1-1 draw, Bangladesh won the shootout 4-2.",
    "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -38,8 +48,8 @@
    "link": "https://www.moroccoworldnews.com/2026/10/344219/morocco-u15-reach-world-cup-round-of-16-after-beating-cameroon/",
    "lede": "Rabat – Morocco’s U-15 national football team secured a place in the round of 16 of the FIFA U-15 World Cup & Festival on Wednesday after defeating Cameroon 4-1 at the Hovsan Competition Complex in Baku, Azerbaijan. The young Atlas Lions dominated the encounter, with Saïd Noufii scoring twice to help Morocco advance to the next stage of the competition. Noufii opened the scoring in the third minute before Yassine Ajana doubled Morocco’s lead in the 27th minute. Adam Mimouni added a third goal one minute later, putting the Moroccan side in a commanding position.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U15.jpeg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -48,36 +58,25 @@
    "link": "https://www.friendsoffootballnz.com/2026/10/29/players-and-clubs-to-benefit-from-new-fifa-womens-world-cup-funding-plan/",
    "lede": "FIFA have approved a new financial distribution model for the 2027 Women’s World Cup, promising increased payments to players, national associations and clubs. The governing body’s Bureau of the Council have agreed on principles for distributing income from next year’s tournament in Brazil. The model will include prize money, preparation funding and payments through the FIFA Club Benefits Programme, which compensates clubs for releasing players. Each of the 32 participating national associations, including NZ Football, will receive US$2.5 million (NZ$4.3 million) in preparation funding, matching the amount provided for the 2026 men’s World Cup.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/01/FIFA-Womens-World-Cup-trophy-Brazil.png",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "BARBADOS TODAY",
-   "title": "Junior Tridents record historic World Cup win",
-   "iso": "2026-10-28T20:06:46.000Z",
-   "link": "https://barbadostoday.bb/2026/10/28/junior-tridents-record-historic-world-cup-win/",
-   "lede": "History was created in Baku, Azerbaijan, on Wednesday as a Barbadian team won for the first time at a FIFA World Cup final. Playing in Tier F of the U-15 World Cup, Barbados blanked the US Virgin Islands 5-0 thanks to a brace from Kaleb Catwell and a goal apiece from Raezario Roach, Jevonte Ward and Zion Greene. The junior Tridents had earlier begun their Tier F campaign with a hard-fought 5-4 defeat on penalties to Caribbean neighbours Grenada. Barbados had led that encounter on two occasions before Grenada scored a last-minute equaliser in extra time to leave the game locked at 2-2.",
-   "image": "https://barbadostoday.bb/wp-content/uploads/2026/10/The-Barbados-team-won-its-first-game-of-the-World-Cup-today.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "FOOTBALLTRANSFERS.COM",
-   "title": "Tottenham plot record transfer: 'One of the best' World Cup stars targeted",
-   "iso": "2026-10-28T18:32:00.000Z",
-   "link": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/tottenham-transfer-news-alex-freeman-pedro-porro",
-   "lede": "Tottenham are targeting Villarreal sensation Alex Freeman as a potential replacement for Pedro Porro, who continues to be courted by LaLiga clubs. The Spain international committed his long-term future to Spurs in the summer by signing a new contract until 2031, and yet transfer speculation has continued to swirl around Porro unabated. The 27-year-old is said to be a key target for Barcelona and Real Madrid heading into 2027, with both clubs potentially having to make adjustments in their right-back departments. Jules Kounde is constantly being linked with a transfer away from the Catalans, while Trent Alexander-Arnold has struggled since moving to Madrid last year.",
-   "image": "https://static.footballtransfers.com/images/cf/image/upload/9068c3af-9dd7-41c4-6348-0a9390294300/q=75,w=1200,format=auto",
+   "cat": "DW.COM",
+   "title": "Men's World Cup: Mexico's most creative football pitches",
+   "iso": "2026-10-28T17:38:58.000Z",
+   "link": "https://www.dw.com/en/2026-mens-world-cup-mexicos-most-creative-football-pitches/g-77490969",
+   "lede": "On the southern outskirts of Mexico City, amateur teams meet on a very unique football pitch every Sunday. Known as the \"Field of the Gods,\" it is perched inside the extinct Teoca volcano and situated a breathtaking 2,700 meters (8,800 feet) above sea level. The pitch was created by the nearby community more than 60 years ago and is a source of local pride. Cars above, sports below: this pitch in Mexico City's colorful Las Aguilas neighborhood gives people the space to play soccer beneath a highway overpass.",
+   "image": "https://static.dw.com/image/77484405_6.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FACEBOOK",
-   "title": "MAKE IT THREE IN A ROW FOR PH 🇵🇭 The Philippine Under-15 Men's National Football Team clinched their third straight win after blanking Macau, 2-0, in the FIFA U15 World Cup & Festival in Baku, Azerbaijan. Goals from Dan Emmanuel Becera and Natha",
-   "iso": "2026-10-29T05:32:40.000Z",
-   "link": "https://www.facebook.com/abscbnNEWS/posts/make-it-three-in-a-row-for-ph-the-philippine-under-15-mens-national-football-tea/1740755721433010/",
-   "lede": "MAKE IT THREE IN A ROW FOR PH 🇵🇭 The Philippine Under-15 Men's National Football Team clinched their third straight win after blanking Macau, 2-0, in the FIFA U15 World Cup & Festival in Baku, Azerbaijan. Goals from Da",
-   "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/870356983_1420781780271167_7012208068095884819_n.png?stp=dst-jpg_tt6&cstp=mx1581x1054&ctp=p600x600&_nc_cat=108&ccb=1-7&_nc_sid=cae128&_nc_ohc=9adLLnrmMcsQ7kNvwGo1aPw&_nc_oc=AdokNx_jy55IIkFF761LByGvZrinN7Z16wuVeN8SOWvgy1MRr3CL8qqWBU-_QJd7VFQ&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=32sI7Tdz3NmWB0OhzakMTw&_nc_ss=7c289&oh=00_AQQCRrdK1vhI-noc-P2DDInJ3LWa367SH5d73ZNndDjQWg&oe=6AE89F7E",
+   "cat": "THE NEW YORK TIMES",
+   "title": "The Brewers just missed getting Tarik Skubal. They won the World Series anyway",
+   "iso": "2026-10-29T06:50:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7733968/2026/10/28/brewers-world-series-tarik-skubal-dodgers-trade-deadline/",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
