@@ -1,25 +1,44 @@
 {
- "updated": "2026-10-30T20:39:36.447Z",
+ "updated": "2026-10-30T22:40:15.250Z",
  "news": [
   {
-   "cat": "THE DAILY STAR",
-   "title": "FIFA to visit potential 2030 World Cup host cities in November and December",
-   "iso": "2026-10-30T17:23:30.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/fifa-visit-potential-2030-world-cup-host-cities-november-and-december-4309351",
-   "lede": "FIFA will carry out a series of visits to candidate host cities in Spain, Portugal and Morocco in November and December as part of the venue selection process for the 2030 World Cup, world football's governing body said on Tuesday. A FIFA delegation will visit candidate cities and stadiums in all three host countries to assess their suitability to host games. FIFA has yet to confirm which venues will be included, and has not announced where the World Cup final will be held, with Spain and Morocco battling to hold football's biggest match. Visits are planned for Agadir, Casablanca, Fez, Marrakech, Rabat and Tangier in Morocco; Lisbon and Porto in Portugal; and Barcelona, Bilbao, Las Palmas, Madrid, San Sebastian, Seville and Zaragoza in Spain.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "cat": "THE18",
+   "title": "This National Team qualified for the World Cup. Now they are fundraising to get there.",
+   "iso": "2026-10-30T22:14:47.000Z",
+   "link": "https://the18.com/en/soccer-news/usa-amputee-soccer-national-team-qualified-world-cup/140255",
+   "lede": "Men’s National Team, managed by the American Amputee Soccer Association, punched its ticket to the Amputee Soccer World Cup this fall. On top of work and training, the players have been fundraising to make sure they will be at the opening ceremony. This November, the United States will take on the best teams on the planet at the Amputee Football World Cup in San Juan de los Lagos, Mexico from Nov. The U.S. qualified on the field.",
+   "image": "https://the18.com/sites/default/files/feature-images/The18-Team-USA-World-Cup-AASA-Feature-Image%20%282%29.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
-   "cat": "MOROCCO WORLD NEWS",
-   "title": "Morocco U15 Finish 13th at World Cup in Azerbaijan With 36 Goals",
-   "iso": "2026-10-30T17:12:52.000Z",
-   "link": "https://www.moroccoworldnews.com/2026/10/344416/morocco-u15-finish-13th-at-world-cup-in-azerbaijan-with-36-goals/",
-   "lede": "Rabat – Morocco’s U15 national football team finished 13th in the 2026 U15 World Cup in Azerbaijan, ending their campaign with an impressive attacking record of 36 goals. The tournament brought together 189 countries, with Morocco securing eight victories in ten matches despite suffering elimination in the round of 16 against Paraguay. The Atlas Cubs began their campaign with five consecutive victories in the group stage, demonstrating their attacking strength from the opening match. Morocco defeated the Philippines 2-0 before securing a 4-2 victory over Costa Rica.",
-   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/10/U15.jpeg",
+   "cat": "ROYAL GAZETTE | BERMUDA",
+   "title": "Bermuda close out Under-15 World Cup on a winning note",
+   "iso": "2026-10-30T21:28:10.000Z",
+   "link": "https://www.royalgazette.com/football/sport/article/20261030/bermuda-close-out-under-15-world-cup-on-a-winning-note/",
+   "lede": "Bermuda concluded their participation at the Fifa Under-15 World Cup & Festival in Baku, Azerbaijan, on a high with a 2-0 triumph over Jordan in a Tier D finals match today. Adam Barritt and co-captain De’Ari Trott scored for Aaron Denkins's side to end the tournament on a bright note. It was Bermuda’s third victory in the knockout and placement stage, following wins over Macao and Bahrain. From ten matches played in the whole tournament, Bermuda finished with five wins and the same number of defeats to place 117th of 189.",
+   "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=80c2694b-eb28-5759-97a5-6825e0cfc817&function=fit&type=preview",
    "emoji": "🏆",
    "bg": "#3a2d6b"
+  },
+  {
+   "cat": "DAILYSPORT.CO.KE",
+   "title": "Junior Starlets reach U-17 World Cup knockouts for the first time",
+   "iso": "2026-10-30T21:17:54.000Z",
+   "link": "https://dailysport.co.ke/junior-starlets-reach-u-17-world-cup-knockouts-for-the-first-time/",
+   "lede": "Kenya’s U-17 women’s team thrashed Samoa 4-0 to reach the round of 16 at the 2026 FIFA U-17 Women’s World Cup. This is only Kenya’s second appearance at the tournament. On their debut, in the Dominican Republic in 2024, they went out in the group stage. Japan are next for the Junior Starlets.",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "FOOTBALL TODAY",
+   "title": "Players who defined an entire World Cup",
+   "iso": "2026-10-30T19:50:56.000Z",
+   "link": "https://footballtoday.com/2026/10/30/players-who-defined-an-entire-world-cup/",
+   "lede": "The World Cup has never felt like just another football competition. Every four years, it seems to produce players who step out of the ordinary and leave something lasting behind. It is not always the top scorer or even the captain of the winning side who stands out, but often the one who carries their team through the pressure and expectation. Some moments are defined by brilliance, others by controversy, yet certain players shape the entire feel of a tournament.",
+   "image": "https://footballtoday.com/wp-content/uploads/2026/10/messi-argentina-2022-1000x600.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "THE GUARDIAN",
@@ -28,27 +47,17 @@
    "link": "https://www.theguardian.com/football/2026/oct/30/fifa-miss-equal-womens-world-cup-prize-money-ambition-gianni-infantino",
    "lede": "Infantino said in 2023 equality was Fifa’s target. Prize money could double but big gap will remain. Fifa is to fall short of gender equality with the prize money on offer at next year’s Women’s World Cup, despite making a record $15bn (£11.2bn) in revenue from this summer’s men’s tournament. Gianni Infantino, the Fifa president, said in 2023 that the organisation’s ambition was to have equality for the prize pot for 2027, saying: “Fifa is stepping up with actions, not just with words.”",
    "image": "https://i.guim.co.uk/img/media/87151aa53e63f5f6489d72a4dd36d07235b22477/422_0_4088_3270/master/4088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d70178aaac270e366082fd5a0b60be12",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "KBC DIGITAL",
-   "title": "FIFA U-17 Women’s World Cup: Kenya makes history as Africa showcases its future stars",
-   "iso": "2026-10-30T15:13:50.000Z",
-   "link": "https://www.kbc.co.ke/?p=157279",
-   "lede": "Kenya’s Junior Starlets reached a historic milestone at the 2026 FIFA U17 Women’s World Cup in Morocco,after they qualified for the Round of 16, helped in particular by a resounding 4–0 win over Samoa. Kenya’s success is part of a broader trend; alongside Morocco, Nigeria, and Ghana, four of the five African teams in the competition have reached the round of 16, a first in the tournament’s history. Mohammed VI Sports Complex in Rabat. Hosting this World Cup in Africa gives the continent’s young players rare international visibility and allows fans, in the stadiums and at home, to discover the stars of tomorrow.",
-   "image": "https://www.kbc.co.ke/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-5.12.15-PM-1024x682.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Emi Martinez says finger ‘won’t ever return’ to normal after playing through injury at World Cup",
-   "iso": "2026-10-30T18:32:04.000Z",
+   "iso": "2026-10-30T19:27:33.000Z",
    "link": "https://www.nytimes.com/athletic/7739373/2026/10/30/emi-martinez-world-cup-finger-injury/",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SMH.COM.AU",
@@ -57,23 +66,14 @@
    "link": "https://www.smh.com.au/sport/soccer/the-day-that-cost-a-socceroo-a-spot-in-the-premier-league-and-a-trip-to-the-world-cup-20261031-p611zi.html",
    "lede": "Despite two massive setbacks, Riley McGree still believes his best football is ahead of him.",
    "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1045%2C$y_176/t_crop_custom/q_86%2Cf_auto/45f360b405c92265f31140b6a4eaae8f06a7d18f",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "PETERBOROUGH TELEGRAPH",
    "title": "Peterborough's Dan stars as England reach Powerchair Football World Cup Final",
    "iso": "2026-10-30T18:16:00.000Z",
    "link": "https://www.peterboroughtoday.co.uk/news/people/peterboroughs-dan-stars-as-england-reach-powerchair-football-world-cup-final-9321594",
-   "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "NEW AGE BD",
-   "title": "Bangladesh finish FIFA U-15 World Cup & Festival as runners-up",
-   "iso": "2026-10-30T18:00:00.000Z",
-   "link": "https://www.newagebd.net/post/football/320215/bangladesh-finish-fifa-u-15-world-cup-amp-festival-as-runners-up",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
