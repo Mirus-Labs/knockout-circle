@@ -1,24 +1,65 @@
 {
- "updated": "2026-10-31T01:52:13.000Z",
+ "updated": "2026-10-31T05:46:50.817Z",
  "news": [
   {
-   "cat": "ZAMFOOT",
-   "title": "Zambia thrash Portugal to win FIFA U-15 World Cup Tier B title",
-   "iso": "2026-10-30T22:38:47.000Z",
-   "link": "https://zambianfootball.co.zm/zambia-thrash-portugal-to-win-fifa-u-15-world-cup-tier-b-title/",
-   "lede": "Zambia’s Under-15 national team produced an impressive performance to beat Portugal 5-2 and clinch the Tier B title at the inaugural FIFA U-15 World Cup and Festival in Baku, Azerbaijan. Maxen Msimuko led the charge with a hat-trick, while Benson and Thomson also found the net as the Junior Chipolopolo capped their campaign with a convincing victory over their European opponents. Samuel Musonda also came close to getting on the scoresheet, striking the crossbar as Zambia dominated the contest to secure the title. The triumph marks a significant achievement for the young Zambian side, who competed against teams from across the world at the landmark youth football festival.",
+   "cat": "PHILIPPINE FOOTBALL FEDERATION",
+   "title": "PFF NAMES 14-MAN PMNFT U15 FOR FIFA U15 WORLD CUP & FESTIVAL",
+   "iso": "2026-10-31T02:52:39.000Z",
+   "link": "https://pff.org.ph/pff-names-14-man-pmnft-u15-for-fifa-u15-world-cup-festival/",
+   "lede": "The Philippine Football Federation (PFF) has named the 14-player squad of the Philippine Under-15 Men’s National Football Team (PMNFT U15) for the inaugural FIFA U15 World Cup & Festival, which will be played in Baku, Azerbaijan, from October 24 to 30, 2026. The tournament uses an 8v8 format. FIFA requires national teams to field 14 players. “Representing the Philippines at the first FIFA U15 World Cup & Festival is a milestone for these young players and for our youth program.",
+   "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
    "emoji": "⚽",
    "bg": "#1d6f42"
   },
   {
+   "cat": "SPORTSTAR",
+   "title": "FIFA U-15 World Cup 2026 — India’s campaign, Russia’s return and Spain’s grand conquest in Baku",
+   "iso": "2026-10-31T02:17:37.000Z",
+   "link": "https://sportstar.thehindu.com/football/fifa-u15-world-cup-2026-india-campaign-russia-return-spain-champion-in-baku-azerbaijan-festival/article71648092.ece",
+   "lede": "Chennai The inaugural edition of the FIFA U-15 World Cup and Festival concluded in Baku, Azerbaijan, where 189 countries competed in a truly global tournament for over a week, between October 22 and 30. After nearly a 1000 matches, the FIFA under-15 World Cup ended with reigning senior men’s champion Spain winning the title. “Talent exists everywhere, but young players do not always have the same opportunities to test themselves internationally. This tournament is about giving them that opportunity.",
+   "image": "https://ss-i.thgim.com/public/incoming/q1g2xi/article71648093.ece/alternates/LANDSCAPE_1200/IND%20U15%20Men.jpg.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "DW.COM",
+   "title": "Lionel Messi: A career in pictures",
+   "iso": "2026-10-31T01:23:55.000Z",
+   "link": "https://www.dw.com/en/lionel-messi-a-career-in-pictures/g-78372844",
+   "lede": "Having started playing football in his native Argentina, Lionel Messi joined Barcelona's youth academy in 2001 at the age of 13. It wasn't long before he was promoted to the first team, making his La Liga debut in October 2004 at the age of 17. The following May he scored his first goal. His first title also came in his debut season, as Barcelona won La Liga in 2004-05.",
+   "image": "https://static.dw.com/image/78656325_6.jpg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "DW.COM",
+   "title": "Ronaldinho to make football comeback aged 46",
+   "iso": "2026-10-31T01:09:47.000Z",
+   "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950",
+   "lede": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year is to play in Italy’s third tier. While Lionel Messi and Cristiano Ronaldo are still playing at 39 and 41 respectively, most football fans thought Ronaldinho belonged to another footballing era. That all changed in June, when Italian Serie C club, Ravenna, announced that the former Barcelona, Paris Saint-Germain and AC Milan forward would play for them in the upcoming season.",
+   "image": "https://static.dw.com/image/78455489_6.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
    "cat": "THE18",
    "title": "This National Team qualified for the World Cup. Now they are fundraising to get there.",
-   "iso": "2026-10-30T22:14:47.000Z",
+   "iso": "2026-10-31T00:44:47.000Z",
    "link": "https://the18.com/en/soccer-news/usa-amputee-soccer-national-team-qualified-world-cup/140255",
    "lede": "Men’s National Team, managed by the American Amputee Soccer Association, punched its ticket to the Amputee Soccer World Cup this fall. On top of work and training, the players have been fundraising to make sure they will be at the opening ceremony. This November, the United States will take on the best teams on the planet at the Amputee Football World Cup in San Juan de los Lagos, Mexico from Nov. The U.S. qualified on the field.",
    "image": "https://the18.com/sites/default/files/feature-images/The18-Team-USA-World-Cup-AASA-Feature-Image%20%282%29.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "YAHOO SPORTS",
+   "title": "Together from day one: Andressa's World Cup joy with childhood friends",
+   "iso": "2026-10-30T22:21:00.000Z",
+   "link": "https://sports.yahoo.com/articles/together-day-one-andressas-world-222100085.html",
+   "lede": "The U-17 Women’s World Cup in Morocco brings together young talents from around the world in pursuit of the title. For 17-year-old goalkeeper Andressa, the competition also marks a reunion with chil... For 17-year-old goalkeeper Andressa, the c...",
+   "image": "https://s.yimg.com/lo/mysterio/api/60173c9662ec3a18fd517736e78f958499820215200aa2d3ca34a18dcf649f1c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2Faf5cfaf4333ef2f284c2e9feec99ae10.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "ROYAL GAZETTE | BERMUDA",
@@ -27,53 +68,16 @@
    "link": "https://www.royalgazette.com/football/sport/article/20261030/bermuda-close-out-under-15-world-cup-on-a-winning-note/",
    "lede": "Bermuda concluded their participation at the Fifa Under-15 World Cup & Festival in Baku, Azerbaijan, on a high with a 2-0 triumph over Jordan in a Tier D finals match today. Adam Barritt and co-captain De’Ari Trott scored for Aaron Denkins's side to end the tournament on a bright note. It was Bermuda’s third victory in the knockout and placement stage, following wins over Macao and Bahrain. From ten matches played in the whole tournament, Bermuda finished with five wins and the same number of defeats to place 117th of 189.",
    "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=80c2694b-eb28-5759-97a5-6825e0cfc817&function=fit&type=preview",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "FOOTBALL TODAY",
-   "title": "Players who defined an entire World Cup",
-   "iso": "2026-10-30T19:50:56.000Z",
-   "link": "https://footballtoday.com/2026/10/30/players-who-defined-an-entire-world-cup/",
-   "lede": "The World Cup has never felt like just another football competition. Every four years, it seems to produce players who step out of the ordinary and leave something lasting behind. It is not always the top scorer or even the captain of the winning side who stands out, but often the one who carries their team through the pressure and expectation. Some moments are defined by brilliance, others by controversy, yet certain players shape the entire feel of a tournament.",
-   "image": "https://footballtoday.com/wp-content/uploads/2026/10/messi-argentina-2022-1000x600.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "FACEBOOK",
-   "title": "The Philippine Under-15 Men’s National Football Team (PMNFT U15) beat Aruba, 5-2, on Thursday for its fourth win at the inaugural FIFA U15 World Cup & Festival. Link to the full story in comment section.",
-   "iso": "2026-10-31T00:31:02.000Z",
-   "link": "https://www.facebook.com/DailyGuardianPH/posts/the-philippine-under-15-mens-national-football-team-pmnft-u15-beat-aruba-5-2-on-/1566057608884350/",
-   "lede": "Link to the full story in comment...",
-   "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/856911011_3465199530326028_3913010548493347844_n.png?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s600x600&_nc_cat=108&ccb=1-7&_nc_sid=cae128&_nc_ohc=phKZtLTOud0Q7kNvwHKU2US&_nc_oc=AdqqbxYoOaH1NnqDM_GGXhiOuY6iWAxJV5D4jkGimbdqFEmKsxJdSBkIjR9oQ5MglRI&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=2wf4DI8cqecBEioioIVtQA&_nc_ss=7c289&oh=00_AQTc_bfto0fWjADuRdEmmRGhxD7fHHRgTdznJoZhhtovJQ&oe=6AEB3418",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "DAILY MAIL",
-   "title": "Emiliano Martinez reveals his finger 'won't ever return' to normal after injury left him playing like a 'zombie' during World Cup: 'I cried every day'",
-   "iso": "2026-10-30T23:19:13.000Z",
-   "link": "https://www.dailymail.com/sport/football/article-16253773/Emiliano-Martinez-reveals-finger-wont-return-normal-Chelsea-goalkeeper-played-injury-World-Cup.html",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "DAILYSPORTS",
-   "title": "For the rest of my life! Emiliano Martinez reveals shocking permanent damage after World Cup sacrifice",
-   "iso": "2026-10-30T20:49:53.000Z",
-   "link": "https://dailysports.net/news/for-the-rest-of-my-life-emiliano-martinez-reveals-shocking-permanent-damage-after-world-cup-sacrifice/",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Emi Martinez says finger ‘won’t ever return’ to normal after playing through injury at World Cup",
-   "iso": "2026-10-30T19:27:33.000Z",
-   "link": "https://www.nytimes.com/athletic/7739373/2026/10/30/emi-martinez-world-cup-finger-injury/",
-   "lede": "",
+   "cat": "TRIBALFOOTBALL",
+   "title": "Nigeria beat Mexico to set up U17 World Cup tie with Venezuela",
+   "iso": "2026-10-30T19:55:57.000Z",
+   "link": "https://www.tribalfootball.com/article/soccer-world-cup-women-u17-nigeria-beat-mexico-to-set-up-u17-world-cup-tie-with-venezuela-0c89da71-9579-4d95-b52f-8f1b0f1f2915",
+   "lede": "Captain Citlalli Reyes came close to breaking the deadlock on two occasions, seeing one effort deflected behind before goalkeeper Jane Ijirigho denied her in a one-on-one situation. Akeem Busari’s side gradually settled into the contest and made their growing confidence count five minutes before half-time. The Mexicans failed to deal with a searching delivery from Esther Stephen, allowing Umejiaku to seize possession and fire an unstoppable effort into the top corner. The breakthrough handed the Nigerian a slim advantage at the interval and shifted the momentum firmly in their favour.",
+   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/3680fd44-f73a-43f3-8ae5-35d225b2d4ef.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
