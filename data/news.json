@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-30T22:40:15.250Z",
+ "updated": "2026-10-31T00:06:55.106Z",
  "news": [
+  {
+   "cat": "ZAMFOOT",
+   "title": "Zambia thrash Portugal to win FIFA U-15 World Cup Tier B title",
+   "iso": "2026-10-30T22:38:47.000Z",
+   "link": "https://zambianfootball.co.zm/zambia-thrash-portugal-to-win-fifa-u-15-world-cup-tier-b-title/",
+   "lede": "Zambia’s Under-15 national team produced an impressive performance to beat Portugal 5-2 and clinch the Tier B title at the inaugural FIFA U-15 World Cup and Festival in Baku, Azerbaijan. Maxen Msimuko led the charge with a hat-trick, while Benson and Thomson also found the net as the Junior Chipolopolo capped their campaign with a convincing victory over their European opponents. Samuel Musonda also came close to getting on the scoresheet, striking the crossbar as Zambia dominated the contest to secure the title. The triumph marks a significant achievement for the young Zambian side, who competed against teams from across the world at the landmark youth football festival.",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE18",
    "title": "This National Team qualified for the World Cup. Now they are fundraising to get there.",
@@ -8,8 +17,8 @@
    "link": "https://the18.com/en/soccer-news/usa-amputee-soccer-national-team-qualified-world-cup/140255",
    "lede": "Men’s National Team, managed by the American Amputee Soccer Association, punched its ticket to the Amputee Soccer World Cup this fall. On top of work and training, the players have been fundraising to make sure they will be at the opening ceremony. This November, the United States will take on the best teams on the planet at the Amputee Football World Cup in San Juan de los Lagos, Mexico from Nov. The U.S. qualified on the field.",
    "image": "https://the18.com/sites/default/files/feature-images/The18-Team-USA-World-Cup-AASA-Feature-Image%20%282%29.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "ROYAL GAZETTE | BERMUDA",
@@ -18,15 +27,6 @@
    "link": "https://www.royalgazette.com/football/sport/article/20261030/bermuda-close-out-under-15-world-cup-on-a-winning-note/",
    "lede": "Bermuda concluded their participation at the Fifa Under-15 World Cup & Festival in Baku, Azerbaijan, on a high with a 2-0 triumph over Jordan in a Tier D finals match today. Adam Barritt and co-captain De’Ari Trott scored for Aaron Denkins's side to end the tournament on a bright note. It was Bermuda’s third victory in the knockout and placement stage, following wins over Macao and Bahrain. From ten matches played in the whole tournament, Bermuda finished with five wins and the same number of defeats to place 117th of 189.",
    "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=80c2694b-eb28-5759-97a5-6825e0cfc817&function=fit&type=preview",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "DAILYSPORT.CO.KE",
-   "title": "Junior Starlets reach U-17 World Cup knockouts for the first time",
-   "iso": "2026-10-30T21:17:54.000Z",
-   "link": "https://dailysport.co.ke/junior-starlets-reach-u-17-world-cup-knockouts-for-the-first-time/",
-   "lede": "Kenya’s U-17 women’s team thrashed Samoa 4-0 to reach the round of 16 at the 2026 FIFA U-17 Women’s World Cup. This is only Kenya’s second appearance at the tournament. On their debut, in the Dominican Republic in 2024, they went out in the group stage. Japan are next for the Junior Starlets.",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -51,29 +51,28 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Emi Martinez says finger ‘won’t ever return’ to normal after playing through injury at World Cup",
-   "iso": "2026-10-30T19:27:33.000Z",
-   "link": "https://www.nytimes.com/athletic/7739373/2026/10/30/emi-martinez-world-cup-finger-injury/",
+   "cat": "DAILY MAIL",
+   "title": "Emiliano Martinez reveals his finger 'won't ever return' to normal after injury left him playing like a 'zombie' during World Cup: 'I cried every day'",
+   "iso": "2026-10-30T23:19:13.000Z",
+   "link": "https://www.dailymail.com/sport/football/article-16253773/Emiliano-Martinez-reveals-finger-wont-return-normal-Chelsea-goalkeeper-played-injury-World-Cup.html",
    "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "SMH.COM.AU",
-   "title": "The day that cost a Socceroo a spot in the Premier League and a trip to the World Cup",
-   "iso": "2026-10-30T18:30:00.000Z",
-   "link": "https://www.smh.com.au/sport/soccer/the-day-that-cost-a-socceroo-a-spot-in-the-premier-league-and-a-trip-to-the-world-cup-20261031-p611zi.html",
-   "lede": "Despite two massive setbacks, Riley McGree still believes his best football is ahead of him.",
-   "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1045%2C$y_176/t_crop_custom/q_86%2Cf_auto/45f360b405c92265f31140b6a4eaae8f06a7d18f",
+   "cat": "THE NEW YORK TIMES",
+   "title": "What to know about 2026 NBA Cup: Schedule, format, location and changes",
+   "iso": "2026-10-30T22:08:37.000Z",
+   "link": "https://www.nytimes.com/athletic/7730065/2026/10/30/nba-cup-2026-schedule-format-venue-what-to-know/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "PETERBOROUGH TELEGRAPH",
-   "title": "Peterborough's Dan stars as England reach Powerchair Football World Cup Final",
-   "iso": "2026-10-30T18:16:00.000Z",
-   "link": "https://www.peterboroughtoday.co.uk/news/people/peterboroughs-dan-stars-as-england-reach-powerchair-football-world-cup-final-9321594",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Emi Martinez says finger ‘won’t ever return’ to normal after playing through injury at World Cup",
+   "iso": "2026-10-30T19:27:33.000Z",
+   "link": "https://www.nytimes.com/athletic/7739373/2026/10/30/emi-martinez-world-cup-finger-injury/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
