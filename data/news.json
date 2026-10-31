@@ -1,15 +1,55 @@
 {
- "updated": "2026-10-31T14:48:41.230Z",
+ "updated": "2026-10-31T17:11:22.144Z",
  "news": [
   {
-   "cat": "LIVESCORE",
-   "title": "Lekjaa reveals the outline of Morocco's project for the 2030 World Cup: a plan that goes beyond the stadiums",
-   "iso": "2026-10-31T11:25:03.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/lekjaa-reveals-the-outline-of-moroccos-project-for-the-2030-world-cup-a-plan-that-goes-beyond-the-stadiums-goal/",
-   "lede": "What the cameras don't seeMorocco's World Cup ambition reaches far beyond match venues and stadiums ready to welcome teams and fans. It has become a sweeping development project, one designed to redraw the country's map of infrastructure and transport while spreading the benefits across every region of the Kingdom, part of extraordinary preparations to host the 2030 edition.Fouzi Lekjaa, president of the Royal Moroccan Football Federation, insists the Kingdom's bid rests on decades of groundwork. That developmental path began in the late 1990s and has now been crowned with the honour of staging the 2030 tournament.Speaking in comments reported by the Moroccan website \"Hespress\" , Lekjaa described the coming edition as exceptional.",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_1.jpg",
+   "cat": "SPORTS247 NIGERIA",
+   "title": "DISAPPOINTING FINISH! Nigeria's Future Eagles End FIFA U-15 World Cup Campaign in 76th Position After Panama Defeat",
+   "iso": "2026-10-31T15:56:57.000Z",
+   "link": "https://www.sports247.ng/disappointing-finish-nigerias-future-eagles-end-fifa-u-15-world-cup-campaign-in-76th-position-after-panama-defeat/",
+   "lede": "Nigeria’s Future Eagles concluded their campaign at the 2026 FIFA U-15 World Cup and Festival in Baku, Azerbaijan, with a disappointing 2-1 defeat to Panama in their final classification encounter, finishing 76th in the overall standings. Sports247 reports that the result brought an underwhelming tournament experience to an end for the Nigerian youngsters, who struggled to secure consistent results despite showing moments of determination throughout the competition. The Future Eagles entered their final classification fixture hoping to end their campaign positively after suffering a heartbreaking penalty shootout defeat against Chile. However, Panama emerged victorious with a 2-1 scoreline, leaving Nigeria unable to secure 75th position.",
+   "image": "https://www.sports247.ng/wp-content/uploads/2026/10/134b60b0-b442-4ff5-8a12-67a85a9ee723.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "RTL TODAY",
+   "title": "U15 Football World Cup: Luxembourg finish 68th in first-ever World Cup appearance, above France",
+   "iso": "2026-10-31T15:08:46.000Z",
+   "link": "https://today.rtl.lu/sport/local/luxembourg-finish-68th-in-first-ever-world-cup-appearance-above-france-513120744",
+   "lede": "The Luxembourg U15 squad concluded its U15 World Cup campaign in Azerbaijan with a 68th-place finish, following a 5-3 defeat to Scotland in its final game. The Luxembourg Football Federation (FLF) U15 squad finished in 68th place at the U15 World Cup in Azerbaijan, marking the first time a Luxembourg national football team has participated in a World Cup. The event, held in Baku, featured 189 nations competing in an eight-a-side format on smaller pitches with two 20-minute halves. https://www.facebook.com/photo? fbid=1805179617685620&set=a.600628604807400In the group stage, the team recorded four wins and one loss, finishing third in Group Q.",
+   "image": "https://static-prod.rtl.lu/dims4/default/cb4c22c/2147483647/strip/true/crop/4032x2270+0+0/resize/1224x689!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2Fcd%2F36%2F3710a03763c1ea3d6274926d8fad%2F6ae0b86d891570-32817931-20261027-154253-img-9076.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "VIETNAM.VN",
+   "title": "Vietnamese women's football:",
+   "iso": "2026-10-31T14:31:32.000Z",
+   "link": "https://www.vietnam.vn/en/bong-da-nu-viet-nam",
+   "lede": "Making their first appearance at the 2023 Women's World Cup Finals, the Vietnamese women's football team has made history for Vietnamese sports. This achievement is the result of a long journey overcoming difficulties, prejudices, and a lack of resources. Besides the efforts of generations of players, we cannot overlook the persistent training by clubs, the investment strategy of the Vietnam Football Federation (VFF), and the support of dedicated sponsors.",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/31/1793454007961_31-tuyen-nu-vn2.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "BERNEWS",
+   "title": "Bermuda U15s Win Tier D Finals At World Cup",
+   "iso": "2026-10-31T13:59:11.000Z",
+   "link": "https://bernews.com/2026/10/bermuda-u15s-end-world-cup-jordan-win/",
+   "lede": "Bermuda’s under-15 national football team concluded their FIFA U-15 World Cup campaign with a 2–0 victory over Jordan in Azerbaijan. Adam Barritt opened the scoring in the second minute before De’Ari Trott doubled Bermuda’s advantage two minutes later on Pitch 10A at the Hovsan Competition Complex. The two early goals proved decisive as Bermuda kept a &hellip;.",
+   "image": "https://cloudfront.bernews.com/wp-content/uploads/2026/10/football-Bermuda-Oct-31-2026-xfb.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "DW.COM",
+   "title": "Boycotts, bans and no-shows: Notable World Cup absentees",
+   "iso": "2026-10-31T10:20:01.000Z",
+   "link": "https://www.dw.com/en/boycotts-bans-and-no-shows-notable-world-cup-absentees/g-76500538",
+   "lede": "The first World Cup was hosted by Uruguay in 1930 and featured 13 teams, just four of which were from Europe: France, Belgium, Romania and Yugoslavia. The paucity of European teams wasn't due to a boycott but largely had to do with funds being short during the Great Depression and the difficulty of traveling such a long distance by sea. It would be linked to a boycott at the next World Cup. Italy both hosted and won their first World Cup in 1934.",
+   "image": "https://static.dw.com/image/76507462_6.jpg",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "DW.COM",
@@ -18,63 +58,26 @@
    "link": "https://www.dw.com/en/2026-mens-world-cup-mexicos-most-creative-football-pitches/g-77490969",
    "lede": "On the southern outskirts of Mexico City, amateur teams meet on a very unique football pitch every Sunday. Known as the \"Field of the Gods,\" it is perched inside the extinct Teoca volcano and situated a breathtaking 2,700 meters (8,800 feet) above sea level. The pitch was created by the nearby community more than 60 years ago and is a source of local pride. Cars above, sports below: this pitch in Mexico City's colorful Las Aguilas neighborhood gives people the space to play soccer beneath a highway overpass.",
    "image": "https://static.dw.com/image/77484405_6.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE STRAITS TIMES",
-   "title": "Singapore finish 141st in inaugural FIFA U-15 World Cup and Festival",
-   "iso": "2026-10-31T08:28:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/singapore-finish-141st-in-inaugural-fifa-u-15-world-cup-and-festival",
-   "lede": "Singapore forward Adryan Alfian taking on players in their 9-0 win over the British Virgin Islands in the Tier E knockout stage of the inaugural FIFA Under-15 World Cup and Festival. PHOTO: FOOTBALL ASSOCIATION OF SINGAPORE. SINGAPORE – After playing 10 matches in seven days, Singapore emerged 141st out of 189 teams at the inaugural FIFA Under-15 World Cup and Festival in Baku, Azerbaijan. The Cubs beat Eswatini 4-1 on Oct 30 in their final match of the eight-a-side competition played across 20-minute halves.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4a2c702cf590b8f906eb238f8af39f4a7ac46ee3fa21f538fdd1f42ae6c1e468?w=1200",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "İDMAN.BIZ",
-   "title": "Emiliano Martinez claims Argentina would beat Spain in World Cup final rematch",
-   "iso": "2026-10-31T08:14:00.000Z",
-   "link": "https://www.idman.biz/en/news/world-football/164390",
-   "lede": "Argentina goalkeeper Emiliano Martinez has claimed that his national team would defeat Spain if the 2026 FIFA World Cup final were played again today. As reported by İdman.Biz, citing journalist Gaston Edul, the 2022 World Cup winner expressed confidence in Argentina's ability to overcome the Spanish side despite their defeat in this year's final. \"Spain are a great team, but I feel that if we played them today, we would beat them. I had more respect for France in 2022 than I did for Spain at the World Cup,\" Martinez said.",
-   "image": "https://www.idman.biz/media/2026/10/31/1920x1280/rtbt3wrtv.webp?v=1793430269",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "DAZN",
-   "title": "FIFA U-17 Women's World Cup quarter-finals How to watch on DAZN",
-   "iso": "2026-10-31T14:30:00.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/fifa-u-17-womens-world-cup-2026-quarter-finals-how-to-watch-free/g2ifweed6lo712c700umzemio",
-   "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "REPORT.AZ",
-   "title": "Spain's U-15 World Cup title won in Baku to be remembered for life, coach says",
-   "iso": "2026-10-31T12:06:01.000Z",
-   "link": "https://report.az/en/football/spain-s-u-15-world-cup-title-won-in-baku-to-be-remembered-for-life-coach-says",
-   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "REPORT.AZ",
-   "title": "New format of FIFA U-15 World Cup and Festival in Baku praised by FIFA's Arsene Wenger",
-   "iso": "2026-10-31T11:45:22.000Z",
-   "link": "https://report.az/en/football/new-format-of-fifa-u-15-world-cup-and-festival-in-baku-praised-by-fifa-s-arsene-wenger",
-   "lede": "",
+   "cat": "THE SUN MALAYSIA",
+   "title": "Malaysia kick off FIFA U-15 World Cup campaign with 3-1 win over Dominica",
+   "iso": "2026-10-31T09:49:44.000Z",
+   "link": "https://thesun.my/sports/malaysia-kick-off-fifa-u-15-world-cup-campaign-with-3-1-win-over-dominica/",
+   "lede": "Malaysia took a 2-0 lead through Aqheef Haiqal Koko's opening goal in the 12th minute before Anas Suffiyan Arif doubled the advantage seven minutes later. KUALA LUMPUR : The national Under-15 squad opened their Group H campaign in the 2026 FIFA Under-15 World Cup and Festival with a 3-1 victory over Dominica in Baku, Azerbaijan today. Dominica reduced the deficit through a penalty in the 28th minute, but Amirul Faris Azlan sealed the win for coach P. Maniam's side with a third goal in the 39th minute.",
+   "image": "https://cms.thesun.my/wp-content/uploads/2026/10/865081390_1611776733594219_401122214894350688_n-blurred.webp",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "PORT OF ROTTERDAM",
-   "title": "‍~$!【Rugby league World Cup 2026】 Australia v Cook Island Live online",
-   "iso": "2026-10-31T09:06:04.000Z",
-   "link": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vbGVvZ29hdHMuZ2l0aHViLmlvL2JmLmVkdS91am0ueG1sIi8+PC9rcnBhbm8+&id=video-australia-v-cook-island-liv-str-hsufnml",
-   "lede": "Viewing over 42 kilometres of port area from your desk: you can do this in Europe’s largest port. Port of Rotterdam - 360˚ Aerial Tour.",
-   "image": "https://www.portofrotterdam.com/sites/default/files/styles/large/public/Port360-Maasvlakte-2.PNG",
+   "cat": "LEADERSHIP NEWSPAPERS",
+   "title": "FIFA Moves To Double Women’s World Cup Prize Money As Pay Gap Persists",
+   "iso": "2026-10-31T15:53:22.000Z",
+   "link": "https://leadership.ng/fifa-moves-to-double-womens-world-cup-prize-money-as-pay-gap-persists/",
+   "lede": "FIFA is preparing to double at least the prize money for the 2027 Women’s World Cup in Brazil, in a move aimed at improving financial rewards for.",
+   "image": "https://leadership.ng/wp-content/uploads/2026/10/IMG_2597.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
