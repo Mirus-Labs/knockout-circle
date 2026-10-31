@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:57:29.397Z",
+ "updated": "2026-10-31T14:48:41.230Z",
  "news": [
   {
    "cat": "LIVESCORE",
@@ -12,24 +12,14 @@
    "bg": "#1d6f42"
   },
   {
-   "cat": "SKY SPORTS",
-   "title": "Lisandro Martinez wants to leave Man Utd in the summer with Atletico Madrid interested - Paper Talk | Football News",
-   "iso": "2026-10-31T10:22:56.000Z",
-   "link": "https://www.skysports.com/football/transfer-paper-talk",
-   "lede": "The top stories and transfer rumours from Saturday's newspapers... PREMIER LEAGUE M an Utd defender Lisandro Martinez wants to leave a club on a free in the summer with Atletico Madrid interested - The Sun Man Utd players were booed on the train en route to London ahead of their game against Chelsea - The Mirror Chelsea goalkeeper Emi Martinez has revealed his hand is permanently disfigured after refusing surgery for a broken finger he feared would force him to miss the World Cup - The Sun Chelsea starlet Estevao Willian is said to be confused by his lack of minutes under Xabi Alonso and has told friends he is in a \"crisis\" - The Sun Blues defender Maxence Lacroix is feared to be out of action until January with a hamstring injury - The Athletic Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
-   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "cat": "DW.COM",
+   "title": "Men's World Cup: Mexico's most creative football pitches",
+   "iso": "2026-10-31T10:17:55.000Z",
+   "link": "https://www.dw.com/en/2026-mens-world-cup-mexicos-most-creative-football-pitches/g-77490969",
+   "lede": "On the southern outskirts of Mexico City, amateur teams meet on a very unique football pitch every Sunday. Known as the \"Field of the Gods,\" it is perched inside the extinct Teoca volcano and situated a breathtaking 2,700 meters (8,800 feet) above sea level. The pitch was created by the nearby community more than 60 years ago and is a source of local pride. Cars above, sports below: this pitch in Mexico City's colorful Las Aguilas neighborhood gives people the space to play soccer beneath a highway overpass.",
+   "image": "https://static.dw.com/image/77484405_6.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE SUN MALAYSIA",
-   "title": "Malaysia kick off FIFA U-15 World Cup campaign with 3-1 win over Dominica",
-   "iso": "2026-10-31T09:49:44.000Z",
-   "link": "https://thesun.my/sports/malaysia-kick-off-fifa-u-15-world-cup-campaign-with-3-1-win-over-dominica/",
-   "lede": "Malaysia took a 2-0 lead through Aqheef Haiqal Koko's opening goal in the 12th minute before Anas Suffiyan Arif doubled the advantage seven minutes later. KUALA LUMPUR : The national Under-15 squad opened their Group H campaign in the 2026 FIFA Under-15 World Cup and Festival with a 3-1 victory over Dominica in Baku, Azerbaijan today. Dominica reduced the deficit through a penalty in the 28th minute, but Amirul Faris Azlan sealed the win for coach P. Maniam's side with a third goal in the 39th minute.",
-   "image": "https://cms.thesun.my/wp-content/uploads/2026/10/865081390_1611776733594219_401122214894350688_n-blurred.webp",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
   },
   {
    "cat": "THE STRAITS TIMES",
@@ -38,33 +28,42 @@
    "link": "https://www.straitstimes.com/sport/football/singapore-finish-141st-in-inaugural-fifa-u-15-world-cup-and-festival",
    "lede": "Singapore forward Adryan Alfian taking on players in their 9-0 win over the British Virgin Islands in the Tier E knockout stage of the inaugural FIFA Under-15 World Cup and Festival. PHOTO: FOOTBALL ASSOCIATION OF SINGAPORE. SINGAPORE – After playing 10 matches in seven days, Singapore emerged 141st out of 189 teams at the inaugural FIFA Under-15 World Cup and Festival in Baku, Azerbaijan. The Cubs beat Eswatini 4-1 on Oct 30 in their final match of the eight-a-side competition played across 20-minute halves.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4a2c702cf590b8f906eb238f8af39f4a7ac46ee3fa21f538fdd1f42ae6c1e468?w=1200",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
+   "cat": "İDMAN.BIZ",
+   "title": "Emiliano Martinez claims Argentina would beat Spain in World Cup final rematch",
+   "iso": "2026-10-31T08:14:00.000Z",
+   "link": "https://www.idman.biz/en/news/world-football/164390",
+   "lede": "Argentina goalkeeper Emiliano Martinez has claimed that his national team would defeat Spain if the 2026 FIFA World Cup final were played again today. As reported by İdman.Biz, citing journalist Gaston Edul, the 2022 World Cup winner expressed confidence in Argentina's ability to overcome the Spanish side despite their defeat in this year's final. \"Spain are a great team, but I feel that if we played them today, we would beat them. I had more respect for France in 2022 than I did for Spain at the World Cup,\" Martinez said.",
+   "image": "https://www.idman.biz/media/2026/10/31/1920x1280/rtbt3wrtv.webp?v=1793430269",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "THE DAILY STAR",
-   "title": "FIFA to visit potential 2030 World Cup host cities in November and December",
-   "iso": "2026-10-31T08:13:27.000Z",
-   "link": "https://www.thedailystar.net/sports/football/news/fifa-visit-potential-2030-world-cup-host-cities-november-and-december-4309351",
-   "lede": "FIFA will carry out a series of visits to candidate host cities in Spain, Portugal and Morocco in November and December as part of the venue selection process for the 2030 World Cup, world football's governing body said on Tuesday. A FIFA delegation will visit candidate cities and stadiums in all three host countries to assess their suitability to host games. FIFA has yet to confirm which venues will be included, and has not announced where the World Cup final will be held, with Spain and Morocco battling to hold football's biggest match. Visits are planned for Agadir, Casablanca, Fez, Marrakech, Rabat and Tangier in Morocco; Lisbon and Porto in Portugal; and Barcelona, Bilbao, Las Palmas, Madrid, San Sebastian, Seville and Zaragoza in Spain.",
-   "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+   "cat": "DAZN",
+   "title": "FIFA U-17 Women's World Cup quarter-finals How to watch on DAZN",
+   "iso": "2026-10-31T14:30:00.000Z",
+   "link": "https://www.dazn.com/en-GB/news/football/fifa-u-17-womens-world-cup-2026-quarter-finals-how-to-watch-free/g2ifweed6lo712c700umzemio",
+   "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "REPORT.AZ",
+   "title": "Spain's U-15 World Cup title won in Baku to be remembered for life, coach says",
+   "iso": "2026-10-31T12:06:01.000Z",
+   "link": "https://report.az/en/football/spain-s-u-15-world-cup-title-won-in-baku-to-be-remembered-for-life-coach-says",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "REPORT.AZ",
    "title": "New format of FIFA U-15 World Cup and Festival in Baku praised by FIFA's Arsene Wenger",
    "iso": "2026-10-31T11:45:22.000Z",
    "link": "https://report.az/en/football/new-format-of-fifa-u-15-world-cup-and-festival-in-baku-praised-by-fifa-s-arsene-wenger",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SPORTSCAPE MAGAZINE",
-   "title": "India Ends Their FIFA U15 World Cup Campaign Finishing In 87th Place",
-   "iso": "2026-10-31T09:21:54.000Z",
-   "link": "https://www.sportscapemagazine.com/blog/fifa-u15-world-cup-india-87th-place",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
