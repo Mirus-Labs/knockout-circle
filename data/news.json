@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-31T05:46:50.817Z",
+ "updated": "2026-10-31T08:29:30.669Z",
  "news": [
+  {
+   "cat": "SKY SPORTS",
+   "title": "Lisandro Martinez wants to leave Man Utd in the summer with Atletico Madrid interested - Paper Talk | Football News",
+   "iso": "2026-10-31T07:20:07.000Z",
+   "link": "https://www.skysports.com/football/transfer-paper-talk",
+   "lede": "The top stories and transfer rumours from Saturday's newspapers... PREMIER LEAGUE M an Utd defender Lisandro Martinez wants to leave a club on a free in the summer with Atletico Madrid interested - The Sun Man Utd players were booed on the train en route to London ahead of their game against Chelsea - The Mirror Chelsea goalkeeper Emi Martinez has revealed his hand is permanently disfigured after refusing surgery for a broken finger he feared would force him to miss the World Cup - The Sun Chelsea starlet Estevao Willian is said to be confused by his lack of minutes under Xabi Alonso and has told friends he is in a \"crisis\" - The Sun Blues defender Maxence Lacroix is feared to be out of action until January with a hamstring injury - The Athletic Transfer Centre LIVE! | Latest on YOUR PL club! Watch LIVE football on your phone 📱 Not got Sky?",
+   "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "PHILIPPINE FOOTBALL FEDERATION",
    "title": "PFF NAMES 14-MAN PMNFT U15 FOR FIFA U15 WORLD CUP & FESTIVAL",
@@ -8,8 +18,8 @@
    "link": "https://pff.org.ph/pff-names-14-man-pmnft-u15-for-fifa-u15-world-cup-festival/",
    "lede": "The Philippine Football Federation (PFF) has named the 14-player squad of the Philippine Under-15 Men’s National Football Team (PMNFT U15) for the inaugural FIFA U15 World Cup & Festival, which will be played in Baku, Azerbaijan, from October 24 to 30, 2026. The tournament uses an 8v8 format. FIFA requires national teams to field 14 players. “Representing the Philippines at the first FIFA U15 World Cup & Festival is a milestone for these young players and for our youth program.",
    "image": "https://pff.org.ph/wp-content/uploads/2024/09/cropped-cropped-cropped-cropped-PFFLOGO-BLACK.png",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "SPORTSTAR",
@@ -18,8 +28,8 @@
    "link": "https://sportstar.thehindu.com/football/fifa-u15-world-cup-2026-india-campaign-russia-return-spain-champion-in-baku-azerbaijan-festival/article71648092.ece",
    "lede": "Chennai The inaugural edition of the FIFA U-15 World Cup and Festival concluded in Baku, Azerbaijan, where 189 countries competed in a truly global tournament for over a week, between October 22 and 30. After nearly a 1000 matches, the FIFA under-15 World Cup ended with reigning senior men’s champion Spain winning the title. “Talent exists everywhere, but young players do not always have the same opportunities to test themselves internationally. This tournament is about giving them that opportunity.",
    "image": "https://ss-i.thgim.com/public/incoming/q1g2xi/article71648093.ece/alternates/LANDSCAPE_1200/IND%20U15%20Men.jpg.jpeg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "DW.COM",
@@ -28,8 +38,8 @@
    "link": "https://www.dw.com/en/lionel-messi-a-career-in-pictures/g-78372844",
    "lede": "Having started playing football in his native Argentina, Lionel Messi joined Barcelona's youth academy in 2001 at the age of 13. It wasn't long before he was promoted to the first team, making his La Liga debut in October 2004 at the age of 17. The following May he scored his first goal. His first title also came in his debut season, as Barcelona won La Liga in 2004-05.",
    "image": "https://static.dw.com/image/78656325_6.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DW.COM",
@@ -38,18 +48,17 @@
    "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950",
    "lede": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year is to play in Italy’s third tier. While Lionel Messi and Cristiano Ronaldo are still playing at 39 and 41 respectively, most football fans thought Ronaldinho belonged to another footballing era. That all changed in June, when Italian Serie C club, Ravenna, announced that the former Barcelona, Paris Saint-Germain and AC Milan forward would play for them in the upcoming season.",
    "image": "https://static.dw.com/image/78455489_6.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "THE18",
-   "title": "This National Team qualified for the World Cup. Now they are fundraising to get there.",
-   "iso": "2026-10-31T00:44:47.000Z",
-   "link": "https://the18.com/en/soccer-news/usa-amputee-soccer-national-team-qualified-world-cup/140255",
-   "lede": "Men’s National Team, managed by the American Amputee Soccer Association, punched its ticket to the Amputee Soccer World Cup this fall. On top of work and training, the players have been fundraising to make sure they will be at the opening ceremony. This November, the United States will take on the best teams on the planet at the Amputee Football World Cup in San Juan de los Lagos, Mexico from Nov. The U.S. qualified on the field.",
-   "image": "https://the18.com/sites/default/files/feature-images/The18-Team-USA-World-Cup-AASA-Feature-Image%20%282%29.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "ZAMFOOT",
+   "title": "Zambia thrash Portugal to win FIFA U-15 World Cup Tier B title",
+   "iso": "2026-10-30T22:38:47.000Z",
+   "link": "https://zambianfootball.co.zm/zambia-thrash-portugal-to-win-fifa-u-15-world-cup-tier-b-title/",
+   "lede": "Zambia’s Under-15 national team produced an impressive performance to beat Portugal 5-2 and clinch the Tier B title at the inaugural FIFA U-15 World Cup and Festival in Baku, Azerbaijan. Maxen Msimuko led the charge with a hat-trick, while Benson and Thomson also found the net as the Junior Chipolopolo capped their campaign with a convincing victory over their European opponents. Samuel Musonda also came close to getting on the scoresheet, striking the crossbar as Zambia dominated the contest to secure the title. The triumph marks a significant achievement for the young Zambian side, who competed against teams from across the world at the landmark youth football festival.",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "YAHOO SPORTS",
@@ -58,26 +67,16 @@
    "link": "https://sports.yahoo.com/articles/together-day-one-andressas-world-222100085.html",
    "lede": "The U-17 Women’s World Cup in Morocco brings together young talents from around the world in pursuit of the title. For 17-year-old goalkeeper Andressa, the competition also marks a reunion with chil... For 17-year-old goalkeeper Andressa, the c...",
    "image": "https://s.yimg.com/lo/mysterio/api/60173c9662ec3a18fd517736e78f958499820215200aa2d3ca34a18dcf649f1c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2Faf5cfaf4333ef2f284c2e9feec99ae10.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "ROYAL GAZETTE | BERMUDA",
-   "title": "Bermuda close out Under-15 World Cup on a winning note",
-   "iso": "2026-10-30T21:28:10.000Z",
-   "link": "https://www.royalgazette.com/football/sport/article/20261030/bermuda-close-out-under-15-world-cup-on-a-winning-note/",
-   "lede": "Bermuda concluded their participation at the Fifa Under-15 World Cup & Festival in Baku, Azerbaijan, on a high with a 2-0 triumph over Jordan in a Tier D finals match today. Adam Barritt and co-captain De’Ari Trott scored for Aaron Denkins's side to end the tournament on a bright note. It was Bermuda’s third victory in the knockout and placement stage, following wins over Macao and Bahrain. From ten matches played in the whole tournament, Bermuda finished with five wins and the same number of defeats to place 117th of 189.",
-   "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=80c2694b-eb28-5759-97a5-6825e0cfc817&function=fit&type=preview",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "TRIBALFOOTBALL",
-   "title": "Nigeria beat Mexico to set up U17 World Cup tie with Venezuela",
-   "iso": "2026-10-30T19:55:57.000Z",
-   "link": "https://www.tribalfootball.com/article/soccer-world-cup-women-u17-nigeria-beat-mexico-to-set-up-u17-world-cup-tie-with-venezuela-0c89da71-9579-4d95-b52f-8f1b0f1f2915",
-   "lede": "Captain Citlalli Reyes came close to breaking the deadlock on two occasions, seeing one effort deflected behind before goalkeeper Jane Ijirigho denied her in a one-on-one situation. Akeem Busari’s side gradually settled into the contest and made their growing confidence count five minutes before half-time. The Mexicans failed to deal with a searching delivery from Esther Stephen, allowing Umejiaku to seize possession and fire an unstoppable effort into the top corner. The breakthrough handed the Nigerian a slim advantage at the interval and shifted the momentum firmly in their favour.",
-   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/3680fd44-f73a-43f3-8ae5-35d225b2d4ef.jpeg",
+   "cat": "FRIENDS OF FOOTBALL",
+   "title": "New Zealand finish FIFA U-15 Boys’ World Cup with finals victory over Ethiopia",
+   "iso": "2026-10-30T21:47:49.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/10/31/new-zealand-beat-ethiopia-in-fifa-u-15-world-cup-tier-final-after-shootout-win-2/",
+   "lede": "New Zealand have finished the inaugural FIFA U-15 Boys’ World Cup in Azerbaijan with a 2-1 victory against Ethiopia in their Tier F final. The win at Baku’s Crystal Hall completed a successful turnaround for the New Zealanders, who lost four of their five qualification matches. They recovered to win their next four games, including a penalty shootout victory over Nepal in their semi-final. Main photo: The New Zealand players form a huddle during their finals match against Ethiopia.",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/New-Zealand-U-15-boys.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
