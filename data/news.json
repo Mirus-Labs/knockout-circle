@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-03T00:03:14.236Z",
+ "updated": "2026-11-03T04:03:30.619Z",
  "news": [
+  {
+   "cat": "FRIENDS OF FOOTBALL",
+   "title": "Auckland United in contention for place at first FIFA Women’s Club World Cup",
+   "iso": "2026-11-03T00:28:58.000Z",
+   "link": "https://www.friendsoffootballnz.com/2026/11/03/auckland-united-in-contention-for-place-at-first-fifa-womens-club-world-cup/",
+   "lede": "FIFA have confirmed the United States will host the inaugural Women’s Club World Cup in January 2028, with Auckland United among the contenders for Oceania’s place at the global event. The new competition will feature 19 clubs from FIFA’s six continental confederations, with matches scheduled between January 5-30, 2028. FIFA have also revealed the qualification criteria and confirmed seven clubs have already secured places in the tournament. They are Arsenal (England), Barcelona (Spain), Club América (Mexico), Gotham FC (United States), Naegohyang (DPR Korea), Corinthians (Brazil) and Wuhan Jiangda (China PR).",
+   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/FIFA-Womens-Club-World-Cup.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "THE GUARDIAN",
    "title": "Fifa to share documents on World Cup sell-off plans with council members",
@@ -8,16 +18,6 @@
    "link": "https://www.theguardian.com/football/2026/nov/02/fifa-council-members-documents-forward-enterprise-ffe-scheme-uefa-questions-governance-scandals-gianni-infantino",
    "lede": "Viewings to take place at Fifa’s headquarters in Zurich. No direct response to Uefa’s questions on governance. Fifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but has not responded directly to more than 50 questions from Uefa about its governance and recent scandals. In a letter sent to the Fifa Council by Mattias Grafström, the governing body’s secretary general, members were told material relating to FFE will be released for them to view in person at Fifa’s headquarters in Zurich.",
    "image": "https://i.guim.co.uk/img/media/b86216e6886c6bf8a63b6c73019125e4de5f3d94/154_589_3960_3169/master/3960.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840f6d0782aa88b0847d333463a1fdf7",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "FRIENDS OF FOOTBALL",
-   "title": "Auckland United in contention for place at first FIFA Women’s Club World Cup",
-   "iso": "2026-11-02T22:38:57.000Z",
-   "link": "https://www.friendsoffootballnz.com/2026/11/03/auckland-united-in-contention-for-place-at-first-fifa-womens-club-world-cup/",
-   "lede": "FIFA have confirmed the United States will host the inaugural Women’s Club World Cup in January 2028, with Auckland United among the contenders for Oceania’s place at the global event. The new competition will feature 19 clubs from FIFA’s six continental confederations, with matches scheduled between January 5-30, 2028. FIFA have also revealed the qualification criteria and confirmed seven clubs have already secured places in the tournament. They are Arsenal (England), Barcelona (Spain), Club América (Mexico), Gotham FC (United States), Naegohyang (DPR Korea), Corinthians (Brazil) and Wuhan Jiangda (China PR).",
-   "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/FIFA-Womens-Club-World-Cup.jpg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -52,32 +52,31 @@
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE STRAITS TIMES",
-   "title": "FIFA to grant access to documents from scrapped World Cup sell-off plan",
-   "iso": "2026-11-02T20:12:00.000Z",
-   "link": "https://www.straitstimes.com/sport/football/fifa-to-grant-access-to-documents-from-scrapped-world-cup-sell-off-plan",
-   "lede": "FIFA President Gianni Infantino will stand for re-election in March 2027, with a Nov 18 deadline looming for potential candidates to submit their nominations. PARIS - Football’s world governing body will grant its council members access to key documents concerning the defunct FIFA Forward Enterprise (FFE) proposal, a person with direct knowledge of the matter told Reuters on Nov 2. FIFA scrapped the US$20 billion World Cup sell-off plan earlier this summer only days after making it public, amid a backlash that imperiled President Gianni Infantino's leadership. FIFA secretary general Mattias Grafstrom sent a letter to FIFA council members on Nov 2, inviting them to register their interest in reviewing the documents under specific conditions at the group’s Zurich headquarters, the person said.",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3f5067383fa398fd78c4be727932b15ecb5fd52873be3584a839b3bb63e46564?w=1200",
+   "cat": "조선일보",
+   "title": "FIFA Shares World Cup Rights Documents With Council Amid UEFA Pressure",
+   "iso": "2026-11-03T03:12:52.000Z",
+   "link": "https://www.chosun.com/english/sports-en/2026/11/03/EHCSDOKW4NDPTF7DHJ7NIEYDFE/",
+   "lede": "",
+   "image": "https://www.chosun.com/resizer/v2/MZQTMYRYGY2DMN3EHEYDQNJUG4.jpg?auth=e93733668d1cbb9625de05499353ee3b827b49196834c65a830a8587864bfe06&width=650&height=341&smart=true",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BBC",
-   "title": "Gianni Infantino: Fifa members given access to documents relating to failed World Cup privatisation plans",
-   "iso": "2026-11-02T20:00:08.000Z",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o",
-   "lede": "Gianni Infantino has been Fifa president since 2016. Fifa says \"key documents\" relating to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private investors will be made available to members of its council - but access will be subject to \"strict review protocols\". Last month, Uefa gave football's world governing body until 2 November to release details about the hugely controversial Fifa Forward Enterprise (FFE) proposal, and to answer a list of questions relating to its governance and decision-making. That followed a council meeting at which Infantino apologised for the abandoned sell-off plot but failed to offer a full explanation for how the proposal was devised, asking that questions be submitted in writing.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg",
+   "cat": "TRIPURAINFO",
+   "title": "Daily Desher Katha’s World Cup Football Quiz Concludes Amid Enthusiasm",
+   "iso": "2026-11-03T03:10:56.000Z",
+   "link": "https://tripurainfo.com/EnglishNews.aspx?intnid=9149&title=Daily-Desher-Katha%E2%80%99s-World-Cup-Football-Quiz-Concludes-Amid-Enthusiasm",
+   "lede": "The exciting World Cup football quiz competition organised by Tripura’s prominent daily newspaper ~`Daily Desh Katha~` yesterday evening concluded at Muktdhara.",
+   "image": "https://www.tripurainfo.com/TripuraNews/NewsPhotos/TRIPURAINFO-Pix-English-News-9149-03-11-2026.jpg",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE INDEPENDENT",
-   "title": "Gianni Infantino’s confidential World Cup sell-off documents to be shared with Fifa members",
-   "iso": "2026-11-02T19:47:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-latest-world-cup-ffe-fifa-uefa-b3077876.html",
-   "lede": "Infantino’s Fifa Forward Enterprise (FFE) proposal was rejected by three continental confederations. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Confidential documents linked to Gianni Infantino’s hugely controversial World Cup private investor plan will be made available for members of the Fifa Council to view.",
-   "image": "https://static.independent.co.uk/2026/11/02/19/2293665279..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+   "cat": "SOUTH CHINA MORNING POST",
+   "title": "Fifa to release documents related to World Cup sell-off plan with council members",
+   "iso": "2026-11-03T03:06:38.000Z",
+   "link": "https://www.scmp.com/sport/football/article/3373066/fifa-release-documents-related-aborted-world-cup-sell-plan-council-members",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
