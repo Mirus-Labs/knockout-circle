@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-02T23:41:26.111Z",
+ "updated": "2026-11-03T00:03:14.236Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Fifa to share documents on World Cup sell-off plans with council members",
+   "iso": "2026-11-02T22:56:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/nov/02/fifa-council-members-documents-forward-enterprise-ffe-scheme-uefa-questions-governance-scandals-gianni-infantino",
+   "lede": "Viewings to take place at Fifa’s headquarters in Zurich. No direct response to Uefa’s questions on governance. Fifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but has not responded directly to more than 50 questions from Uefa about its governance and recent scandals. In a letter sent to the Fifa Council by Mattias Grafström, the governing body’s secretary general, members were told material relating to FFE will be released for them to view in person at Fifa’s headquarters in Zurich.",
+   "image": "https://i.guim.co.uk/img/media/b86216e6886c6bf8a63b6c73019125e4de5f3d94/154_589_3960_3169/master/3960.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840f6d0782aa88b0847d333463a1fdf7",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "Auckland United in contention for place at first FIFA Women’s Club World Cup",
@@ -8,16 +18,6 @@
    "link": "https://www.friendsoffootballnz.com/2026/11/03/auckland-united-in-contention-for-place-at-first-fifa-womens-club-world-cup/",
    "lede": "FIFA have confirmed the United States will host the inaugural Women’s Club World Cup in January 2028, with Auckland United among the contenders for Oceania’s place at the global event. The new competition will feature 19 clubs from FIFA’s six continental confederations, with matches scheduled between January 5-30, 2028. FIFA have also revealed the qualification criteria and confirmed seven clubs have already secured places in the tournament. They are Arsenal (England), Barcelona (Spain), Club América (Mexico), Gotham FC (United States), Naegohyang (DPR Korea), Corinthians (Brazil) and Wuhan Jiangda (China PR).",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/10/FIFA-Womens-Club-World-Cup.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "THE GUARDIAN",
-   "title": "Fifa to share documents on World Cup sell-off plans with council members",
-   "iso": "2026-11-02T22:24:00.000Z",
-   "link": "https://www.theguardian.com/football/2026/nov/02/fifa-council-members-documents-forward-enterprise-ffe-scheme-uefa-questions-governance-scandals-gianni-infantino",
-   "lede": "Viewings to take place at Fifa’s headquarters in Zurich. No direct response to Uefa’s questions on governance. Fifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but has not responded directly to more than 50 questions from Uefa about its governance and recent scandals. In a letter sent to the Fifa Council by Mattias Grafström, the governing body’s secretary general, members were told material relating to FFE will be released for them to view in person at Fifa’s headquarters in Zurich.",
-   "image": "https://i.guim.co.uk/img/media/b86216e6886c6bf8a63b6c73019125e4de5f3d94/154_589_3960_3169/master/3960.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840f6d0782aa88b0847d333463a1fdf7",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -42,14 +42,24 @@
    "bg": "#7a2424"
   },
   {
+   "cat": "NEWSWAV",
+   "title": "Fifa grant access to Gianni Infantino's documents on failed World Cup sell-off plan",
+   "iso": "2026-11-02T20:20:34.000Z",
+   "link": "https://newswav.com/article/fifa-grant-access-to-gianni-infantino-s-documents-on-failed-world-cup-sell-A2611_6tCsPm",
+   "lede": "Fifa Secretary General Mattias Grafstrom has invited Fifa Council members to Zurich to inspect confidential documents concerning Gianni Infantino's abandoned Fifa Forward Enterprise (FFE) proposal under strict privacy conditions. The controversial proposal, which sought to sell a minority stake in a new $20bn entity managing World Cup commercial rights to private investors, was scrapped in August following rejections from three confederations and a boycott threat from Uefa. The document disclosure follows a formal letter from Uefa demanding clarity on 42 areas of concern, including why exclusivity was awarded to Thrive Capital, an investment firm founded by Joshua Kushner, brother of United States President Donald Trump's son-in-law.",
+   "image": "https://static.independent.co.uk/2026/10/23/09/2026-10-23T035018Z_1893031247_RC2WRNAMA73W_RTRMADP_3_SOCCER-FIFA-ASIA.JPG?width=1200&auto=webp&trim=136%2C0%2C136%2C0",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
    "cat": "THE STRAITS TIMES",
    "title": "FIFA to grant access to documents from scrapped World Cup sell-off plan",
    "iso": "2026-11-02T20:12:00.000Z",
    "link": "https://www.straitstimes.com/sport/football/fifa-to-grant-access-to-documents-from-scrapped-world-cup-sell-off-plan",
    "lede": "FIFA President Gianni Infantino will stand for re-election in March 2027, with a Nov 18 deadline looming for potential candidates to submit their nominations. PARIS - Football’s world governing body will grant its council members access to key documents concerning the defunct FIFA Forward Enterprise (FFE) proposal, a person with direct knowledge of the matter told Reuters on Nov 2. FIFA scrapped the US$20 billion World Cup sell-off plan earlier this summer only days after making it public, amid a backlash that imperiled President Gianni Infantino's leadership. FIFA secretary general Mattias Grafstrom sent a letter to FIFA council members on Nov 2, inviting them to register their interest in reviewing the documents under specific conditions at the group’s Zurich headquarters, the person said.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3f5067383fa398fd78c4be727932b15ecb5fd52873be3584a839b3bb63e46564?w=1200",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "BBC",
@@ -58,8 +68,8 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o",
    "lede": "Gianni Infantino has been Fifa president since 2016. Fifa says \"key documents\" relating to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private investors will be made available to members of its council - but access will be subject to \"strict review protocols\". Last month, Uefa gave football's world governing body until 2 November to release details about the hugely controversial Fifa Forward Enterprise (FFE) proposal, and to answer a list of questions relating to its governance and decision-making. That followed a council meeting at which Infantino apologised for the abandoned sell-off plot but failed to offer a full explanation for how the proposal was devised, asking that questions be submitted in writing.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -68,16 +78,6 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-latest-world-cup-ffe-fifa-uefa-b3077876.html",
    "lede": "Infantino’s Fifa Forward Enterprise (FFE) proposal was rejected by three continental confederations. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Confidential documents linked to Gianni Infantino’s hugely controversial World Cup private investor plan will be made available for members of the Fifa Council to view.",
    "image": "https://static.independent.co.uk/2026/11/02/19/2293665279..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "THE INDEPENDENT",
-   "title": "Gordon makes vow to Aguirre after viral World Cup interaction",
-   "iso": "2026-11-02T19:00:00.000Z",
-   "link": "https://www.independent.co.uk/sport/football/anthony-gordon-javier-aguirre-video-world-cup-b3077854.html",
-   "lede": "Aguirre shouted Gordon’s name before saying ‘f*** you’ and laughing during England’s last-16 win over Mexico. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Anthony Gordon says he will sign an image of his viral interaction with Javier Aguirre from the World Cup following a request from the former Mexico manager.",
-   "image": "https://static.independent.co.uk/2026/07/09/19/65ce63ce2434ce4806539a3b44e14f01Y29udGVudHNlYXJjaGFwaSwxNzgzNjk5NDY2-2.85200203.jpg?width=1200&height=800&crop=1200:800",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
