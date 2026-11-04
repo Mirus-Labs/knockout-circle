@@ -1,15 +1,45 @@
 {
- "updated": "2026-11-04T00:08:36.985Z",
+ "updated": "2026-11-04T01:26:36.408Z",
  "news": [
+  {
+   "cat": "THE GUARDIAN",
+   "title": "Postponement of Asian Cup leaves Socceroos, FA and coach Tony Popovic at crossroads",
+   "iso": "2026-11-03T23:54:33.000Z",
+   "link": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
+   "lede": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for Popovic. Confirmation that the Asian Cup has been postponed until December 2027 would have caught few by surprise. But the timing of Tuesday’s announcement might have, given it came well ahead of the late November timeframe hinted at by the AFC. Yet with Houthi attacks continuing across Saudi Arabia, it felt inevitable the tournament would be deferred.",
+   "image": "https://i.guim.co.uk/img/media/7a80ee30e28277a5731228f614b47a2c269acdec/346_0_3461_2769/master/3461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2689e53d8bd9f58944f4fde3b140cc92",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "毎日新聞",
+   "title": "Football: Asian Cup postponed to Dec. 2027 amid Saudi unrest",
+   "iso": "2026-11-03T23:32:51.000Z",
+   "link": "https://mainichi.jp/english/articles/20261104/p2g/00m/0sp/004000c",
+   "lede": "TOKYO (Kyodo) -- The Asian Football Confederation announced Tuesday the Asian Cup originally scheduled for early next year in Saudi Arabia has been postponed and will start instead in December 2027. A number of sporting events and international conferences in the region have been postponed or canceled in recent weeks amid the ongoing unrest in Saudi Arabia, which has come under attack by Yemen's Houthi group. The continental tournament was set to be held between Jan. 7 and Feb. 5 next year but has been pushed back to kick off on Dec. 23 and end on Jan. 21, 2028, the AFC said. \"The Organizing Committee for AFC Asian Cup approved to reschedule the flagship national team tournament in light of the current exceptional circumstances arising from developments in the region,\" its statement read.",
+   "image": "https://cdn.mainichi.jp/vol1/2026/11/04/20261104p2g00m0sp003000p/0c10.jpg?1",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "KOMU 8",
+   "title": "Illinois cancels scheduled football games against Mizzou",
+   "iso": "2026-11-03T22:00:00.000Z",
+   "link": "https://www.komu.com/sports/mizzouxtra/illinois-cancels-scheduled-football-games-against-mizzou/article_395cc4e7-ec7c-4878-8f3f-0f01f394e19b.html",
+   "lede": "Illinois football has canceled its 2027 and 2028 games against Mizzou, the team announced today. Illinois will replace its games against Mizzou with a home-and-home series against Notre Dame. Notre Dame will host Illinois on Sept. 4, 2027, and Illinois will host on Sept. Mizzou has not announced a replacement for either game.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/3/95/395cc4e7-ec7c-4878-8f3f-0f01f394e19b/6aea5764ad99c.preview.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
   {
    "cat": "GRAPHIC ONLINE",
    "title": "Amputee Football World Cup: GFA unveils $500,000 Gold Fields deal for Black Challenge",
    "iso": "2026-11-03T21:24:08.000Z",
    "link": "https://www.graphic.com.gh/sports/sports-news/amputee-football-world-cup-gfa-unveils-500-000-gold-fields-deal-for-black-challenge.html",
    "lede": "The Ghana Football Association (GFA) has formally activated a US$500,000 allocation for amputee football under its two-year, US$5 million sponsorship agreement with Gold Fields Ghana Limited, giving the Black Challenge a major boost ahead of the 2026 Amputee Football World Cup in Mexico. The presentation and activation of the funding on Tuesday, at Mendiata Hotel in Accra, brought together GFA President Kurt Simeon-Okraku, National Paralympic Committee (NPC) President Samson Deen, Gold Fields Ghana Vice President and Managing Director Elliot Twum and members of the amputee national team. Mr Deen welcomed the commitment, describing it as the kind of corporate and institutional backing the sport had long sought.",
-   "image": "https://graphiconline.com/images/2026/Nov/03/AMPUTEE_FOOTBALL.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "image": "https://www.graphic.com.gh/images/2026/Nov/03/AMPUTEE_FOOTBALL.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "DAILY TRIBUNE",
@@ -18,60 +48,34 @@
    "link": "https://tribune.net.ph/2026/11/03/young-booters-face-bright-future",
    "lede": "DT·4 November 2026 · 2:57 AM PHT·2 MIN READ. The Philippine U15 Men’s National Football Team (PMNFT U15) wrapped up its maiden FIFA World Cup & Festival with a respectable 110th place out of 189 countries in the world’s biggest football tournament held in Baku, Azerbaijan in terms of participation. “Our U15’s performance tells us that our homegrowns, when given a platform, can compete well against opponents from other continents,” Philippine Football Federation (PFF) president John Anthony Gutierrez said. The Philippine side had a total of 19 goals in 10 games, highlighted by four victories against Belize (1-0) and Curacao (8-1) in the Group Stage while defeating Macau (2-0) and Aruba (5-2) in the Classification Stage.",
    "image": "https://images.assettype.com/tribune/2026-11-03/hlvjffnm/WhatsApp-Image-2026-10-28-at-5.24.18-PM.jpeg?w=1200&auto=format&q=70&rect=0%2C83%2C1581%2C889&h=675&fit=crop",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "THE TIMES OF CENTRAL ASIA",
-   "title": "Asian Cup Postponement Delays Central Asian Football Hopes",
-   "iso": "2026-11-03T20:14:24.000Z",
-   "link": "https://timesca.com/asian-cup-postponement-delays-central-asian-football-hopes/",
-   "lede": "Image: Kyrgyzstan plays Lebanon in Bishkek on October 4, 2026, as part of preparations for the 2027 Asian Cup. Credit: Cabinet of Ministers of the Kyrgyz Republic. Tajikistan’s football team planned to be “fully prepared” for the Asian Cup finals in Saudi Arabia in early 2027, coach Igor Angelovski of North Macedonia said months ago. But the Tajik footballers and the rest of the competition will have to wait.",
-   "image": "https://timesca.com/wp-content/uploads/2026/11/3.png",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "LAODONG.VN",
-   "title": "U17 Vietnam's schedule at the 2026 U17 World Cup newly updated",
-   "iso": "2026-11-03T23:32:39.000Z",
-   "link": "https://news.laodong.vn/lich-thi-dau/lich-thi-dau-u17-viet-nam-tai-u17-world-cup-2026-moi-cap-nhat-1794314.ldo",
-   "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "MORNING STAR | THE PEOPLE’S DAILY",
-   "title": "Asian Football Confederation postpones the 2027 Asian Cup due to Middle East conflicts",
-   "iso": "2026-11-03T21:38:04.000Z",
-   "link": "https://morningstaronline.co.uk/article/asian-football-confederation-postpones-2027-asian-cup-due-middle-east-conflicts",
-   "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "College football odds Week 10: LSU, Notre Dame, Utah favored in season’s best slate",
-   "iso": "2026-11-03T21:09:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7745840/2026/11/02/college-football-odds-week-10-notre-dame-miami-byu-utah/",
-   "lede": "",
+   "cat": "FOOTBALL360.COM.AU",
+   "title": "Can anyone from the A-League Women make the Matildas’ World Cup squad? These are the candidates",
+   "iso": "2026-11-04T00:55:33.000Z",
+   "link": "https://football360.com.au/matildas-womens-world-cup-a-league-women/",
+   "lede": "After Michelle Heyman's recent comments about Matildas selection from the A-League Women, we look at the candidates who could break through from Australia's domestic competition.",
+   "image": "https://football360.com.au/wp-content/uploads/2026/04/WhatsApp-Image-2026-03-21-at-21.00.34-1-1.webp",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "What we learned about the College Football Playoff race: What now, Ohio State? - The Athletic",
-   "iso": "2026-11-03T21:09:00.000Z",
-   "link": "https://www.nytimes.com/athletic/7743133/2026/11/01/college-football-playoff-race-ohio-state/",
-   "lede": "",
+   "cat": "FACEBOOK",
+   "title": "Young football talents from Iloilo and Negros Occidental made their mark on the global stage as the Philippine Under-15 Men's National Football Team finished 110th among 189 countries in the inaugural FIFA U15 World Cup & Festival in Azerbaijan. Link to t",
+   "iso": "2026-11-04T00:31:03.000Z",
+   "link": "https://www.facebook.com/DailyGuardianPH/posts/young-football-talents-from-iloilo-and-negros-occidental-made-their-mark-on-the-/1570136561809788/",
+   "lede": "Young football talents from Iloilo and Negros Occidental made their mark on the global stage as the Philippine Under-15 Men's National Football Team finished 110th among 189 countries in the inaugural FIFA U15 World Cup",
+   "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/887785291_2391812314961270_268639971223068848_n.png?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=oVKiXMqSn14Q7kNvwFjYJKC&_nc_oc=AdqgYDZlpzXJUCj-jPmAthZiopDDMF0H-TNf168EB9bs0G5Aa8h_FV6Xc9OaxCKzZ0c&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=ZVNa43W_SQlttGbuUJKNEg&_nc_ss=7c289&oh=00_AQRPmZXkXskwPHDIYctEg6XD9mo6mBG9bop5FCw-40kW-Q&oe=6AF06456",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "A 24-team CFP is coming to college football, but what if it had been the format all along?",
-   "iso": "2026-11-03T21:08:45.000Z",
-   "link": "https://www.nytimes.com/athletic/7749348/2026/11/03/college-football-playoff-24-teams-history/",
+   "title": "Miami tops first College Football Playoff rankings, with Alabama, Notre Dame among surprises",
+   "iso": "2026-11-04T00:02:51.000Z",
+   "link": "https://www.nytimes.com/athletic/7749032/2026/11/03/college-football-playoff-predictions-bracket/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
