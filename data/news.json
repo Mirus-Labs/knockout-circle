@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-07T10:26:27.875Z",
+ "updated": "2026-11-07T15:33:07.072Z",
  "news": [
+  {
+   "cat": "LIVESCORE",
+   "title": "Because of the 2030 World Cup: Lekjaa takes an important decision regarding his position within CAF",
+   "iso": "2026-11-07T14:15:56.000Z",
+   "link": "https://www.livescore.com/en/news/football/more/because-of-the-2030-world-cup-lekjaa-takes-an-important-decision-regarding-his-position-within-caf-goal/",
+   "lede": "Fawzi Lekjaa looks set to reshuffle his cards within the Confederation of African Football. The move could bring an end to one of his most prominent roles in the corridors of African football, with the Moroccan moving towards resigning from the presidency of CAF's finance committee while keeping his position as first vice-president of the continental body. Moroccan website Hespport report that Lekjaa has decided to step down from the finance committee presidency because of the sheer weight of commitments the role brings. The frequent travel is part of it, as is the considerable time needed to follow up the various files tied to running CAF's financial affairs.",
+   "image": "https://storage.lsmedia1.com/images/web/medium/news_article_default_image_3.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "LEGIT NEWS",
+   "title": "CAF sends message to Flamingos ahead of U-17 Women's World Cup final vs Japan",
+   "iso": "2026-11-07T10:23:55.000Z",
+   "link": "https://www.legit.ng/sports/football/1740067-nigeria-japan-caf-sends-message-flamingos-u-17-world-cup-final/",
+   "lede": "PAY ATTENTION: Mark Legit.ng as a preferred source, and our content will appear higher in your Google feed! The Confederation of African Football (CAF) has thrown its weight behind Nigeria's Flamingos ahead of the 2026 FIFA U-17 Women's World Cup final, scheduled for Saturday, November 7, in Morocco. Coach Akeem Busari's side made history by becoming the first African team to ever reach the final of the competition. Standing between Nigeria and the trophy is Japan, a side that already has one world title to their name.",
+   "image": "https://cdn.legit.ng/images/1200x675/96eb79ada97535a8.jpeg?v=1",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
   {
    "cat": "LEGIT NEWS",
    "title": "FIFA U-17 Women’s World Cup: Flamingos Captain Harmony Chidi Fires Warning to Japan Ahead of Final",
@@ -8,8 +28,8 @@
    "link": "https://www.legit.ng/sports/football/1740056-fifa-u-17-womens-world-cup-flamingos-captain-harmony-chidi-fires-warning-japan-final/",
    "lede": "PAY ATTENTION: Find it fast with our new search feature at Legit.ng! Nigeria's Flamingos captain Harmony Chidi has put Japan on notice, saying her side are ready to deliver a maiden FIFA U-17 Women's World Cup title to the country when the two teams clash in Saturday's final in Rabat, Morocco. The match takes place at the Mohammed VI Football Complex, Pitch 4, with kick-off set for 7:30 pm Nigerian time. It will be the first time Nigeria and Japan have faced each other at this stage of the competition.",
    "image": "https://cdn.legit.ng/images/1200x675/5410f1603fa977c7.jpeg?v=1",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "ANI NEWS",
@@ -18,8 +38,8 @@
    "link": "https://www.aninews.in/news/sports/football/fifa-partially-upholds-afas-appeal-against-post-world-cup-sanctions-nahuels-suspension-reduced20261107143723",
    "lede": "Zurich [Switzerland], November 7 (ANI): FIFA's Appeal Committee has partially upheld the Argentine Football Association (AFA) appeal against sanctions handed to several team members following the 2026 FIFA World Cup final, with Nahuel Molina's suspension getting reduced, while the punishment for midfielder Leandro Parades stands. As per a Spanish newspaper, Marca, report quoted by Goal.com, FIFA cut the ban for Nahuel from seven matches to four and also reduced his fine from 90,000 dollars to 60,000. But for Parades, his 10-match suspension along with his 90,000 dollar fine still stands. In an official statement, the AFA said that they would be requesting the grounds for decisions before taking them to the Court of Arbitration for Sport (CAS).",
    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261107090224-thumbnail-320x180-70.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "LEGIT NEWS",
@@ -28,8 +48,8 @@
    "link": "https://www.legit.ng/sports/football/1740033-japan-nigeria-tv-channels-streaming-platforms-watch-fifa-u-17-womens-world-cup-final/",
    "lede": "PAY ATTENTION: Find it fast with our new search feature at Legit.ng! Nigeria's Flamingos will face Japan in the final of the FIFA U-17 Women's World Cup Morocco 2026 on Saturday, November 7, 2026, with kick-off scheduled for 7:30 PM at the Mohammed VI Complex Pitch-3 in Rabat, Morocco. The match will be the 52nd and final game of the tournament, and history will be made regardless of the result. As seen on FIFA's official website, it is the first time Nigeria and Japan have met at the FIFA U-17 Women's World Cup and the first time either country has faced the other in a World Cup final at any level.",
    "image": "https://cdn.legit.ng/images/1200x675/bd01f0b5bbb130c1.jpeg?v=1",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "SPORTSTAR",
@@ -38,8 +58,8 @@
    "link": "https://sportstar.thehindu.com/football/womens-football/fifa-u17-women-world-cup-2026-final-nigeria-vs-japan-preview-team-news-womens-soccer/article71677445.ece",
    "lede": "Chennai Nigeria will look to script history in women’s football as it eyes its maiden title at the FIFA under-17 Women’s World Cup on Saturday. The Flamingos beat Brazil 3-1 in the semifinal and will be up against three-time finalist and Asian heavyweight Japan in a bid for the title in Rabat, Morocco. “From what we saw against DPR [Korea], I think it’s the core of what we should expect more of from the Japanese,” Nigeria coach Akeem Busari told FIFA at the final press conference. “But it’s a different ballgame because, for both us and them, the game will not be the same.",
    "image": "https://ss-i.thgim.com/public/incoming/h1m9n1/article71677453.ece/alternates/LANDSCAPE_1200/GettyImages-2303523441.jpg",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "SPORTSTAR",
@@ -48,18 +68,8 @@
    "link": "https://sportstar.thehindu.com/football/argentina-fifa-world-cup-2026-final-controversy-molina-punishment-reduces-spain-fight/article71677403.ece",
    "lede": "Chennai The Argentina Football Association announced on Friday that Argentina was granted a reprieve from sanctions against its defender, Nahuel Molina, due to his conduct during the final. After the FIFA World Cup 2026 final between Argentina and Spain, an altercation broke out between the players, with Leandro Paredes punching Pablo Martín Páez Gavira, which escalated into a full-blown scuffle. The FIFA Disciplinary Committee took note of the episode and announced the following sanctions against Argentine players and staff in August: Leandro Paredes (player): a 10 -match suspension and a fine of USD 90,000. Nahuel Molina (player): a seven-match suspension and a fine of USD 90,000.",
    "image": "https://ss-i.thgim.com/public/incoming/r5vr9o/article71677402.ece/alternates/LANDSCAPE_1200/Argentina_Spain_WCup_Soccer_34925.jpg",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "GREEK CITY TIMES",
-   "title": "Kosta Barbarouses Chooses South Melbourne After World Cup",
-   "iso": "2026-11-07T04:40:46.000Z",
-   "link": "https://greekcitytimes.com/2026/11/07/barbarouses-south-melbourne/",
-   "lede": "Kosta Barbarouses has explained why he chose South Melbourne after the 2026 FIFA World Cup, putting his young family ahead of another A-League playing contract. Speaking to Football360, the 36-year-old former Panathinaikos forward said years on the road across New Zealand, Australia, Russia and Greece had reshaped his next step. Rather than chase another A-League contract after Western Sydney Wanderers, he weighed Melbourne’s A-League clubs or a return to Wellington Phoenix. Then he opted for stability at Lakeside Stadium.",
-   "image": "https://greekcitytimes.com/wp-content/uploads/2026/11/featured-47.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "DW.COM",
@@ -68,16 +78,6 @@
    "link": "https://www.dw.com/en/boycotts-bans-and-no-shows-notable-world-cup-absentees/g-76500538",
    "lede": "The first World Cup was hosted by Uruguay in 1930 and featured 13 teams, just four of which were from Europe: France, Belgium, Romania and Yugoslavia. The paucity of European teams wasn't due to a boycott but largely had to do with funds being short during the Great Depression and the difficulty of traveling such a long distance by sea. It would be linked to a boycott at the next World Cup. Italy both hosted and won their first World Cup in 1934.",
    "image": "https://static.dw.com/image/76507462_6.jpg",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SPORTSTAR",
-   "title": "FIFA lawyer departs weeks after UEFA’s 42 questions on Infantino and disciplinary meddling",
-   "iso": "2026-11-06T21:17:48.000Z",
-   "link": "https://sportstar.thehindu.com/football/fifa-infantino-corruption-investigation-aide-lawyer-quits-big-blow-uefa-questions/article71676088.ece",
-   "lede": "GENEVA FIFA’s top lawyer left the body on Friday after eight years working for its president Gianni Infantino and a men’s World Cup in North America which drew intense scrutiny on disciplinary rulings. “Emilio García Silvero has expressed his wish to embark on a new chapter in his career and return to Spain after 15 years of working abroad in the service of international football,” FIFA said in a statement. As head of FIFA’s legal and compliance unit, García oversaw tournament disciplinary cases, transfer market rules and contractual disputes worldwide, and steered moving the body’s lawyers from Zurich to Miami in 2023.",
-   "image": "https://ss-i.thgim.com/public/incoming/c2vvyp/article71676087.ece/alternates/LANDSCAPE_1200/image%2015.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
