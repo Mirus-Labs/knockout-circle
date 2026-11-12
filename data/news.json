@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-12T11:53:56.637Z",
+ "updated": "2026-11-12T12:45:48.927Z",
  "news": [
   {
    "cat": "THE STRAITS TIMES",
    "title": "Paraguay coach Gustavo Alfaro wants team to play for beleaguered nation when they face S’pore, Japan",
    "iso": "2026-11-12T11:43:00.000Z",
    "link": "https://www.straitstimes.com/sport/football/paraguay-coach-gustavo-alvaro-wants-team-to-play-for-beleaguered-nation-when-they-face-spore-japan",
-   "lede": "With Paraguay facing challenging times back home, Gustavo Alfaro said his team are looking to lift the country’s spirits with their performances against Singapore and Japan. SINGAPORE – Living up to his moniker ‘El Professor’, Paraguay coach Gustavo Alfaro did not disappoint with his philosophical answers in his pre-match press conference on Nov 12. The 64-year-old Argentinian, who is known for referencing the likes of Einstein and Aristotle in his media interviews, was in his element when asked what advice he would give to Singapore’s 36-year-old rookie international coach Gavin Lee. “I started coaching at 30, and obviously, the world of football is a very big question mark with permanent quests for answers,” said Alfaro with a genial smile, ahead of the opening match of the Mizuho Blue Challenge between his side and the Lions at the National Stadium on Nov 13.",
+   "lede": "With Paraguay facing challenging times back home, Gustavo Alfaro said his team are looking to lift the country’s spirits with their performances against Singapore and Japan. SINGAPORE – Living up to his moniker “El Professor”, Paraguay coach Gustavo Alfaro did not disappoint with his philosophical answers in his pre-match press conference on Nov 12. The 64-year-old Argentinian, who is known for referencing the likes of Einstein and Aristotle in his media interviews, was in his element when asked what advice he would give to Singapore’s 36-year-old rookie international coach Gavin Lee. “I started coaching at 30, and obviously, the world of football is a very big question mark with permanent quests for answers,” said Alfaro with a genial smile ahead of the opening match of the Mizuho Blue Challenge between his side and the Lions at the National Stadium on Nov 13.",
    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/10a495f0a9cf16bdfb3b88fd1d9ac47c755f129cb30a272a18549e3943982901?t=og",
    "emoji": "⚽",
    "bg": "#1d6f42"
@@ -32,12 +32,12 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "LIVESCORE",
+   "cat": "THE INDEPENDENT",
    "title": "USA pull out of U17 World Cup in Qatar over safety concerns",
-   "iso": "2026-11-12T09:48:21.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/usa-pull-out-of-u17-world-cup-in-qatar-over-safety-concerns-the-independent/",
-   "lede": "The USA have withdrawn from the Under-17 World Cup in Qatar, which begins in just over a week, citing the risk of conflict in the region. A letter sent to players from the US Soccer Federation explaining the decision referred to the US state department’s travel advisory for Qatar. It issued a level three travel advisory last month, a day after Yemen’s Houthi rebels carried out deadly airstrikes on Riyadh’s international airport, warning Americans not to travel to Qatar due to the “risk of armed conflict” and the “potential [for hostilities] to escalate beyond” areas which had already been attacked. US Soccer’s letter to players reads: “Unfortunately, in light of current circumstances … we are no longer able to participate in the tournament.",
-   "image": "https://static.independent.co.uk/2026/11/12/9/54/10-PER-USE-PLEASE-FLAG-REUSE-TO-PIC-DESK.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+   "iso": "2026-11-12T09:38:00.000Z",
+   "link": "https://www.independent.co.uk/sport/football/usa-u17-world-cup-qatar-middle-east-war-b3083698.html",
+   "lede": "The US has withdrawn from the tournament due to the risk of armed conflict in the region. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. The USA have withdrawn from the Under-17 World Cup in Qatar, which begins in just over a week, citing the risk of conflict in the region.",
+   "image": "https://static.independent.co.uk/2026/11/12/9/54/10-PER-USE-PLEASE-FLAG-REUSE-TO-PIC-DESK.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
@@ -52,30 +52,32 @@
    "bg": "#1f4b7a"
   },
   {
+   "cat": "REDIFF",
+   "title": "US Soccer withdraws U-17 team from FIFA World Cup in Qatar due to security concerns",
+   "iso": "2026-11-12T08:34:22.000Z",
+   "link": "https://www.rediff.com/sports/report/us-soccer-withdraws-u-17-team-from-fifa-world-cup-in-qatar-due-to-security-concerns/20261112.htm",
+   "lede": "US Soccer has officially withdrawn its men's national team from the upcoming FIFA Under-17 Football World Cup in Qatar, citing significant safety concerns and a Level 3 travel advisory from the US State Department. US Soccer has withdrawn its national team from the men's FIFA Under-17 Football World Cup in Qatar over safety concerns, the federation told players on Wednesday. In a letter sent to players and provided to Reuters, the federation said it was cancelling the team's pre-tournament camp and its participation in the event \"in light of current circumstances.\" It cited the US State Department's Level 3 travel advisory for Qatar and related directives for embassy staff and families.",
+   "image": "https://im.rediff.com/1200-630/sports/2026/nov/12usa1.jpg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
    "cat": "BBC",
    "title": "Under-17 World Cup: USA withdraw from Qatar tournament over safety concerns",
    "iso": "2026-11-12T07:44:21.000Z",
    "link": "https://www.bbc.com/sport/football/articles/c6y49yz77pppo",
    "lede": "The USA reached the last 32 of last year's Under-17 World Cup, the first of five successive editions to be held annually in Qatar. The USA have withdrawn from the Under-17 World Cup in Qatar because of the risk of armed conflict. In a letter sent to players and seen by news agency Reuters, US Soccer said it made the decision \"in light of current circumstances\". It cited advice from the US Department of State, which issued a level three travel advisory, external for Qatar last month.",
    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/79aa/live/f81c7430-de6a-11f1-9115-cfe6d179af3a.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Who will be USMNT’s next coach? Top candidates to replace Mauricio Pochettino",
-   "iso": "2026-11-12T11:00:32.000Z",
-   "link": "https://www.nytimes.com/athletic/7775006/2026/11/12/who-will-be-usmnts-next-coach-top-candidates-to-replace-mauricio-pochettino/",
-   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Texas adds to Lane Kiffin’s misery: College football Week 11 oddly specific predictions",
-   "iso": "2026-11-12T11:00:10.000Z",
-   "link": "https://www.nytimes.com/athletic/7774517/2026/11/12/college-football-week-11-predictions/",
-   "lede": "",
+   "cat": "SPORTSWORLDGHANA",
+   "title": "Black Challenge arrive in Mexico with World Cup hopes high",
+   "iso": "2026-11-12T12:39:38.000Z",
+   "link": "https://sportsworldghana.com/black-challenge-arrive-in-mexico-with-world-cup-hopes-high/",
+   "lede": "Ghana's national amputee football team, the Black Challenge, have safely arrived in Mexico ahead of the 2026 Amputee Football World.",
+   "image": "https://sportsworldghana.com/site/wp-content/uploads/2026/11/3C705203-95F5-4972-B2AB-C91FBEF3775D-1200x675-1.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
