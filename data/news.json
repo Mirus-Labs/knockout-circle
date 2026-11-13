@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:30:06.549Z",
+ "updated": "2026-11-13T16:46:21.828Z",
  "news": [
   {
    "cat": "CNA",
@@ -42,24 +42,14 @@
    "bg": "#7a2424"
   },
   {
-   "cat": "SPORTSTAR",
-   "title": "Japan coach Moriyasu to step down from role after Paraguay friendly",
-   "iso": "2026-11-13T13:00:20.000Z",
-   "link": "https://sportstar.thehindu.com/football/international-football/japan-coach-moriyasu-to-step-down-from-role-after-paraguay-friendly/article71698095.ece",
-   "lede": "Tokyo Japan coach Hajime Moriyasu will step down next week, the country’s football association said Friday, cutting short his tenure in the wake of the 2027 Asian Cup’s postponement. Moriyasu, Japan’s longest-serving coach, was originally set to lead the team at the Asian Cup in Saudi Arabia in January before handing the reins to current Under-23 boss Go Oiwa. But the Asian Football Confederation announced last week that the tournament would be pushed back to December 2027 due to “exceptional circumstances” in the region, following Houthi attacks on the host country. That left Moriyasu in limbo, with Japan Football Association (JFA) chiefs last week declining to clarify when the coaching handover would take place.",
-   "image": "https://ss-i.thgim.com/public/incoming/5rcxdr/article71698052.ece/alternates/LANDSCAPE_1200/2026-06-29T192349Z_953635706_UP1EM6T1HVPVX_RTRMADP_3_SOCCER-WORLDCUP-BRA-JPN.JPG",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Tickets for group stage games at Women’s World Cup to go on sale for as low as $5",
+   "iso": "2026-11-13T16:38:16.000Z",
+   "link": "https://www.nytimes.com/athletic/7779266/2026/11/13/womens-world-cup-tickets-brazil/",
+   "lede": "The initial prices of tickets for next summer’s event are in stark contrast to the unprecedented prices of the 2026 men's World Cup.",
+   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/13111744/GettyImages-1626984038-scaled.jpg?width=1200&height=630&fit=crop",
    "emoji": "🌎",
    "bg": "#1f4b7a"
-  },
-  {
-   "cat": "LIVESCORE",
-   "title": "'Like a World Cup match' - Brazil captain Raphinha expects stern Japan test in Singapore as Hajime Moriyasu's long reign nears its end",
-   "iso": "2026-11-13T12:15:35.000Z",
-   "link": "https://www.livescore.com/en/news/football/more/like-a-world-cup-match-brazil-captain-raphinha-expects-stern-japan-test-in-singapore-as-hajime-moriyasus-long-reign-nears-its-end-goal/",
-   "lede": "Stand-in Brazil captain Raphinha anticipates a fierce examination against Japan in Saturday's international friendly in Singapore. The rematch of this summer's World Cup clash in Houston comes as Samurai Blue boss Hajime Moriyasu prepares for the final two games of his eight-year tenure. Stand-in skipper anticipates fierce battle Raphinha will wear both the armband and the iconic number 10 shirt at the Singapore National Stadium with regular skipper Marquinhos sidelined through injury. The Asian side are seeking revenge for their late 2-1 comeback defeat in the World Cup round of 32 in June .",
-   "image": "https://storage.livescore.com/images/web/medium/news_article_default_image_3.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
   },
   {
    "cat": "BELFAST TELEGRAPH",
@@ -67,8 +57,8 @@
    "iso": "2026-11-13T15:55:00.000Z",
    "link": "https://www.belfasttelegraph.co.uk/sport/football/international/referee-at-centre-of-world-cup-storm-to-take-charge-of-crucial-northern-ireland-clash/a/164527160.html",
    "lede": "",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -77,6 +67,16 @@
    "link": "https://www.nytimes.com/athletic/7779113/2026/11/13/lionel-messi-inter-miami-river-plate/",
    "lede": "River Plate will give Messi the chance to play in front of a home crowd once more following his Argentina retirement.",
    "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/13101501/GettyImages-2298981209-scaled-e1794582924311.jpg?width=1200&height=630&fit=crop",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
+  },
+  {
+   "cat": "LENTE DESPORTIVA",
+   "title": "Argentina make major 2030 World Cup decision following Lionel Messi's international retirement",
+   "iso": "2026-11-13T15:15:00.000Z",
+   "link": "https://lentedesportiva.com/argentina-make-major-2030-world-cup-decision-following-lionel-messis-international-retirement/",
+   "lede": "The extension runs through the 2030 World Cup cycle and puts Lionel Scaloni on course to become the first coach to lead Argentina at three tournaments, less than four months after the extra-time defeat to Spain that closed the Messi era.",
+   "image": "https://lentedesportiva.com/wp-content/uploads/2026/11/lente-d7d6a3f3-09b5-4000-acf9-d5790b5341bb.jpg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
