@@ -1,53 +1,53 @@
 {
- "updated": "2026-11-15T00:25:15.749Z",
- "refreshed": "2026-11-08T06:12:39.441Z",
+ "updated": "2026-11-15T07:15:01.789Z",
+ "refreshed": "2026-11-15T07:15:01.789Z",
  "source": "Wikipedia / Wikimedia Commons",
  "stadiums": {
   "Boston (Foxborough)": {
-   "name": "Boston Stadium · Gillette Stadium",
-   "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gillette%20Stadium%20panorama.jpg?width=2200",
-   "page": "https://commons.wikimedia.org/wiki/File:Gillette_Stadium_panorama.jpg",
-   "attribution": "Wikimedia Commons · Kenneth C. Zirkel"
+   "name": "Gillette Stadium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Gillette_Stadium_%28Top_View%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "page": "https://en.wikipedia.org/wiki/Gillette_Stadium",
+   "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Atlanta": {
    "name": "Mercedes-Benz Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mercedes_Benz_Stadium_time_lapse_capture_2017-08-13.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mercedes_Benz_Stadium_time_lapse_capture_2017-08-13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "page": "https://en.wikipedia.org/wiki/Mercedes-Benz_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Los Angeles (Inglewood)": {
    "name": "SoFi Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SoFi_Stadium_2023.jpg/3840px-SoFi_Stadium_2023.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/SoFi_Stadium_2023.jpg/3840px-SoFi_Stadium_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/SoFi_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "New York (East Rutherford)": {
    "name": "MetLife Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Metlife_stadium_%28Aerial_view%29.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Metlife_stadium_%28Aerial_view%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "page": "https://en.wikipedia.org/wiki/MetLife_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Dallas (Arlington)": {
    "name": "AT&T Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/3840px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg/3840px-Arlington_June_2020_4_%28AT%26T_Stadium%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/AT%26T_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Philadelphia": {
    "name": "Lincoln Financial Field",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lincoln_Financial_Field_%28Aerial_view%29.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lincoln_Financial_Field%2C_Philadelphia%2C_Pennsylvania%2C_United_States.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "page": "https://en.wikipedia.org/wiki/Lincoln_Financial_Field",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Miami": {
    "name": "Hard Rock Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hard_Rock_Stadium_for_Super_Bowl_LIV_%2849606710103%29.jpg/3840px-Hard_Rock_Stadium_for_Super_Bowl_LIV_%2849606710103%29.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hard_Rock_Stadium_for_Super_Bowl_LIV_%2849606710103%29.jpg/3840px-Hard_Rock_Stadium_for_Super_Bowl_LIV_%2849606710103%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/Hard_Rock_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Kansas City": {
    "name": "Arrowhead Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg/3840px-Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg/3840px-Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/Arrowhead_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
@@ -59,43 +59,43 @@
   },
   "Seattle": {
    "name": "Lumen Field",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg/3840px-2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg/3840px-2026_FIFA_World_Cup_-_Belgium_v._Egypt_in_Seattle_-_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/Lumen_Field",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "San Francisco (Santa Clara)": {
    "name": "Levi's Stadium",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Levi%27s_Stadium_in_February_2016_prior_to_Super_Bowl_50_%2824398261729%29.jpg/3840px-Levi%27s_Stadium_in_February_2016_prior_to_Super_Bowl_50_%2824398261729%29.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Levi%27s_Stadium_in_February_2016_prior_to_Super_Bowl_50_%2824398261729%29.jpg/3840px-Levi%27s_Stadium_in_February_2016_prior_to_Super_Bowl_50_%2824398261729%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/Levi%27s_Stadium",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Toronto": {
    "name": "BMO Field",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toronto_BMO_Field_in_2024.jpg/3840px-Toronto_BMO_Field_in_2024.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/BMO_Field_in_FIFA_World_Cup_Livery%2C_Toronto%2C_Ontario%2C_2026-06-27.jpg/3840px-BMO_Field_in_FIFA_World_Cup_Livery%2C_Toronto%2C_Ontario%2C_2026-06-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/BMO_Field",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Vancouver": {
    "name": "BC Place",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BC_Place_2015_Women%27s_FIFA_World_Cup.jpg/3840px-BC_Place_2015_Women%27s_FIFA_World_Cup.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/BC_Place_-_Canada_vs_Qatar.jpg/3840px-BC_Place_-_Canada_vs_Qatar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/BC_Place",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Mexico City": {
    "name": "Estadio Azteca",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg/3840px-Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg/3840px-Vista_a%C3%A9rea_del_Estadio_Azteca_-_2026_-_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/Estadio_Azteca",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Guadalajara": {
    "name": "Estadio Akron",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg/3840px-Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg/3840px-Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "page": "https://en.wikipedia.org/wiki/Estadio_Akron",
    "attribution": "Wikipedia / Wikimedia Commons"
   },
   "Monterrey": {
    "name": "Estadio BBVA",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mexico_Guadalupe_Monterrey_Estadio_BBVA_Bancomer_fifa_world_cup_2026_6.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mexico_Guadalupe_Monterrey_Estadio_BBVA_Bancomer_fifa_world_cup_2026_6.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "page": "https://en.wikipedia.org/wiki/Estadio_BBVA",
    "attribution": "Wikipedia / Wikimedia Commons"
   }
