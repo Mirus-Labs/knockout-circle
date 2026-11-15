@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:21:20.472Z",
+ "updated": "2026-11-15T00:25:13.034Z",
  "news": [
   {
    "cat": "OZ ARAB MEDIA",
@@ -62,12 +62,11 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "BBC",
-   "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-   "iso": "2026-11-14T20:22:00.000Z",
-   "link": "https://www.bbc.com/sport/football/articles/cq2d9l3e313zo",
-   "lede": "England head coach Thomas Tuchel during the World Cup semi-final loss to Argentina in Atlanta. England's proof of progress and the lessons learned by head coach Thomas Tuchel since the disappointment of World Cup semi-final defeat by Argentina will be put to the sternest test when they face holders Spain in Madrid. Spain present the toughest assignment England could face, with the world champions' unbeaten run – in which they claimed the sport's biggest prize by beating Argentina in New Jersey in the summer – now stretching to 43 games. Luis de la Fuente's side last lost - to Colombia - in March 2024, winning 34 games and drawing nine in the intervening period, during which they also became European champions, beating England in the Euro 2024 final in Berlin.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+   "cat": "THE NEW YORK TIMES",
+   "title": "How college football teams handled grounded flights, from tarmac walkthroughs to bus rides",
+   "iso": "2026-11-14T23:42:24.000Z",
+   "link": "https://www.nytimes.com/athletic/7782144/2026/11/14/college-football-teams-flight-delays-shutdown/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
@@ -76,8 +75,7 @@
    "title": "Georgia football commit Marcellus Young Casario dies after ‘sudden medical emergency’",
    "iso": "2026-11-14T23:38:19.000Z",
    "link": "https://www.nytimes.com/athletic/7781803/2026/11/14/georgia-commit-marcellus-young-casario-dies/",
-   "lede": "Casario, originally from Canada, was a boarding student at Rabun Gap-Nacoochee School in northeast Georgia.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/14140301/georgia-bulldogs-helmet-scaled.jpg?width=1200&height=630&fit=crop",
+   "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
