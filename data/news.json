@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-17T00:25:27.261Z",
+ "updated": "2026-11-17T01:06:00.317Z",
  "news": [
+  {
+   "cat": "HEAD TOPICS",
+   "title": "Anusiem celebrates Flamingos’ World Cup triumph",
+   "iso": "2026-11-17T00:44:00.000Z",
+   "link": "https://ng.headtopics.com/news/anusiem-celebrates-flamingos-world-cup-triumph-89913281",
+   "lede": "Imo State female football administrator and Chief Executive Officer of Imo Angels FC, Jenny Anusiem, has congratulated Nigeria’s Flamingos following their historic triumph at the 2026 FIFA U-17 Women’s World Cup in Rabat, Morocco, while specially celebrating Pattra Oparanmegwa, a product of Imo Angels FC, who was part of the victorious Nigerian squad. The Flamingos crowned an impressive campaign with a thrilling 2-1 victory over Japan to emerge world champions and etch their names in the history books. Anusiem described the triumph as a moment of immense pride for Nigerian football, particularly for Imo State, which had six players represented in the victorious Flamingos squad.",
+   "image": "https://i.headtopics.com/images/2026/11/17/mobilepunch/anusiem-celebrates-flamingos-world-cup-triumph-anusiem-celebrates-flamingos-world-cup-triumph-43B98E13DD80578400DA3C3C30EFFB38-16x9.webp",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "Des Buckingham to lead All Whites through to the 2030 FIFA World Cup",
@@ -8,16 +18,6 @@
    "link": "https://www.friendsoffootballnz.com/2026/11/17/des-buckingham-to-lead-all-whites-through-to-the-2030-fifa-world-cup/",
    "lede": "Former Wellington Phoenix and New Zealand age-group coach Des Buckingham has been named as the next head coach of the All Whites. Buckingham (41) will take up the role on July 1, 2027, and lead the national team through to the 2030 FIFA Men’s World Cup. He will also lead the national men’s U-23 team as they prepare for the 2028 Olympic Games in Los Angeles. Buckingham is in his second season as head coach of Saudi Pro League club Al-Kholood and will complete his commitments there before joining NZ Football.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2023/06/Des-Buckingham.jpeg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
-  {
-   "cat": "GHANA FOOTBALL ASSOCIATION",
-   "title": "Amputee Football World Cup:: Black Challenge storm into Round of 16 with emphatic 6-0 rout of Iraq",
-   "iso": "2026-11-16T22:48:35.000Z",
-   "link": "https://www.ghanafa.org/amputee-football-world-cup-black-challenge-storm-into-round-of-16-with-emphatic-6-0-rout-of-iraq",
-   "lede": "The Black Challenge delivered a stunning performance on Monday, thrashing Iraq 6-0 in their final Group D encounter to secure qualification for the round of 16 at the 2026 WAFF Amputee Football World Cup in Mexico. The two-time African champions produced a commanding display at Lucia II in San Juan de los Lagos, responding emphatically to their difficult start to the tournament with a convincing victory that kept their World Cup campaign alive. Stephen Richard Obeng’s men entered the decisive encounter under pressure after opening their campaign with a 2-0 defeat to former world champions Angola before settling for a 1-1 draw against Colombia on Sunday. However, the Black Challenge put those setbacks behind them in spectacular fashion, taking control of proceedings against their Middle Eastern opponents and showcasing their attacking quality with a six-goal performance.",
-   "image": "https://cdn.ghanafa.org/2026/11/image0-2026-11-16T223137.658-610x400.jpeg",
    "emoji": "🏆",
    "bg": "#3a2d6b"
   },
@@ -32,48 +32,47 @@
    "bg": "#7a5b16"
   },
   {
-   "cat": "THE NEW YORK TIMES",
-   "title": "U.S. dismantles rival Canada to capture IIHF Women’s World Championship gold medal",
-   "iso": "2026-11-16T23:50:39.000Z",
-   "link": "https://www.nytimes.com/athletic/7787633/2026/11/16/usa-gold-medal-iihf-womens-worlds-hockey-canada/",
-   "lede": "The Americans continued their unprecedented run of dominance, easily defeating the Canadians in the women's worlds finale.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16150306/GettyImages-2304966134-scaled.jpg?width=1200&height=630&fit=crop",
+   "cat": "FOOTBALL360.COM.AU",
+   "title": "Socceroos great’s son heading to Under-17s World Cup with Italy and could face Australia",
+   "iso": "2026-11-17T00:48:38.000Z",
+   "link": "https://football360.com.au/gianluca-okon-engstler-italy-u17-world-cup-socceroos-paul-okon/",
+   "lede": "Australian-born Club Brugge sensation Gianluca Okon-Engstler has earned an Italy U17 FIFA World Cup call-up.",
+   "image": "https://football360.com.au/wp-content/uploads/2026/11/GettyImages-2280524004-scaled-e1794870649318.jpg",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "WAIKATO TIMES",
-   "title": "New All Whites coach Des Buckingham to bring ‘deep connection’ to New Zealand football culture",
-   "iso": "2026-11-16T23:44:56.000Z",
-   "link": "https://www.waikatotimes.co.nz/sport/361119125/new-all-whites-coach-des-buckingham-bring-deep-connection-new-zealand-football-culture",
+   "cat": "FOOTBALL360.COM.AU",
+   "title": "Meet the Manchester United teen set to star at the U17 World Cup for Australia",
+   "iso": "2026-11-17T00:48:09.000Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHSVFBeDhKZGxiQ283S2xoZkxERy1fSnJzdVV3MERlXzFMSDdFOGFsU1JGQkpTWkhKMnpISC1XbmJ2eTVYUmVRTTQ2NzZHSUxlWDVRNkdPRDJFdjQ5c2FzazdjcTVndHBXRkIyLWtDdlV3TmRsZThJ?oc=5",
    "lede": "",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "U.S. dismantles rival Canada to capture IIHF Women’s World Championship gold medal",
+   "iso": "2026-11-16T23:50:39.000Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTVfTVgyMmgzallNdGJCRmQzY292Wi0zWXlCREluRVVOb0FBSGVWRHNQbGZDX0VSTEhRcnJSVHNGQkNkSTVLMWpsLTR6c1dHcmViRDlLMFVtczBlZnh0UUxyeXZ1ekwxTG1udjJzc2RNdFQ3TmdBSm9tNDU4N2cybFJVQTlyNzNKRjNlODN2NGVjNTZUS1NRdXgxMy03LWE2Wnc?oc=5",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "WWW.THEPOST.CO.NZ",
+   "title": "New All Whites coach Des Buckingham to bring ‘deep connection’ to New Zealand football culture",
+   "iso": "2026-11-16T23:44:56.000Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXhvV0hRWmNzS3l0SGpMZmxGTmozNVNNQ0hxNHU2Q2xFc3o1NXJWUG5uRzViNHVyZzhIaE9rb3FTRS0tbmF4Rl94T2NSX3FfeGhLX0VsM29ldmtFZVNIYklyeTFhSWF4WHpIUHpYalY4RjVPZERtbFdfQ2J0MXZkYmF1WFloXzhlOGtqa3J2UmJla0Jva3MxVFMwdzBXckVLckR2Q2hUY3FSbDhoVHdPZUcyeGZiWEVZZkJ4ZE41OWpMSEd4UnlR?oc=5",
+   "lede": "",
+   "emoji": "📣",
+   "bg": "#5b2d6b"
   },
   {
    "cat": "FIJIVILLAGE",
    "title": "Junior Bula Boys ready for FIFA U-17 World Cup challenge",
    "iso": "2026-11-16T23:43:10.000Z",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnR5Sl94YkJuYWdfN2JKcnZXWFprdi1oWVllRGZKdDlOOGw2Ynczd216a0Y4a3BwUGhOZVVKaWNTV0VoS0IwcG1UaTdTbzRHNjhFdHJabGMwSGtYVnJ5QW1hWG1KRkVfVUpBMGI3TVdmQURsc2Y1cjNQa0lraS1sLV9DRldkMG1UZFlUd2YtakRHMGxqY0F0bkhB?oc=5",
-   "lede": "",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "THE NEW YORK TIMES",
-   "title": "Leihani Zoric, 14, makes history by becoming women’s world surfing champion",
-   "iso": "2026-11-16T23:42:35.000Z",
-   "link": "https://www.nytimes.com/athletic/7786502/2026/11/16/leihani-zoric-surfing-age-world-champion/",
-   "lede": "Teenager also became surfing's first Indigenous world champion after her triumph in Peru on Sunday.",
-   "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16065506/36883921c024a13970472124a6306dc6625dad8a39f62e9e36dbc02717ee33a0-copy-e1794830160745.jpg?width=1200&height=630&fit=crop",
-   "emoji": "📣",
-   "bg": "#5b2d6b"
-  },
-  {
-   "cat": "SPORTING NEWS",
-   "title": "Portugal roster projection without Cristiano Ronaldo: What 2030 World Cup could look like with soccer legend's retirement",
-   "iso": "2026-11-16T23:20:27.000Z",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa29iejllTURtZll3TDhDSnBrYTFkQXJtdkNOZ2prSGNzVUUzOFhJbXc4MDFQUklDcnN5RmVwYkZxazBFR3J5MjlmUjRDOUtCd3I3SkNJYVp2LUM2LXhZLXNUR1h5T1hOM0FtNUJfeXpTWEZYX3dGb0pLSzYtdUd2bTVQSVRnQWZmQ2toR0o1QkdBOFE3UDR4UDVkWnAxa3RfZjlFQk13T1FaZnoxSzJIN1FMWW5kYW5RZDNlZ3ZNQzNtdmdaenc?oc=5",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
