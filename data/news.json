@@ -1,15 +1,35 @@
 {
- "updated": "2026-11-17T17:47:52.213Z",
+ "updated": "2026-11-17T18:39:40.634Z",
  "news": [
+  {
+   "cat": "LBC",
+   "title": "French Football Federation approves Philippe Diallo’s FIFA presidency candidacy",
+   "iso": "2026-11-17T17:58:42.000Z",
+   "link": "https://www.lbc.co.uk/article/french-football-federation-philippe-diallo-fifa-5HjdmTP_2/",
+   "lede": "Gianni Infantino lost the confidence of some over his controversial plan to sell stakes in a World Cup company to private investors. Enjoy your favourite LBC shows with ad-free Catch Up, weekly competition entries and an exclusive newsletter. Philippe Diallo’s candidacy for the FIFA presidency has been approved by the French Football Federation. UEFA announced on Monday that the 63-year-old had the backing of the national association representatives on its executive committee and the FIFA Council to stand against Gianni Infantino.",
+   "image": "https://images.globalplayer.com/images/856412?crop=16_9&width=1200&signature=4FZYgOM1jK5mQ_PA6kfYfDCp37k=",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "RFI",
    "title": "’Time for another voice’: Diallo launches campaign to dethrone Fifa boss Infantino",
    "iso": "2026-11-17T17:23:44.000Z",
    "link": "https://www.rfi.fr/en/sports/20261117-time-for-another-voice-diallo-launches-campaign-to-dethrone-fifa-boss-infantino",
-   "lede": "Philippe Diallo, head of the French Football Federation, on Tuesday officially launched his campaign to replace Gianni Infantino as president of the game's world ruling body Fifa with a call for change – following a series of scandals that threatened to tear apart the 122-year-old organisation. “The values of our sport have been trampled on,\" said Diallo, moments after receiving the backing of the French Football Federation (FFF) for his candidacy to end Infantino's 11-year reign. “Within a democratic process, it is time for another voice to be heard, one that is more respectful of football.\" In September, the FFF withdrew its support for Infantino's bid for a fourth term, following a string of controversies during and after the 2026 World Cup held this summer in the United States, Mexico and Canada.",
+   "lede": "Philippe Diallo, head of the French Football Federation, on Tuesday officially launched his campaign to replace Gianni Infantino as president of the game's world ruling body Fifa with a call for change following a series of scandals that threatened to tear apart the 122-year-old organisation. “The values of our sport have been trampled on,\" said Diallo, moments after receiving the backing of the French Football Federation (FFF) for his candidacy to end Infantino's 11-year reign. “Within a democratic process, it is time for another voice to be heard, one that is more respectful of football.\" In September, the FFF withdrew its support for Infantino's bid for a fourth term, following a string of controversies during and after the 2026 World Cup held this summer in the United States, Mexico and Canada.",
    "image": "https://s.rfi.fr/media/display/98a5b544-e292-11f1-9efb-c5c0357b2a0c/w:1280/p:16x9/AP26321446725971.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Spanish Media Push for European Alliance Against Morocco’s 2030 World Cup Final Bid",
+   "iso": "2026-11-17T16:42:02.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/11/346797/spanish-media-push-for-european-alliance-against-moroccos-2030-world-cup-final-bid/",
+   "lede": "Casablanca – The competition to host the 2030 FIFA World Cup final is taking an increasingly political turn in Spain, where prominent football commentators are now proposing that UEFA intervene to strengthen the country's position against Morocco. Rather than relying solely on the merits of Madrid's Santiago Bernabéu or Barcelona's Camp Nou, discussions on Spanish radio station COPE have centered on mobilizing European football authorities to pressure FIFA. The latest intervention came from journalist Pedro Martín during Tiempo de Juego, where he argued that Spain would struggle to secure the final through its own influence while Gianni Infantino remained FIFA president. “Spain will achieve nothing by applying pressure alone,” Martín said.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/11/Spanish-Media-Push-for-European-Alliance-Against-Moroccos-2030-World-Cup-Final-Bid.jpeg",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "LIVESCORE",
@@ -17,9 +37,9 @@
    "iso": "2026-11-17T16:16:28.000Z",
    "link": "https://www.livescore.com/en/news/football/croatian-cup/clear-challenge-spanish-federation-sends-fiery-message-to-morocco-over-2030-world-cup-final-goal/",
    "lede": "The Spanish Football Federation has sent a strong message to Morocco concerning the bid to host the final of the 2030 World Cup.The battle between Morocco and Spain to stage the 2030 World Cup final has intensified after recent moves by both sides, and major developments look likely in the coming months.Morocco, Spain and Portugal are co-hosting the 2030 World Cup. Who gets the final, though, is a fierce contest.Morocco's Hassan II Stadium is one of the leading candidates. With a planned capacity of around 115,000, it would become the largest football stadium in the world when it opens, as expected, in 2029. Naturally, each country is doing everything it can to host the most important match in the world.Spain are desperate to host the final at either the Santiago Bernabéu or Camp Nou.",
-   "image": "https://storage.lsmedia1.com/images/web/medium/news_article_default_image_2.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "image": "https://storage.lsmedia1.com/images/web/medium/news_article_default_image_3.jpg",
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "YSSCORES",
@@ -28,28 +48,18 @@
    "link": "https://www.ysscores.com/en/news/14098374/france-coach-praises-development-of-saudi-football",
    "lede": "José Alcocer, the head coach of the France U17 national team, praised the progress Saudi Arabian football has made in recent years ahead of the FIFA World Cup for youth in Qatar. The tournament will take place from November 19 to December 13, featuring Saudi Arabia in Group D alongside France, Uruguay, and Haiti. The Saudi Arabia U-20 team will begin their journey against Uruguay on November 19, followed by a match against France on the 22nd of the same month, before concluding the group stage with a game against Haiti on November 25. Alkhosir stated in remarks to the official website of the FIFA World Cup: \"Saudi Arabia has been doing a great job for a long time, and it has made significant progress.\"",
    "image": "https://imgs.ysscores.com/news/1200/17949309918286.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "DAZN",
-   "title": "'Shades of Cole Palmer': Meet the Barcelona starlet set to shine for Spain at the FIFA U-17 World Cup 2026",
-   "iso": "2026-11-17T15:30:00.000Z",
-   "link": "https://www.dazn.com/en-GB/news/football/barcelona-starlet-ebrima-tunkara-spain-fifa-u-17-world-cup-cole-palmer/rjegphzce18s1qygfbvh6ycxv",
-   "lede": "Spain have another budding talent on their hands who has been compared to Cole Palmer ahead of the FIFA U-17 World Cup 2026. The FIFA U-17 World Cup 2026 is within touching distance as tomorrow's GOATs prepare to make their mark in Qatar. Past tournaments have seen some of football's.",
-   "image": "https://images.daznservices.com/di/library/DAZN_News/9f/cd/ebrima-tunkara_1k29s6dowdwno1d1j69kcto0yq.jpg?t=-339312079",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "ISLE OF MAN TODAY",
-   "title": "Islander leads England into World Cup last 16 after topping group",
-   "iso": "2026-11-17T15:19:03.000Z",
-   "link": "https://www.iomtoday.co.im/sport/islander-leads-england-into-world-cup-last-16-after-topping-group-973398",
-   "lede": "‘To get a clean sheet heading into the round of 16 feels good’. Those were the words of Manx footballer Sean Jackson after captaining England to the top of their group at the World Amputee Football Federation (WAFF) World Cup in Mexico. The former Isle of Man goalkeeper and Marown, Laxey and St George’s player helped his country secure two wins and a draw from their opening three matches to finish top of Group F. England will now face Egypt in the last 16 on Wednesday (November 18), with kick-off at 10.30pm UK time, after an impressive end to the group stage.",
-   "image": "https://www.iomtoday.co.im/tindle-static/image/2026/11/17/14/23/915083496_1454012792887460_6649494335574750763_n.jpeg?trim=0,20,1234,0&width=1200&crop=16:9,smart&quality=75",
    "emoji": "🌎",
    "bg": "#1f4b7a"
+  },
+  {
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Madrid Official Questions Morocco's Role in 2030 World Cup Bid, Dismisses Final Hosting Ambitions",
+   "iso": "2026-11-17T15:55:01.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/11/346784/madrid-official-questions-moroccos-role-in-2030-world-cup-bid-dismisses-final-hosting-ambitions/",
+   "lede": "Rabat - Alberto Tomé, Director General of Sports for the Community of Madrid, expressed his preference for the World Cup final to take place in the Spanish capital, arguing that FIFA should award the decisive match to Madrid. The official has also questioned Morocco's role in the 2030 FIFA World Cup hosting arrangement. Speaking to Spanish newspaper MARCA on Tuesday, Tomé said: “We hope FIFA has sufficient coherence so that the World Cup final can be held in Madrid.” He also questioned Morocco's involvement in the original hosting project, suggesting that the North African country’s addition to the bid complicated what he considered an initially Iberian initiative.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/11/Madrid-Official-Questions-Moroccos-Role-in-2030-World-Cup-Bid-Dismisses-Final-Hosting-Ambitions.jpeg",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
   },
   {
    "cat": "THE GUARDIAN",
@@ -58,16 +68,6 @@
    "link": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
    "lede": "A new film about the historic World Cup quarter-final clash finds new angles for a new generation. “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Marengo when she first approached him to take part in The Match, a documentary about the 1986 World Cup quarter-final between England and Argentina. Flora told an audience at the London film festival premiere of the film that she played her best card then and showed Lineker an image of Maradona with Queen in 1981, during the band’s tour of Argentina.",
    "image": "https://i.guim.co.uk/img/media/ac07672f32988155770ce7d6e940225d73189982/568_267_3182_2544/master/3182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3285b15904c467b931982919eee8f15e",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
-  },
-  {
-   "cat": "SOCCER NEWS",
-   "title": "Goodwin and Cox earn first England call-ups for World Cup play-off",
-   "iso": "2026-11-17T14:36:04.000Z",
-   "link": "https://www.soccernews.com/goodwin-and-cox-earn-first-england-call-ups-for-world-cup-play-off/408293/",
-   "lede": "After impressing for London City Lionesses in the Women's Super League this season, Isobel Goodwin has been called up for England. Gambling should be fun, not something you rely on financially. If you feel like things are getting out of hand, help is available.",
-   "image": "https://www.soccernews.com/og/og-image.png",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
