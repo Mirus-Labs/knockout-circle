@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:46:53.269Z",
+ "updated": "2026-11-18T01:20:29.279Z",
  "news": [
   {
    "cat": "KOMU 8",
@@ -22,14 +22,24 @@
    "bg": "#3a2d6b"
   },
   {
+   "cat": "THE GUARDIAN",
+   "title": "Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
+   "iso": "2026-11-17T19:47:00.000Z",
+   "link": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
+   "lede": "A new film about the historic World Cup quarter-final clash finds new angles for a new generation. “Is there anything new to say about it?” Gary Lineker asked the producer Flora Fernandez-Marengo when she first approached him to take part in The Match, a documentary about the 1986 World Cup quarter-final between England and Argentina. Flora told an audience at the London film festival premiere of the film that she played her best card then and showed Lineker an image of Maradona with Queen in 1981, during the band’s tour of Argentina.",
+   "image": "https://i.guim.co.uk/img/media/ac07672f32988155770ce7d6e940225d73189982/568_267_3182_2544/master/3182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3285b15904c467b931982919eee8f15e",
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
+  },
+  {
    "cat": "FRIENDS OF FOOTBALL",
    "title": "Fern Rebekah Stott joins world football stars in FIFA social impact project",
    "iso": "2026-11-17T19:30:59.000Z",
    "link": "https://www.friendsoffootballnz.com/2026/11/18/fern-rebekah-stott-joins-world-football-stars-in-fifa-social-impact-project/",
    "lede": "Football Fern Rebekah Stott has been selected for a FIFA programme designed to help international footballers use their influence to create positive social change. Stott (33) is among 13 players chosen for the second intake of FIFA’s Player Impact Programme, which provides support and guidance to develop community initiatives. The nine-month programme aims to help players turn their ideas into projects addressing issues such as education, mental health and access to sport. Stott joins a group of international stars including Spain’s World Cup winner Alexia Putellas, Canadian captain Jessie Fleming and England forward Michelle Agyemang.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/11/Rebekah-Stott-FIFA-group.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "MOROCCO WORLD NEWS",
@@ -38,8 +48,8 @@
    "link": "https://www.moroccoworldnews.com/2026/11/346847/spains-morocco-obsession-why-has-the-2030-world-cup-final-become-a-political-battle/",
    "lede": "Rabat - Morocco is increasingly becoming a familiar name in Spain's domestic political debate, and football is not the only reason. With the 2030 FIFA World Cup approaching, Spanish politicians are repeatedly invoking the North African country in arguments about national prestige, political leadership, and Spain's position in the historic three-country hosting project. What was initially presented as a joint opportunity between Morocco, Spain, and Portugal is increasingly taking the shape of a political confrontation, with Morocco becoming a recurring reference in Spain's electoral messaging. The latest intervention came from Alberto Núñez Feijóo, leader of Spain's opposition People's Party (PP), who suggested that Spain should withdraw from organizing the tournament if FIFA awards the final to Morocco.",
    "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/11/morocco-spain-2030-WC-FINALE-.png",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
   },
   {
    "cat": "THE INDEPENDENT",
@@ -48,16 +58,6 @@
    "link": "https://www.independent.co.uk/sport/football/gianni-infantino-world-cup-documents-debbie-hewitt-b3086701.html",
    "lede": "Gianni Infantino was forced to abandon his controversial plan earlier this year. Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Football Association chair Debbie Hewitt is set to inspect documentation in person regarding Fifa’s deeply contentious World Cup private investment proposal, it is understood.",
    "image": "https://static.independent.co.uk/2026/10/24/12/63501f9d3625206df2ad7cec06aacdefY29udGVudHNlYXJjaGFwaSwxNzkyOTI2MjU0-2.86278590.jpg?width=1200&height=800&crop=1200:800",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "ST. LUCIA TIMES",
-   "title": "Regional workshops set to expand as Caribbean eyes more World Cup match officials",
-   "iso": "2026-11-17T18:24:25.000Z",
-   "link": "https://stluciatimes.com/185918/2026/11/regional-workshops-set-to-expand-as-caribbean-eyes-more-world-cup-match-officials/",
-   "lede": "stluciatimes, caribbean, caribbeannews, stlucia, saintlucia, stlucianews, saintlucianews, stluciatimesnews, saintluciatimes, stlucianewsonline, saintlucianewsonline, st lucia news online, stlucia news online, loop news, loopnewsbarbados. Saint Lucia played host to some of the region’s most capable football officials at the 2026 Concacaf Refereeing Caribbean Seminar. The two-day event, one of four taking place across the Caribbean, was hosted at the Harbor Club Hotel and the Daren Sammy Cricket Ground on November 13-14. This development initiative served as the entry point for identifying, developing, and investing in future referees and instructors within the 41-member Concacaf region.",
-   "image": "https://stluciatimes.com/wp-content/uploads/2026/11/DSC06812-scaled.jpg",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
@@ -72,9 +72,9 @@
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "This college football season’s total opposite of a national title game",
-   "iso": "2026-11-17T23:16:19.000Z",
-   "link": "https://www.nytimes.com/athletic/7790356/2026/11/17/worst-college-football-teams-until-saturday/",
+   "title": "The 10 toughest coaching jobs in college football right now: Where does UTEP belong?",
+   "iso": "2026-11-17T23:17:06.000Z",
+   "link": "https://www.nytimes.com/athletic/7788034/2026/11/17/college-football-toughest-coaching-jobs-utep/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
