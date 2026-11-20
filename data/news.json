@@ -1,15 +1,35 @@
 {
- "updated": "2026-11-20T16:24:22.605Z",
+ "updated": "2026-11-20T20:24:30.885Z",
  "news": [
   {
+   "cat": "WWW.SHSOUTHERNER.NET",
+   "title": "Spain Wins It All: 2026 World Cup Champions",
+   "iso": "2026-11-20T19:44:00.000Z",
+   "link": "https://www.shsoutherner.net/features/2026/11/20/spain-wins-it-all-2026-world-cup-champions/",
+   "lede": "The World Cup is the biggest football tournament on the planet.The event happens every four years, where countries from all over the world come together to compete for one trophy. The tournament starts with “group stages”. Teams are put into small groups to play three games each. If a team doesn’t earn enough points in these...",
+   "image": "https://www.shsoutherner.net/wp-content/uploads/2026/11/download-16.jpeg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
+  {
+   "cat": "GHANAIAN TIMES",
+   "title": "Ghana to face Turkey in WAFF Amputee Football World Cup semi-final",
+   "iso": "2026-11-20T15:53:56.000Z",
+   "link": "https://ghanaiantimes.com.gh/ghana-to-face-turkey-in-waff-amputee-football-world-cup-semi-final/",
+   "lede": "Ghana's National Amputee Football Team, the Black Challenge, will face Turkey in the semi-final of the WAFF Amputee Football World Cup 2026 in Mexico. The highly anticipated encounter is scheduled for Saturday, November 21, 2026, at 1:30am. The Black Challenge have fought their way to the last four after a mixed start to the tournament in San Juan de los Lagos, Mexico. Ghana began their campaign with a 2-0 defeat to Angola, before drawing 1-1 with Colombia in their second group match.",
+   "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-14.55.59.jpeg",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
+  },
+  {
    "cat": "BBC",
-   "title": "Wolves host documentary of World Cup fans who did not return",
+   "title": "The tale of the Wolves fans who did not return from a world cup to be shown",
    "iso": "2026-11-20T15:49:48.000Z",
    "link": "https://www.bbc.com/news/articles/cmn4k8gkven1o",
    "lede": "A screening of a documentary about a group of Wolves fans who went to the 1986 World Cup in Mexico and did not return to the Black Country will take place at the club. The group decided not to return to their Stourbridge and Lye homes after attending the global football spectacular, embarking on new lives in the US instead. Gary Allen, who settled in Atlanta and who pitched the documentary, said \"Wolves called us and said 'would you like to do the first screening in the UK at the Molineux? And of course all being Wolves fans we said 'we'd love to'.\"",
    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c31c/live/aceea760-5cdf-11f1-81d4-4b01427112e9.jpg",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "SPORT NEWS AFRICA",
@@ -18,65 +38,44 @@
    "link": "https://sportnewsafrica.com/en/news/amputee-football-morocco-face-brazil-with-world-cup-final-in-sight/",
    "lede": "Morocco face Brazil in the Amputee Football World Cup semi-final on 20 November at 21:30 GMT. After their 4 to 1 win over Angola, the Lions are targeting a first world final. Rieltony LOUBOKO · Author profile · 20/11/2026 15:31 UTC. Synthetic English voice · 3 min 02 s.",
    "image": "https://sportnewsafrica.com/cms/media/g/newsroom-66afc4f1a2ba4b2db60f02df950f30fa.webp",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "GRAPHIC ONLINE",
-   "title": "Ghana amputee national team facing Türkiye Friday night at Football World Cup in Mexico",
-   "iso": "2026-11-20T14:46:32.000Z",
-   "link": "https://www.graphic.com.gh/sports/sports-news/black-challenge-cry-out-over-unpaid-allowances-ahead-of-crucial-semi-final-against-tuerkiye.html",
-   "lede": "Ghana’s Black Challenge are chasing a place in the final of the 2026 Amputee Football World Cup in Mexico when they face defending champions Türkiye on Friday night [Nov 20]. Five matches into the tournament, the players are yet to receive their allowances from the Ministry of Sports and Recreation, according to National Paralympic Committee (NPC) Ghana President Samson Deen. This is despite the Ghana Football Association (GFA) activating a US$500,000 sponsorship allocation from Gold Fields Ghana for amputee football. Deen said the national team had not received its financial entitlements despite its performances at the tournament.",
-   "image": "https://www.graphic.com.gh/images/2026/Nov/20/AMPUTEE_CUP.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
-  },
-  {
-   "cat": "NINE.COM.AU",
-   "title": "Bozza’s warning as coach weighs up big Socceroos decision",
-   "iso": "2026-11-20T13:07:17.000Z",
-   "link": "https://www.nine.com.au/sport/football/news-tony-popovic-socceroos-future-contract-replacement-candidates-20261120-p61fqm.html",
-   "lede": "Mark Bosnich has called for Football Australia to “roll the contract over” and keep Tony Popovic in charge of the Socceroos for at least another 12 months. It is unclear if Popovic has led the nation for the final time as a manager, with his contract set to expire in late January when the Asian Cup was originally scheduled. Popovic took the Socceroos to the round of 32 at the World Cup. Due to the ongoing conflict in the Middle East, the tournament was postponed to December 2027 and Popovic has yet to ink a deal to remain in charge until then.",
-   "image": "https://static.ffx.io/images/$zoom_0.5165%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_245%2C$y_115/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/46553221c292821ebbb1cf6a31145021ba216e46",
    "emoji": "🔥",
    "bg": "#7a2424"
   },
   {
-   "cat": "BAVARIAN FOOTBALL WORKS",
-   "title": "Uli Hoeneß takes jab at Julian Nagelsmann’s handling of World Cup",
-   "iso": "2026-11-20T12:45:00.000Z",
-   "link": "https://www.bavarianfootballworks.com/germany-international-soccer/265217/uli-hoenes-takes-jab-at-julian-nagelsmanns-handling-of-world-cup",
-   "lede": "Uli Hoeneß is already making it pretty clear what he expects from Jürgen Klopp’s Germany tenure, and there might be a little side-eye directed toward the previous regime in the process. Hoeneß believes Klopp will bring discipline, hunger, and a renewed sense of urgency to the national team, while taking a subtle shot at Julian Nagelsmann’s approach to team culture, particularly the infamous family-oriented World Cup camp. ”I don’t think there will be another family outing with player wives and children under Jürgen. I believe he will bring discipline and hunger back.",
-   "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/11/gettyimages-2292379154.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+   "cat": "WWW.OCEANIAFOOTBALL.COM",
+   "title": "Fiji fall to Morocco in FIFA U-17 World Cup™ opener",
+   "iso": "2026-11-20T19:40:36.000Z",
+   "link": "https://www.oceaniafootball.com/fiji-fall-to-morocco-in-fifa-u-17-world-cup-opener/",
+   "lede": "Fiji’s second FIFA U-17 World Cup™ campaign has begun with a comprehensive 6-0 defeat to Morocco at the Aspire Zone in Al Rayyan, Qatar. The Junior Bula Boys conceded three goals in each half and…",
+   "image": "https://i0.wp.com/www.oceaniafootball.com/cms/wp-content/uploads/2026/11/2306087253.jpg?fit=2560%2C1729&ssl=1",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "MODERN GHANA",
-   "title": "Ghana’s Black Challenge face Türkiye in World Cup semi-final amid unpaid allowances",
-   "iso": "2026-11-20T16:06:00.000Z",
-   "link": "https://www.modernghana.com/sports/1546447/ghanas-black-challenge-face-trkiye-in-world.html",
+   "cat": "ESPN",
+   "title": "FIFA Men's Top 50 World Rankings: November 2026",
+   "iso": "2026-11-20T18:04:46.000Z",
+   "link": "https://www.espn.co.uk/football/story/_/id/46664763/fifa-mens-top-50-world-rankings",
    "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "LNT.MA",
-   "title": "Morocco just made history at the amputee football world cup",
-   "iso": "2026-11-20T15:57:34.000Z",
-   "link": "https://lnt.ma/morocco-just-made-history-at-the-amputee-football-world-cup/",
-   "lede": "Moroccan football has another reason to celebrate, and this time, it&rsquo;s a team that deserves a lot more attention. On Thursday, November 19, Morocco&rsquo;s national amputee football team defeated Angola 4–1 in the quarterfinals of the 2026 Amputee Football World Cup, securing a place in the semifinals for the first time in the country&rsquo;s history. [&hellip;].",
-   "image": "https://lnt.ma/wp-content/uploads/2026/09/sport.png",
+   "cat": "BARLAMAN TODAY",
+   "title": "Morocco Reaches Amputee Football World Cup Semifinals for First Time",
+   "iso": "2026-11-20T18:00:07.000Z",
+   "link": "https://barlamantoday.com/2026/11/20/morocco-reaches-amputee-football-world-cup-semifinals-for-first-time/",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "AL JAZEERA",
-   "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
-   "iso": "2026-11-20T15:54:07.000Z",
-   "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome",
-   "lede": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
-   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261115-Algeria-Trip-Day-0-00020-1795186497.jpg?resize=1920%2C1440",
+   "cat": "MOROCCO WORLD NEWS",
+   "title": "Morocco Hosts Dwarf Football World Cup for First Time in Africa",
+   "iso": "2026-11-20T17:49:44.000Z",
+   "link": "https://www.moroccoworldnews.com/2026/11/347517/morocco-hosts-dwarf-football-world-cup-for-first-time-in-africa/",
+   "lede": "Morocco will host the second edition of the Dwarf Football World Cup, bringing the competition to Africa for the first time.",
+   "image": "https://www.moroccoworldnews.com/wp-content/uploads/2026/11/Dwarf-Football-World-Cup.jpeg",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
