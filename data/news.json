@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-22T00:22:47.086Z",
+ "updated": "2026-11-22T01:58:40.500Z",
  "news": [
+  {
+   "cat": "DNE AFRICA",
+   "title": "Amputee World Cup 2026: Morocco and Ghana win way to final",
+   "iso": "2026-11-21T23:05:00.000Z",
+   "link": "https://africa.dailynewsegypt.com/amputee-world-cup-final/",
+   "lede": "Morocco and Ghana will meet in the first all-African final of the Amputee World Cup on Sunday in San Juan de los Lagos, Mexico, after Morocco beat Brazil 2-1 and Ghana knocked out holders Turkey on penalties. Neither country has reached the final of the tournament before. Whatever the result, the title will go to Africa for the first time, a sign of how far the continent’s amputee football has come since Ghana finished sixth at the 2010 and 2012 editions. Morocco came from a goal down to beat Brazil 2-1 in the first semi-final on Friday, according to Hespress and Le360 Sport, which reported in Arabic and French.",
+   "image": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/11/amputee-world-cup-final.jpg",
+   "emoji": "⚽",
+   "bg": "#1d6f42"
+  },
   {
    "cat": "HESPRESS ENGLISH - MOROCCO NEWS",
    "title": "Morocco vs Ghana: When and where to watch the Amputee Football World Cup final",
@@ -8,8 +18,8 @@
    "link": "https://en.hespress.com/149633-morocco-vs-ghana-when-and-where-to-watch-the-amputee-football-world-cup-final.html",
    "lede": "Morocco will face Ghana in the 2026 Amputee Football World Cup final in Mexico on Sunday, November 22, with both countries seeking their first world title in the competition. According to the official schedule published by the World Amputee Football Federation (WAFF), the final will kick off at 7:30 p.m. local time at San Martín Stadium in San Juan de los Lagos, equivalent to 2:30 a.m. Moroccan time on Monday, November 23. Supporters can watch the match live and free of charge on the federation’s official YouTube channel.",
    "image": "https://e2.hespress.com/wp-content/overlay/2026/11/marocamputee-1.jpg?v2",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "HESPRESS ENGLISH - MOROCCO NEWS",
@@ -18,16 +28,6 @@
    "link": "https://en.hespress.com/149631-morocco-beats-guatemala-2-0-in-short-stature-football-world-cup-opener.html",
    "lede": "Morocco’s national short stature football team opened its World Cup campaign with a 2-0 victory over Guatemala on Saturday evening at the Skikina indoor sports hall in Temara. The Atlas Lions secured their first three points in the opening round of the group stage, strengthening their chances of qualifying for the knockout rounds of the tournament, hosted by Morocco. The national team will face Colombia in its second group match before taking on the United States in the final round of group-stage fixtures. The opening victory puts Morocco in a favorable position ahead of its remaining matches as the team seeks to advance in the competition and challenge for the title on home soil.",
    "image": "https://e2.hespress.com/wp-content/overlay/2026/11/871688969_1770678055061509_7863515839278193394_n.jpg?v2",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "DNE AFRICA",
-   "title": "Amputee World Cup 2026: Morocco and Ghana win way to final",
-   "iso": "2026-11-21T22:17:00.000Z",
-   "link": "https://africa.dailynewsegypt.com/amputee-world-cup-final/",
-   "lede": "Morocco and Ghana will meet in the first all-African final of the Amputee World Cup on Sunday in San Juan de los Lagos, Mexico, after Morocco beat Brazil 2-1 and Ghana knocked out holders Turkey on penalties. Neither country has reached the final of the tournament before. Whatever the result, the title will go to Africa for the first time, a sign of how far the continent’s amputee football has come since Ghana finished sixth at the 2010 and 2012 editions. Morocco came from a goal down to beat Brazil 2-1 in the first semi-final on Friday, according to Hespress and Le360 Sport, which reported in Arabic and French.",
-   "image": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/11/amputee-world-cup-final.jpg",
    "emoji": "🏟️",
    "bg": "#7a5b16"
   },
@@ -61,20 +61,19 @@
    "bg": "#0c5c2e"
   },
   {
-   "cat": "FLASHSCORE.COM",
-   "title": "Black Challenge to face Morocco in final of 2026 Amputee World Cup",
-   "iso": "2026-11-21T11:37:11.000Z",
-   "link": "https://www.flashscore.com/news/ghana-s-black-challenge-stun-defending-champions-turkiye-to-reach-first-amputee-world-cup-final/8xbb8ckI/",
-   "lede": "The Black Challenge held their nerve to secure a 4-3 win on penalties following a 1-1 draw after extra time, moving within one win of claiming their maiden world title. The two sides played out a goalless 50 minutes of regulation time before Ghana broke the deadlock nine minutes into extra time. Tournament top scorer Mohammed Mubarik converted from the penalty spot to give the Black Challenge the lead and take his tally to seven goals. Ghana’s advantage was short-lived, however, as Türkiye fought back to restore parity in extra time and force the match into a penalty shootout.",
-   "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/2d41bd2f-4115-4a26-b299-14bf8456d8bb.jpeg",
+   "cat": "MODERN GHANA",
+   "title": "Philanthropist Raii pledges US$8,000 bonus each as Black Challenge World Cup title",
+   "iso": "2026-11-22T01:43:00.000Z",
+   "link": "https://www.modernghana.com/news/1546718/philanthropist-raii-pledges-us8000-bonus-each.html",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "شبكة تواصل الإخبارية",
-   "title": "From Meazza to Maradona: Football’s World Cup heroes in photos",
-   "iso": "2026-11-21T23:35:39.000Z",
-   "link": "https://twaslnews1.twaslnews.com/8091975/",
+   "cat": "THE NEW YORK TIMES",
+   "title": "Yale topples Ivy League champion Harvard at Fenway Park for 5th straight rivalry win",
+   "iso": "2026-11-22T00:18:28.000Z",
+   "link": "https://www.nytimes.com/athletic/7801232/2026/11/21/yale-harvard-football-score-fenway-park/",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
