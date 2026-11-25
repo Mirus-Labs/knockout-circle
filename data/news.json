@@ -1,16 +1,6 @@
 {
- "updated": "2026-11-25T02:49:18.690Z",
+ "updated": "2026-11-25T04:01:34.178Z",
  "news": [
-  {
-   "cat": "BUSINESS & FINANCIAL TIMES",
-   "title": "Gold Fields congratulates Black Challenge on World Cup triumph",
-   "iso": "2026-11-25T00:06:27.000Z",
-   "link": "https://thebftonline.com/article/gold-fields-congratulates-black-challenge-on-world-cup-triumph",
-   "lede": "Gold Fields Ghana Limited has congratulated the national amputee football team, the Black Challenge, following its victory at the 2026 World Amputee Football Cup, describing the achievement as a defining moment in the country's sporting history. Please keep comments respectful. Use plain English for our global readership and avoid using phrasing that could be misinterpreted as offensive. By commenting, you agree to abide by our community guidelines and these terms and conditions.",
-   "image": "https://thebftonline.com/og/article/gold-fields-congratulates-black-challenge-on-world-cup-triumph.jpg?v=71201-khmuwo",
-   "emoji": "⚽",
-   "bg": "#1d6f42"
-  },
   {
    "cat": "3NEWS",
    "title": "Ghana's short-statured team concede 18 goals in opening two World Cup games in Morocco",
@@ -18,27 +8,17 @@
    "link": "https://3news.com/sports/football/ghana-short-statured-football-team-world-cup-morocco-18-goals",
    "lede": "Heavy Group 4 defeats to Egypt and Paraguay left Ghana with one goal scored and 18 conceded at the Short-Statured Football World Cup in Rabat. Ghana's national short-statured football team have conceded 18 goals across their opening two matches at the 2026 Short-Statured World Cup in Rabat, Morocco, after heavy Group 4 defeats to Egypt and Paraguay. The Ghanaian side opened their group campaign on Sunday afternoon with an 8-0 loss to fellow African side Egypt at the Ibn Yassine Indoor Arena. The tough start in Rabat came on the same day the Black Challenge, Ghana's national amputee team, claimed the country's first Amputee Football World Cup trophy by beating Morocco 1-0 in Mexico.",
    "image": "https://media.3news.com/m96ssf-ssf-a-football-resting-in-the-back-of-a-goal-net-on-a-1200x630.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
-  },
-  {
-   "cat": "RNZ",
-   "title": "One goal short, one more chance: PNG Bilums chase FIFA World Cup dream",
-   "iso": "2026-11-24T21:49:13.000Z",
-   "link": "https://www.rnz.co.nz/news/pacific/2770238/one-goal-short-one-more-chance-png-bilums-chase-fifa-world-cup-dream",
-   "lede": "For a few moments after the final whistle in Auckland, Papua New Guinea forward Yvonne Gabong didn't know what to feel. The PNG Bilums had just lost 1-0 to New Zealand in the final of the Oceania qualifiers for the 2027 FIFA Women's World Cup, finishing one goal short of a place in football's biggest tournament. \"We felt like we had won, but somehow we hadn't,\" Gabong said. The disappointment was immense, but so too was the achievement.",
-   "image": "https://media.rnztools.nz/rnz/image/upload/s--NFmZC_El--/t_tohu-badge-facebook/f_auto/q_auto/4JEMECN_491d7f3152a36fe04eb9458a81a12527_avif",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "⚽",
+   "bg": "#1d6f42"
   },
   {
    "cat": "THE NEW YORK TIMES",
-   "title": "Trinity Rodman ruled out for USWNT’s World Cup qualifier vs. El Salvador",
-   "iso": "2026-11-25T02:13:00.000Z",
+   "title": "Trinity Rodman ruled out for USWNT’s World Cup qualifier vs. El Salvador - The Athletic",
+   "iso": "2026-11-25T02:19:18.000Z",
    "link": "https://www.nytimes.com/athletic/7810760/2026/11/24/trinity-rodman-out-uswnt-world-cup-qualifier-el-salvador/",
    "lede": "",
-   "emoji": "🔥",
-   "bg": "#7a2424"
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "THE NEW YORK TIMES",
@@ -46,24 +26,41 @@
    "iso": "2026-11-25T00:43:30.000Z",
    "link": "https://www.nytimes.com/athletic/7807476/2026/11/24/college-football-playoff-bracket-predictions-latest/",
    "lede": "",
-   "emoji": "🌎",
-   "bg": "#1f4b7a"
-  },
-  {
-   "cat": "FIJIVILLAGE",
-   "title": "Fiji’s next generation of footballers could benefit from Bula Boys’ World Cup experience - Auvray",
-   "iso": "2026-11-24T23:47:10.000Z",
-   "link": "https://www.fijivillage.com/u/fiji-s-next-generation-of-footballers-could-benefit-from-bula-boys-world-cup-experience-auvray-d0be66/",
-   "lede": "Fiji’s next generation of footballers could benefit from the lessons the Junior Bula Boys are bringing home from Qatar.Senior national team and Bula.",
-   "image": "https://www.fijivillage.com/news_images/20261125114717_media_6b06192a0d31d0_42263061.jpg",
-   "emoji": "🎯",
-   "bg": "#0c5c2e"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "THE NEW YORK TIMES",
    "title": "Michigan not moving forward with hiring Trev Alberts as athletic director",
    "iso": "2026-11-24T23:04:16.000Z",
    "link": "https://www.nytimes.com/athletic/7808999/2026/11/24/trev-alberts-michigan-ad-hires-falls-through/",
+   "lede": "",
+   "emoji": "🔥",
+   "bg": "#7a2424"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Michigan can’t stop lighting money on fire. A $12M quarterback isn’t the problem - The Athletic",
+   "iso": "2026-11-24T23:03:34.000Z",
+   "link": "https://www.nytimes.com/athletic/7809758/2026/11/24/michigan-trev-alberts-buyouts-whittingham-underwood/",
+   "lede": "",
+   "emoji": "🌎",
+   "bg": "#1f4b7a"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "Notre Dame, CFP in sight, shuts down SMU for fourth straight 10-win season - The Athletic",
+   "iso": "2026-11-24T22:19:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7801623/2026/11/21/notre-dame-smu-result-highlights-cfp/",
+   "lede": "",
+   "emoji": "🎯",
+   "bg": "#0c5c2e"
+  },
+  {
+   "cat": "THE NEW YORK TIMES",
+   "title": "The 24-team Playoff effect: How much more would this college football weekend matter?",
+   "iso": "2026-11-24T22:15:00.000Z",
+   "link": "https://www.nytimes.com/athletic/7795841/2026/11/20/college-football-schedule-24-team-playoff/",
    "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
@@ -72,7 +69,7 @@
    "cat": "THE NEW YORK TIMES",
    "title": "How to watch the College Football Playoff rankings show: Shake-ups coming after wild week",
    "iso": "2026-11-24T22:14:54.000Z",
-   "link": "https://www.nytimes.com/athletic/7806820/2026/11/24/college-football-playoff-rankings-show-big-ten-streaming/",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFdfY0xUdkhMMHVmMnR5QlJ6UF9zU200alNQekJaRUVFelJYUHAzVHRhZkI2WTQwMHdUZjZBbkVqTTNpUXZlOFFzYjg0eVQyNTdoMkZkNDZ4U2ZoVDhNSVhka2IwODNHTDhtU0xrdDNGYWw3M0tvdUpSVXlyeVNhSjN0WjhsdmRIbGdBQ0pqY3J5cVlCaldyeUZYb2o4QzZZMzV3SDc2YTMwOE5pb0E?oc=5",
    "lede": "",
    "emoji": "🧤",
    "bg": "#2f5d2a"
