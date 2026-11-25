@@ -1,8 +1,20 @@
 {
- "updated": "2026-11-25T02:49:23.644Z",
+ "updated": "2026-11-25T13:06:00.015Z",
  "source": "FIFA Training Centre",
  "sourceUrl": "https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php",
  "matches": {
+  "1": {
+   "matchNumber": 1,
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M01-QAT-V-PAN.pdf",
+   "source": "FIFA Training Centre",
+   "parseError": "report identity did not validate"
+  },
+  "2": {
+   "matchNumber": 2,
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M02-EGY-V-GRE.pdf",
+   "source": "FIFA Training Centre",
+   "parseError": "report identity did not validate"
+  },
   "3": {
    "parserVersion": 4,
    "matchNumber": 3,
@@ -176,9 +188,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M03-CAN-V-BIH-V2.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M03-KOR-V-UGA.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:29.121Z"
+   "updatedAt": "2026-07-11T19:24:29.121Z",
+   "parseError": "report identity did not validate"
   },
   "4": {
    "parserVersion": 4,
@@ -353,9 +366,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M04-USA-V-PAR.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M04-NCL-V-ECU.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:35.516Z"
+   "updatedAt": "2026-07-11T19:24:35.516Z",
+   "parseError": "report identity did not validate"
   },
   "5": {
    "parserVersion": 4,
@@ -524,9 +538,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M05-HAI-V-SCO.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M05-ARG-V-AUS.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:32.412Z"
+   "updatedAt": "2026-07-11T19:24:32.412Z",
+   "parseError": "report identity did not validate"
   },
   "6": {
    "parserVersion": 4,
@@ -701,9 +716,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M06-AUS-V-TUR.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M06-MOZ-V-DEN.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:36.282Z"
+   "updatedAt": "2026-07-11T19:24:36.282Z",
+   "parseError": "report identity did not validate"
   },
   "7": {
    "parserVersion": 4,
@@ -878,9 +894,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M07-BRA-V-MAR%20POST-V2.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M07-FRA-V-HAI.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:33.239Z"
+   "updatedAt": "2026-07-11T19:24:33.239Z",
+   "parseError": "report identity did not validate"
   },
   "8": {
    "parserVersion": 4,
@@ -1055,9 +1072,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M08-QAT-V-SUI.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M08-KSA-V-URU.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:29.457Z"
+   "updatedAt": "2026-07-11T19:24:29.457Z",
+   "parseError": "report identity did not validate"
   },
   "9": {
    "parserVersion": 4,
@@ -1232,9 +1250,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M09-CIV-V-ECU.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M09-ITA-V-JAM.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:38.670Z"
+   "updatedAt": "2026-07-11T19:24:38.670Z",
+   "parseError": "report identity did not validate"
   },
   "10": {
    "parserVersion": 4,
@@ -1409,9 +1428,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M10-GER-V-CUW-V2.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M10-CIV-V-UZB.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:39.367Z"
+   "updatedAt": "2026-07-11T19:24:39.367Z",
+   "parseError": "report identity did not validate"
   },
   "11": {
    "parserVersion": 4,
@@ -1586,9 +1606,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M11-NED-V-JPN.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M11-SEN-V-CRO.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:41.826Z"
+   "updatedAt": "2026-07-11T19:24:41.826Z",
+   "parseError": "report identity did not validate"
   },
   "12": {
    "parserVersion": 4,
@@ -1763,9 +1784,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M12-SWE-V-TUN.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M12-CUB-V-TJK.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:42.433Z"
+   "updatedAt": "2026-07-11T19:24:42.433Z",
+   "parseError": "report identity did not validate"
   },
   "13": {
    "parserVersion": 4,
@@ -1940,9 +1962,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M13-KSA-V-URU.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M13-MLI-V-NZL.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:46.908Z"
+   "updatedAt": "2026-07-11T19:24:46.908Z",
+   "parseError": "report identity did not validate"
   },
   "14": {
    "parserVersion": 4,
@@ -2111,9 +2134,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M14-ESP-V-CPV.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M14-BEL-V-VIE.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:47.232Z"
+   "updatedAt": "2026-07-11T19:24:47.232Z",
+   "parseError": "report identity did not validate"
   },
   "15": {
    "parserVersion": 4,
@@ -2288,9 +2312,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M15-IRN-V-NZL.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M15-ESP-V-CHN.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:44.536Z"
+   "updatedAt": "2026-07-11T19:24:44.536Z",
+   "parseError": "report identity did not validate"
   },
   "16": {
    "parserVersion": 4,
@@ -2465,9 +2490,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M16-BEL-V-EGY.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M16-FIJ-V-MAR.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:44.909Z"
+   "updatedAt": "2026-07-11T19:24:44.909Z",
+   "parseError": "report identity did not validate"
   },
   "17": {
    "parserVersion": 4,
@@ -2813,9 +2839,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M18-IRQ-V-NOR.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M18-TAN-V-CRC.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:49.234Z"
+   "updatedAt": "2026-07-11T19:24:49.234Z",
+   "parseError": "report identity did not validate"
   },
   "19": {
    "parserVersion": 4,
@@ -3509,9 +3536,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M22-ENG-V-CRO.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M22-CMR-V-VEN.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:56.828Z"
+   "updatedAt": "2026-07-11T19:24:56.828Z",
+   "parseError": "report identity did not validate"
   },
   "23": {
    "parserVersion": 4,
@@ -3680,9 +3708,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M23-POR-V-COD.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M23-JPN-V-COL.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:53.429Z"
+   "updatedAt": "2026-07-11T19:24:53.429Z",
+   "parseError": "report identity did not validate"
   },
   "24": {
    "parserVersion": 4,
@@ -3851,9 +3880,10 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M24-UZB-V-COL-V2.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M24-SRB-V-HON.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:53.796Z"
+   "updatedAt": "2026-07-11T19:24:53.796Z",
+   "parseError": "report identity did not validate"
   },
   "25": {
    "parserVersion": 4,
