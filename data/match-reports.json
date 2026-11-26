@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:30:58.802Z",
+ "updated": "2026-11-26T23:21:26.706Z",
  "source": "FIFA Training Centre",
  "sourceUrl": "https://www.fifatrainingcentre.com/en/fifa-world-cup-2026/match-report-hub.php",
  "matches": {
@@ -1428,10 +1428,9 @@
      "cards": null
     }
    },
-   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fu17wc/2026/PMSR-M10-CIV-V-UZB.pdf",
+   "reportUrl": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M10-GER-V-CUW-V2.pdf",
    "source": "FIFA Training Centre",
-   "updatedAt": "2026-07-11T19:24:39.367Z",
-   "parseError": "report identity did not validate"
+   "updatedAt": "2026-11-26T23:21:25.092Z"
   },
   "11": {
    "parserVersion": 4,
