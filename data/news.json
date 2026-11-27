@@ -1,15 +1,25 @@
 {
- "updated": "2026-11-27T05:24:34.854Z",
+ "updated": "2026-11-27T08:05:14.197Z",
  "news": [
   {
-   "cat": "PENTICTON HERALD",
-   "title": "Canada falls to Uruguay 84-78 in FIBA Americas World Cup qualifying",
-   "iso": "2026-11-27T00:53:10.000Z",
-   "link": "https://www.pentictonherald.ca/sports/national_sports/article_97161115-a622-5fec-8ef4-ca5910bfb055.html",
-   "lede": "MONTEVIDEO - Canada's men's basketball team has its ticket booked for the 2027 FIBA World Cup in Qatar. Kelly Olynyk had a game-high 21 points but it wasn't enough as Canada fell 84-78 to Uruguay on Thursday in FIBA Americas World Cup qualifying action. However, Canada got some help with Argentina beating the Bahamas 102-65 in a later game. Canada, the reigning World Cup bronze medallist, is the lone team from the two Americas groups to earn a World Cup berth so far.",
-   "image": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/c/9b/c9bb93ad-fd75-50b4-9e51-9ea3dd187a8b/6b08d68b666cb.image.jpg?crop=640%2C336%2C0%2C45",
+   "cat": "YAHOO",
+   "title": "🥐 From 2030 World Cup final to Haaland bombshell: Friday's top 5️⃣",
+   "iso": "2026-11-27T07:55:00.000Z",
+   "link": "https://ca.sports.yahoo.com/news/2030-world-cup-final-haaland-075500844.html",
+   "lede": "Friday, November 27, 2026 kicks off with football's agenda heating up amid boardroom battles, transfer rumours and European setbacks. The political debate over the venue for the 2030 World Cup final, ... The political debate ov...",
+   "image": "https://s.yimg.com/lo/mysterio/api/308f64db9fc28fb39115de314a3e23b3cfc40b1a109eba8c8529eddc1e68d847/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F48bb6b3ea4f989049d46d3706e62d83e.jpg",
    "emoji": "⚽",
    "bg": "#1d6f42"
+  },
+  {
+   "cat": "KELOWNA COURIER",
+   "title": "Canada men earn 2027 FIBA World Cup berth thanks to Argentina's qualifying win",
+   "iso": "2026-11-27T02:47:07.000Z",
+   "link": "https://www.kelownadailycourier.ca/sports/national_sports/article_b644a4a6-f36b-5af9-89aa-d091fd862b4d.html",
+   "lede": "MONTEVIDEO - Canada's men's basketball team has its ticket booked for the 2027 FIBA World Cup in Qatar. Kelly Olynyk had a game-high 21 points but it wasn't enough as Canada fell 84-78 to Uruguay on Thursday in FIBA Americas World Cup qualifying action. However, Canada got some help with Argentina beating the Bahamas 102-65 in a later game. Canada, the reigning World Cup bronze medallist, is the lone team from the two Americas groups to earn a World Cup berth so far.",
+   "image": "https://bloximages.newyork1.vip.townnews.com/kelownadailycourier.ca/content/tncms/assets/v3/editorial/4/c6/4c6e97c9-9155-5a8d-a0d2-0ce232859785/6b08d65b00d78.image.jpg?crop=640%2C336%2C0%2C45",
+   "emoji": "🏆",
+   "bg": "#3a2d6b"
   },
   {
    "cat": "FRIENDS OF FOOTBALL",
@@ -18,8 +28,8 @@
    "link": "https://www.friendsoffootballnz.com/2026/11/27/football-ferns-to-face-familiar-foe-philippines-in-friendly-home-internationals/",
    "lede": "For the first time since 2024, the Football Ferns are back at home against non-OFC opposition, with the Philippines visiting for a two-match series at Porirua Park. The first match kicks off on Sunday afternoon, and the teams meet again next Friday evening. Both teams are preparing for the 2027 FIFA Women’s World Cup in Brazil, which kicks off next July. They will find out their group stage opponents at the draw on December 12.",
    "image": "https://www.friendsoffootballnz.com/wp-content/uploads/2026/11/Jacklyn-Sawicki-Philippines.jpg",
-   "emoji": "🏆",
-   "bg": "#3a2d6b"
+   "emoji": "🏟️",
+   "bg": "#7a5b16"
   },
   {
    "cat": "NEW AFRICAN MAGAZINE",
@@ -28,8 +38,8 @@
    "link": "https://newafricanmagazine.com/sports/football/world-cup-2026-african-fans-memorable-adventures",
    "lede": "Having gained global attention with their 2023 journey from Ghana to the UK, which took 16 days and saw them clock up around 10,000km, this new challenge took them even further. Setting off on 26 April, the drivers traversed three continents by car to cheer on Ghana’s Black Stars, passing through 12 countries and taking a trans-oceanic journey from London to New York. The journey was not all smooth, with a 48-hour Mauritanian border delay, road connectivity gaps and spare-part sourcing difficulties, to name a few problems. They arrived in Toronto, Canada, to a rousing reception, in time for their team’s opening game on 17 June, and followed the Black Stars until they took their final bow in the Round of 32, losing 1-0 to Colombia.",
    "image": "https://newafricanmagazine.com/wp-content/uploads/2026/11/Wanderlust-Trucks1.jpg",
-   "emoji": "🏟️",
-   "bg": "#7a5b16"
+   "emoji": "🔥",
+   "bg": "#7a2424"
   },
   {
    "cat": "HESPRESS ENGLISH - MOROCCO NEWS",
@@ -38,46 +48,34 @@
    "link": "https://en.hespress.com/149989-morocco-reach-world-cup-semifinals-with-3-0-win-over-mexico-in-little-peoples-football.html",
    "lede": "Morocco’s national short stature football team advanced to the World Cup semifinals after defeating Mexico 3-0 in their quarterfinal match on Thursday evening at the Skikina Indoor Sports Hall in Temara. The national team, coached by Issam Naciri, has maintained an unbeaten run throughout the tournament. Morocco finished top of Group A with seven points, recording a 2-0 win over Guatemala, a 9-0 victory against the United States and a 1-1 draw with Colombia. Morocco will face the winner of Friday’s quarterfinal between Colombia and Bolivia, scheduled for 6 p.m., as they seek to secure a place in the final.",
    "image": "https://e2.hespress.com/wp-content/overlay/2026/11/equipe-du-maroc.webp?v2",
-   "emoji": "🔥",
-   "bg": "#7a2424"
-  },
-  {
-   "cat": "NEW AFRICAN MAGAZINE",
-   "title": "Is the future of football Black?",
-   "iso": "2026-11-26T22:21:43.000Z",
-   "link": "https://newafricanmagazine.com/opinion/african-voices/is-the-future-of-football-black",
-   "lede": "So football did not come home (to England) after all, 60 years after 1966. And who can cry for Argentina except the greatest player of our time, Lionel Messi, saying his farewell to us? He wept as Spain, playing the kind of football that leaves opponents awed, became the team that didn’t know how to lose. Spain were awesome – conceding just one goal throughout the tournament and adding to their impressive 38-game unbeaten run, stretching back to 2024.",
-   "image": "https://newafricanmagazine.com/wp-content/uploads/2026/11/000_C2LL6UV.jpg",
    "emoji": "🌎",
    "bg": "#1f4b7a"
   },
   {
-   "cat": "NEW AFRICAN MAGAZINE",
-   "title": "Is the future of football Black? (Part 4)",
-   "iso": "2026-11-26T22:20:02.000Z",
-   "link": "https://newafricanmagazine.com/opinion/african-voices/is-the-future-of-football-black-part-4",
-   "lede": "Main image: Yugoslav forward Dusan Bajevic (R) heads the ball past substitute goalkeeper Dimbi Tubilandu from Zaire to score a goal on 18 June 1974 in Gelsenkirchen during the World Cup first-round soccer match between Yugoslavia and Zaire. Bajevic scored three goals as Yugoslavia beat Zaire 9-0. For readers who missed Part 3, let me recap. Black Africa (otherwise known as Sub-Saharan Africa was going to the FIFA World Cup for the first time in 1974.",
-   "image": "https://newafricanmagazine.com/wp-content/uploads/2026/11/000_APP2001101607674.jpg",
+   "cat": "MODERN GHANA",
+   "title": "GFA boss Kurt Okraku congratulates Black Challenge after historic World Cup triumph",
+   "iso": "2026-11-27T07:18:00.000Z",
+   "link": "https://www.modernghana.com/sports/1548418/gfa-boss-kurt-okraku-congratulates-black-challenge.html",
+   "lede": "",
    "emoji": "🎯",
    "bg": "#0c5c2e"
   },
   {
-   "cat": "NEW AFRICAN MAGAZINE",
-   "title": "Is the future of football Black? (Part 3)",
-   "iso": "2026-11-26T22:20:02.000Z",
-   "link": "https://newafricanmagazine.com/opinion/african-voices/is-the-future-of-football-black-part-3",
-   "lede": "Main image: Morocco’s goalkeeper Kassou Allal (L) tries to stop a kick of Peru’s soccer player Orlando De La Torre (standing) as Moroccan Houmane Jarir (behind) looks on 06 June 1970 in Leon, during the World Cup soccer match between Peru and Morocco. Over the past three weeks, I have taken time to provide the empirical evidence accumulated over the past 40 years showing how global football has been turning Black, and how in the next 40 years, all things being equal, it would be super dominated by Black players. I may be lying peacefully in my grave when it happens, and when it does, please don’t dig me up to disturb my peace because I would have told you so in 2026. Remarkably, the humongous changes in the careers of Black players have happened in our very lifetime, short as it is.",
-   "image": "https://newafricanmagazine.com/wp-content/uploads/2026/11/000_APP2002021255137.jpg",
+   "cat": "MODERN GHANA",
+   "title": "Samson Deen targets third straight African title after Ghana’s World Cup triumph",
+   "iso": "2026-11-27T07:10:00.000Z",
+   "link": "https://www.modernghana.com/sports/1548417/samson-deen-targets-third-straight-african-title.html",
+   "lede": "",
    "emoji": "📣",
    "bg": "#5b2d6b"
   },
   {
-   "cat": "FREE MALAYSIA TODAY",
-   "title": "‘Difficult’ to topple Infantino, says Norway football boss",
-   "iso": "2026-11-26T21:58:00.000Z",
-   "link": "https://www.freemalaysiatoday.com/category/sports/2026/11/27/difficult-to-topple-infantino-says-norway-football-boss",
-   "lede": "Norwegian Football Federation president Lise Klaveness hoped Fifa presidential candidates would unite against Gianni Infantino in the upcoming election. (EPA Images pic) OSLO: The head of the Norwegian Football Federation Lise Klaveness, a fierce critic of Fifa president Gianni Infantino, acknowledged Thursday it would be \"difficult\" to topple him but the possibility was \"still in play\". Klaveness has been critical of Infantino since 2022 when the World Cup was held in Qatar, and called for his resignation in August after several controversies during this year's World Cup hosted by the United States, Canada and Mexico. \"It will be difficult\" to dethrone Infantino, Klaveness, a lawyer and former national squad player, told foreign media in Oslo on Thursday.",
-   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/11/b11a05d8-62fc-4e61-b42c-639bc8f3045c-Lise-Klaveness-EPA.jpg",
+   "cat": "PULSE GHANA",
+   "title": "GFA boss Kurt Okraku hails Black Challenge after historic 2026 Amputee Football World Cup triumph",
+   "iso": "2026-11-27T06:33:45.000Z",
+   "link": "https://www.pulse.com.gh/story/gfa-boss-kurt-okraku-hails-black-challenge-after-historic-2026-amputee-football-world-cup-triumph-2026112700530378631",
+   "lede": "Ghana's Black Challenge received a triumphant welcome in Accra after winning the 2026 WAFF Amputee Football World Cup in Mexico.",
+   "image": "https://sportal365images.com/process/smp-images-production/pulse.com.gh/27112026/e5acb42c-5c77-4514-9dc2-f73e62d0c297.jpg?operations=crop(0:0:988:556),autocrop(1200:630)",
    "emoji": "🧤",
    "bg": "#2f5d2a"
   }
